@@ -1,0 +1,23 @@
+-- Pequenos Heróis da Bíblia | Schema inicial Supabase
+create extension if not exists pgcrypto;
+create table if not exists public.parent_profiles (id uuid primary key references auth.users(id) on delete cascade, display_name text not null default 'Responsável', created_at timestamptz not null default now());
+create table if not exists public.child_profiles (id uuid primary key default gen_random_uuid(), parent_id uuid not null references public.parent_profiles(id) on delete cascade, nickname text not null check(char_length(nickname) between 1 and 24), avatar_key text not null default 'hero-1', created_at timestamptz not null default now());
+create table if not exists public.child_progress (child_id uuid primary key references public.child_profiles(id) on delete cascade, completed_story_ids text[] not null default '{}', xp integer not null default 0 check(xp>=0), correct_answers integer not null default 0 check(correct_answers>=0), challenge_completed_on date, updated_at timestamptz not null default now());
+create table if not exists public.child_achievements (id uuid primary key default gen_random_uuid(), child_id uuid not null references public.child_profiles(id) on delete cascade, achievement_key text not null, earned_at timestamptz not null default now(), unique(child_id,achievement_key));
+create table if not exists public.family_subscriptions (id uuid primary key default gen_random_uuid(), parent_id uuid not null references public.parent_profiles(id) on delete cascade, plan_key text not null default 'free' check(plan_key in ('free','family')), status text not null default 'inactive' check(status in ('inactive','trialing','active','past_due','cancelled')), provider text, provider_customer_id text, provider_subscription_id text, current_period_end timestamptz, created_at timestamptz not null default now(), updated_at timestamptz not null default now());
+alter table public.parent_profiles enable row level security;
+alter table public.child_profiles enable row level security;
+alter table public.child_progress enable row level security;
+alter table public.child_achievements enable row level security;
+alter table public.family_subscriptions enable row level security;
+create policy "parent reads own profile" on public.parent_profiles for select to authenticated using(id=auth.uid());
+create policy "parent updates own profile" on public.parent_profiles for update to authenticated using(id=auth.uid()) with check(id=auth.uid());
+create policy "parent creates own profile" on public.parent_profiles for insert to authenticated with check(id=auth.uid());
+create policy "parent manages own children" on public.child_profiles for all to authenticated using(parent_id=auth.uid()) with check(parent_id=auth.uid());
+create policy "parent manages child progress" on public.child_progress for all to authenticated using(exists(select 1 from public.child_profiles c where c.id=child_id and c.parent_id=auth.uid())) with check(exists(select 1 from public.child_profiles c where c.id=child_id and c.parent_id=auth.uid()));
+create policy "parent reads child achievements" on public.child_achievements for select to authenticated using(exists(select 1 from public.child_profiles c where c.id=child_id and c.parent_id=auth.uid()));
+create policy "parent adds child achievements" on public.child_achievements for insert to authenticated with check(exists(select 1 from public.child_profiles c where c.id=child_id and c.parent_id=auth.uid()));
+create policy "parent reads own subscription" on public.family_subscriptions for select to authenticated using(parent_id=auth.uid());
+create or replace function public.handle_new_user() returns trigger language plpgsql security definer set search_path=public as $$ begin insert into public.parent_profiles(id,display_name) values(new.id,coalesce(new.raw_user_meta_data->>'display_name','Responsável')) on conflict(id) do nothing; return new; end; $$;
+drop trigger if exists on_auth_user_created on auth.users;
+create trigger on_auth_user_created after insert on auth.users for each row execute procedure public.handle_new_user();
