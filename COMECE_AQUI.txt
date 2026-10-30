@@ -1,0 +1,11 @@
+PEQUENOS HERÓIS — WEBAPP COMPLETO
+
+1. Extraia este ZIP.
+2. Abra README.md: contém o passo a passo GitHub + Supabase + Stripe + Vercel.
+3. Para ver localmente: instale Node.js 24, abra o terminal nesta pasta, execute npm ci e npm run dev.
+4. As 40 histórias e 160 imagens já estão incluídas. A leitura acontece dentro do app.
+5. Narração: os áudios ainda não foram gravados. Veja docs/NARRACAO.md para importar voz humana ou gerar voz de IA natural com sua conta ElevenLabs.
+6. Crie repositório PRIVADO, porque esta pasta inclui o conteúdo comercial completo. Nunca envie .env ou chaves secretas.
+7. Antes de vender: configure suas contas, publique as funções, teste checkout/webhook/auth e personalize dados de atendimento/termos.
+
+Planos preparados: R$ 47 por mês e R$ 197 por ano. Nenhuma cobrança real foi executada nesta entrega.

@@ -1,0 +1,19 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { filterStories, cleanProgress, mergeProgress } from '../src/core.js';
+const stories=[{id:1,title:'A Criação do Mundo',reference:'Gênesis 1–2',description:'A beleza da vida.',testament:'antigo'},{id:30,title:'Jesus e as Crianças',reference:'Marcos 10',description:'Jesus acolhe.',testament:'novo'}];
+test('busca encontra títulos com ou sem acentos e combina testamento',()=>{
+ assert.deepEqual(filterStories(stories,{query:'criacao',testament:'todos'}).map(s=>s.id),[1]);
+ assert.deepEqual(filterStories(stories,{query:'jesus',testament:'antigo'}),[]);
+ assert.equal(filterStories(stories,{query:'marcos',testament:'novo'}).length,1);
+});
+test('favoritos não inclui os livros apenas concluídos',()=>{
+ const progress={1:{favorite:false,completed:true},30:{favorite:true}};
+ assert.deepEqual(filterStories(stories,{favorites:true,progress}).map(s=>s.id),[30]);
+});
+test('progresso descarta IDs desconhecidos e valores inválidos de armazenamento',()=>{
+ assert.deepEqual(cleanProgress({1:{part:999,completed:'false',favorite:true},41:{part:1},2:null}),{1:{story_id:1,part:3,completed:false,favorite:true}});
+});
+test('progresso remoto mais recente substitui o estado local da mesma conta',()=>{
+ assert.equal(mergeProgress({1:{part:2,favorite:true}},[{story_id:1,part:0,favorite:false,completed:false}])[1].favorite,false);
+});

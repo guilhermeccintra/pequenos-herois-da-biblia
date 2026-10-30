@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "A Criação do Mundo",
+    "subtitle": "Cada coisa em seu lugar",
+    "reference": "Gênesis 1–2",
+    "description": "Antes dos jardins, dos pássaros e das estrelas, Deus começa sua criação. Uma história sobre a beleza da vida, o valor de cada pessoa e o presente do descanso.",
+    "testament": "antigo",
+    "cover": "/images/covers/01.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 2,
+    "title": "Adão e Eva no Jardim do Éden",
+    "subtitle": "Uma escolha e um novo caminho",
+    "reference": "Gênesis 2–3",
+    "description": "No jardim do Éden, Adão e Eva recebem cuidado, liberdade e um limite. Uma escolha difícil traz consequências, mas a história também revela a continuidade do cuidado de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/02.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 3,
+    "title": "Noé e a Arca",
+    "subtitle": "Esperança depois da chuva",
+    "reference": "Gênesis 6–9",
+    "description": "Noé constrói uma grande arca e atravessa uma longa espera com sua família e os animais. Depois das águas, um ramo de oliveira e um arco anunciam um recomeço.",
+    "testament": "antigo",
+    "cover": "/images/covers/03.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 4,
+    "title": "A Torre de Babel",
+    "subtitle": "Aprendendo a ouvir de novo",
+    "reference": "Gênesis 11:1–9",
+    "description": "Um povo decide construir uma cidade e uma torre para se tornar famoso. Quando as línguas se confundem, seus planos mudam, e as pessoas se espalham pela terra.",
+    "testament": "antigo",
+    "cover": "/images/covers/04.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 5,
+    "title": "Abraão e a Promessa de Deus",
+    "subtitle": "Um céu cheio de esperança",
+    "reference": "Gênesis 12; 15; 17",
+    "description": "Abraão deixa uma terra conhecida e aprende a esperar por uma promessa que parece impossível. Sob um céu estrelado, sua caminhada revela confiança, dúvidas e a fidelidade de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/05.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 6,
+    "title": "Abraão e Isaque: Uma Grande Prova de Fé",
+    "subtitle": "O chamado que interrompeu tudo",
+    "reference": "Gênesis 22",
+    "description": "Abraão e Isaque sobem uma montanha em uma passagem difícil da Bíblia. No momento decisivo, Deus impede que Isaque seja ferido e oferece um caminho de volta à vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/06.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 7,
+    "title": "Esaú e Jacó: Dois Irmãos Diferentes",
+    "subtitle": "O longo caminho de dois irmãos",
+    "reference": "Gênesis 25–33",
+    "description": "Esaú e Jacó crescem com gostos diferentes e uma relação marcada por escolhas injustas. Depois de muitos anos separados, um encontro abre espaço para a reconciliação entre os irmãos.",
+    "testament": "antigo",
+    "cover": "/images/covers/07.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 8,
+    "title": "José e Seus Sonhos",
+    "subtitle": "Uma estrada além dos sonhos",
+    "reference": "Gênesis 37",
+    "description": "José tem sonhos surpreendentes, mas sua família enfrenta favoritismo e ciúmes. Uma atitude cruel dos irmãos o leva para longe de casa e deixa sua história esperando um recomeço.",
+    "testament": "antigo",
+    "cover": "/images/covers/08.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 9,
+    "title": "José no Egito: Da Prisão ao Palácio",
+    "subtitle": "Quando a esperança encontra um caminho",
+    "reference": "Gênesis 39–45",
+    "description": "José enfrenta injustiças no Egito, interpreta sonhos e ajuda a preparar o país para uma grande fome. O reencontro com seus irmãos traz lágrimas, responsabilidade e uma possibilidade de reconciliação.",
+    "testament": "antigo",
+    "cover": "/images/covers/09.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 10,
+    "title": "Moisés e a Sarça Ardente",
+    "subtitle": "Um chamado no meio do deserto",
+    "reference": "Êxodo 3–4",
+    "description": "Ao cuidar de um rebanho, Moisés vê uma sarça que arde sem se consumir. Deus o chama para uma tarefa difícil e responde às suas dúvidas com orientação e companhia.",
+    "testament": "antigo",
+    "cover": "/images/covers/10.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 11,
+    "title": "As Dez Pragas do Egito",
+    "subtitle": "O longo caminho até a liberdade",
+    "reference": "Êxodo 7–12",
+    "description": "Moisés e Arão enfrentam a resistência do faraó enquanto o Egito atravessa dez pragas. Entre avisos, sofrimento e a primeira Páscoa, o povo de Israel se prepara para partir.",
+    "testament": "antigo",
+    "cover": "/images/covers/11.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 12,
+    "title": "A Travessia do Mar Vermelho",
+    "subtitle": "Um caminho onde ninguém esperava",
+    "reference": "Êxodo 13–14",
+    "description": "Após deixar o Egito, Israel se vê entre o mar e um exército. Deus abre um caminho inesperado, e Moisés acompanha o povo numa travessia que será sempre lembrada.",
+    "testament": "antigo",
+    "cover": "/images/covers/12.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 13,
+    "title": "Os Dez Mandamentos",
+    "subtitle": "Aprender a viver em liberdade",
+    "reference": "Êxodo 19–20",
+    "description": "Ao pé do monte Sinai, o povo liberto do Egito recebe orientações para sua vida com Deus e com o próximo. Dez mandamentos apresentam caminhos de respeito, fidelidade e justiça.",
+    "testament": "antigo",
+    "cover": "/images/covers/13.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 14,
+    "title": "Josué e a Queda das Muralhas de Jericó",
+    "subtitle": "Sete dias diante da cidade",
+    "reference": "Josué 6",
+    "description": "Diante das muralhas fechadas de Jericó, Josué recebe uma orientação inesperada. O povo marcha em silêncio, os sacerdotes tocam trombetas, e uma promessa de proteção à família de Raabe é cumprida.",
+    "testament": "antigo",
+    "cover": "/images/covers/14.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 15,
+    "title": "Gideão e Seus Trezentos Homens",
+    "subtitle": "Coragem para o próximo passo",
+    "reference": "Juízes 6–7",
+    "description": "Gideão é chamado enquanto trabalha escondido e descobre que não precisa parecer poderoso para servir. Com trezentos homens, trombetas e tochas, enfrenta uma noite decisiva para seu povo.",
+    "testament": "antigo",
+    "cover": "/images/covers/15.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 16,
+    "title": "Sansão: Uma Força Especial",
+    "subtitle": "Um dom que precisava de cuidado",
+    "reference": "Juízes 13–16",
+    "description": "Sansão recebe uma força extraordinária, mas suas escolhas também trazem consequências dolorosas. Sua história convida a pensar sobre responsabilidade, confiança e o valor de usar nossos dons para cuidar.",
+    "testament": "antigo",
+    "cover": "/images/covers/16.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 17,
+    "title": "Rute e Sua Grande Lealdade",
+    "subtitle": "Um caminho de cuidado e recomeço",
+    "reference": "Rute 1–4",
+    "description": "Rute escolhe acompanhar Noemi em uma viagem de recomeço. Entre espigas recolhidas, gestos de bondade e compromissos cumpridos, duas mulheres encontram acolhimento e uma nova história para sua família.",
+    "testament": "antigo",
+    "cover": "/images/covers/17.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 18,
+    "title": "Davi e Golias",
+    "subtitle": "A coragem de um jovem pastor",
+    "reference": "1 Samuel 17",
+    "description": "Davi chega ao acampamento levando alimento e encontra um desafio que assusta os soldados. Com uma funda e cinco pedras, o jovem pastor confia em Deus diante de Golias.",
+    "testament": "antigo",
+    "cover": "/images/covers/18.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 19,
+    "title": "Daniel na Cova dos Leões",
+    "subtitle": "Uma oração que não foi esquecida",
+    "reference": "Daniel 6",
+    "description": "A honestidade de Daniel desperta a inveja de outros governantes. Uma lei injusta o coloca diante dos leões, mas sua confiança em Deus permanece durante uma noite de espera.",
+    "testament": "antigo",
+    "cover": "/images/covers/19.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 20,
+    "title": "Jonas e o Grande Peixe",
+    "subtitle": "Aprender a desejar o bem",
+    "reference": "Jonas 1–4",
+    "description": "Jonas foge de uma missão, enfrenta uma tempestade e ora dentro de um grande peixe. Em Nínive, descobre que ainda precisa aprender sobre a misericórdia de Deus pelos outros.",
+    "testament": "antigo",
+    "cover": "/images/covers/20.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 21,
+    "title": "O Anúncio do Nascimento de Jesus",
+    "subtitle": "Uma notícia para Maria",
+    "reference": "Lucas 1:26–38",
+    "description": "Maria recebe uma visita inesperada em Nazaré e escuta uma promessa extraordinária. Entre surpresa, uma pergunta sincera e confiança, ela acolhe o anúncio do nascimento de Jesus.",
+    "testament": "novo",
+    "cover": "/images/covers/21.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 22,
+    "title": "O Nascimento de Jesus em Belém",
+    "subtitle": "Uma noite de grande alegria",
+    "reference": "Lucas 2:1–20; Mateus 1:18–25",
+    "description": "Jesus nasce em Belém e é colocado numa manjedoura. Nos campos próximos, pastores recebem uma notícia de alegria e partem para encontrar Maria, José e o menino.",
+    "testament": "novo",
+    "cover": "/images/covers/22.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 23,
+    "title": "Os Reis Magos Visitam Jesus",
+    "subtitle": "Uma estrela e um encontro",
+    "reference": "Mateus 2:1–12",
+    "description": "Viajantes do Oriente seguem uma estrela e procuram Jesus. A jornada passa por Jerusalém, chega a uma casa em Belém e termina com adoração, presentes e um retorno diferente.",
+    "testament": "novo",
+    "cover": "/images/covers/23.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 24,
+    "title": "Jesus no Templo Quando Era Criança",
+    "subtitle": "Perguntas no templo",
+    "reference": "Lucas 2:41–52",
+    "description": "Aos doze anos, Jesus vai a Jerusalém com sua família. Uma busca preocupante termina no templo, onde ele escuta os mestres, faz perguntas e surpreende quem o ouve.",
+    "testament": "novo",
+    "cover": "/images/covers/24.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 25,
+    "title": "O Batismo de Jesus",
+    "subtitle": "Às margens do Jordão",
+    "reference": "Mateus 3:13–17",
+    "description": "Jesus vai ao rio Jordão para ser batizado por João. O encontro revela sua disposição de cumprir o que é justo e termina com uma declaração de amor do Pai.",
+    "testament": "novo",
+    "cover": "/images/covers/25.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 26,
+    "title": "Jesus e a Pesca Maravilhosa",
+    "subtitle": "Redes cheias, um novo caminho",
+    "reference": "Lucas 5:1–11",
+    "description": "Depois de uma noite sem peixes, Simão empresta seu barco a Jesus. Uma nova tentativa surpreende os pescadores e abre o caminho para um chamado que transforma suas vidas.",
+    "testament": "novo",
+    "cover": "/images/covers/26.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 27,
+    "title": "Jesus Transforma Água em Vinho",
+    "subtitle": "Uma surpresa na festa",
+    "reference": "João 2:1–11",
+    "description": "Numa festa de casamento em Caná, Maria percebe uma dificuldade. Jesus orienta os serventes, a água se transforma em vinho e seus discípulos veem o primeiro de seus sinais.",
+    "testament": "novo",
+    "cover": "/images/covers/27.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 28,
+    "title": "Jesus Acalma a Tempestade",
+    "subtitle": "Paz no meio das ondas",
+    "reference": "Marcos 4:35–41",
+    "description": "Durante uma travessia de barco, os discípulos enfrentam vento forte e ondas. Eles chamam Jesus, que acalma a tempestade, e ficam admirados com sua autoridade sobre o mar.",
+    "testament": "novo",
+    "cover": "/images/covers/28.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 29,
+    "title": "Jesus Alimenta Cinco Mil Pessoas",
+    "subtitle": "Um lanche para uma multidão",
+    "reference": "João 6:1–14",
+    "description": "Uma multidão acompanha Jesus, mas há pouca comida por perto. Cinco pães e dois peixes tornam-se parte de um sinal em que todos comem e ainda sobra alimento.",
+    "testament": "novo",
+    "cover": "/images/covers/29.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 30,
+    "title": "Jesus e as Crianças",
+    "subtitle": "Um lugar perto de Jesus",
+    "reference": "Marcos 10:13–16",
+    "description": "Algumas pessoas levam crianças até Jesus, mas encontram resistência dos discípulos. Jesus interrompe essa atitude, acolhe os pequenos e mostra que eles têm lugar perto dele também.",
+    "testament": "novo",
+    "cover": "/images/covers/30.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 31,
+    "title": "O Bom Samaritano",
+    "subtitle": "O amor que para no caminho",
+    "reference": "Lucas 10:25–37",
+    "description": "Uma pergunta sobre o amor leva Jesus a contar a história de um viajante ferido e de alguém que decidiu parar, cuidar e se tornar próximo de verdade.",
+    "testament": "novo",
+    "cover": "/images/covers/31.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 32,
+    "title": "A Parábola da Ovelha Perdida",
+    "subtitle": "Uma alegria que se espalha",
+    "reference": "Lucas 15:1–7",
+    "description": "Jesus conta sobre um pastor que procura sua ovelha perdida e celebra quando a encontra, mostrando a alegria de Deus quando alguém volta para perto dele com arrependimento.",
+    "testament": "novo",
+    "cover": "/images/covers/32.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 33,
+    "title": "O Filho Pródigo",
+    "subtitle": "O caminho de volta para casa",
+    "reference": "Lucas 15:11–32",
+    "description": "Um filho se afasta, desperdiça seus bens e decide voltar. Na parábola de Jesus, o acolhimento do pai convida dois irmãos a descobrir arrependimento, misericórdia e alegria compartilhada.",
+    "testament": "novo",
+    "cover": "/images/covers/33.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 34,
+    "title": "Jesus e Zaqueu",
+    "subtitle": "Uma visita que muda escolhas",
+    "reference": "Lucas 19:1–10",
+    "description": "Zaqueu sobe em uma árvore para ver Jesus e recebe uma visita inesperada. O encontro abre espaço para acolhimento, generosidade e atitudes concretas para reparar o que está errado.",
+    "testament": "novo",
+    "cover": "/images/covers/34.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 35,
+    "title": "A Entrada Triunfal de Jesus em Jerusalém",
+    "subtitle": "Um rei em um caminho de ramos",
+    "reference": "Mateus 21:1–11",
+    "description": "Perto de Jerusalém, Jesus entra na cidade montado em um jumentinho. Ramos e mantos cobrem o caminho enquanto a multidão o recebe com alegria e palavras de louvor.",
+    "testament": "novo",
+    "cover": "/images/covers/35.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 36,
+    "title": "A Última Ceia",
+    "subtitle": "Uma mesa para lembrar de Jesus",
+    "reference": "Lucas 22:7–23",
+    "description": "Jesus reúne os apóstolos para celebrar a Páscoa. Em uma refeição de despedida, o pão e o cálice ganham um significado especial de amor, entrega, lembrança e esperança.",
+    "testament": "novo",
+    "cover": "/images/covers/36.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 37,
+    "title": "A Morte de Jesus na Cruz",
+    "subtitle": "Amor e esperança em um dia triste",
+    "reference": "Lucas 23",
+    "description": "Jesus enfrenta uma condenação injusta e morre na cruz. Contada com cuidado, esta história apresenta seu perdão, a tristeza de seus amigos e o respeito de quem o sepultou.",
+    "testament": "novo",
+    "cover": "/images/covers/37.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 38,
+    "title": "A Ressurreição de Jesus",
+    "subtitle": "Uma notícia na primeira luz do dia",
+    "reference": "Lucas 24:1–12",
+    "description": "Na primeira luz do domingo, mulheres chegam à sepultura de Jesus e encontram uma surpresa. A pedra removida e uma mensagem inesperada transformam tristeza em esperança e admiração.",
+    "testament": "novo",
+    "cover": "/images/covers/38.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 39,
+    "title": "A Ascensão de Jesus",
+    "subtitle": "Uma missão para todos os caminhos",
+    "reference": "Atos 1:1–11",
+    "description": "Depois de ressuscitar, Jesus prepara seus discípulos para continuar sua missão. Uma promessa, uma despedida e uma mensagem os ajudam a olhar para o futuro com esperança e responsabilidade.",
+    "testament": "novo",
+    "cover": "/images/covers/39.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 40,
+    "title": "Paulo e Sua Transformação",
+    "subtitle": "Um novo caminho para Saulo",
+    "reference": "Atos 9:1–22",
+    "description": "Saulo viaja para perseguir seguidores de Jesus, mas um encontro muda sua direção. Com a ajuda de Ananias, ele começa a anunciar a fé que antes tentava combater.",
+    "testament": "novo",
+    "cover": "/images/covers/40.webp",
+    "duration": "4–7 min"
+  }
+]

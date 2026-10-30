@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "title": "A Criação do Mundo",
+  "subtitle": "Cada coisa em seu lugar",
+  "reference": "Gênesis 1–2",
+  "description": "Antes dos jardins, dos pássaros e das estrelas, Deus começa sua criação. Uma história sobre a beleza da vida, o valor de cada pessoa e o presente do descanso.",
+  "testament": "antigo",
+  "cover": "/images/covers/01.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A primeira luz",
+      "paragraphs": [
+        "Antes de existir um jardim para passear ou uma árvore para fazer sombra, Deus já existia. A história da Bíblia começa contando que ele criou os céus e a terra. A terra ainda não tinha a forma que conhecemos. Havia escuridão sobre as águas, e o Espírito de Deus se movia sobre elas. Então Deus fez surgir a luz. Separou a luz da escuridão e chamou uma de dia e a outra de noite.",
+        "Foi o primeiro dia daquele começo extraordinário. Depois, Deus fez uma separação entre as águas, e apareceu a expansão que chamou de céu. No terceiro dia, reuniu as águas debaixo do céu. A parte seca surgiu: era a terra. As águas reunidas receberam o nome de mares. Onde antes havia somente água, agora havia lugar para outras maravilhas.",
+        "A terra produziu plantas, ervas com sementes e árvores com frutos. Cada semente carregava a possibilidade de uma nova planta. Deus viu que aquilo era bom."
+      ],
+      "image": "/images/sample/part1.webp",
+      "alt": "A primeira luz se espalha sobre as águas."
+    },
+    {
+      "heading": "Um mundo cheio de vida",
+      "paragraphs": [
+        "No quarto dia, Deus fez os grandes luminares para governar o dia e a noite, e também as estrelas. A luz do dia e a luz da noite ajudariam a marcar dias, estações e anos. O céu tinha seus sinais, e a terra continuava sendo preparada para acolher a vida em toda a sua variedade.",
+        "No quinto dia, as águas ficaram cheias de seres vivos. Grandes criaturas marinhas e muitos outros animais passaram a viver nos mares. Os pássaros receberam o céu aberto para voar. Deus os abençoou, para que se multiplicassem. A criação tinha agora movimentos diferentes: nadadeiras atravessando as águas e asas passando sobre a terra.",
+        "No sexto dia, Deus fez os animais terrestres: os que vivem em rebanhos, os que se movem perto do chão e os animais selvagens. Cada um fazia parte daquele mundo. Havia tantas formas de viver! Deus viu que o que havia feito era bom, e ainda reservava um lugar especial nessa história para os seres humanos."
+      ],
+      "image": "/images/sample/part2.webp",
+      "alt": "Peixes nadam em águas transparentes enquanto pássaros voam sobre o mar."
+    },
+    {
+      "heading": "Um jardim para cuidar",
+      "paragraphs": [
+        "Deus criou os seres humanos à sua imagem, homem e mulher. Isso dava a cada pessoa um valor especial diante dele. Deus os abençoou e lhes confiou uma responsabilidade: viver na terra e cuidar dos seres vivos. O mundo não era apenas um lugar para receber coisas; era também um lugar para aprender a cuidar.",
+        "Gênesis conta mais de perto esse começo humano. Deus formou o homem do pó da terra e lhe deu vida. Preparou o jardim do Éden, com árvores agradáveis e boas para alimentar. Ali, o homem recebeu a tarefa de cultivar e guardar o jardim. Depois, Deus fez a mulher para estar com ele. Nenhum dos dois precisava viver sozinho.",
+        "Quando terminou sua obra, Deus viu que tudo era muito bom. No sétimo dia, descansou e abençoou aquele dia. A história da criação termina com essa pausa cheia de significado: o trabalho tinha seu tempo, e o descanso também. O mundo começava cercado pela bondade de seu Criador."
+      ],
+      "image": "/images/sample/part3.webp",
+      "alt": "Adão e Eva cuidam do jardim, com animais por perto."
+    }
+  ],
+  "lesson": "O mundo é um presente que podemos aprender a cuidar. Economizar água, tratar os animais com gentileza e não desperdiçar comida são atitudes pequenas que fazem diferença. As pessoas também merecem cuidado: todas têm valor diante de Deus, mesmo quando são diferentes de nós. E descansar não é perder tempo. Depois de brincar, estudar ou ajudar em casa, podemos parar e receber com gratidão o descanso de que precisamos.",
+  "question": "Que parte da criação você pode cuidar amanhã, com uma atitude bem pequena?",
+  "prayer": "Deus Criador, obrigado pela luz, pelas plantas, pelos animais e pelas pessoas que fazem parte da nossa vida. Ensina-nos a cuidar do mundo com carinho e a respeitar cada pessoa. Nesta noite, ajuda-nos a descansar em paz. Amém.",
+  "audio_path": null
+}

@@ -1,78 +1,166 @@
-# Pequenos Heróis da Bíblia
+# Pequenos Heróis
 
-Webapp cristão infantil em React + TypeScript + Vite. O conteúdo bíblico e os jogos são estáticos e funcionam sem API de IA. A versão inicial tem modo demonstração local e schema SQL preparado para Supabase.
+Webapp de histórias bíblicas ilustradas para crianças de 6 a 12 anos, com conta do responsável, landing page, biblioteca e leitura dentro do aplicativo.
 
-## O que já funciona
+**Conteúdo já incluído:** 40 histórias completas, 160 ilustrações otimizadas, lições, perguntas e orações. **Planos:** R$ 47/mês e R$ 197/ano. O anual é cobrado de uma vez; a equivalência de R$ 16,42/mês não é parcelamento.
 
-- Dashboard infantil com pontos XP, progresso e missão do dia.
-- Biblioteca com cinco aventuras: Noé, Davi, Daniel, Ester e José.
-- Três capítulos ilustrados por história, com reflexão e referência bíblica.
-- Quiz de três perguntas ao concluir cada história.
-- Mapa de aventuras, medalhas, perfil local e níveis.
-- Jogo da memória e caça-palavras.
-- Página de planos gratuito/família (apresentação; pagamento ainda não integrado).
-- Layout responsivo para celular, tablet e desktop.
-- Ilustrações SVG originais incluídas em `public/illustrations`.
+## O que funciona nesta entrega
 
-## Rodar localmente
+- Landing page ilustrada, planos, FAQ, amostra gratuita e cadastro.
+- Biblioteca com busca por título/personagem/referência, filtros de testamento, favoritos e progresso.
+- Leitor com três partes ilustradas e reflexão, ajuste de tamanho, modo noturno e conclusão.
+- Login, cadastro, confirmação de e-mail e recuperação de senha via Supabase.
+- Cobrança recorrente via Stripe Checkout, Portal de assinatura e webhook com verificação de assinatura, replay e estado atual.
+- Conteúdo pago protegido no servidor; banco com RLS e imagens/áudio em bucket privado.
+- Player MP3 com controle de velocidade, exibido quando o áudio estiver publicado.
+- Importação das 40 histórias/160 imagens e ferramentas de narração opcional.
 
-Requisitos: Node.js 20 ou superior.
+**O que requer suas contas:** Supabase, Vercel e Stripe. Não foram criadas contas, feitas cobranças nem configuradas credenciais reais. Os testes locais não substituem o teste integrado com suas contas. **Os 40 áudios não estão gravados.** O projeto aceita gravações humanas e inclui uma opção de geração natural por IA com ElevenLabs; uma voz sintética não é uma gravação humana.
+
+## 1. Veja no computador antes de configurar
+
+Instale Node.js 24 LTS. Abra um terminal nesta pasta:
 
 ```bash
-npm install
+npm ci
 npm run dev
 ```
 
-Abra o endereço mostrado pelo Vite (normalmente http://localhost:5173).
-
-Para validar a versão de produção:
+Abra o endereço que o Vite mostrar. A configuração `.env.development` abre as 40 histórias **apenas no servidor local de desenvolvimento** e mostra uma faixa de prévia. Cadastro/cobrança não são simulados como operações reais. Não exponha o servidor de desenvolvimento na internet.
 
 ```bash
+npm test
 npm run build
 npm run preview
 ```
 
-## Publicar no GitHub e Vercel
+`npm run preview` mostra a compilação de produção: só a amostra é pública, e as histórias pagas exigem as integrações reais. As funções `api/` não executam em `vite preview`; use Vercel para o teste integrado. Não basta abrir `index.html` com duplo clique.
 
-1. Crie um repositório no GitHub e envie todos os arquivos desta pasta.
-2. Na Vercel, importe o repositório.
-3. Framework: Vite. Build command: `npm run build`. Output directory: `dist`.
-4. Faça o deploy. O arquivo `vercel.json` já inclui rewrite para a aplicação.
+## 2. Suba os arquivos para o GitHub
 
-## Preparar Supabase
+Crie um repositório **privado**, pois `content/` e `assets-private/` contêm seu produto. Coloque o conteúdo desta pasta na raiz do repositório — `package.json`, `index.html` e `vercel.json` devem ficar na raiz. Não envie o ZIP sem extrair.
 
-1. Crie um projeto no Supabase.
-2. Abra **SQL Editor** e execute `supabase/schema.sql`.
-3. Em **Project Settings → API**, copie Project URL e a chave `anon`/publishable.
-4. Na Vercel, adicione as variáveis `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY` e faça novo deploy.
-5. Para desenvolvimento local, copie `.env.example` para `.env.local` e preencha as mesmas variáveis.
+Pelo terminal, depois de criar seu repositório vazio:
 
-**Importante:** a conexão e o schema estão preparados, mas esta versão ainda não implementa cadastro/login, sincronização do progresso com as tabelas, gestão real de perfis infantis nem checkout. Sem as duas variáveis, o app usa `localStorage` no navegador. Não coloque a `service_role` key no frontend.
-
-## Próximas etapas antes de vender
-
-- Implementar autenticação do responsável (e-mail/senha ou magic link) e fluxo de recuperação.
-- Criar/selecionar perfis infantis sob a conta do responsável; nunca criar login independente para criança.
-- Sincronizar progresso e conquistas com `child_progress` e `child_achievements`.
-- Implementar pagamentos por provedor externo e validar assinaturas exclusivamente no servidor/webhook; não confiar em flags do frontend.
-- Criar painel parental e fluxo de exclusão/exportação de dados.
-- Revisar textos, referências e traduções bíblicas com liderança/consultoria editorial antes da comercialização.
-- Realizar revisão jurídica LGPD para dados de crianças, política de privacidade e consentimento verificável do responsável.
-
-## Privacidade e segurança infantil
-
-O MVP não inclui chat, comentários, geolocalização, publicidade ou perfil público. O nome e o progresso no modo demonstração ficam no armazenamento local do navegador. O schema usa RLS e associa perfis infantis ao responsável. Antes de lançar com contas reais, revise as políticas e teste cada operação com usuários reais de teste.
-
-## Estrutura
-
-```text
-src/                 Aplicação React, conteúdo e configuração Supabase
-public/illustrations/ Ilustrações SVG locais
-supabase/schema.sql  Estrutura inicial e políticas RLS
-.env.example         Variáveis de ambiente (sem segredos)
-vercel.json          Rewrite SPA para Vercel
+```bash
+git init
+git add .
+git commit -m "Primeira versão do Pequenos Heróis"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git push -u origin main
 ```
 
-## Nota sobre o conteúdo
+Substitua somente usuário e repositório. GitHub Desktop também funciona. `.gitignore` exclui `node_modules`, builds e arquivos de credenciais locais. **Nunca envie `.env`, `.env.local` ou chaves secretas.** Não publique a pasta `content/` ou `assets-private/` no GitHub Pages. GitHub Pages sozinho não executa este backend.
 
-As histórias são adaptações resumidas para leitura infantil, com referências bíblicas indicadas. Não substituem a leitura do texto bíblico. Verifique a tradução bíblica que deseja adotar e as permissões de uso antes de publicar citações extensas.
+## 3. Crie o projeto no Supabase
+
+1. Crie seu projeto e guarde sua senha de banco em local seguro.
+2. No SQL Editor, execute o arquivo completo `supabase/migrations/202610300001_initial.sql`. Ele cria tabelas, políticas de acesso, funções e o bucket privado `story-assets`.
+3. Em Authentication, mantenha confirmação de e-mail e configure SMTP para enviar confirmação e recuperação em produção.
+4. Na configuração de URL do Auth, cadastre a URL final da Vercel como Site URL. Cadastre também os redirecionamentos exatos `https://SEU_DOMINIO/conta` e `https://SEU_DOMINIO/definir-senha`. Se usar domínio próprio, atualize todos eles.
+5. Copie a URL do projeto, a chave pública `anon`/publishable e a chave secreta de servidor `service_role`/secret. A chave secreta nunca vai no frontend.
+
+O banco não cria cadastro individual de crianças: armazena o responsável, favoritos, progresso e assinatura. O painel de assinaturas usa o usuário autenticado, não um ID escolhido no navegador.
+
+## 4. Importe o conteúdo incluído
+
+Copie `.env.example` para `.env`. Preencha inicialmente `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` com os valores reais.
+
+```bash
+node scripts/import-content.mjs --dry-run
+npm run import:content
+```
+
+O primeiro comando valida 40 histórias e 160 imagens, sem chave ou upload. O segundo envia o conteúdo para seu próprio Supabase. É reexecutável e preserva narrações já publicadas. Em caso de interrupção, resolva a causa e execute novamente. Não mova conteúdo pago para `public/`.
+
+## 5. Configure a Stripe
+
+Esta é a integração de pagamento escolhida nesta versão. O Checkout aceita cartão. PIX não foi implementado ou prometido para assinaturas.
+
+1. Comece em **modo de teste**.
+2. Crie o produto e dois preços recorrentes em BRL: **R$ 47 / 1 mês** e **R$ 197 / 1 ano**. Quantidade fixa 1, sem trial nem cobrança medida.
+3. Copie cada `price_...` para `STRIPE_PRICE_MONTHLY` e `STRIPE_PRICE_ANNUAL`.
+4. Copie a chave secreta de teste para `STRIPE_SECRET_KEY`.
+5. Ative o Customer Portal para atualização do pagamento e cancelamento. Se habilitar troca de plano, restrinja aos dois preços e decida conscientemente a configuração de prorrata.
+6. Após o primeiro deploy Vercel, crie uma destinação webhook **snapshot** em `https://SEU_DOMINIO/api/webhook`. A lista exata de eventos está em `docs/BACKEND.md`.
+7. Copie `whsec_...` para `STRIPE_WEBHOOK_SECRET` na Vercel e faça novo deploy.
+
+O servidor confere os valores/recorrências dos preços no Stripe. Não libere acesso por uma página de “pagamento aprovado”: o webhook é quem registra o estado confirmado. A conta pode mostrar “processando” enquanto essa confirmação chega.
+
+## 6. Configure e publique na Vercel
+
+1. Importe o repositório privado do GitHub.
+2. Framework: **Vite**. Root directory: pasta onde está `package.json`. Build: `npm run build`. Output: `dist`. Node.js: **24.x**.
+3. Em Environment Variables, preencha os valores abaixo. Para testar primeiro, use credenciais Stripe de teste. Cadastre os valores nos ambientes que pretende usar.
+
+| Variável | Onde entra | Conteúdo |
+| --- | --- | --- |
+| `VITE_SUPABASE_URL` | Navegador | URL do projeto Supabase |
+| `VITE_SUPABASE_ANON_KEY` | Navegador | Chave pública anon/publishable |
+| `VITE_BUSINESS_NAME` | Navegador | Nome do responsável/empresa do serviço |
+| `VITE_SUPPORT_EMAIL` | Navegador | E-mail real de atendimento |
+| `SUPABASE_URL` | Servidor | Mesma URL Supabase |
+| `SUPABASE_SERVICE_ROLE_KEY` | Servidor | Chave secreta de servidor |
+| `APP_URL` | Servidor | Origem HTTPS final, sem caminho ou parâmetros |
+| `STRIPE_SECRET_KEY` | Servidor | Chave secreta Stripe |
+| `STRIPE_WEBHOOK_SECRET` | Servidor | Segredo do webhook deste ambiente |
+| `STRIPE_PRICE_MONTHLY` | Servidor | Preço recorrente de R$ 47/mês |
+| `STRIPE_PRICE_ANNUAL` | Servidor | Preço recorrente de R$ 197/ano |
+
+4. Faça o deploy. Atualize `APP_URL` e os redirecionamentos Supabase se a URL inicial ainda não era conhecida; faça novo deploy.
+5. Configure o webhook e complete a validação abaixo antes de trocar para pagamentos reais.
+
+Variáveis `VITE_` são públicas e incorporadas no build; mudanças exigem novo deploy. Nunca dê esse prefixo a segredos. `VITE_LOCAL_DEMO` não abre conteúdo em produção: a condição também exige `import.meta.env.DEV`. Para um teste local com integrações reais, remova a flag de `.env.development` ou defina `VITE_LOCAL_DEMO=false` no ambiente local, e use `vercel dev` com as configurações necessárias.
+
+`vercel.json` inclui rotas diretas do aplicativo, cabeçalhos de segurança e funções de 60 segundos. O CSP permite o domínio padrão `*.supabase.co`. Se configurar domínio personalizado no Supabase, acrescente somente esse domínio em `connect-src`, `img-src` e `media-src`.
+
+## 7. Adicione a narração
+
+Leia `docs/NARRACAO.md`.
+
+- **Voz humana de verdade:** grave ou contrate a gravação; coloque os MP3s por ID e use o importador de áudio. Os textos completos para gravação podem ser exportados pelo script.
+- **Voz de IA natural:** configure `ELEVENLABS_API_KEY` e `ELEVENLABS_VOICE_ID` localmente, escute uma amostra da voz em português brasileiro e só então autorize a geração. O script simula custos em caracteres antes de qualquer chamada, exige confirmação por flag e permite retomar.
+- Gere os arquivos uma vez e publique no Storage privado. Cada reprodução do assinante usa o MP3 já pronto, sem gerar novamente por API.
+- Não há voz do navegador (`speechSynthesis`), imitação de pessoa sem autorização ou gravação artificial apresentada como humana.
+
+As chaves ElevenLabs não precisam ficar na Vercel: são usadas somente pelos scripts de produção de áudio. O serviço pode exigir plano/créditos próprios e condições para uso comercial. O player não finge que um arquivo existe.
+
+## 8. Teste antes de abrir vendas
+
+- Confirmação de cadastro, login, logout, senha incorreta e recuperação por e-mail.
+- Uma conta sem assinatura só lê a amostra; duas contas não compartilham progresso ou favoritos.
+- Compra de teste mensal e anual; ambos concedem acesso somente após webhook.
+- Cancelamento, pagamento recusado, renovação e retorno do Portal.
+- Nova tentativa de assinatura existente não cria cobrança duplicada.
+- `/api/story?id=2` sem token/assinatura não fornece conteúdo; bucket continua privado.
+- Acesso por links diretos `/biblioteca`, `/historia/18` e `/definir-senha` na Vercel.
+- Narração real e expiração/renovação de URLs assinadas quando os MP3s forem publicados.
+- Confira nome comercial, e-mail de suporte, textos de termos/privacidade e regras de atendimento com os dados da sua operação. São textos-base editáveis, não uma validação jurídica da empresa.
+- Faça uma compra controlada real após a migração para credenciais/preços/webhook do ambiente de produção; não reutilize IDs de teste em produção.
+
+## Onde editar
+
+| Arquivo/pasta | Função |
+| --- | --- |
+| `index.html` | HTML inicial e metadados |
+| `src/styles.css` | Design e responsividade, CSS legível |
+| `src/landing.js` | Landing, copy, valores e FAQ |
+| `src/library.js` | Biblioteca, busca visual e cartões |
+| `src/reader.js` | Leitor, reflexão e player |
+| `src/auth.js` / `src/main.js` | Telas e navegação/auth |
+| `src/legal.js` | Termos e privacidade editáveis |
+| `api/` / `server/` | Funções de pagamento/acesso |
+| `content/stories.json` | Todas as histórias; manter privado |
+| `assets-private/` | Ilustrações a importar; manter privado |
+| `public/` | Capas/marketing, fonte, catálogo e uma amostra |
+| `supabase/migrations/` | Esquema e permissões |
+| `docs/` | Guias, contrato e verificação |
+
+Para mudar preços futuramente, altere o cadastro Stripe, a validação `server/rules.mjs`, a landing e os termos de forma consistente. Não troque IDs de planos vendidos sem planejar o tratamento das assinaturas existentes.
+
+## Tamanho e dependências
+
+As 160 imagens privadas somam cerca de 19 MB e são carregadas conforme a leitura. A área pública tem aproximadamente 3 MB de imagens, com carregamento adiado; não é tudo baixado ao abrir a landing. A imagem principal tem cerca de 149 KB. Fontes são locais e têm licenças OFL em `public/fonts/`.
+
+Não há mensalidade de hospedagem, banco, e-mail, voz ou taxas de pagamento incluída no código. Esses serviços pertencem às contas que você conectar. O pacote não depende dos PDFs anteriores.

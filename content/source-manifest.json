@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "narrative_sha256": "3c79659ce479031821a37a72bde658f326a28b9db2d5ccbff6eff63041a87411",
+    "narrative_words": 484,
+    "part_words": [
+      158,
+      164,
+      162
+    ],
+    "cover_alt": "Um rio atravessa um jardim cheio de árvores, animais e luz suave.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN01.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN02.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "narrative_sha256": "5ddae7c91e18f949289eabc9ded68825255d88106ce26bd55fdbbca007d09ea6",
+    "narrative_words": 493,
+    "part_words": [
+      164,
+      161,
+      168
+    ],
+    "cover_alt": "Um caminho atravessa o jardim, entre uma árvore de frutos dourados e um rio.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN02.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN03.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "narrative_sha256": "fb537c889ed62a4769967913873972db0eacb37c287b09848970dcbcd368e937",
+    "narrative_words": 501,
+    "part_words": [
+      169,
+      166,
+      166
+    ],
+    "cover_alt": "Noé e sua esposa observam um arco no céu, com a arca e alguns animais ao fundo.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN06.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN07.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN08.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN09.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "narrative_sha256": "f26e7382c8a7e7c2bd525e341cf2ebf610474373e261ebf2b674e3efeea5c218",
+    "narrative_words": 490,
+    "part_words": [
+      156,
+      164,
+      170
+    ],
+    "cover_alt": "Uma torre de tijolos se ergue sobre uma cidade antiga na planície.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN11.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "narrative_sha256": "8a2e06d92c99244514ba878abd1434b5ff2b8a175f54f84e52f0c3c59dbc784d",
+    "narrative_words": 499,
+    "part_words": [
+      168,
+      166,
+      165
+    ],
+    "cover_alt": "Abraão e Sara observam um céu cheio de estrelas perto da tenda.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN12.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN15.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN17.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "narrative_sha256": "9ba387089ced0733260d59718951e067b57338817f9165cf5b14c6ec33797ed7",
+    "narrative_words": 506,
+    "part_words": [
+      168,
+      162,
+      176
+    ],
+    "cover_alt": "Abraão e Isaque permanecem juntos em uma encosta, com um carneiro perto dos arbustos.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN22.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "narrative_sha256": "5e79812bc9fd2fe17bf3c9030c731f49e1db19bd8e93b4a8db7745afc54a70f8",
+    "narrative_words": 506,
+    "part_words": [
+      168,
+      173,
+      165
+    ],
+    "cover_alt": "Esaú e Jacó aparecem diante de uma tenda, com roupas e expressões diferentes.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN25.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN27.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN28.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN29.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN31.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN32.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN33.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "narrative_sha256": "db22992636fe545db62c36ca374e249e51a8c5e10084db838c3578fec1eb5e0d",
+    "narrative_words": 507,
+    "part_words": [
+      172,
+      163,
+      172
+    ],
+    "cover_alt": "José olha para o céu ao anoitecer, usando sua túnica especial.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN37.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "narrative_sha256": "f38b9d7fe08f6909deddb452f0ddc92c6c67101f27c56d7a3b654aeb86985368",
+    "narrative_words": 509,
+    "part_words": [
+      171,
+      161,
+      177
+    ],
+    "cover_alt": "José, como governador, está diante dos depósitos de alimento no Egito.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/GEN39.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN40.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN41.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN42.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN43.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN44.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/GEN45.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "narrative_sha256": "713764f428885c5bd96aefa3c13427b771ed6cc4e3bdd5a84c2d3ebc4fe36338",
+    "narrative_words": 517,
+    "part_words": [
+      167,
+      176,
+      174
+    ],
+    "cover_alt": "Moisés observa uma sarça luminosa em uma encosta do deserto.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/EXO03.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO04.htm",
+        "note": "Fonte primária conferida em 30/10/2026: World English Bible, domínio público, obtida no eBible por HTTPS e lida para revisão de fatos. Texto infantil em paráfrase autoral portuguesa; detalhes visuais são interpretações artísticas."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "narrative_sha256": "4d70448a8aee92193a8f0623e9a0ca8ca511be8315d4ca40d31938816319536b",
+    "narrative_words": 509,
+    "part_words": [
+      168,
+      172,
+      169
+    ],
+    "cover_alt": "Moisés e Arão conduzem famílias para fora do Egito ao amanhecer.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/EXO07.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO08.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO09.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO10.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO11.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO12.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "narrative_sha256": "e24ca8ad2a521854cd2208c96b4b2ce102390366b8379c20efa7a73b4be81b14",
+    "narrative_words": 500,
+    "part_words": [
+      169,
+      166,
+      165
+    ],
+    "cover_alt": "Moisés observa o mar diante do acampamento, sob uma grande coluna de nuvem.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/EXO13.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO14.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "narrative_sha256": "2faf51a3c394fca40b4f76f905bcddef38ef8e744a3c1e88275d2d3685955818",
+    "narrative_words": 519,
+    "part_words": [
+      170,
+      174,
+      175
+    ],
+    "cover_alt": "Moisés diante do monte Sinai, com o acampamento de Israel no vale.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/EXO19.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/EXO20.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "narrative_sha256": "24a1081351ae067b7bcb8ba27bf9a46bfe4cfe66d2fe097e334a6c0cd8722a70",
+    "narrative_words": 499,
+    "part_words": [
+      171,
+      166,
+      162
+    ],
+    "cover_alt": "Josué observa as muralhas fechadas de Jericó antes da marcha.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JOS06.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "narrative_sha256": "abad2d5be6f3bc36533ba538ff525c5ec0214f0d7342b680c1a86edc87e5c90c",
+    "narrative_words": 525,
+    "part_words": [
+      176,
+      177,
+      172
+    ],
+    "cover_alt": "Gideão segura um jarro ao lado de uma tocha antes da noite decisiva.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JDG06.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JDG07.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "narrative_sha256": "20863ac3c989ad64cf8893b4448b32c5ea2e36d6b4d6178f730e0acbdfcb5a0b",
+    "narrative_words": 519,
+    "part_words": [
+      172,
+      170,
+      177
+    ],
+    "cover_alt": "Sansão, com os cabelos longos, observa as colinas em um momento de reflexão.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JDG13.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JDG14.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JDG15.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JDG16.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "narrative_sha256": "6ba54110c61486d794e668a348334def661e9ad865c87dbff0fdeae089ee5af3",
+    "narrative_words": 525,
+    "part_words": [
+      173,
+      169,
+      183
+    ],
+    "cover_alt": "Rute e Noemi avistam Belém juntas, levando seus poucos pertences.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/RUT01.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/RUT02.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/RUT03.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/RUT04.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "narrative_sha256": "0850fc96ae766514990bb234dc7c290e237ab400dec7da5b4d2ba9c10b87ff37",
+    "narrative_words": 544,
+    "part_words": [
+      170,
+      179,
+      195
+    ],
+    "cover_alt": "Davi escolhe pedras lisas junto a um riacho, levando sua bolsa de pastor.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/1SA17.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "narrative_sha256": "bc9b5393e83e8ac1a1d0cbcae7b4f21323e6ecd2b1b9e4292444d834a876781a",
+    "narrative_words": 515,
+    "part_words": [
+      165,
+      175,
+      175
+    ],
+    "cover_alt": "Daniel no pátio do palácio, representado como um homem íntegro e sereno.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/DAN06.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "narrative_sha256": "a2a894a6ca90e06ac1374fb0b4985a06dfc13dd05e8ae45bb7db885cbafcef34",
+    "narrative_words": 526,
+    "part_words": [
+      173,
+      169,
+      184
+    ],
+    "cover_alt": "Jonas está em terra firme, enquanto um grande peixe se afasta no mar.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JON01.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JON02.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JON03.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      },
+      {
+        "url": "https://ebible.org/engwebp/JON04.htm",
+        "note": "World English Bible (eBible), domínio público. Texto consultado online e conferido em 30/10/2026; paráfrase autoral em português. Cópia documental da passagem em production/sources."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "narrative_sha256": "04173556af2fba89aa1098f1bba1fba6bba0fa87b236b05ff941d71a378d49b9",
+    "narrative_words": 439,
+    "part_words": [
+      143,
+      149,
+      147
+    ],
+    "cover_alt": "Maria observa o mensageiro Gabriel em um ambiente simples de Nazaré.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK01.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Lucas 1:26–38: Gabriel, Nazaré, pergunta de Maria, anúncio do Espírito Santo e notícia sobre Isabel; paráfrase original em português."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "narrative_sha256": "78d3fbdc8d8304cca07e28894bc6b1f06ebd7f3f1b7eac0645e680af94be750f",
+    "narrative_words": 453,
+    "part_words": [
+      154,
+      149,
+      150
+    ],
+    "cover_alt": "Maria e José cuidam do bebê Jesus junto à manjedoura.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK02.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Lucas 2:1–20 e Mateus 1:18–25: sonho de José, recenseamento, nascimento, manjedoura e visita dos pastores; sem reunir magos nessa noite."
+      },
+      {
+        "url": "https://ebible.org/engwebp/MAT01.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Lucas 2:1–20 e Mateus 1:18–25: sonho de José, recenseamento, nascimento, manjedoura e visita dos pastores; sem reunir magos nessa noite."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "narrative_sha256": "805b3d539b2038499fd0d9605974680382da82ad71822f84b48e98728eea8fa6",
+    "narrative_words": 448,
+    "part_words": [
+      155,
+      142,
+      151
+    ],
+    "cover_alt": "Numa casa, os magos oferecem presentes a Jesus, que está com Maria; José acompanha a visita.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/MAT02.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Mateus 2:1–12: magos sem número ou título real especificado; três tipos de presentes; visita numa casa; retorno por outro caminho."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "narrative_sha256": "66abd6732b0ce39a95dc2c8fe832aa402e0ffa956fb591cabb53c1ecaae67c16",
+    "narrative_words": 449,
+    "part_words": [
+      147,
+      147,
+      155
+    ],
+    "cover_alt": "Jesus, aos doze anos, participa de uma conversa entre os mestres no templo.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK02.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Lucas 2:41–52: Jesus com doze anos, viagem da Páscoa, um dia antes da busca, encontro após três dias e retorno obediente a Nazaré."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "narrative_sha256": "a0481fa248cddbe3903cd7788d30e3fbbefccd61afa8a48ea449462c6008c441",
+    "narrative_words": 445,
+    "part_words": [
+      143,
+      151,
+      151
+    ],
+    "cover_alt": "Após o batismo, Jesus está no Jordão com João, e o Espírito de Deus desce como uma pomba.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/MAT03.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Mateus 3:13–17: objeção de João, cumprimento da justiça, Espírito como pomba e declaração do Pai; sem prescrever forma denominacional de batismo."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "narrative_sha256": "9120a25ae946c69628e2bc5e2bb56cff4358c84746572464607cf75ed1ae7e50",
+    "narrative_words": 443,
+    "part_words": [
+      146,
+      147,
+      150
+    ],
+    "cover_alt": "Simão e seus companheiros observam a pesca extraordinária junto de Jesus.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK05.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Lucas 5:1–11: duas embarcações, redes ameaçadas, pedido de ajuda, temor de Simão e chamado; não confundir com pesca de João 21."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "narrative_sha256": "7091f8b8ebd0c46e965a48eb6d3254eb223b33398ca67f172bbaf8524a63e8bf",
+    "narrative_words": 445,
+    "part_words": [
+      153,
+      140,
+      152
+    ],
+    "cover_alt": "Jesus e Maria participam de uma festa de casamento em Caná.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JHN02.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. João 2:1–11: casamento em Caná, seis recipientes de pedra, água até a borda, serventes e responsável pela festa; primeiro sinal."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "narrative_sha256": "77f88a21ddf735056bafc3ccd45415bbfa3af4fe252c1faa69955731b076994e",
+    "narrative_words": 428,
+    "part_words": [
+      144,
+      140,
+      144
+    ],
+    "cover_alt": "Jesus permanece com os discípulos no barco enquanto o lago se acalma.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/MRK04.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Marcos 4:35–41: travessia ao entardecer, outras embarcações, almofada na popa, tempestade, ordem de Jesus e espanto dos discípulos."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "narrative_sha256": "6ad6d65b67dbd12c52abfb9919d644504fa799b9bb6254ffa6d97672728cdbab",
+    "narrative_words": 435,
+    "part_words": [
+      143,
+      146,
+      146
+    ],
+    "cover_alt": "Cinco pães e dois peixes aparecem diante de Jesus e da grande multidão.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/JHN06.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. João 6:1–14: cinco pães de cevada, dois peixes, menino, cerca de cinco mil homens, doze cestos; sem inventar fala ou pensamentos do menino."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "narrative_sha256": "0ad2d5a5550e2e46bbb451652652c1cc25f13a89fbfe2fe1e7162a07079d40ef",
+    "narrative_words": 459,
+    "part_words": [
+      155,
+      148,
+      156
+    ],
+    "cover_alt": "Jesus recebe crianças de várias idades num encontro acolhedor.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/MRK10.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado e passagem lida em 30/10/2026 pelo site eBible; cópia de consulta em production/sources/. Marcos 10:13–16: discípulos impedem aproximação; indignação de Jesus, Reino recebido como criança e bênção acolhedora."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "narrative_sha256": "3937f87d698391ce9b1c5ab48ebc89d617db4c9d3099c3b0dd88e9c6765dc0f2",
+    "narrative_words": 485,
+    "part_words": [
+      164,
+      159,
+      162
+    ],
+    "cover_alt": "O samaritano combina com o hospedeiro a continuação dos cuidados ao viajante.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK10.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 10:25–37: parábola distinta de evento histórico; sacerdote, levita e samaritano, animal não identificado, hospedaria e duas moedas; contexto sem culpar grupos."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "narrative_sha256": "f6c5831aad16b5e320a50aea6df4200af7540dc54e91a92a6ce22df98592ec63",
+    "narrative_words": 485,
+    "part_words": [
+      160,
+      161,
+      164
+    ],
+    "cover_alt": "O pastor leva a ovelha encontrada nos ombros, perto de sua aldeia.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK15.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 15:1–7: uma ovelha entre cem, noventa e nove no campo, busca, ombros e alegria; foco no arrependimento, sem inventar motivo do afastamento."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "narrative_sha256": "a8d1bf762d63ea56d8e20dce53a372fe02c697c85adef043b1564ddaa3ccd18b",
+    "narrative_words": 486,
+    "part_words": [
+      159,
+      162,
+      165
+    ],
+    "cover_alt": "O pai abraça o filho mais novo no caminho de casa.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK15.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 15:11–32: dois filhos, fome, cuidado de porcos, retorno, acolhimento e convite ao irmão; final aberto preservado."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "narrative_sha256": "13a024532cc937b012e41294f666498f1168f8951eef4b9c700a73e819cd32f1",
+    "narrative_words": 482,
+    "part_words": [
+      156,
+      161,
+      165
+    ],
+    "cover_alt": "Zaqueu recebe Jesus com alegria à porta de sua casa.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK19.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 19:1–10: Jericó, sicômoro, convite de Jesus, metade aos pobres e restituição quádrupla condicional; sem inventar execução posterior dos compromissos."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "narrative_sha256": "8453d549475498eec99d20c8e9f757e9a5bb2dba3006984978daacd612aa6c87",
+    "narrative_words": 478,
+    "part_words": [
+      159,
+      156,
+      163
+    ],
+    "cover_alt": "Jesus entra em Jerusalém no jumentinho, acompanhado por pessoas alegres.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/MAT21.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Mateus 21:1–11: jumenta e filhote, mantos, ramos genéricos e hosana; sem restringir ramos a palmeiras nem impor leitura literal de montar dois animais."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "narrative_sha256": "59a50a9a7325a653223842d8f7f156e93878745fa473081e3f88c31a6b7c40e2",
+    "narrative_words": 483,
+    "part_words": [
+      154,
+      164,
+      165
+    ],
+    "cover_alt": "Jesus segura o pão à mesa da ceia, cercado pelos apóstolos.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK22.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 22:7–23: Pedro e João, jarro de água, sala superior, pão, cálice, nova aliança e anúncio de traição; palavras de Jesus preservadas sem definir posição denominacional sobre a ceia."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "narrative_sha256": "9f1caa9f78c90db4f564429c23889f431ba1f28abe008cb4433039120e8890e2",
+    "narrative_words": 483,
+    "part_words": [
+      159,
+      157,
+      167
+    ],
+    "cover_alt": "Amigos de Jesus permanecem em silêncio perto da sepultura no jardim.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK23.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 23: processo e decisão de Pilatos, Simão de Cirene, perdão, dois condenados, morte, José de Arimateia e sábado; sem violência gráfica nem culpa coletiva étnica."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "narrative_sha256": "ed56b707e7ae5b3af5f8bed54c44c6494a4fe00832dde42765b7f1c379c1f1ef",
+    "narrative_words": 471,
+    "part_words": [
+      156,
+      151,
+      164
+    ],
+    "cover_alt": "As mulheres encontram a entrada da sepultura aberta ao amanhecer.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/LUK24.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Lucas 24:1–12: mulheres, pedra removida, dois mensageiros, lembrança das palavras de Jesus, relato aos onze e visita de Pedro; sem inventar saída visível da sepultura."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "narrative_sha256": "4dde172f6b294b11a967fb31a1a57d243416c6eb01251d290a87c7d46dc32891",
+    "narrative_words": 479,
+    "part_words": [
+      159,
+      159,
+      161
+    ],
+    "cover_alt": "Os discípulos veem Jesus ser elevado e encoberto por uma nuvem.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/ACT01.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Atos 1:1–11: quarenta dias, promessa do Espírito Santo, missão, nuvem, dois homens vestidos de branco e promessa de retorno sem data."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "narrative_sha256": "8a1b5b6220200101ccf5cd18861a06bc35994cf443e0890fc9fd04c8279833ad",
+    "narrative_words": 481,
+    "part_words": [
+      158,
+      159,
+      164
+    ],
+    "cover_alt": "Saulo e Ananias juntos em Damasco, no começo de um novo caminho.",
+    "sources": [
+      {
+        "url": "https://ebible.org/engwebp/ACT09.htm",
+        "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Atos 9:1–22: Saulo, luz e voz, três dias sem visão, Ananias, casa de Judas, rua Direita, recuperação e anúncio; nenhuma renomeação milagrosa ou cavalo introduzido."
+      }
+    ]
+  }
+]
