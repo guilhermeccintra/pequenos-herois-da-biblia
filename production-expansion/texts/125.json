@@ -1,0 +1,71 @@
+{
+  "id": 125,
+  "title": "A Pedra de Ebenézer",
+  "subtitle": "Até aqui recebemos ajuda",
+  "reference": "1 Samuel 7:2–17",
+  "description": "Samuel chama o povo a voltar para Deus e ora por Israel num momento de medo. Depois, levanta uma pedra para lembrar a ajuda recebida.",
+  "testament": "antigo",
+  "cover": "/images/covers/125.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um convite para recomeçar",
+      "paragraphs": [
+        "A arca estava em Quiriate-Jearim havia muito tempo. O povo de Israel sentia falta de uma relação mais fiel com o Senhor, e Samuel falou à comunidade. Se desejavam voltar para Deus de todo o coração, precisariam afastar os deuses estrangeiros e servir somente a ele. O recomeço não seria apenas uma reunião ou uma frase bem repetida.",
+        "Os israelitas ouviram e abandonaram os objetos de culto a Baal e Astarote. Então Samuel os convidou a se reunir em Mispa, onde oraria por eles. O povo chegou, jejuou e reconheceu que havia pecado contra o Senhor. Naquele lugar, abriu espaço para admitir erros e buscar uma mudança de direção.",
+        "Samuel julgava Israel em Mispa. Seu trabalho incluía ajudar a comunidade a viver de modo responsável diante de Deus. Reconhecer falhas não significava permanecer para sempre preso a elas. Significava parar de escondê-las e começar a responder de outra maneira. O povo estava reunido para esse recomeço quando uma notícia trouxe medo ao encontro."
+      ],
+      "image": "125/part1.webp",
+      "alt": "O povo se reúne em Mispa para ouvir Samuel, numa assembleia atenta e serena."
+    },
+    {
+      "heading": "Uma oração no meio do medo",
+      "paragraphs": [
+        "Os governantes filisteus souberam da reunião e avançaram contra Israel. Ao perceber a ameaça, os israelitas ficaram assustados. Pediram a Samuel que não deixasse de clamar ao Senhor por eles. A reunião que começara com arrependimento agora também era um momento de perigo. O povo reconhecia que precisava de ajuda.",
+        "Samuel ofereceu um sacrifício conforme o culto daquele tempo e orou. Enquanto os filisteus se aproximavam, o Senhor fez soar um grande trovão que lançou confusão entre eles. Os israelitas avançaram, e o ataque foi contido. Samuel havia clamado ao Senhor em favor do povo, e os israelitas reconheceram que a ajuda recebida vinha de Deus.",
+        "Os israelitas saíram de Mispa e perseguiram os filisteus até abaixo de Bete-Car. O ataque que tanto os assustara havia sido contido. Quando a ameaça passou, Samuel quis guardar a lembrança da ajuda recebida. Era necessário que o povo se recordasse daquele dia, mesmo depois de voltar às casas e retomar as tarefas da vida comum."
+      ],
+      "image": "125/part2.webp",
+      "alt": "Samuel ora ao ar livre enquanto pessoas preocupadas permanecem próximas, sob um céu de nuvens."
+    },
+    {
+      "heading": "Uma lembrança no caminho",
+      "paragraphs": [
+        "Samuel tomou uma pedra e a colocou entre Mispa e Sem. Chamou-a Ebenézer, nome ligado à ideia de pedra de ajuda. Explicou que o Senhor os havia ajudado até ali. A pedra não fazia o milagre nem guardava força dentro de si. Tornava visível uma lembrança que poderia acompanhar o povo depois que todos voltassem para casa.",
+        "A pressão dos filisteus diminuiu durante os dias de Samuel, e cidades foram recuperadas. Também houve paz entre Israel e os amorreus. Para famílias acostumadas ao medo, essas mudanças tinham importância concreta. Caminhos, casas e atividades podiam ser vividos com mais segurança. O descanso de uma comunidade é mais que uma palavra bonita num relato antigo.",
+        "Samuel continuou julgando Israel ao longo de sua vida. Todos os anos percorria Betel, Gilgal e Mispa, e depois voltava para Ramá, onde morava. A pedra de Ebenézer não encerrou seu serviço. Lembrar a ajuda recebida também podia alimentar a responsabilidade de continuar cuidando do povo. Gratidão e trabalho seguiam juntos no caminho do profeta."
+      ],
+      "image": "125/part3.webp",
+      "alt": "Samuel segue por um caminho entre aldeias para continuar seu trabalho de orientação."
+    }
+  ],
+  "lesson": "Podemos olhar para trás e reconhecer a ajuda que recebemos sem achar que tudo foi fácil. Uma lembrança de gratidão pode nos fortalecer para continuar. Samuel também permaneceu trabalhando depois de levantar a pedra. Agradecer não substitui nossa responsabilidade. Podemos dizer obrigado e, ao mesmo tempo, aprender a ajudar alguém. Em momentos de medo, orar pode caminhar com procurar proteção, orientação e apoio de pessoas confiáveis.",
+  "question": "Se você fizesse uma lembrança de gratidão por este ano, que ajuda importante ela representaria?",
+  "prayer": "Deus, obrigado pela ajuda que recebemos até aqui, inclusive nos dias difíceis. Ensina-nos a reconhecer quem caminhou conosco e a agradecer com sinceridade. Dá-nos coragem para buscar apoio quando sentirmos medo e disposição para oferecer cuidado a outras pessoas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Samuel coloca a mão sobre uma grande pedra de lembrança enquanto famílias escutam ao redor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel middle-aged olive-skinned prophet dark graying beard cream tunic deep brown mantle. Natural upright stone at rural crossroads, peaceful Israelite families, green hills, no combat or weapons. Scene: Samuel coloca a mão sobre uma grande pedra de lembrança enquanto famílias escutam ao redor."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo se reúne em Mispa para ouvir Samuel, numa assembleia atenta e serena.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel middle-aged olive-skinned prophet dark graying beard cream tunic deep brown mantle. Natural upright stone at rural crossroads, peaceful Israelite families, green hills, no combat or weapons. Scene: O povo se reúne em Mispa para ouvir Samuel, numa assembleia atenta e serena."
+    },
+    {
+      "role": "part2",
+      "alt": "Samuel ora ao ar livre enquanto pessoas preocupadas permanecem próximas, sob um céu de nuvens.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel middle-aged olive-skinned prophet dark graying beard cream tunic deep brown mantle. Natural upright stone at rural crossroads, peaceful Israelite families, green hills, no combat or weapons. Scene: Samuel ora ao ar livre enquanto pessoas preocupadas permanecem próximas, sob um céu de nuvens."
+    },
+    {
+      "role": "part3",
+      "alt": "Samuel segue por um caminho entre aldeias para continuar seu trabalho de orientação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel middle-aged olive-skinned prophet dark graying beard cream tunic deep brown mantle. Natural upright stone at rural crossroads, peaceful Israelite families, green hills, no combat or weapons. Scene: Samuel segue por um caminho entre aldeias para continuar seu trabalho de orientação."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 185,
+  "title": "O Convite que Podia Esperar",
+  "subtitle": "Discernir antes de dizer sim",
+  "reference": "Neemias 6:1–14",
+  "description": "Convites insistentes e uma carta assustadora tentam afastar Neemias da obra. Ele precisa perceber as intenções e manter sua responsabilidade com o povo.",
+  "testament": "antigo",
+  "cover": "/images/covers/185.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quatro convites",
+      "paragraphs": [
+        "A muralha de Jerusalém já não tinha brechas, embora as portas ainda precisassem ser colocadas nos portões. A obra avançara muito. Sambalate, Tobias, Gesém e outros adversários souberam disso. Então Sambalate e Gesém enviaram um convite a Neemias: queriam encontrá-lo nas aldeias da planície de Ono, longe do trabalho que estava conduzindo.",
+        "O convite parecia uma conversa, mas Neemias percebeu que pretendiam lhe fazer mal. Por isso, não foi. Mandou mensageiros explicar que estava ocupado com uma obra importante e que não havia motivo para interrompê-la e descer até eles. Sua resposta era firme e ligada à responsabilidade que havia assumido diante do povo.",
+        "O mesmo pedido chegou quatro vezes. Neemias deu a mesma resposta. A insistência dos mensageiros não transformou um encontro inseguro em uma boa ideia. Ele não precisava aceitar somente para deixar os outros satisfeitos. Naquela situação, continuar na obra e recusar o convite era uma forma de proteger a missão e a si mesmo."
+      ],
+      "image": "185/part1.webp",
+      "alt": "Um mensageiro chega enquanto Neemias acompanha a reconstrução."
+    },
+    {
+      "heading": "Uma carta para espalhar medo",
+      "paragraphs": [
+        "Na quinta tentativa, o mensageiro trouxe uma carta aberta. Nela, Sambalate afirmava que havia rumores de uma rebelião: Neemias e os judeus estariam reconstruindo a muralha para se levantar contra o rei. A carta dizia ainda que Neemias queria ser rei e que profetas estariam anunciando isso em Jerusalém.",
+        "Eram acusações graves, capazes de assustar os trabalhadores e criar suspeitas. No fim, a carta voltava ao mesmo convite: Neemias deveria ir conversar. Ele respondeu que aquelas coisas não estavam acontecendo e que eram invenções. Não tratou a mentira como verdade só porque alguém a escrevera ou dissera que muitas pessoas estavam comentando.",
+        "Neemias entendeu o objetivo: fazer o povo perder a coragem, enfraquecer suas mãos e impedir a conclusão do trabalho. Então orou pedindo que Deus fortalecesse suas mãos. A resposta não foi abandonar a tarefa para perseguir cada rumor. Foi negar a acusação falsa, buscar força e manter atenção ao que realmente precisava ser feito."
+      ],
+      "image": "185/part2.webp",
+      "alt": "Neemias examina uma carta e não aceita suas acusações falsas."
+    },
+    {
+      "heading": "Uma orientação que não vinha de Deus",
+      "paragraphs": [
+        "Depois, Neemias encontrou Semaías em sua casa. Ele sugeriu que os dois se escondessem dentro do templo e fechassem as portas, afirmando que viriam matar Neemias durante a noite. A proposta usava o medo para parecer urgente. Mas Neemias recusou entrar naquele lugar dessa maneira para salvar a própria vida.",
+        "Percebeu que Deus não havia enviado Semaías com aquela mensagem. Tobias e Sambalate o tinham contratado para assustá-lo e levá-lo a agir de modo errado, criando motivo para acusá-lo. Nem toda fala com aparência religiosa merece ser obedecida. Naquele encontro, Neemias precisou avaliar a orientação, sua origem e suas consequências.",
+        "Ele levou a situação a Deus em oração. O relato mostra uma etapa difícil da liderança: distinguir um pedido legítimo de uma armadilha, e um aviso cuidadoso de uma pressão enganosa. A obra precisava de perseverança, mas também de discernimento. Neemias continuou responsável pelo povo sem entregar suas decisões à insistência, aos rumores ou ao medo provocado por outras pessoas."
+      ],
+      "image": "185/part3.webp",
+      "alt": "Neemias se afasta de uma orientação enganosa e permanece atento."
+    }
+  ],
+  "lesson": "Você pode dizer não a um convite que pareça inseguro, mesmo que alguém insista ou use palavras religiosas. Uma orientação boa pode ser conversada com adultos de confiança; não precisa exigir segredo nem pressa assustadora. Se uma mensagem causar medo ou fizer acusações, peça ajuda para verificar. Discernimento é aprender a avaliar com cuidado, sem acreditar em tudo e sem enfrentar situações perigosas sozinho.",
+  "question": "O que você faria se alguém insistisse num convite que o deixasse desconfortável?",
+  "prayer": "Deus, ajuda-nos a reconhecer orientações cuidadosas e a pedir ajuda quando algo parece errado. Dá-nos coragem para dizer não a convites inseguros e sabedoria para verificar o que ouvimos. Aproxima de nós adultos confiáveis que escutem e protejam com respeito. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias responde com firmeza a um convite que o afastaria da obra.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah beside nearly completed ancient city wall calmly returns a rolled message to an adult messenger, firm respectful expression, builders at safe distance behind, warm daylight. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Um mensageiro chega enquanto Neemias acompanha a reconstrução.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult messenger with sealed scroll approaches Nehemiah at ancient Jerusalem wall construction site, Nehemiah listens thoughtfully while workers continue in background, no conflict. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part2",
+      "alt": "Neemias examina uma carta e não aceita suas acusações falsas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah seated at a simple table reading an unlettered open parchment, thoughtful serious eyes, two trusted adult companions nearby, warm oil-lamp and afternoon light, no text visible. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Neemias se afasta de uma orientação enganosa e permanece atento.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah stands calmly near doorway of an ancient stone house, another adult inside gestures insistently toward distant temple while Nehemiah gently declines with open hand, nonthreatening daylight. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 254,
+  "title": "Dez Homens e um Agradecimento",
+  "subtitle": "O caminho de volta para dizer obrigado",
+  "reference": "Lucas 17:11–19",
+  "description": "Dez homens pedem ajuda a Jesus e são curados no caminho. Um deles volta, e sua gratidão se torna uma descoberta para todos.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.17.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um pedido feito à distância",
+      "paragraphs": [
+        "Jesus seguia em direção a Jerusalém, passando pela região entre Samaria e Galileia. Ao entrar numa aldeia, encontrou dez homens que tinham uma doença de pele chamada lepra naquele tempo. Eles permaneceram à distância, conforme as regras que afastavam pessoas com certas doenças da convivência comum. Sua dificuldade envolvia o corpo e também o isolamento.",
+        "Os dez levantaram a voz e pediram misericórdia a Jesus, chamando-o de Mestre. Tinham uma necessidade em comum e fizeram juntos o pedido. Não estavam discutindo quem merecia mais atenção. A distância não impediu que sua voz chegasse até ele. Eles esperavam que Jesus percebesse a situação em que viviam.",
+        "Jesus os viu e lhes disse que fossem se apresentar aos sacerdotes. Naquele contexto, os sacerdotes examinavam essas condições e reconheciam quando alguém podia voltar à convivência da comunidade. A orientação apontava para um caminho de retorno. Os homens ainda precisavam sair do lugar onde estavam e seguir o que Jesus lhes indicara."
+      ],
+      "alt": "Dez homens pedem ajuda a Jesus mantendo distância na entrada de uma aldeia.",
+      "image": "254/part1.webp"
+    },
+    {
+      "heading": "Uma mudança no caminho",
+      "paragraphs": [
+        "Enquanto iam, os dez foram curados. Lucas destaca que a mudança aconteceu durante o percurso. O pedido feito na entrada da aldeia encontrava resposta de uma maneira surpreendente. Aqueles homens, acostumados a viver separados, recebiam a possibilidade de um novo começo. O caminho até os sacerdotes já não era percorrido da mesma forma.",
+        "Um deles percebeu que estava curado e voltou. Louvava a Deus em voz alta. Seu corpo havia recebido cuidado, e seu coração desejou expressar gratidão. A decisão de retornar interrompeu o caminho que fazia com os outros. Ele queria encontrar novamente Jesus, aquele a quem todos tinham pedido misericórdia.",
+        "Ao chegar, lançou-se aos pés de Jesus e agradeceu. Lucas revela então que ele era samaritano. Judeus e samaritanos tinham diferenças e conflitos antigos, mas isso não impediu seu pedido nem o cuidado recebido. Também não impediu que sua resposta de gratidão fosse destacada como algo importante para os que ouviam a história."
+      ],
+      "alt": "Um dos homens percebe a cura e decide voltar para agradecer.",
+      "image": "254/part2.webp"
+    },
+    {
+      "heading": "A gratidão que volta",
+      "paragraphs": [
+        "Jesus perguntou se não tinham sido dez os curados e onde estavam os outros nove. Chamou atenção para o fato de que somente aquele estrangeiro havia voltado para dar glória a Deus. O sinal alcançara todos, mas a resposta daquele homem tornou visível seu reconhecimento. Ele não tratou o presente recebido como se fosse algo sem importância.",
+        "Depois, Jesus lhe disse que se levantasse e seguisse seu caminho, pois sua fé o havia salvado. O homem recebeu uma palavra pessoal depois do agradecimento. Sua história não se encerrava aos pés de Jesus. Ele poderia continuar a vida levando consigo a experiência de ter sido acolhido e a memória daquele encontro.",
+        "O samaritano havia voltado para agradecer. Enquanto caminhava de novo até Jesus, sua voz já glorificava a Deus. Aos pés do Mestre, o pedido de misericórdia se transformara em gratidão. Aquele retorno fazia parte de sua resposta ao cuidado recebido. Entre os dez homens alcançados pela cura, ele escolhera reconhecer de perto quem o havia ajudado."
+      ],
+      "alt": "O homem samaritano agradece a Jesus com alegria.",
+      "image": "254/part3.webp"
+    }
+  ],
+  "lesson": "A gratidão pode ganhar palavras e atitudes. Podemos agradecer a quem prepara uma refeição, ensina com paciência ou oferece ajuda. Não precisamos esperar um acontecimento enorme para reconhecer o cuidado recebido. Também devemos lembrar que pessoas doentes merecem convivência respeitosa e tratamento adequado, sem apelidos ou rejeição. O homem que voltou nos ensina a perceber o presente e a encontrar uma maneira sincera de dizer obrigado.",
+  "question": "A quem você pode agradecer hoje, dizendo exatamente qual cuidado recebeu dessa pessoa?",
+  "prayer": "Deus, ajuda-nos a perceber os cuidados que recebemos todos os dias. Que nossa gratidão apareça em palavras sinceras e em atitudes de carinho. Ensina-nos a acolher quem está doente e a reconhecer o bem que vem por meio de outras pessoas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/254.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um homem samaritano agradece a Jesus ao lado do caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle receives gratitude from adult Samaritan man curly black hair beard green-gray robe, kneeling respectfully with joyful face, ancient village path, no skin lesions, warm sunlight, dignified."
+    },
+    {
+      "role": "part1",
+      "alt": "Dez homens pedem ajuda a Jesus mantendo distância na entrada de uma aldeia.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. Wide clear composition outside an ancient village. JESUS stands alone at FAR LEFT foreground in cream tunic terracotta mantle. EXACTLY TEN adult men stand together at RIGHT midground AT LEAST FOUR METERS AWAY, a visible empty dusty path separates them from Jesus. Arrange the ten men in TWO staggered rows of FIVE with all ten heads clearly visible and countable; varied humble earth-tone linen robes. One is the olive-gray robed short-curly-haired Samaritan from reference. They respectfully raise open hands asking help. No wounds, no bandages, no extra crowd, no extra disciples. Exact count ten men plus Jesus only."
+    },
+    {
+      "role": "part2",
+      "alt": "Um dos homens percebe a cura e decide voltar para agradecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Samaritan man curly black hair beard green-gray robe on village path looks at healthy hands with amazed thankful smile, companions continue far in background, no before-after split, warm light."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem samaritano agradece a Jesus com alegria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Samaritan man green-gray robe rising after thanking Jesus cream tunic terracotta mantle, Jesus gently offers encouraging open hand, peaceful ancient road and olive trees, close-medium joyful composition."
+    }
+  ]
+}

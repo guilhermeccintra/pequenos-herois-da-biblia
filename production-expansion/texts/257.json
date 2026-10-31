@@ -1,0 +1,71 @@
+{
+  "id": 257,
+  "title": "A Conversa junto ao Poço",
+  "subtitle": "Água viva e uma história compartilhada",
+  "reference": "João 4:1–30,39–42",
+  "description": "Jesus conversa com uma mulher samaritana junto ao poço de Jacó. O encontro atravessa diferenças e leva uma aldeia inteira a querer ouvi-lo.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.4.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um pedido de água",
+      "paragraphs": [
+        "Jesus atravessava Samaria e chegou perto de uma cidade chamada Sicar. Cansado da viagem, sentou-se junto ao poço de Jacó. Era por volta do meio-dia. Seus discípulos tinham ido à cidade comprar comida. Enquanto descansava, uma mulher samaritana se aproximou para buscar água, levando consigo a tarefa comum de abastecer sua casa.",
+        "Jesus lhe pediu água para beber. A mulher ficou surpresa, porque judeus e samaritanos tinham relações difíceis e costumavam manter distância. Também havia costumes que tornavam aquela conversa inesperada. Jesus, porém, dirigiu-se a ela com um pedido simples. Não começou pelo desprezo nem permitiu que a diferença entre os povos impedisse o encontro.",
+        "Ele falou sobre o dom de Deus e a água viva que poderia oferecer. A mulher pensou na água do poço. Jesus não tinha um recipiente para tirá-la, e o poço era fundo. Como poderia oferecer algo assim? Suas perguntas eram concretas, ligadas ao trabalho que fazia e ao lugar onde estavam sentados."
+      ],
+      "alt": "Jesus conversa com uma mulher samaritana junto ao poço de Jacó.",
+      "image": "257/part1.webp"
+    },
+    {
+      "heading": "Uma sede mais profunda",
+      "paragraphs": [
+        "Jesus explicou que quem bebesse daquela água voltaria a ter sede, mas que a água que ele oferecia se tornaria uma fonte para a vida eterna. Usava a imagem da água para falar de uma vida recebida de Deus. A mulher pediu essa água. A conversa começava numa necessidade cotidiana e se abria para algo mais profundo.",
+        "Jesus também mostrou que conhecia sua história. Falou com ela sobre seus relacionamentos, e a mulher percebeu que estava diante de um profeta. A conversa junto ao poço se aprofundava. Ela trouxe então uma pergunta sobre adoração, lembrando o monte onde seu povo adorava e a cidade de Jerusalém, importante para o povo de Jesus.",
+        "A mulher mencionou a diferença entre o monte onde os samaritanos adoravam e Jerusalém. Jesus respondeu que chegava a hora de adorar o Pai em espírito e em verdade. O encontro com Deus não seria decidido apenas pela disputa entre lugares. Quando ela falou da vinda do Messias, Jesus revelou que era ele quem conversava com ela."
+      ],
+      "alt": "A mulher escuta Jesus atentamente, com seu cântaro ao lado.",
+      "image": "257/part2.webp"
+    },
+    {
+      "heading": "Uma aldeia vem ouvir",
+      "paragraphs": [
+        "Os discípulos voltaram e se admiraram de encontrá-lo conversando com a mulher. Ela deixou seu cântaro e foi à cidade. Convidou as pessoas a conhecer aquele que sabia sobre sua vida, perguntando se não seria o Cristo. Não apresentou uma longa explicação. Compartilhou o impacto do encontro e chamou outros para conferir.",
+        "Muitos samaritanos creram por causa do testemunho dela. Vieram até Jesus e pediram que ficasse com eles. Ele permaneceu ali por dois dias, e muitas outras pessoas creram depois de ouvir suas palavras. A notícia levada pela mulher abriu uma porta, e a convivência com Jesus aprofundou a descoberta da comunidade.",
+        "As pessoas disseram que agora criam não apenas pelo que ela havia contado, mas porque tinham ouvido por si mesmas e reconhecido Jesus como Salvador do mundo. A conversa começara com um pedido de água junto a um poço. Terminara com uma aldeia acolhendo alguém que, a princípio, parecia separado dela por muitas diferenças."
+      ],
+      "alt": "Moradores de Sicar vêm encontrar Jesus depois do convite da mulher.",
+      "image": "257/part3.webp"
+    }
+  ],
+  "lesson": "Uma conversa respeitosa pode atravessar diferenças antigas. Podemos fazer perguntas, ouvir com atenção e tratar cada pessoa como alguém digno, sem reduzi-la a rumores sobre sua vida. A mulher samaritana também nos mostra o valor de compartilhar uma descoberta sem obrigar os outros a concordar. Ela convidou as pessoas a conhecer, e elas puderam ouvir por si mesmas e formar sua própria resposta.",
+  "question": "Que pergunta respeitosa pode ajudar você a conhecer melhor alguém diferente de você?",
+  "prayer": "Jesus, ensina-nos a conversar com respeito e a escutar sem desprezo. Que não reduzamos ninguém aos comentários dos outros. Ajuda-nos a compartilhar o que aprendemos com humildade e a abrir espaço para encontros que tragam amizade, verdade e esperança. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/257.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus e a mulher samaritana conversam junto ao poço.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated at ancient stone well speaks respectfully with adult Samaritan woman olive skin dark braided hair cream headscarf terracotta dress with teal shawl, clay water jar nearby, bright gentle midday light, balanced equal dignity."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus conversa com uma mulher samaritana junto ao poço de Jacó.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide scene Jesus cream tunic terracotta mantle resting beside deep stone well, adult woman cream headscarf terracotta dress teal shawl arrives carrying clay jar, Samaritan hills and village behind, natural midday landscape."
+    },
+    {
+      "role": "part2",
+      "alt": "A mulher escuta Jesus atentamente, com seu cântaro ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close-medium respectful conversation Jesus cream tunic terracotta mantle and adult woman cream headscarf terracotta dress teal shawl beside well, thoughtful attentive faces, jar on ground, no romance or physical contact."
+    },
+    {
+      "role": "part3",
+      "alt": "Moradores de Sicar vêm encontrar Jesus depois do convite da mulher.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult woman cream headscarf terracotta dress teal shawl walks with welcoming villagers toward Jesus cream tunic terracotta mantle near well, varied adult families eager to listen, warm landscape, joyful community scene."
+    }
+  ]
+}

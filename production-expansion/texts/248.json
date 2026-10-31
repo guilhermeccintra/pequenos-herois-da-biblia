@@ -1,0 +1,71 @@
+{
+  "id": 248,
+  "title": "Quatro Amigos e um Telhado",
+  "subtitle": "Um caminho aberto pelo cuidado",
+  "reference": "Marcos 2:1–12",
+  "description": "Uma casa cheia parece impedir quatro amigos de chegar até Jesus. Eles encontram outra maneira de levar seu companheiro, e todos testemunham algo surpreendente.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.2.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma casa sem espaço",
+      "paragraphs": [
+        "Jesus voltou a Cafarnaum, e logo se soube que estava em casa. Muitas pessoas se reuniram para ouvi-lo. O lugar ficou tão cheio que já não havia espaço nem perto da porta. Enquanto Jesus ensinava, a multidão prestava atenção às suas palavras. Quem chegava depois encontrava dificuldade para entrar e se aproximar.",
+        "Quatro homens trouxeram um amigo que não conseguia andar. Ele estava deitado numa esteira, e precisava da ajuda deles para chegar até Jesus. O grupo não podia simplesmente atravessar as pessoas como se o caminho estivesse livre. A necessidade do companheiro encontrou uma barreira concreta: a casa estava lotada e a entrada, bloqueada.",
+        "Os amigos não voltaram para casa imediatamente. Subiram ao telhado e abriram uma passagem acima do lugar onde Jesus estava. Marcos conta essa iniciativa como parte do encontro. Era uma situação particular daquela casa e daquele tempo, não uma brincadeira para imitar. O objetivo daqueles homens era aproximar seu amigo de quem poderia ajudá-lo."
+      ],
+      "alt": "Quatro amigos chegam à casa cheia carregando um homem em uma esteira.",
+      "image": "248/part1.webp"
+    },
+    {
+      "heading": "Diante de Jesus",
+      "paragraphs": [
+        "Pela abertura do telhado, os quatro baixaram a esteira em que o homem estava deitado. A cena chamou a atenção de todos. Jesus viu a fé deles e se dirigiu ao homem com carinho, dizendo que seus pecados estavam perdoados. Antes de falar sobre seus movimentos, ofereceu uma palavra sobre sua relação com Deus.",
+        "Alguns mestres da Lei estavam sentados ali. Pensaram que Jesus estava dizendo algo que não tinha autoridade para dizer. Quem poderia perdoar pecados, a não ser Deus? A pergunta tocava o centro do que acontecia. O encontro não era apenas sobre uma maneira engenhosa de passar pela multidão. Revelava algo sobre quem Jesus era.",
+        "Jesus percebeu o que pensavam e lhes fez uma pergunta. O que parecia mais fácil: dizer que os pecados estavam perdoados ou mandar o homem se levantar e andar? O perdão não era algo que a multidão pudesse enxergar com os olhos. Os próximos acontecimentos mostrariam a autoridade de Jesus de uma maneira visível."
+      ],
+      "alt": "O homem é colocado diante de Jesus, que o recebe com atenção.",
+      "image": "248/part2.webp"
+    },
+    {
+      "heading": "A esteira volta para casa",
+      "paragraphs": [
+        "Jesus explicou que o Filho do Homem tinha autoridade na terra para perdoar pecados. Então se voltou para o homem e lhe disse que se levantasse, pegasse sua esteira e fosse para casa. Aquela orientação mudava completamente a cena. A esteira que o havia carregado até ali agora seria carregada por ele.",
+        "O homem se levantou imediatamente, tomou sua esteira e saiu à vista de todos. A multidão ficou admirada e glorificou a Deus. Nunca tinham visto algo assim. Os amigos, que haviam procurado uma passagem pelo telhado, testemunharam mais do que imaginavam: Jesus oferecera perdão e restaurara a capacidade de andar de seu companheiro.",
+        "A casa ficaria na memória por aquele encontro extraordinário. Os quatro amigos tinham levado até Jesus alguém que precisava de ajuda, vencendo juntos a dificuldade de chegar perto. Agora o homem seguia para sua própria casa, levando a esteira e louvando a Deus. Seu caminho reunia o cuidado dos amigos e a autoridade compassiva do Senhor."
+      ],
+      "alt": "O homem sai da casa levando sua esteira enquanto os amigos se alegram.",
+      "image": "248/part3.webp"
+    }
+  ],
+  "lesson": "Amizade também aparece quando ajudamos alguém a participar. Podemos perceber barreiras, convidar quem ficou de fora e pedir a um adulto soluções seguras. Não devemos subir em telhados nem carregar pessoas sem orientação. A cura dessa história não significa que toda deficiência seja causada por um erro pessoal. Quem tem dificuldade para se mover merece respeito, acessibilidade e amizade, com ou sem uma mudança em seu corpo.",
+  "question": "Há alguma barreira que impede alguém de participar de uma atividade com você? Como pedir ajuda para removê-la?",
+  "prayer": "Jesus, obrigado pelos amigos que se importam de verdade. Ensina-nos a perceber quem ficou de fora e a buscar maneiras seguras de ajudar. Que nossa comunidade ofereça respeito, acesso e amizade a todas as pessoas, sem julgamentos e sem abandono. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/248.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Quatro amigos se alegram ao lado do companheiro que agora caminha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle with formerly paralyzed adult olive skin short dark beard ochre tunic carrying rolled woven mat, four adult friends smiling nearby, Capernaum stone courtyard, joyful dignified atmosphere."
+    },
+    {
+      "role": "part1",
+      "alt": "Quatro amigos chegam à casa cheia carregando um homem em uma esteira.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. ONLY FIVE ADULT MEN in the main group: four friends in muted blue-gray, sage, tan and brown linen robes carry their adult friend in an OCHRE tunic lying on a woven stretcher, one carrier at each corner. Jesus is INSIDE the distant crowded house and IS NOT VISIBLE. No long-haired cream-and-red figure anywhere in foreground, no Jesus carrying the stretcher. Show the four friends approaching a crowded Capernaum stone doorway, supportive careful expressions, new wide street composition."
+    },
+    {
+      "role": "part2",
+      "alt": "O homem é colocado diante de Jesus, que o recebe com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man ochre tunic resting safely on woven mat on floor before Jesus cream tunic terracotta mantle in crowded house, ropes and open roof visible above but no falling, people making room, warm attentive faces."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem sai da casa levando sua esteira enquanto os amigos se alegram.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man ochre tunic short beard walks through stone doorway carrying rolled mat under arm, four friends greet him warmly, Jesus terracotta mantle visible inside, joyful crowd with space to pass, golden sunlight."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 315,
+  "title": "Tabita e as Roupas do Cuidado",
+  "subtitle": "Pequenos pontos, muito carinho",
+  "reference": "Atos 9:36–43",
+  "description": "Tabita é conhecida pelas roupas e pela ajuda que oferece às pessoas. Quando ela morre, a comunidade sente sua falta e procura Pedro em meio à tristeza.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma mulher que cuidava",
+      "paragraphs": [
+        "Na cidade de Jope vivia uma discípula chamada Tabita, também conhecida pelo nome grego Dorcas. Atos a descreve como alguém dedicada a boas obras e à ajuda aos necessitados. Sua fé aparecia em atitudes concretas. Entre as marcas de seu cuidado estavam roupas feitas para outras pessoas, peças que carregavam trabalho, tempo e atenção.",
+        "Tabita adoeceu e morreu. Seus amigos cuidaram de seu corpo e o colocaram em um quarto no andar de cima. A comunidade ficou triste. A Bíblia não esconde a dor de perder alguém querido. Quando uma pessoa participa da vida dos outros com generosidade, sua ausência pode ser sentida em muitos pequenos lugares da rotina.",
+        "Jope ficava perto de Lida, onde Pedro estava. Ao saberem disso, os discípulos enviaram dois homens para pedir que viesse sem demora. Não conheciam todos os detalhes do que aconteceria. Sabiam, porém, que desejavam sua presença naquele momento. Pedro se levantou e acompanhou os mensageiros até a casa onde os amigos de Tabita estavam reunidos."
+      ],
+      "image": "315/part1.webp",
+      "alt": "Tabita entrega uma roupa recém-costurada a uma viúva idosa, ambas sorrindo com afeto, com tecidos e linhas ao fundo."
+    },
+    {
+      "heading": "As roupas contam uma história",
+      "paragraphs": [
+        "Quando Pedro chegou, foi levado ao quarto. As viúvas estavam perto dele, chorando e mostrando as túnicas e outras roupas que Tabita havia feito enquanto vivia com elas. Aqueles tecidos contavam algo sobre sua amizade. Não eram somente objetos guardados: lembravam o cuidado de uma pessoa que havia percebido necessidades e usado suas mãos para ajudar.",
+        "Pedro pediu que todos saíssem do quarto. Ajoelhou-se e orou. Depois, voltando-se para Tabita, pediu que se levantasse. Ela abriu os olhos e, ao ver Pedro, sentou-se. Atos apresenta esse momento como um acontecimento extraordinário de vida, recebido em meio a uma casa que estava cheia de tristeza.",
+        "Pedro lhe deu a mão e a ajudou a ficar de pé. Então chamou os discípulos e as viúvas e a apresentou viva. As pessoas que pouco antes mostravam suas roupas com lágrimas agora podiam vê-la novamente. A notícia transformava o encontro: a amiga que tanto havia cuidado delas estava de volta, diante de seus olhos."
+      ],
+      "image": "315/part2.webp",
+      "alt": "Viúvas mostram a Pedro roupas feitas por Tabita em uma sala iluminada por lamparinas; há tristeza respeitosa, sem corpo visível."
+    },
+    {
+      "heading": "Uma esperança conhecida",
+      "paragraphs": [
+        "O acontecimento se tornou conhecido por toda Jope, e muitas pessoas creram no Senhor. A alegria não apontava para Pedro como alguém que controlava a vida. Ele havia orado, reconhecendo sua dependência de Deus. A história de Tabita se tornou um testemunho sobre Jesus e sobre a esperança que os discípulos anunciavam.",
+        "Pedro permaneceu algum tempo em Jope, hospedado na casa de um homem chamado Simão, que trabalhava com couro. A cidade continuaria participando de outras histórias importantes. Na memória daquela comunidade, porém, permaneciam as roupas, as lágrimas e a alegria de reencontrar Tabita. Seu cuidado cotidiano tinha aproximado pessoas antes daquele acontecimento extraordinário.",
+        "A vida de Tabita continuava ligada àquela comunidade que tanto a amava. As roupas mostradas pelas viúvas lembravam dias de trabalho generoso, e sua presença agora renovava a alegria de todos. Sua história reuniu o cuidado cotidiano e uma surpresa extraordinária. Ponto por ponto, gesto por gesto, seu carinho já havia feito diferença para muitas pessoas."
+      ],
+      "image": "315/part3.webp",
+      "alt": "Tabita, viva e de pé, é recebida com alegria por suas amigas no quarto superior de uma casa, com Pedro ao lado."
+    }
+  ],
+  "lesson": "Um talento simples pode se tornar cuidado: costurar, desenhar, cozinhar em família ou ajudar a organizar algo. Tabita usava suas habilidades para perceber e atender necessidades. Podemos descobrir o que sabemos fazer e pensar em alguém que receberia esse gesto com alegria. A história também mostra como uma vida generosa deixa lembranças preciosas. O carinho oferecido no cotidiano pode alcançar muitas pessoas, mesmo por meio de trabalhos discretos.",
+  "question": "Que habilidade você está aprendendo e gostaria de usar para fazer algo bom por outra pessoa?",
+  "prayer": "Jesus, obrigado pelas pessoas que demonstram amor em gestos pequenos. Ajuda-nos a usar nossos talentos para cuidar. Consola quem sente saudade e acolhe nossas lágrimas. Que nossa família encontre companhia, esperança e boas lembranças nos momentos de tristeza. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/315.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.9"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Tabita, mulher adulta de pele oliva e cabelos escuros cobertos por lenço azul, costura uma túnica junto a amigas em uma casa acolhedora de Jope.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Tabitha is an olive-skinned woman around forty, dark eyes, brown hair beneath a blue headscarf, dusty rose linen dress, cream shawl.  Scene: Tabita, mulher adulta de pele oliva e cabelos escuros cobertos por lenço azul, costura uma túnica junto a amigas em uma casa acolhedora de Jope."
+    },
+    {
+      "role": "part1",
+      "alt": "Tabita entrega uma roupa recém-costurada a uma viúva idosa, ambas sorrindo com afeto, com tecidos e linhas ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Tabitha is an olive-skinned woman around forty, dark eyes, brown hair beneath a blue headscarf, dusty rose linen dress, cream shawl.  Scene: Tabita entrega uma roupa recém-costurada a uma viúva idosa, ambas sorrindo com afeto, com tecidos e linhas ao fundo."
+    },
+    {
+      "role": "part2",
+      "alt": "Viúvas mostram a Pedro roupas feitas por Tabita em uma sala iluminada por lamparinas; há tristeza respeitosa, sem corpo visível.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Tabitha is an olive-skinned woman around forty, dark eyes, brown hair beneath a blue headscarf, dusty rose linen dress, cream shawl.  Scene: Viúvas mostram a Pedro roupas feitas por Tabita em uma sala iluminada por lamparinas; há tristeza respeitosa, sem corpo visível. Elenco exato: Pedro em túnica terracota e manto creme e três viúvas idosas. Tabita NÃO está visível nesta cena, nenhuma mulher com seu rosto ou lenço azul. Peter MUST match the SECOND reference: tight curly hair with grey at temples, short greying beard, rust tunic and cream shawl, mature kindly face. Use second reference for Peter identity ONLY; Eneias the green-clothed man is NOT in this scene. First reference only supplies Tabitha identity and style. Exact cast in this scene still applies."
+    },
+    {
+      "role": "part3",
+      "alt": "Tabita, viva e de pé, é recebida com alegria por suas amigas no quarto superior de uma casa, com Pedro ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Tabitha is an olive-skinned woman around forty, dark eyes, brown hair beneath a blue headscarf, dusty rose linen dress, cream shawl.  Scene: Tabita, viva e de pé, é recebida com alegria por suas amigas no quarto superior de uma casa, com Pedro ao lado. Peter MUST match the SECOND reference: tight curly hair with grey at temples, short greying beard, rust tunic and cream shawl, mature kindly face. Use second reference for Peter identity ONLY; Eneias the green-clothed man is NOT in this scene. First reference only supplies Tabitha identity and style. Exact cast in this scene still applies."
+    }
+  ]
+}

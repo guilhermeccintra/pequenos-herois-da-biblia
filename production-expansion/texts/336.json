@@ -1,0 +1,71 @@
+{
+  "id": 336,
+  "title": "Paz com Deus",
+  "subtitle": "Um amor que chega primeiro",
+  "reference": "Romanos 5:1–11",
+  "description": "Em sua carta aos romanos, Paulo explica de onde vem a paz com Deus. Seu ensino convida a família a descobrir a graça, a esperança e um amor que não precisa ser comprado.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/336.webp",
+  "parts": [
+    {
+      "heading": "Uma carta sobre a paz",
+      "paragraphs": [
+        "Uma carta pode atravessar uma grande distância e levar uma notícia que muda a maneira de olhar a vida. Na carta aos cristãos de Roma, Paulo escreveu sobre uma notícia assim: por meio de Jesus, as pessoas podem ter paz com Deus. Era um convite para conhecer a graça e descobrir a alegria de viver perto do Senhor.",
+        "Paulo explicou que somos aceitos diante de Deus pela fé. Essa confiança se apoia em Jesus e no que ele fez, não em uma coleção de prêmios que alguém consiga apresentar. A graça é justamente esse favor recebido. Não funciona como uma competição em que somente a pessoa mais habilidosa pode chegar ao primeiro lugar.",
+        "A paz de que a carta fala é reconciliação com Deus. Ela abre espaço para viver na presença dele com esperança. Paulo não disse que os cristãos nunca sentiriam medo ou teriam perguntas difíceis. Ele apontou para uma relação restaurada, que poderia sustentá-los mesmo nos dias em que muitas coisas ainda precisassem ser enfrentadas."
+      ],
+      "image": "336/part1.webp",
+      "alt": "Paulo, homem de meia-idade com barba curta e cabelo escuro ralo, túnica azul e manto bege, escreve um rolo de carta sobre mesa de madeira à luz da manhã."
+    },
+    {
+      "heading": "Esperança no caminho",
+      "paragraphs": [
+        "Logo depois, o apóstolo falou de dificuldades. Aquelas pessoas não viviam em um mundo sem problemas, e ele conhecia bem o sofrimento. Em vez de esconder essa realidade, mostrou que a perseverança pode amadurecer ao longo do caminho. Perseverar é continuar na direção do bem, recebendo ajuda e aprendendo, mesmo quando tudo parece demorado.",
+        "Paulo ligou perseverança, amadurecimento e esperança. A cada passo, uma pessoa pode aprender a confiar, reconhecer a ajuda recebida e descobrir novas maneiras de continuar. Uma dificuldade pode trazer perguntas e cansaço, mas também pode ser atravessada com companhia e cuidado. A esperança aponta para além do momento difícil, lembrando que Deus permanece presente.",
+        "E por que essa esperança não seria apenas um desejo vazio? Paulo respondeu falando do amor de Deus, derramado nos corações pelo Espírito Santo. O centro da confiança não estava no tamanho da coragem de cada pessoa. Estava naquele que as amava e estava presente, inclusive quando a coragem parecia pequena e os passos eram lentos."
+      ],
+      "image": "336/part2.webp",
+      "alt": "Uma família do primeiro século caminha por uma estrada de pedras, um adulto oferece a mão a uma criança cansada, colinas e sol suave ao fundo, imagem simbólica de perseverança acompanhada."
+    },
+    {
+      "heading": "O amor tomou a iniciativa",
+      "paragraphs": [
+        "Para explicar esse amor, Paulo lembrou a entrega de Jesus. Cristo não esperou encontrar uma humanidade sem erros para amá-la. Sua morte aconteceu por pessoas que precisavam de perdão e de um novo começo. Deus tomou a iniciativa da reconciliação; o amor não apareceu como recompensa por uma perfeição que ninguém havia alcançado.",
+        "A carta convidava seus leitores a olhar para Jesus e reconhecer esse presente. Ser amado assim não torna os erros bons nem dispensa a responsabilidade por eles. Pelo contrário, oferece um caminho para reconhecê-los com sinceridade, buscar reparação e aprender a viver de outra maneira, sem imaginar que toda falha apaga para sempre o valor de alguém.",
+        "Paulo terminou esse trecho falando de alegria em Deus. A reconciliação recebida por meio de Jesus era motivo de gratidão. Os leitores ainda teriam seus dias de trabalho, suas conversas difíceis e suas necessidades. Mas poderiam atravessar tudo isso lembrando que a primeira palavra dessa relação era o amor de Deus, e que a esperança tinha onde se apoiar."
+      ],
+      "image": "336/part3.webp",
+      "alt": "Pessoas de diferentes idades reunidas em pátio simples ouvem uma carta e se acolhem com alegria serena, cesta de pão e oliveira ao lado, imagem artística da reconciliação."
+    }
+  ],
+  "lesson": "Não precisamos transformar a fé em uma disputa para ver quem merece mais amor. Podemos agradecer pela graça de Deus e responder com atitudes honestas. Quando erramos, pedir perdão e reparar o que for possível são caminhos de crescimento. Nas dificuldades, procurar ajuda também faz parte da perseverança. A paz com Deus não exige esconder tristeza: podemos falar com ele e com pessoas confiáveis sobre o que estamos vivendo.",
+  "question": "Em qual situação lembrar que você é amado pode ajudar a reconhecer um erro sem desistir de melhorar?",
+  "prayer": "Deus, obrigado por nos amar e por nos oferecer paz por meio de Jesus. Ajuda-nos a receber tua graça, reconhecer nossos erros e crescer com esperança. Nos dias difíceis, aproxima pessoas que cuidem de nós e ensina-nos a pedir ajuda. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Paulo escreve uma carta junto a uma janela aberta para um jardim, enquanto uma família lê uma cópia em um pátio próximo, atmosfera de paz e reconciliação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Paulo escreve uma carta junto a uma janela aberta para um jardim, enquanto uma família lê uma cópia em um pátio próximo, atmosfera de paz e reconciliação."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo, homem de meia-idade com barba curta e cabelo escuro ralo, túnica azul e manto bege, escreve um rolo de carta sobre mesa de madeira à luz da manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Paulo, homem de meia-idade com barba curta e cabelo escuro ralo, túnica azul e manto bege, escreve um rolo de carta sobre mesa de madeira à luz da manhã."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família do primeiro século caminha por uma estrada de pedras, um adulto oferece a mão a uma criança cansada, colinas e sol suave ao fundo, imagem simbólica de perseverança acompanhada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma família do primeiro século caminha por uma estrada de pedras, um adulto oferece a mão a uma criança cansada, colinas e sol suave ao fundo, imagem simbólica de perseverança acompanhada."
+    },
+    {
+      "role": "part3",
+      "alt": "Pessoas de diferentes idades reunidas em pátio simples ouvem uma carta e se acolhem com alegria serena, cesta de pão e oliveira ao lado, imagem artística da reconciliação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Pessoas de diferentes idades reunidas em pátio simples ouvem uma carta e se acolhem com alegria serena, cesta de pão e oliveira ao lado, imagem artística da reconciliação."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/ROM.5.KJV"
+  ]
+}

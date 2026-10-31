@@ -1,0 +1,71 @@
+{
+  "id": 131,
+  "title": "A Amizade de Davi e Jônatas",
+  "subtitle": "Um compromisso em dias difíceis",
+  "reference": "1 Samuel 18:1–4; 20",
+  "description": "Davi e Jônatas constroem uma amizade que enfrenta dias de perigo. Para proteger o amigo, Jônatas precisa escutar, procurar a verdade e cumprir a palavra dada.",
+  "testament": "antigo",
+  "cover": "/images/covers/131.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um amigo no palácio",
+      "paragraphs": [
+        "Depois de Davi falar com Saul, Jônatas sentiu uma grande amizade por ele. A Bíblia diz que o amou como a si mesmo. Jônatas era filho do rei, enquanto Davi vinha de uma família de pastores de Belém. A diferença de posição não impediu que reconhecessem um no outro alguém digno de carinho e confiança.",
+        "Jônatas fez um compromisso de amizade com Davi. Entregou-lhe sua capa e outros objetos de seu equipamento, num gesto importante naquele tempo. Não era apenas uma troca de presentes. Expressava a disposição de tratar o amigo com lealdade. O que essa palavra significava seria mostrado mais tarde, quando estar ao lado de Davi se tornasse difícil.",
+        "Com o tempo, Saul passou a ver Davi como uma ameaça. A situação no palácio mudou, e Davi precisou buscar proteção. Quando procurou Jônatas, perguntou por que o rei queria matá-lo. Sua fala vinha acompanhada de angústia. A amizade não estava sendo vivida somente em dias felizes; agora precisava abrir espaço para ouvir um medo real."
+      ],
+      "image": "131/part1.webp",
+      "alt": "Jônatas entrega sua capa a Davi num gesto de amizade no pátio do palácio."
+    },
+    {
+      "heading": "Procurar a verdade",
+      "paragraphs": [
+        "Jônatas inicialmente pensou que seu pai não faria algo tão grave sem lhe contar. Davi explicou que Saul conhecia a amizade dos dois e poderia esconder seus planos justamente por isso. Em vez de encerrar a conversa com uma certeza própria, Jônatas se dispôs a ajudar. Os amigos combinaram uma maneira de entender a reação do rei.",
+        "Haveria uma refeição de festa, e Davi não ocuparia seu lugar. Jônatas observaria o que Saul diria e depois avisaria ao amigo. Também renovaram o compromisso entre suas famílias. A preocupação não era apenas sobreviver àquele dia. Desejavam que a bondade continuasse mesmo se, no futuro, suas posições na vida mudassem bastante.",
+        "Durante a refeição, Saul perguntou por Davi. Ao ouvir a resposta de Jônatas, reagiu com grande raiva e revelou sua intenção. Jônatas perguntou o que Davi havia feito para merecer a morte. O rei chegou a ameaçar o próprio filho. Então ficou claro que o perigo era verdadeiro. Jônatas deixou a mesa triste, especialmente pelo tratamento dado ao amigo."
+      ],
+      "image": "131/part2.webp",
+      "alt": "Davi e Jônatas conversam seriamente à sombra de uma árvore, atentos ao que o outro diz."
+    },
+    {
+      "heading": "A despedida no campo",
+      "paragraphs": [
+        "Jônatas foi ao campo no horário combinado, acompanhado por um menino que recolheria suas flechas. Usou o sinal que havia acertado com Davi para avisar que não era seguro voltar. O menino não conhecia o significado da conversa escondida no treino. Depois de enviá-lo de volta à cidade, Jônatas pôde encontrar o amigo pessoalmente.",
+        "Davi saiu do lugar onde aguardava. Os dois se despediram com lágrimas e reafirmaram a promessa de lealdade diante do Senhor. Não havia uma solução fácil que permitisse continuar tudo como antes. Proteger Davi significava aceitar a distância. A amizade precisava ser maior que a vontade de mantê-lo perto a qualquer custo.",
+        "Davi partiu, e Jônatas voltou para a cidade. O compromisso não apagou o sofrimento da separação, mas deu direção à maneira como se tratavam. Anos depois, Davi se lembraria dessa amizade ao cuidar de um filho de Jônatas. Uma palavra sincera pode atravessar mudanças e permanecer viva em gestos de bondade quando a primeira conversa já ficou longe."
+      ],
+      "image": "131/part3.webp",
+      "alt": "Jônatas observa Davi seguir por um caminho seguro entre as colinas, com expressão de carinho e saudade."
+    }
+  ],
+  "lesson": "Jônatas levou a preocupação de Davi a sério e procurou compreender o que estava acontecendo. A amizade cresce quando escutamos com atenção, cumprimos o que prometemos e buscamos ajuda quando necessário. Podemos cuidar de um amigo oferecendo companhia, ouvindo sua tristeza e chamando alguém que saiba ajudar. Mesmo quando os caminhos ficam distantes, o carinho pode continuar. Uma amizade sincera deseja o bem do outro e encontra maneiras de demonstrá-lo.",
+  "question": "Como você pode apoiar um amigo que conta algo preocupante, procurando ajuda em vez de guardar o problema sozinho?",
+  "prayer": "Deus, obrigado pelas amizades que nos ajudam a crescer. Ensina-nos a escutar com atenção, falar a verdade e cumprir nossos compromissos. Quando alguém estiver em perigo, dá-nos coragem para buscar ajuda responsável. Que nossa amizade respeite limites e sempre procure proteger a vida. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi e Jônatas se abraçam num campo ao amanhecer, numa despedida respeitosa e emocionada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish-brown curls sand tunic green sash; Jonathan young adult olive skin dark short curls blue tunic brown cloak. Ancient Israel countryside and palace, no combat or threatening gestures. Only scene-specific people, no copying reference cast. Scene: Davi e Jônatas se abraçam num campo ao amanhecer, numa despedida respeitosa e emocionada."
+    },
+    {
+      "role": "part1",
+      "alt": "Jônatas entrega sua capa a Davi num gesto de amizade no pátio do palácio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish-brown curls sand tunic green sash; Jonathan young adult olive skin dark short curls blue tunic brown cloak. Ancient Israel countryside and palace, no combat or threatening gestures. Only scene-specific people, no copying reference cast. Scene: Jônatas entrega sua capa a Davi num gesto de amizade no pátio do palácio."
+    },
+    {
+      "role": "part2",
+      "alt": "Davi e Jônatas conversam seriamente à sombra de uma árvore, atentos ao que o outro diz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish-brown curls sand tunic green sash; Jonathan young adult olive skin dark short curls blue tunic brown cloak. Ancient Israel countryside and palace, no combat or threatening gestures. Only scene-specific people, no copying reference cast. Scene: Davi e Jônatas conversam seriamente à sombra de uma árvore, atentos ao que o outro diz."
+    },
+    {
+      "role": "part3",
+      "alt": "Jônatas observa Davi seguir por um caminho seguro entre as colinas, com expressão de carinho e saudade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish-brown curls sand tunic green sash; Jonathan young adult olive skin dark short curls blue tunic brown cloak. Ancient Israel countryside and palace, no combat or threatening gestures. Only scene-specific people, no copying reference cast. Scene: Jônatas observa Davi seguir por um caminho seguro entre as colinas, com expressão de carinho e saudade."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 224,
+  "title": "Uma Carta para Quem Está Longe",
+  "subtitle": "Esperança que aprende a cuidar do presente",
+  "reference": "Jeremias 29:1–14",
+  "description": "A mensagem enviada aos exilados ensina a construir, plantar e buscar o bem da cidade enquanto esperam pelo retorno.",
+  "testament": "antigo",
+  "cover": "/images/covers/224.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras atravessam a distância",
+      "paragraphs": [
+        "Muitas pessoas de Judá haviam sido levadas para a Babilônia. Estavam longe de Jerusalém, de lugares conhecidos e de parte de sua história. Nesse tempo de exílio, Jeremias escreveu uma carta com a mensagem do Senhor. Ela seria enviada aos anciãos, sacerdotes e demais pessoas que viviam naquela terra distante.",
+        "A carta seguiu de Jerusalém por meio de mensageiros que viajavam até a Babilônia. Podemos imaginar o valor de receber palavras vindas de casa. Havia perguntas sobre o futuro e sobre como viver naquele lugar. A mensagem de Jeremias oferecia orientação para o presente e uma esperança que precisaria de paciência.",
+        "O Senhor convidava as famílias a construir casas e morar nelas, plantar jardins e comer seus frutos. Também deveriam cuidar da continuidade de suas famílias. A vida precisava receber atenção durante a espera. Cada casa preparada e cada jardim cultivado poderiam oferecer sustento, convivência e um lugar de cuidado."
+      ],
+      "image": "224/part1.webp",
+      "alt": "Jeremias entrega uma carta aos mensageiros"
+    },
+    {
+      "heading": "Buscar o bem da cidade",
+      "paragraphs": [
+        "A orientação incluía um pedido surpreendente: procurar a paz da cidade onde estavam e orar por ela. O bem-estar daquele lugar também alcançaria os exilados. Mesmo carregando saudade, eles eram chamados a participar de uma convivência mais cuidadosa. A esperança encontraria espaço em atitudes voltadas para a vida ao redor.",
+        "Plantar um jardim exige voltar à terra, regar e acompanhar o crescimento. Construir uma casa envolve preparo e cooperação. Essas tarefas ajudavam a cuidar do presente sem apagar a lembrança de Jerusalém. A carta convidava o povo a continuar vivendo com responsabilidade e a procurar oportunidades de fazer o bem.",
+        "Jeremias também advertiu sobre pessoas que anunciavam mensagens falsas em nome de Deus. Os exilados precisavam escutar com discernimento. A espera seria longa, e promessas enganosas poderiam atrapalhar o cuidado necessário. Receber a verdade ajudava a preparar o coração e a organizar a vida com mais firmeza."
+      ],
+      "image": "224/part2.webp",
+      "alt": "Famílias escutam uma carta numa comunidade distante"
+    },
+    {
+      "heading": "Uma esperança que alcança o futuro",
+      "paragraphs": [
+        "A mensagem anunciava um tempo de setenta anos ligado à Babilônia e prometia que o Senhor voltaria sua atenção ao povo para conduzi-lo de volta. Havia futuro além da experiência dolorosa do exílio. O cuidado de Deus era apresentado por meio de pensamentos de paz, esperança e restauração para aquela comunidade.",
+        "O povo seria convidado a chamar pelo Senhor, orar e buscá-lo de todo o coração. A promessa de ser ouvido aproximava a esperança da oração cotidiana. Mesmo longe de Jerusalém, as pessoas podiam continuar nessa relação. A distância da terra conhecida não encerrava a possibilidade de conversar com Deus e aprender seus caminhos.",
+        "A carta reúne saudade, responsabilidade e confiança. Ela ensina a cuidar da vida enquanto o futuro ainda está sendo esperado. Podemos aprender com esse convite quando atravessamos mudanças: acolher ajuda, cultivar boas relações e procurar o bem do lugar onde estamos. Uma pequena atitude de hoje pode carregar esperança para amanhã."
+      ],
+      "image": "224/part3.webp",
+      "alt": "Vizinhos colaboram no cuidado de um bairro"
+    }
+  ],
+  "lesson": "A carta de Jeremias mostra que a esperança pode caminhar junto com o cuidado do presente. Podemos sentir saudade e, ao mesmo tempo, construir relações boas no lugar onde estamos. Numa mudança, procure pessoas que ajudem você e encontre um pequeno gesto para contribuir. Orar, aprender e cuidar da convivência são maneiras de atravessar a espera com confiança e responsabilidade.",
+  "question": "Como você pode contribuir para o bem do lugar onde vive hoje?",
+  "prayer": "Deus, acompanha quem está longe de casa ou vivendo uma mudança. Ajuda-nos a encontrar companhia e a cuidar do lugar onde estamos. Ensina-me a esperar com confiança, a orar com sinceridade e a fazer o bem nas oportunidades de hoje. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JER29.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família exilada cuida de um jardim na Babilônia",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean family in Babylon tending a modest vegetable garden beside their clay-brick home, parents and children planting and watering, distant blue Babylonian gate softly visible, hopeful caring faces, warm sunrise. "
+    },
+    {
+      "role": "part1",
+      "alt": "Jeremias entrega uma carta aos mensageiros",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah handing a sealed rolled parchment letter to two adult messengers in a Jerusalem courtyard, travel bags ready, thoughtful caring expression, no visible writing, warm light. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Famílias escutam uma carta numa comunidade distante",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Judean exiles of different ages gathered in a Babylonian courtyard listening to an elder read a blank parchment letter, attentive hopeful faces, clay-brick homes and date palms, no Jeremiah present. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos colaboram no cuidado de um bairro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Babylonian and Judean neighbors cooperating peacefully to plant a shared courtyard garden, children carrying small clay watering cups, simple homes, cultural variety in modest linen garments, warm communal hope, no named prophet. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 150,
+  "title": "Elias e a Voz Suave",
+  "subtitle": "Descanso antes do próximo passo",
+  "reference": "1 Reis 19:1–18",
+  "description": "Depois de viver momentos intensos, Elias fica com medo e foge. Deus cuida de seu cansaço, escuta sua dor e o encontra de um jeito diferente do que ele esperava.",
+  "testament": "antigo",
+  "cover": "/images/covers/150.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quando a força parecia acabar",
+      "paragraphs": [
+        "Depois dos acontecimentos no Carmelo, Elias recebeu uma ameaça de Jezabel. Ficou com medo e fugiu para preservar a vida. Chegou a Berseba e deixou seu servo ali. Depois seguiu para o deserto, caminhou um dia e se sentou debaixo de um arbusto. O profeta que havia falado diante de uma multidão agora se sentia profundamente esgotado.",
+        "Elias disse a Deus que não aguentava mais. O medo e o cansaço pesavam sobre ele, que se sentia sozinho naquela caminhada. Debaixo do arbusto, deitou-se e dormiu. O profeta que havia falado diante de uma multidão agora precisava descansar. Por um momento, a viagem parou, e o silêncio do deserto cercou seu sono.",
+        "Um anjo o tocou e o chamou para comer. Ao olhar, Elias viu pão preparado sobre pedras quentes e uma jarra de água. Comeu, bebeu e voltou a se deitar. O cuidado recebido não começou com uma repreensão por estar cansado. Começou com alimento, água e repouso, coisas simples que um corpo e uma mente aflitos precisam receber."
+      ],
+      "image": "150/part1.webp",
+      "alt": "Elias descansa à sombra de um arbusto, com pão e uma jarra de água ao alcance em local seguro."
+    },
+    {
+      "heading": "Uma longa caminhada e uma pergunta",
+      "paragraphs": [
+        "O anjo voltou e o chamou novamente para comer, porque a viagem seria longa. Fortalecido por aquele alimento, Elias caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus. Ali entrou numa caverna e passou a noite. Sua jornada o levara para longe do rei e também para um momento de escuta.",
+        "O Senhor lhe perguntou o que fazia ali. Elias respondeu falando de seu zelo, do abandono da aliança pelo povo e das ameaças contra sua vida. Sentia-se sozinho. A pergunta abriu espaço para que dissesse como estava enxergando sua situação. Deus não precisava de informação, mas Elias precisava ter sua dor ouvida e colocada em palavras.",
+        "Recebeu então a orientação de sair e ficar no monte. Passou um vento forte, capaz de fender montes e quebrar rochas, mas o Senhor não estava naquele vento. Depois houve um terremoto e fogo, mas o Senhor também não estava nesses acontecimentos. Elias aprenderia a perceber a presença de Deus de outra maneira."
+      ],
+      "image": "150/part2.webp",
+      "alt": "Elias caminha por uma trilha ampla entre montanhas, levando seu manto e uma pequena sacola."
+    },
+    {
+      "heading": "Uma voz e um caminho adiante",
+      "paragraphs": [
+        "Depois do fogo veio uma voz mansa e delicada. Ao ouvi-la, Elias cobriu o rosto com seu manto e foi para a entrada da caverna. A cena muda o ritmo da história: depois de ameaça, fuga e fenômenos intensos, o encontro acontece em quietude. O profeta não precisava procurar somente o que era grande e assustador para reconhecer a presença de Deus.",
+        "A pergunta sobre o que fazia ali foi repetida, e Elias apresentou novamente sua dor. O Senhor lhe deu tarefas para o caminho seguinte e indicou Eliseu como alguém que continuaria o serviço profético. O futuro não dependeria apenas de suas forças. Haveria continuidade e companhia dentro de uma história maior que o momento de esgotamento.",
+        "Deus também revelou que sete mil em Israel não haviam se curvado a Baal. Elias não era o único fiel, embora se sentisse assim. Sua solidão percebida não contava toda a realidade. Depois de ser alimentado, descansar e ser ouvido, podia receber uma visão mais ampla do caminho. O próximo passo viria acompanhado da lembrança de que não precisava carregar tudo sozinho."
+      ],
+      "image": "150/part3.webp",
+      "alt": "Elias escuta em silêncio à entrada da caverna, cercado por uma paisagem tranquila depois do vento."
+    }
+  ],
+  "lesson": "Elias estava cansado e assustado, e recebeu alimento, descanso e uma nova direção. Até pessoas corajosas precisam de cuidado. Podemos reconhecer quando nosso corpo pede uma pausa e quando nosso coração precisa de uma boa conversa. Deus conhece nossas fraquezas e não deixa de nos amar por causa delas. Ouvir com calma, aceitar ajuda e dar um passo de cada vez pode nos preparar para recomeçar com esperança e companhia.",
+  "question": "Que sinais mostram que você precisa descansar ou conversar, e quem pode ajudar a cuidar desse momento?",
+  "prayer": "Deus, cuida de quem está cansado, com medo ou se sentindo sozinho. Ajuda-nos a reconhecer nossos limites e a procurar companhia confiável. Obrigado pelo alimento, pelo descanso e pela escuta que fortalecem. Ensina-nos a receber ajuda e a caminhar um passo de cada vez. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Elias permanece serenamente à entrada de uma caverna ao amanhecer, com o manto perto do rosto e luz suave.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard brown mantle tan tunic. Safe quiet desert shade, bread and water, peaceful cave entrance mountain dawn. No visible deity, no dangerous cliff edge, no distressing self-harm imagery. Only Elijah unless scene names messenger. Scene: Elias permanece serenamente à entrada de uma caverna ao amanhecer, com o manto perto do rosto e luz suave. MANDATORY SCENE CAST: Elijah alone. No other person or deity. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part1",
+      "alt": "Elias descansa à sombra de um arbusto, com pão e uma jarra de água ao alcance em local seguro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard brown mantle tan tunic. Safe quiet desert shade, bread and water, peaceful cave entrance mountain dawn. No visible deity, no dangerous cliff edge, no distressing self-harm imagery. Only Elijah unless scene names messenger. Scene: Elias descansa à sombra de um arbusto, com pão e uma jarra de água ao alcance em local seguro. MANDATORY SCENE CAST: Elijah alone. Bread and water are nearby, no other people. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part2",
+      "alt": "Elias caminha por uma trilha ampla entre montanhas, levando seu manto e uma pequena sacola.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard brown mantle tan tunic. Safe quiet desert shade, bread and water, peaceful cave entrance mountain dawn. No visible deity, no dangerous cliff edge, no distressing self-harm imagery. Only Elijah unless scene names messenger. Scene: Elias caminha por uma trilha ampla entre montanhas, levando seu manto e uma pequena sacola. MANDATORY SCENE CAST: Elijah alone on the trail. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part3",
+      "alt": "Elias escuta em silêncio à entrada da caverna, cercado por uma paisagem tranquila depois do vento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard brown mantle tan tunic. Safe quiet desert shade, bread and water, peaceful cave entrance mountain dawn. No visible deity, no dangerous cliff edge, no distressing self-harm imagery. Only Elijah unless scene names messenger. Scene: Elias escuta em silêncio à entrada da caverna, cercado por uma paisagem tranquila depois do vento. MANDATORY SCENE CAST: Elijah alone at the cave entrance. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story. Exactly one coherent scene: Elijah stands calmly at the cave mouth, holding the edge of his brown mantle near his lower face with a listening expression. Open quiet mountains in the distance. No raven, bread, jar, soldiers or other people.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    }
+  ]
+}

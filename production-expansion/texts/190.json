@@ -1,0 +1,74 @@
+{
+  "id": 190,
+  "title": "Ester no Palácio",
+  "subtitle": "Uma mudança que não apaga quem somos",
+  "reference": "Ester 2:1–18",
+  "description": "Criada por Mordecai depois de perder os pais, Ester é levada ao palácio. Em uma vida cheia de mudanças, continua recebendo o cuidado de quem a conhece.",
+  "testament": "antigo",
+  "cover": "/images/covers/190.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma jovem chamada Hadassa",
+      "paragraphs": [
+        "Na fortaleza de Susã vivia uma jovem judia chamada Hadassa, também conhecida como Ester. Ela havia perdido o pai e a mãe. Seu primo Mordecai a acolhera e a criara como filha. A história de Ester começa com essa perda e com um gesto de cuidado: ela não precisou crescer sem a companhia de alguém de sua família.",
+        "O rei Assuero governava um grande império e já não tinha Vasti como rainha. Seus servidores sugeriram que jovens fossem reunidas no palácio para que uma nova rainha fosse escolhida. O rei aceitou a proposta e deu suas ordens. Muitas mulheres foram levadas para a casa das mulheres, na fortaleza de Susã.",
+        "Ester estava entre elas. Sua vida mudou de lugar e de rotina, entrando num ambiente com regras que não havia criado. O relato não apresenta o palácio como um lugar onde ela controlava todas as decisões. Havia beleza e recursos, mas também dependência das ordens do rei e dos responsáveis pela corte."
+      ],
+      "image": "190/part1.webp",
+      "alt": "Mordecai cuida de Ester antes da mudança para o palácio."
+    },
+    {
+      "heading": "Cuidado numa vida diferente",
+      "paragraphs": [
+        "Hegai, responsável pela casa das mulheres, tratou Ester com favor. Providenciou os cuidados e a alimentação destinados a ela, além de acompanhantes e um bom lugar para morar naquele setor do palácio. Ester recebia atenção num ambiente novo. Ainda assim, a mudança não apagava sua história nem o vínculo com Mordecai.",
+        "Ela não havia contado qual era seu povo nem quem eram seus parentes, seguindo a orientação que Mordecai lhe dera. Todos os dias, ele passava diante do pátio da casa das mulheres para saber como Ester estava e o que aconteceria com ela. O cuidado familiar continuava mesmo quando os dois não viviam mais sob o mesmo teto.",
+        "As jovens passavam por um longo período de preparação antes de comparecer diante do rei. O livro descreve os costumes daquela corte, não um modelo de vida que todas as meninas deveriam desejar. Ester estava dentro dessa realidade. Sua história seguirá mostrando escolhas importantes que envolvem muito mais do que aparência ou posição."
+      ],
+      "image": "190/part2.webp",
+      "alt": "Mordecai procura notícias de Ester junto ao pátio do palácio."
+    },
+    {
+      "heading": "Uma nova responsabilidade",
+      "paragraphs": [
+        "Quando chegou sua vez de se apresentar ao rei, Ester pediu apenas aquilo que Hegai aconselhou. O texto conta que ela despertava favor entre os que a viam. Foi levada à presença de Assuero no décimo mês do sétimo ano de seu reinado. Depois de tanta preparação, chegava um momento que mudaria novamente sua vida.",
+        "O rei a escolheu como rainha e colocou a coroa sobre sua cabeça. Preparou uma grande festa em sua honra, concedeu benefícios nas províncias e distribuiu presentes. Para quem olhava de fora, podia parecer que a parte mais importante da história havia terminado. Mas a coroa seria apenas o começo de responsabilidades e decisões difíceis.",
+        "Ester continuava sendo a jovem que conhecera perda e acolhimento. O lugar onde agora vivia não diminuía nem aumentava o valor que já possuía como pessoa. Nos capítulos seguintes, precisaria pensar no bem de seu povo. Antes disso, o livro nos deixa ver o cuidado de Mordecai acompanhando uma vida que passava por mudanças profundas."
+      ],
+      "image": "190/part3.webp",
+      "alt": "Ester recebe a coroa e assume uma nova posição no reino."
+    }
+  ],
+  "lesson": "Nosso valor não depende da aparência, das roupas ou do lugar onde vivemos. Uma mudança pode trazer oportunidades e também insegurança. Nesses momentos, faz diferença manter contato com pessoas confiáveis que se importam conosco. Podemos conversar sobre o que sentimos e pedir ajuda para entender novas situações. Cuidar de alguém é continuar presente, mesmo quando sua rotina ou sua casa muda.",
+  "question": "Quem ajuda você a lembrar que é amado quando alguma coisa muda em sua vida?",
+  "prayer": "Deus, obrigado pelas pessoas que nos acolhem e acompanham. Cuida de quem perdeu pessoas queridas ou está vivendo mudanças difíceis. Ajuda-nos a enxergar nosso valor além da aparência e a manter por perto relações de confiança, respeito e carinho. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebpb/EST02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ester olha com serenidade para uma nova etapa de sua vida no palácio.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult Esther standing by a Persian palace courtyard window, modest teal and cream full-length dress and delicate gold crown, thoughtful dignified expression, warm gentle light, no romance or glamour pose. Esther is an adult young Judean woman, warm olive brown skin, long wavy dark hair, expressive brown eyes, modest fully covering teal and cream dress; as queen she adds a delicate gold crown."
+    },
+    {
+      "role": "part1",
+      "alt": "Mordecai cuida de Ester antes da mudança para o palácio.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult Esther and older Mordecai speak warmly at a simple family table in ancient Susa, familiar clay bowls and woven baskets, supportive relationship, ordinary modest clothing, no crown. Esther is an adult young Judean woman, warm olive brown skin, long wavy dark hair, expressive brown eyes, modest fully covering teal and cream dress; her hair is bare and unadorned, her clothing is plain woven linen with no jewelry or royal regalia. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Mordecai procura notícias de Ester junto ao pátio do palácio.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai outside an ancient Persian palace courtyard gate speaks respectfully with a palace attendant, concerned caring face, warm daylight, no barred prison imagery or menace. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Ester recebe a coroa e assume uma nova posição no reino.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult Esther standing dignified in a Persian audience hall with delicate crown already on her head, a few adult attendants respectfully nearby, modest teal and cream dress, warm light, no intimate contact. Esther is an adult young Judean woman, warm olive brown skin, long wavy dark hair, expressive brown eyes, modest fully covering teal and cream dress; as queen she adds a delicate gold crown."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

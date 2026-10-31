@@ -1,0 +1,71 @@
+{
+  "id": 155,
+  "title": "Os Vasos da Viúva",
+  "subtitle": "Uma casa cheia de possibilidades",
+  "reference": "2 Reis 4:1–7",
+  "description": "Uma viúva procura Eliseu porque uma dívida ameaça sua família. Com um pouco de azeite e vasos emprestados, ela participa de um acontecimento que muda o futuro de seus filhos.",
+  "testament": "antigo",
+  "cover": "/images/covers/155.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma preocupação que não cabia sozinha",
+      "paragraphs": [
+        "Uma mulher procurou Eliseu com um pedido urgente. Seu marido, que fazia parte do grupo dos profetas, havia morrido. Ele era alguém que respeitava o Senhor, mas a família tinha uma dívida. Agora o credor ameaçava levar seus dois filhos como servos. A viúva estava diante de uma situação que colocava sua casa em grande vulnerabilidade.",
+        "A mulher temia perder os dois filhos. O marido havia morrido, e a dívida continuava pesando sobre a casa. Quando o credor ameaçou levar os meninos para servir como escravos, ela foi procurar Eliseu. Precisava de ajuda para proteger sua família e contar a alguém a dificuldade que já não conseguia enfrentar sozinha.",
+        "Eliseu perguntou o que poderia fazer por ela e quis saber o que havia em sua casa. A resposta parecia pequena diante do tamanho do problema: ela tinha apenas uma vasilha de azeite. O profeta não desprezou esse recurso. A conversa começou reconhecendo tanto a necessidade urgente quanto aquilo que ainda estava ao alcance da mulher."
+      ],
+      "image": "155/part1.webp",
+      "alt": "A mulher conversa com Eliseu à porta de uma casa, explicando sua preocupação com os filhos próximos."
+    },
+    {
+      "heading": "Pedir emprestado aos vizinhos",
+      "paragraphs": [
+        "Eliseu orientou a viúva a pedir vasilhas vazias emprestadas aos vizinhos, e disse que não fossem poucas. Depois, deveria entrar em casa com os filhos, fechar a porta e derramar o azeite nas vasilhas. À medida que uma ficasse cheia, seria colocada de lado. A orientação envolvia participação da família e também uma rede de vizinhos dispostos a emprestar.",
+        "A mulher foi e fez o que ouvira. Dentro de casa, os filhos lhe traziam as vasilhas, e ela derramava o azeite. Encheu a primeira, depois outra, e ainda havia mais para derramar. Os meninos continuavam colocando recipientes perto da mãe. O pequeno frasco se tornara o começo de uma provisão que ninguém naquela casa esperava ver.",
+        "Os filhos ajudavam trazendo os jarros que haviam conseguido emprestados. A mãe enchia cada um e o colocava de lado, abrindo espaço para o próximo. Pouco a pouco, a casa ficou cheia de vasilhas com azeite. Os recipientes vazios eram cada vez menos, enquanto a esperança crescia diante do que estava acontecendo naquela família."
+      ],
+      "image": "155/part2.webp",
+      "alt": "Vizinhos emprestam vasilhas vazias à mãe e aos meninos num pátio acolhedor."
+    },
+    {
+      "heading": "O próximo passo depois do milagre",
+      "paragraphs": [
+        "Quando todas as vasilhas estavam cheias, a mulher pediu mais uma ao filho. Ele respondeu que não havia nenhuma. Então o azeite parou. A mulher e os filhos olharam os recipientes que haviam preparado. Todos estavam cheios de azeite. Aquilo que começara com uma pequena quantidade agora trazia uma nova possibilidade para a família.",
+        "A viúva voltou e contou a Eliseu o que havia acontecido. Ele lhe orientou a vender o azeite, pagar a dívida e viver com os filhos do que sobrasse. O milagre vinha acompanhado de uma organização prática. Era necessário transformar aquele recurso em quitação do compromisso e em alimento e cuidado para o futuro da casa.",
+        "A história termina com uma direção de vida, não com a ameaça inicial. A mulher havia sido ouvida, os vizinhos haviam emprestado vasilhas e os filhos participado ao seu lado. Deus cuidara da família por meio de um acontecimento extraordinário, e agora havia passos concretos a seguir. A esperança também encontrava lugar na responsabilidade de administrar o que tinham recebido."
+      ],
+      "image": "155/part3.webp",
+      "alt": "A mãe e os filhos observam os jarros cheios com alívio, numa casa simples iluminada pela manhã."
+    }
+  ],
+  "lesson": "Quando um problema parece grande demais, pedir ajuda é uma atitude importante. A viúva contou sua situação e recebeu orientação. Sua história não promete dinheiro fácil nem autoriza alguém a cobrar por milagres. Podemos colaborar com tarefas adequadas à idade, cuidar do que recebemos emprestado e procurar adultos responsáveis quando há dificuldades em casa. Problemas de dívida devem ser tratados por adultos; crianças têm direito a proteção, estudo, descanso e cuidado.",
+  "question": "Quem faz parte da rede de pessoas confiáveis que sua família pode procurar quando precisa de ajuda?",
+  "prayer": "Deus, cuida das famílias que vivem preocupadas com o sustento. Ajuda os adultos a encontrar orientação e apoio responsável, e protege as crianças de ameaças e exploração. Ensina-nos a pedir ajuda, repartir com cuidado e administrar com gratidão o que recebemos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A viúva enche uma vasilha de azeite enquanto seus dois filhos ajudam ao lado de muitos jarros de barro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Widow adult brown skin dark hair cream headscarf muted rust dress; two boys about eight and eleven dark curls cream and blue tunics; Elisha adult olive skin receding dark hair neat beard green cloak. Safe modest ancient house many clay jars olive oil. Only named scene cast. Scene: A viúva enche uma vasilha de azeite enquanto seus dois filhos ajudam ao lado de muitos jarros de barro. MANDATORY SCENE CAST: Only the widow and her two sons indoors. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part1",
+      "alt": "A mulher conversa com Eliseu à porta de uma casa, explicando sua preocupação com os filhos próximos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Widow adult brown skin dark hair cream headscarf muted rust dress; two boys about eight and eleven dark curls cream and blue tunics; Elisha adult olive skin receding dark hair neat beard green cloak. Safe modest ancient house many clay jars olive oil. Only named scene cast. Scene: A mulher conversa com Eliseu à porta de uma casa, explicando sua preocupação com os filhos próximos."
+    },
+    {
+      "role": "part2",
+      "alt": "Vizinhos emprestam vasilhas vazias à mãe e aos meninos num pátio acolhedor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Widow adult brown skin dark hair cream headscarf muted rust dress; two boys about eight and eleven dark curls cream and blue tunics; Elisha adult olive skin receding dark hair neat beard green cloak. Safe modest ancient house many clay jars olive oil. Only named scene cast. Scene: Vizinhos emprestam vasilhas vazias à mãe e aos meninos num pátio acolhedor. MANDATORY SCENE CAST: Only the widow, her two sons and adult neighbors lending jars. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "A mãe e os filhos observam os jarros cheios com alívio, numa casa simples iluminada pela manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Widow adult brown skin dark hair cream headscarf muted rust dress; two boys about eight and eleven dark curls cream and blue tunics; Elisha adult olive skin receding dark hair neat beard green cloak. Safe modest ancient house many clay jars olive oil. Only named scene cast. Scene: A mãe e os filhos observam os jarros cheios com alívio, numa casa simples iluminada pela manhã. MANDATORY SCENE CAST: Only the widow and her two sons indoors with filled jars. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    }
+  ]
+}

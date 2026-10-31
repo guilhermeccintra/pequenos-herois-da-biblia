@@ -1,0 +1,71 @@
+{
+  "id": 67,
+  "title": "Miriã e o Cântico da Liberdade",
+  "subtitle": "A gratidão encontra voz e movimento",
+  "reference": "Êxodo 15:1–21",
+  "description": "Depois da travessia, Miriã reúne as mulheres para celebrar o cuidado de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/67.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Do outro lado do medo",
+      "paragraphs": [
+        "O povo de Israel estava do outro lado do mar. A perseguição do faraó havia terminado, e as famílias podiam olhar para trás sem precisar voltar à escravidão. Depois do medo, da pressa e da travessia, havia uma nova realidade diante delas: estavam livres para continuar o caminho que Deus abrira.",
+        "Moisés e os israelitas cantaram ao Senhor. A canção lembrava que a força do exército egípcio não conseguira impedir a libertação. O povo não atribuía a vitória à própria grandeza. Reconhecia que precisava de ajuda e que Deus havia sido sua força e seu socorro numa situação que parecia sem saída.",
+        "A música também olhava para o futuro. O caminho ainda não estava completo, e a terra prometida não aparecia logo adiante. Mesmo assim, o povo celebrava o Deus que o guiava. Cantar naquele momento era guardar a memória de uma libertação que precisaria ser lembrada nos dias difíceis que viriam."
+      ],
+      "image": "67/part1.webp",
+      "alt": "O povo contempla o mar depois da travessia."
+    },
+    {
+      "heading": "Miriã levanta o tamborim",
+      "paragraphs": [
+        "Miriã, profetisa e irmã de Arão, tomou um tamborim. Outras mulheres a acompanharam com instrumentos e danças. O agradecimento ganhou som, ritmo e movimento. Não era necessário que todas fizessem exatamente a mesma coisa para participar. Suas vozes e seus passos se juntavam na celebração de uma experiência compartilhada.",
+        "Miriã convidou as mulheres a cantar ao Senhor por sua vitória. A mensagem retomava o centro da canção: Deus havia vencido o poder que mantinha seu povo preso. A alegria não precisava ser transformada em orgulho. O louvor apontava para quem havia aberto o caminho quando as forças humanas não eram suficientes.",
+        "O tamborim nas mãos de Miriã não fazia desaparecer a memória dos anos de trabalho cruel. A celebração nascia justamente de saber de onde haviam saído. Aquelas pessoas tinham carregado cargas pesadas; agora podiam levantar a voz. O corpo que conhecera o cansaço também encontrava uma maneira de expressar gratidão."
+      ],
+      "image": "67/part2.webp",
+      "alt": "Miriã convida outras mulheres a cantar."
+    },
+    {
+      "heading": "Uma lembrança para levar",
+      "paragraphs": [
+        "A Bíblia preserva essa canção para que outras gerações conheçam a libertação. Quem não esteve à beira do mar poderia ouvir a história e aprender sobre o cuidado de Deus. Uma música pode carregar lembranças de um jeito especial, fazendo palavras importantes voltarem à memória quando precisamos delas.",
+        "Depois da celebração, o povo continuou a jornada. Haveria sede, fome, decisões e aprendizados. Louvar não era fingir que o deserto seria fácil. Era reconhecer uma ajuda já recebida e levar essa lembrança para o próximo passo. A gratidão e a confiança podiam caminhar juntas, mesmo num caminho ainda desconhecido.",
+        "Miriã aparece nessa história como alguém que convida outras pessoas a agradecer. Sua iniciativa transforma a alegria em participação. Também podemos criar momentos para lembrar o bem recebido: uma canção em família, uma oração simples, palavras de agradecimento. Quando compartilhamos boas lembranças, ajudamos uns aos outros a não esquecer o cuidado que nos sustentou."
+      ],
+      "image": "67/part3.webp",
+      "alt": "A gratidão acompanha o povo na jornada."
+    }
+  ],
+  "lesson": "A gratidão pode ser cantada, falada, desenhada ou demonstrada por um gesto de carinho. Miriã ajudou o povo a celebrar junto e a guardar a memória da libertação. Agradecer não significa dizer que tudo será fácil daqui para a frente. Significa reconhecer o cuidado que já recebemos e permitir que essa lembrança fortaleça nossa caminhada. Podemos convidar outras pessoas a perceber conosco as pequenas e grandes razões para agradecer.",
+  "question": "Que motivo de gratidão você transformaria hoje numa canção, num desenho ou numa oração?",
+  "prayer": "Deus de amor, obrigado pelos caminhos que abres e pelas pessoas que nos acompanham. Ajuda-me a lembrar do bem recebido e a expressar gratidão com alegria. Que minha voz também encoraje outras pessoas a reconhecer teu cuidado em sua vida. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Miriã celebra com um tamborim e outras mulheres.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Elderly Miriam olive-brown skin, kind lined face, silver-gray braid under muted teal headscarf, modest long cream dress with terracotta sash and teal shawl, round wooden frame drum. Moses only if distant elderly gray-bearded beige robe brown mantle. Scene: Elderly Miriam joyfully plays ancient frame drum on safe dry seashore, adult women in modest flowing linen join with small frame drums and gentle celebratory steps, calm sea, no battle."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo contempla o mar depois da travessia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Elderly Miriam olive-brown skin, kind lined face, silver-gray braid under muted teal headscarf, modest long cream dress with terracotta sash and teal shawl, round wooden frame drum. Moses only if distant elderly gray-bearded beige robe brown mantle. Scene: Hebrew families standing safely on dry shore gaze at calm sea in dawn light, relief and gratitude, Moses distant, no soldiers or bodies."
+    },
+    {
+      "role": "part2",
+      "alt": "Miriã convida outras mulheres a cantar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Elderly Miriam olive-brown skin, kind lined face, silver-gray braid under muted teal headscarf, modest long cream dress with terracotta sash and teal shawl, round wooden frame drum. Moses only if distant elderly gray-bearded beige robe brown mantle. Scene: Medium close elderly Miriam raising a simple round frame drum and singing with adult women in cream ochre teal robes, joyful expressive faces."
+    },
+    {
+      "role": "part3",
+      "alt": "A gratidão acompanha o povo na jornada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Elderly Miriam olive-brown skin, kind lined face, silver-gray braid under muted teal headscarf, modest long cream dress with terracotta sash and teal shawl, round wooden frame drum. Moses only if distant elderly gray-bearded beige robe brown mantle. Scene: Miriam carries frame drum beside family caravan beginning desert journey, adults and children safely together, sea far behind, bright hopeful morning."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+15%3A1-21&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 311,
+  "title": "Uma Conversa no Caminho",
+  "subtitle": "Uma pergunta dentro da carruagem",
+  "reference": "Atos 8:26–40",
+  "description": "Filipe encontra um viajante que lê as Escrituras sem compreender tudo. Uma pergunta respeitosa abre espaço para uma conversa sobre Jesus e um novo começo.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Na estrada para Gaza",
+      "paragraphs": [
+        "Um anjo do Senhor orientou Filipe a seguir para a estrada que descia de Jerusalém a Gaza. Era um caminho deserto. Depois de anunciar Jesus em Samaria, ele recebeu uma direção diferente: caminhar por um lugar onde talvez não encontrasse uma multidão. Filipe se levantou e foi, disposto a seguir a orientação recebida.",
+        "Nessa estrada viajava um importante funcionário da rainha dos etíopes. Ele cuidava dos tesouros dela e tinha ido a Jerusalém para adorar. Agora voltava para casa em sua carruagem, lendo o livro do profeta Isaías. Atos o apresenta como um homem interessado em Deus, que carregava perguntas junto com seu rolo das Escrituras.",
+        "O Espírito disse a Filipe que se aproximasse da carruagem. Ele correu e ouviu a leitura. Em vez de começar uma explicação sem conhecer a dúvida do viajante, fez uma pergunta: ele entendia o que estava lendo? A resposta mostrou sinceridade. O homem reconheceu que precisava de alguém para orientá-lo e convidou Filipe a sentar-se com ele."
+      ],
+      "image": "311/part1.webp",
+      "alt": "Filipe caminha por uma estrada de terra entre colinas secas e vê ao longe uma carruagem puxada por cavalos."
+    },
+    {
+      "heading": "Uma conversa sobre Jesus",
+      "paragraphs": [
+        "A passagem falava de alguém levado ao sofrimento como uma ovelha, que não respondia com violência. O viajante quis saber de quem o profeta estava falando: de si mesmo ou de outra pessoa? Sua pergunta não era um sinal de fracasso. Era o caminho para descobrir um sentido que ainda não havia compreendido sozinho.",
+        "Filipe começou por aquela passagem e lhe anunciou Jesus. A conversa ligou as palavras de Isaías à boa notícia sobre aquele que havia sofrido, morrido e ressuscitado. A pergunta do viajante encontrava uma explicação. Enquanto seguiam pela estrada, o caminho de volta para casa se tornava também um caminho de descoberta e de fé.",
+        "Os dois seguiram pela estrada enquanto conversavam. Um discípulo e um viajante de outro povo compartilhavam aquele espaço de aprendizado. O homem tinha uma função importante em seu país, mas não fingiu saber tudo. Filipe tinha uma mensagem para contar, mas começou escutando. A descoberta crescia naquele encontro de atenção, humildade e fé."
+      ],
+      "image": "311/part2.webp",
+      "alt": "O viajante etíope aponta para um rolo das Escrituras enquanto Filipe explica com atenção, ambos sentados na carruagem."
+    },
+    {
+      "heading": "Água e alegria no caminho",
+      "paragraphs": [
+        "Ao chegarem a um lugar com água, o viajante perguntou o que o impediria de ser batizado. Mandou parar a carruagem. Filipe e ele desceram até a água, e Filipe o batizou. A conversa não havia sido apenas interessante: a mensagem sobre Jesus encontrara uma resposta de confiança e desejo de pertencer a ele.",
+        "Depois que saíram da água, o Espírito do Senhor levou Filipe dali. O viajante não o viu mais, mas continuou seu caminho cheio de alegria. Sua viagem de volta tinha ganhado uma descoberta preciosa. Ele ainda percorreria a estrada para casa, levando consigo a boa notícia que havia compreendido naquele encontro inesperado.",
+        "Filipe apareceu em Azoto e continuou anunciando o evangelho pelas cidades até chegar a Cesareia. Sua missão seguia por novos caminhos. A história da carruagem lembra que uma única pessoa também merece tempo e atenção. Às vezes, uma conversa começa com uma pergunta simples e respeitosa, e abre uma porta que ninguém poderia medir de antemão."
+      ],
+      "image": "311/part3.webp",
+      "alt": "Filipe e o viajante etíope estão junto a um pequeno curso de água, sorrindo depois do batismo, com roupas discretamente molhadas e a carruagem ao fundo."
+    }
+  ],
+  "lesson": "Não entender uma leitura faz parte do aprendizado. Podemos fazer perguntas e buscar alguém que saiba ajudar. Quem explica também precisa ouvir, para conhecer a dúvida de verdade. Na escola ou numa conversa sobre a Bíblia, aprender fica mais fácil quando há respeito e paciência. O viajante fez uma pergunta sincera, e Filipe começou por ela. Uma boa conversa pode transformar um trecho difícil numa descoberta que levamos conosco.",
+  "question": "Que pergunta você já teve vontade de fazer, mas ficou com vergonha de dizer em voz alta?",
+  "prayer": "Jesus, obrigado porque nossas perguntas podem se tornar caminhos de aprendizado. Dá-me humildade para pedir ajuda e paciência para ouvir quem precisa de explicação. Que nossa família converse com respeito e encontre alegria em descobrir tua mensagem, um passo de cada vez. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/311.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.8"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Filipe e um dignitário etíope de pele escura conversam lado a lado em uma carruagem antiga parada junto a uma estrada, com um rolo aberto entre eles.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl. The Ethiopian official is a dignified dark-skinned adult man, close-cropped curly hair, clean-shaven, ivory robe with dark red woven trim, gold-brown cloak.  Scene: Filipe e um dignitário etíope de pele escura conversam lado a lado em uma carruagem antiga parada junto a uma estrada, com um rolo aberto entre eles."
+    },
+    {
+      "role": "part1",
+      "alt": "Filipe caminha por uma estrada de terra entre colinas secas e vê ao longe uma carruagem puxada por cavalos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl. The Ethiopian official is a dignified dark-skinned adult man, close-cropped curly hair, clean-shaven, ivory robe with dark red woven trim, gold-brown cloak.  Scene: Filipe caminha por uma estrada de terra entre colinas secas e vê ao longe uma carruagem puxada por cavalos."
+    },
+    {
+      "role": "part2",
+      "alt": "O viajante etíope aponta para um rolo das Escrituras enquanto Filipe explica com atenção, ambos sentados na carruagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl. The Ethiopian official is a dignified dark-skinned adult man, close-cropped curly hair, clean-shaven, ivory robe with dark red woven trim, gold-brown cloak.  Scene: O viajante etíope aponta para um rolo das Escrituras enquanto Filipe explica com atenção, ambos sentados na carruagem."
+    },
+    {
+      "role": "part3",
+      "alt": "Filipe e o viajante etíope estão junto a um pequeno curso de água, sorrindo depois do batismo, com roupas discretamente molhadas e a carruagem ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl. The Ethiopian official is a dignified dark-skinned adult man, close-cropped curly hair, clean-shaven, ivory robe with dark red woven trim, gold-brown cloak.  Scene: Filipe e o viajante etíope estão junto a um pequeno curso de água, sorrindo depois do batismo, com roupas discretamente molhadas e a carruagem ao fundo."
+    }
+  ]
+}

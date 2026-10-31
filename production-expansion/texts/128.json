@@ -1,0 +1,71 @@
+{
+  "id": 128,
+  "title": "Jônatas e Seu Companheiro",
+  "subtitle": "Confiança que não caminha sozinha",
+  "reference": "1 Samuel 14:1–23",
+  "description": "Jônatas conversa com seu escudeiro antes de uma passagem difícil. A história mostra parceria e iniciativa num tempo de guerra, sem esconder o perigo que enfrentaram.",
+  "testament": "antigo",
+  "cover": "/images/covers/128.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma conversa à parte",
+      "paragraphs": [
+        "Israel e os filisteus estavam em conflito. Saul permanecia com seus homens perto de Gibeá, enquanto uma guarnição filisteia ocupava uma passagem. Jônatas, filho de Saul, chamou o jovem que levava suas armas e propôs atravessar até o outro lado. Os dois partiram juntos, sem que o rei soubesse daquela saída do acampamento.",
+        "Entre os dois lugares havia uma passagem marcada por grandes rochas. Uma se chamava Bozez, a outra Sené. Para chegar ao posto filisteu, Jônatas e seu companheiro teriam de atravessar aquele terreno e enfrentar uma subida difícil. Eles observaram o caminho. As duas rochas se destacavam diante deles, uma voltada para Micmás e a outra para Gibeá.",
+        "Jônatas falou de sua confiança no Senhor. Disse que Deus podia agir por meio de muitos ou de poucos. Não estava fazendo uma conta comum sobre a força do grupo. Reconhecia que a ajuda de Deus não dependia do tamanho do exército. Ao mesmo tempo, usou uma expressão de esperança: talvez o Senhor agisse por eles naquele momento."
+      ],
+      "image": "128/part1.webp",
+      "alt": "Jônatas aponta para a região entre duas grandes rochas enquanto seu companheiro escuta."
+    },
+    {
+      "heading": "O apoio do escudeiro",
+      "paragraphs": [
+        "O escudeiro respondeu que acompanharia Jônatas. Estava disposto a ir com ele e a ajudá-lo naquela tarefa. Os dois precisavam seguir juntos pelo caminho entre as rochas. Antes de avançar, Jônatas explicou o que faria e o sinal que esperaria dos homens do outro lado. Seu companheiro escutou e permaneceu ao seu lado.",
+        "Eles combinaram observar a reação dos homens da guarnição. Se fossem chamados para subir, entenderiam isso como sinal para avançar. Quando se mostraram, os filisteus os chamaram. Jônatas então convidou seu companheiro a segui-lo. Os dois escalaram com mãos e pés, apoiando-se nas pedras, um atrás do outro, até alcançar a posição acima.",
+        "Jônatas subiu, e o escudeiro o seguiu. Houve confronto, e a guarnição foi vencida. Logo a confusão se espalhou entre os filisteus. A terra tremeu, e o temor alcançou o acampamento e os grupos que estavam nos campos. De longe, os vigias de Saul viram a multidão se agitando e começaram a perceber a mudança."
+      ],
+      "image": "128/part2.webp",
+      "alt": "Os dois adultos fazem uma pausa em um caminho rochoso estável, num gesto de apoio e parceria."
+    },
+    {
+      "heading": "O movimento se espalha",
+      "paragraphs": [
+        "Os vigias de Saul perceberam o tumulto e viram a multidão inimiga se desfazendo. Saul mandou verificar quem havia saído de seu grupo. Descobriram que Jônatas e seu escudeiro não estavam ali. A iniciativa dos dois já tinha consequências que podiam ser vistas de longe, e o restante dos israelitas começou a se mover.",
+        "Outros hebreus que estavam entre os filisteus se uniram a Israel. Homens que se escondiam na região montanhosa também saíram ao saber da mudança. A resposta do povo se ampliou. A narrativa afirma que o Senhor livrou Israel naquele dia. Não atribui o resultado somente à habilidade de Jônatas ou ao esforço de seu companheiro.",
+        "Aquele dia ficou marcado pela ajuda do Senhor a Israel. Jônatas e seu companheiro tinham iniciado o caminho entre duas rochas, e agora muitos outros se reuniam na mesma resposta. Homens que antes estavam escondidos voltavam a se aproximar do povo. A força da guarnição havia caído, e o acampamento de Saul já não via a situação como antes."
+      ],
+      "image": "128/part3.webp",
+      "alt": "Os companheiros observam o vale ao longe, com o grupo israelita reunido em segurança no fundo."
+    }
+  ],
+  "lesson": "Uma boa parceria tem conversa, respeito e cuidado com a segurança. Jônatas contou com seu escudeiro, mas a ação de guerra não é um modelo para nossas aventuras. Um amigo não precisa aceitar todo risco para provar lealdade. Podemos apoiar alguém numa apresentação, dividir uma tarefa e também dizer que uma ideia é perigosa. Buscar um adulto e combinar limites pode ser a atitude mais corajosa de um grupo.",
+  "question": "Como um amigo pode demonstrar apoio e, ao mesmo tempo, ajudar você a evitar uma ideia perigosa?",
+  "prayer": "Deus, obrigado pelos companheiros que nos apoiam e ajudam a pensar. Ensina-nos a conversar antes de agir, respeitar limites e proteger a vida. Que nossa coragem apareça em boas escolhas, em pedir ajuda e em cuidar uns dos outros com responsabilidade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jônatas e seu companheiro conversam diante de uma passagem rochosa, avaliando o caminho juntos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jonathan young adult olive skin short dark hair neat beard muted blue tunic brown cloak; adult armor bearer dark curly hair tan tunic. Rocky ancient pass, no weapons drawn, no combat, safe stable ground only. Scene: Jônatas e seu companheiro conversam diante de uma passagem rochosa, avaliando o caminho juntos."
+    },
+    {
+      "role": "part1",
+      "alt": "Jônatas aponta para a região entre duas grandes rochas enquanto seu companheiro escuta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jonathan young adult olive skin short dark hair neat beard muted blue tunic brown cloak; adult armor bearer dark curly hair tan tunic. Rocky ancient pass, no weapons drawn, no combat, safe stable ground only. Scene: Jônatas aponta para a região entre duas grandes rochas enquanto seu companheiro escuta."
+    },
+    {
+      "role": "part2",
+      "alt": "Os dois adultos fazem uma pausa em um caminho rochoso estável, num gesto de apoio e parceria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jonathan young adult olive skin short dark hair neat beard muted blue tunic brown cloak; adult armor bearer dark curly hair tan tunic. Rocky ancient pass, no weapons drawn, no combat, safe stable ground only. Scene: Os dois adultos fazem uma pausa em um caminho rochoso estável, num gesto de apoio e parceria."
+    },
+    {
+      "role": "part3",
+      "alt": "Os companheiros observam o vale ao longe, com o grupo israelita reunido em segurança no fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jonathan young adult olive skin short dark hair neat beard muted blue tunic brown cloak; adult armor bearer dark curly hair tan tunic. Rocky ancient pass, no weapons drawn, no combat, safe stable ground only. Scene: Os companheiros observam o vale ao longe, com o grupo israelita reunido em segurança no fundo."
+    }
+  ]
+}

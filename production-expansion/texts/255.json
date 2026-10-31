@@ -1,0 +1,71 @@
+{
+  "id": 255,
+  "title": "Bartimeu Pede Ajuda",
+  "subtitle": "Uma voz que Jesus escolheu ouvir",
+  "reference": "Marcos 10:46–52",
+  "description": "À saída de Jericó, Bartimeu chama por Jesus. Mesmo quando tentam silenciá-lo, sua voz é ouvida e ele recebe espaço para dizer o que deseja.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.10.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "À beira do caminho",
+      "paragraphs": [
+        "Jesus chegou a Jericó e, quando saía da cidade com seus discípulos e uma grande multidão, passou perto de Bartimeu. Ele era filho de Timeu, não enxergava e estava sentado à beira do caminho pedindo ajuda. Seu nome ficou registrado no evangelho, lembrando que aquela pessoa tinha uma história própria e não era apenas parte da paisagem.",
+        "Bartimeu ouviu que Jesus de Nazaré estava passando. Então começou a chamá-lo de Filho de Davi e a pedir misericórdia. O título reconhecia em Jesus uma esperança ligada às promessas de Deus. Bartimeu não podia vê-lo aproximar-se, mas sua voz procurava alcançar aquele de quem ouvira falar. Queria ser ouvido no meio de tanta gente.",
+        "Muitos mandavam que ele ficasse quieto. Talvez sua voz atrapalhasse o movimento da multidão, mas sua necessidade não era menos importante por isso. Bartimeu continuou chamando, ainda mais alto. Não permitiu que a pressa e a irritação dos outros decidissem, naquele momento, que seu pedido não merecia atenção."
+      ],
+      "alt": "Bartimeu chama por Jesus à beira do caminho de Jericó.",
+      "image": "255/part1.webp"
+    },
+    {
+      "heading": "Jesus para",
+      "paragraphs": [
+        "Jesus parou e mandou que o chamassem. A multidão, que antes tentava silenciar Bartimeu, agora precisava abrir caminho para ele. Disseram que tivesse coragem, se levantasse, pois Jesus o chamava. Uma mudança importante aconteceu ali: a pessoa deixada à margem passou a ser recebida no centro de um encontro.",
+        "Bartimeu lançou de lado sua capa, levantou-se depressa e foi até Jesus. Marcos descreve o movimento com energia. A oportunidade que procurava estava diante dele. Não ficou preso à ordem de se calar. A voz de Jesus lhe ofereceu um lugar para se aproximar e participar da conversa com dignidade.",
+        "Jesus perguntou o que ele queria que fizesse por ele. Embora sua dificuldade fosse conhecida, deu a Bartimeu a oportunidade de falar por si. Não permitiu que a multidão escolhesse sua resposta. Bartimeu chamou Jesus de Mestre e disse que desejava enxergar. Seu pedido foi ouvido de maneira direta, pessoal e respeitosa."
+      ],
+      "alt": "Jesus escuta Bartimeu, dando-lhe espaço para falar.",
+      "image": "255/part2.webp"
+    },
+    {
+      "heading": "Uma nova caminhada",
+      "paragraphs": [
+        "Jesus disse que ele poderia ir, pois sua fé o havia salvado. Imediatamente, Bartimeu passou a enxergar. O homem que estava sentado à beira do caminho entrou numa nova etapa de sua vida. A cura foi um sinal da autoridade de Jesus, recebida naquele encontro em que sua voz não foi ignorada.",
+        "Bartimeu começou a seguir Jesus pelo caminho. Antes estava sentado à margem, pedindo ajuda; agora caminhava atrás daquele que parara para ouvi-lo. Seu pedido insistente dera lugar a uma nova resposta. Jesus continuava a viagem, e Bartimeu ia com ele. A estrada que fora lugar de espera se tornava também lugar de encontro e de seguimento.",
+        "A multidão viu uma cura extraordinária e também recebeu uma lição sobre atenção. Jesus não tratou o pedido de Bartimeu como um ruído inconveniente. Parou, chamou e perguntou. Antes mesmo da mudança em seus olhos, o homem foi reconhecido como alguém que podia falar. Seu encontro lembra que nenhuma pessoa deve ser reduzida àquilo que os outros pensam saber sobre ela."
+      ],
+      "alt": "Bartimeu acompanha Jesus pelo caminho com alegria.",
+      "image": "255/part3.webp"
+    }
+  ],
+  "lesson": "Quando alguém pede ajuda, podemos ouvir antes de decidir o que essa pessoa precisa. Pessoas com deficiência têm voz, escolhas e direito de participar. Oferecer ajuda com respeito inclui perguntar, esperar a resposta e não falar sempre por elas. Bartimeu também nos lembra de procurar um adulto de confiança quando tentam silenciar uma necessidade importante. Pedir cuidado não é atrapalhar; é uma forma de buscar apoio.",
+  "question": "Como você pode oferecer ajuda sem decidir tudo pela outra pessoa?",
+  "prayer": "Jesus, ensina-nos a parar e ouvir com atenção. Ajuda-nos a respeitar a voz e as escolhas de cada pessoa. Dá-nos coragem para pedir cuidado quando precisamos e sensibilidade para não deixar ninguém de fora por pressa, impaciência ou preconceito. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/255.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Bartimeu conversa com Jesus à saída de Jericó.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle respectfully listens to Bartimaeus adult curly dark hair short beard ochre robe brown cloak, equal eye level beside ancient Jericho road, warm compassionate faces, no exaggerated blindness depiction."
+    },
+    {
+      "role": "part1",
+      "alt": "Bartimeu chama por Jesus à beira do caminho de Jericó.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Bartimaeus adult ochre robe brown cloak seated safely beside road calling with hopeful expression, approaching crowd with Jesus terracotta mantle in distance, ancient Jericho palms and stone wall, dignified portrayal."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus escuta Bartimeu, dando-lhe espaço para falar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle stands attentive facing Bartimaeus ochre robe, crowd parts making room, Bartimaeus speaks with open hands, discarded brown cloak on safe ground nearby, warm natural light."
+    },
+    {
+      "role": "part3",
+      "alt": "Bartimeu acompanha Jesus pelo caminho com alegria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Bartimaeus ochre robe brown cloak over shoulder walks joyfully alongside Jesus cream tunic terracotta mantle and disciples on wide Jericho road with palms, clear expressive eyes, hopeful landscape."
+    }
+  ]
+}

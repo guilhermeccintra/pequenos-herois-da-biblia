@@ -1,0 +1,72 @@
+{
+  "id": 41,
+  "title": "Agar e a Água no Deserto",
+  "subtitle": "Um choro que não passou despercebido",
+  "reference": "Gênesis 21:14–21",
+  "description": "No deserto, Agar e Ismael ficam sem água. Entre o medo e a descoberta de um poço, encontram cuidado e uma esperança para continuar.",
+  "testament": "antigo",
+  "cover": "/images/covers/41.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma partida difícil",
+      "paragraphs": [
+        "Ainda era cedo quando Agar recebeu de Abraão pão e um odre de água. O odre era uma bolsa usada para transportar líquidos. Ela partiria com seu filho Ismael. Os conflitos na casa de Abraão haviam levado àquela separação, e a despedida não era simples. Mãe e filho deixavam um lugar conhecido para enfrentar uma estrada incerta.",
+        "Agar caminhou pelo deserto de Berseba. Ali, a água que carregava era preciosa: não havia torneiras, e encontrar um lugar para beber fazia toda a diferença. O relato não descreve cada passo da viagem. Conta, porém, que ela andou sem rumo e que chegou uma hora em que a água do odre acabou.",
+        "Ismael precisava de ajuda. Agar o acomodou debaixo de um arbusto, onde havia alguma proteção. Depois se afastou, muito aflita. Temia perder o filho e não sabia como enfrentar aquela situação. Seu sofrimento era real. A história nos convida a olhar para uma mãe e um rapaz cuja vida precisava ser protegida."
+      ],
+      "image": "41/part1.webp",
+      "alt": "Agar e Ismael caminham por uma trilha no deserto de Berseba."
+    },
+    {
+      "heading": "Uma voz no deserto",
+      "paragraphs": [
+        "Agar chorou. O menino também precisava de socorro, e Deus ouviu sua voz. Mesmo naquele lugar afastado, ele não estava esquecido. Então o mensageiro de Deus chamou Agar do céu. A mensagem chegou até ela no meio da aflição, antes que conseguisse encontrar por si mesma uma saída para o problema.",
+        "O mensageiro perguntou o que estava acontecendo e a encorajou a não ter medo. Deus havia ouvido o menino no lugar onde ele estava. Agar deveria se levantar, ir até o filho e segurá-lo pela mão. O chamado não a mandava fingir que estava tudo bem; convidava-a a retomar o cuidado de que Ismael precisava.",
+        "Havia também uma promessa sobre o futuro do rapaz: dele viria um grande povo. Para quem temia que a história terminasse ali, aquelas palavras apontavam para uma vida ainda por acontecer. O deserto não era a última página. Agar recebeu uma direção, e o filho continuava tendo valor e um futuro diante de Deus."
+      ],
+      "image": "41/part2.webp",
+      "alt": "Agar ergue o rosto com esperança enquanto Ismael repousa à sombra."
+    },
+    {
+      "heading": "Água e um novo caminho",
+      "paragraphs": [
+        "Deus abriu os olhos de Agar, e ela percebeu um poço. A água de que tanto precisavam estava ao alcance. Agar foi até o poço, encheu o odre e voltou para dar de beber ao filho. Depois de tanta aflição, suas mãos puderam novamente oferecer o cuidado que desejava dar.",
+        "A esperança ganhou uma forma muito concreta: água para a sede, uma mão que ajudava e a possibilidade de seguir adiante. Mãe e filho não precisavam resolver todo o futuro naquele momento. Primeiro era necessário cuidar da vida, receber o socorro e recuperar forças para continuar o caminho que se abria diante deles.",
+        "A Bíblia conta que Deus acompanhou Ismael enquanto ele crescia. Ele passou a viver no deserto de Parã e se tornou habilidoso com o arco. Agar continuou participando de sua vida. O menino ouvido no deserto tinha uma história para viver. Aquele dia de aflição também ficou marcado pela lembrança de um cuidado que o alcançou."
+      ],
+      "image": "41/part3.webp",
+      "alt": "Agar enche o odre no poço, com Ismael ao seu lado."
+    }
+  ],
+  "lesson": "Quando alguém está com medo ou precisa de ajuda, podemos começar pelo cuidado concreto: buscar um adulto de confiança, oferecer companhia e perceber necessidades simples. A história de Agar nos lembra que chorar não diminui o valor de ninguém. Podemos falar com Deus sobre nossas preocupações e também aceitar ajuda. Uma pessoa acolhida, um copo de água e uma mão estendida podem fazer diferença num dia difícil.",
+  "question": "Como você pode perceber e ajudar alguém que está passando por um dia difícil?",
+  "prayer": "Deus de cuidado, obrigado porque nossa tristeza não passa despercebida. Acompanha as famílias que precisam de água, abrigo e companhia. Ensina-nos a pedir ajuda e a oferecer cuidado. Que nossas mãos estejam prontas para acolher quem precisa. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Agar oferece água a Ismael junto a um poço no deserto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Hagar: Egyptian mother, brown skin, curly dark hair, ochre headscarf, teal linen dress and beige shawl. Ishmael: adolescent about fourteen, brown skin, curly dark hair, sand-colored tunic and rust-red sash. Scene: Relieved Hagar offers water to adolescent Ishmael sitting beside a modest ancient stone well, intimate hopeful composition."
+    },
+    {
+      "role": "part1",
+      "alt": "Agar e Ismael caminham por uma trilha no deserto de Berseba.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Hagar: Egyptian mother, brown skin, curly dark hair, ochre headscarf, teal linen dress and beige shawl. Ishmael: adolescent about fourteen, brown skin, curly dark hair, sand-colored tunic and rust-red sash. Scene: Hagar and adolescent Ishmael walk along a rocky desert path, Hagar carries bread bundle and water bag, morning light, wide shot."
+    },
+    {
+      "role": "part2",
+      "alt": "Agar ergue o rosto com esperança enquanto Ismael repousa à sombra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Hagar: Egyptian mother, brown skin, curly dark hair, ochre headscarf, teal linen dress and beige shawl. Ishmael: adolescent about fourteen, brown skin, curly dark hair, sand-colored tunic and rust-red sash. Scene: Hagar sits foreground and looks toward gentle sky light, teenage son resting at safe distance under shrub, listening and hope, no visible angel."
+    },
+    {
+      "role": "part3",
+      "alt": "Agar enche o odre no poço, com Ismael ao seu lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Hagar: Egyptian mother, brown skin, curly dark hair, ochre headscarf, teal linen dress and beige shawl. Ishmael: adolescent about fourteen, brown skin, curly dark hair, sand-colored tunic and rust-red sash. Scene: Hagar kneels at stone well filling leather waterskin from clay jug, Ishmael stands beside her and gently reaches for her free hand, environmental composition."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/pt/bible/212/GEN.21.14-21",
+    "https://www.biblegateway.com/passage/?search=Genesis+21%3A14-21&version=KJV"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 325,
+  "title": "Timóteo Entra na Viagem",
+  "subtitle": "Um jovem aprende caminhando",
+  "reference": "Atos 16:1–5; 2 Timóteo 1:5; 3:14–15",
+  "description": "Timóteo já era conhecido por sua fé quando Paulo chegou à sua região. Um convite o leva a participar de uma viagem de ensino, cuidado e aprendizado.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um nome bem conhecido",
+      "paragraphs": [
+        "Paulo chegou a Derbe e depois a Listra. Ali vivia um discípulo chamado Timóteo. Sua mãe era uma judia que havia crido em Jesus, e seu pai era grego. Sua família reunia histórias e costumes diferentes. Timóteo não precisava ter uma origem igual à de todos os companheiros para participar da caminhada da fé.",
+        "Os irmãos de Listra e de Icônio falavam bem dele. Isso mostra que sua vida já era conhecida pelas comunidades. Não foi apresentado como alguém importante por possuir riquezas ou um título. Havia um testemunho sobre sua maneira de viver. Antes de viajar para longe, ele tinha começado a construir relações de confiança perto de casa.",
+        "Em uma carta posterior, Paulo lembraria a fé de sua avó Lóide e de sua mãe Eunice, e diria que Timóteo conhecia as Escrituras desde pequeno. Essas lembranças ajudam a compreender suas raízes. O que aprendera em casa não era o final de sua formação. Seria parte da bagagem que levaria para novos encontros."
+      ],
+      "image": "325/part1.webp",
+      "alt": "Timóteo escuta sua mãe Eunice e sua avó Lóide enquanto leem um rolo das Escrituras em uma casa simples; ele aparece como jovem adolescente em lembrança artística."
+    },
+    {
+      "heading": "Um convite para acompanhar",
+      "paragraphs": [
+        "Paulo quis que Timóteo o acompanhasse. O convite significava participar de uma missão, e não somente observar uma viagem interessante. Haveria cidades para visitar, pessoas para ouvir e comunidades para fortalecer. Timóteo teria oportunidade de aprender perto de um discípulo mais experiente, enquanto também oferecia sua própria presença e disposição para servir.",
+        "Antes da partida, Timóteo foi circuncidado, seguindo um sinal corporal tradicional de pertencimento ao povo judeu. Paulo tomou essa decisão por causa dos judeus daquela região, que sabiam que o pai do jovem era grego. Sua família reunia duas origens, e a preparação para a viagem levou em conta os costumes das pessoas com quem conversariam.",
+        "Timóteo se juntou aos companheiros e começou a caminhar com eles. A boa reputação que tinha entre os irmãos de Listra e Icônio agora acompanhava seus primeiros passos nessa missão. Haveria novas cidades, novas pessoas e muito a aprender. Paulo lhe oferecia a oportunidade de participar de perto de uma tarefa que alcançava comunidades inteiras."
+      ],
+      "image": "325/part2.webp",
+      "alt": "Paulo apresenta Timóteo a companheiros de viagem junto à entrada de Listra, com gestos de acolhimento."
+    },
+    {
+      "heading": "Fortalecer a fé dos outros",
+      "paragraphs": [
+        "Ao passar pelas cidades, os viajantes entregavam as decisões tomadas pelos apóstolos e presbíteros em Jerusalém. A mensagem ajudava as comunidades a compreender como acolher os seguidores de Jesus vindos de outros povos. Timóteo participava de uma missão que tinha ligação com a igreja inteira, e não somente com os planos de Paulo.",
+        "As igrejas eram fortalecidas na fé e cresciam a cada dia. O relato mostra o efeito de um trabalho compartilhado. Ensinar, visitar e transmitir orientações exigiam tempo e atenção. Timóteo estava entre pessoas que procuravam cuidar das comunidades, ajudando-as a continuar depois que a primeira notícia sobre Jesus já havia chegado.",
+        "Mais tarde, seu nome apareceria em muitas cartas e tarefas importantes. Aqui vemos um começo: um jovem discípulo, uma família de fé, comunidades que o conheciam e um convite para acompanhar uma missão. Ninguém aprende tudo de uma vez. Timóteo levaria o que já recebera e continuaria crescendo com outras pessoas, passo a passo, ao longo do caminho."
+      ],
+      "image": "325/part3.webp",
+      "alt": "Paulo e Timóteo conversam com uma comunidade reunida em um pátio, compartilhando uma carta sem escrita legível."
+    }
+  ],
+  "lesson": "Crescer envolve aprender com pessoas confiáveis e participar de novas tarefas aos poucos. Timóteo já era conhecido por suas atitudes antes de começar a viagem. Podemos cuidar bem do que está perto: ouvir, cumprir um combinado e tratar os outros com respeito. Esses gestos preparam nossos próximos passos. Sua família também nos lembra que histórias e costumes diferentes podem trazer aprendizados preciosos para a vida que estamos construindo.",
+  "question": "Que pessoa confiável ensina algo importante a você, e como pode agradecer por esse cuidado?",
+  "prayer": "Jesus, obrigado pelas pessoas que nos ajudam a crescer. Dá-me atenção para aprender, responsabilidade nas pequenas tarefas e coragem para pedir orientação. Abençoa minha família e meus professores. Que eu use o que recebo para cuidar também de outras pessoas. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/325.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.16",
+    "https://www.sbb.org.br/biblia/ARC/2TI.1",
+    "https://www.sbb.org.br/biblia/ARC/2TI.3"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Paulo conversa com Timóteo, jovem adulto de cabelos castanhos curtos e túnica verde, junto a uma estrada em Listra, com uma pequena bolsa de viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl. Silas is a distinct adult man with olive skin, short straight black hair, neat beard, muted red tunic, brown shawl. Timothy is a young adult around twenty, olive skin, short brown curls, clean-shaven, moss-green tunic and light tan shawl.  Scene: Paulo conversa com Timóteo, jovem adulto de cabelos castanhos curtos e túnica verde, junto a uma estrada em Listra, com uma pequena bolsa de viagem."
+    },
+    {
+      "role": "part1",
+      "alt": "Timóteo escuta sua mãe Eunice e sua avó Lóide enquanto leem um rolo das Escrituras em uma casa simples; ele aparece como jovem adolescente em lembrança artística.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl. Silas is a distinct adult man with olive skin, short straight black hair, neat beard, muted red tunic, brown shawl. Timothy is a young adult around twenty, olive skin, short brown curls, clean-shaven, moss-green tunic and light tan shawl.  Scene: Timóteo escuta sua mãe Eunice e sua avó Lóide enquanto leem um rolo das Escrituras em uma casa simples; ele aparece como jovem adolescente em lembrança artística. Exact cast: young Timothy, his middle-aged mother Eunice and elderly grandmother Lois only. Paul is NOT present in this childhood memory. No extra man."
+    },
+    {
+      "role": "part2",
+      "alt": "Paulo apresenta Timóteo a companheiros de viagem junto à entrada de Listra, com gestos de acolhimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl. Silas is a distinct adult man with olive skin, short straight black hair, neat beard, muted red tunic, brown shawl. Timothy is a young adult around twenty, olive skin, short brown curls, clean-shaven, moss-green tunic and light tan shawl.  Scene: Paulo apresenta Timóteo a companheiros de viagem junto à entrada de Listra, com gestos de acolhimento."
+    },
+    {
+      "role": "part3",
+      "alt": "Paulo e Timóteo conversam com uma comunidade reunida em um pátio, compartilhando uma carta sem escrita legível.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl. Silas is a distinct adult man with olive skin, short straight black hair, neat beard, muted red tunic, brown shawl. Timothy is a young adult around twenty, olive skin, short brown curls, clean-shaven, moss-green tunic and light tan shawl.  Scene: Paulo e Timóteo conversam com uma comunidade reunida em um pátio, compartilhando uma carta sem escrita legível."
+    }
+  ]
+}

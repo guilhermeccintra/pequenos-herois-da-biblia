@@ -1,0 +1,75 @@
+{
+  "id": 212,
+  "title": "A Amizade que Permanece",
+  "subtitle": "Conselhos de Provérbios sobre ser um bom amigo",
+  "reference": "Provérbios 17:17; 27:5–10",
+  "description": "A amizade cresce na companhia, na sinceridade e na disposição de cuidar também nos dias difíceis.",
+  "testament": "antigo",
+  "cover": "/images/covers/212.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Companhia em todos os tempos",
+      "paragraphs": [
+        "Provérbios guarda uma frase muito querida sobre a amizade: o amigo ama em todos os tempos. Esse ensino nos convida a pensar numa companhia que permanece quando as circunstâncias mudam. Há dias de brincadeira e risadas, e há dias em que alguém precisa de escuta, ajuda e um pouco mais de paciência.",
+        "O texto aproxima o amigo de um irmão presente na dificuldade. A comparação mostra o valor de ter alguém por perto quando o coração está apertado. A amizade pode oferecer companhia numa mudança, conforto depois de uma decepção e coragem para tentar algo novamente. Um gesto simples pode carregar muito cuidado.",
+        "Também podemos olhar para nossa própria maneira de ser amigos. Percebemos quando alguém fica quieto? Lembramos de incluir quem está chegando? Conseguimos celebrar a alegria do outro? Essas perguntas ajudam a transformar um ensinamento curto em atitudes que aparecem durante a convivência e fazem uma pessoa se sentir lembrada."
+      ],
+      "image": "212/part1.webp",
+      "alt": "Uma criança inclui outra numa brincadeira"
+    },
+    {
+      "heading": "Sinceridade com carinho",
+      "paragraphs": [
+        "Outro trecho de Provérbios fala do valor de um conselho sincero. O amigo que deseja nosso bem pode ajudar a perceber um erro. Escutar essa observação às vezes é desconfortável, mas pode abrir um caminho de crescimento. A verdade oferecida com cuidado participa da confiança que sustenta uma boa amizade.",
+        "O livro compara a alegria de um conselho amigo ao prazer de um perfume agradável. Há palavras que trazem alívio porque vêm de alguém que se importa conosco. Uma sugestão para reparar uma atitude ou uma lembrança de algo que esquecemos pode se tornar um presente, quando é dada com respeito.",
+        "Pense numa situação possível: um amigo percebe que você deixou outra criança de fora da brincadeira e conversa em particular. Ele pode ajudar você a enxergar algo que passou despercebido. Ao ouvir, há uma oportunidade de acolher quem ficou sozinho. A amizade se torna um lugar onde todos aprendem a cuidar melhor."
+      ],
+      "image": "212/part2.webp",
+      "alt": "Dois amigos conversam com sinceridade e respeito"
+    },
+    {
+      "heading": "Cuidar dos laços próximos",
+      "paragraphs": [
+        "Provérbios também recomenda valorizar os amigos antigos e reconhecer a ajuda de quem está perto. Um vizinho disponível pode oferecer companhia numa hora de necessidade. O ensinamento nos faz olhar com gratidão para relações construídas ao longo do tempo, por meio de pequenas conversas, favores e experiências compartilhadas.",
+        "Esses laços precisam de atenção para continuar crescendo. Podemos agradecer uma ajuda, cumprir uma combinação e reparar um erro. Também podemos respeitar quando alguém precisa de espaço e procurar um adulto de confiança diante de um problema difícil. A amizade floresce onde há respeito, sinceridade e cuidado com o bem de todos.",
+        "Ser um bom amigo é um aprendizado que dura muito tempo. Cada encontro oferece uma chance de escutar com mais atenção e agir com mais generosidade. Os conselhos de Provérbios nos lembram que companhia e verdade podem caminhar juntas. Uma amizade assim encontra maneiras de permanecer perto, nos dias alegres e nos dias difíceis."
+      ],
+      "image": "212/part3.webp",
+      "alt": "Vizinhos ajudam uma família a levar cestos"
+    }
+  ],
+  "lesson": "Uma amizade bonita tem espaço para alegria, sinceridade e ajuda. Podemos demonstrar carinho ao incluir alguém, escutar uma preocupação e oferecer um conselho com respeito. Também aprendemos quando recebemos uma orientação que ajuda a corrigir um erro. Pense nas pessoas que acompanham você e escolha uma maneira de cuidar desse vínculo hoje. Um pequeno gesto pode mostrar que a amizade tem valor.",
+  "question": "Como você pode demonstrar cuidado por um amigo que está passando por um dia difícil?",
+  "prayer": "Deus, obrigado pelos amigos e pelas pessoas que me acompanham. Ensina-me a escutar, a incluir e a falar a verdade com carinho. Ajuda-me a receber bons conselhos e a estar presente quando alguém precisar de companhia, respeito e cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PRO17.htm",
+    "https://ebible.org/engwebp/PRO27.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Dois amigos compartilham uma conversa acolhedora",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative wisdom scene: two ordinary ancient Hebrew children sitting together on a low stone wall under an olive tree, one gently comforting the other, woven garments, warm sincere expressions, peaceful village setting. "
+    },
+    {
+      "role": "part1",
+      "alt": "Uma criança inclui outra numa brincadeira",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew children in a village courtyard, a child warmly extending an open hand to include a shy newcomer in a simple game with wooden pieces, joyful welcoming atmosphere. "
+    },
+    {
+      "role": "part2",
+      "alt": "Dois amigos conversam com sinceridade e respeito",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Two ordinary ancient Hebrew children having a thoughtful private conversation in a sunny garden, one calmly explaining with open palm while the other listens with reflective expression, no anger or pointing accusation. "
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos ajudam uma família a levar cestos",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Hebrew neighbors helping a family carry baskets of fruit into a modest home, children carrying small light baskets, elders smiling in doorway, warm community friendship, detailed textures. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

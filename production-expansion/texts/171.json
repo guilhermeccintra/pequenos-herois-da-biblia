@@ -1,0 +1,74 @@
+{
+  "id": 171,
+  "title": "Ciro Abre o Caminho",
+  "subtitle": "A notícia de um recomeço",
+  "reference": "Esdras 1",
+  "description": "Depois de muitos anos longe de Jerusalém, o povo recebe uma notícia inesperada. Um decreto do rei abre o caminho para voltar e reconstruir.",
+  "testament": "antigo",
+  "cover": "/images/covers/171.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma cidade na lembrança",
+      "paragraphs": [
+        "Muitas famílias do povo de Israel viviam longe de Jerusalém. A cidade havia sido conquistada, seu templo fora destruído e parte dos moradores tinha sido levada para a Babilônia. Agora havia filhos e netos crescendo naquela terra distante. Jerusalém continuava fazendo parte da história de suas famílias, mesmo para quem nunca tinha visto suas ruas.",
+        "O tempo passou, e um novo rei governava um grande território. Seu nome era Ciro, rei da Pérsia. O livro de Esdras conta que Deus despertou o coração dele para uma decisão importante. Aquilo também estava ligado à palavra que Deus havia anunciado por meio do profeta Jeremias: o exílio não seria a última página da história.",
+        "Ciro mandou espalhar uma notícia por seu reino. Não ficou apenas numa conversa particular dentro do palácio. A ordem foi anunciada e também registrada por escrito, para que pudesse ser conhecida. Famílias que haviam esperado tanto agora tinham uma mensagem para ouvir: havia um caminho de volta para Jerusalém."
+      ],
+      "image": "171/part1.webp",
+      "alt": "Uma família recorda Jerusalém enquanto vive numa terra distante."
+    },
+    {
+      "heading": "Uma porta se abre",
+      "paragraphs": [
+        "No decreto, Ciro reconheceu o Deus dos céus e falou da construção de uma casa para ele em Jerusalém, na terra de Judá. Autorizou os que pertenciam ao povo a subir até lá e reconstruir o templo. O rei não prometeu que encontrariam uma cidade pronta. A autorização era para voltar e trabalhar num lugar que precisava ser restaurado.",
+        "Também deu uma orientação aos vizinhos daqueles que partissem. Eles deveriam ajudar com prata, ouro, bens e animais, além das ofertas voluntárias para o templo. A viagem não seria responsabilidade de uma pessoa sozinha. Quem ficava podia participar do recomeço dando apoio a quem se preparava para seguir pela estrada.",
+        "Os líderes das famílias, sacerdotes e levitas começaram a se levantar para a tarefa. Esdras descreve essas pessoas como gente cujo coração Deus havia despertado. Entre a notícia recebida e a cidade reconstruída ainda haveria muitos passos. O primeiro era responder ao convite e preparar aquilo que seria necessário para partir."
+      ],
+      "image": "171/part2.webp",
+      "alt": "Ciro entrega uma ordem escrita para anunciar a reconstrução do templo."
+    },
+    {
+      "heading": "A esperança ganha estrada",
+      "paragraphs": [
+        "As pessoas que estavam ao redor dos viajantes os ajudaram com presentes e recursos. Ciro também mandou devolver objetos do antigo templo, que haviam sido levados para a Babilônia. Eles foram contados e entregues aos responsáveis. Não eram objetos esquecidos sem história: lembravam um lugar de adoração que voltaria a ser cuidado.",
+        "Sesbazar recebeu os utensílios para levá-los a Jerusalém com os que retornavam. O livro registra essa entrega com atenção. A esperança não apareceu apenas em palavras bonitas; envolveu decisões, pessoas, listas e coisas concretas sendo preparadas para o caminho. O retorno começava a deixar o papel e a entrar na vida daquela comunidade.",
+        "Assim começa o livro de Esdras: com uma palavra cumprida e gente se preparando para recomeçar. Havia lembranças dolorosas e muito trabalho pela frente, mas agora existia uma oportunidade. A mesma Jerusalém que parecera tão distante se tornava o destino de uma viagem possível, feita com ajuda, responsabilidade e confiança em Deus."
+      ],
+      "image": "171/part3.webp",
+      "alt": "Vizinhos ajudam os viajantes a preparar a partida."
+    }
+  ],
+  "lesson": "Recomeços costumam precisar de mais de uma pessoa. Algumas seguem pela estrada; outras ajudam a preparar o que falta. Quando alguém muda de casa, volta à escola ou retoma uma tarefa difícil, podemos oferecer apoio concreto. Não precisamos prometer que tudo será fácil. Uma ajuda pequena, uma orientação paciente ou companhia durante a adaptação pode tornar o primeiro passo menos solitário e mais possível.",
+  "question": "Quem está começando uma fase nova e poderia receber uma ajuda sua?",
+  "prayer": "Deus, obrigado pelas oportunidades de recomeçar. Dá coragem a quem precisa deixar um lugar conhecido e cuidado a quem vai receber essa pessoa. Ajuda nossa família a oferecer companhia e ajuda prática, com paciência para cada novo passo. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR01.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias se preparam para voltar a Jerusalém após o anúncio de Ciro.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Broad hopeful view of ancient Persian city gateway, families packing travel bundles beside a donkey, a public messenger holding an unfurled unlettered scroll; sunrise and distant road. "
+    },
+    {
+      "role": "part1",
+      "alt": "Uma família recorda Jerusalém enquanto vive numa terra distante.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An older gray bearded grandfather in cream robes sits with his daughter and two children in a modest ancient Babylonian courtyard, sharing memories with thoughtful gentle gestures, clay bowls and date palms.  Ordinary families only; no kings, crowns, royal robes, or palace guards."
+    },
+    {
+      "role": "part2",
+      "alt": "Ciro entrega uma ordem escrita para anunciar a reconstrução do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Cyrus in a refined ancient Persian audience chamber hands an unlettered rolled decree to a messenger, warm palace light, carved stone pillars, earnest purposeful expressions. Cyrus has olive skin, curled black beard, deep blue patterned robe and gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos ajudam os viajantes a preparar a partida.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Neighbors in an ancient courtyard hand baskets and travel provisions to a departing family beside a calm donkey, bundles, a few golden vessels carefully wrapped, golden morning light.  Ordinary families only; no kings, crowns, royal robes, or palace guards."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 199,
+  "title": "Jó e um Novo Começo",
+  "subtitle": "A esperança não apaga a lembrança",
+  "reference": "Jó 42:1–17",
+  "description": "Depois de ouvir Deus, Jó reconhece seus limites. A história termina com oração, companhia e uma nova etapa de vida, sem transformar a dor em algo sem importância.",
+  "testament": "antigo",
+  "cover": "/images/covers/199.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Escutar de um modo novo",
+      "paragraphs": [
+        "Depois de muitas perguntas e conversas, Jó ouviu Deus falar sobre a criação. As palavras o levaram a reconhecer a grandeza do Senhor e os limites de seu próprio conhecimento. Ele respondeu que Deus podia realizar seus propósitos. Admitiu também que havia falado sobre coisas que não compreendia plenamente, maravilhas maiores do que seu entendimento.",
+        "Jó não recebeu uma explicação detalhada de cada sofrimento que enfrentara. Mesmo assim, sua relação com Deus tinha sido transformada por aquele encontro. Disse que antes conhecia por ouvir, mas agora havia percebido de modo mais próximo. A linguagem expressa uma mudança profunda, que não cabe apenas em decorar respostas ou vencer uma discussão.",
+        "Ele se colocou com humildade diante de Deus. Havia perguntas que continuavam maiores do que suas respostas, mas agora escutava com uma disposição renovada. Podia reconhecer seus limites e permanecer perto do Senhor. A dor fazia parte de sua história, e a confiança abria espaço para caminhar adiante, mesmo carregando lembranças e sentimentos difíceis."
+      ],
+      "image": "199/part1.webp",
+      "alt": "Jó escuta e reconhece com humildade os limites de seu entendimento."
+    },
+    {
+      "heading": "Uma oração pelos amigos",
+      "paragraphs": [
+        "Deus então falou a Elifaz sobre ele e seus dois amigos, Bildade e Zofar. Disse que não haviam falado corretamente a seu respeito como Jó. Durante as conversas, eles tinham tentado explicar o sofrimento com acusações e certezas apressadas. Agora precisavam reconhecer que suas palavras não haviam representado a verdade de maneira adequada.",
+        "Os amigos receberam uma orientação para procurar Jó, e ele oraria por eles. Fizeram o que Deus pediu, e a oração de Jó foi acolhida. O homem que antes ouvira julgamentos agora intercedia por quem o havia ferido com palavras. A história oferecia um caminho de correção e reconciliação, em vez de declarar que todas as acusações eram justificadas.",
+        "Depois, parentes e antigos conhecidos vieram até Jó. Comeram com ele em sua casa, ofereceram consolo e trouxeram presentes. O livro volta a mostrar a importância da companhia. A nova etapa não era apenas uma conta de animais e riquezas. Incluía pessoas se aproximando, reconhecendo o sofrimento vivido e participando de sua vida novamente."
+      ],
+      "image": "199/part2.webp",
+      "alt": "Jó ora por seus três amigos."
+    },
+    {
+      "heading": "Muitos dias pela frente",
+      "paragraphs": [
+        "O Senhor restaurou a prosperidade de Jó, e o relato descreve rebanhos maiores do que antes. Ele também teve outros filhos e filhas. Suas três filhas são mencionadas pelo nome, e receberam herança junto com os irmãos. O final apresenta uma vida que voltou a encontrar espaço para família, trabalho e generosidade.",
+        "As pessoas queridas que Jó havia perdido continuavam fazendo parte de sua história. A nova alegria chegava a um coração que conhecera a saudade. Agora havia encontros, refeições compartilhadas e crianças crescendo perto dele. O livro acompanha esse recomeço com ternura, mostrando os laços de uma família e os muitos dias que ainda estavam por vir.",
+        "Jó viveu muitos anos e conheceu várias gerações de sua família. A história se encerra com uma vida longa, depois de perguntas, dor e encontro com Deus. Seu caminho nos deixa uma esperança cuidadosa: o sofrimento merece ser acolhido, as explicações humanas têm limites e uma pessoa pode continuar recebendo companhia e encontrando novas possibilidades sem apagar aquilo que viveu."
+      ],
+      "image": "199/part3.webp",
+      "alt": "Jó conversa com crianças de sua família em seus anos de velhice."
+    }
+  ],
+  "lesson": "Novos momentos felizes não precisam apagar a saudade de quem amamos. Podemos guardar lembranças e, ao mesmo tempo, receber companhia e descobrir coisas boas no presente. Cada pessoa atravessa a dor de um jeito e num tempo próprio. Não devemos cobrar que alguém melhore depressa nem prometer um final igual ao de Jó. O cuidado pode continuar, mesmo quando não sabemos como será o próximo capítulo.",
+  "question": "Como você pode guardar uma lembrança querida e também receber uma alegria nova?",
+  "prayer": "Deus, acompanha quem está aprendendo a viver depois de uma perda. Ajuda-nos a respeitar a saudade e o tempo de cada pessoa. Obrigado pela companhia que consola e pelas novas possibilidades de cuidado. Que nossa família saiba acolher lembranças, perguntas e esperanças. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JOB42.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jó recebe familiares e amigos numa nova etapa de sua vida.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job older and peaceful in a simple ancient courtyard shares a meal with adult relatives and children from later generations, gentle grateful expressions, warm afternoon light, no implication of replacing lost family. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Jó escuta e reconhece com humildade os limites de seu entendimento.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job seated outdoors under an expansive dawn sky with hands open thoughtfully, simple linen and gray beard, no visible deity or supernatural figure, peaceful contemplative mood. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Jó ora por seus três amigos.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job with exactly three adult friends standing in quiet prayer under an olive tree, humble reconciliatory faces, fully clothed and healthy-looking, gentle natural light. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Jó conversa com crianças de sua família em seus anos de velhice.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An elderly Job with white-gray beard tells a story to children beside a shaded courtyard table while adult family members nearby smile, calm sheep in distant field, warm gentle golden light. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

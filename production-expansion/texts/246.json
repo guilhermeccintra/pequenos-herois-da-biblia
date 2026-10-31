@@ -1,0 +1,71 @@
+{
+  "id": 246,
+  "title": "Um Lugar para Mateus",
+  "subtitle": "O convite que abriu uma nova caminhada",
+  "reference": "Mateus 9:9–13",
+  "description": "Jesus chama Mateus quando ele está trabalhando na cobrança de impostos. Depois, uma refeição com pessoas desprezadas se torna uma lição sobre misericórdia.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.9.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um homem à mesa de cobrança",
+      "paragraphs": [
+        "Jesus estava passando quando viu um homem chamado Mateus sentado no lugar onde se cobravam impostos. Esse trabalho era malvisto por muita gente. Alguns cobradores exigiam mais do que deviam, e sua ligação com o poder que governava o povo também despertava desconfiança. Mateus carregava o peso dessa imagem diante da comunidade.",
+        "Jesus se aproximou do lugar de trabalho de Mateus e o chamou para segui-lo. O convite chegava em meio à rotina da cobrança, diante da mesa onde ele costumava ficar. Agora havia outro caminho aberto à sua frente. Mateus precisava responder à voz de Jesus, que o via e se dirigia a ele pessoalmente.",
+        "Mateus se levantou e seguiu Jesus. A frase é curta, mas descreve uma mudança importante: ele saiu da posição em que estava para começar outro caminho. Ainda haveria muito para aprender. O convite não significava que tudo já estava resolvido em sua vida. Era o começo de uma relação de aprendizado com Jesus."
+      ],
+      "alt": "Jesus convida Mateus a deixar a mesa de cobrança e segui-lo.",
+      "image": "246/part1.webp"
+    },
+    {
+      "heading": "Uma refeição com espaço para outros",
+      "paragraphs": [
+        "Mais tarde, Jesus estava à mesa numa casa. Muitos cobradores de impostos e pessoas consideradas pecadoras se reuniram com ele e seus discípulos. A refeição aproximava gente que costumava receber olhares de desprezo. Sentar à mesma mesa era uma maneira concreta de estar perto, conversar e compartilhar tempo.",
+        "Alguns fariseus viram a cena e perguntaram aos discípulos por que seu mestre comia com aquelas pessoas. A pergunta revelava uma divisão: havia gente que eles julgavam inadequada para a companhia de um mestre religioso. O encontro de Jesus com essas pessoas parecia estranho para quem imaginava a santidade apenas como distância dos outros.",
+        "Jesus ouviu a pergunta. Sua resposta não negou a existência de escolhas erradas. Também não tratou os convidados como objetos para uma lição. Ele explicou sua missão usando uma comparação que todos podiam entender: quem está saudável não procura o médico do mesmo jeito que alguém que precisa de cuidado. A necessidade era justamente motivo para se aproximar."
+      ],
+      "alt": "Jesus compartilha uma refeição com Mateus e outros convidados.",
+      "image": "246/part2.webp"
+    },
+    {
+      "heading": "Aprender misericórdia",
+      "paragraphs": [
+        "Jesus convidou seus críticos a aprender o significado da misericórdia. Recordou uma palavra das Escrituras que colocava esse cuidado acima de uma religiosidade sem compaixão. Não bastava realizar gestos religiosos e, ao mesmo tempo, fechar o coração para quem precisava recomeçar. A maneira de tratar as pessoas também revelava como alguém compreendia Deus.",
+        "Ele disse que viera chamar pecadores. Mateus era uma dessas pessoas que recebiam o convite para uma vida nova. A proximidade de Jesus não tornava a injustiça aceitável; abria um caminho de mudança. Alguém que errou não precisava ficar preso para sempre ao desprezo dos outros, sem oportunidade de aprender e agir de outra forma.",
+        "A história começou diante de uma mesa de impostos e continuou ao redor de uma mesa de refeição. Em ambas, Jesus viu pessoas. Mateus pôde se levantar, e outros puderam se aproximar. A misericórdia ganhou forma num chamado, num lugar à mesa e numa oportunidade de começar uma caminhada diferente."
+      ],
+      "alt": "Mateus escuta Jesus com atenção entre os participantes da refeição.",
+      "image": "246/part3.webp"
+    }
+  ],
+  "lesson": "Podemos reconhecer que uma atitude foi errada sem tratar alguém como incapaz de mudar. Pedir desculpas, reparar o que for possível e aprender novos caminhos são partes de um recomeço. Também devemos respeitar limites de segurança e buscar ajuda de adultos quando necessário. A misericórdia não manda aceitar maus-tratos; convida a unir verdade, cuidado e esperança na maneira como nos relacionamos com as pessoas.",
+  "question": "Como você pode acolher alguém que reconheceu um erro e está tentando agir de outro jeito?",
+  "prayer": "Jesus, obrigado por abrir caminhos de recomeço. Ajuda-nos a reconhecer nossos erros, pedir desculpas e reparar o que pudermos. Ensina-nos a tratar as pessoas com verdade e misericórdia, sem humilhar, e a procurar ajuda quando precisarmos de proteção. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/246.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Mateus se levanta para atender ao convite de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle kindly invites Matthew olive skin short curly hair trimmed beard muted teal robe to rise from wooden tax table with coins and rolled documents, ancient market street, warm hopeful light, no readable text."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus convida Mateus a deixar a mesa de cobrança e segui-lo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Matthew short curly hair beard teal robe seated at ancient tax table with small scales and coins looks up surprised at Jesus cream tunic terracotta mantle extending welcoming hand, stone buildings, expressive faces."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus compartilha uma refeição com Mateus e outros convidados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle and Matthew teal robe share bread around low table with several ordinary adult guests in humble courtyard, inclusive warm conversation, clay bowls and bread, no alcohol emphasis."
+    },
+    {
+      "role": "part3",
+      "alt": "Mateus escuta Jesus com atenção entre os participantes da refeição.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle explains gently at low meal table, Matthew teal robe and others listen thoughtfully, a concerned visitor near doorway included respectfully, balanced warm cinematic light."
+    }
+  ]
+}

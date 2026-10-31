@@ -1,0 +1,74 @@
+{
+  "id": 208,
+  "title": "Alegria de Caminhar Juntos",
+  "subtitle": "Uma oração pela paz da cidade",
+  "reference": "Salmo 122",
+  "description": "O convite para adorar ao Senhor se transforma em alegria, encontro e desejo de paz para todos.",
+  "testament": "antigo",
+  "cover": "/images/covers/208.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um convite cheio de alegria",
+      "paragraphs": [
+        "O Salmo 122 começa com uma lembrança alegre: alguém recebeu o convite para ir à casa do Senhor. Davi transformou essa alegria em canção. O poema também faz parte dos Cânticos de Romagem, que trazem a imagem de pessoas caminhando em direção a Jerusalém para adorar e agradecer juntas.",
+        "A chegada é descrita de maneira simples e próxima. Os pés finalmente estão dentro dos portões da cidade. Depois da expectativa, vem o encontro com o lugar desejado. O poeta olha ao redor e celebra Jerusalém, suas construções reunidas e a vida compartilhada por tantas pessoas que chegam de diferentes partes.",
+        "Essa alegria cresce porque a caminhada tem companhia. As tribos de Israel se reúnem para dar graças ao nome do Senhor. Cada grupo traz sua história, suas necessidades e seus motivos de gratidão. Dentro da canção, muitas vozes encontram um propósito comum: reconhecer a bondade de Deus em comunidade."
+      ],
+      "image": "208/part1.webp",
+      "alt": "Amigos recebem com alegria um convite para caminhar"
+    },
+    {
+      "heading": "Uma cidade de encontros",
+      "paragraphs": [
+        "O poema fala de Jerusalém como uma cidade bem unida. Seus espaços aproximam pessoas e suas casas se juntam numa mesma paisagem. Podemos imaginar a impressão de quem atravessa os portões e vê caminhos, construções e lugares de encontro. A cidade se torna uma imagem de pertencimento e responsabilidade compartilhada.",
+        "Também são lembrados os lugares de julgamento ligados à casa de Davi. Uma comunidade precisa de justiça para que sua vida seja cuidada. Escutar com atenção, decidir de maneira correta e proteger quem precisa fazem parte do bem de todos. A alegria da reunião caminha ao lado desse desejo de justiça.",
+        "Assim, o salmo vai além da satisfação de chegar a um lugar bonito. A cidade é feita de pessoas, de relações e de escolhas. Quem celebra o encontro também pode desejar que a convivência seja boa. A gratidão pelo Senhor começa a se transformar em preocupação carinhosa com a vida dos outros."
+      ],
+      "image": "208/part2.webp",
+      "alt": "Famílias entram por um portão de Jerusalém"
+    },
+    {
+      "heading": "Paz dentro dos muros",
+      "paragraphs": [
+        "A canção convida as pessoas a orar pela paz de Jerusalém. O desejo alcança seus muros e suas casas, os espaços públicos e os lugares onde as famílias vivem. A palavra paz reúne a esperança de segurança, de bem-estar e de relações que permitam a todos viver com dignidade e tranquilidade.",
+        "O poeta explica por que deseja esse bem: pensa em seus irmãos e companheiros e na casa do Senhor. Ele se compromete a procurar o bem da cidade. A oração ganha o tamanho de uma atitude. Quem pede paz também pode ajudar a construí-la com respeito, cuidado e disposição para servir.",
+        "Podemos levar esse convite aos lugares que frequentamos. Nossa casa, nossa escola e nossa comunidade precisam de pessoas que desejem o bem umas das outras. A alegria de estar junto aumenta quando cada um se sente acolhido. Uma oração pela paz pode continuar num gesto simples que torne o encontro mais bonito."
+      ],
+      "image": "208/part3.webp",
+      "alt": "Vizinhos compartilham alimento numa cidade tranquila"
+    }
+  ],
+  "lesson": "Estar junto é um presente que também pede cuidado. O Salmo 122 une gratidão, convivência e oração pela paz. Podemos procurar o bem do lugar onde vivemos ao acolher alguém, respeitar uma combinação e ajudar a resolver um desacordo com calma. Pense numa pequena atitude que torne sua casa ou escola mais acolhedora. A paz encontra espaço em gestos assim.",
+  "question": "Que gesto seu pode ajudar alguém a se sentir mais acolhido na escola ou em casa?",
+  "prayer": "Deus, obrigado pelas pessoas com quem posso caminhar e aprender. Dá paz à nossa casa, à nossa escola e à nossa cidade. Ajuda-me a acolher quem chega, a respeitar quem é diferente e a procurar o bem de todos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA122.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias se aproximam dos portões de Jerusalém",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Psalm 122: diverse ancient Hebrew families with children walking joyfully toward Jerusalem stone gateway, travel bundles, warm sunlight, welcoming city beyond, cinematic composition, no named biblical characters. "
+    },
+    {
+      "role": "part1",
+      "alt": "Amigos recebem com alegria um convite para caminhar",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew neighbors warmly greeting a family in a small village courtyard, one adult gesturing toward distant Jerusalem hills, children smiling, woven bags ready, welcoming morning scene. "
+    },
+    {
+      "role": "part2",
+      "alt": "Famílias entram por um portão de Jerusalém",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Low welcoming view from inside an ancient Jerusalem gateway as families and elders enter together, detailed limestone streets and houses, smiles and respectful greetings, warm sunlight, no text. "
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos compartilham alimento numa cidade tranquila",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew neighbors of different ages sharing bread and fruit at a courtyard table inside Jerusalem, one person helping an elder sit, children offering cups, peaceful city life, golden afternoon. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

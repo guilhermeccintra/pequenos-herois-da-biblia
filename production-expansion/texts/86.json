@@ -1,0 +1,71 @@
+{
+  "id": 86,
+  "title": "Quando a Terra Descansava",
+  "subtitle": "A terra também recebe um tempo de pausa",
+  "reference": "Levítico 25:1–7",
+  "description": "Deus ensina Israel a cultivar com responsabilidade e a reconhecer que a criação não é uma máquina sem limites.",
+  "testament": "antigo",
+  "cover": "/images/covers/86.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma orientação antes da colheita",
+      "paragraphs": [
+        "No monte Sinai, Deus falou a Moisés sobre a vida que Israel teria na terra prometida. O povo ainda estava em caminho, mas precisava aprender como trataria os campos e as vinhas. Receber um lugar para viver também significaria assumir responsabilidades sobre aquilo que sustentaria suas famílias.",
+        "Durante seis anos, os israelitas poderiam semear os campos, podar as vinhas e recolher sua produção. Haveria trabalho, planejamento e cuidado com o alimento. A orientação reconhecia o valor dessas tarefas. A terra precisaria ser cultivada, e as pessoas participariam com suas mãos da provisão que chegaria à mesa.",
+        "No sétimo ano, porém, a terra deveria descansar. Não seria semeada nem receberia a poda habitual das vinhas. Esse tempo era dedicado ao Senhor. A pausa colocava um limite no desejo de produzir continuamente e lembrava que os campos não eram apenas uma fonte de recursos a ser exigida sem descanso."
+      ],
+      "image": "86/part1.webp",
+      "alt": "Moisés ensina sobre o descanso da terra."
+    },
+    {
+      "heading": "O que crescesse seria compartilhado",
+      "paragraphs": [
+        "Durante aquele ano, o que brotasse espontaneamente não deveria ser tratado como uma colheita comum destinada a acumular produção. Haveria alimento para o dono da terra, seus trabalhadores, os estrangeiros que morassem ali e também os animais. A instrução abria espaço para o sustento de muitos, além do interesse de uma única família.",
+        "No ano de descanso, o campo continuaria fazendo parte da vida da comunidade. Plantas cresceriam por si mesmas, e pessoas recolheriam o necessário para comer. A terra não seria tratada como algo obrigado a produzir sem pausa. Israel aprenderia um ritmo diferente, recebendo o alimento disponível e respeitando o tempo de repouso.",
+        "Os animais domésticos e os animais da terra também são mencionados. O cuidado não terminava na porta das casas. A vida do campo envolvia criaturas diferentes, todas dependentes do que crescia. Ao incluir esses seres na provisão, a orientação convidava o povo a perceber uma criação maior do que suas próprias necessidades."
+      ],
+      "image": "86/part2.webp",
+      "alt": "Pessoas recolhem o alimento que cresceu espontaneamente."
+    },
+    {
+      "heading": "Aprender a receber sem esgotar",
+      "paragraphs": [
+        "O descanso da terra exigia confiança e organização. Não significava que os anos de trabalho fossem inúteis, mas que eles não deveriam ocupar todo o tempo sem interrupção. O povo precisava aprender a reconhecer limites e a receber a provisão de Deus sem transformar a produção contínua na única medida de segurança.",
+        "Essa instrução também lembrava que a terra era um presente a ser cuidado. Quem a cultivava não deveria se comportar como se pudesse exigir dela qualquer coisa para sempre. A relação com o solo, com os trabalhadores e com os animais fazia parte da vida diante do Senhor, assim como a oração e a adoração.",
+        "O ano de descanso convida a olhar para o mundo com gratidão e responsabilidade. Nosso modo de viver é diferente daquele de Israel, mas a pergunta permanece: como usar sem esgotar e receber sem esquecer de cuidar? A pausa ensinada no Sinai mostrava que a vida precisa de ritmos que respeitem a criação."
+      ],
+      "image": "86/part3.webp",
+      "alt": "A terra sustenta pessoas e animais."
+    }
+  ],
+  "lesson": "A criação merece cuidado, e nem tudo deve ser usado até se esgotar. O descanso da terra nos ajuda a pensar sobre limites, desperdício e responsabilidade. Podemos cuidar de plantas, economizar recursos e respeitar os seres vivos que compartilham o mundo conosco. Também podemos aprender com os adultos maneiras de usar melhor aquilo que recebemos. Gratidão não é apenas dizer obrigado; é tratar com atenção o que sustenta a vida.",
+  "question": "Que recurso da natureza você pode usar com mais cuidado nesta semana?",
+  "prayer": "Deus criador, obrigado pela terra, pela água e pelos seres vivos que nos acompanham. Ensina-me a cuidar sem desperdiçar e a respeitar os limites da criação. Ajuda nossa família a fazer escolhas responsáveis e a receber teus presentes com gratidão. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família observa o campo em descanso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Illustrative ancient Israelite family stands beside uncultivated resting field with wild grasses and scattered grain, goats grazing at distance, peaceful fertile landscape, no active plowing."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés ensina sobre o descanso da terra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Moses speaks to attentive adult families in desert camp, thoughtful expressions, distant mountains, simple clay jars and woven baskets."
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas recolhem o alimento que cresceu espontaneamente.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Adult neighbors of different ages gently gather small amount of naturally growing fruit and grain from resting field for meal, modest baskets, no mass harvest."
+    },
+    {
+      "role": "part3",
+      "alt": "A terra sustenta pessoas e animais.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Wide tranquil resting vineyard and meadow, family shares simple food in shade while goats and birds forage safely at distance, warm natural light."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+25%3A1-7&version=KJV"
+  ]
+}

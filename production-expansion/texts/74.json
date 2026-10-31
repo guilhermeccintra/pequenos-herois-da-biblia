@@ -1,0 +1,71 @@
+{
+  "id": 74,
+  "title": "Uma Aliança e uma Mesa",
+  "subtitle": "Uma promessa ouvida e assumida em comunidade",
+  "reference": "Êxodo 24",
+  "description": "Ao pé do Sinai, o povo escuta a aliança e participa de um momento de compromisso com Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/74.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Ouvir antes de responder",
+      "paragraphs": [
+        "O povo de Israel estava junto ao monte Sinai. Depois de sair da escravidão, precisava aprender como viver em liberdade diante de Deus e dos outros. Moisés recebeu orientações e as apresentou à comunidade. A aliança não tratava apenas de uma viagem; envolvia o modo como aquela vida em conjunto seria construída.",
+        "Quando Moisés contou as palavras e as instruções do Senhor, o povo respondeu que procuraria obedecer. Era uma resposta dada em comunidade. Cada pessoa fazia parte de uma história maior do que sua própria tenda. As decisões sobre justiça, respeito e adoração alcançariam famílias, vizinhos e aqueles que chegassem de fora.",
+        "Moisés escreveu as palavras recebidas. O compromisso não ficaria dependente de lembranças vagas ou de versões diferentes contadas pelo acampamento. Haveria algo a ser novamente lido e ouvido. A escrita ajudava a preservar a orientação e lembrava que uma promessa importante merece atenção, memória e responsabilidade."
+      ],
+      "image": "74/part1.webp",
+      "alt": "Moisés registra as palavras recebidas."
+    },
+    {
+      "heading": "Um compromisso ao pé do monte",
+      "paragraphs": [
+        "De manhã cedo, Moisés construiu um altar ao pé da montanha e levantou doze colunas, representando as doze tribos de Israel. Aqueles sinais mostravam que todo o povo estava envolvido. Não era um acordo particular reservado a uma família ou a um pequeno grupo de pessoas mais importantes.",
+        "Houve ofertas e um ritual de aliança segundo os costumes daquele tempo. O texto bíblico menciona o sangue dos sacrifícios como sinal da seriedade do compromisso. Não precisamos imaginar a cena em detalhes para compreender sua mensagem: a relação com Deus e as responsabilidades assumidas não deveriam ser tratadas como palavras sem valor.",
+        "Moisés leu o livro da aliança diante do povo. Mais uma vez, os israelitas afirmaram que obedeceriam ao que haviam ouvido. A leitura veio antes da confirmação. A comunidade era chamada a prestar atenção ao conteúdo do compromisso, e não apenas a participar de uma cerimônia sem entender o que estava assumindo."
+      ],
+      "image": "74/part2.webp",
+      "alt": "A comunidade escuta a leitura da aliança."
+    },
+    {
+      "heading": "Uma mesa e uma espera",
+      "paragraphs": [
+        "Depois, Moisés, Arão, Nadabe, Abiú e setenta líderes de Israel subiram. A Bíblia descreve uma experiência extraordinária diante do Deus de Israel, com uma imagem de beleza semelhante ao azul de uma pedra preciosa. O relato é reverente e breve; não nos oferece um retrato comum de Deus para desenhar ou explicar completamente.",
+        "Os representantes comeram e beberam naquele momento de proximidade. A aliança também tinha espaço para comunhão. Mais tarde, Moisés foi chamado a subir para receber as tábuas de pedra. Josué o acompanhou no caminho, e os outros líderes receberam orientação sobre como atender o povo durante sua ausência.",
+        "Uma nuvem cobriu o monte, e Moisés permaneceu ali durante quarenta dias e quarenta noites. A comunidade precisaria esperar. O compromisso assumido ao pé do Sinai continuaria sendo importante quando a cerimônia terminasse e a rotina voltasse. Promessas ganham sentido quando orientam o que fazemos depois de dizê-las."
+      ],
+      "image": "74/part3.webp",
+      "alt": "Os líderes compartilham uma refeição no monte."
+    }
+  ],
+  "lesson": "Um compromisso merece ser ouvido, compreendido e lembrado. O povo respondeu à aliança depois de escutar suas palavras, e a vida cotidiana mostraria como colocá-las em prática. Também podemos aprender a não prometer apenas para agradar no momento. Antes de assumir uma tarefa, convém entender o que ela exige e pedir ajuda quando necessário. A confiança cresce quando nossas ações acompanham aquilo que dizemos com sinceridade.",
+  "question": "Que compromisso pequeno você pode assumir e cumprir com atenção nesta semana?",
+  "prayer": "Deus fiel, ensina-me a ouvir antes de responder e a tratar minhas promessas com cuidado. Ajuda-me a cumprir o que posso assumir e a pedir orientação quando não entendo. Que minhas palavras e atitudes construam confiança, respeito e responsabilidade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés apresenta o livro da aliança ao povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses holding ancient rolled parchment speaks to attentive families at foot of Sinai, twelve plain stone pillars suggested in distance, no readable writing."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés registra as palavras recebidas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses seated inside simple tent carefully writes on parchment with ancient reed pen, warm lamp light, text indistinct no readable letters."
+    },
+    {
+      "role": "part2",
+      "alt": "A comunidade escuta a leitura da aliança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Wide respectful gathering of Hebrew adults and children at mountain foot, Moses reads parchment near simple stone altar and twelve standing stones, no animals or blood."
+    },
+    {
+      "role": "part3",
+      "alt": "Os líderes compartilham uma refeição no monte.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses Aaron and several elderly representatives share simple bread meal on rocky mountain terrace under deep sapphire-blue sky and luminous clouds, no visible deity or throne, reverent peaceful mood."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+24&version=KJV"
+  ]
+}

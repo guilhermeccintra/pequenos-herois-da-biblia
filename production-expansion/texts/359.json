@@ -1,0 +1,71 @@
+{
+  "id": 359,
+  "title": "Uma Fé que Ajuda",
+  "subtitle": "Quando as palavras ganham mãos",
+  "reference": "Tiago 2:14–26",
+  "description": "Tiago apresenta uma pergunta sobre fé e atitudes. O exemplo de alguém sem alimento mostra por que desejar o bem precisa caminhar junto com ajuda concreta.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/359.webp",
+  "parts": [
+    {
+      "heading": "Uma pergunta importante",
+      "paragraphs": [
+        "Tiago escreveu uma pergunta direta aos seus leitores: de que serve alguém dizer que tem fé se essa afirmação nunca aparece em suas atitudes? A carta convidava a examinar a distância entre o que se anuncia e o que se pratica. Não era uma competição para acumular boas ações, mas um chamado à coerência da vida.",
+        "Para explicar, Tiago apresentou um exemplo. Um irmão ou uma irmã não tinha roupa suficiente nem o alimento necessário para o dia. A necessidade era concreta. Não se tratava apenas de uma ideia sobre pobreza ou de um assunto distante. Havia uma pessoa precisando de cuidado para que pudesse enfrentar o frio, a fome e a dificuldade.",
+        "Imagine alguém respondendo somente com votos de paz, desejando que a pessoa se aquecesse e comesse bem, mas sem oferecer o necessário. Tiago perguntou que benefício haveria nisso. Palavras de carinho podem consolar, mas, quando existe uma necessidade material que podemos ajudar a atender, elas não devem ser usadas para evitar toda participação."
+      ],
+      "image": "359/part1.webp",
+      "alt": "Uma pessoa de roupa simples aguarda à porta de uma casa enquanto a família percebe sua necessidade, sem aparência humilhante, expressão respeitosa."
+    },
+    {
+      "heading": "Palavras diante da necessidade",
+      "paragraphs": [
+        "A carta concluiu que uma fé sem obras está morta. A imagem é forte porque mostra algo que perdeu sua expressão viva. A confiança em Deus deveria alcançar a maneira de usar os recursos, tratar as pessoas e responder ao sofrimento. Se nunca transforma nenhuma escolha, há uma distância importante entre o nome dado à fé e a vida realizada.",
+        "Tiago continuou explicando que as atitudes tornam visível aquilo em que uma pessoa confia. Percebemos os frutos de uma escolha quando alguém reparte, acolhe ou cumpre o que prometeu. A carta convidava cada leitor a olhar para a própria vida. Em vez de deixar a fé apenas no discurso, era hora de permitir que ela participasse das decisões de todos os dias.",
+        "O texto lembrou que apenas afirmar a existência de Deus não resume a vida de fé. O conhecimento precisa encontrar resposta no amor e na obediência. Saber uma informação verdadeira é importante, mas não equivale a viver de acordo com ela. Uma criança pode saber que um colega merece respeito e ainda precisar aprender a incluí-lo nas brincadeiras."
+      ],
+      "image": "359/part2.webp",
+      "alt": "Adultos preparam alimento e roupa em bom estado numa mesa, criança participa com orientação, textura detalhada de linho e pão."
+    },
+    {
+      "heading": "A confiança se torna ação",
+      "paragraphs": [
+        "Para continuar o ensino, Tiago recordou Abraão e Raabe. Ele não repetiu todos os detalhes de suas histórias; destacou que a confiança de ambos apareceu em ações. Os exemplos vinham de trajetórias muito diferentes. Isso mostrava que a fé viva não pertence somente a um tipo de pessoa ou a quem possui uma história sem dificuldades.",
+        "A relação entre fé e obras foi comparada à relação entre corpo e espírito. A carta desejava despertar uma fé que respirasse na vida diária. A ajuda concreta não compra o amor de Deus, nem torna alguém superior a quem recebe. Ela responde ao amor com responsabilidade, reconhecendo que o próximo tem necessidades tão reais quanto as nossas.",
+        "O exemplo do alimento continua fácil de compreender. Se podemos ajudar, vale perguntar qual ajuda é adequada e combinar uma forma de participar. Uma criança pode acompanhar sua família numa ação de cuidado, separar algo em bom estado ou avisar um adulto sobre uma necessidade. A fé ganha mãos quando o desejo de ajudar encontra uma atitude possível e respeitosa."
+      ],
+      "image": "359/part3.webp",
+      "alt": "Visitante e anfitriões compartilham refeição como iguais, manto limpo sobre banco, clima de pertencimento e cuidado concreto."
+    }
+  ],
+  "lesson": "Uma palavra gentil é importante, e uma ajuda concreta pode torná-la ainda mais verdadeira. Podemos perguntar o que a pessoa precisa, combinar com um responsável e participar de uma ação adequada à nossa idade. Não devemos expor quem recebe ajuda nem esperar elogios em troca. A carta de Tiago nos convida a unir fé e cuidado, lembrando que generosidade envolve respeito, responsabilidade e atenção às necessidades reais.",
+  "question": "Qual desejo de bem você poderia transformar em uma ajuda concreta com orientação de um adulto?",
+  "prayer": "Deus, abre nossos olhos para as necessidades das pessoas. Ajuda-nos a unir palavras gentis e atitudes de cuidado. Ensina-nos a repartir com respeito, buscar orientação e não esperar aplausos. Que nossa fé apareça na responsabilidade, na generosidade e no amor vivido. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Família do primeiro século oferece pão e manto a um visitante adulto com dignidade, criança ajuda segurando cesta pequena, casa antiga luminosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Família do primeiro século oferece pão e manto a um visitante adulto com dignidade, criança ajuda segurando cesta pequena, casa antiga luminosa."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma pessoa de roupa simples aguarda à porta de uma casa enquanto a família percebe sua necessidade, sem aparência humilhante, expressão respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma pessoa de roupa simples aguarda à porta de uma casa enquanto a família percebe sua necessidade, sem aparência humilhante, expressão respeitosa."
+    },
+    {
+      "role": "part2",
+      "alt": "Adultos preparam alimento e roupa em bom estado numa mesa, criança participa com orientação, textura detalhada de linho e pão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Adultos preparam alimento e roupa em bom estado numa mesa, criança participa com orientação, textura detalhada de linho e pão."
+    },
+    {
+      "role": "part3",
+      "alt": "Visitante e anfitriões compartilham refeição como iguais, manto limpo sobre banco, clima de pertencimento e cuidado concreto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Visitante e anfitriões compartilham refeição como iguais, manto limpo sobre banco, clima de pertencimento e cuidado concreto."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/JAS.2.KJV"
+  ]
+}

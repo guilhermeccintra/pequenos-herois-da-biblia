@@ -1,0 +1,71 @@
+{
+  "id": 70,
+  "title": "Um Dia para Descansar",
+  "subtitle": "O cuidado de Deus também oferece descanso",
+  "reference": "Êxodo 16:22–36",
+  "description": "O povo aprende a preparar o alimento e separar um dia para parar, agradecer e confiar.",
+  "testament": "antigo",
+  "cover": "/images/covers/70.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma manhã diferente",
+      "paragraphs": [
+        "Durante a caminhada pelo deserto, o povo de Israel recolhia o maná a cada manhã. Era uma rotina nova para quem antes trabalhara sob as ordens do faraó. Agora recebia alimento e aprendia a usar bem o que lhe era dado. Mas, no sexto dia, aconteceu algo que chamou a atenção dos líderes.",
+        "As pessoas recolheram o dobro da quantidade habitual. Os responsáveis pelo povo foram contar a Moisés, pois nos outros dias havia uma orientação para não guardar alimento até a manhã seguinte. Precisavam compreender a diferença. A mesma confiança que os ensinara a recolher o suficiente agora exigia atenção a uma nova instrução.",
+        "Moisés explicou que o dia seguinte seria um descanso dedicado ao Senhor. Deveriam preparar naquele dia o que precisassem assar ou cozinhar e guardar o restante para a manhã seguinte. A provisão de dois dias permitia uma pausa. Deus não estava exigindo que seu povo corresse atrás de alimento sem nunca parar."
+      ],
+      "image": "70/part1.webp",
+      "alt": "O povo recolhe uma porção maior no sexto dia."
+    },
+    {
+      "heading": "O alimento que podia esperar",
+      "paragraphs": [
+        "Os israelitas fizeram como Moisés havia orientado. Dessa vez, o maná guardado não estragou. A diferença não estava em acumular por medo, mas em seguir a instrução recebida para aquele momento. O alimento reservado tinha um propósito: sustentar as famílias enquanto descansavam no dia separado para o Senhor.",
+        "Moisés disse que naquele dia não encontrariam maná no campo. Durante seis dias poderiam recolhê-lo; no sétimo, descansariam. Para pessoas que conheceram uma escravidão de cobranças intermináveis, essa pausa fazia parte de aprender a viver livres. Seu valor não seria medido apenas pelo trabalho que suas mãos conseguiam produzir.",
+        "Mesmo assim, algumas pessoas saíram para procurar alimento no sétimo dia e não encontraram nada. Ainda estavam aprendendo a confiar naquela organização do tempo. A ordem para descansar não era uma armadilha que as deixaria com fome. A provisão já havia sido dada, junto com a oportunidade de parar e recebê-la com tranquilidade."
+      ],
+      "image": "70/part2.webp",
+      "alt": "A família prepara o alimento antes do descanso."
+    },
+    {
+      "heading": "Uma memória para as gerações",
+      "paragraphs": [
+        "O povo descansou no sétimo dia. A caminhada pelo deserto passava a ter um ritmo que incluía trabalho e pausa. O alimento vinha de Deus, mas era recolhido e preparado por mãos humanas. O descanso lembrava que essas mãos tinham limites e que a vida não precisava ser uma tarefa sem fim.",
+        "Moisés também orientou que uma porção de maná fosse guardada como lembrança para as gerações futuras. Arão colocou o alimento num recipiente, conforme a ordem recebida. Quem viesse depois poderia conhecer a história do pão que sustentara Israel no deserto. A gratidão ganhava uma memória concreta para ser transmitida.",
+        "A Bíblia conta que o povo comeu maná durante sua longa caminhada até chegar à terra habitada. Cada semana carregava o aprendizado de receber, preparar e descansar. O cuidado de Deus não se mostrava apenas na quantidade de comida. Também aparecia no espaço oferecido para respirar, lembrar e reconhecer que a vida pertence a algo maior que a produção."
+      ],
+      "image": "70/part3.webp",
+      "alt": "Arão guarda uma porção de maná como lembrança."
+    }
+  ],
+  "lesson": "Descansar faz parte do cuidado com a vida. A história do maná mostra que preparar as tarefas e respeitar as pausas podem caminhar juntos. Nosso valor não aumenta quando ficamos ocupados o tempo todo. Podemos combinar com a família momentos para brincar, conversar, agradecer e recuperar as forças. Também é importante respeitar o descanso das outras pessoas, lembrando que todos precisam de tempo para respirar e ser cuidados.",
+  "question": "Como sua família pode preparar as tarefas para ter um momento de descanso e convivência?",
+  "prayer": "Senhor, obrigado pelo trabalho que podemos fazer e pelo descanso de que precisamos. Ajuda-nos a organizar o tempo com sabedoria, respeitar nossos limites e cuidar uns dos outros. Que nossas pausas tenham gratidão, paz e espaço para estar juntos. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família descansa à sombra de sua tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Hebrew family peacefully rests together in shade of desert tent with prepared simple meal and water, relaxed parents and children, no modern objects, warm gentle light."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo recolhe uma porção maior no sexto dia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Adult Hebrew families gather pale manna flakes into two modest baskets per household at dawn, cooperative calm scene, Moses in background."
+    },
+    {
+      "role": "part2",
+      "alt": "A família prepara o alimento antes do descanso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Adult parents prepare simple flat cakes over safe small cooking area outside tent while children sit at distance with bowls, folded cloth covering reserved food."
+    },
+    {
+      "role": "part3",
+      "alt": "Arão guarda uma porção de maná como lembrança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Aaron carefully places small pale manna grains into plain clay jar, Moses watches beside him at tent entrance, reverent thoughtful scene, no letters or glowing objects."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+16%3A22-36&version=KJV"
+  ]
+}

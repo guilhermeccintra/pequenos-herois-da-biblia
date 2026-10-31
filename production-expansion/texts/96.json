@@ -1,0 +1,71 @@
+{
+  "id": 96,
+  "title": "Moisés e a Rocha de Meribá",
+  "subtitle": "Até quem lidera precisa ouvir com cuidado",
+  "reference": "Números 20:1–13",
+  "description": "Em Meribá, Moisés recebe uma orientação sobre a água e aprende que a responsabilidade também exige humildade.",
+  "testament": "antigo",
+  "cover": "/images/covers/96.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A sede volta a preocupar",
+      "paragraphs": [
+        "Os israelitas chegaram ao deserto de Zim e ficaram em Cades. Ali, Miriã morreu e foi sepultada. Era um tempo de perda e de dificuldades. Quando faltou água para a comunidade, as pessoas se reuniram contra Moisés e Arão, preocupadas com a própria vida e com seus animais.",
+        "O povo reclamou do lugar, dizendo que não havia plantações, figueiras, videiras, romãzeiras nem água para beber. A sede era uma necessidade real. Mas a conversa se transformou numa acusação contra os líderes, como se toda a caminhada tivesse sido preparada para fazê-los sofrer naquele deserto.",
+        "Moisés e Arão saíram de diante da comunidade e foram até a entrada da tenda do encontro. Ali se prostraram, e a glória do Senhor apareceu. Eles precisavam de orientação para aquela situação. Ter conduzido o povo em outros momentos não significava que pudessem decidir tudo sozinhos, sem voltar a escutar."
+      ],
+      "image": "96/part1.webp",
+      "alt": "Moisés e Arão buscam orientação junto à tenda."
+    },
+    {
+      "heading": "Uma ordem que precisava ser ouvida",
+      "paragraphs": [
+        "Deus mandou Moisés pegar a vara e reunir a comunidade com Arão. Depois, deveriam falar à rocha diante das pessoas. A água sairia para que o povo e os animais bebessem. A orientação era clara e diferente de uma ocasião anterior, quando Moisés havia recebido a ordem de bater numa rocha.",
+        "Moisés pegou a vara, como o Senhor havia ordenado, e os irmãos reuniram o povo. Mas, diante da rocha, Moisés falou com irritação, chamando as pessoas de rebeldes. Perguntou se eles teriam de fazer a água sair dali. Suas palavras não mostraram a mesma confiança tranquila que a orientação pedia.",
+        "Em seguida, Moisés levantou a mão e bateu na rocha duas vezes com a vara. Não era isso que Deus havia mandado fazer naquele momento. Mesmo assim, saiu água em abundância. A comunidade bebeu, e os animais também. O cuidado com a sede do povo não transformou a atitude de Moisés em obediência."
+      ],
+      "image": "96/part2.webp",
+      "alt": "Moisés bate na rocha diante da comunidade."
+    },
+    {
+      "heading": "Água e uma consequência difícil",
+      "paragraphs": [
+        "O Senhor disse a Moisés e Arão que eles não haviam confiado nele de modo a honrá-lo diante dos israelitas. Por isso, não seriam os responsáveis por conduzir a comunidade para dentro da terra prometida. Era uma consequência dolorosa para homens que haviam participado de tantos passos daquela longa viagem.",
+        "O lugar ficou conhecido como as águas de Meribá, um nome ligado à discussão do povo. A passagem reúne duas realidades: Deus deu água à comunidade, e os líderes precisaram responder pelo que fizeram. Um resultado que parece bom não significa que qualquer maneira de chegar até ele seja correta.",
+        "Moisés continuaria servindo a Israel, mas carregaria essa consequência. A história não apaga suas muitas atitudes de coragem e cuidado. Ela nos lembra de que ninguém deixa de precisar de humildade. Quando a irritação cresce e a tarefa parece repetida, ainda precisamos parar, ouvir e tratar com atenção aquilo que nos foi confiado."
+      ],
+      "image": "96/part3.webp",
+      "alt": "A comunidade bebe enquanto Moisés reflete."
+    }
+  ],
+  "lesson": "Conhecer uma tarefa não significa que podemos deixar de ouvir. Moisés precisava seguir a orientação recebida naquele momento, mesmo já tendo enfrentado situações parecidas. Quando estamos irritados, podemos respirar, pedir ajuda e escutar antes de agir. A responsabilidade inclui a maneira como tratamos as pessoas. Também inclui reconhecer nossos erros, mesmo quando algo termina aparentemente bem, e continuar aprendendo com humildade em vez de esconder o que aconteceu.",
+  "question": "O que pode ajudar você a ouvir com atenção quando já está irritado com uma situação?",
+  "prayer": "Senhor, ajuda-me a escutar antes de agir e a não deixar a irritação conduzir minhas palavras. Dá-me humildade para reconhecer meus erros e aprender com eles. Que eu trate as pessoas com respeito e cuide das responsabilidades que recebo. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés observa a água que sai da rocha em Meribá.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Scene: Moses stands soberly beside desert rock with plentiful clear water flowing into shallow pool, families and goats drink safely in background, no celebration by Moses, wide warm cinematic scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés e Arão buscam orientação junto à tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Scene: Moses and Aaron kneel reverently at tabernacle entrance, luminous cloud above, only two men in foreground, no visible deity."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés bate na rocha diante da comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Scene: Moses in serious troubled expression holding wooden staff low just after striking desert rock, first water flowing, Aaron beside him and attentive adult community behind, no aggressive action toward people."
+    },
+    {
+      "role": "part3",
+      "alt": "A comunidade bebe enquanto Moisés reflete.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Scene: Foreground Moses seated quietly with staff at side and thoughtful humble expression; background families fill clay jars from clear rocky spring, goats drink, balanced compassionate scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+20%3A1-13&version=KJV"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 229,
+  "title": "Os Amigos na Fornalha",
+  "subtitle": "Fidelidade compartilhada em um dia difícil",
+  "reference": "Daniel 3",
+  "description": "Sadraque, Mesaque e Abede-Nego permanecem unidos em sua fé e recebem um livramento que surpreende o rei.",
+  "testament": "antigo",
+  "cover": "/images/covers/229.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma ordem diante da estátua",
+      "paragraphs": [
+        "Nabucodonosor mandou construir uma grande estátua de ouro na planície de Dura, na Babilônia. Reuniu autoridades de seu reino para a cerimônia. Um mensageiro anunciou a ordem: quando os instrumentos tocassem, todos deveriam se ajoelhar e adorar a imagem. Quem se recusasse enfrentaria um castigo numa fornalha acesa.",
+        "A música começou, e a multidão se inclinou. Sadraque, Mesaque e Abede-Nego, porém, permaneceram fiéis ao Senhor e não adoraram a estátua. Alguns homens perceberam e levaram uma acusação ao rei. Os três amigos, que trabalhavam na administração da província, foram chamados à presença de Nabucodonosor para responder.",
+        "O rei estava irritado. Repetiu a ordem e perguntou se eles obedeceriam quando a música tocasse outra vez. A situação era muito séria, e os amigos sabiam do perigo. Mesmo assim, permaneceram juntos e prepararam uma resposta que mostrava em quem confiavam e qual escolha desejavam guardar naquele momento."
+      ],
+      "image": "229/part1.webp",
+      "alt": "Três amigos ficam de pé diante da estátua distante"
+    },
+    {
+      "heading": "Uma resposta de confiança",
+      "paragraphs": [
+        "Os três afirmaram que o Deus a quem serviam tinha poder para livrá-los. Também disseram que, mesmo se o livramento não acontecesse, continuariam sem adorar a estátua. Sua fidelidade estava apoiada no amor ao Senhor. Eles apresentaram essa decisão com clareza diante do homem mais poderoso daquele reino.",
+        "Nabucodonosor ficou ainda mais furioso e ordenou que a fornalha fosse aquecida intensamente. Os amigos foram amarrados e lançados nela, ainda vestidos com suas roupas. O relato descreve um momento de grande perigo. A violência da decisão do rei contrastava com a confiança que os três haviam acabado de expressar.",
+        "Logo, porém, Nabucodonosor viu algo que o fez se levantar espantado. Perguntou aos conselheiros se não haviam sido três os homens lançados ali. Agora enxergava quatro, soltos e caminhando sem ferimentos. A quarta figura tinha aparência celestial. No meio daquele lugar, os amigos estavam recebendo uma companhia extraordinária."
+      ],
+      "image": "229/part2.webp",
+      "alt": "O rei se surpreende ao observar a fornalha à distância"
+    },
+    {
+      "heading": "Um livramento que surpreendeu",
+      "paragraphs": [
+        "O rei se aproximou da abertura e chamou Sadraque, Mesaque e Abede-Nego para sair. Os três vieram ao encontro dele. As autoridades observaram que estavam ilesos: seus cabelos e roupas permaneciam preservados, e nem o cheiro de fumaça estava neles. O livramento se tornou evidente diante de todos os presentes.",
+        "Nabucodonosor reconheceu que Deus havia enviado seu anjo para proteger aqueles servos. Admirou a confiança que tinham demonstrado e lhes deu novas responsabilidades na província. A história guardou a lembrança de três amigos que permaneceram unidos e de um cuidado do Senhor que surpreendeu até quem os havia ameaçado.",
+        "Podemos aprender com sua fidelidade e com a força da amizade. Quando uma pressão nos convida a fazer algo errado, vale procurar companhia e orientação para guardar o bem. Crianças podem pedir ajuda a adultos responsáveis diante de ameaças. A coragem também aparece ao contar o que acontece e buscar proteção para continuar firmes."
+      ],
+      "image": "229/part3.webp",
+      "alt": "Os três amigos saem ilesos e são recebidos com surpresa"
+    }
+  ],
+  "lesson": "Os três amigos permaneceram unidos e fiéis ao Senhor diante de uma pressão muito grande. Sua história nos convida a guardar aquilo que é bom e a valorizar a companhia de quem ajuda nossa fé. Quando alguém pressionar você a fazer algo errado ou ameaçador, procure um adulto de confiança. Pedir proteção e apoio é um passo corajoso e importante para cuidar da vida.",
+  "question": "Quem pode ajudar você a manter uma boa escolha quando outras pessoas pressionam para fazer o contrário?",
+  "prayer": "Senhor, fortalece minha fé e minhas amizades. Ajuda-me a guardar boas escolhas e a procurar proteção quando alguém me pressionar ou ameaçar. Dá-me coragem para contar o que acontece e receber ajuda. Obrigado por acompanhar teus filhos com amor. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/DAN03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Três amigos permanecem unidos com coragem",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Shadrach, Meshach and Abednego, exactly three young adult friends standing together calmly in an ancient Babylonian courtyard, determined gentle faces, warm golden light, distant brick furnace architecture barely visible with no flames near them, no Daniel. Shadrach is a young adult brown-skinned Judean man with short black hair, cream tunic and rust sash. Meshach is a young adult olive-skinned Judean man with wavy dark hair, cream tunic and green sash. Abednego is a young adult brown-skinned Judean man with tight dark curls, cream tunic and ochre sash."
+    },
+    {
+      "role": "part1",
+      "alt": "Três amigos ficam de pé diante da estátua distante",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Shadrach, Meshach and Abednego standing together in foreground while adult crowd kneels toward a distant tall golden statue on plain of Dura, respectful solemn composition, musicians far away, no violence, no Daniel. Shadrach is a young adult brown-skinned Judean man with short black hair, cream tunic and rust sash. Meshach is a young adult olive-skinned Judean man with wavy dark hair, cream tunic and green sash. Abednego is a young adult brown-skinned Judean man with tight dark curls, cream tunic and ochre sash."
+    },
+    {
+      "role": "part2",
+      "alt": "O rei se surpreende ao observar a fornalha à distância",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nebuchadnezzar and two adult advisers standing at a safe distance looking astonished toward a large brick furnace doorway glowing warm orange in background, no people being harmed, no bodies, no smoke distress, no Daniel. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, purple robe and tall gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "Os três amigos saem ilesos e são recebidos com surpresa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Shadrach, Meshach and Abednego, exactly three fully clothed unharmed young adults, standing safely outside ancient brick furnace, intact cream garments and distinct rust green ochre sashes, Nebuchadnezzar watching amazed at a respectful distance, no flames touching anyone, no Daniel. Shadrach is a young adult brown-skinned Judean man with short black hair, cream tunic and rust sash. Meshach is a young adult olive-skinned Judean man with wavy dark hair, cream tunic and green sash. Abednego is a young adult brown-skinned Judean man with tight dark curls, cream tunic and ochre sash. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, purple robe and tall gold crown."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

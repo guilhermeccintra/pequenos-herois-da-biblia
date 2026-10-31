@@ -1,0 +1,71 @@
+{
+  "id": 284,
+  "title": "Os Servos e os Talentos",
+  "subtitle": "Cuidar com fidelidade do que foi confiado",
+  "reference": "Mateus 25:14–30",
+  "description": "Antes de viajar, um senhor entrega recursos a três servos e depois pergunta como cuidaram deles.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.25.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma responsabilidade confiada",
+      "paragraphs": [
+        "Jesus contou a história de um homem que faria uma viagem. Antes de partir, chamou seus servos e lhes confiou seus bens. A um entregou cinco talentos, a outro dois e ao terceiro um. Naquele tempo, talento era o nome de uma grande quantidade de dinheiro, não a palavra que usamos hoje para uma habilidade.",
+        "O senhor distribuiu os recursos conforme a capacidade de cada servo. As quantidades eram diferentes, mas todos receberam uma responsabilidade verdadeira. Até um único talento representava muito. Depois disso, ele partiu. Os servos teriam um período para cuidar do que lhes fora entregue, sem a presença constante do senhor acompanhando cada decisão.",
+        "O que recebeu cinco talentos saiu, trabalhou com eles e conseguiu mais cinco. O que recebeu dois fez o mesmo e ganhou outros dois. Ambos colocaram os recursos em movimento. O terceiro, porém, cavou um buraco na terra e escondeu o dinheiro de seu senhor. Enquanto os outros agiam, ele escolheu apenas enterrá-lo."
+      ],
+      "alt": "O senhor confia recursos aos três servos antes de viajar.",
+      "image": "284/part1.webp"
+    },
+    {
+      "heading": "O retorno do senhor",
+      "paragraphs": [
+        "Depois de muito tempo, o senhor voltou e chamou os servos para prestar contas. O primeiro apresentou os cinco talentos recebidos e os outros cinco que havia conseguido. O senhor o elogiou por sua fidelidade. Convidou-o a participar de sua alegria e lhe confiou uma responsabilidade maior. O trabalho realizado foi reconhecido com satisfação.",
+        "O segundo apresentou os dois talentos recebidos e os outros dois que ganhara. Ouviu o mesmo elogio. Embora a quantidade final fosse menor que a do primeiro, sua fidelidade não foi tratada como inferior. O senhor reconheceu o cuidado de cada um com aquilo que havia recebido. A comparação entre os dois não era o centro da história.",
+        "Então o terceiro chegou. Disse que tinha medo do senhor, a quem considerava exigente, e por isso escondera o talento na terra. Devolveu apenas o que havia recebido. Suas palavras mostravam como o medo e a imagem que fazia do senhor haviam orientado sua decisão de não assumir o trabalho confiado a ele."
+      ],
+      "alt": "Dois servos apresentam com alegria o resultado de seu trabalho.",
+      "image": "284/part2.webp"
+    },
+    {
+      "heading": "Fidelidade que se transforma em ação",
+      "paragraphs": [
+        "O senhor respondeu com firmeza. Mesmo segundo a explicação do servo, ele poderia ter buscado uma maneira de fazer o dinheiro render. Escondê-lo não cumpria a responsabilidade recebida. O talento foi retirado dele e entregue ao que tinha dez. A história terminou mostrando consequências sérias para o servo que se recusara a agir com fidelidade.",
+        "Os dois servos fiéis receberam o mesmo reconhecimento do senhor, embora tivessem administrado quantidades diferentes. Ambos haviam cuidado do que lhes fora confiado e participado de seu trabalho. A parábola voltava a atenção dos ouvintes para essa fidelidade. Enquanto aguardavam a volta de Jesus, seus seguidores eram chamados a servir com responsabilidade usando aquilo que recebiam.",
+        "A imagem do dinheiro ajudava a tornar visível uma tarefa: cuidar bem do que foi confiado. Isso podia levar os ouvintes a pensar no tempo, nas oportunidades e nos recursos disponíveis para fazer o bem. A resposta esperada não era competir com os outros, mas participar com fidelidade. O senhor valorizava um cuidado que se transformava em ação."
+      ],
+      "alt": "Um servo pensa diante do recurso que havia escondido na terra.",
+      "image": "284/part3.webp"
+    }
+  ],
+  "lesson": "Recebemos oportunidades e responsabilidades diferentes. A história nos convida a cuidar delas com fidelidade, sem medir nosso valor pela quantidade que temos. Podemos usar tempo, atenção e recursos para ajudar e aprender. Se o medo nos paralisa, é possível pedir orientação e começar com um passo seguro. Ser responsável não é acertar sempre; é participar com sinceridade e buscar ajuda para fazer o melhor.",
+  "question": "Que recurso ou oportunidade você recebeu e pode usar para fazer o bem a alguém?",
+  "prayer": "Pai, obrigado pelas oportunidades que me confias. Ajuda-me a cuidar delas com responsabilidade e generosidade. Quando o medo me impedir de começar, ensina-me a pedir ajuda e dar um passo possível. Que eu use o que tenho para servir, sem competir com ninguém. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/284.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O senhor conversa com três servos sobre os recursos confiados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene mature household master olive skin gray beard burgundy robe cream sash entrusting sealed cloth money bags to three adult servants in ochre teal green tunics, stone courtyard, respectful serious warm mood, no readable text. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "Um servo organiza o trabalho com os recursos recebidos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult servant teal tunic carefully arranging cloth money bags and simple goods on wooden market table, focused responsible expression, first-century trade courtyard, no modern currency no text. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O senhor reconhece o trabalho dos servos fiéis.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Gray-bearded master burgundy robe cream sash warmly congratulating two adult servants ochre and teal tunics beside wooden table with small sealed money bags, open welcoming hands, bright courtyard. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "Um servo observa o dinheiro que havia enterrado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult servant green tunic kneeling thoughtfully beside small hole in garden soil with one recovered tied cloth money bag, regretful calm face, no punishment imagery, soft evening light. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

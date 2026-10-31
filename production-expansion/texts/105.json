@@ -1,0 +1,72 @@
+{
+  "id": 105,
+  "title": "Moisés se Despede com Esperança",
+  "subtitle": "Uma despedida pode guardar gratidão e esperança",
+  "reference": "Deuteronômio 31:1–13; 34",
+  "description": "Moisés encoraja Josué, entrega o ensino ao povo e contempla a terra antes do fim de sua jornada.",
+  "testament": "antigo",
+  "cover": "/images/covers/105.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Coragem para quem vai continuar",
+      "paragraphs": [
+        "Moisés falou aos israelitas que estava com cento e vinte anos e não atravessaria o Jordão com eles. O Senhor já havia anunciado que sua missão chegaria ao fim antes da entrada na terra. A comunidade precisaria se preparar para uma mudança importante, sem esquecer tudo o que havia recebido durante a caminhada.",
+        "Ele encorajou o povo a ter força e coragem. A confiança não dependeria de sua presença para sempre: o Senhor continuaria com Israel. Depois, chamou Josué diante de todos e repetiu o encorajamento. Josué conduziria a comunidade à terra prometida e precisaria lembrar que não enfrentaria sozinho aquela responsabilidade.",
+        "Moisés não escondeu a despedida atrás de uma promessa de que nada mudaria. Haveria uma ausência real e uma nova etapa. Ao mesmo tempo, ofereceu ao povo uma razão para continuar. O cuidado de Deus não terminava com a vida de um líder, por mais importante que ele tivesse sido."
+      ],
+      "image": "105/part1.webp",
+      "alt": "Moisés encoraja Josué diante de Israel."
+    },
+    {
+      "heading": "Uma memória para todas as gerações",
+      "paragraphs": [
+        "Moisés escreveu a lei e a entregou aos sacerdotes e aos líderes de Israel. Também orientou que fosse lida publicamente a cada sete anos, durante a Festa das Cabanas, no ano de remissão. O ensino precisava permanecer acessível à comunidade, para que a memória não dependesse apenas de quem havia vivido os primeiros acontecimentos.",
+        "Homens, mulheres, crianças e estrangeiros que morassem entre o povo deveriam se reunir para ouvir. Todos tinham lugar naquele aprendizado. As crianças que ainda não conheciam os ensinamentos poderiam escutar e aprender a respeitar o Senhor. A continuidade da fé exigia atenção a quem estava chegando e ainda fazia suas primeiras perguntas.",
+        "Assim, Moisés preparava mais do que uma troca de liderança. Ajudava a comunidade a conservar uma direção. Haveria novos caminhos, novas casas e novas dificuldades, mas a palavra recebida poderia acompanhar o povo. Guardá-la e ensiná-la seria uma responsabilidade compartilhada por adultos, líderes e famílias ao longo do tempo."
+      ],
+      "image": "105/part2.webp",
+      "alt": "A comunidade se reúne para ouvir os ensinamentos."
+    },
+    {
+      "heading": "Uma última vista da terra",
+      "paragraphs": [
+        "Moisés subiu das planícies de Moabe ao monte Nebo, ao alto do Pisga. Dali, o Senhor lhe mostrou a terra prometida a Abraão, Isaque e Jacó. Ele pôde contemplar seus vales e suas regiões, embora não fosse atravessar para viver ali. A promessa alcançaria uma geração que continuaria depois dele.",
+        "Moisés morreu na terra de Moabe, com cento e vinte anos. A Bíblia diz que sua visão e sua força ainda estavam preservadas. Os israelitas choraram sua morte durante trinta dias. A tristeza tinha lugar naquela despedida; reconhecer a esperança não significava esconder a saudade ou fingir que a perda não doía.",
+        "Depois, o povo passou a ouvir Josué, que estava cheio de sabedoria. A história de Moisés permaneceu marcada por sua relação próxima com o Senhor e por tudo o que havia realizado diante de Israel. Sua jornada terminou, mas o cuidado, os ensinamentos e a coragem que compartilhou continuaram ajudando outras pessoas a caminhar."
+      ],
+      "image": "105/part3.webp",
+      "alt": "Josué acompanha o povo em uma nova etapa."
+    }
+  ],
+  "lesson": "Despedidas podem trazer tristeza e gratidão ao mesmo tempo. O povo chorou por Moisés e também recebeu coragem para continuar com Josué. Podemos guardar o que aprendemos com alguém importante e conversar sobre a saudade com pessoas de confiança. A esperança não exige esconder o choro. Lembrar do cuidado recebido e compartilhar boas memórias são maneiras de honrar uma história e encontrar apoio para os próximos passos.",
+  "question": "Que ensinamento de uma pessoa importante você gostaria de guardar e compartilhar com outros?",
+  "prayer": "Senhor, acolhe nossa saudade nas despedidas e ajuda-nos a lembrar com gratidão de quem cuidou de nós. Dá-nos pessoas com quem conversar e coragem para continuar. Que os bons ensinamentos recebidos permaneçam vivos em nossas escolhas e no cuidado que oferecemos. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés contempla a terra do alto do monte Nebo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Moses alone standing safely on broad mountaintop ledge overlooking vast lush Jordan valley and distant mountains at sunrise, beige robe terracotta mantle moving softly, contemplative hopeful expression, no visible deity or other people."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés encoraja Josué diante de Israel.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Moses rests hand on adult Joshua shoulder while speaking encouragement before attentive community in plains of Moab, dignified warm scene, no crown or weapons."
+    },
+    {
+      "role": "part2",
+      "alt": "A comunidade se reúne para ouvir os ensinamentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Priest reads unfurled ancient scroll with no legible lettering to diverse gathered adults and children beside tabernacle; Moses seated nearby, welcoming intergenerational assembly."
+    },
+    {
+      "role": "part3",
+      "alt": "Josué acompanha o povo em uma nova etapa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Adult Joshua in teal tunic brown cloak walks with families through plains toward distant Jordan valley, calm hopeful morning, no Moses, no battlefield, people carrying woven bundles."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A1-13&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Deuteronomy+34&version=KJV"
+  ]
+}

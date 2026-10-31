@@ -1,0 +1,71 @@
+{
+  "id": 81,
+  "title": "A Tenda Fica Pronta",
+  "subtitle": "O trabalho de muitas mãos encontra seu propósito",
+  "reference": "Êxodo 40",
+  "description": "O tabernáculo é montado, e a nuvem lembra ao povo que Deus acompanha sua caminhada.",
+  "testament": "antigo",
+  "cover": "/images/covers/81.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Chegou o dia de montar",
+      "paragraphs": [
+        "Os tecidos estavam preparados, as peças de madeira tinham sido trabalhadas e os objetos estavam prontos. Depois da contribuição de tantas pessoas, chegou o momento de montar o tabernáculo. Deus indicou a Moisés o primeiro dia do primeiro mês do segundo ano da caminhada. A obra ganharia forma no meio do acampamento.",
+        "Moisés seguiu as orientações recebidas. Colocou as bases, levantou as estruturas e ajustou as barras e colunas. Depois estendeu os tecidos e a cobertura. Aquilo que antes aparecia em peças separadas começou a formar um lugar de encontro. Cada parte precisava ocupar sua posição para que o conjunto pudesse cumprir seu propósito.",
+        "A Bíblia repete que Moisés fez conforme o Senhor havia ordenado. Essa repetição chama nossa atenção para o cuidado com os detalhes. A dedicação não estava apenas nas peças mais bonitas ou visíveis. Bases, encaixes, cortinas e coberturas também faziam parte de um trabalho que precisava ser realizado com responsabilidade."
+      ],
+      "image": "81/part1.webp",
+      "alt": "Moisés acompanha a montagem da estrutura."
+    },
+    {
+      "heading": "Cada objeto em seu lugar",
+      "paragraphs": [
+        "Moisés colocou as tábuas da aliança dentro da arca e a levou para o interior da tenda. Uma cortina separava aquele espaço. Os objetos não eram brinquedos nem troféus para exibição. A organização ajudava o povo a compreender que sua relação com Deus merecia reverência e atenção.",
+        "A mesa foi colocada em seu lugar, com os pães organizados. O candelabro recebeu suas lâmpadas, e o altar de incenso também foi preparado. À entrada ficaram os elementos do pátio, incluindo uma bacia com água. Cada objeto tinha uma função no serviço que seria realizado ali.",
+        "Moisés, Arão e os filhos de Arão lavaram as mãos e os pés conforme a orientação recebida. O cuidado com a preparação fazia parte de sua responsabilidade. Por fim, as cortinas do pátio e da entrada foram colocadas. Depois de tantos passos, o texto anuncia que Moisés terminou o trabalho."
+      ],
+      "image": "81/part2.webp",
+      "alt": "As lâmpadas e a mesa são colocadas no interior."
+    },
+    {
+      "heading": "Uma presença no meio do caminho",
+      "paragraphs": [
+        "Então uma nuvem cobriu a tenda do encontro, e a glória do Senhor encheu o tabernáculo. Moisés não pôde entrar naquele momento. A beleza da obra era importante, mas a história apontava para algo maior do que materiais bem organizados: Deus estava tornando conhecida sua presença no meio do povo.",
+        "Durante a jornada, a nuvem também orientaria os deslocamentos. Quando se levantasse, os israelitas seguiriam viagem; enquanto permanecesse, ficariam acampados. À noite, a presença era percebida como fogo. O tabernáculo não seria um ponto fixo que deixariam para trás, mas uma tenda preparada para acompanhar o caminho.",
+        "O livro de Êxodo, que começara com um povo oprimido, termina mostrando uma comunidade acompanhada por Deus. Muitas mãos haviam contribuído, e muitas tarefas discretas tinham encontrado seu lugar. A tenda pronta lembrava que liberdade, adoração e cuidado compartilhado fariam parte da nova vida que Israel ainda estava aprendendo a viver."
+      ],
+      "image": "81/part3.webp",
+      "alt": "A nuvem permanece sobre o acampamento."
+    }
+  ],
+  "lesson": "Uma tarefa importante costuma ser formada por muitos cuidados pequenos. A montagem do tabernáculo mostra o valor de concluir cada etapa com atenção, inclusive aquelas que quase ninguém vê. Podemos aprender a organizar nossos materiais, cumprir combinados e valorizar a contribuição de outras pessoas. A obra pronta também lembra que o objetivo do trabalho é maior que a aparência: o que fazemos deve servir à vida e ao cuidado em comunidade.",
+  "question": "Qual detalhe de uma tarefa sua merece mais atenção para que o resultado ajude melhor outras pessoas?",
+  "prayer": "Senhor, ensina-me a trabalhar com atenção e a terminar o que começo com responsabilidade. Ajuda-me a valorizar cada pessoa que contribui e a cuidar também dos detalhes discretos. Que nosso trabalho prepare espaço para convivência, gratidão e cuidado mútuo. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O tabernáculo pronto é coberto por uma nuvem luminosa.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. The tabernacle is a low rectangular portable tent with brown hide roof and blue-purple-crimson woven entrance curtains, inside a rectangular courtyard enclosed by white linen hangings on regularly spaced wooden poles. It is not a stone temple or a domed building. Elevated wide view of the completed tabernacle in a desert camp. A luminous white cloud rests above the low tent, soft sunlight and distant dry mountains. Moses and a few families stand respectfully OUTSIDE the courtyard in the foreground. The whole rectangular enclosure is legible. Aaron and Egyptian buildings from the identity reference are absent. No flowering staff."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés acompanha a montagem da estrutura.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. The tabernacle is a low rectangular portable tent with brown hide roof and blue-purple-crimson woven entrance curtains, inside a rectangular courtyard enclosed by white linen hangings on regularly spaced wooden poles. It is not a stone temple or a domed building. Earlier construction scene, before the cloud arrived: Moses and several adult workers carefully assemble upright wooden wall frames with simple horizontal connecting bars; workers on the ground unfold heavy linen coverings. Ordered materials, clearly incomplete tent, desert camp. No cloud, no modern scaffolding, no flowering staff. Low three-quarter view focused on careful hands and wooden joints."
+    },
+    {
+      "role": "part2",
+      "alt": "As lâmpadas e a mesa são colocadas no interior.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. Interior of the completed portable tent, softly lit woven blue, purple and crimson curtains, sandy floor. Moses ALONE carefully adjusts a golden seven-branched lampstand: one central stem and exactly three curved branches on each side, exactly seven small oil lamps. Opposite stands a simple gold-covered bread table holding twelve small round loaves in two stacks of six. New side-angle composition. No sticks on the floor, flowering branches, other people or Egyptian scenery from references. Reference 2 supplies only textile and lighting quality."
+    },
+    {
+      "role": "part3",
+      "alt": "A nuvem permanece sobre o acampamento.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. The tabernacle is a low rectangular portable tent with brown hide roof and blue-purple-crimson woven entrance curtains, inside a rectangular courtyard enclosed by white linen hangings on regularly spaced wooden poles. It is not a stone temple or a domed building. New panoramic dusk view from a small desert hillside: the completed tabernacle sits in the center of an encampment of smaller ordinary family tents. A softly glowing cloud rises above the sanctuary, firelike warm glow within the cloud at twilight, no human shape. Families are small peaceful figures near their own tents, wide violet and gold sky, reverent quiet atmosphere. Match the architecture of reference but use a distinctly wider distant view."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+40&version=KJV"
+  ]
+}

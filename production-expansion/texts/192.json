@@ -1,0 +1,74 @@
+{
+  "id": 192,
+  "title": "Ester Escolhe a Coragem",
+  "subtitle": "Uma decisão acompanhada por seu povo",
+  "reference": "Ester 3–5",
+  "description": "Uma ordem ameaça o povo judeu. Ester precisa decidir se falará ao rei, e busca o apoio de sua comunidade antes de enfrentar uma conversa difícil.",
+  "testament": "antigo",
+  "cover": "/images/covers/192.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma ordem injusta",
+      "paragraphs": [
+        "Hamã havia recebido uma posição de grande poder no reino de Assuero. Os servidores à porta do rei se curvavam diante dele, mas Mordecai não fazia isso. Quando Hamã soube que Mordecai era judeu, sua raiva se transformou num plano terrível. Não quis atingir apenas aquele homem: decidiu buscar a destruição de todo o povo judeu no reino.",
+        "Falou ao rei de um povo espalhado pelas províncias, com costumes diferentes, e o acusou de desobedecer às leis. Assuero entregou seu anel a Hamã, permitindo que escrevesse uma ordem em seu nome. Mensageiros levaram o decreto às províncias, marcando um dia para atacar os judeus. A cidade de Susã ficou confusa com a notícia.",
+        "Mordecai soube do decreto e expressou grande tristeza. Em muitos lugares, os judeus choravam e jejuavam. Ester, dentro do palácio, recebeu notícia do sofrimento de seu primo. Enviou Hataque para descobrir o motivo. Mordecai explicou o que havia acontecido e mandou uma cópia da ordem, pedindo que ela falasse ao rei por seu povo."
+      ],
+      "image": "192/part1.webp",
+      "alt": "Mordecai recebe a notícia de uma ordem que ameaça seu povo."
+    },
+    {
+      "heading": "O medo e o apoio",
+      "paragraphs": [
+        "Ester explicou que entrar diante do rei sem ser chamada era perigoso. A lei previa uma punição de morte, a menos que ele estendesse seu cetro de ouro. Ela não era chamada havia trinta dias. Ser rainha não significava ter liberdade ou segurança para se apresentar a qualquer momento. Seu medo tinha uma razão concreta.",
+        "Mordecai respondeu que o palácio não a tornaria imune ao perigo que ameaçava os judeus. Também perguntou se ela não havia chegado àquela posição para um momento como aquele. A pergunta chamou Ester a pensar na responsabilidade que tinha e na oportunidade de usar sua voz em favor de pessoas que não podiam chegar ao rei.",
+        "Ester então pediu que os judeus de Susã se reunissem e jejuassem por ela. Ela e suas acompanhantes fariam o mesmo. Depois iria ao rei, mesmo reconhecendo o risco. Seu pedido alcançou Mordecai e, por meio dele, a comunidade. Antes de atravessar a entrada do palácio, Ester seria acompanhada pela solidariedade de seu povo."
+      ],
+      "image": "192/part2.webp",
+      "alt": "Ester conversa com suas acompanhantes e busca apoio antes de agir."
+    },
+    {
+      "heading": "Diante do cetro",
+      "paragraphs": [
+        "No terceiro dia, Ester vestiu suas roupas de rainha e se colocou no pátio interior do palácio. O rei estava sentado no trono, de frente para a entrada. Ao vê-la, recebeu-a com favor e estendeu o cetro de ouro. Ester se aproximou e tocou sua ponta. O primeiro momento de perigo havia sido atravessado.",
+        "Assuero perguntou o que ela desejava. Ester o convidou, junto com Hamã, para um banquete que havia preparado. Os dois foram. Durante a refeição, o rei voltou a perguntar qual era seu pedido. Ela convidou ambos para outro banquete no dia seguinte, quando apresentaria o que queria dizer.",
+        "A ameaça ao povo ainda não estava resolvida, e a história continuaria. Mas Ester havia dado um passo decisivo: saíra do silêncio e começara a usar sua posição para buscar proteção. Sua coragem não foi ausência de medo. Foi uma decisão difícil, preparada com apoio, que abriu espaço para uma conversa capaz de mudar o destino de muitas pessoas."
+      ],
+      "image": "192/part3.webp",
+      "alt": "Ester prepara uma conversa importante durante um banquete."
+    }
+  ],
+  "lesson": "Coragem pode ser falar sobre uma injustiça mesmo quando ficamos nervosos. Mas não significa assumir riscos grandes sem ajuda. Crianças podem procurar adultos confiáveis, contar o que aconteceu e pedir proteção para si ou para outra pessoa. Ester também buscou companhia antes de agir. Quando alguém é tratado como menos importante por sua origem ou seus costumes, podemos lembrar que diferenças não justificam ameaças nem crueldade.",
+  "question": "Como você pode buscar ajuda quando percebe que alguém está sendo excluído ou ameaçado?",
+  "prayer": "Deus, protege as pessoas que sofrem preconceito e ameaças. Dá-nos coragem para contar o que está errado e procurar ajuda segura. Ensina-nos a usar nossa voz com respeito e a apoiar quem precisa, sem tentar enfrentar situações perigosas sozinhos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ester se apresenta diante do rei com coragem e respeito.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther in modest teal and cream royal dress stands in a Persian palace inner courtyard doorway while Ahasuerus extends a gold scepter from his throne, respectful distance, hopeful golden light, no threat or violence. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown."
+    },
+    {
+      "role": "part1",
+      "alt": "Mordecai recebe a notícia de uma ordem que ameaça seu povo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai stands with worried adult Jewish neighbors in ancient Susa square near an unlettered decree scroll, dignified serious faces, children safely close to parents, no violent imagery. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Ester conversa com suas acompanhantes e busca apoio antes de agir.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther and three adult female attendants sit together in a quiet palace room with thoughtful supportive expressions, simple modest clothing, soft dawn light, no food deprivation imagery. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "Ester prepara uma conversa importante durante um banquete.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther seated at a respectful formal palace banquet table with Ahasuerus and Haman, small bowls of food and fruit, dignified thoughtful faces, warm lamplight, no romance or menace. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown. Haman is a middle aged Persian official with olive skin, short dark beard and rich plum robe."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 276,
+  "title": "O Fermento na Massa",
+  "subtitle": "Uma transformação que começa escondida",
+  "reference": "Mateus 13:33",
+  "description": "Jesus encontra numa cozinha uma imagem simples para falar da ação transformadora do Reino.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma história de cozinha",
+      "paragraphs": [
+        "Entre as parábolas que contou à multidão, Jesus usou uma cena de trabalho doméstico. Não havia palácio, viagem distante ou grande batalha. Havia uma mulher preparando massa. Era uma imagem próxima da vida das famílias, que conheciam o cuidado necessário para transformar farinha em alimento e reunir pessoas em torno do pão.",
+        "Jesus comparou o Reino dos céus ao fermento que aquela mulher misturou em três medidas de farinha. Era uma quantidade grande de massa. O fermento entrava no meio dela e deixava de aparecer separado. Quem olhasse de fora poderia ver apenas a farinha sendo preparada, sem distinguir cada parte daquilo que já estava misturado.",
+        "A mulher da parábola não recebeu um nome, e Jesus não contou o que aconteceu antes daquela tarefa. A atenção estava numa ação comum: incorporar o fermento à massa. Com poucas palavras, ele convidava seus ouvintes a perceber uma verdade sobre o Reino de Deus dentro de um trabalho que muita gente conhecia bem."
+      ],
+      "alt": "Uma mulher mistura fermento à farinha para preparar pão.",
+      "image": "276/part1.webp"
+    },
+    {
+      "heading": "O que os olhos não veem",
+      "paragraphs": [
+        "Depois de misturado, o fermento não ficava num cantinho, separado do restante. Sua ação alcançava a massa. A história dizia que tudo ficava fermentado. Aquilo que havia começado escondido no meio da farinha produzia uma transformação maior que o espaço ocupado no início. A mistura inteira participava do resultado, e não apenas uma pequena parte.",
+        "A imagem ajudava a pensar em algo que não podia ser medido somente pela aparência do primeiro momento. O fermento não precisava continuar visível para agir. Sua presença era percebida pela mudança que provocava. Assim, o Reino dos céus não deveria ser considerado sem importância só porque sua ação nem sempre parecia grandiosa ou imediata.",
+        "Os ouvintes podiam acompanhar a comparação lembrando a transformação da massa. Depois de misturado, o fermento agia por toda ela, até que ficasse levedada. Uma pequena porção alcançava o conjunto. Com essa imagem de uma tarefa conhecida, Jesus os convidava a perceber a força do Reino dos céus, capaz de transformar muito a partir de um começo discreto."
+      ],
+      "alt": "A massa cresce numa grande tigela de barro.",
+      "image": "276/part2.webp"
+    },
+    {
+      "heading": "Toda a massa",
+      "paragraphs": [
+        "O final da pequena história alcançava toda a massa. Jesus não falou de uma transformação que parava logo no começo. A imagem apontava para o alcance da ação de Deus. O Reino que ele anunciava podia parecer discreto aos olhos de muitos, mas não era vazio nem incapaz de produzir mudança verdadeira.",
+        "Pensar nessa parábola exigia paciência. Ninguém vê cada movimento do fermento apenas olhando a tigela. Ainda assim, o resultado aparece. Os ouvintes podiam aprender a não desprezar aquilo que começava de forma simples. As palavras e o cuidado de Jesus estavam anunciando uma realidade cujo alcance seria maior do que parecia no primeiro encontro.",
+        "A cena de cozinha terminava, mas permanecia fácil de recordar. Farinha, fermento e uma mulher trabalhando bastavam para carregar o ensino. Em vez de procurar o Reino apenas no que impressionava os olhos, as pessoas eram convidadas a reconhecer a ação transformadora de Deus. Uma tarefa cotidiana havia se tornado uma janela para compreender algo profundo."
+      ],
+      "alt": "A mulher observa com satisfação a massa já crescida.",
+      "image": "276/part3.webp"
+    }
+  ],
+  "lesson": "Transformações importantes nem sempre aparecem depressa. Uma palavra respeitosa, um pedido de desculpas ou uma ajuda constante podem mudar aos poucos o ambiente de uma família ou turma. A parábola fala da ação do Reino de Deus e nos ensina a valorizar o que cresce de maneira discreta. Podemos colaborar com o bem sem exigir aplausos ou querer controlar imediatamente todos os resultados.",
+  "question": "Que atitude discreta você pode repetir para ajudar a transformar o ambiente ao seu redor?",
+  "prayer": "Deus, ajuda-me a reconhecer tua ação mesmo quando ela começa de maneira simples. Dá-me paciência para crescer e constância para fazer o bem. Que teu amor transforme meu coração e apareça nos meus gestos, alcançando também as pessoas com quem convivo. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/276.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma mulher prepara massa de pão numa cozinha simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene adult Jewish woman olive skin kind face dark braided hair under cream scarf muted plum linen dress kneading dough in large terracotta bowl, first-century stone kitchen, flour and wooden utensils, warm window light, richly detailed 3D. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O fermento é misturado à farinha.",
+      "prompt": "Use case: illustration-story. New landscape 3:2 1536x1024 illustration for a family Bible storybook. Match the supplied reference's richly detailed warm cinematic 3D rendering and the adult woman's identity, plum linen dress and cream headscarf. Show her in a DIFFERENT side-angle composition at the rustic wooden kitchen worktable, carefully mixing a small piece of fermented bread starter into flour and water in one large terracotta bowl. Clear ordinary bread preparation, warm sunlight, pottery shelves and woven cloth. Focus on the baking action and ingredients. Anatomically natural hands. No children, no additional people, no text, no logos or modern utensils."
+    },
+    {
+      "role": "part2",
+      "alt": "A massa cresce na tigela.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close tabletop view rounded risen bread dough in rustic terracotta bowl partly covered by linen cloth, first-century kitchen with amber morning light, flour grains and wood texture, no people, no modern tools. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "A mulher cuida da massa crescida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same adult woman plum dress cream headscarf smiling gently as she lifts linen from large bowl of risen dough, side view with shelves of pottery behind, different composition from cover, warm domestic care. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

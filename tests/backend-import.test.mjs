@@ -10,14 +10,14 @@ import { fileURLToPath } from 'node:url';
 const execute = promisify(execFile);
 const root = fileURLToPath(new URL('../', import.meta.url));
 
-test('importer dry run validates all 40 narratives and 160 private images without credentials', async () => {
+test('importer dry run validates all 365 narratives and 1460 private images without credentials', async () => {
   let result;
   try { result = await execute(process.execPath, ['scripts/import-content.mjs', '--dry-run'], { cwd: root }); }
   catch (error) { assert.fail(`dry run should work without external services: ${error.stderr}`); }
   const report = JSON.parse(result.stdout);
   assert.equal(report.dryRun, true);
-  assert.equal(report.stories, 40);
-  assert.equal(report.images, 160);
+  assert.equal(report.stories, 365);
+  assert.equal(report.images, 1460);
   assert.ok(report.totalBytes > 100_000);
 });
 
@@ -39,11 +39,11 @@ test('importer rejects narrative media traversal before any network operation', 
 test('importer rejects an incomplete catalog before attempting uploads', async () => {
   const temporary = await mkdtemp(join(tmpdir(), 'ph-import-'));
   try {
-    const stories = JSON.parse(await readFile(join(root, 'content/stories.json'), 'utf8')).slice(0, 39);
+    const stories = JSON.parse(await readFile(join(root, 'content/stories.json'), 'utf8')).slice(0, 364);
     const path = join(temporary, 'missing.json');
     await writeFile(path, JSON.stringify(stories));
     await assert.rejects(execute(process.execPath, ['scripts/import-content.mjs', '--content', path], { cwd: root }), (error) => {
-      assert.match(error.stderr, /40 histórias/i);
+      assert.match(error.stderr, /365 histórias/i);
       return true;
     });
   } finally { await rm(temporary, { recursive: true, force: true }); }

@@ -1,0 +1,74 @@
+{
+  "id": 205,
+  "title": "Conhecido e Amado",
+  "subtitle": "A presença de Deus no Salmo 139",
+  "reference": "Salmo 139:1–18, 23–24",
+  "description": "O salmista celebra o cuidado de Deus, que conhece cada pessoa e a acompanha em todos os lugares.",
+  "testament": "antigo",
+  "cover": "/images/covers/205.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Alguém conhece meu caminho",
+      "paragraphs": [
+        "No Salmo 139, Davi conversa com Deus como alguém que se sente profundamente conhecido. Ele fala de gestos comuns: sentar, levantar, caminhar e descansar. O Senhor conhece cada um deles. Até aquilo que ainda está no pensamento pode ser apresentado com confiança nessa conversa cheia de admiração e proximidade.",
+        "Antes que uma palavra chegue à boca, Deus já conhece o coração que deseja pronunciá-la. Para o poeta, essa atenção é maior do que ele consegue compreender. A presença do Senhor o envolve por todos os lados. Davi contempla esse cuidado com espanto, como quem descobre um tesouro muito grande.",
+        "A canção nos ajuda a perceber valor nos momentos simples. A vida de uma pessoa inclui tarefas, passos, perguntas e pausas. Tudo isso faz parte de quem ela é. O salmista encontra consolo ao saber que pode levar sua vida inteira a Deus, com o que entende e com aquilo que ainda procura explicar."
+      ],
+      "image": "205/part1.webp",
+      "alt": "Pegadas seguem por uma paisagem tranquila"
+    },
+    {
+      "heading": "Até os lugares mais distantes",
+      "paragraphs": [
+        "O poema abre as asas da imaginação para falar dessa presença. Davi pensa nas alturas e nas profundezas, em lugares próximos e muito distantes. Ele se imagina seguindo as asas da alvorada até o outro lado do mar. Mesmo ali, a mão do Senhor continuaria a conduzir e sustentar seu caminho.",
+        "Em seguida, o poeta pensa na escuridão. Para os nossos olhos, a noite pode esconder o contorno das coisas. Para Deus, diz o salmo, ela permanece clara como o dia. A imagem oferece confiança: quando o caminho parece difícil de enxergar, ainda podemos procurar sua companhia e pedir orientação.",
+        "Essas figuras poéticas se movem pelo mundo inteiro, mas apontam para uma mensagem muito próxima. Podemos orar em casa, numa viagem, durante uma mudança ou num lugar desconhecido. O cuidado de Deus acompanha pessoas diferentes em situações diferentes. Nenhuma distância torna alguém pequeno demais para ser lembrado diante dele."
+      ],
+      "image": "205/part2.webp",
+      "alt": "A alvorada ilumina as ondas e a praia distante"
+    },
+    {
+      "heading": "Uma vida feita com cuidado",
+      "paragraphs": [
+        "Davi volta seu pensamento para o começo da vida. Ele louva a Deus por sua formação no ventre materno e usa a imagem de um trabalho tecido com cuidado. O corpo e a existência são recebidos com admiração. Cada pessoa pode reconhecer sua própria vida como algo digno de respeito e atenção.",
+        "Os pensamentos de Deus parecem ao poeta numerosos como os grãos de areia. Ele imagina contá-los e percebe que sua admiração sempre encontra algo maior. Quando desperta, continua na presença do Senhor. A canção reúne o começo da vida, os caminhos do mundo e a simplicidade de acordar para outro dia.",
+        "Nos versículos finais, Davi pede que Deus examine seu coração e o conduza pelo caminho eterno. Ser conhecido o encoraja a aprender e mudar. Podemos acompanhar essa oração, trazendo nossas inquietações e escolhas. Aquele que conhece nossa história também pode nos ensinar a tratar cada vida com respeito, inclusive a nossa."
+      ],
+      "image": "205/part3.webp",
+      "alt": "Davi ora com a mão sobre o coração"
+    }
+  ],
+  "lesson": "Você tem valor antes de conseguir explicar tudo o que sente ou fazer tudo o que gostaria. O Salmo 139 celebra a vida recebida de Deus e sua presença cuidadosa. Essa certeza convida à confiança e ao respeito. Podemos conversar com o Senhor sobre nossos pensamentos e aprender a cuidar de nós mesmos e das outras pessoas, que também merecem atenção e carinho.",
+  "question": "Em que momento do seu dia lembrar que Deus conhece você pode trazer conforto?",
+  "prayer": "Deus, obrigado por conhecer minha vida com tanto cuidado. Acompanha meus passos e acolhe o que ainda não consigo explicar. Ensina-me a respeitar minha vida e a vida de cada pessoa. Conhece meu coração e guia minhas escolhas pelo caminho do bem. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA139.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi observa o horizonte luminoso sobre o mar",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David standing peacefully on an ancient coastal hillside at dawn, wide Mediterranean sea and glowing horizon, gentle thoughtful face, wind in blue shawl, poetic sense of being known and accompanied. No visible deity. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream tunic and muted blue shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Pegadas seguem por uma paisagem tranquila",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Psalm 139: a simple sandy footpath with human footprints weaving through a Judean olive grove toward a warmly lit home, morning light, delicate wildflowers, no people. "
+    },
+    {
+      "role": "part2",
+      "alt": "A alvorada ilumina as ondas e a praia distante",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic seascape of dawn spreading across vast Mediterranean water, small birds with natural wings crossing sky, textured sand in foreground and distant coast, luminous sense of hope, no people or angel figures. "
+    },
+    {
+      "role": "part3",
+      "alt": "Davi ora com a mão sobre o coração",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David seated in a calm garden beside a blank scroll and simple wooden lyre, one hand over heart and eyes gently lifted in prayer, olive tree, rich natural details, early morning light. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream tunic and muted blue shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

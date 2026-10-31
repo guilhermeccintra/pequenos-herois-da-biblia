@@ -1,0 +1,74 @@
+{
+  "id": 178,
+  "title": "Uma Viagem de Confiança",
+  "subtitle": "Oração e cuidado pelo caminho",
+  "reference": "Esdras 8:21–36",
+  "description": "Antes de uma longa viagem, Esdras reúne o povo para orar. Também organiza a guarda dos recursos que levarão ao templo de Jerusalém.",
+  "testament": "antigo",
+  "cover": "/images/covers/178.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma pausa antes da estrada",
+      "paragraphs": [
+        "Esdras e o grupo que viajaria com ele estavam reunidos perto do rio Aava. O destino era Jerusalém, mas ainda havia preparativos a fazer. Entre os viajantes havia famílias, crianças e pessoas que serviriam no templo. Levavam também recursos e utensílios oferecidos para a casa de Deus. A responsabilidade era grande e precisava de cuidado.",
+        "Antes da partida, Esdras proclamou um jejum e chamou o povo a se humilhar diante de Deus. Pediram um caminho seguro para eles, para os pequenos e para seus bens. A oração reconhecia que não controlavam tudo o que poderia acontecer na estrada. Precisavam de proteção e queriam colocar a viagem diante do Senhor.",
+        "Esdras conta que havia falado ao rei sobre o cuidado de Deus por quem o busca. Por isso, naquela ocasião, ficou constrangido de pedir soldados e cavaleiros para acompanhá-los. Essa foi uma decisão daquele grupo naquela viagem. O relato não ensina que pedir proteção ou aceitar ajuda seja falta de fé."
+      ],
+      "image": "178/part1.webp",
+      "alt": "As famílias se reúnem junto ao rio para preparar a partida."
+    },
+    {
+      "heading": "Cada coisa confiada a alguém",
+      "paragraphs": [
+        "A oração não fez Esdras abandonar a organização. Ele separou doze líderes dos sacerdotes e pesou diante deles a prata, o ouro e os utensílios que seriam transportados. As ofertas vinham do rei, de seus conselheiros, de autoridades e do povo. Aquilo que muitos haviam entregado seria guardado por pessoas responsáveis durante o caminho.",
+        "Esdras explicou que os objetos e as ofertas estavam destinados ao serviço de Deus. Os responsáveis deveriam vigiar e cuidar deles até a chegada a Jerusalém. Lá tudo seria pesado novamente diante dos sacerdotes, levitas e chefes de família. Não bastava dizer que haviam recebido muito; era preciso saber o que estava sendo confiado.",
+        "Os sacerdotes e levitas aceitaram a responsabilidade. Essa preparação unia confiança e atenção aos detalhes. O grupo orava pelo caminho, mas também contava, pesava e organizava o que levaria. A fé não tornava o cuidado desnecessário. Cada pessoa que cumpria sua parte ajudava a proteger algo que pertencia à missão de toda a comunidade."
+      ],
+      "image": "178/part2.webp",
+      "alt": "Esdras pesa as ofertas diante dos responsáveis por transportá-las."
+    },
+    {
+      "heading": "A chegada e a entrega",
+      "paragraphs": [
+        "No décimo segundo dia do primeiro mês, eles partiram do rio Aava. Esdras reconhece que a mão de Deus esteve sobre o grupo e o livrou de inimigos e de ataques pelo caminho. O livro não descreve cada trecho da estrada. Conta, porém, que os viajantes chegaram a Jerusalém e descansaram ali durante três dias.",
+        "No quarto dia, a prata, o ouro e os utensílios foram levados à casa de Deus e entregues aos responsáveis. Tudo foi contado e pesado, e os resultados foram registrados. A tarefa iniciada antes da viagem foi completada com transparência. A confiança recebida encontrava uma resposta concreta: aquilo que fora confiado tinha chegado ao destino.",
+        "O grupo adorou a Deus e entregou às autoridades as ordens do rei. Essas autoridades passaram a apoiar o povo e o serviço do templo. A viagem terminou com gratidão e responsabilidade cumprida. Esdras não precisou escolher entre orar e cuidar dos preparativos; as duas coisas fizeram parte da mesma caminhada, do rio até Jerusalém."
+      ],
+      "image": "178/part3.webp",
+      "alt": "Os responsáveis entregam os utensílios no templo de Jerusalém."
+    }
+  ],
+  "lesson": "Podemos orar e, ao mesmo tempo, tomar cuidados práticos. Numa viagem, isso inclui seguir a orientação dos responsáveis, usar os equipamentos de segurança e conferir o que precisamos levar. Quando alguém nos entrega uma tarefa ou um objeto, também podemos cuidar e prestar contas. Confiar em Deus não exige recusar ajuda. A atenção, a organização e as pessoas que protegem são partes importantes do caminho.",
+  "question": "Que cuidado você pode ajudar a conferir antes da próxima viagem de sua família?",
+  "prayer": "Deus, acompanha as famílias que estão viajando. Ajuda-nos a ouvir orientações, aceitar ajuda e cuidar uns dos outros pelo caminho. Ensina-nos a ser responsáveis com o que recebemos e agradecidos por quem trabalha para que todos cheguem em segurança. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR08.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Esdras e os viajantes oram antes de seguir para Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra and a small group of ancient families standing quietly in prayer beside a gentle river with packed donkeys and travel bundles, early morning golden light, peaceful scene. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part1",
+      "alt": "As famílias se reúnem junto ao rio para preparar a partida.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean families organized in a riverside camp, adults check bundles while children remain close, Ezra speaks calmly with leaders, water reeds and simple tents. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part2",
+      "alt": "Esdras pesa as ofertas diante dos responsáveis por transportá-las.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra and priest leaders use an ancient balance scale to weigh silver pieces and golden bowls on a wooden table, neatly wrapped valuables, careful honest attention, no readable marks. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part3",
+      "alt": "Os responsáveis entregam os utensílios no templo de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra and priests in ancient Jerusalem temple storeroom carefully count bowls and weigh wrapped offerings, one scribe records on a blank-looking scroll, relieved grateful expressions. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

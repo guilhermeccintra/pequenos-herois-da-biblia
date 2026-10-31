@@ -1,3 +1,4 @@
+import { parseStorySelection } from "../shared/collection.mjs";
 import { createCheckout, processWebhook } from './billing.mjs';
 import { readJson, readRawBody, requireUser, route } from './http.mjs';
 import { HttpError, hasAccess, mediaLifetime, parsePlan, safeAssetPath } from './rules.mjs';
@@ -17,7 +18,7 @@ export function createHandlers(deps) {
     story: route('GET', async (req) => {
       const user = await requireUser(req, authenticate);
       const idParam = new URL(req.url, 'https://local.invalid').searchParams.get('id');
-      if (!/^\d{1,3}$/.test(idParam ?? '') || Number(idParam) < 1 || Number(idParam) > 40) {
+      if (!parseStorySelection(idParam)) {
         throw new HttpError(400, 'INVALID_STORY', 'Escolha uma história válida.');
       }
       const subscription = await repo.getSubscription(user.id);

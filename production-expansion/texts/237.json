@@ -1,0 +1,71 @@
+{
+  "id": 237,
+  "title": "Maria Visita Isabel",
+  "subtitle": "Uma alegria que cresce quando é partilhada",
+  "reference": "Lucas 1:39–56",
+  "description": "Maria atravessa a região montanhosa para visitar Isabel. Um encontro entre parentes se transforma em acolhimento, alegria e gratidão a Deus.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "O caminho até uma casa amiga",
+      "paragraphs": [
+        "Maria havia recebido uma notícia que mudaria sua vida: seria a mãe de Jesus. O anjo também lhe contara que sua parenta Isabel estava esperando um filho, apesar da idade avançada. Depois desse anúncio, Maria se preparou e foi depressa para uma cidade da região montanhosa da Judeia, onde Isabel vivia.",
+        "A visita aproximaria duas mulheres que estavam vivendo acontecimentos extraordinários. Uma era jovem; a outra, idosa. Cada uma carregava sua própria história e suas perguntas. Maria não precisava ter todas as respostas antes de partir. Podia chegar à casa de sua parenta e partilhar com ela aquele tempo de expectativa.",
+        "Ao entrar na casa de Zacarias, Maria cumprimentou Isabel. Lucas não nos conta as palavras desse cumprimento, nem os detalhes da viagem. Sua atenção se concentra no encontro. Aquela saudação comum, de alguém que chega para visitar, foi o começo de uma alegria que alcançou toda a cena."
+      ],
+      "alt": "Maria chega à casa de Isabel, na região montanhosa da Judeia.",
+      "image": "237/part1.webp"
+    },
+    {
+      "heading": "Um acolhimento cheio de alegria",
+      "paragraphs": [
+        "Quando Isabel ouviu a voz de Maria, o bebê se moveu em seu ventre. Cheia do Espírito Santo, ela reconheceu a importância de sua visitante. Maria era a mãe do seu Senhor. Isabel falou com alegria sobre a bênção que Deus estava realizando e sobre o menino que Maria esperava.",
+        "Isabel também elogiou a confiança de Maria na promessa de Deus. Sua alegria não era uma competição entre duas famílias. Não precisava diminuir o que acontecia com outra pessoa para valorizar o que vivia em sua própria casa. O encontro tinha espaço para receber o presente de Deus nas duas histórias.",
+        "Maria encontrou palavras de acolhimento justamente num momento de grandes mudanças. Isabel não a tratou como alguém sem importância por ser jovem. Reconheceu o que Deus estava fazendo. Naquela conversa, duas gerações ficaram próximas: uma oferecia sua experiência; a outra chegava com sua novidade, e ambas tinham motivos para agradecer."
+      ],
+      "alt": "Isabel acolhe Maria com um abraço alegre à porta de casa.",
+      "image": "237/part2.webp"
+    },
+    {
+      "heading": "Um cântico de gratidão",
+      "paragraphs": [
+        "Maria respondeu louvando a Deus. Suas palavras ficaram conhecidas como um cântico. Ela se alegrou porque Deus havia olhado para sua condição humilde e realizado grandes coisas. A gratidão não terminava nela mesma. Maria lembrou a misericórdia do Senhor, que alcança as pessoas de geração em geração.",
+        "Seu louvor falou de gente humilde que recebe cuidado e de pessoas famintas que são alimentadas. Falou também de orgulho que não permanece de pé diante de Deus. Maria reconheceu a fidelidade do Senhor às promessas feitas ao seu povo. A criança que esperava fazia parte de uma história maior que sua própria casa.",
+        "Maria ficou com Isabel por cerca de três meses e depois voltou para casa. A visita reunira duas mulheres que recebiam de Deus uma notícia extraordinária. Haviam compartilhado acolhimento, alegria e louvor enquanto esperavam seus filhos. Antes mesmo de Jesus nascer, sua chegada já aproximava aquelas famílias e enchia o encontro de gratidão pela fidelidade do Senhor."
+      ],
+      "alt": "Maria e Isabel conversam com gratidão em um pátio tranquilo.",
+      "image": "237/part3.webp"
+    }
+  ],
+  "lesson": "Uma visita atenciosa pode fazer muita diferença. Ao encontrar alguém, podemos ouvir, perguntar como essa pessoa está e comemorar suas alegrias sem transformar tudo em comparação. Pessoas de idades diferentes também têm muito para compartilhar. Maria e Isabel nos ajudam a perceber que acolher é abrir espaço para a história do outro, com respeito, carinho e palavras que encorajam. Cada encontro pode ensinar algo novo.",
+  "question": "Quem da sua família gostaria de receber uma visita, uma ligação ou uma mensagem carinhosa sua?",
+  "prayer": "Deus, obrigado pelas pessoas que nos recebem com carinho. Ensina-nos a ouvir suas histórias e a celebrar suas alegrias. Que nossa família encontre tempo para estar perto, oferecer ajuda e agradecer pelos presentes que recebemos de ti. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/237.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Maria e Isabel se abraçam em um pátio ensolarado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Young Mary olive skin dark hair cream veil dusty blue dress and elderly Elizabeth gray hair mauve veil sage dress embrace warmly outside a Judean stone home, rolling green hills behind, tender joyful faces."
+    },
+    {
+      "role": "part1",
+      "alt": "Maria chega à casa de Isabel, na região montanhosa da Judeia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Young Mary olive skin dark hair cream veil dusty blue dress carrying small cloth travel bundle approaches welcoming stone doorway on a hillside Judean village path. Olive trees and distant hills, late afternoon, wide composition."
+    },
+    {
+      "role": "part2",
+      "alt": "Isabel acolhe Maria com um abraço alegre à porta de casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Young Mary cream veil dusty blue dress greets elderly visibly pregnant Elizabeth mauve veil sage dress at a modest stone doorway, Elizabeth one hand on belly and other reaching for Mary hand, radiant joyful expressive faces, medium framing."
+    },
+    {
+      "role": "part3",
+      "alt": "Maria e Isabel conversam com gratidão em um pátio tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Mary cream veil dusty blue dress and elderly pregnant Elizabeth mauve veil sage dress seated in courtyard under grapevine, Mary speaking gratefully and Elizabeth listening warmly, clay jug on low table, tranquil golden light."
+    }
+  ]
+}

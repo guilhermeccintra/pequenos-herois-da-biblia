@@ -1,0 +1,71 @@
+{
+  "id": 97,
+  "title": "Um Sinal de Cura no Deserto",
+  "subtitle": "Reconhecer o erro abre espaço para pedir ajuda",
+  "reference": "Números 21:4–9",
+  "description": "Durante uma jornada difícil, o povo recebe um sinal de cuidado depois de pedir que Moisés ore por ele.",
+  "testament": "antigo",
+  "cover": "/images/covers/97.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O cansaço se transforma em reclamação",
+      "paragraphs": [
+        "Os israelitas partiram do monte Hor e seguiram por um caminho que contornava a terra de Edom. A viagem era cansativa, e o povo ficou desanimado. Em vez de falar apenas sobre suas dificuldades, começou a reclamar contra Deus e contra Moisés, perguntando por que haviam saído do Egito.",
+        "As pessoas disseram que não tinham pão nem água e mostraram desprezo pelo alimento que recebiam. O maná, que havia sustentado tantas famílias, passou a ser tratado como algo sem valor. O desconforto do caminho estava escondendo da memória os muitos cuidados que já tinham experimentado durante a jornada.",
+        "Então, serpentes venenosas apareceram entre o povo. Muitas pessoas foram mordidas, e houve mortes. A Bíblia apresenta esse acontecimento como uma consequência naquela história específica. É um episódio sério e triste; não devemos usá-lo para afirmar que todo sofrimento ou toda doença de alguém seja castigo por um erro."
+      ],
+      "image": "97/part1.webp",
+      "alt": "O povo conversa com Moisés durante a viagem."
+    },
+    {
+      "heading": "Uma comunidade pede oração",
+      "paragraphs": [
+        "Diante do perigo, os israelitas procuraram Moisés. Reconheceram que haviam pecado ao falar contra o Senhor e contra ele. Dessa vez, não chegaram apenas com uma acusação. Admitiram sua própria atitude e pediram que Moisés orasse, para que Deus afastasse as serpentes que ameaçavam a comunidade.",
+        "Moisés orou pelo povo. Aquele que havia recebido as reclamações não se recusou a pedir ajuda para as pessoas. A oração não apagava o que havia acontecido, mas expressava uma necessidade verdadeira. A comunidade não tinha como resolver aquela situação apenas insistindo que estava certa ou colocando toda a culpa em outra pessoa.",
+        "O Senhor orientou Moisés a fazer a figura de uma serpente e colocá-la no alto de uma haste. Quem fosse mordido poderia olhar para ela e viver. Era uma resposta concreta para aquele momento. O povo precisaria acolher a orientação recebida, reconhecendo que o socorro vinha de Deus."
+      ],
+      "image": "97/part2.webp",
+      "alt": "Moisés ora pelo povo preocupado."
+    },
+    {
+      "heading": "Um sinal para lembrar de quem cuida",
+      "paragraphs": [
+        "Moisés fez uma serpente de bronze e a colocou numa haste, conforme havia sido instruído. Quando uma pessoa mordida olhava para aquele sinal, permanecia viva. O objeto estava visível no acampamento, mas o poder de cuidar da vida não pertencia ao metal nem à habilidade de quem o havia trabalhado.",
+        "A serpente de bronze não era um deus nem uma receita para repetir em qualquer situação. Naquela passagem, ela foi um sinal ligado à palavra do Senhor. O importante não era admirar um objeto diferente, mas confiar na ajuda oferecida e responder à orientação que a comunidade havia recebido.",
+        "A história começou com desprezo e terminou mostrando a necessidade de humildade. O povo precisou reconhecer suas palavras, pedir oração e aceitar socorro. Às vezes, o cansaço faz nossos olhos enxergarem apenas o que falta. A gratidão não elimina as dificuldades, mas pode nos ajudar a enfrentá-las sem esquecer o cuidado que sustenta a caminhada."
+      ],
+      "image": "97/part3.webp",
+      "alt": "As famílias olham para o sinal colocado no alto."
+    }
+  ],
+  "lesson": "Podemos falar com sinceridade sobre o cansaço sem desprezar tudo o que recebemos. Nesta história, o povo precisou reconhecer suas palavras e pedir ajuda. A serpente de bronze apontava para o cuidado de Deus naquele momento; não possuía poder por si mesma. Quando enfrentamos dificuldades, a humildade nos ajuda a ouvir, aceitar apoio e agradecer pelo bem que continua presente, mesmo durante um caminho que ainda parece difícil.",
+  "question": "Que cuidado você recebeu recentemente e pode agradecer, mesmo tendo outras dificuldades?",
+  "prayer": "Deus de cuidado, ajuda-me a reconhecer o bem que recebo sem esconder minhas dificuldades. Ensina-me a pedir ajuda com humildade, a aceitar apoio e a não desprezar quem caminha comigo. Que a gratidão encontre lugar em minhas palavras e atitudes. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés apresenta o sinal de bronze ao povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses beside tall wooden pole bearing one small bronze serpent sculpture, fully clothed adult families look toward sign with relieved hopeful faces in desert camp, no wounds or living snakes, no magical light from object."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo conversa com Moisés durante a viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Weary adult travelers with packed donkeys speak with Moses on rocky desert trail, plain clay water jars and woven bags, emotionally thoughtful not threatening."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés ora pelo povo preocupado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses kneels in prayer on woven mat beside tent, two concerned adult elders wait respectfully behind, no snakes or injuries, soft dusk light."
+    },
+    {
+      "role": "part3",
+      "alt": "As famílias olham para o sinal colocado no alto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Several healthy fully clothed adults look toward single bronze serpent sculpture on high wooden pole, Moses distant, peaceful hopeful camp, bronze ordinary metal without glow, no worship bowing."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+21%3A4-9&version=KJV"
+  ]
+}

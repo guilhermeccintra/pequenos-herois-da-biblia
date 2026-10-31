@@ -1,0 +1,74 @@
+{
+  "id": 176,
+  "title": "Uma Páscoa de Recomeço",
+  "subtitle": "Lembrar juntos do cuidado de Deus",
+  "reference": "Esdras 6:19–22",
+  "description": "Com o templo reconstruído, o povo celebra a Páscoa. A lembrança de uma antiga libertação encontra a alegria de quem voltou para casa.",
+  "testament": "antigo",
+  "cover": "/images/covers/176.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Depois de tanto trabalho",
+      "paragraphs": [
+        "O templo de Jerusalém finalmente estava pronto. Durante anos, a construção enfrentara dificuldades, interrupções e novas tentativas. Agora as pessoas que tinham voltado do exílio podiam olhar para um edifício concluído. Sacerdotes e levitas haviam sido organizados para seu serviço, e a comunidade encontrara motivos para celebrar a dedicação daquele lugar de adoração.",
+        "Mas a história não terminou quando a construção acabou. O povo também precisava aprender novamente a viver seus encontros, suas festas e suas responsabilidades. Um templo de pedras tinha sido reconstruído; os vínculos da comunidade também mereciam cuidado. Reunir-se para lembrar a história de Deus com Israel fazia parte desse novo começo.",
+        "No primeiro mês do calendário religioso de Israel, chegou o dia de celebrar a Páscoa. A festa trazia a memória da saída do Egito, quando o povo fora libertado da escravidão. Aqueles moradores não estavam vivendo de novo todos os acontecimentos do passado. Estavam lembrando juntos o cuidado de Deus que fazia parte de sua história."
+      ],
+      "image": "176/part1.webp",
+      "alt": "A comunidade contempla o templo reconstruído em Jerusalém."
+    },
+    {
+      "heading": "Preparar o encontro",
+      "paragraphs": [
+        "Os sacerdotes e levitas se prepararam conforme as orientações religiosas recebidas. O livro de Esdras registra que eles se purificaram juntos para o serviço. A celebração precisava de atenção e organização. Assim como a obra havia envolvido tarefas diferentes, a festa também tinha pessoas cuidando para que tudo acontecesse de acordo com a Lei.",
+        "A refeição da Páscoa foi preparada para os que tinham retornado do exílio, para os sacerdotes e para os levitas. Cada grupo fazia parte daquele encontro. Não era uma celebração apenas dos líderes que haviam aparecido nas decisões da construção. A comunidade inteira podia reconhecer o caminho percorrido e participar da lembrança compartilhada.",
+        "O texto também fala de pessoas que se uniram a eles para buscar o Senhor, afastando-se de práticas que não combinavam com essa decisão. O centro do encontro era voltar-se ao Deus de Israel. Não bastava estar perto das pedras do templo: a festa convidava os participantes a dar atenção à direção de sua própria vida."
+      ],
+      "image": "176/part2.webp",
+      "alt": "Pessoas preparam com cuidado os alimentos e utensílios da festa."
+    },
+    {
+      "heading": "Uma alegria que ganha dias",
+      "paragraphs": [
+        "Depois da Páscoa, eles celebraram por sete dias a Festa dos Pães sem Fermento. A alegria ganhou espaço em vários dias, e não somente num instante. Havia uma história antiga para lembrar e uma experiência recente pela qual agradecer. A libertação do Egito e o retorno do exílio não eram o mesmo acontecimento, mas ambos alimentavam a memória do povo.",
+        "Esdras diz que o Senhor lhes dera alegria. Também reconhece a ajuda recebida por meio da decisão do rei, que fortalecera suas mãos para concluir o templo. Ao recordar o trabalho, podiam enxergar pessoas, oportunidades e respostas que haviam tornado a reconstrução possível. A gratidão dava nome ao cuidado recebido pelo caminho.",
+        "A festa terminou, como terminam os dias marcados no calendário. Mas sua lembrança podia acompanhar o povo de volta às tarefas comuns. Jerusalém ainda teria desafios, e a comunidade continuaria aprendendo. Naquele recomeço, celebrar não era esquecer as dificuldades. Era reservar tempo para reconhecer que, depois de tanta espera, havia novamente uma mesa de memória e esperança."
+      ],
+      "image": "176/part3.webp",
+      "alt": "Adultos e crianças agradecem juntos durante a celebração."
+    }
+  ],
+  "lesson": "As festas de família podem guardar histórias importantes. Antes de pensar somente em presentes ou enfeites, podemos perguntar o que estamos lembrando e por que isso importa. Uma refeição simples, uma história contada por alguém mais velho e um agradecimento tornam a celebração significativa. Também podemos lembrar quem ajudou em tempos difíceis e encontrar uma maneira de incluir quem precisa de companhia.",
+  "question": "Que história boa da sua família vocês poderiam lembrar numa próxima refeição?",
+  "prayer": "Deus, obrigado pelos encontros que nos ajudam a lembrar teu cuidado. Abençoa nossas refeições e celebrações. Ensina-nos a escutar as histórias da família, agradecer pela ajuda recebida e repartir nossa alegria com quem precisa de acolhimento e companhia. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias celebram uma refeição de Páscoa após a reconstrução do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An ancient Judean family shares a reverent Passover meal in a modest courtyard, flat unleavened bread and herbs in simple bowls, completed Second Temple far in background, evening light. "
+    },
+    {
+      "role": "part1",
+      "alt": "A comunidade contempla o templo reconstruído em Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Families arrive before the completed modest ancient Second Temple, parents point out the building to children, warm daylight, clean stone and no modern objects. "
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas preparam com cuidado os alimentos e utensílios da festa.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean adults prepare flat bread and clay dishes at a long wooden table, children help safely with baskets, attentive calm faces, linen cloth and warm courtyard light. "
+    },
+    {
+      "role": "part3",
+      "alt": "Adultos e crianças agradecem juntos durante a celebração.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close-medium ancient family scene with an elder telling the story of deliverance to children at a table with flat bread, everyone listens warmly, soft oil lamps and twilight. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

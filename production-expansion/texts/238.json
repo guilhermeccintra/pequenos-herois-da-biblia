@@ -1,0 +1,71 @@
+{
+  "id": 238,
+  "title": "O Nome de João",
+  "subtitle": "Uma criança, uma promessa e uma voz que volta",
+  "reference": "Lucas 1:57–80",
+  "description": "Isabel e Zacarias recebem seu filho e escolhem o nome anunciado por Deus. O silêncio de Zacarias dá lugar a um louvor cheio de esperança.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma alegria na vizinhança",
+      "paragraphs": [
+        "Chegou o tempo de Isabel dar à luz, e nasceu seu filho. A notícia se espalhou entre vizinhos e parentes. Eles ouviram que Deus havia sido misericordioso com ela e se alegraram junto com a família. A longa espera ganhava agora o rosto de um bebê que precisava de colo e cuidado.",
+        "Zacarias, o pai, continuava sem falar desde o encontro com o anjo no templo. Naquela ocasião, recebera a promessa do nascimento e a orientação de chamar o menino João. A criança havia chegado, mas ainda faltava um momento importante em que toda a família ouviria qual seria seu nome.",
+        "No oitavo dia, parentes e vizinhos se reuniram para a circuncisão, um sinal da aliança no povo de Israel. Pensaram em dar ao menino o nome de seu pai: Zacarias. Parecia natural conservar um nome conhecido na família. Isabel, porém, respondeu com firmeza que seu filho se chamaria João."
+      ],
+      "alt": "Isabel segura o bebê enquanto parentes celebram seu nascimento.",
+      "image": "238/part1.webp"
+    },
+    {
+      "heading": "A resposta na pequena tábua",
+      "paragraphs": [
+        "Os presentes estranharam a resposta de Isabel. Nenhum parente tinha aquele nome, disseram. Então fizeram sinais a Zacarias, querendo saber sua opinião. O pai pediu algo em que pudesse escrever. Sem depender da própria voz, encontrou um jeito de deixar clara a decisão que havia recebido de Deus.",
+        "Na pequena tábua, Zacarias escreveu que o nome do menino era João. Não apresentou uma possibilidade para a reunião escolher depois. Confirmou o nome anunciado antes do nascimento. As pessoas ficaram admiradas. Isabel e Zacarias estavam unidos naquela resposta, ainda que ela fosse diferente do que os outros esperavam.",
+        "Na mesma hora, Zacarias voltou a falar. Sua língua se soltou, e ele começou a louvar a Deus. O silêncio de tantos meses deu lugar à gratidão. Os vizinhos ficaram profundamente impressionados, e a notícia daqueles acontecimentos percorreu a região montanhosa da Judeia. Todos se perguntavam o que aquela criança viria a ser."
+      ],
+      "alt": "Zacarias apresenta uma pequena tábua, confirmando o nome do filho.",
+      "image": "238/part2.webp"
+    },
+    {
+      "heading": "Uma voz para preparar o caminho",
+      "paragraphs": [
+        "Cheio do Espírito Santo, Zacarias louvou o Deus de Israel por visitar e salvar seu povo. Recordou as promessas feitas aos antepassados. A alegria por seu filho se abriu para uma esperança maior: Deus estava preparando salvação, misericórdia e liberdade para que as pessoas pudessem servi-lo sem viver dominadas pelo medo.",
+        "Depois, Zacarias falou sobre o menino. João seria profeta do Altíssimo e iria à frente do Senhor para preparar seus caminhos. Sua tarefa ajudaria o povo a conhecer a salvação e o perdão. Ele não ocuparia o centro de tudo. Sua voz indicaria a chegada daquele que traria luz e paz.",
+        "O bebê cresceu e se fortaleceu espiritualmente. Lucas conta que João viveu nas regiões desertas até o tempo de se apresentar a Israel. A história não termina com uma criança obrigada a impressionar os vizinhos. Termina com crescimento e preparação. Antes de anunciar publicamente, João teria seu próprio tempo de amadurecer."
+      ],
+      "alt": "Zacarias louva a Deus ao lado de Isabel e do pequeno João.",
+      "image": "238/part3.webp"
+    }
+  ],
+  "lesson": "Cada criança tem nome, história e dignidade. Não precisamos decidir seu valor comparando-a com parentes ou impondo que seja igual a alguém. João recebeu uma missão específica, mas também teve tempo para crescer. Podemos respeitar o ritmo de quem aprende, valorizar diferentes maneiras de se comunicar e usar nossa voz para agradecer, encorajar e aproximar as pessoas. Crescer também é aprender a escutar.",
+  "question": "Que palavra de incentivo você pode dizer hoje a alguém que está aprendendo alguma coisa?",
+  "prayer": "Deus, obrigado por conhecer cada pessoa pelo nome. Ajuda-nos a crescer com paciência e a respeitar o tempo dos outros. Que nossa voz seja usada para agradecer, acolher e encorajar, e que saibamos ouvir também quem se comunica de outro jeito. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/238.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Zacarias e Isabel apresentam o bebê João com alegria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly Zechariah silver beard cream tunic brown shawl and Elizabeth gray hair mauve veil sage dress tenderly hold newborn John wrapped in cream cloth in courtyard, happy neighbors softly blurred, warm hopeful light."
+    },
+    {
+      "role": "part1",
+      "alt": "Isabel segura o bebê enquanto parentes celebram seu nascimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly Elizabeth gray hair mauve veil sage dress seated safely holding newborn wrapped in cream cloth, neighbors and family greet with delighted faces inside modest Judean stone house, soft window light."
+    },
+    {
+      "role": "part2",
+      "alt": "Zacarias apresenta uma pequena tábua, confirmando o nome do filho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly Zechariah silver beard cream tunic brown shawl holds small wooden wax writing tablet turned toward family so its writing is not visible to viewer, stylus in hand, attentive faces, Elizabeth with newborn behind, no legible text."
+    },
+    {
+      "role": "part3",
+      "alt": "Zacarias louva a Deus ao lado de Isabel e do pequeno João.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Zechariah silver beard cream tunic brown shawl speaks with grateful open hands beside Elizabeth gray hair mauve veil sage dress cradling infant, relieved happy expressions in warmly lit stone courtyard, calm dignified celebration."
+    }
+  ]
+}

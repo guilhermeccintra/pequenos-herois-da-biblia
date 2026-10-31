@@ -1,0 +1,71 @@
+{
+  "id": 341,
+  "title": "Dons para Servir",
+  "subtitle": "Presentes que ajudam a comunidade",
+  "reference": "1 Coríntios 12:4–11, 27–31",
+  "description": "Os coríntios aprendem que os dons têm uma origem comum e um propósito de cuidado. Uma leitura sobre diferenças, cooperação e serviço que não depende de aplausos.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/341.webp",
+  "parts": [
+    {
+      "heading": "Presentes diferentes",
+      "paragraphs": [
+        "Na comunidade de Corinto, as pessoas precisavam aprender a compreender os dons espirituais. Algumas capacidades chamavam muita atenção, e havia o perigo de transformar a vida em grupo numa disputa. Paulo escreveu para orientar os cristãos. Sua carta lembrava que a fé em Jesus e o trabalho do Espírito Santo não deveriam servir para alimentar a vaidade.",
+        "Ele começou explicando que havia diferentes dons, diferentes formas de servir e diferentes maneiras de agir. Apesar dessa variedade, o Espírito era o mesmo, o Senhor era o mesmo e Deus era quem realizava sua obra. A diversidade não significava que cada pessoa pertencesse a um time rival. Os presentes recebidos tinham uma fonte comum.",
+        "Essa lembrança mudava a maneira de olhar para as habilidades. Ninguém podia tratar um dom como motivo para desprezar quem havia recebido outro. Um presente não torna seu portador dono das outras pessoas. A comunidade precisava reconhecer a ação de Deus com gratidão, em vez de usar as diferenças para construir uma escada de importância entre irmãos."
+      ],
+      "image": "341/part1.webp",
+      "alt": "Paulo conversa com um pequeno grupo em oficina antiga, objetos de trabalho variados sobre a mesa, rostos atentos e expressão humilde, sem magia visual."
+    },
+    {
+      "heading": "Um propósito em comum",
+      "paragraphs": [
+        "Paulo disse que a manifestação do Espírito era dada para o bem de todos. Esse era o propósito. O dom não terminava na pessoa que o recebia; deveria produzir ajuda na vida da comunidade. Assim, uma pergunta importante seria perceber quem estava sendo servido, e não apenas contar quantas pessoas haviam se impressionado com determinada atuação.",
+        "A carta mencionou sabedoria, conhecimento, fé, cura e outros dons, incluindo diferentes línguas e sua interpretação. Paulo não disse que todos receberiam exatamente as mesmas capacidades. Explicou que o Espírito distribuía os dons conforme sua vontade. Por isso, copiar o lugar de outra pessoa não era a única maneira de participar da vida da igreja.",
+        "Mais adiante, ele citou também quem ajudava e quem organizava. Essas tarefas podiam parecer menos vistosas, mas faziam parte do serviço. A lista lembrava que uma comunidade precisa de cuidado concreto para funcionar. Receber as pessoas, coordenar uma necessidade e apoiar quem ensina são contribuições que merecem respeito, mesmo quando acontecem longe de qualquer destaque."
+      ],
+      "image": "341/part2.webp",
+      "alt": "Uma mulher organiza cestos de alimentos enquanto outro adulto ensina um jovem a ler um rolo sem letras legíveis, trabalho comunitário e textura de cerâmica."
+    },
+    {
+      "heading": "Servir com o que recebemos",
+      "paragraphs": [
+        "Paulo fez perguntas para mostrar que nem todos tinham a mesma função. Nem todos eram apóstolos ou mestres, e nem todos realizavam os mesmos sinais. A diferença não era um defeito a ser corrigido. Ela convidava à cooperação. Quando uma pessoa reconhece que precisa do que a outra oferece, fica mais fácil servir com humildade.",
+        "Podemos imaginar uma família organizando ajuda a um vizinho. Alguém percebe a necessidade, alguém separa os mantimentos e alguém combina a entrega. Outra pessoa acompanha o visitante e pergunta como ele está. Habilidades variadas se encontram numa tarefa comum. Assim fica mais fácil compreender como um presente recebido por uma pessoa pode levar cuidado e alegria a muitas outras.",
+        "O ensino de Paulo conduzia a comunidade para um caminho de amor. Os dons deveriam ser procurados e usados com essa direção. Não era necessário transformar o serviço em espetáculo ou competição. Cada pessoa podia aprender a oferecer o que recebeu, ouvir orientações e reconhecer os outros. Quando o bem comum vem primeiro, os presentes se tornam cuidado compartilhado."
+      ],
+      "image": "341/part3.webp",
+      "alt": "Amigos entregam uma cesta a uma família com discrição e respeito na porta de uma casa, crianças participam carregando pequenos pães, luz suave."
+    }
+  ],
+  "lesson": "Antes de usar uma habilidade, podemos perguntar como ela pode ajudar. Talvez seja explicar uma atividade, organizar materiais ou perceber quem ficou sem participar. Não precisamos fazer tudo, nem comparar nossa contribuição com a de outra pessoa. Servir envolve ouvir, aprender e respeitar os limites de cada um. Também podemos agradecer pelos trabalhos discretos que tornam nossa casa, escola ou comunidade mais acolhedora para todos.",
+  "question": "Qual ajuda discreta de alguém você poderia reconhecer e agradecer hoje?",
+  "prayer": "Espírito Santo, ajuda-nos a usar os presentes recebidos para cuidar das pessoas. Livra-nos da vaidade e ensina-nos a cooperar. Dá-nos olhos atentos para reconhecer os serviços discretos e um coração disposto a aprender, agradecer e repartir com generosidade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Comunidade do primeiro século organiza mantimentos e livros em uma casa iluminada, diferentes pessoas ensinam, arrumam cestos e acolhem visitantes, cooperação sem destaque individual.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Comunidade do primeiro século organiza mantimentos e livros em uma casa iluminada, diferentes pessoas ensinam, arrumam cestos e acolhem visitantes, cooperação sem destaque individual."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo conversa com um pequeno grupo em oficina antiga, objetos de trabalho variados sobre a mesa, rostos atentos e expressão humilde, sem magia visual.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Paulo conversa com um pequeno grupo em oficina antiga, objetos de trabalho variados sobre a mesa, rostos atentos e expressão humilde, sem magia visual."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma mulher organiza cestos de alimentos enquanto outro adulto ensina um jovem a ler um rolo sem letras legíveis, trabalho comunitário e textura de cerâmica.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma mulher organiza cestos de alimentos enquanto outro adulto ensina um jovem a ler um rolo sem letras legíveis, trabalho comunitário e textura de cerâmica."
+    },
+    {
+      "role": "part3",
+      "alt": "Amigos entregam uma cesta a uma família com discrição e respeito na porta de uma casa, crianças participam carregando pequenos pães, luz suave.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Amigos entregam uma cesta a uma família com discrição e respeito na porta de uma casa, crianças participam carregando pequenos pães, luz suave."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/1CO.12.KJV"
+  ]
+}

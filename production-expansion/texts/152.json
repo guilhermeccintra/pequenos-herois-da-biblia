@@ -1,0 +1,71 @@
+{
+  "id": 152,
+  "title": "A Vinha de Nabote",
+  "subtitle": "Quando o poder esquece a justiça",
+  "reference": "1 Reis 21:1–29",
+  "description": "Acabe deseja a vinha de Nabote, mas ouve uma recusa. A história revela o dano causado por ganância e mentira e mostra Elias confrontando a injustiça.",
+  "testament": "antigo",
+  "cover": "/images/covers/152.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma vinha perto do palácio",
+      "paragraphs": [
+        "Nabote tinha uma vinha em Jezreel, perto do palácio do rei Acabe. A terra fazia parte da herança de sua família. Acabe desejava transformá-la numa horta, porque ficava próxima de sua casa. Ofereceu outra vinha em troca ou o valor em dinheiro. O pedido parecia uma negociação, mas Nabote não queria abrir mão daquele lugar.",
+        "Ele explicou que a herança de seus pais não deveria ser vendida. Sua recusa estava ligada à responsabilidade que reconhecia diante de Deus e da família. A vinha não era apenas um pedaço de chão escolhido ao acaso. Carregava história e pertencimento. O fato de o interessado ser rei não tornava obrigatório dizer sim.",
+        "Acabe voltou para casa aborrecido. Deitou-se, virou o rosto e não quis comer. Tinha poder e recursos, mas não soube receber um limite. A frustração poderia ter sido enfrentada com respeito à decisão de Nabote. Em vez disso, tornou-se o começo de uma situação muito mais grave quando Jezabel, sua esposa, perguntou o que havia acontecido."
+      ],
+      "image": "152/part1.webp",
+      "alt": "Acabe conversa com Nabote junto à vinha, enquanto o proprietário explica sua decisão com respeito."
+    },
+    {
+      "heading": "Uma mentira organizada",
+      "paragraphs": [
+        "Acabe contou a Jezabel sobre a recusa. Ela prometeu conseguir a vinha e usou a autoridade do rei para organizar um plano injusto. Escreveu cartas em seu nome, selou-as e as enviou aos líderes da cidade de Nabote. O poder, que deveria proteger a comunidade, foi usado para criar uma acusação falsa contra uma pessoa inocente.",
+        "Os líderes receberam ordens para reunir o povo e colocar duas testemunhas mentirosas contra Nabote. Elas o acusariam de ofender a Deus e ao rei. As pessoas responsáveis pela cidade obedeceram ao plano. A aparência de um julgamento escondia uma decisão já tomada por quem queria a terra. Palavras falsas foram transformadas em instrumento de violência.",
+        "Nabote foi morto por causa de uma acusação mentirosa. Depois que recebeu a notícia, Jezabel disse a Acabe que fosse tomar posse da vinha. O rei se levantou e seguiu até o terreno que tanto desejara. As videiras continuavam ali, mas seu dono já não voltaria para cuidar delas. A injustiça havia atingido Nabote e sua família."
+      ],
+      "image": "152/part2.webp",
+      "alt": "Uma carta selada repousa sobre uma mesa do palácio, com uma sombra discreta que sugere uma decisão injusta, sem texto legível."
+    },
+    {
+      "heading": "A verdade encontra o rei",
+      "paragraphs": [
+        "Deus enviou Elias para encontrar Acabe na vinha. O profeta confrontou o rei pelo assassinato e pela posse injusta. A mensagem mostrou que o que fora feito em segredo não estava escondido de Deus. Acabe não poderia tratar aquela terra como uma aquisição comum, apagando a pessoa a quem pertencia e o modo como havia sido tomada.",
+        "Elias anunciou consequências para a casa do rei e para Jezabel. A posição de governante não os colocava acima da justiça. Ao ouvir, Acabe rasgou suas roupas, vestiu-se com pano de luto e jejuou. Deus reconheceu essa humilhação e disse que parte do juízo anunciado não viria durante seus dias, mas depois.",
+        "O gesto de arrependimento de Acabe não devolveu a vida de Nabote nem tornou aceitável o que acontecera. A história guarda a memória da vítima e denuncia o abuso de poder. Uma vinha desejada não valia mais que uma pessoa. Quem governa precisa ouvir limites, e quem recebe uma ordem injusta continua responsável por não colaborar com a mentira."
+      ],
+      "image": "152/part3.webp",
+      "alt": "Elias conversa com Acabe na vinha, num confronto de palavras sério e sem violência física."
+    }
+  ],
+  "lesson": "Querer algo não nos dá direito de tomar o que pertence a outra pessoa. Também não devemos mentir para ajudar alguém poderoso ou popular a conseguir vantagem. A história de Nabote mostra como uma pequena recusa pode revelar a maneira como tratamos limites. Podemos aceitar um não, procurar alternativas e falar a verdade. Se alguém pressiona você a acusar outra pessoa injustamente, procure um adulto confiável e explique o que está acontecendo.",
+  "question": "Como você pode lidar com a frustração de ouvir um não sem desrespeitar a outra pessoa?",
+  "prayer": "Deus, ajuda-nos a respeitar limites e a não colocar nossos desejos acima da dignidade das pessoas. Dá-nos coragem para falar a verdade e recusar injustiças. Cuida de quem sofre abuso de poder e ensina-nos a buscar reparação, proteção e justiça com responsabilidade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Nabote cuida de sua vinha com expressão serena, diante de fileiras de uvas e muros antigos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naboth middle-aged olive skin short beard cream tunic green shawl tending vineyard; Ahab adult dark beard ochre royal robe; Elijah thick beard rough brown mantle. Peaceful ancient vineyard/palace conversations, no execution, injury or threatening weapons. Only scene named cast. Scene: Nabote cuida de sua vinha com expressão serena, diante de fileiras de uvas e muros antigos."
+    },
+    {
+      "role": "part1",
+      "alt": "Acabe conversa com Nabote junto à vinha, enquanto o proprietário explica sua decisão com respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naboth middle-aged olive skin short beard cream tunic green shawl tending vineyard; Ahab adult dark beard ochre royal robe; Elijah thick beard rough brown mantle. Peaceful ancient vineyard/palace conversations, no execution, injury or threatening weapons. Only scene named cast. Scene: Acabe conversa com Nabote junto à vinha, enquanto o proprietário explica sua decisão com respeito."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma carta selada repousa sobre uma mesa do palácio, com uma sombra discreta que sugere uma decisão injusta, sem texto legível.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naboth middle-aged olive skin short beard cream tunic green shawl tending vineyard; Ahab adult dark beard ochre royal robe; Elijah thick beard rough brown mantle. Peaceful ancient vineyard/palace conversations, no execution, injury or threatening weapons. Only scene named cast. Scene: Uma carta selada repousa sobre uma mesa do palácio, com uma sombra discreta que sugere uma decisão injusta, sem texto legível. MANDATORY SCENE CAST: Still-life image of only a sealed rolled letter, a clay seal and a wooden desk in the palace. No people in this image. No readable text. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Elias conversa com Acabe na vinha, num confronto de palavras sério e sem violência física.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naboth middle-aged olive skin short beard cream tunic green shawl tending vineyard; Ahab adult dark beard ochre royal robe; Elijah thick beard rough brown mantle. Peaceful ancient vineyard/palace conversations, no execution, injury or threatening weapons. Only scene named cast. Scene: Elias conversa com Acabe na vinha, num confronto de palavras sério e sem violência física."
+    }
+  ]
+}

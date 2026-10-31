@@ -1,0 +1,71 @@
+{
+  "id": 247,
+  "title": "Jesus na Sinagoga de Nazaré",
+  "subtitle": "Uma boa notícia maior que as fronteiras",
+  "reference": "Lucas 4:16–30",
+  "description": "Na cidade onde cresceu, Jesus lê as palavras de Isaías e anuncia boas notícias. Sua mensagem convida as pessoas a enxergar o cuidado de Deus além de seu próprio grupo.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.4.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um rolo aberto para a leitura",
+      "paragraphs": [
+        "Jesus chegou a Nazaré, onde havia crescido. No sábado, foi à sinagoga, como era seu costume. Levantou-se para ler, e lhe entregaram o livro do profeta Isaías, escrito num rolo. A comunidade estava reunida para ouvir as Escrituras. Muitas daquelas pessoas conheciam Jesus desde seus anos de vida na cidade.",
+        "Jesus encontrou a passagem que falava do Espírito do Senhor sobre alguém enviado para anunciar boas notícias aos pobres. O texto também mencionava liberdade para os presos, vista para os cegos e libertação para os oprimidos. Eram palavras de esperança para pessoas que carregavam necessidades concretas e esperavam o cuidado de Deus.",
+        "Depois da leitura, Jesus enrolou o livro, devolveu-o ao ajudante e se sentou. Todos olhavam para ele. Então afirmou que aquela passagem se cumpria naquele dia, diante de quem a ouvira. A leitura não ficava apenas no passado. Jesus anunciava que sua própria missão tornava presente a esperança que Isaías havia descrito."
+      ],
+      "alt": "Jesus lê um rolo das Escrituras diante da comunidade de Nazaré.",
+      "image": "247/part1.webp"
+    },
+    {
+      "heading": "Uma mensagem que incomoda",
+      "paragraphs": [
+        "As pessoas se admiravam das palavras de Jesus. Ao mesmo tempo, perguntavam se ele não era o filho de José. O conhecimento que tinham de sua família se misturava à surpresa diante do que ouviam. Jesus sabia que esperavam ver em Nazaré obras como as que tinham ouvido contar de Cafarnaum.",
+        "Ele explicou que um profeta nem sempre é bem recebido em sua própria terra. Depois recordou acontecimentos das Escrituras. No tempo de Elias, havia muitas viúvas em Israel, mas o profeta foi enviado a uma viúva em Sarepta, fora de Israel. A necessidade daquela mulher também estava dentro do alcance do cuidado de Deus.",
+        "Jesus lembrou ainda Naamã, um sírio que recebeu cura no tempo de Eliseu. Esses exemplos mostravam que a misericórdia de Deus não estava limitada ao grupo de quem escutava. As pessoas de Nazaré não podiam tratar Jesus como alguém obrigado a favorecer somente sua cidade. A boa notícia tinha um alcance maior do que suas expectativas."
+      ],
+      "alt": "Os ouvintes refletem e reagem às palavras de Jesus na sinagoga.",
+      "image": "247/part2.webp"
+    },
+    {
+      "heading": "Continuar o caminho",
+      "paragraphs": [
+        "Ao ouvir esses exemplos, as pessoas na sinagoga ficaram furiosas. Levantaram-se, expulsaram Jesus da cidade e o levaram até uma parte alta do monte onde Nazaré fora construída. Pretendiam jogá-lo dali. Era uma reação violenta a uma mensagem que não correspondia ao que desejavam ouvir. Discordar não justificava tentar ferir alguém.",
+        "Jesus, porém, passou pelo meio deles e seguiu seu caminho. A agitação da multidão não encerrou sua missão. Ele saiu de Nazaré, onde havia crescido e anunciado a esperança das Escrituras. Outras cidades ainda ouviriam sua voz. A boa notícia que trouxera para os pobres e oprimidos continuaria a alcançar pessoas além daquele encontro difícil.",
+        "O rolo de Isaías havia anunciado liberdade, cuidado e boas notícias. A resposta de alguns ouvintes revelou como pode ser difícil aceitar que esse cuidado alcance pessoas de fora. Jesus seguiria encontrando gente em muitos lugares. O amor de Deus não cabia numa fronteira desenhada pelo orgulho de um grupo."
+      ],
+      "alt": "Jesus segue por um caminho fora de Nazaré, em segurança.",
+      "image": "247/part3.webp"
+    }
+  ],
+  "lesson": "Podemos gostar de nossa família, cidade e comunidade sem desprezar quem vem de fora. Quando uma ideia nos incomoda, podemos perguntar, conversar e pensar, sem ameaçar ou humilhar. A história mostra uma reação violenta que não devemos imitar. O cuidado de Deus nos convida a ampliar o olhar e a reconhecer que pessoas diferentes de nós também têm necessidades, histórias e dignidade.",
+  "question": "Como você pode demonstrar respeito ao conversar com alguém que pensa diferente de você?",
+  "prayer": "Deus, abre nosso coração para as pessoas que ainda não conhecemos. Ajuda-nos a escutar sem desprezo e a conversar sem violência. Que não guardemos o cuidado apenas para nosso grupo, mas aprendamos a acolher com respeito quem vem de outros lugares. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/247.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus apresenta um rolo aberto à comunidade de Nazaré.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle standing with open ancient scroll facing attentive synagogue listeners, no legible writing, modest stone synagogue with wood beams, sunlight, reverent warm atmosphere."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus lê um rolo das Escrituras diante da comunidade de Nazaré.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close-medium Jesus cream tunic terracotta mantle carefully reading unmarked parchment scroll, synagogue stone benches with attentive adults, one attendant nearby, warm lamplight and window light, no letters visible."
+    },
+    {
+      "role": "part2",
+      "alt": "Os ouvintes refletem e reagem às palavras de Jesus na sinagoga.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated calmly teaching synagogue group with mixed thoughtful and puzzled expressions, all dignified, no aggression, simple stone architecture, cinematic natural light."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus segue por um caminho fora de Nazaré, em segurança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle walking safely away along broad hillside path outside ancient Nazareth, village distant, composed thoughtful face, no cliff edge, no violence, hopeful landscape."
+    }
+  ]
+}

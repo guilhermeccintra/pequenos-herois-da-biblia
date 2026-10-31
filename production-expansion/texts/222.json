@@ -1,0 +1,74 @@
+{
+  "id": 222,
+  "title": "O Campo Comprado na Esperança",
+  "subtitle": "Um documento guardado para o futuro",
+  "reference": "Jeremias 32",
+  "description": "Em dias difíceis para Jerusalém, Jeremias compra um campo e guarda o documento como sinal de confiança no futuro prometido.",
+  "testament": "antigo",
+  "cover": "/images/covers/222.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um pedido em dias difíceis",
+      "paragraphs": [
+        "Jerusalém estava cercada pelo exército da Babilônia. Eram dias de preocupação para a cidade, e Jeremias permanecia preso no pátio da guarda. O rei Zedequias havia restringido sua liberdade por causa das mensagens que anunciava. Mesmo naquele lugar, o profeta continuava a receber a palavra do Senhor e a conversar com ele.",
+        "Deus lhe disse que seu primo Hanamel viria oferecer um campo em Anatote. Jeremias tinha, como parente, o direito de comprar aquela propriedade. A notícia podia parecer surpreendente num tempo de tanta incerteza. Havia um campo para adquirir enquanto o futuro da cidade parecia envolvido por dificuldades muito grandes.",
+        "Hanamel chegou ao pátio da guarda e fez exatamente a proposta anunciada. Jeremias reconheceu ali a confirmação da palavra recebida. Então decidiu realizar a compra. Seu gesto teria um significado que alcançava além da terra: seria um sinal de esperança para um povo que enfrentava um momento doloroso."
+      ],
+      "image": "222/part1.webp",
+      "alt": "Hanamel conversa com Jeremias no pátio da guarda"
+    },
+    {
+      "heading": "Prata, testemunhas e um vaso",
+      "paragraphs": [
+        "Jeremias pesou a prata para pagar pelo campo: dezessete siclos, uma medida usada naquele tempo. O negócio foi feito diante de testemunhas e registrado num documento. Havia uma parte selada, com as condições da compra, e outra aberta. O cuidado com cada etapa tornava o compromisso claro e conhecido.",
+        "O profeta entregou os documentos a Baruque, filho de Nerias. Fez isso diante de Hanamel, das testemunhas e das pessoas reunidas no pátio. Depois deu uma orientação especial: os registros deveriam ser colocados num vaso de barro, para que fossem conservados durante muito tempo. A memória daquela compra precisava atravessar os dias.",
+        "A explicação veio junto com a ordem. O Senhor anunciava que casas, campos e vinhas voltariam a ser comprados naquela terra. O vaso guardaria uma prova concreta dessa confiança. Enquanto todos viam o cerco e a preocupação presente, Jeremias realizava um gesto ligado à vida que ainda poderia ser reconstruída."
+      ],
+      "image": "222/part2.webp",
+      "alt": "Documentos são guardados num vaso de barro"
+    },
+    {
+      "heading": "Perguntas dentro da confiança",
+      "paragraphs": [
+        "Depois de entregar os documentos, Jeremias orou. Reconheceu a grandeza de Deus, Criador do céu e da terra, e lembrou o cuidado demonstrado na história de Israel. Também apresentou aquilo que não compreendia: a cidade estava prestes a ser tomada, e mesmo assim ele havia recebido a ordem de comprar o campo.",
+        "O Senhor respondeu lembrando seu poder e falando com verdade sobre as consequências das escolhas do povo. A dificuldade presente era real. Mas a mensagem também anunciava reunião, retorno e uma nova relação de fidelidade. Deus desejava fazer bem ao seu povo e conduzi-lo a um caminho de coração renovado.",
+        "O documento continuaria guardado no vaso enquanto os acontecimentos seguissem seu curso. A compra de Jeremias se tornava uma lembrança de esperança paciente. Sua história nos ajuda a apresentar perguntas a Deus e a cuidar do bem que podemos fazer hoje. Às vezes, um gesto pequeno guarda confiança para um tempo que ainda virá."
+      ],
+      "image": "222/part3.webp",
+      "alt": "Jeremias ora no pátio silencioso"
+    }
+  ],
+  "lesson": "Jeremias realizou um gesto de esperança e também apresentou suas perguntas em oração. Podemos confiar em Deus enquanto aprendemos a atravessar momentos de incerteza. Cuidar de uma relação, cumprir um compromisso e preparar algo bom para depois são atitudes que valorizam o futuro. Pense num pequeno cuidado que você pode começar hoje e acompanhar com paciência, recebendo ajuda quando precisar.",
+  "question": "Que coisa boa você pode começar a cuidar hoje para vê-la crescer com o tempo?",
+  "prayer": "Deus, ajuda-me a confiar em teu cuidado mesmo quando tenho perguntas. Dá-me paciência para esperar e atenção para o bem que posso fazer hoje. Ensina-me a guardar esperança e a cuidar com responsabilidade das pessoas e dos compromissos que recebo. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JER32.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jeremias entrega documentos a Baruque junto a um vaso",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah handing two rolled blank parchment deeds to Baruch beside a large earthen storage jar in an ancient guard courtyard, Hanamel and two witnesses nearby, small balance scale with silver pieces on table, hopeful solemn faces. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl. Baruch is a young adult brown-skinned scribe with short curly dark hair, neat beard and muted blue tunic. Hanamel is an olive-skinned middle-aged man with short dark beard and brown linen shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Hanamel conversa com Jeremias no pátio da guarda",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Hanamel respectfully speaking to Jeremiah in an ancient stone guard courtyard, modest guards far in background, open daylight and no chains, concerned but calm expressions, simple bench and clay water jar. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl. Hanamel is an olive-skinned middle-aged man with short dark beard and brown linen shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Documentos são guardados num vaso de barro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Baruch carefully lowering rolled parchment deeds, one with clay seal, into a large earthen storage jar on a rustic table, silver balance nearby, warm light on careful hands, no visible writing. Baruch is a young adult brown-skinned scribe with short curly dark hair, neat beard and muted blue tunic."
+    },
+    {
+      "role": "part3",
+      "alt": "Jeremias ora no pátio silencioso",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah praying quietly on a stone bench in an ancient guard courtyard, hands open and thoughtful hopeful face, clay storage jar nearby, dawn light over distant city walls, no violence or visible deity. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

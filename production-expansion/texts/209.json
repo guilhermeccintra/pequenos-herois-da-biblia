@@ -1,0 +1,74 @@
+{
+  "id": 209,
+  "title": "Um Convite para Toda a Criação",
+  "subtitle": "O grande louvor do Salmo 148",
+  "reference": "Salmo 148",
+  "description": "Do brilho das estrelas às pequenas criaturas, o salmo reúne toda a criação numa canção de gratidão.",
+  "testament": "antigo",
+  "cover": "/images/covers/209.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A canção começa nas alturas",
+      "paragraphs": [
+        "O Salmo 148 parece abrir uma grande janela para o universo. Seu convite é cheio de alegria: toda a criação é chamada a louvar ao Senhor. O poeta começa pelas alturas, mencionando os anjos, o sol, a lua e as estrelas que brilham. Cada imagem amplia o tamanho da canção.",
+        "As luzes do céu recebem um lugar nesse coro poético. O sol ilumina o dia, a lua acompanha a noite e as estrelas despertam admiração. O salmista lembra que todas essas coisas existem porque Deus as criou. A beleza contemplada se transforma em motivo para reconhecer a grandeza do Criador.",
+        "A repetição do convite dá ritmo ao poema, como se novas vozes fossem chegando a cada verso. Quem lê pode levantar os olhos e participar com sua própria gratidão. A vastidão do céu convida o coração a se admirar, e a admiração encontra palavras para agradecer pelo mundo recebido."
+      ],
+      "image": "209/part1.webp",
+      "alt": "Lua e estrelas brilham sobre montanhas tranquilas"
+    },
+    {
+      "heading": "O convite chega à terra",
+      "paragraphs": [
+        "Depois das alturas, a canção alcança a terra e o mar. As grandes criaturas marinhas e as profundezas entram no poema. Em seguida aparecem o fogo, o granizo, a neve, as nuvens e o vento. A variedade da criação enche os versos de movimento, cores, sons e diferentes paisagens.",
+        "O olhar do poeta passeia pelas montanhas e colinas, pelas árvores de fruto e pelos cedros. Cada uma oferece sua própria beleza: um ramo carregado, um tronco alto, uma encosta que muda de cor com a luz. A canção acolhe tanto aquilo que impressiona pela grandeza quanto os detalhes que pedem atenção.",
+        "Também são chamados os animais dos campos, os rebanhos, as pequenas criaturas e as aves. O louvor poético atravessa lugares que podemos visitar e lugares que talvez só conheçamos em imagens. Essa diversidade nos convida a cuidar da criação com respeito, reconhecendo valor na vida que compartilha o mundo conosco."
+      ],
+      "image": "209/part2.webp",
+      "alt": "Animais e árvores compõem uma paisagem viva"
+    },
+    {
+      "heading": "Há lugar para nossa voz",
+      "paragraphs": [
+        "Então chegam as pessoas. Reis, governantes e todos os povos recebem o convite. A canção inclui jovens, moças, idosos e crianças. A diferença de idade ou de posição não impede ninguém de participar. Diante do Criador, cada pessoa tem a oportunidade de reconhecer sua bondade e responder com gratidão.",
+        "O salmo celebra o nome do Senhor acima da terra e dos céus e recorda sua proximidade com o povo de Israel. Depois de percorrer uma paisagem tão imensa, o poema conserva esse sentido de relação. O Deus louvado por toda a criação também é lembrado como aquele que cuida de seu povo.",
+        "Podemos entrar nessa canção com aquilo que temos: uma voz, um pensamento agradecido, um desenho ou um gesto de cuidado. Observar uma folha, ouvir um pássaro e acolher outra pessoa podem despertar gratidão. Na grande variedade do mundo, nossa pequena resposta também encontra um lugar bonito para oferecer louvor."
+      ],
+      "image": "209/part3.webp",
+      "alt": "Pessoas de várias idades agradecem juntas ao ar livre"
+    }
+  ],
+  "lesson": "A criação oferece muitos motivos para agradecer, e cada pessoa pode participar desse louvor. O Salmo 148 ajuda a prestar atenção ao grande e ao pequeno: estrelas, árvores, animais e gente de todas as idades. Escolha hoje uma dessas maravilhas para observar com cuidado. Depois, transforme sua gratidão numa oração ou numa atitude que proteja e respeite a vida ao seu redor.",
+  "question": "Qual parte da criação você gostaria de incluir numa canção de agradecimento?",
+  "prayer": "Criador de todas as coisas, obrigado pelo céu, pela terra e pela variedade da vida. Abre meus olhos para perceber detalhes bonitos. Recebe meu louvor e ensina-me a cuidar dos animais, das plantas e das pessoas com respeito e alegria. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA148.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma paisagem reúne montanhas, mar, árvores e aves",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic Psalm 148 panorama, lush ancient coastal landscape with mountains, tall cedars, fruit trees, tiny birds in luminous sky and sheep on meadow, sweeping sea beyond, majestic detailed creation, no people, no text. "
+    },
+    {
+      "role": "part1",
+      "alt": "Lua e estrelas brilham sobre montanhas tranquilas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Magnificent natural night sky with bright moon and countless stars over ancient Judean mountains, quiet lake reflecting light, richly detailed foreground grasses, poetic wonder, no people, no faces in sky. "
+    },
+    {
+      "role": "part2",
+      "alt": "Animais e árvores compõem uma paisagem viva",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Warm detailed ancient countryside with cedar trees and fruit trees, sheep near stream, small lizard on foreground rock and colorful birds on branches, rich natural textures, no people, no exotic unrelated animals. "
+    },
+    {
+      "role": "part3",
+      "alt": "Pessoas de várias idades agradecem juntas ao ar livre",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Near Eastern community of elders, adults, young people and children joyfully gathered in a meadow, simple linen garments, some holding wooden lyres and small hand drums, open sky and hills, shared gratitude. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

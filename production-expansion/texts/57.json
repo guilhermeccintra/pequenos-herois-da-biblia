@@ -1,0 +1,72 @@
+{
+  "id": 57,
+  "title": "O Abraço que Jacó Esperava",
+  "subtitle": "O reencontro que parecia impossível",
+  "reference": "Gênesis 45:25–28; 46:1–30",
+  "description": "Jacó recebe a notícia de que José está vivo. Uma viagem ao Egito o leva ao abraço que havia perdido a esperança de receber.",
+  "testament": "antigo",
+  "cover": "/images/covers/57.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma notícia difícil de acreditar",
+      "paragraphs": [
+        "Os filhos de Jacó voltaram do Egito trazendo uma notícia extraordinária: José estava vivo e governava aquela terra. Durante muitos anos, Jacó acreditara que o filho havia morrido. A túnica manchada e o engano dos irmãos tinham provocado uma longa tristeza. Agora, as palavras que ouvia pareciam grandes demais para serem verdadeiras.",
+        "No primeiro momento, Jacó não acreditou. Seus filhos lhe contaram o que José havia dito. Ele também viu os carros enviados para buscá-lo. Aos poucos, as notícias e os sinais daquele convite o alcançaram. Seu ânimo voltou. Desejou partir para ver o filho antes de morrer, depois de tantos anos separados.",
+        "A decisão envolvia mais do que uma visita breve. A fome continuava atingindo Canaã, e José convidara a família para morar no Egito, onde poderia sustentá-la. Jacó precisaria deixar a terra conhecida com filhos, netos, rebanhos e pertences. A alegria do reencontro esperado caminhava junto com a importância daquela mudança."
+      ],
+      "image": "57/part1.webp",
+      "alt": "Jacó escuta a notícia de seus filhos e observa os carros enviados do Egito."
+    },
+    {
+      "heading": "Coragem para uma nova viagem",
+      "paragraphs": [
+        "Jacó, também chamado Israel, partiu com tudo o que possuía. Ao chegar a Berseba, ofereceu sacrifícios ao Deus de seu pai Isaque. Naquela noite, Deus o chamou pelo nome. Jacó respondeu, e recebeu uma palavra de encorajamento: não deveria ter medo de descer ao Egito. Deus faria de sua família um grande povo.",
+        "Deus prometeu acompanhá-lo e também fazer sua descendência voltar. José estaria com ele no fim de sua vida. A viagem ao Egito não significava que a promessa feita a Abraão e Isaque havia sido esquecida. Jacó recebeu segurança para continuar, mesmo sem conhecer todos os acontecimentos que viriam nas gerações seguintes.",
+        "Os filhos levaram o pai, as mulheres e as crianças nos carros enviados pelo faraó. A família seguiu com seus animais e bens. A Bíblia registra os nomes de muitos que participaram daquela mudança. Eram pessoas com suas próprias histórias, atravessando juntas um caminho que mudaria profundamente a vida de seus descendentes."
+      ],
+      "image": "57/part2.webp",
+      "alt": "A família de Jacó viaja em carros com seus pertences e animais."
+    },
+    {
+      "heading": "Um abraço sem pressa",
+      "paragraphs": [
+        "Jacó enviou Judá à frente para encontrar José e receber orientação sobre o caminho até Gósen. Quando soube da chegada do pai, José preparou seu carro e foi ao encontro dele. O homem que tinha responsabilidades no governo do Egito era também um filho prestes a rever alguém de quem sentira muita falta.",
+        "Ao encontrar Jacó, José o abraçou e chorou por muito tempo. Não era um encontro que pudesse ser resumido a uma saudação rápida. Havia anos de distância, tristeza e saudade entre aqueles braços. O relato dá espaço às lágrimas. A emoção não diminuía a força de José nem a importância daquele momento.",
+        "Jacó disse que agora poderia morrer, pois tinha visto o rosto do filho e sabia que ele estava vivo. Ainda teria anos de convivência com a família no Egito. Naquele dia, porém, o que mais importava era a presença de José. Uma notícia quase impossível de acreditar havia se tornado um rosto conhecido e um abraço recebido."
+      ],
+      "image": "57/part3.webp",
+      "alt": "José e Jacó permanecem abraçados junto ao caminho."
+    }
+  ],
+  "lesson": "A saudade e a alegria podem aparecer juntas num reencontro. Podemos demonstrar carinho com palavras, atenção e gestos que respeitem o conforto de cada pessoa. Também é importante ter delicadeza com quem sente falta de alguém que não poderá rever. A história de Jacó nos convida a valorizar os vínculos e os momentos de presença. Escutar uma lembrança ou fazer companhia pode ser uma forma preciosa de cuidado.",
+  "question": "Quem você gostaria de procurar hoje para demonstrar carinho ou matar um pouco da saudade?",
+  "prayer": "Deus, obrigado pelos encontros e pelas pessoas que amamos. Acompanha quem está longe da família e consola quem sente saudade. Ensina-nos a valorizar a presença uns dos outros e a demonstrar carinho com respeito. Cuida de nossos caminhos e reencontros. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "José abraça seu pai Jacó depois de muitos anos de separação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph matches original story09: olive-brown skin, short dark curly hair, clean-shaven strong face, white linen Egyptian tunic, turquoise sash and broad gold collar. Jacob now very elderly, long white beard, gray-white hair, olive-gray tunic and faded blue mantle, walking staff. Scene: Joseph warmly embraces very elderly father Jacob beside arriving family caravan in Goshen, tears of joy, no crown on Joseph, Egyptian landscape."
+    },
+    {
+      "role": "part1",
+      "alt": "Jacó escuta a notícia de seus filhos e observa os carros enviados do Egito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph matches original story09: olive-brown skin, short dark curly hair, clean-shaven strong face, white linen Egyptian tunic, turquoise sash and broad gold collar. Jacob now very elderly, long white beard, gray-white hair, olive-gray tunic and faded blue mantle, walking staff. Scene: Very elderly Jacob listens in disbelief to adult sons outside Canaan tent with ox-drawn wagons behind, Joseph absent."
+    },
+    {
+      "role": "part2",
+      "alt": "A família de Jacó viaja em carros com seus pertences e animais.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph matches original story09: olive-brown skin, short dark curly hair, clean-shaven strong face, white linen Egyptian tunic, turquoise sash and broad gold collar. Jacob now very elderly, long white beard, gray-white hair, olive-gray tunic and faded blue mantle, walking staff. Scene: Wide caravan scene elderly Jacob seated safely in ox-drawn wagon with family, journey from dry hills toward green Nile region, no Joseph present."
+    },
+    {
+      "role": "part3",
+      "alt": "José e Jacó permanecem abraçados junto ao caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph matches original story09: olive-brown skin, short dark curly hair, clean-shaven strong face, white linen Egyptian tunic, turquoise sash and broad gold collar. Jacob now very elderly, long white beard, gray-white hair, olive-gray tunic and faded blue mantle, walking staff. Scene: Close emotional embrace Joseph clean-shaven in Egyptian white tunic and elderly Jacob with long white beard, family softly blurred, respectful tender faces."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+45%3A25-28&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Genesis+46-48&version=KJV"
+  ]
+}

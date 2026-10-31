@@ -1,0 +1,71 @@
+{
+  "id": 140,
+  "title": "Salomão Pede Sabedoria",
+  "subtitle": "Um coração capaz de escutar",
+  "reference": "1 Reis 3:3–15",
+  "description": "No começo de seu reinado, Salomão recebe a oportunidade de fazer um pedido. Em vez de escolher riqueza ou poder, pede discernimento para cuidar do povo.",
+  "testament": "antigo",
+  "cover": "/images/covers/140.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um rei diante de uma grande tarefa",
+      "paragraphs": [
+        "Salomão havia se tornado rei depois de Davi, seu pai. Agora precisava governar um povo numeroso, com famílias, cidades e questões que chegariam à sua presença. Uma coroa podia indicar sua posição, mas não colocava automaticamente sabedoria em suas decisões. O novo rei sabia que a responsabilidade era grande e que ainda tinha muito a aprender.",
+        "Ele foi a Gibeão para oferecer sacrifícios, conforme o culto praticado naquele tempo. Durante a noite, o Senhor lhe apareceu num sonho e disse que pedisse o que desejava receber. A oportunidade colocava diante de Salomão uma pergunta importante: o que seria mais necessário para a tarefa que tinha nas mãos?",
+        "Salomão começou lembrando a bondade de Deus para com Davi. Reconheceu que sua posição fazia parte de uma história de cuidado que não começara com ele. Antes de apresentar seu desejo, olhou para o que já havia recebido. A gratidão ajudava a colocar o pedido no lugar certo, longe da ideia de que o reino existia apenas para sua própria vantagem."
+      ],
+      "image": "140/part1.webp",
+      "alt": "Salomão observa a cidade a partir de um pátio, refletindo sobre a responsabilidade de governar."
+    },
+    {
+      "heading": "Saber ouvir e distinguir",
+      "paragraphs": [
+        "Salomão se descreveu como alguém ainda pequeno diante da missão. Não estava dizendo que era literalmente uma criança naquele momento. Expressava sua falta de experiência e o peso de conduzir o povo. Admitir isso diante de Deus era diferente de fingir segurança para impressionar os outros. Ele precisava de ajuda para governar com responsabilidade.",
+        "Seu pedido foi por um coração capaz de ouvir e julgar o povo, distinguindo o bem do mal. Queria discernimento para tomar decisões justas. Não pediu que todos concordassem com ele nem que nunca fosse questionado. Pediu a capacidade de compreender situações e responder de maneira adequada às necessidades das pessoas sob seus cuidados.",
+        "O pedido agradou ao Senhor. Salomão não havia colocado em primeiro lugar vida longa, riquezas ou a derrota de seus inimigos. Pensara no serviço que precisava realizar. Deus lhe concedeu sabedoria e entendimento, e também anunciou outros presentes que não tinham sido o centro de sua oração. A resposta valorizava a disposição de buscar o que ajudaria o povo."
+      ],
+      "image": "140/part2.webp",
+      "alt": "Salomão repousa em um quarto simples com luz suave de madrugada, numa cena tranquila sem figuras divinas."
+    },
+    {
+      "heading": "O pedido precisava virar vida",
+      "paragraphs": [
+        "Deus também falou sobre a importância de Salomão andar em seus caminhos e guardar seus mandamentos. A sabedoria recebida não eliminava sua responsabilidade de escolher. Um presente não transformava o rei em alguém incapaz de errar. Sua vida ainda precisaria mostrar se continuaria escutando e obedecendo ao longo dos anos.",
+        "Quando acordou, Salomão percebeu que havia sido um sonho. Voltou a Jerusalém, apresentou-se diante da arca da aliança e ofereceu sacrifícios de gratidão. Também preparou uma refeição para seus servos. A experiência da noite foi acompanhada de ações durante o dia, ligando o pedido feito a Deus à vida concreta da comunidade que o cercava.",
+        "A festa terminou, mas a responsabilidade de Salomão continuava. A cada dia, chegariam pessoas com perguntas, dificuldades e decisões que precisavam de justiça. O jovem rei tinha pedido um coração capaz de ouvir. Agora começava a usar a sabedoria recebida do Senhor no cuidado com o povo que havia sido colocado sob sua responsabilidade."
+      ],
+      "image": "140/part3.webp",
+      "alt": "Salomão oferece uma refeição aos servos num pátio do palácio, em um gesto de gratidão e convivência."
+    }
+  ],
+  "lesson": "Sabedoria não é saber mais respostas que todo mundo. Também é ouvir, reconhecer dúvidas e pensar nas consequências de uma escolha. Salomão pediu ajuda para cuidar do povo. Podemos pedir discernimento para decidir como tratar um colega, usar nosso tempo ou resolver uma dificuldade. Aprender com adultos confiáveis e aceitar correções faz parte desse caminho. Ninguém fica sábio de uma vez por todas; boas escolhas precisam ser cultivadas ao longo da vida.",
+  "question": "Antes de uma decisão importante, que pergunta pode ajudar você a pensar no bem das outras pessoas?",
+  "prayer": "Deus, dá-nos um coração atento para ouvir e aprender. Ajuda-nos a distinguir o que faz bem do que machuca e a considerar as pessoas em nossas decisões. Ensina-nos a pedir orientação, aceitar correções e usar nossas responsabilidades com justiça e cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Salomão ora com serenidade perto de uma janela aberta, com a cidade e seus habitantes ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curly hair short neat beard, deep blue royal robe cream undergarment simple gold circlet. Ancient Jerusalem/Gibeon setting, no visible deity, warm peaceful dream light only. Only named scene cast. Scene: Salomão ora com serenidade perto de uma janela aberta, com a cidade e seus habitantes ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Salomão observa a cidade a partir de um pátio, refletindo sobre a responsabilidade de governar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curly hair short neat beard, deep blue royal robe cream undergarment simple gold circlet. Ancient Jerusalem/Gibeon setting, no visible deity, warm peaceful dream light only. Only named scene cast. Scene: Salomão observa a cidade a partir de um pátio, refletindo sobre a responsabilidade de governar. HISTORICAL SETTING: this is the early reign BEFORE the temple was built. The distant city contains ONLY small ordinary limestone homes, market streets and city walls. NO temple or monumental religious building in view. Keep Solomon in the shaded courtyard foreground, thoughtful and attentive to his people."
+    },
+    {
+      "role": "part2",
+      "alt": "Salomão repousa em um quarto simples com luz suave de madrugada, numa cena tranquila sem figuras divinas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curly hair short neat beard, deep blue royal robe cream undergarment simple gold circlet. Ancient Jerusalem/Gibeon setting, no visible deity, warm peaceful dream light only. Only named scene cast. Scene: Salomão repousa em um quarto simples com luz suave de madrugada, numa cena tranquila sem figuras divinas. MANDATORY SCENE CAST: Only Solomon, resting peacefully alone. No other person or divine figure. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Salomão oferece uma refeição aos servos num pátio do palácio, em um gesto de gratidão e convivência.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curly hair short neat beard, deep blue royal robe cream undergarment simple gold circlet. Ancient Jerusalem/Gibeon setting, no visible deity, warm peaceful dream light only. Only named scene cast. Scene: Salomão oferece uma refeição aos servos num pátio do palácio, em um gesto de gratidão e convivência."
+    }
+  ]
+}

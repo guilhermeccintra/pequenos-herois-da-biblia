@@ -1,0 +1,74 @@
+{
+  "id": 211,
+  "title": "A Pequena Formiga e o Trabalho",
+  "subtitle": "Sabedoria encontrada bem perto do chão",
+  "reference": "Provérbios 6:6–11",
+  "description": "Uma criatura pequena oferece uma grande lição sobre atenção, preparo e disposição para começar.",
+  "testament": "antigo",
+  "cover": "/images/covers/211.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma professora bem pequena",
+      "paragraphs": [
+        "Entre os ensinamentos de Provérbios existe um convite curioso: observar uma formiga. Para aprender sabedoria, às vezes vale abaixar os olhos e prestar atenção ao que acontece perto dos nossos pés. O texto aponta para uma criatura pequena, ocupada com seu trabalho, e convida o leitor a considerar seus caminhos.",
+        "A formiga aparece como exemplo de iniciativa. O provérbio observa que ela prepara seu alimento sem precisar de alguém ao lado dando ordens a cada instante. Sua atividade desperta uma pergunta para nós: que tarefa já podemos começar depois de receber uma orientação? Há pequenos cuidados que dependem da nossa disposição.",
+        "Quem observa uma trilha de formigas percebe movimento e persistência. Cada grão parece minúsculo para uma pessoa, mas tem importância naquele trabalho. O ensinamento bíblico usa essa imagem para valorizar o preparo. Fazer um pouco no momento adequado pode ajudar quando chega uma necessidade e o tempo fica mais apertado."
+      ],
+      "image": "211/part1.webp",
+      "alt": "Uma criança observa formigas sem tocar nelas"
+    },
+    {
+      "heading": "Preparar enquanto há oportunidade",
+      "paragraphs": [
+        "O texto fala do verão e da colheita, períodos em que o alimento pode ser reunido. A formiga aproveita a oportunidade para se preparar. A imagem lembra o trabalho de guardar aquilo que será necessário depois. Sabedoria também envolve perceber o momento de agir e cuidar do que foi confiado a nós.",
+        "Podemos aplicar essa ideia a tarefas pequenas e adequadas à nossa idade. Separar o material para a escola, guardar uma roupa no lugar ou ajudar a organizar a mesa são exemplos. Cada gesto deixa algo pronto para o próximo momento. O cuidado de agora pode tornar mais tranquila a atividade que vem depois.",
+        "Às vezes, uma tarefa parece grande porque olhamos para tudo de uma vez. A imagem da formiga ajuda a pensar no primeiro passo. Podemos recolher um objeto, abrir o caderno ou pedir que alguém explique novamente. Depois do começo, fica mais fácil perceber o seguinte e continuar com atenção."
+      ],
+      "image": "211/part2.webp",
+      "alt": "Pequenos grãos são levados para perto do formigueiro"
+    },
+    {
+      "heading": "A hora de começar",
+      "paragraphs": [
+        "Provérbios também chama a atenção de quem adia suas responsabilidades repetidamente. Um pouquinho deixado para depois pode se juntar a outro pouquinho, até que a necessidade chegue sem preparo. O alerta convida a despertar a disposição e a usar bem as oportunidades que temos, com o apoio de quem nos orienta.",
+        "Uma rotina cuidadosa tem lugar para aprender, ajudar, brincar e descansar. O ensinamento da formiga nos ajuda especialmente na hora de começar o que precisa ser feito. Podemos combinar uma tarefa pequena, descobrir como realizá-la e celebrar o esforço. Assim, a responsabilidade vai crescendo com paciência e prática.",
+        "Da próxima vez que encontrar uma formiga, observe à distância, sem atrapalhar seu caminho. Lembre-se do convite antigo para aprender com algo tão pequeno. Talvez você perceba uma tarefa que já consegue iniciar hoje. Um gesto de cuidado, feito no momento certo, pode trazer alegria para você e para sua casa."
+      ],
+      "image": "211/part3.webp",
+      "alt": "Uma criança ajuda a organizar uma mesa de casa"
+    }
+  ],
+  "lesson": "A responsabilidade cresce em tarefas pequenas e possíveis. O exemplo da formiga nos convida a aproveitar o momento e começar com disposição. Você pode pedir orientação, dividir uma tarefa em passos e aprender aos poucos. Escolha um cuidado simples para praticar hoje, como guardar um material ou ajudar a preparar a mesa. Depois, reconheça com alegria o esforço que conseguiu fazer.",
+  "question": "Qual pequena tarefa você consegue começar hoje sem deixar tudo para depois?",
+  "prayer": "Senhor, obrigado pelas pequenas criaturas que despertam nossa atenção. Ajuda-me a aprender com cuidado e a começar minhas tarefas com disposição. Dá-me paciência para fazer um passo de cada vez e alegria para ajudar minha família dentro das minhas possibilidades. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PRO06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Formigas carregam pequenos grãos por uma trilha",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Natural-scale macro illustration of tiny ants carrying individual seeds along an earthy trail beside wheat stalks in ancient countryside, very detailed soil grains and golden light, warm cinematic 3D storybook style, no human clothing or faces on ants. "
+    },
+    {
+      "role": "part1",
+      "alt": "Uma criança observa formigas sem tocar nelas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew child crouching safely beside a garden path, observing a tiny ant trail with quiet wonder, hands on knees, grandmother nearby, natural scale ants and detailed grasses, no modern magnifier. "
+    },
+    {
+      "role": "part2",
+      "alt": "Pequenos grãos são levados para perto do formigueiro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close macro view of natural ants transporting small grains toward a tiny earthen nest entrance, wheat field softly blurred in background, warm sun, realistic tiny scale, no anthropomorphic faces or tools. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma criança ajuda a organizar uma mesa de casa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew child carefully setting wooden spoons and clay cups on a low family table while mother smiles nearby, simple stone home, woven basket neatly arranged, warm encouraging atmosphere. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

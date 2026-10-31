@@ -1,0 +1,74 @@
+{
+  "id": 225,
+  "title": "Ezequiel e o Vale que Ganhou Vida",
+  "subtitle": "Uma visão de esperança para o povo",
+  "reference": "Ezequiel 37:1–14",
+  "description": "Num vale silencioso, Ezequiel recebe uma visão que anuncia renovação para um povo desanimado.",
+  "testament": "antigo",
+  "cover": "/images/covers/225.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um vale muito silencioso",
+      "paragraphs": [
+        "O profeta Ezequiel vivia entre os exilados, pessoas que estavam longe de sua terra e carregavam muitas preocupações. Um dia, recebeu uma visão pelo Espírito do Senhor. Nela foi levado a um vale cheio de ossos secos. O cenário mostrava, de maneira forte, uma situação em que a esperança parecia ter desaparecido.",
+        "Ezequiel percorreu o vale e percebeu como aqueles ossos estavam secos. Então ouviu uma pergunta do Senhor: poderiam voltar a viver? O profeta respondeu reconhecendo que Deus sabia a resposta. Diante de algo que ultrapassava sua compreensão, ele permaneceu atento àquele que o havia conduzido à visão.",
+        "O silêncio do vale seria transformado pela palavra recebida. O Senhor mandou Ezequiel anunciar sua mensagem àqueles ossos: haveria restauração, e o sopro da vida entraria neles. A visão preparava o profeta para compreender uma promessa destinada a pessoas que se sentiam enfraquecidas e sem perspectiva de futuro."
+      ],
+      "image": "225/part1.webp",
+      "alt": "Ezequiel observa um vale seco e silencioso"
+    },
+    {
+      "heading": "A palavra e o sopro",
+      "paragraphs": [
+        "Ezequiel fez como havia sido orientado. Enquanto anunciava a mensagem, ouviu um ruído. Na visão, os ossos se aproximaram e se uniram. Depois foram recobertos, formando novamente corpos. O profeta observou a transformação, mas percebeu que ainda faltava algo essencial: o sopro da vida ainda não havia entrado neles.",
+        "O Senhor lhe deu outra orientação. Ezequiel deveria chamar o sopro dos quatro ventos, conforme a mensagem recebida. Ele obedeceu, e o sopro chegou. As pessoas ganharam vida e se levantaram. Diante do profeta estava agora uma multidão de pé, onde antes havia apenas um cenário de silêncio e desânimo.",
+        "A mudança era imensa. A visão passara da secura à vida, da imobilidade ao movimento. Cada etapa vinha da ação do Senhor, enquanto Ezequiel escutava e anunciava suas palavras. O que parecia encerrado se abria para uma possibilidade nova, preparada para comunicar esperança a todo um povo."
+      ],
+      "image": "225/part2.webp",
+      "alt": "Um vento atravessa o vale da visão"
+    },
+    {
+      "heading": "Esperança para Israel",
+      "paragraphs": [
+        "Deus explicou a visão ao profeta. Aqueles ossos representavam o povo de Israel, que dizia ter perdido a esperança e se sentia separado de seu futuro. O vale mostrava a profundidade desse desânimo. A vida que chegava anunciava a promessa de restauração e de retorno à terra que haviam deixado.",
+        "O Senhor afirmou que colocaria seu Espírito no povo, dando vida e conduzindo-o novamente ao seu lugar. A promessa acolhia uma comunidade ferida pelo exílio. Ezequiel recebeu uma mensagem para lembrar aos seus companheiros que Deus conhecia seu sofrimento e ainda os chamava a olhar adiante com confiança.",
+        "Essa visão pode nos acompanhar quando o desânimo parece ocupar muito espaço. Podemos apresentar nossos sentimentos a Deus, buscar companhia e receber ajuda para enxergar o próximo passo. A história de Ezequiel guarda uma imagem poderosa: onde o povo via apenas o fim de suas possibilidades, o Senhor anunciava renovação e vida."
+      ],
+      "image": "225/part3.webp",
+      "alt": "Ezequiel compartilha esperança com famílias exiladas"
+    }
+  ],
+  "lesson": "A visão de Ezequiel levou esperança a um povo que se sentia sem futuro. Podemos lembrar desse cuidado quando o desânimo chega. Converse com Deus e também com alguém de confiança sobre o que está sentindo. Receber companhia pode ajudar a perceber possibilidades que estavam difíceis de enxergar. A esperança cresce quando somos acolhidos e encontramos apoio para dar o próximo passo.",
+  "question": "Quem pode ouvir você com carinho quando estiver difícil encontrar esperança?",
+  "prayer": "Senhor, acolhe meu coração quando o desânimo chegar. Ajuda-me a conversar sobre o que sinto e a receber o cuidado de quem está perto. Renova minha esperança e ensina-me a oferecer companhia às pessoas que também precisam de apoio. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZK37.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ezequiel contempla uma multidão de pé em sua visão",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Hopeful symbolic vision of Ezekiel 37: Ezekiel standing at the edge of a broad valley as a multitude of fully clothed healthy ancient people stands peacefully in warm dawn light, no armor, no injuries, no exposed bodies, no visible deity. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Ezequiel observa um vale seco e silencioso",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Child-friendly symbolic prophetic vision: Ezekiel seen from behind overlooking a wide dry valley with a few very small smooth pale ancient bone shapes scattered far below, no skull closeups, no flesh, no blood, no horror, solemn soft dawn light. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle."
+    },
+    {
+      "role": "part2",
+      "alt": "Um vento atravessa o vale da visão",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic Ezekiel vision: warm wind moving grasses and fabric of Ezekiel blue mantle as he stands in a broad valley with open hands, distant fully clothed people beginning to stand in golden mist, no exposed anatomy or transformation detail. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Ezequiel compartilha esperança com famílias exiladas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezekiel speaking gently to ancient Judean exile families seated by a Babylonian river, elders and children listening with renewed hope, date palms and clay-brick homes, calm warm evening light, no skeletons or deity. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

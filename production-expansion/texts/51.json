@@ -1,0 +1,71 @@
+{
+  "id": 51,
+  "title": "Um Acordo Junto ao Poço",
+  "subtitle": "Conversar com verdade para viver em paz",
+  "reference": "Gênesis 21:22–34",
+  "description": "Abraão e Abimeleque desejam firmar um acordo. Antes disso, um problema envolvendo um poço precisa ser ouvido e resolvido.",
+  "testament": "antigo",
+  "cover": "/images/covers/51.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita com um pedido",
+      "paragraphs": [
+        "Abimeleque foi procurar Abraão acompanhado de Ficol, comandante de seu exército. Ele havia percebido que Deus acompanhava Abraão em tudo o que fazia. Por isso, desejava estabelecer uma relação de confiança. Pediu que Abraão assumisse um compromisso de agir com verdade, tanto com ele quanto com seus filhos e descendentes.",
+        "O pedido também lembrava a bondade que Abimeleque havia demonstrado ao permitir que Abraão vivesse em sua terra. Ele queria que essa consideração fosse correspondida. Um acordo não serviria apenas para aquele dia. Deveria orientar a convivência futura entre famílias que compartilhavam uma região e precisavam encontrar maneiras de respeitar umas às outras.",
+        "Abraão concordou em assumir o compromisso. Porém, havia uma questão que não podia ser escondida debaixo de palavras bonitas. Alguns servos de Abimeleque haviam tomado um poço de água que pertencia a Abraão. Para pessoas e rebanhos vivendo naquela região, perder o acesso ao poço era um problema sério, que precisava de solução."
+      ],
+      "image": "51/part1.webp",
+      "alt": "Abimeleque chega para conversar com Abraão, acompanhado por Ficol."
+    },
+    {
+      "heading": "O problema vem à conversa",
+      "paragraphs": [
+        "Abraão apresentou sua reclamação a Abimeleque. Falar sobre o poço não significava rejeitar a paz. Ao contrário, uma convivência justa precisava levar em conta o que havia acontecido. Se o assunto permanecesse escondido, o acordo poderia parecer bom por fora, enquanto uma dificuldade importante continuaria machucando a relação entre os dois grupos.",
+        "Abimeleque respondeu que não sabia quem havia feito aquilo. Disse que Abraão não o tinha informado e que só naquele momento estava ouvindo a notícia. A conversa permitiu que um problema concreto fosse colocado diante de quem podia participar da solução. Havia diferença entre discutir para ferir e falar com clareza para corrigir uma injustiça.",
+        "Abraão tomou ovelhas e bois e os entregou a Abimeleque, e os dois fizeram um acordo. Depois, separou sete cordeiras do rebanho. Abimeleque percebeu aquele gesto e perguntou o que significavam os animais colocados à parte. A resposta de Abraão esclareceria o lugar do poço dentro do compromisso que estavam assumindo."
+      ],
+      "image": "51/part2.webp",
+      "alt": "Abraão aponta o poço durante uma conversa tranquila."
+    },
+    {
+      "heading": "Um nome para recordar o acordo",
+      "paragraphs": [
+        "As sete cordeiras seriam um testemunho de que Abraão havia cavado aquele poço. Ao recebê-las, Abimeleque reconheceria esse fato. Não era apenas uma conversa vaga sobre amizade. Havia uma questão identificada, uma explicação e um sinal que ajudaria a guardar na memória o entendimento alcançado entre eles naquele lugar.",
+        "O local recebeu o nome de Berseba, ligado ao juramento feito ali. O nome conservaria a lembrança daquele encontro e do acordo. Depois, Abimeleque e Ficol voltaram para sua terra. A visita terminava sem uma batalha pelo poço. O diálogo havia permitido tratar da verdade e estabelecer uma forma de convivência.",
+        "Abraão plantou uma árvore em Berseba e invocou o nome do Senhor, o Deus eterno. Continuou vivendo por muito tempo naquela região. O poço e o nome do lugar lembravam que a paz precisa de cuidado. Às vezes, esse cuidado começa quando alguém tem coragem de dizer o que está errado e disposição para ouvir uma resposta."
+      ],
+      "image": "51/part3.webp",
+      "alt": "Abraão cuida de uma árvore jovem perto do poço."
+    }
+  ],
+  "lesson": "Um acordo justo precisa de palavras verdadeiras. Se um objeto foi tomado ou uma combinação não foi respeitada, podemos explicar o problema com calma e pedir ajuda para resolvê-lo. Fazer as pazes não exige fingir que nada aconteceu. Também precisamos escutar a outra pessoa e confirmar o que ficou combinado. Assim, a confiança pode ser construída com atitudes claras, e não apenas com promessas apressadas.",
+  "question": "Existe alguma combinação que você precisa conversar melhor para que todos a entendam?",
+  "prayer": "Deus, ajuda-nos a falar com verdade e a ouvir com atenção. Dá-nos coragem para pedir justiça sem humilhar ninguém. Ensina-nos a cumprir nossos acordos e a corrigir nossos erros. Que nossa convivência seja cuidada com respeito, clareza e paz. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abraão e Abimeleque conversam junto a um poço, com cordeiras por perto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham elderly olive-skinned white beard cream robe terracotta mantle. Abimelech mature brown-skinned man with neatly trimmed dark beard graying temples, indigo robe, modest bronze headband. Phicol older gray-bearded man in ochre tunic. Scene: Abraham and mature King Abimelech calmly agree beside ancient stone well with seven small lambs grouped nearby, warm desert setting."
+    },
+    {
+      "role": "part1",
+      "alt": "Abimeleque chega para conversar com Abraão, acompanhado por Ficol.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham elderly olive-skinned white beard cream robe terracotta mantle. Abimelech mature brown-skinned man with neatly trimmed dark beard graying temples, indigo robe, modest bronze headband. Phicol older gray-bearded man in ochre tunic. Scene: Exactly three adult men: Abraham receives mature Abimelech and older commander Phicol beside tent, no weapons emphasized, respectful meeting."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão aponta o poço durante uma conversa tranquila.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham elderly olive-skinned white beard cream robe terracotta mantle. Abimelech mature brown-skinned man with neatly trimmed dark beard graying temples, indigo robe, modest bronze headband. Phicol older gray-bearded man in ochre tunic. Scene: Abraham gestures toward well while Abimelech listens thoughtfully, medium shot with water visible, no crowd or confrontation."
+    },
+    {
+      "role": "part3",
+      "alt": "Abraão cuida de uma árvore jovem perto do poço.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham elderly olive-skinned white beard cream robe terracotta mantle. Abimelech mature brown-skinned man with neatly trimmed dark beard graying temples, indigo robe, modest bronze headband. Phicol older gray-bearded man in ochre tunic. Scene: Abraham alone beside a young tamarisk tree and modest well at sunset, peaceful prayerful pause, no other characters."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+21&version=KJV"
+  ]
+}

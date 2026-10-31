@@ -1,0 +1,71 @@
+{
+  "id": 323,
+  "title": "Paulo e Barnabé em Listra",
+  "subtitle": "O bem aponta para Deus",
+  "reference": "Atos 14:8–20",
+  "description": "Um homem é curado em Listra, e a multidão entende o acontecimento de um jeito errado. Paulo e Barnabé precisam explicar que são pessoas comuns a serviço do Deus vivo.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um homem que escutava",
+      "paragraphs": [
+        "Em Listra, havia um homem que não conseguia andar desde o nascimento. Ele estava sentado e ouvia Paulo falar. O apóstolo olhou atentamente para ele e percebeu sua fé para receber a cura. Pediu em voz alta que se levantasse. O homem se pôs de pé de um salto e começou a andar.",
+        "A multidão viu o que Paulo fizera e começou a falar em sua própria língua, a língua da região. Pensaram que os deuses tinham descido até eles em forma humana. Chamaram Barnabé de Zeus e Paulo de Hermes, porque Paulo era quem mais falava. A alegria pelo sinal se misturou a uma interpretação que os missionários não pretendiam ensinar.",
+        "O sacerdote do templo de Zeus, que ficava perto da cidade, trouxe bois e grinaldas para oferecer sacrifícios com a multidão. As pessoas se preparavam para homenagear Paulo e Barnabé como deuses. O acontecimento mostrava como era importante explicar a mensagem com clareza. Um sinal extraordinário podia ser entendido de maneira muito diferente por seus observadores."
+      ],
+      "image": "323/part1.webp",
+      "alt": "Paulo conversa com um homem adulto sentado junto a uma praça de Listra, enquanto Barnabé acompanha a cena com atenção."
+    },
+    {
+      "heading": "Também somos pessoas",
+      "paragraphs": [
+        "Quando compreenderam o que estava acontecendo, Paulo e Barnabé rasgaram suas roupas em sinal de profunda aflição e correram para o meio da multidão. Pediram que parassem. Explicaram que também eram seres humanos, sujeitos às mesmas limitações que todos. Não tinham vindo receber adoração nem ocupar o lugar de Deus na vida daquelas pessoas.",
+        "Eles anunciavam a boa notícia para que os ouvintes se voltassem ao Deus vivo, Criador do céu, da terra, do mar e de tudo o que existe. Paulo lembrou os sinais do cuidado de Deus na criação: a chuva, as colheitas, o alimento e a alegria. Sua explicação partia de presentes que os moradores podiam reconhecer na própria vida.",
+        "Mesmo dizendo essas coisas, tiveram dificuldade para impedir a multidão de oferecer sacrifícios. As pessoas estavam muito envolvidas em sua primeira interpretação. Paulo e Barnabé, porém, não aproveitaram a confusão para ganhar importância. A fidelidade à mensagem exigia recusar uma homenagem que parecia grande, mas conduzia os ouvintes para longe da verdade."
+      ],
+      "image": "323/part2.webp",
+      "alt": "Paulo e Barnabé explicam à multidão que são pessoas comuns, com mãos abertas e expressão séria, sem armas ou animais ameaçados."
+    },
+    {
+      "heading": "Uma mudança dolorosa",
+      "paragraphs": [
+        "Depois, chegaram opositores vindos de Antioquia e Icônio. Eles convenceram a multidão a se voltar contra Paulo. O apóstolo foi atacado e arrastado para fora da cidade, pois pensavam que estivesse morto. A mudança foi terrível: a mesma cidade onde recebera uma homenagem exagerada agora se tornava um lugar de grande sofrimento para ele.",
+        "Quando os discípulos se reuniram ao redor dele, Paulo se levantou e voltou à cidade. No dia seguinte, partiu com Barnabé para Derbe. Sua missão continuaria, mas o sofrimento daquele dia não precisava ser negado. Os amigos estavam presentes, e a saída para outra cidade fazia parte do cuidado com a vida diante da oposição.",
+        "Listra havia recebido uma cura e uma explicação sobre o Deus vivo. Também mostrara como uma multidão pode mudar rapidamente quando deixa de pensar com atenção. Paulo e Barnabé permaneceram pessoas comuns, dependentes de Deus e de seus companheiros. Sua tarefa era anunciar Jesus com verdade, tanto diante de elogios exagerados quanto diante de uma rejeição dolorosa."
+      ],
+      "image": "323/part3.webp",
+      "alt": "Paulo e Barnabé caminham com amigos para fora de Listra ao amanhecer, em segurança, sem ferimentos gráficos."
+    }
+  ],
+  "lesson": "Receber um elogio pode ser bom, mas não precisamos aceitar uma ideia falsa sobre nós para parecer importantes. Podemos agradecer e reconhecer a ajuda que recebemos. A história também ensina a não seguir uma multidão sem pensar. Se um grupo começa a humilhar ou machucar alguém, não participe. Afaste-se do perigo e procure um adulto responsável. Fazer o bem inclui defender a verdade e cuidar da segurança das pessoas.",
+  "question": "O que você pode fazer quando um grupo começa a tratar alguém de um jeito injusto?",
+  "prayer": "Deus vivo, obrigado pelo alimento, pela chuva e por tantos sinais de cuidado. Ajuda-nos a receber elogios com humildade e a dizer a verdade. Dá-nos coragem para rejeitar a violência e procurar ajuda quando alguém estiver sendo tratado injustamente. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/323.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.14"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Paulo e Barnabé fazem gestos respeitosos para interromper uma homenagem exagerada em Listra, com moradores segurando grinaldas, sem sacrifício ou violência.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo e Barnabé fazem gestos respeitosos para interromper uma homenagem exagerada em Listra, com moradores segurando grinaldas, sem sacrifício ou violência."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo conversa com um homem adulto sentado junto a uma praça de Listra, enquanto Barnabé acompanha a cena com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo conversa com um homem adulto sentado junto a uma praça de Listra, enquanto Barnabé acompanha a cena com atenção."
+    },
+    {
+      "role": "part2",
+      "alt": "Paulo e Barnabé explicam à multidão que são pessoas comuns, com mãos abertas e expressão séria, sem armas ou animais ameaçados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo e Barnabé explicam à multidão que são pessoas comuns, com mãos abertas e expressão séria, sem armas ou animais ameaçados."
+    },
+    {
+      "role": "part3",
+      "alt": "Paulo e Barnabé caminham com amigos para fora de Listra ao amanhecer, em segurança, sem ferimentos gráficos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo e Barnabé caminham com amigos para fora de Listra ao amanhecer, em segurança, sem ferimentos gráficos."
+    }
+  ]
+}

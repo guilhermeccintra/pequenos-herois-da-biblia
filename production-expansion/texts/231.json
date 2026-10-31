@@ -1,0 +1,74 @@
+{
+  "id": 231,
+  "title": "Joel e a Promessa do Espírito",
+  "subtitle": "Esperança para todas as gerações",
+  "reference": "Joel 2:21–32",
+  "description": "Depois de anunciar renovação para a terra, Joel apresenta uma promessa que alcança jovens, idosos, homens e mulheres.",
+  "testament": "antigo",
+  "cover": "/images/covers/231.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A terra pode voltar a florescer",
+      "paragraphs": [
+        "O livro de Joel fala de um tempo de grande sofrimento, em que a terra e suas colheitas haviam sido atingidas. O profeta chamou o povo a voltar ao Senhor de todo o coração. Em meio à preocupação, sua mensagem apresentou também a misericórdia de Deus e a esperança de renovação.",
+        "Joel dirigiu um convite de alegria à própria terra. Falou aos animais do campo, lembrando as pastagens que voltariam a crescer, e anunciou árvores carregadas de fruto. A figueira e a videira apareceram como sinais de vida. Depois da paisagem de perda, o povo era chamado a imaginar uma colheita novamente possível.",
+        "A chuva teria um lugar nessa renovação. Os campos receberiam água, e as eiras voltariam a reunir trigo. As pessoas poderiam comer e agradecer ao Senhor pelo cuidado recebido. A mensagem tocava necessidades muito concretas: alimento para as famílias, trabalho para as mãos e esperança para quem havia atravessado dias difíceis."
+      ],
+      "image": "231/part1.webp",
+      "alt": "Chuva suave renova os campos e as árvores"
+    },
+    {
+      "heading": "Uma promessa que alcança todos",
+      "paragraphs": [
+        "Depois de falar da restauração da terra, Joel anunciou outra promessa: Deus derramaria seu Espírito sobre as pessoas. Filhos e filhas profetizariam; idosos teriam sonhos e jovens receberiam visões. A mensagem abria um horizonte amplo, em que diferentes gerações participariam daquilo que o Senhor desejava realizar entre seu povo.",
+        "A promessa incluía também servos e servas. Pessoas que talvez recebessem pouca atenção na sociedade eram lembradas diante de Deus. O Espírito seria derramado sobre elas igualmente. A lista do profeta reunia homens e mulheres, jovens e idosos, mostrando uma comunidade alcançada pelo cuidado do Senhor em sua diversidade.",
+        "Podemos perceber a beleza dessa imagem: a experiência dos mais velhos encontra a energia dos jovens; as vozes de filhos e filhas recebem lugar. Cada pessoa pode escutar e participar com respeito. A esperança anunciada por Joel envolve uma relação viva com Deus e uma comunidade que aprende a reconhecer suas diferentes vozes."
+      ],
+      "image": "231/part2.webp",
+      "alt": "Jovens e idosos escutam juntos uma mensagem"
+    },
+    {
+      "heading": "Chamar pelo nome do Senhor",
+      "paragraphs": [
+        "O anúncio também fala de sinais grandiosos no céu e na terra, ligados ao dia do Senhor. São imagens proféticas que expressam a seriedade daquele encontro. No meio delas, permanece uma promessa acolhedora: quem chamar pelo nome do Senhor encontrará salvação. A mensagem convida o povo a voltar sua confiança para Deus.",
+        "Chamar pelo Senhor é dirigir a ele a vida, com suas necessidades e sua esperança. A oração pode reunir agradecimento pela terra renovada e pedido de um coração disposto a ouvir. Joel aproxima o cuidado com o alimento da promessa do Espírito, lembrando que o amor de Deus alcança toda a existência.",
+        "Podemos guardar desse anúncio a alegria de uma comunidade em que ninguém é esquecido por causa da idade ou da posição que ocupa. Todos merecem respeito, escuta e cuidado. Ao orar, agradecer e acolher as pessoas, aprendemos a responder ao Senhor que chama seu povo a uma vida renovada e cheia de esperança."
+      ],
+      "image": "231/part3.webp",
+      "alt": "Famílias agradecem pela colheita e pelo cuidado"
+    }
+  ],
+  "lesson": "A promessa anunciada por Joel inclui pessoas de diferentes idades e condições. Isso nos ajuda a reconhecer o valor de cada voz na comunidade. Podemos aprender com os mais velhos, escutar os mais novos e tratar todos com respeito. Hoje, preste atenção em alguém que costuma ser pouco ouvido. Acolher sua presença pode ser uma maneira bonita de responder ao cuidado de Deus.",
+  "question": "Quem você pode escutar com mais atenção hoje, mesmo sendo diferente de você?",
+  "prayer": "Senhor, obrigado por teu cuidado com pessoas de todas as idades. Enche meu coração de atenção e respeito. Ensina-me a escutar, aprender e participar com amor. Que nossa família e nossa comunidade acolham cada pessoa com alegria e esperança. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JOL02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Joel anuncia esperança a pessoas de todas as idades",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Joel speaking warmly to an ancient Hebrew community of elders, adult women and men, young people and children beneath a fig tree, equal attentive presence, renewed green fields beyond, golden hopeful light, no visible deity. Joel is a middle-aged olive-skinned Hebrew prophet with curly dark hair, thick beard, cream tunic and warm rust mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Chuva suave renova os campos e as árvores",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic prophetic landscape of gentle rain nourishing ancient Judean fields, fig tree with fresh leaves and vines bearing fruit, sheep grazing on renewed grass, sun breaking through clouds, no people. "
+    },
+    {
+      "role": "part2",
+      "alt": "Jovens e idosos escutam juntos uma mensagem",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew community gathered in a courtyard, elderly woman, elderly man, young women and men, modest workers and children listening together with hopeful expressions, no social hierarchy in framing, warm natural light. "
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias agradecem pela colheita e pelo cuidado",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Hebrew families sharing a meal near baskets of grain and fruit after harvest, elders and children together, grateful smiles and quiet prayer, warm sunset, woven linen and pottery details, no supernatural symbols. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

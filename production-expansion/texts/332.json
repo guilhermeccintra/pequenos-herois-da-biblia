@@ -1,0 +1,71 @@
+{
+  "id": 332,
+  "title": "Êutico e o Abraço de Esperança",
+  "subtitle": "Uma noite de susto e consolo",
+  "reference": "Atos 20:7–12",
+  "description": "Durante uma reunião em Trôade, Êutico sofre uma queda e a comunidade recebe um grande consolo.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma despedida que atravessou a noite",
+      "paragraphs": [
+        "Paulo estava em Trôade e se preparava para partir no dia seguinte. No primeiro dia da semana, os discípulos se reuniram para partir o pão. Era uma oportunidade de estar juntos e ouvir seus ensinamentos antes da despedida. Havia muita coisa a compartilhar, e a conversa se prolongou até tarde.",
+        "A reunião acontecia numa sala do terceiro andar, iluminada por várias lamparinas. Entre os presentes estava um jovem chamado Êutico, sentado junto a uma janela. O tempo passou, Paulo continuou falando, e o sono foi ficando cada vez mais forte. A atenção de Êutico não conseguiu vencer o cansaço do corpo.",
+        "A Bíblia conta esse detalhe de modo simples, sem transformar o jovem numa pessoa má por ter adormecido. Todos conhecemos o peso de pálpebras cansadas depois de um dia longo. Entretanto, o lugar onde Êutico estava sentado tornava aquela situação perigosa. O que começou como uma reunião de despedida seria interrompido por um grande susto."
+      ],
+      "image": "332/part1.webp",
+      "alt": "Paulo fala a adultos reunidos em uma sala antiga com várias lamparinas; Êutico está sentado em um banco no interior, perto de uma janela, ainda desperto; composição sem risco iminente."
+    },
+    {
+      "heading": "A comunidade se move para cuidar",
+      "paragraphs": [
+        "Êutico caiu da janela do terceiro andar. Quando as pessoas chegaram até ele, foi recolhido sem vida. A alegria da reunião deu lugar ao susto e à tristeza. Aquele jovem estava entre eles havia pouco, ouvindo a mensagem, e agora todos se viam diante de uma perda dolorosa. Paulo também desceu para estar perto dele.",
+        "Paulo desceu até o jovem, inclinou-se sobre ele e o abraçou. Então disse aos que estavam ali que não se desesperassem, porque havia vida nele. Aquele momento de perda se transformou num sinal extraordinário de esperança. Êutico voltou vivo ao convívio das pessoas que, pouco antes, tinham se assustado tanto com sua queda.",
+        "A mudança foi extraordinária. Quem tinha descido tomado de tristeza agora podia ouvir uma notícia de vida. Não era uma distração que o grupo pudesse simplesmente ignorar, nem uma pessoa que ficaria esquecida enquanto a reunião continuava. O cuidado com Êutico reuniu os amigos ao seu redor e mudou o sentido daquela longa noite."
+      ],
+      "image": "332/part2.webp",
+      "alt": "Paulo abraça Êutico já desperto e sentado em segurança no pátio térreo, com dois adultos aliviados ao lado; nenhum ferimento, queda ou corpo sem vida."
+    },
+    {
+      "heading": "O pão, a conversa e a alegria",
+      "paragraphs": [
+        "Depois disso, Paulo voltou à sala, partiu o pão e comeu. A conversa continuou até o amanhecer, quando chegou a hora da partida. A noite havia reunido ensino, despedida, medo e alívio. O relato não apaga nenhum desses momentos, mas termina destacando que a comunidade recebeu o jovem vivo e ficou profundamente consolada.",
+        "Êutico não é lembrado por um grande discurso ou por uma viagem distante. Seu nome aparece porque sua vida importava. A reunião inteira foi atravessada pelo que lhe aconteceu. Não havia um ensinamento tão urgente que tornasse aquele jovem dispensável. Paulo desceu, aproximou-se e esteve com ele no momento em que precisava de cuidado.",
+        "Ao ler essa história, podemos lembrar das pessoas que ficam cansadas, distraídas ou precisam de ajuda perto de nós. Elas não atrapalham o valor de uma comunidade; fazem parte dela. O consolo daquela manhã nasceu de uma vida recebida de volta. A partida de Paulo seguiu seu caminho, mas os amigos de Trôade permaneceram cheios de alívio."
+      ],
+      "image": "332/part3.webp",
+      "alt": "Êutico compartilha pão com amigos ao amanhecer em uma sala de Trôade, com Paulo ao fundo preparando sua bolsa de viagem; alegria serena e acolhimento."
+    }
+  ],
+  "lesson": "A vida de cada pessoa importa mais do que manter uma atividade sem interrupção. Ao perceber alguém cansado, machucado ou em perigo, podemos chamar ajuda e prestar atenção às suas necessidades. Êutico foi acolhido com alegria, não humilhado por ter adormecido. A história também nos lembra de cuidar da segurança: lugares altos pedem proteção, e acidentes exigem socorro. Respeitar nossos limites é uma maneira de valorizar a vida.",
+  "question": "Que cuidado ajuda a tornar o lugar onde você brinca ou participa de reuniões mais seguro?",
+  "prayer": "Deus da vida, obrigado por cada pessoa da nossa comunidade. Dá-nos atenção para perceber quem precisa de cuidado e sabedoria para buscar ajuda. Consola os que passam por sustos e tristezas. Ensina-nos a proteger a vida com carinho, responsabilidade e esperança. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/332.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.20"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Êutico, jovem adulto de cabelos castanhos curtos e túnica verde, está vivo e sentado com segurança entre amigos aliviados numa sala iluminada por lamparinas; Paulo sorri ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Eutychus is a young adult man, age 18, short chestnut hair, clean-shaven face, simple green tunic and tan sash.  Scene: Êutico, jovem adulto de cabelos castanhos curtos e túnica verde, está vivo e sentado com segurança entre amigos aliviados numa sala iluminada por lamparinas; Paulo sorri ao lado."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo fala a adultos reunidos em uma sala antiga com várias lamparinas; Êutico está sentado em um banco no interior, perto de uma janela, ainda desperto; composição sem risco iminente.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Eutychus is a young adult man, age 18, short chestnut hair, clean-shaven face, simple green tunic and tan sash.  Scene: Paulo fala a adultos reunidos em uma sala antiga com várias lamparinas; Êutico está sentado em um banco no interior, perto de uma janela, ainda desperto; composição sem risco iminente."
+    },
+    {
+      "role": "part2",
+      "alt": "Paulo abraça Êutico já desperto e sentado em segurança no pátio térreo, com dois adultos aliviados ao lado; nenhum ferimento, queda ou corpo sem vida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Eutychus is a young adult man, age 18, short chestnut hair, clean-shaven face, simple green tunic and tan sash.  Scene: Paulo abraça Êutico já desperto e sentado em segurança no pátio térreo, com dois adultos aliviados ao lado; nenhum ferimento, queda ou corpo sem vida."
+    },
+    {
+      "role": "part3",
+      "alt": "Êutico compartilha pão com amigos ao amanhecer em uma sala de Trôade, com Paulo ao fundo preparando sua bolsa de viagem; alegria serena e acolhimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Eutychus is a young adult man, age 18, short chestnut hair, clean-shaven face, simple green tunic and tan sash.  Scene: Êutico compartilha pão com amigos ao amanhecer em uma sala de Trôade, com Paulo ao fundo preparando sua bolsa de viagem; alegria serena e acolhimento."
+    }
+  ]
+}

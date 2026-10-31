@@ -1,0 +1,71 @@
+{
+  "id": 165,
+  "title": "Joás Conserta o Templo",
+  "subtitle": "Cuidar também exige organização",
+  "reference": "2 Reis 12:1–16",
+  "description": "O templo precisa de reparos, mas o trabalho demora a começar. Joás e Joiada organizam a arrecadação e entregam os recursos a pessoas responsáveis pela obra.",
+  "testament": "antigo",
+  "cover": "/images/covers/165.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar que precisava de cuidado",
+      "paragraphs": [
+        "Joás começou a reinar ainda menino, com sete anos. Durante o tempo em que foi orientado pelo sacerdote Joiada, procurou fazer o que era certo diante do Senhor. Os anos passaram, e o templo construído muito antes por Salomão precisava de reparos. Paredes e outras partes do edifício mostravam que cuidar de um lugar não termina no dia em que ele fica pronto.",
+        "O rei falou aos sacerdotes sobre os recursos recebidos para o culto. Deveriam usá-los para consertar os estragos encontrados na casa. A intenção parecia clara, mas o trabalho não avançou como era necessário. Mesmo depois de muito tempo, os reparos ainda não tinham sido feitos. Uma orientação boa no papel não estava produzindo o resultado esperado.",
+        "No vigésimo terceiro ano de seu reinado, Joás chamou Joiada e os outros sacerdotes para perguntar por que a obra não acontecia. Era preciso rever a organização. O problema não seria resolvido apenas repetindo que o templo era importante. Havia recursos, tarefas e responsabilidades que precisavam encontrar um caminho mais claro até o trabalho concreto."
+      ],
+      "image": "165/part1.webp",
+      "alt": "Joás conversa com Joiada diante de uma parede que precisa de reparo, avaliando a necessidade da obra."
+    },
+    {
+      "heading": "Uma caixa com uma abertura",
+      "paragraphs": [
+        "Joiada tomou uma caixa, fez uma abertura na tampa e a colocou junto ao altar, perto da entrada da casa do Senhor. Os sacerdotes que guardavam a porta depositavam ali o dinheiro trazido pelo povo. A caixa criava uma forma definida de reunir os recursos destinados ao cuidado da construção.",
+        "Quando viam que havia bastante dinheiro, o secretário do rei e o sumo sacerdote vinham, contavam e organizavam a quantia. Depois a entregavam aos responsáveis pela obra. O processo não dependia de uma promessa vaga de que alguém resolveria tudo mais tarde. Havia pessoas encarregadas de receber, conferir e encaminhar o que fora oferecido.",
+        "Os responsáveis pagavam carpinteiros, construtores, pedreiros e cortadores de pedra. Compravam também madeira e pedras necessárias aos reparos. Cada valor tinha um destino ligado à necessidade do edifício. A contribuição do povo se transformava em trabalho, materiais e melhorias que podiam ser vistas. A generosidade precisava dessa organização para alcançar o propósito anunciado."
+      ],
+      "image": "165/part2.webp",
+      "alt": "Pessoas depositam suas contribuições numa caixa de madeira com abertura na tampa, perto da entrada do templo."
+    },
+    {
+      "heading": "Trabalho feito com fidelidade",
+      "paragraphs": [
+        "Durante os reparos, o dinheiro não foi usado para fabricar novos objetos de ouro e prata para o templo. A prioridade era consertar a casa. Um lugar pode ter utensílios bonitos e, ainda assim, precisar primeiro de estrutura segura. O relato mostra a importância de direcionar os recursos para a necessidade real, em vez de escolher apenas aquilo que chama mais atenção.",
+        "A Bíblia destaca que os homens encarregados do trabalho agiam com fidelidade. Eram pessoas em quem se podia confiar para aplicar o dinheiro na obra. As ofertas chegavam às mãos de quem comprava materiais e pagava os trabalhadores. Enquanto pedras e madeira encontravam seu lugar, a dedicação de cada pessoa ajudava a recuperar a casa do Senhor.",
+        "O projeto de reparo avançou quando houve uma mudança concreta na maneira de conduzi-lo. Joás e Joiada não precisaram fingir que tudo funcionava bem desde o começo. Perceberam a demora e reorganizaram o caminho. Cuidar de uma comunidade também exige essa humildade: reconhecer quando um plano não está dando resultado e procurar um modo mais responsável de realizar o que foi combinado."
+      ],
+      "image": "165/part3.webp",
+      "alt": "Carpinteiros e pedreiros adultos trabalham nos reparos, enquanto responsáveis conferem materiais numa mesa."
+    }
+  ],
+  "lesson": "Boas intenções precisam de organização. Num trabalho em grupo, ajuda definir quem faz cada tarefa, quais materiais são necessários e como conferir o resultado. Joás percebeu que os reparos não avançavam e mudou a forma de conduzi-los. Podemos aprender a cuidar do que é compartilhado, usar recursos para o propósito combinado e falar com honestidade quando algo não está funcionando. Revisar um plano pode ser uma atitude de responsabilidade, não de fracasso.",
+  "question": "Que combinado simples pode ajudar seu grupo a terminar melhor uma tarefa que está atrasada?",
+  "prayer": "Deus, ensina-nos a cuidar com responsabilidade do que recebemos e do que compartilhamos. Ajuda-nos a organizar tarefas, agir com honestidade e reconhecer quando precisamos mudar um plano. Que nosso trabalho respeite as pessoas e transforme boas intenções em cuidado concreto. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Joás e Joiada observam trabalhadores consertando o templo, com materiais organizados e espaço seguro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joash adult olive-skinned king dark hair short beard deep blue robe simple circlet; Jehoiada elderly white beard cream priest robe; adult carpenters masons in earth linen. Temple repair site safe organized, wooden donation chest with small slot. Only named scene cast. Scene: Joás e Joiada observam trabalhadores consertando o templo, com materiais organizados e espaço seguro."
+    },
+    {
+      "role": "part1",
+      "alt": "Joás conversa com Joiada diante de uma parede que precisa de reparo, avaliando a necessidade da obra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joash adult olive-skinned king dark hair short beard deep blue robe simple circlet; Jehoiada elderly white beard cream priest robe; adult carpenters masons in earth linen. Temple repair site safe organized, wooden donation chest with small slot. Only named scene cast. Scene: Joás conversa com Joiada diante de uma parede que precisa de reparo, avaliando a necessidade da obra."
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas depositam suas contribuições numa caixa de madeira com abertura na tampa, perto da entrada do templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joash adult olive-skinned king dark hair short beard deep blue robe simple circlet; Jehoiada elderly white beard cream priest robe; adult carpenters masons in earth linen. Temple repair site safe organized, wooden donation chest with small slot. Only named scene cast. Scene: Pessoas depositam suas contribuições numa caixa de madeira com abertura na tampa, perto da entrada do templo."
+    },
+    {
+      "role": "part3",
+      "alt": "Carpinteiros e pedreiros adultos trabalham nos reparos, enquanto responsáveis conferem materiais numa mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joash adult olive-skinned king dark hair short beard deep blue robe simple circlet; Jehoiada elderly white beard cream priest robe; adult carpenters masons in earth linen. Temple repair site safe organized, wooden donation chest with small slot. Only named scene cast. Scene: Carpinteiros e pedreiros adultos trabalham nos reparos, enquanto responsáveis conferem materiais numa mesa."
+    }
+  ]
+}

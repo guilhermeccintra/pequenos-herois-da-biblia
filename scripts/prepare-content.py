@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert only the 40 approved stories and their 160 explicitly named PNGs.
+"""Convert an explicitly sized collection of approved stories and their named PNGs.
 
 Requires Python 3.10+ and Pillow. No narrative editing or image generation.
 """
@@ -45,10 +45,11 @@ def webp(source, destination, width, quality):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--source', type=Path, default=ROOT.parent / 'production', help='Pasta com texts/ e art/.')
+    parser.add_argument('--count', type=int, default=365, choices=(40, 365), help='365 para o acervo ampliado; 40 apenas para reconstruir a edição original.')
     args = parser.parse_args()
     # Validate every expected input before producing any output; never glob draft images.
     sources = []
-    for identifier in range(1, 41):
+    for identifier in range(1, args.count + 1):
         code = f'{identifier:02d}'
         path = args.source / 'texts' / f'{code}.json'
         story = json.loads(path.read_text(encoding='utf-8'))
@@ -66,7 +67,10 @@ def main():
         identifier, code = source['id'], f"{source['id']:02d}"
         art = {item['role']: item for item in source['art']}
         story = {key: source[key] for key in ('id', 'title', 'subtitle', 'reference', 'description')}
-        story.update(testament='antigo' if identifier <= 20 else 'novo',
+        testament = source.get('testament') or ('antigo' if identifier <= 20 else 'novo' if identifier <= 40 else None)
+        if testament not in ('antigo', 'novo'):
+            raise ValueError(f'História {code}: informe explicitamente o testamento.')
+        story.update(testament=testament,
                      cover=f'/images/covers/{code}.webp', duration='4–7 min')
         story['parts'] = [dict(heading=part['heading'], paragraphs=part['paragraphs'],
                                image=f'{code}/part{number}.webp', alt=art[f'part{number}']['alt'])
@@ -83,7 +87,7 @@ def main():
                            'cover_alt': art['cover']['alt'], 'sources': source.get('sources', [])})
         cover = args.source / 'art' / f'{code}_cover.png'
         webp(cover, ROOT / 'public/images/covers' / f'{code}.webp', 640, 75)
-        # A private cover accompanies each story for the 160-object initial import.
+        # A private cover accompanies each story for the content import.
         (ROOT / 'assets-private' / code).mkdir(parents=True, exist_ok=True)
         (ROOT / 'assets-private' / code / 'cover.webp').write_bytes((ROOT / 'public/images/covers' / f'{code}.webp').read_bytes())
         for part in range(1, 4):
@@ -110,7 +114,7 @@ def main():
     write_json(ROOT / 'content/source-manifest.json', provenance)
     write_json(ROOT / 'public/catalog.json', catalog)
     write_json(ROOT / 'public/sample.json', sample)
-    print('40 histórias preservadas; 160 imagens privadas e 46 imagens públicas otimizadas.')
+    print(f'{args.count} histórias preservadas; {args.count * 4} imagens privadas e {args.count + 6} imagens públicas otimizadas.')
 
 
 if __name__ == '__main__':

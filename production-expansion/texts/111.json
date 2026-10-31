@@ -1,0 +1,71 @@
+{
+  "id": 111,
+  "title": "Calebe Pede a Montanha",
+  "subtitle": "Uma promessa lembrada por muitos anos",
+  "reference": "Josué 14:6–15",
+  "description": "Aos oitenta e cinco anos, Calebe se apresenta a Josué com a lembrança de uma promessa. Sua confiança mostra que cada fase da vida pode ter uma tarefa importante.",
+  "testament": "antigo",
+  "cover": "/images/covers/111.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma lembrança antiga",
+      "paragraphs": [
+        "Calebe se aproximou de Josué acompanhado por homens da tribo de Judá. O povo estava recebendo suas terras, e ele tinha algo importante para recordar. Muitos anos antes, Moisés o enviara para conhecer aquela região com outros mensageiros. Na época, Calebe tinha quarenta anos. Agora era um homem idoso, mas não havia esquecido o que vivera.",
+        "Ele e Josué tinham participado da mesma missão. Haviam visto a terra e ouvido as notícias que assustaram o povo. Calebe, porém, voltara com um relato sincero, mantendo sua confiança em Deus. Enquanto outros fizeram o coração dos israelitas desanimar, ele insistiu que poderiam seguir a orientação recebida. Sua confiança não dependia de fingir que não existiam dificuldades.",
+        "Moisés havia feito uma promessa a Calebe: a terra que seus pés haviam percorrido seria herança para ele e seus descendentes, porque seguira o Senhor com fidelidade. Desde então, muita coisa acontecera. A viagem pelo deserto se prolongara, uma geração passara, e Calebe continuara esperando. Agora, diante de Josué, aquela palavra antiga voltava a ser lembrada."
+      ],
+      "image": "111/part1.webp",
+      "alt": "Calebe se aproxima de Josué acompanhado por alguns homens de Judá no acampamento."
+    },
+    {
+      "heading": "O pedido de um homem experiente",
+      "paragraphs": [
+        "Calebe contou os anos. Quarenta e cinco haviam passado desde a promessa, e agora ele tinha oitenta e cinco. Reconhecia que Deus o mantivera vivo durante a longa caminhada. Sua história não era a de alguém que chegara depressa ao que desejava. Havia esperado enquanto a vida do povo atravessava muitas mudanças e perdas.",
+        "Mesmo idoso, dizia sentir-se forte para a responsabilidade que estava pedindo. Queria a região montanhosa de Hebrom, onde havia cidades fortificadas e habitantes conhecidos por sua força. Não escolhia aquele lugar porque fosse uma tarefa fácil. Lembrava a promessa e confiava que, com a ajuda do Senhor, poderia enfrentar o desafio que lhe cabia naquele contexto.",
+        "Calebe falou com a firmeza de quem conhecia bem aquelas montanhas. Ainda se sentia forte e disposto para a tarefa. Pediu a região que o Senhor lhe havia prometido e reconheceu que precisaria de sua ajuda para ocupá-la. Josué escutou o velho companheiro, lembrando os muitos anos em que os dois haviam confiado na mesma promessa."
+      ],
+      "image": "111/part2.webp",
+      "alt": "Calebe aponta para a região montanhosa enquanto explica seu pedido a Josué."
+    },
+    {
+      "heading": "Uma bênção e uma herança",
+      "paragraphs": [
+        "Josué abençoou Calebe e lhe deu Hebrom por herança. A promessa recordada naquela conversa ganhou um lugar concreto no mapa da vida do povo. Não era uma lembrança guardada apenas para contar histórias sobre o passado. Passava a fazer parte do futuro de Calebe, de sua família e das gerações que viriam depois dele.",
+        "A Bíblia explica que Hebrom ficou ligada à sua família porque Calebe seguira fielmente o Senhor. Antes, a cidade era chamada Quiriate-Arba. Os nomes, os caminhos e as moradias daquela região carregavam histórias antigas. Agora a trajetória de Calebe também faria parte dela. Sua confiança perseverante tinha atravessado décadas e chegado a uma nova etapa.",
+        "Depois de tantos anos de viagem e conflito, a terra descansou da guerra. Calebe tinha recebido sua herança, e Hebrom faria parte da vida de sua família. A conversa com Josué terminava com uma bênção e um novo começo. O homem de oitenta e cinco anos ainda olhava para a montanha com esperança e disposição para seguir adiante."
+      ],
+      "image": "111/part3.webp",
+      "alt": "Calebe observa as colinas com sua família, diante de uma paisagem tranquila ao fim do dia."
+    }
+  ],
+  "lesson": "Pessoas mais velhas carregam experiências que merecem atenção. Calebe não precisou esconder sua idade para apresentar um pedido importante. Podemos aprender com avós, vizinhos e outros adultos, escutando suas histórias e respeitando seus limites. Perseverar também não significa insistir em qualquer coisa sem ajuda. É cuidar de compromissos bons ao longo do tempo, reconhecendo que cada pessoa pode contribuir de uma maneira e em um ritmo diferente.",
+  "question": "Que pergunta você gostaria de fazer a uma pessoa mais velha sobre algo que ela aprendeu esperando?",
+  "prayer": "Deus, obrigado pelas pessoas mais velhas e pelas histórias que carregam. Ensina-nos a escutar com respeito, a reconhecer suas contribuições e a oferecer ajuda quando precisarem. Dá-nos paciência para os bons compromissos e esperança para cada etapa da vida. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Calebe e Josué conversam diante das montanhas de Hebrom, com um gesto de bênção e acolhimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Caleb elderly eighty-five-year-old man olive skin sturdy but visibly aged with white beard, sand tunic and deep blue cloak; Joshua mature gray beard burgundy cloak olive tunic. Gentle mountain landscape. Scene: Calebe e Josué conversam diante das montanhas de Hebrom, com um gesto de bênção e acolhimento."
+    },
+    {
+      "role": "part1",
+      "alt": "Calebe se aproxima de Josué acompanhado por alguns homens de Judá no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Caleb elderly eighty-five-year-old man olive skin sturdy but visibly aged with white beard, sand tunic and deep blue cloak; Joshua mature gray beard burgundy cloak olive tunic. Gentle mountain landscape. Scene: Calebe se aproxima de Josué acompanhado por alguns homens de Judá no acampamento."
+    },
+    {
+      "role": "part2",
+      "alt": "Calebe aponta para a região montanhosa enquanto explica seu pedido a Josué.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Caleb elderly eighty-five-year-old man olive skin sturdy but visibly aged with white beard, sand tunic and deep blue cloak; Joshua mature gray beard burgundy cloak olive tunic. Gentle mountain landscape. Scene: Calebe aponta para a região montanhosa enquanto explica seu pedido a Josué."
+    },
+    {
+      "role": "part3",
+      "alt": "Calebe observa as colinas com sua família, diante de uma paisagem tranquila ao fim do dia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Caleb elderly eighty-five-year-old man olive skin sturdy but visibly aged with white beard, sand tunic and deep blue cloak; Joshua mature gray beard burgundy cloak olive tunic. Gentle mountain landscape. Scene: Calebe observa as colinas com sua família, diante de uma paisagem tranquila ao fim do dia."
+    }
+  ]
+}

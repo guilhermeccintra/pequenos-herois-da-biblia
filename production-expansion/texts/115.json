@@ -1,0 +1,71 @@
+{
+  "id": 115,
+  "title": "Josué e a Escolha da Família",
+  "subtitle": "Um compromisso para viver",
+  "reference": "Josué 24:1–28",
+  "description": "Em Siquém, Josué reúne o povo para lembrar sua história e renovar um compromisso. Servir a Deus precisaria aparecer nas escolhas da casa e da comunidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/115.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O povo reunido em Siquém",
+      "paragraphs": [
+        "Josué já havia vivido muitos anos quando reuniu as tribos de Israel em Siquém. Chamou líderes, juízes, oficiais e representantes do povo. Havia decisões que não poderiam ser deixadas apenas para depois. A comunidade precisava lembrar sua história e pensar em como viveria dali em diante, quando aquela geração de líderes já não estivesse presente.",
+        "Josué começou contando o caminho de seus antepassados. Falou de Abraão, que fora chamado de longe, de Isaque e de Jacó. Recordou a ida ao Egito, a libertação e a travessia pelo deserto. A terra em que agora moravam não era o começo de tudo. Cada família fazia parte de uma história maior, que tinha atravessado muitos lugares.",
+        "Também lembrou o cuidado recebido na chegada à terra: cidades que não haviam construído, vinhas e oliveiras que não haviam plantado. O povo tinha trabalho e responsabilidade, mas não podia olhar para tudo como se tivesse conseguido sozinho. A memória ajudava a reconhecer presentes recebidos e preparava a comunidade para responder com gratidão."
+      ],
+      "image": "115/part1.webp",
+      "alt": "Representantes das tribos se reúnem em Siquém para ouvir Josué, com montanhas ao fundo."
+    },
+    {
+      "heading": "Uma decisão que pedia sinceridade",
+      "paragraphs": [
+        "Josué chamou os israelitas a servir ao Senhor com sinceridade e fidelidade. Deveriam abandonar os deuses que seus antepassados haviam servido. Não bastava acrescentar palavras bonitas a uma vida sem direção. A escolha precisava envolver o coração, os costumes e as atitudes. O líder colocou diante do povo uma pergunta que exigia uma resposta verdadeira.",
+        "Ele declarou o compromisso de sua própria casa: sua família serviria ao Senhor. Não falava como alguém que podia decidir todas as futuras escolhas das outras pessoas. Apresentava sua responsabilidade e convidava a comunidade a considerar a própria. Cada família precisava entender o significado daquele compromisso e não apenas repetir o que parecia esperado numa reunião.",
+        "O povo respondeu lembrando a libertação do Egito e a proteção recebida no caminho. Também desejava servir ao Senhor. Josué, porém, não tratou a resposta como uma frase fácil. Falou da santidade de Deus e da seriedade de abandonar aquele compromisso. As pessoas precisavam perceber que fidelidade seria mais que o entusiasmo de um único dia."
+      ],
+      "image": "115/part2.webp",
+      "alt": "Josué fala com serenidade ao povo, acompanhado por sua família diante da assembleia."
+    },
+    {
+      "heading": "Uma pedra como testemunha",
+      "paragraphs": [
+        "Os israelitas reafirmaram sua decisão. Josué então pediu que afastassem os deuses estrangeiros e dirigissem o coração ao Senhor. A resposta deveria produzir mudanças. Naquele dia, estabeleceu um compromisso com o povo, registrou as orientações e escreveu aquelas palavras no livro da lei de Deus. A comunidade recebia uma lembrança que poderia consultar depois.",
+        "Josué tomou uma grande pedra e a colocou debaixo de uma árvore, junto ao lugar dedicado ao Senhor. Disse que ela serviria de testemunho do que havia sido declarado. A pedra não estava viva nem tinha poderes. Sua presença ajudaria a lembrar a conversa, como um sinal visível de uma palavra dada diante de todos.",
+        "Depois, Josué despediu o povo, e cada um voltou à sua herança. A reunião terminava, mas o compromisso começava a aparecer na vida comum. Nas casas, nos campos e nas relações com os vizinhos, haveria oportunidades de viver o que tinham afirmado. A fidelidade não ficaria guardada em Siquém: precisaria acompanhar as famílias quando elas voltassem para casa."
+      ],
+      "image": "115/part3.webp",
+      "alt": "Famílias voltam para suas casas ao entardecer; a pedra permanece sob a árvore como lembrança."
+    }
+  ],
+  "lesson": "Um compromisso vale mais quando se transforma em atitudes. Dizer que queremos cuidar da família pode significar ouvir, dividir tarefas e pedir desculpas. Para quem deseja seguir a Deus, a fé também aparece no respeito às pessoas e na honestidade do dia a dia. Podemos conversar em casa sobre o que acreditamos e como queremos viver, sem humilhar quem pensa diferente. Uma palavra sincera pede pequenos cuidados repetidos ao longo do tempo.",
+  "question": "Que atitude da sua família pode mostrar, nesta semana, um compromisso de cuidado e respeito?",
+  "prayer": "Deus, ajuda nossa família a unir palavras e atitudes. Ensina-nos a lembrar com gratidão, escolher com sinceridade e cumprir os bons compromissos do dia a dia. Que nossa fé apareça no cuidado, na honestidade e no respeito pelas pessoas que encontramos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Josué conversa com famílias reunidas sob uma grande árvore, ao lado de uma pedra de lembrança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua elderly olive-skinned man gray beard burgundy mantle olive robe, large gathering of ancient Israelite families beneath a broad oak near Shechem, natural standing stone, no writing. Scene: Josué conversa com famílias reunidas sob uma grande árvore, ao lado de uma pedra de lembrança."
+    },
+    {
+      "role": "part1",
+      "alt": "Representantes das tribos se reúnem em Siquém para ouvir Josué, com montanhas ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua elderly olive-skinned man gray beard burgundy mantle olive robe, large gathering of ancient Israelite families beneath a broad oak near Shechem, natural standing stone, no writing. Scene: Representantes das tribos se reúnem em Siquém para ouvir Josué, com montanhas ao fundo."
+    },
+    {
+      "role": "part2",
+      "alt": "Josué fala com serenidade ao povo, acompanhado por sua família diante da assembleia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua elderly olive-skinned man gray beard burgundy mantle olive robe, large gathering of ancient Israelite families beneath a broad oak near Shechem, natural standing stone, no writing. Scene: Josué fala com serenidade ao povo, acompanhado por sua família diante da assembleia."
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias voltam para suas casas ao entardecer; a pedra permanece sob a árvore como lembrança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua elderly olive-skinned man gray beard burgundy mantle olive robe, large gathering of ancient Israelite families beneath a broad oak near Shechem, natural standing stone, no writing. Scene: Famílias voltam para suas casas ao entardecer; a pedra permanece sob a árvore como lembrança."
+    }
+  ]
+}

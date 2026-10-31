@@ -1,0 +1,71 @@
+{
+  "id": 168,
+  "title": "Ezequias e a Sombra",
+  "subtitle": "Gratidão por mais tempo de vida",
+  "reference": "2 Reis 20:1–11",
+  "description": "Ezequias adoece gravemente e apresenta sua dor a Deus. A resposta recebida por meio de Isaías traz cuidado, uma promessa de mais tempo e um sinal ligado à sombra.",
+  "testament": "antigo",
+  "cover": "/images/covers/168.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma notícia difícil",
+      "paragraphs": [
+        "Ezequias adoeceu gravemente. Isaías foi visitá-lo e lhe disse que colocasse sua casa em ordem, porque não se recuperaria daquela doença. A notícia atingiu o rei de maneira profunda. Governar uma cidade não o tornava capaz de controlar o próprio corpo. Como qualquer pessoa, ele podia se sentir frágil diante da possibilidade da morte.",
+        "Ezequias virou o rosto para a parede e orou. Pediu que o Senhor se lembrasse de sua caminhada e de seu desejo de agir com fidelidade. Chorou muito. O relato não esconde as lágrimas de um governante. A dor não precisava ser disfarçada por causa da posição que ocupava, e a oração abriu espaço para expressar o que estava sentindo.",
+        "Isaías ainda não havia saído do pátio quando recebeu outra palavra do Senhor. Deveria voltar a Ezequias. Deus havia ouvido sua oração e visto suas lágrimas. O profeta refez o caminho até o quarto do rei levando uma notícia diferente. A conversa que parecia encerrada teria uma continuação, e nela havia lugar para a esperança."
+      ],
+      "image": "168/part1.webp",
+      "alt": "Ezequias repousa confortavelmente enquanto Isaías conversa com ele de maneira cuidadosa."
+    },
+    {
+      "heading": "Cuidado e promessa",
+      "paragraphs": [
+        "Isaías anunciou que Ezequias seria curado e que, no terceiro dia, subiria à casa do Senhor. Também recebeu a promessa de mais quinze anos de vida e de proteção para a cidade. O rei que acabara de ouvir uma notícia de fim agora era chamado a considerar um tempo adiante, com novas oportunidades e responsabilidades.",
+        "Isaías orientou que preparassem uma pasta de figos e a colocassem sobre a ferida do rei. As pessoas que cuidavam dele fizeram o que o profeta disse, e Ezequias melhorou. Em seu quarto, ele recebeu companhia e cuidado enquanto ouvia a promessa. O desejo de voltar ao templo começava a parecer mais próximo.",
+        "Ezequias perguntou qual seria o sinal de que o Senhor o curaria e de que poderia voltar ao templo. Isaías falou sobre a sombra nos degraus de Acaz. O rei poderia ver ali uma confirmação da palavra recebida. Havia degraus iluminados e outros cobertos pela sombra, e o profeta lhe apresentou uma escolha surpreendente."
+      ],
+      "image": "168/part2.webp",
+      "alt": "Isaías volta ao quarto do rei para anunciar a promessa de recuperação."
+    },
+    {
+      "heading": "Uma sombra que voltou",
+      "paragraphs": [
+        "Ezequias considerou que seria mais extraordinário ver a sombra voltar do que avançar. Isaías clamou ao Senhor, e a sombra retrocedeu dez degraus. O rei contemplou aquele sinal com admiração. Assim como a sombra mudara de lugar diante de seus olhos, a tristeza que enchera seu coração dava espaço à esperança de novos dias.",
+        "O sinal ajudou Ezequias a reconhecer a promessa de recuperação. Havia uma ligação entre a palavra anunciada, o cuidado recebido e o tempo que se abria diante dele. Mais dias não significavam uma vida sem escolhas difíceis. O rei continuaria responsável pelo modo como usaria suas oportunidades e trataria as pessoas ao seu redor.",
+        "A história guarda lágrimas e esperança no mesmo caminho. Ezequias não precisara esconder sua fragilidade para falar com Deus. Sua oração fora ouvida, e a visita de Isaías trouxera uma promessa que ele guardaria com gratidão. O tempo recebido era precioso: mais dias para estar com seu povo, cuidar de sua casa e aprender a viver com um coração agradecido."
+      ],
+      "image": "168/part3.webp",
+      "alt": "Ezequias caminha com serenidade em direção ao templo, acompanhado por pessoas da casa real."
+    }
+  ],
+  "lesson": "A vida é um presente precioso. Ezequias recebeu novos dias e um motivo especial para agradecer. Também podemos valorizar o tempo que temos para amar, aprender e estar com as pessoas. Quando alguém está doente, uma visita, uma palavra carinhosa e companhia podem trazer conforto. Deus acolhe nossas lágrimas, e nós podemos acolher com ternura quem passa por um momento difícil.",
+  "question": "Que pessoa ou momento você gostaria de valorizar melhor ao pensar no tempo que recebe a cada dia?",
+  "prayer": "Deus, cuida de quem está doente e de quem acompanha sua recuperação. Dá sabedoria aos profissionais de saúde e conforto às famílias. Ajuda-nos a expressar nossos medos, receber cuidado responsável e agradecer pelo tempo que temos para amar, aprender e fazer o bem. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ezequias e Isaías observam a sombra sobre degraus de pedra num pátio iluminado pelo sol.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue robe, resting safely fully clothed on couch with cushions; Isaiah elderly gray beard cream robe brown mantle. Peaceful palace, stone steps with clear sunlight shadow as artistic scene not labeled diagram. No wounds or medical treatment depicted. Only scene cast. Scene: Ezequias e Isaías observam a sombra sobre degraus de pedra num pátio iluminado pelo sol."
+    },
+    {
+      "role": "part1",
+      "alt": "Ezequias repousa confortavelmente enquanto Isaías conversa com ele de maneira cuidadosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue robe, resting safely fully clothed on couch with cushions; Isaiah elderly gray beard cream robe brown mantle. Peaceful palace, stone steps with clear sunlight shadow as artistic scene not labeled diagram. No wounds or medical treatment depicted. Only scene cast. Scene: Ezequias repousa confortavelmente enquanto Isaías conversa com ele de maneira cuidadosa."
+    },
+    {
+      "role": "part2",
+      "alt": "Isaías volta ao quarto do rei para anunciar a promessa de recuperação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue robe, resting safely fully clothed on couch with cushions; Isaiah elderly gray beard cream robe brown mantle. Peaceful palace, stone steps with clear sunlight shadow as artistic scene not labeled diagram. No wounds or medical treatment depicted. Only scene cast. Scene: Isaiah elderly gray beard cream robe brown mantle returns to the peaceful palace room and speaks hopefully to Hezekiah sitting upright on a cushioned couch wearing full blue robe. Clay water jar and linen cloth nearby, morning light. Exactly two people, no visible wound or treatment action."
+    },
+    {
+      "role": "part3",
+      "alt": "Ezequias caminha com serenidade em direção ao templo, acompanhado por pessoas da casa real.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue robe, resting safely fully clothed on couch with cushions; Isaiah elderly gray beard cream robe brown mantle. Peaceful palace, stone steps with clear sunlight shadow as artistic scene not labeled diagram. No wounds or medical treatment depicted. Only scene cast. Scene: Ezequias caminha com serenidade em direção ao templo, acompanhado por pessoas da casa real."
+    }
+  ]
+}

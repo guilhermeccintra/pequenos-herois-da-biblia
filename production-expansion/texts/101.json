@@ -1,0 +1,71 @@
+{
+  "id": 101,
+  "title": "Josué Recebe uma Responsabilidade",
+  "subtitle": "Preparar outra pessoa também é uma forma de cuidar",
+  "reference": "Números 27:12–23",
+  "description": "Moisés pede que Israel não fique sem direção, e Josué é apresentado para uma nova responsabilidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/101.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Pensar no povo que continuará",
+      "paragraphs": [
+        "O Senhor disse a Moisés que subisse a uma montanha da região de Abarim para ver a terra que daria aos israelitas. Depois de contemplá-la, ele morreria, assim como seu irmão Arão. Moisés não conduziria a comunidade para dentro da terra, por causa do que havia acontecido nas águas de Meribá.",
+        "Era uma notícia difícil. Moisés havia passado muitos anos ouvindo preocupações, organizando a caminhada e buscando orientação para o povo. Seu trabalho estava ligado à vida de milhares de famílias. Agora, precisava reconhecer que aquela responsabilidade teria continuidade pelas mãos de outra pessoa, depois que sua própria jornada terminasse.",
+        "Moisés respondeu fazendo um pedido por Israel. Pediu ao Senhor, que conhece a vida de todas as pessoas, que escolhesse alguém para conduzir a comunidade. Desejava um líder capaz de sair e entrar à frente do povo, para que as famílias não ficassem como ovelhas sem pastor."
+      ],
+      "image": "101/part1.webp",
+      "alt": "Moisés ora pela comunidade que continuará caminhando."
+    },
+    {
+      "heading": "Josué é chamado para servir",
+      "paragraphs": [
+        "Deus orientou Moisés a chamar Josué, filho de Num, um homem em quem estava o Espírito. Moisés deveria colocar a mão sobre ele e apresentá-lo diante do sacerdote Eleazar e de toda a comunidade. A mudança não aconteceria como um segredo conhecido apenas por algumas pessoas próximas dos líderes.",
+        "Josué receberia uma parte da autoridade de Moisés, para que os israelitas o reconhecessem e o ouvissem. Isso não transformaria Josué em alguém que poderia fazer tudo conforme sua própria vontade. Ele precisaria buscar orientação diante do Senhor com a participação de Eleazar, que exerceria sua responsabilidade como sacerdote.",
+        "A comunidade também tinha algo a aprender naquele momento. Um novo líder não seria uma cópia perfeita do anterior, mas continuaria a missão de cuidar e conduzir. A presença de Moisés na apresentação mostraria que ele apoiava essa passagem de responsabilidade e desejava preparar o povo para o futuro."
+      ],
+      "image": "101/part2.webp",
+      "alt": "Josué escuta as orientações de Moisés e Eleazar."
+    },
+    {
+      "heading": "Uma passagem feita diante de todos",
+      "paragraphs": [
+        "Moisés fez conforme a orientação recebida. Chamou Josué e o colocou diante de Eleazar e da comunidade. Então, pôs as mãos sobre ele e lhe deu a responsabilidade, como o Senhor havia mandado. As pessoas puderam acompanhar o gesto e reconhecer quem assumiria a direção na etapa seguinte.",
+        "O momento reunia experiência, confiança e compromisso. Moisés não precisava guardar toda a autoridade até o último instante para provar sua importância. Ao preparar Josué, cuidava das famílias que continuariam caminhando. Ensinar, apresentar e apoiar outra pessoa também faziam parte do serviço que havia recebido de Deus.",
+        "Josué ainda encontraria desafios e decisões difíceis. Não recebeu a promessa de que tudo seria simples. Recebeu uma missão, orientação para buscar a Deus e o reconhecimento da comunidade. A história nos ajuda a perceber que uma responsabilidade bem cuidada inclui pensar no que acontecerá quando outra pessoa precisar continuar o trabalho."
+      ],
+      "image": "101/part3.webp",
+      "alt": "O povo reconhece a nova responsabilidade de Josué."
+    }
+  ],
+  "lesson": "Compartilhar uma responsabilidade não diminui o valor de quem começou. Moisés cuidou de Israel ao preparar Josué para continuar a missão. Podemos aprender a explicar uma tarefa, oferecer apoio e dar espaço para outra pessoa participar. Quando chega nossa vez de aprender, também precisamos ouvir e reconhecer quem nos orienta. Um grupo se fortalece quando o conhecimento circula e quando servir importa mais do que ser sempre o único responsável.",
+  "question": "Que tarefa você já sabe fazer e poderia ensinar com paciência a outra pessoa?",
+  "prayer": "Senhor, ensina-me a compartilhar o que aprendi e a apoiar quem começa uma nova tarefa. Dá-me humildade para receber orientação e generosidade para oferecer ajuda. Que eu cuide das responsabilidades pensando também nas pessoas que continuarão o trabalho depois de mim. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés coloca as mãos sobre Josué diante do povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Moses gently places both hands on bowed adult Joshua shoulders at tabernacle entrance before attentive community; Eleazar stands beside them, dignified commissioning, no crown or weapons."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés ora pela comunidade que continuará caminhando.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Moses alone on rocky rise overlooking distant Israelite tents, hands open in thoughtful prayer, mountains beyond, no visible deity or other main characters."
+    },
+    {
+      "role": "part2",
+      "alt": "Josué escuta as orientações de Moisés e Eleazar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Moses explains responsibility to attentive adult Joshua beside priest Eleazar at tent entrance, respectful conversation and natural gestures, three men only."
+    },
+    {
+      "role": "part3",
+      "alt": "O povo reconhece a nova responsabilidade de Josué.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua older adult olive-brown man dark curls graying at temples, short dark-gray beard, teal tunic and brown cloak. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Scene: Joshua stands humbly beside Moses and Eleazar before gathered adult families, calm hopeful morning, no triumphal throne or royal regalia."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+27%3A12-23&version=KJV"
+  ]
+}

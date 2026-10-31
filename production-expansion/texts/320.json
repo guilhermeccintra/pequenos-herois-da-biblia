@@ -1,0 +1,71 @@
+{
+  "id": 320,
+  "title": "Uma Igreja que Envia",
+  "subtitle": "Partir também é servir",
+  "reference": "Atos 13:1–3",
+  "description": "Durante uma reunião em Antioquia, a comunidade recebe uma nova direção. Barnabé e Saulo são enviados para levar a mensagem de Jesus a outros lugares.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma comunidade que escuta",
+      "paragraphs": [
+        "A igreja de Antioquia tinha pessoas dedicadas ao ensino e à profecia. Atos menciona Barnabé, Simeão chamado Níger, Lúcio de Cirene, Manaém e Saulo. Os nomes apontam para histórias de vida diferentes reunidas em torno de Jesus. A comunidade não dependia de uma única pessoa para aprender, orar e buscar a direção de Deus.",
+        "Eles serviam ao Senhor e jejuavam, dedicando aquele tempo à oração e à escuta. A igreja já tinha experimentado crescimento, ensino e solidariedade. Seus líderes continuavam buscando a direção de Deus para a comunidade. Havia trabalho a realizar perto de casa e pessoas em outros lugares que ainda poderiam conhecer a boa notícia de Jesus.",
+        "O Espírito Santo orientou que Barnabé e Saulo fossem separados para a obra à qual os havia chamado. A mensagem era clara sobre as pessoas e o propósito de envio, embora o caminho ainda tivesse muitos detalhes por descobrir. Dois homens conhecidos pela comunidade seriam preparados para uma missão que os levaria para além de Antioquia."
+      ],
+      "image": "320/part1.webp",
+      "alt": "Cinco líderes de diferentes aparências conversam e oram ao redor de uma mesa simples em Antioquia."
+    },
+    {
+      "heading": "Reconhecer e enviar",
+      "paragraphs": [
+        "Barnabé e Saulo tinham passado um ano ensinando muita gente naquela cidade. Sua presença era importante, e a comunidade conhecia seu trabalho. Enviá-los significava aceitar que pessoas queridas partissem para servir em outro lugar. A igreja não tratou seus dons como algo que precisava guardar somente para o próprio benefício.",
+        "Depois de jejuar e orar, os discípulos colocaram as mãos sobre os dois. Esse gesto expressava reconhecimento, apoio e envio. A viagem não começava como uma aventura individual em busca de fama. Barnabé e Saulo partiam ligados a uma comunidade que compartilhava sua fé e reconhecia a tarefa recebida do Espírito Santo.",
+        "O relato é breve, mas mostra uma ordem cuidadosa: escutar, orar, reconhecer e enviar. Não houve necessidade de uma grande cerimônia descrita em detalhes. A força daquele momento estava na confiança em Deus e no compromisso com a missão. A comunidade participava mesmo sem colocar todos os seus membros na mesma estrada."
+      ],
+      "image": "320/part2.webp",
+      "alt": "A comunidade ora por Barnabé e Saulo, que estão de pé com pequenas bolsas de viagem, em um pátio iluminado pela manhã."
+    },
+    {
+      "heading": "A missão continua além de casa",
+      "paragraphs": [
+        "Barnabé e Saulo seguiram viagem. O capítulo seguinte de sua caminhada incluiria o mar, cidades desconhecidas, conversas e desafios. Ainda haveria alegrias e dificuldades que não podiam prever naquela reunião. O envio não lhes entregava um caminho sem problemas. Entregava uma tarefa a realizar com a direção e a ajuda de Deus.",
+        "Quem ficou em Antioquia também continuou fazendo parte da história. Ensinar, acolher e cuidar da comunidade eram trabalhos importantes. A missão não precisava colocar todos no mesmo papel. Algumas pessoas viajavam; outras permaneciam. O que as unia era o desejo de servir a Jesus e compartilhar sua mensagem com responsabilidade.",
+        "A igreja que havia recebido a boa notícia agora ajudava a levá-la adiante. Barnabé e Saulo saíram acompanhados pelo reconhecimento dos amigos e pelo chamado do Espírito. O mundo além de Antioquia tinha rostos que ainda não conheciam. Para encontrá-los, foi preciso dar um passo que começou na escuta e ganhou força na oração de uma comunidade inteira."
+      ],
+      "image": "320/part3.webp",
+      "alt": "Barnabé e Saulo se despedem de amigos à saída de Antioquia e seguem por uma estrada entre colinas, em clima esperançoso."
+    }
+  ],
+  "lesson": "Nem todas as pessoas ajudam da mesma maneira. Algumas ensinam, outras organizam, acolhem ou acompanham. Podemos reconhecer os dons dos outros e celebrar o que cada um oferece. Para você, servir pode começar perto de casa: cumprir uma tarefa, ajudar a preparar um encontro ou ouvir alguém. A comunidade de Antioquia nos lembra que apoiar uma pessoa também é participar de seu trabalho. Uma missão pode reunir muitos gestos diferentes.",
+  "question": "Que tarefa você pode realizar bem em equipe, e de que ajuda dos outros precisa para isso?",
+  "prayer": "Espírito Santo, ensina-nos a ouvir e a servir juntos. Obrigado pelos dons diferentes que colocaste entre nós. Ajuda-nos a apoiar quem parte e a cuidar de quem fica. Que cada tarefa seja feita com humildade, responsabilidade e amor por Jesus. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/320.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.13"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Barnabé e Saulo recebem uma oração de envio de líderes diversos na comunidade de Antioquia, com mãos apoiadas respeitosamente em seus ombros.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Barnabé e Saulo recebem uma oração de envio de líderes diversos na comunidade de Antioquia, com mãos apoiadas respeitosamente em seus ombros."
+    },
+    {
+      "role": "part1",
+      "alt": "Cinco líderes de diferentes aparências conversam e oram ao redor de uma mesa simples em Antioquia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Cinco líderes de diferentes aparências conversam e oram ao redor de uma mesa simples em Antioquia. Exactly five male leaders: Saul, Barnabas, Simeon (dark skin), Lucius (dark skin) and Manaen. No other people, no woman from cover."
+    },
+    {
+      "role": "part2",
+      "alt": "A comunidade ora por Barnabé e Saulo, que estão de pé com pequenas bolsas de viagem, em um pátio iluminado pela manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: A comunidade ora por Barnabé e Saulo, que estão de pé com pequenas bolsas de viagem, em um pátio iluminado pela manhã."
+    },
+    {
+      "role": "part3",
+      "alt": "Barnabé e Saulo se despedem de amigos à saída de Antioquia e seguem por uma estrada entre colinas, em clima esperançoso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Barnabé e Saulo se despedem de amigos à saída de Antioquia e seguem por uma estrada entre colinas, em clima esperançoso."
+    }
+  ]
+}

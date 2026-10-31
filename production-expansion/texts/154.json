@@ -1,0 +1,71 @@
+{
+  "id": 154,
+  "title": "Água Boa em Jericó",
+  "subtitle": "Uma fonte cuidada para toda a cidade",
+  "reference": "2 Reis 2:19–22",
+  "description": "Os moradores de Jericó apresentam a Eliseu um problema que afeta sua vida: a água não é boa. O profeta vai à fonte, e a cidade recebe um sinal de restauração.",
+  "testament": "antigo",
+  "cover": "/images/covers/154.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar bonito com um problema sério",
+      "paragraphs": [
+        "Eliseu estava em Jericó quando os moradores da cidade se aproximaram dele. Disseram que o lugar era agradável, como ele podia ver, mas havia um problema importante: a água não era boa e a terra não produzia como deveria. A beleza da paisagem não resolvia uma necessidade essencial. Pessoas e plantações dependiam de água segura.",
+        "Os moradores explicaram sua preocupação a Eliseu. Gostavam da cidade, mas a água trazia dificuldades para a vida e para a terra ao redor. A nascente fazia parte de sua rotina, por isso o problema chegava até as casas e os campos. Eles tinham ido ao encontro do profeta esperando uma resposta para aquela necessidade.",
+        "Eliseu escutou o que os homens de Jericó lhe disseram. A cidade ficava perto do Jordão, onde havia recebido o manto de Elias e atravessado o rio. Agora, em vez de uma despedida, encontrava pessoas pedindo ajuda. O problema estava na água da fonte, e era para lá que dirigiria sua atenção naquele encontro."
+      ],
+      "image": "154/part1.webp",
+      "alt": "Moradores conversam com Eliseu diante da paisagem de Jericó, apresentando a preocupação com a água."
+    },
+    {
+      "heading": "Ir até a fonte",
+      "paragraphs": [
+        "Eliseu pediu uma vasilha nova com sal. Os moradores a trouxeram. O objeto era simples, mas fazia parte do sinal que o profeta realizaria. Não havia um pedido por uma grande riqueza ou por um presente que tornasse a cidade digna de receber ajuda. A comunidade ofereceu o que foi solicitado e acompanhou o próximo passo.",
+        "O profeta foi até a nascente. Não ficou apenas diante das vasilhas que já haviam sido cheias nas casas. A cena se concentra no lugar de onde a água saía. Ali lançou o sal e anunciou a palavra do Senhor: a água estava restaurada, e não causaria mais os danos que preocupavam os moradores.",
+        "Os moradores ouviram a palavra do Senhor anunciada por Eliseu. A fonte que tanto os preocupava havia recebido uma promessa de restauração. A água continuava correndo, mas o mal que causava chegara ao fim. Naquele lugar tão importante para Jericó, o profeta lhes dava uma boa notícia sobre algo que tocava a vida de todos."
+      ],
+      "image": "154/part2.webp",
+      "alt": "Eliseu segura uma vasilha nova com sal perto da nascente, acompanhado por adultos atentos."
+    },
+    {
+      "heading": "Uma mudança para todos",
+      "paragraphs": [
+        "A água ficou boa e continuou assim, conforme a palavra do Senhor anunciada por Eliseu àquela comunidade. A mudança alcançava mais que uma pessoa ou uma casa. Uma fonte serve à comunidade inteira. Quando a água melhora, diferentes tarefas da vida também podem acontecer com mais segurança: beber, preparar alimentos e cuidar do que cresce na terra.",
+        "A história é breve, mas seu alcance é amplo. Não termina com o profeta recebendo um título especial dos moradores. Termina com a água restaurada. O resultado do serviço estava no bem que chegava às pessoas. Eliseu começava a exercer sua missão atento a uma necessidade que fazia parte do cotidiano de todos.",
+        "Jericó continuava com suas casas, seus caminhos e suas plantações. Mas os moradores já podiam olhar de outra maneira para a nascente. Haviam procurado Eliseu com uma preocupação e recebido uma palavra de esperança. A água restaurada permaneceria como lembrança daquele encontro e da ajuda do Senhor para uma necessidade que fazia parte de cada dia."
+      ],
+      "image": "154/part3.webp",
+      "alt": "Famílias enchem suas vasilhas numa fonte restaurada, em uma cena de gratidão e cuidado comunitário."
+    }
+  ],
+  "lesson": "Os moradores de Jericó reconheceram uma dificuldade e a apresentaram a Eliseu. Eles desejavam água boa para as famílias e os campos, e receberam uma resposta que trouxe alegria à cidade. A história nos ajuda a perceber como a água é preciosa. Podemos agradecer por ela, evitar desperdícios e colaborar no cuidado dos lugares onde vivemos. Quando uma necessidade é compartilhada, surgem oportunidades de ouvir, ajudar e buscar juntos uma boa solução.",
+  "question": "Que atitude pequena sua família pode praticar para cuidar melhor da água que utiliza?",
+  "prayer": "Deus, obrigado pela água que sustenta nossa vida. Cuida das comunidades que ainda não têm água segura e das pessoas que trabalham para melhorar essa realidade. Ensina-nos a evitar desperdício, proteger a natureza e procurar ajuda responsável quando percebemos um problema. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Eliseu e moradores de Jericó observam uma fonte de água limpa que corre entre pedras e vegetação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin short dark hair receding hairline neat dark beard cream tunic muted green cloak. Ancient Jericho spring with clear water stone basin pottery bowl salt. Only Elisha and adult residents named, no reference cast. Scene: Eliseu e moradores de Jericó observam uma fonte de água limpa que corre entre pedras e vegetação."
+    },
+    {
+      "role": "part1",
+      "alt": "Moradores conversam com Eliseu diante da paisagem de Jericó, apresentando a preocupação com a água.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin short dark hair receding hairline neat dark beard cream tunic muted green cloak. Ancient Jericho spring with clear water stone basin pottery bowl salt. Only Elisha and adult residents named, no reference cast. Scene: Moradores conversam com Eliseu diante da paisagem de Jericó, apresentando a preocupação com a água."
+    },
+    {
+      "role": "part2",
+      "alt": "Eliseu segura uma vasilha nova com sal perto da nascente, acompanhado por adultos atentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin short dark hair receding hairline neat dark beard cream tunic muted green cloak. Ancient Jericho spring with clear water stone basin pottery bowl salt. Only Elisha and adult residents named, no reference cast. Scene: Eliseu segura uma vasilha nova com sal perto da nascente, acompanhado por adultos atentos."
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias enchem suas vasilhas numa fonte restaurada, em uma cena de gratidão e cuidado comunitário.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin short dark hair receding hairline neat dark beard cream tunic muted green cloak. Ancient Jericho spring with clear water stone basin pottery bowl salt. Only Elisha and adult residents named, no reference cast. Scene: Famílias enchem suas vasilhas numa fonte restaurada, em uma cena de gratidão e cuidado comunitário."
+    }
+  ]
+}

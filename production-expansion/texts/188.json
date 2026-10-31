@@ -1,0 +1,75 @@
+{
+  "id": 188,
+  "title": "A Festa das Cabanas",
+  "subtitle": "Ramos que ajudam a lembrar",
+  "reference": "Neemias 8:13–18",
+  "description": "Ao estudar a Lei, os líderes reencontram uma orientação para a festa. A cidade se enche de cabanas feitas de ramos e de alegria compartilhada.",
+  "testament": "antigo",
+  "cover": "/images/covers/188.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma descoberta na leitura",
+      "paragraphs": [
+        "No dia seguinte à grande leitura na praça, os chefes de família, sacerdotes e levitas se reuniram com Esdras. Queriam estudar melhor as palavras da Lei. O primeiro encontro não havia encerrado sua aprendizagem. Depois de ouvir com o povo, continuaram procurando entender como aquela Palavra deveria orientar a vida da comunidade.",
+        "Encontraram uma orientação dada por Deus por meio de Moisés: durante a festa do sétimo mês, os israelitas deveriam morar em cabanas. Eram abrigos temporários, feitos para aquela celebração. A festa lembrava a caminhada de Israel e o cuidado recebido quando o povo não vivia em casas permanentes. A memória ganhava uma forma que podia ser vista e experimentada.",
+        "Os líderes não guardaram a descoberta apenas para si. Mandaram anunciar a orientação em Jerusalém e nas outras cidades. As pessoas deveriam buscar ramos de oliveiras, oliveiras silvestres, murtas, palmeiras e árvores de muitas folhas. Com esses materiais, poderiam preparar as cabanas para celebrar de acordo com o que haviam aprendido."
+      ],
+      "image": "188/part1.webp",
+      "alt": "Esdras e os líderes estudam juntos a orientação da Lei."
+    },
+    {
+      "heading": "A cidade recebe ramos",
+      "paragraphs": [
+        "O povo saiu para buscar os ramos e começou a construir os abrigos. Cada família encontrou um lugar: sobre os terraços das casas, nos pátios e nas praças. Também houve cabanas nos pátios da casa de Deus, perto da Porta das Águas e da Porta de Efraim. A cidade passou a mostrar sinais visíveis daquela lembrança compartilhada.",
+        "Os ramos transformavam espaços conhecidos. Um pátio onde aconteciam tarefas comuns agora recebia um abrigo de festa. O terraço da casa se tornava lugar de recordar a história do povo. A celebração não dependia de cada cabana ser mais bonita do que a do vizinho. Seu sentido estava na memória, na obediência e no encontro com Deus.",
+        "Os que haviam voltado do exílio participaram e moraram nas cabanas durante a festa. O livro destaca a grande alegria daquele momento. Uma comunidade que conhecia a experiência de viver longe de casa agora recordava outra caminhada de seu povo. As lembranças do passado ajudavam a dar significado ao presente que estavam reconstruindo."
+      ],
+      "image": "188/part2.webp",
+      "alt": "Adultos e crianças ajudam a preparar as cabanas com folhas."
+    },
+    {
+      "heading": "Aprender durante a festa",
+      "paragraphs": [
+        "A Bíblia descreve aquela celebração como algo extraordinário, lembrando os dias de Josué. Havia uma alegria imensa entre os que tinham voltado do exílio. As cabanas espalhadas pela cidade aproximavam famílias, vizinhos e amigos. Todos participavam de uma lembrança antiga que ganhava vida novamente, enquanto escutavam a Palavra e agradeciam pelo cuidado de Deus.",
+        "Durante toda a festa, do primeiro ao último dia, houve leitura do livro da Lei de Deus. A alegria não afastou a aprendizagem. Entre os ramos e os encontros, as pessoas continuaram ouvindo. A memória da caminhada vinha acompanhada da Palavra que orientava os passos da comunidade no presente.",
+        "A festa durou sete dias, e no oitavo houve uma reunião solene, conforme a orientação recebida. Depois, as cabanas seriam deixadas, mas seu significado podia permanecer. Por alguns dias, aqueles abrigos simples haviam lembrado ao povo que casas e cidades são importantes, mas a vida também depende de cuidado, companhia e fidelidade ao longo do caminho."
+      ],
+      "image": "188/part3.webp",
+      "alt": "A leitura da Palavra acompanha os dias da festa."
+    }
+  ],
+  "lesson": "Algumas lembranças ficam mais claras quando fazemos algo juntos. Preparar uma refeição de família, visitar um lugar importante ou ouvir uma história pode ajudar a entender de onde viemos. A atividade não precisa virar uma competição. Podemos perguntar o que ela significa e quem queremos incluir. O valor de uma tradição cresce quando aprendemos seu sentido e a vivemos com respeito, segurança e alegria.",
+  "question": "Que costume de sua família você gostaria de conhecer melhor e ajudar a preparar?",
+  "prayer": "Deus, obrigado pelas histórias e tradições que nos ajudam a lembrar teu cuidado. Ensina-nos a perguntar, escutar e participar com alegria. Que os encontros de nossa família tenham espaço para aprender, acolher outras pessoas e agradecer pela companhia recebida em cada caminho. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH08.htm",
+    "https://ebible.org/engwebp/EZR03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias celebram entre cabanas de ramos em Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Jerusalem courtyard filled with temporary leafy shelters made of olive and palm branches, families joyfully gathered beneath them, warm natural light and detailed leaves, no modern camping gear. "
+    },
+    {
+      "role": "part1",
+      "alt": "Esdras e os líderes estudam juntos a orientação da Lei.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra and several mature Judean leaders study an unlettered scroll around a low wooden table, patient discussion in a shaded courtyard, reed pen and oil lamp nearby. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part2",
+      "alt": "Adultos e crianças ajudam a preparar as cabanas com folhas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adults safely build a low leafy shelter in an ancient courtyard while children hand small loose branches from ground level, olive and palm leaves, cheerful teamwork, no ladders or dangerous tools. "
+    },
+    {
+      "role": "part3",
+      "alt": "A leitura da Palavra acompanha os dias da festa.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An adult teacher reads an unlettered scroll to families seated beneath a leafy temporary shelter in Jerusalem, baskets of fruit nearby, soft lantern light at dusk, attentive peaceful faces. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

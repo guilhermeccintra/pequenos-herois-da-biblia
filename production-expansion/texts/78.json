@@ -1,0 +1,71 @@
+{
+  "id": 78,
+  "title": "Moisés Pede a Presença de Deus",
+  "subtitle": "Mais importante que chegar é caminhar com Deus",
+  "reference": "Êxodo 33",
+  "description": "Moisés pede direção, companhia e uma compreensão maior da bondade do Senhor.",
+  "testament": "antigo",
+  "cover": "/images/covers/78.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um caminho depois do erro",
+      "paragraphs": [
+        "Depois do episódio do bezerro de ouro, o povo de Israel precisava continuar a jornada. A terra prometida permanecia diante dele, mas a relação com Deus havia sido profundamente ferida. A notícia de que sua presença não os acompanharia da mesma maneira trouxe tristeza. Os israelitas deixaram de usar seus enfeites naquele momento de pesar.",
+        "Moisés armava uma tenda fora do acampamento, chamada tenda do encontro. Quem buscava o Senhor ia até lá. O texto descreve um lugar separado para essa conversa, antes da montagem do tabernáculo que seria preparado depois. A distância convidava o povo a perceber com seriedade a necessidade de buscar a Deus.",
+        "Quando Moisés caminhava até a tenda, as pessoas ficavam à entrada de suas próprias tendas e o observavam. Uma coluna de nuvem descia à entrada enquanto ele falava com o Senhor. O povo se inclinava em adoração. A cena mostrava respeito e expectativa, sem transformar a presença de Deus num objeto que pudessem controlar."
+      ],
+      "image": "78/part1.webp",
+      "alt": "O povo observa Moisés caminhar até a tenda."
+    },
+    {
+      "heading": "Um pedido de companhia",
+      "paragraphs": [
+        "A Bíblia descreve a conversa de Deus com Moisés como a proximidade de alguém que fala com um amigo. Essa linguagem mostra a confiança daquele relacionamento. Josué, seu auxiliar, permanecia junto à tenda. No meio de uma história de falhas, ainda havia espaço para ouvir, aprender e buscar direção.",
+        "Moisés pediu que o Senhor lhe mostrasse seus caminhos. Recebera a responsabilidade de conduzir o povo, mas não queria depender apenas de suas próprias ideias. Lembrou que aquela nação pertencia a Deus. Sua oração não tratava a comunidade como um projeto pessoal: era um pedido de cuidado por todos.",
+        "Deus respondeu que sua presença iria com ele e lhe daria descanso. Moisés afirmou que não desejava partir sem essa companhia. Chegar a uma terra boa não seria suficiente se a caminhada perdesse o relacionamento que lhe dava sentido. A presença do Senhor era mais importante do que simplesmente alcançar um lugar."
+      ],
+      "image": "78/part2.webp",
+      "alt": "Moisés pede direção em uma conversa de oração."
+    },
+    {
+      "heading": "A bondade que Moisés queria conhecer",
+      "paragraphs": [
+        "Moisés fez então outro pedido: queria conhecer a glória de Deus. O Senhor respondeu que faria passar sua bondade diante dele e anunciaria seu nome. A resposta ligava a grandeza divina à misericórdia. Conhecer Deus não seria apenas presenciar algo impressionante, mas compreender melhor quem ele é.",
+        "O relato também apresenta um limite: Moisés não poderia ver o rosto de Deus. Receberia proteção numa abertura da rocha enquanto a presença do Senhor passasse. É uma descrição reverente de um encontro extraordinário. Ela não transforma Deus numa figura comum nem sugere que Moisés pudesse compreender tudo sobre ele.",
+        "Essa conversa ensina a pedir mais do que soluções rápidas. Moisés desejava direção, presença e conhecimento da bondade divina. Sua responsabilidade continuava grande, mas não precisava enfrentá-la sem companhia. A oração podia ajudá-lo a reconhecer o que realmente importava antes de dar o próximo passo com o povo."
+      ],
+      "image": "78/part3.webp",
+      "alt": "Moisés encontra abrigo numa abertura da rocha."
+    }
+  ],
+  "lesson": "Às vezes pedimos apenas que um problema termine logo. Moisés nos ensina a pedir também direção, companhia e sabedoria para caminhar. Estar com Deus envolve aprender seus caminhos e reconhecer sua bondade. Podemos fazer uma pausa antes de uma decisão, orar e ouvir pessoas de confiança. O destino importa, mas o modo como chegamos até ele e o cuidado que oferecemos durante o caminho também têm valor.",
+  "question": "Além de pedir um resultado, que sabedoria ou atitude você pode pedir a Deus para uma situação que está vivendo?",
+  "prayer": "Senhor, acompanha nossos passos e ensina-nos teus caminhos. Ajuda-me a buscar tua bondade antes de correr atrás de uma resposta rápida. Dá-me sabedoria para decidir, humildade para ouvir e paz para caminhar com cuidado pelas pessoas ao meu redor. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés ora junto à tenda do encontro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses alone at entrance of isolated simple desert tent, luminous cloud rising above doorway, reverent calm prayer, camp far away, no visible deity."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo observa Moisés caminhar até a tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Wide desert scene Moses walking toward small isolated tent while families watch respectfully from distant tent entrances, natural morning light."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés pede direção em uma conversa de oração.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Close-medium Moses seated inside simple linen tent with hands open and attentive expression, soft cloud-filtered daylight, no second human figure or deity."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés encontra abrigo numa abertura da rocha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses stands safely within broad natural rock cleft looking toward warm luminous cloud beyond, fully clothed, reverent mystery, no giant hand or visible deity."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+33&version=KJV"
+  ]
+}

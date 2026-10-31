@@ -1,0 +1,71 @@
+{
+  "id": 112,
+  "title": "Acsa Pede Fontes de Água",
+  "subtitle": "Coragem para dizer do que precisamos",
+  "reference": "Josué 15:16–19",
+  "description": "Acsa recebe uma terra no Neguebe e percebe que precisa de água para cuidar dela. Com respeito e clareza, apresenta seu pedido a Calebe.",
+  "testament": "antigo",
+  "cover": "/images/covers/112.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma terra e uma nova vida",
+      "paragraphs": [
+        "Na distribuição das terras de Judá, a família de Calebe recebeu cidades, montanhas e regiões mais secas. Sua filha Acsa havia se casado com Otniel, que conquistara a cidade de Debir. Agora ela pensava na vida que começariam. Além de um lugar para morar, precisariam de condições para cuidar da terra e sustentar a família.",
+        "Depois do casamento, Acsa começou a pensar na terra onde sua família viveria. Havia recebido uma região no Neguebe, conhecida por suas condições secas. Ter um pedaço de chão era importante, mas a vida ali dependia de mais coisas. Pessoas, animais e plantações precisavam de água. Uma terra sem esse recurso traria dificuldades que não podiam ser ignoradas.",
+        "Acsa observou sua situação e pensou no futuro da família. Havia uma necessidade importante a considerar antes que tudo estivesse resolvido. Ela incentivou Otniel a pedir um campo ao pai dela. Depois, a própria Acsa se aproximou de Calebe para conversar. Havia uma necessidade concreta, e ela encontrou uma maneira de apresentá-la."
+      ],
+      "image": "112/part1.webp",
+      "alt": "Acsa contempla a terra seca ao lado de Otniel, percebendo a necessidade de água para a nova vida."
+    },
+    {
+      "heading": "Um pedido bem explicado",
+      "paragraphs": [
+        "Acsa vinha montada num jumento. Quando chegou perto de Calebe, desceu do animal para conversar com ele. O pai percebeu seu movimento e perguntou o que ela desejava. A filha tinha pensado no terreno recebido e na dificuldade que a falta de água traria. Aquele era o momento de apresentar seu pedido com clareza.",
+        "Ela explicou que o lugar era seco e pediu também fontes de água. Seu pedido tinha uma razão clara. Não se tratava apenas de acumular mais coisas ou comparar o que recebera com os outros. A água era necessária para viver, cultivar e sustentar a família. Acsa apresentou tanto a dificuldade quanto aquilo que poderia ajudar a resolvê-la.",
+        "Calebe escutou enquanto a filha falava da terra seca. Ela conhecia a importância de uma nascente para a casa, os animais e as plantações. Por isso, pediu que o presente do pai incluísse também fontes de água. Acsa havia encontrado palavras simples para explicar a necessidade, e sua voz foi ouvida naquela conversa familiar."
+      ],
+      "image": "112/part2.webp",
+      "alt": "Acsa desce do jumento e apresenta seu pedido a Calebe numa conversa respeitosa."
+    },
+    {
+      "heading": "Fontes para o caminho adiante",
+      "paragraphs": [
+        "Calebe atendeu ao pedido e lhe deu as fontes superiores e as fontes inferiores. Acsa recebeu uma resposta generosa. Agora, junto da terra, havia água para ajudar a cuidar do lugar. O terreno que antes preocupava a filha podia ser visto com outra esperança, pois uma necessidade importante da família tinha sido atendida.",
+        "As fontes não fariam todo o trabalho pela família. Ainda seria preciso cuidar da terra, dos animais e das tarefas diárias. Mas a presença da água mudava as possibilidades. Acsa havia reconhecido uma necessidade importante, buscado quem poderia ajudar e explicado seu pedido. A resposta do pai abriu melhores condições para o novo começo.",
+        "Acsa tinha chegado ao encontro com uma preocupação e voltaria levando uma boa notícia. O pai lhe concedera aquilo de que precisava para cuidar da terra. Entre as montanhas e os caminhos de Judá, as fontes fariam parte do futuro de sua casa. Uma conversa breve havia aberto espaço para um presente de grande valor."
+      ],
+      "image": "112/part3.webp",
+      "alt": "Água cristalina sai de uma nascente entre pedras; Acsa acompanha o pequeno curso com esperança."
+    }
+  ],
+  "lesson": "Podemos aprender a pedir ajuda com clareza. Em vez de esperar que todos adivinhem, podemos explicar uma dificuldade e dizer o que seria útil. Isso vale para uma tarefa difícil, um material de que precisamos ou um sentimento que não conseguimos resolver sozinhos. Acsa também nos lembra do valor da água. Recebê-la é um presente e uma responsabilidade: evitar desperdício e cuidar das fontes ajuda pessoas, animais e plantas.",
+  "question": "Que necessidade você pode explicar com mais clareza a um adulto que cuida de você?",
+  "prayer": "Deus, ajuda-nos a reconhecer nossas necessidades e a conversar com respeito sobre elas. Dá atenção a quem escuta e coragem a quem precisa pedir ajuda. Obrigado pela água que sustenta a vida; ensina-nos a usá-la com cuidado e a repartir o que recebemos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Acsa e Calebe observam uma fonte que corre entre pedras numa região seca, com vegetação perto da água.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Achsah adult olive-skinned woman dark braided hair, teal linen dress, cream veil, thoughtful confident expression; elderly Caleb white beard blue cloak sand tunic. Ancient dry southern Judean countryside, donkey and natural springs. Scene: Acsa e Calebe observam uma fonte que corre entre pedras numa região seca, com vegetação perto da água."
+    },
+    {
+      "role": "part1",
+      "alt": "Acsa contempla a terra seca ao lado de Otniel, percebendo a necessidade de água para a nova vida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Achsah adult olive-skinned woman dark braided hair, teal linen dress, cream veil, thoughtful confident expression; elderly Caleb white beard blue cloak sand tunic. Ancient dry southern Judean countryside, donkey and natural springs. Scene: Acsa contempla a terra seca ao lado de Otniel, percebendo a necessidade de água para a nova vida."
+    },
+    {
+      "role": "part2",
+      "alt": "Acsa desce do jumento e apresenta seu pedido a Calebe numa conversa respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Achsah adult olive-skinned woman dark braided hair, teal linen dress, cream veil, thoughtful confident expression; elderly Caleb white beard blue cloak sand tunic. Ancient dry southern Judean countryside, donkey and natural springs. Scene: Acsa desce do jumento e apresenta seu pedido a Calebe numa conversa respeitosa."
+    },
+    {
+      "role": "part3",
+      "alt": "Água cristalina sai de uma nascente entre pedras; Acsa acompanha o pequeno curso com esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Achsah adult olive-skinned woman dark braided hair, teal linen dress, cream veil, thoughtful confident expression; elderly Caleb white beard blue cloak sand tunic. Ancient dry southern Judean countryside, donkey and natural springs. Scene: Água cristalina sai de uma nascente entre pedras; Acsa acompanha o pequeno curso com esperança."
+    }
+  ]
+}

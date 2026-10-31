@@ -1,0 +1,72 @@
+{
+  "id": 269,
+  "title": "A Luz que Orienta",
+  "subtitle": "Jesus convida as pessoas a seguir sua direção",
+  "reference": "João 8:12; 12:35–36",
+  "description": "Ao se apresentar como a luz do mundo, Jesus oferece uma direção para os passos e para o coração.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.8.KJV",
+    "https://www.bible.com/bible/1/JHN.12.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma luz para o caminho",
+      "paragraphs": [
+        "Em Jerusalém, Jesus falou às pessoas usando uma imagem simples e poderosa. Ele se apresentou como a luz do mundo. Quem o seguisse não precisaria caminhar nas trevas, porque teria a luz da vida. Suas palavras podiam ser ouvidas por gente muito diferente, mas todas conheciam a importância de enxergar o caminho.",
+        "Naquela época, não havia postes elétricos iluminando as ruas. Dentro das casas, uma pequena lâmpada de azeite ajudava a encontrar os objetos e a reconhecer os rostos. Num caminho escuro, até uma pedra comum podia fazer alguém tropeçar. A luz mudava a maneira de caminhar, mostrando o que antes permanecia escondido.",
+        "Jesus não estava dizendo que seu corpo funcionava como uma lâmpada. A comparação apontava para sua presença e seus ensinamentos. Segui-lo significava receber direção para a vida, aprender a reconhecer a verdade e responder ao amor de Deus. Sua luz alcançava escolhas, relações e esperanças, não somente os olhos de quem o escutava."
+      ],
+      "alt": "Jesus ensina no pátio do templo em Jerusalém.",
+      "image": "269/part1.webp"
+    },
+    {
+      "heading": "Seguir enquanto há luz",
+      "paragraphs": [
+        "Mais adiante, Jesus voltou a falar sobre luz e escuridão. Sua caminhada em Jerusalém se aproximava de momentos muito difíceis. Ele sabia que permaneceria visível entre aquelas pessoas por pouco tempo. Por isso, convidou seus ouvintes a caminhar enquanto tinham a luz, em vez de deixar a decisão sempre para depois.",
+        "Quem anda no escuro não consegue perceber bem para onde está indo. Pode continuar dando passos sem compreender a direção. A comparação ajudava a explicar que ouvir Jesus exigia mais que curiosidade. Suas palavras pediam confiança e uma resposta. A oportunidade de aprender com ele não deveria ser tratada como coisa sem importância.",
+        "Jesus convidou as pessoas a crer na luz e se tornarem filhos da luz. Era uma maneira de falar de uma vida marcada pela verdade que recebiam. Não bastava admirar um ensinamento bonito e guardá-lo distante. A luz recebida podia transformar a maneira de tratar o próximo e de reconhecer os próprios erros."
+      ],
+      "alt": "Uma lâmpada de azeite ilumina um caminho de pedras como imagem do ensinamento.",
+      "image": "269/part2.webp"
+    },
+    {
+      "heading": "Passos que recebem direção",
+      "paragraphs": [
+        "A imagem da luz não fazia dos seguidores de Jesus pessoas que sabiam tudo. Eles ainda tinham perguntas, precisavam aprender e poderiam falhar. O convite era continuar voltados para aquele que os guiava. Assim como os olhos procuram claridade para reconhecer uma passagem, o coração podia buscar suas palavras para escolher melhor.",
+        "Luz também permite ver o outro. Quando Jesus ensinava sobre amor, verdade e perdão, mostrava caminhos que não giravam apenas em torno de vantagem pessoal. Sua direção ajudava a perceber quem precisava de cuidado e quando era necessário mudar de atitude. O que antes parecia escondido podia ser reconhecido com honestidade.",
+        "Os ouvintes precisavam decidir como responder. A mesma imagem continua clara para quem conhece essa história: uma luz só orienta o caminho quando prestamos atenção ao que ela mostra. Jesus ofereceu mais que uma frase para lembrar. Convidou as pessoas a caminhar com ele, recebendo vida e aprendendo a viver na verdade."
+      ],
+      "alt": "Jesus segue com seus discípulos por uma rua iluminada pela manhã.",
+      "image": "269/part3.webp"
+    }
+  ],
+  "lesson": "Os ensinamentos de Jesus podem orientar escolhas concretas: contar a verdade, reparar um erro e perceber quem precisa de ajuda. Procurar essa direção inclui ler, perguntar e conversar com adultos de confiança. Ter dúvidas não apaga nosso valor nem impede o aprendizado. Como alguém que avança por um caminho iluminado, podemos dar um passo de cada vez e corrigir a direção quando for preciso.",
+  "question": "Que escolha sua hoje pode receber direção de um ensinamento de Jesus?",
+  "prayer": "Jesus, luz do mundo, ajuda-me a enxergar com honestidade minhas escolhas e as necessidades de quem está perto. Orienta meus passos pelo teu amor. Quando eu tiver dúvidas, dá-me disposição para aprender; quando eu errar, coragem para mudar de caminho. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/269.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus ensina enquanto a luz da manhã atravessa o pátio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle in Jerusalem temple courtyard, warm sunlight crossing pale stone columns, four adult listeners attentive, no supernatural body glow, visual emphasis on natural light and gentle wise face."
+    },
+    {
+      "role": "part1",
+      "alt": "Os ouvintes prestam atenção em Jesus no templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Side medium view Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle speaking to Jewish adult men and women in linen robes in temple colonnade, sunlight pools on stone floor, thoughtful listening expressions, historically plausible."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma lâmpada pequena ilumina o piso de pedra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Symbolic teaching illustration: close-up ancient clay olive oil lamp burning steadily on low stone ledge at twilight, light illuminating a few uneven steps of a first-century stone path, no people, detailed clay and amber flame, not magical."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus e seus amigos caminham sob a luz da manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle walking along Jerusalem stone lane with three adult disciples, morning light ahead, warm thoughtful faces, new wide composition, no modern streetlights."
+    }
+  ]
+}

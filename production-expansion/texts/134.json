@@ -1,0 +1,71 @@
+{
+  "id": 134,
+  "title": "A Mesma Parte para Todos",
+  "subtitle": "O cuidado de quem ficou com a bagagem",
+  "reference": "1 Samuel 30:1–25",
+  "description": "Depois de uma jornada exaustiva, alguns homens não conseguem continuar. Quando Davi volta, precisa defender o valor de quem ficou para cuidar da bagagem.",
+  "testament": "antigo",
+  "cover": "/images/covers/134.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma viagem pesada",
+      "paragraphs": [
+        "Davi e seus homens voltaram a Ziclague e encontraram a cidade queimada. Suas famílias haviam sido levadas pelos amalequitas. A dor foi tão grande que choraram até perder as forças. Ninguém tinha uma solução simples para oferecer. Davi também sofria, mas buscou no Senhor força e orientação para responder àquela situação de perigo.",
+        "Depois de consultar a Deus, partiu com seiscentos homens para procurar as pessoas levadas. A caminhada era urgente e cansativa. Quando chegaram ao ribeiro de Besor, duzentos homens estavam exaustos demais para continuar. Eles ficaram ali, enquanto Davi seguiu com os outros quatrocentos. O limite do corpo não desaparecia só porque a missão era importante.",
+        "Os que ficaram passaram a guardar a bagagem. Essa tarefa não tinha o mesmo movimento da perseguição, mas continuava necessária. Alguém precisava cuidar do que o grupo não podia carregar adiante. A separação dos homens não significava que uns amavam suas famílias e outros não. Significava que pessoas diferentes haviam chegado a limites diferentes naquele dia."
+      ],
+      "image": "134/part1.webp",
+      "alt": "Alguns homens descansam com segurança à sombra, perto da bagagem e de um pequeno curso de água."
+    },
+    {
+      "heading": "O reencontro depois do perigo",
+      "paragraphs": [
+        "No caminho, os homens de Davi encontraram um egípcio que fora deixado para trás por estar doente. Deram-lhe alimento e água, e ele recuperou forças. Depois, ele os ajudou a encontrar o acampamento dos amalequitas. O cuidado com uma pessoa vulnerável fez parte do caminho que levou ao reencontro com as famílias.",
+        "Houve combate, e Davi conseguiu recuperar as pessoas e os bens levados. Ninguém ficou para trás: do menor ao maior, todos foram encontrados. Essa notícia era o centro da alegria: as famílias estavam vivas e voltariam juntas. O grupo também trouxe rebanhos e outros bens. Depois de tanto medo, começou a viagem de retorno ao lugar onde os companheiros esperavam.",
+        "Ao chegar ao ribeiro de Besor, Davi encontrou os duzentos homens que haviam ficado. Eles saíram para recebê-lo junto com o grupo. Davi se aproximou e perguntou como estavam. Antes de falar sobre a divisão dos bens, dirigiu-se a eles como companheiros. O cansaço que os impedira de seguir não os tornava invisíveis nem menos dignos de cuidado."
+      ],
+      "image": "134/part2.webp",
+      "alt": "Famílias e viajantes se reencontram num caminho, com expressões de alívio e abraços respeitosos."
+    },
+    {
+      "heading": "Uma regra de partilha",
+      "paragraphs": [
+        "Alguns dos homens que haviam acompanhado Davi reclamaram. Disseram que os que ficaram não deveriam receber parte dos bens recuperados, apenas suas próprias famílias. Queriam ligar o direito à partilha somente à presença no confronto. Esqueciam que a bagagem também havia sido guardada e que o resultado não era fruto de sua força isolada.",
+        "Davi recusou essa divisão. Lembrou que o Senhor os havia protegido e entregado o que recuperaram. Disse que quem descia à batalha e quem ficava com a bagagem receberia a mesma parte. A decisão reconhecia tarefas diferentes dentro da mesma comunidade. Não era justo transformar o esgotamento de alguns em motivo para excluí-los da alegria e do sustento.",
+        "Essa orientação se tornou uma regra em Israel. A história guarda uma forma de justiça que olha além da tarefa mais visível. Quem cuida do que fica, quem organiza e quem sustenta o grupo também participa. A recuperação das famílias não precisava terminar numa nova ferida entre companheiros. Davi escolheu repartir de um modo que preservava o pertencimento de todos."
+      ],
+      "image": "134/part3.webp",
+      "alt": "Davi conversa com o grupo enquanto alimentos e cestos são distribuídos de maneira igual entre os companheiros."
+    }
+  ],
+  "lesson": "Nem toda ajuda aparece na frente. Num passeio, numa festa ou num trabalho, alguém organiza, guarda materiais ou cuida de quem precisa descansar. Essas tarefas também têm valor. Podemos reconhecer o esforço dos outros sem comparar tudo como uma competição. Respeitar o cansaço e os limites de uma pessoa é uma forma de justiça. A alegria do grupo fica maior quando a partilha não deixa de fora quem contribuiu de um jeito diferente.",
+  "question": "Que tarefa pouco visível alguém faz para ajudar seu grupo, e como você pode reconhecer essa contribuição?",
+  "prayer": "Deus, ensina-nos a perceber o valor de quem cuida nos bastidores. Ajuda-nos a respeitar o cansaço, repartir com justiça e agradecer por tarefas diferentes das nossas. Que ninguém se sinta menos importante por precisar descansar ou por ajudar de um jeito menos visível. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi recebe os companheiros junto ao ribeiro de Besor e reparte provisões com todos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls tan tunic green sash brown cloak. Adult men tired but safe beside stream Besor, baskets blankets bundles, reunited families. No burned city, injury or combat. Only scene-specific cast. Scene: Davi recebe os companheiros junto ao ribeiro de Besor e reparte provisões com todos."
+    },
+    {
+      "role": "part1",
+      "alt": "Alguns homens descansam com segurança à sombra, perto da bagagem e de um pequeno curso de água.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls tan tunic green sash brown cloak. Adult men tired but safe beside stream Besor, baskets blankets bundles, reunited families. No burned city, injury or combat. Only scene-specific cast. Scene: Alguns homens descansam com segurança à sombra, perto da bagagem e de um pequeno curso de água. MANDATORY SCENE CAST: Only exhausted adult men resting with luggage. David is away and absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Famílias e viajantes se reencontram num caminho, com expressões de alívio e abraços respeitosos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls tan tunic green sash brown cloak. Adult men tired but safe beside stream Besor, baskets blankets bundles, reunited families. No burned city, injury or combat. Only scene-specific cast. Scene: Famílias e viajantes se reencontram num caminho, com expressões de alívio e abraços respeitosos."
+    },
+    {
+      "role": "part3",
+      "alt": "Davi conversa com o grupo enquanto alimentos e cestos são distribuídos de maneira igual entre os companheiros.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls tan tunic green sash brown cloak. Adult men tired but safe beside stream Besor, baskets blankets bundles, reunited families. No burned city, injury or combat. Only scene-specific cast. Scene: Davi conversa com o grupo enquanto alimentos e cestos são distribuídos de maneira igual entre os companheiros."
+    }
+  ]
+}

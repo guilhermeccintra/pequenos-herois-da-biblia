@@ -1,0 +1,35 @@
+{
+  "edition": "2.0.0",
+  "date": "2026-10-31",
+  "stories": 365,
+  "new_stories": 325,
+  "private_images": 1460,
+  "public_images": 371,
+  "distinct_illustrations": 1460,
+  "new_source_pngs_reviewed": 1300,
+  "testament_counts": {
+    "antigo": 215,
+    "novo": 150
+  },
+  "tests": {
+    "passed": 65,
+    "failed": 0
+  },
+  "build": "passed",
+  "import_dry_run": {
+    "stories": 365,
+    "images": 1460,
+    "bytes": 196611602
+  },
+  "original_40_texts_exact": true,
+  "original_160_images_exact": true,
+  "original_public_sample_exact": true,
+  "additional_cross_review": {
+    "images": 24,
+    "corrections_completed": 1,
+    "pending": 0
+  },
+  "browser_qa": "not_executed_environment_unavailable",
+  "live_integrations": "not_executed",
+  "audio_files_delivered": 0
+}

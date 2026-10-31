@@ -1,0 +1,71 @@
+{
+  "id": 244,
+  "title": "André Apresenta Seu Irmão",
+  "subtitle": "Uma descoberta boa demais para guardar",
+  "reference": "João 1:35–42",
+  "description": "André passa um tempo com Jesus e depois procura seu irmão Simão. Um convite simples abre o começo de uma grande caminhada.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma indicação importante",
+      "paragraphs": [
+        "João Batista estava acompanhado de dois de seus discípulos. Quando viu Jesus passar, indicou quem ele era, chamando-o Cordeiro de Deus. Essa expressão apontava para a missão de Jesus de trazer salvação. João não tentou prender seus discípulos à própria pessoa. Seu trabalho era ajudá-los a reconhecer aquele que vinha de Deus.",
+        "Os dois ouviram o que João disse e começaram a seguir Jesus. Um deles era André, irmão de Simão Pedro. A indicação de João despertou sua atenção e colocou seus pés em movimento. Agora deixavam o lugar onde estavam para conhecer de perto aquele homem que João acabara de apontar como o Cordeiro de Deus.",
+        "Jesus se virou e percebeu que estavam seguindo-o. Perguntou o que procuravam. A pergunta abriu espaço para uma conversa. Não os tratou como uma multidão sem rosto. Os dois o chamaram de Mestre e perguntaram onde estava hospedado. Queriam mais do que vê-lo passar: desejavam estar com ele e ouvir."
+      ],
+      "alt": "André e outro discípulo se aproximam de Jesus no caminho.",
+      "image": "244/part1.webp"
+    },
+    {
+      "heading": "Tempo para conhecer",
+      "paragraphs": [
+        "Jesus os convidou a ir e ver. Não entregou apenas uma informação sobre o endereço. Abriu a possibilidade de um encontro. Eles foram, viram onde estava hospedado e permaneceram com ele naquele dia. João registra até o horário aproximado: era por volta da décima hora, geralmente entendida como o fim da tarde.",
+        "Eles foram com Jesus, viram onde estava hospedado e ficaram com ele naquele dia. O convite para conhecer se transformara em tempo compartilhado. André e seu companheiro podiam agora estar perto daquele de quem João havia falado. A busca começara com alguns passos atrás de Jesus e os levara a permanecer em sua companhia.",
+        "André saiu daquele encontro com uma convicção importante. Havia encontrado o Messias, o Cristo esperado. Não possuía ainda todas as experiências que viveria como discípulo. Muitos ensinamentos, dúvidas e descobertas continuavam à frente. Mesmo assim, já tinha algo verdadeiro para compartilhar: conhecera Jesus e desejava que seu irmão também o encontrasse."
+      ],
+      "alt": "Jesus recebe André e seu companheiro para uma conversa tranquila.",
+      "image": "244/part2.webp"
+    },
+    {
+      "heading": "Um irmão leva o outro",
+      "paragraphs": [
+        "André procurou primeiro seu irmão Simão. Contou que haviam encontrado o Messias e o levou até Jesus. Sua participação foi simples e decisiva. Não fez um discurso complicado nem afirmou saber tudo. Compartilhou uma descoberta e acompanhou alguém querido até o encontro. Um vínculo de família se tornou ponte para uma nova caminhada.",
+        "Quando Simão chegou, Jesus olhou para ele. Disse que ele era Simão, filho de João, e que seria chamado Cefas, nome que significa Pedro. Aquele encontro apontava para uma transformação que aconteceria ao longo do caminho. Simão ainda aprenderia muito, inclusive depois de errar e precisar recomeçar.",
+        "André não ficou conhecido por ocupar sempre o centro das histórias, mas sua atitude teve grande importância. Foi ele quem aproximou seu irmão de Jesus naquele dia. A cena começou com João indicando Jesus, continuou com dois discípulos que foram conhecer e terminou com mais um convite. A boa notícia ganhava caminhos através de encontros pessoais."
+      ],
+      "alt": "André apresenta Simão a Jesus com alegria e expectativa.",
+      "image": "244/part3.webp"
+    }
+  ],
+  "lesson": "Compartilhar algo bom não exige saber todas as respostas. Podemos convidar alguém para uma leitura, uma conversa ou uma atividade que nos ajudou, sempre respeitando sua liberdade. André também nos lembra do valor de aproximar pessoas. Quem apresenta um amigo, acolhe alguém novo ou acompanha quem está inseguro pode fazer uma diferença grande com um gesto simples e cheio de atenção.",
+  "question": "Que descoberta boa você gostaria de compartilhar com alguém, respeitando o jeito dessa pessoa?",
+  "prayer": "Jesus, obrigado pelas pessoas que nos ajudam a conhecer coisas boas. Ensina-nos a convidar com carinho e a respeitar cada pessoa. Que saibamos acompanhar quem está inseguro, apresentar amigos e compartilhar nossas descobertas com humildade e alegria. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/244.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "André apresenta Simão a Jesus em um caminho da Galileia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle warmly receives brothers Andrew curly dark hair short beard olive tunic and Simon thick dark beard tan tunic rust sash, Andrew gestures between them, ancient village path olive trees."
+    },
+    {
+      "role": "part1",
+      "alt": "André e outro discípulo se aproximam de Jesus no caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle turns to greet Andrew olive tunic curly dark hair short beard and another adult disciple sand tunic walking behind, riverside path, attentive welcoming faces, late-afternoon sunlight."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus recebe André e seu companheiro para uma conversa tranquila.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle seated in simple stone courtyard talking with Andrew olive tunic and second disciple sand tunic, listening expressions, low wooden table with water jug, warm late-afternoon light."
+    },
+    {
+      "role": "part3",
+      "alt": "André apresenta Simão a Jesus com alegria e expectativa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Andrew curly dark hair short beard olive tunic places gentle hand near brother Simon thick beard tan tunic rust sash and introduces him to smiling Jesus cream tunic terracotta mantle, medium framing, humble courtyard."
+    }
+  ]
+}

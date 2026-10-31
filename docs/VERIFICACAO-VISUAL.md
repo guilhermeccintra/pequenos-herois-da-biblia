@@ -1,3 +1,5 @@
+> Registro histórico da edição original de 40 histórias. A ampliação para 365 tem uma nova verificação: neste ambiente, a prévia de navegador está indisponível. Os testes de código e a inspeção direta das novas ilustrações são registrados separadamente na entrega da ampliação.
+
 # Verificação visual e funcional
 
 Revisão no navegador da prévia local, com as histórias reais e imagens finais.

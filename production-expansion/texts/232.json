@@ -1,0 +1,74 @@
+{
+  "id": 232,
+  "title": "Amós e a Justiça como um Rio",
+  "subtitle": "O cuidado com o próximo faz parte da fé",
+  "reference": "Amós 5:10–24",
+  "description": "O profeta chama o povo a unir sua adoração a atitudes justas e ao cuidado com quem está sofrendo.",
+  "testament": "antigo",
+  "cover": "/images/covers/232.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma mensagem que precisava ser ouvida",
+      "paragraphs": [
+        "Amós anunciou uma mensagem séria ao povo de Israel. Havia pessoas sofrendo injustiça, enquanto outras se acostumavam a viver com vantagens recebidas de maneira errada. O profeta chamou a atenção para o que acontecia nos lugares onde as decisões eram tomadas. Quem falava a verdade nem sempre era recebido com respeito.",
+        "Os pobres eram pressionados, e pessoas necessitadas encontravam portas fechadas quando buscavam justiça. Alguns aceitavam presentes para decidir em favor de quem podia pagar. Amós mostrou que essas escolhas feriam a vida da comunidade. As casas bonitas de alguns não escondiam o sofrimento das pessoas que estavam sendo prejudicadas.",
+        "O Senhor conhecia essa realidade. A mensagem do profeta colocava diante do povo a necessidade de uma mudança verdadeira. Era preciso olhar para as relações, para os negócios e para as decisões. A justiça deveria alcançar especialmente quem tinha menos força para defender seus direitos e precisava ser ouvido com atenção."
+      ],
+      "image": "232/part1.webp",
+      "alt": "Uma família espera ser ouvida no portão da cidade"
+    },
+    {
+      "heading": "Procurar o bem com o coração inteiro",
+      "paragraphs": [
+        "Amós convidou o povo a buscar o bem e a se afastar do mal. Também pediu que a justiça fosse estabelecida nos lugares de julgamento. O chamado tinha direção concreta: tratar as pessoas com honestidade, escutar suas necessidades e tomar decisões corretas. A vida poderia encontrar outro caminho quando essas atitudes fossem praticadas.",
+        "A mensagem alcançava também as festas religiosas, as ofertas e as canções. O Senhor desejava que a adoração estivesse ligada a uma vida justa. Havia um problema quando as pessoas cantavam enquanto mantinham atitudes que machucavam o próximo. O louvor precisava continuar no cuidado oferecido depois que a música terminasse.",
+        "Podemos entender esse convite em situações pequenas. Uma pessoa pode falar de bondade e depois excluir alguém de uma brincadeira. Pode desejar ser tratada com respeito e esquecer de ouvir o outro. O ensino de Amós nos ajuda a aproximar aquilo em que acreditamos da maneira como agimos todos os dias."
+      ],
+      "image": "232/part2.webp",
+      "alt": "Amós anuncia a importância de cuidar das pessoas"
+    },
+    {
+      "heading": "Um rio que continua correndo",
+      "paragraphs": [
+        "Para mostrar o que Deus desejava, Amós usou uma imagem forte: a justiça deveria correr como águas, e a retidão, como uma correnteza constante. Podemos imaginar um rio atravessando a paisagem e levando água adiante. Seu movimento lembra um cuidado que alcança diferentes lugares e continua presente ao longo do tempo.",
+        "A justiça assim descrita pede continuidade. Ela aparece quando ouvimos com atenção, usamos uma regra de maneira correta e defendemos alguém que foi tratado injustamente. Também aparece ao reconhecer um erro nosso e procurar repará-lo. Cada atitude pode fazer parte de uma convivência em que o respeito tenha espaço para crescer.",
+        "O anúncio de Amós convida o coração a aprender um louvor vivido. Podemos agradecer a Deus com a voz e responder com as mãos, os ouvidos e as escolhas. Procurar o bem de quem está perto é uma maneira de acolher essa mensagem. Como um rio, a justiça pode seguir encontrando caminhos na vida cotidiana."
+      ],
+      "image": "232/part3.webp",
+      "alt": "Vizinhos repartem alimento e escutam uns aos outros"
+    }
+  ],
+  "lesson": "Amós ensina que a fé alcança a maneira como tratamos as pessoas. Podemos louvar a Deus e também praticar honestidade, respeito e cuidado com quem precisa. Pense numa situação em que alguém não foi ouvido ou tratado de modo justo. Procure ajuda para melhorar essa convivência. Uma atitude correta, repetida com constância, pode contribuir para que a justiça encontre espaço no dia a dia.",
+  "question": "Que situação do seu dia precisa de mais justiça e escuta cuidadosa?",
+  "prayer": "Senhor, ajuda-me a unir minhas palavras a atitudes verdadeiras. Ensina-me a agir com justiça, ouvir quem precisa e reconhecer meus erros. Que meu louvor continue no cuidado com o próximo e que minhas escolhas ajudem a construir uma convivência respeitosa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/AMO05.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Amós fala sobre justiça perto de um rio",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Amos 5: Amos standing on a safe bank beside a strong clear river, addressing a few ancient Hebrew adults with earnest compassion, green banks and warm sun, river symbol of justice, no visible deity. Amos is a middle-aged brown-skinned Hebrew prophet with sun-weathered kind face, dark curly hair, full beard, simple beige tunic and rough brown mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma família espera ser ouvida no portão da cidade",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Israelite city gate scene with modest family waiting respectfully to speak to seated elders, concerned faces, Amos observing thoughtfully nearby, no humiliation or physical violence, rich stone and linen detail. Amos is a middle-aged brown-skinned Hebrew prophet with sun-weathered kind face, dark curly hair, full beard, simple beige tunic and rough brown mantle."
+    },
+    {
+      "role": "part2",
+      "alt": "Amós anuncia a importância de cuidar das pessoas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Amos speaking earnestly to ancient Hebrew townspeople in a public courtyard, a poor elder and family included prominently among listeners, honest open gestures, warm light and simple instruments resting unused nearby. Amos is a middle-aged brown-skinned Hebrew prophet with sun-weathered kind face, dark curly hair, full beard, simple beige tunic and rough brown mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos repartem alimento e escutam uns aos outros",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew community sharing grain fairly with a modest family at a courtyard table, one elder listening attentively to a woman, children nearby, balanced clay bowls, warm respectful atmosphere, no text. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

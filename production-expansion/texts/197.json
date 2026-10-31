@@ -1,0 +1,76 @@
+{
+  "id": 197,
+  "title": "Amigos que Aprendem a Escutar",
+  "subtitle": "Presença vale mais que respostas apressadas",
+  "reference": "Jó 2:11–13; 16:1–5; 42:7–9",
+  "description": "Os amigos de Jó chegam para consolá-lo. Mas, quando começam a explicar sua dor sem compreendê-la, precisam aprender que palavras também podem machucar.",
+  "testament": "antigo",
+  "cover": "/images/covers/197.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita de solidariedade",
+      "paragraphs": [
+        "Elifaz, Bildade e Zofar souberam que seu amigo Jó passava por um sofrimento enorme. Ele havia perdido pessoas queridas, bens e saúde. Os três combinaram sair de seus lugares e visitá-lo. Queriam demonstrar tristeza junto dele e oferecer consolo. Fazer essa viagem era uma maneira de mostrar que a amizade não tinha sido esquecida.",
+        "Quando o viram, ficaram muito abalados. Jó estava tão diferente que quase não o reconheceram. Eles choraram e se sentaram no chão com ele. Durante sete dias e sete noites, permaneceram em silêncio. Perceberam que a dor era grande demais para ser tratada como uma conversa comum ou resolvida por uma frase rápida.",
+        "Naqueles primeiros dias, a presença tinha importância. Eles não podiam desfazer o que acontecera, mas podiam estar perto. O livro nos deixa enxergar esse começo cuidadoso antes de contar as discussões que viriam. A amizade havia encontrado uma boa atitude: reconhecer o sofrimento e não exigir que Jó voltasse depressa a parecer feliz."
+      ],
+      "image": "197/part1.webp",
+      "alt": "Os amigos chegam para oferecer companhia a Jó."
+    },
+    {
+      "heading": "Quando as palavras pesam",
+      "paragraphs": [
+        "Depois, as conversas ficaram difíceis. Os amigos tentaram explicar o sofrimento de Jó como se conhecessem exatamente sua causa. Em muitas de suas falas, ligavam a dor a alguma culpa que ele deveria admitir. Mas a própria abertura do livro já havia mostrado que Jó era um homem justo. A explicação dos amigos não dava conta daquela realidade.",
+        "Jó ouviu muitas palavras e se sentiu ainda mais ferido. Disse que eles eram consoladores que não ajudavam. Perguntou se aquelas falas sem utilidade não teriam fim. Ele precisava ser escutado, mas recebia julgamentos. A intenção inicial de consolar não tornava boa qualquer coisa que decidissem dizer diante de sua dor.",
+        "Jó pediu que imaginassem estar em seu lugar. Se as posições fossem trocadas, também seria possível fazer discursos e balançar a cabeça em julgamento. Mas ele disse que procuraria fortalecê-los com suas palavras e aliviar o sofrimento. A conversa colocou diante dos amigos uma pergunta importante: a fala está sustentando alguém ou aumentando seu peso?"
+      ],
+      "image": "197/part2.webp",
+      "alt": "Jó pede aos amigos que considerem como seria estar em seu lugar."
+    },
+    {
+      "heading": "Aprender com a correção",
+      "paragraphs": [
+        "No final do livro, Deus repreendeu Elifaz e seus dois amigos. Disse que não haviam falado corretamente a seu respeito como Jó. Essa correção impede que tratemos todas as explicações dos amigos como ensinamentos certos apenas porque aparecem na Bíblia. O livro registra suas palavras justamente dentro de uma discussão que precisa ser examinada.",
+        "Os três receberam orientação para procurar Jó, e ele oraria por eles. Fizeram o que lhes foi pedido, e Deus acolheu a oração de Jó. Aquele que havia sido julgado se tornou alguém que intercedia por seus amigos. A história não termina declarando que as acusações deles eram verdadeiras; mostra que precisavam de correção.",
+        "Uma amizade pode começar com boas intenções e ainda assim errar no modo de ajudar. Elifaz, Bildade e Zofar nos lembram disso. Seu silêncio inicial ofereceu companhia, mas suas certezas apressadas trouxeram peso. Para consolar, não é necessário ter resposta para toda pergunta. Às vezes, o caminho mais cuidadoso é escutar, admitir que não sabemos e permanecer perto com respeito."
+      ],
+      "image": "197/part3.webp",
+      "alt": "Jó ora por seus amigos depois da correção recebida."
+    }
+  ],
+  "lesson": "Antes de falar a alguém que sofre, podemos pensar se nossas palavras ajudam ou culpam. Frases como “isso aconteceu porque você fez algo errado” podem ferir e nem sempre são verdadeiras. Podemos dizer que sentimos muito, perguntar do que a pessoa precisa e aceitar momentos de silêncio. Se falarmos de um jeito que machucou, podemos reconhecer o erro e aprender uma maneira mais cuidadosa de estar perto.",
+  "question": "Qual frase simples poderia oferecer companhia sem tentar explicar a tristeza de alguém?",
+  "prayer": "Deus, ensina-nos a escutar antes de julgar. Dá-nos palavras que acolham e humildade para dizer que não sabemos todas as respostas. Ajuda-nos a reconhecer quando ferimos alguém e a mudar nossa maneira de falar, oferecendo presença, respeito e cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JOB02.htm",
+    "https://ebible.org/engwebp/JOB16.htm",
+    "https://ebible.org/engwebp/JOB42.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jó e seus amigos aprendem sobre o cuidado que as palavras precisam ter.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job seated with exactly three adult friends in an ancient shaded courtyard, one friend listens with humbled thoughtful face while Job speaks gently, fully clothed, no wounds, warm compassionate light. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Os amigos chegam para oferecer companhia a Jó.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Exactly three adult travelers approach Job resting on a mat beneath an olive tree, they carry simple travel bundles and look concerned, quiet ancient rural setting, no illness details. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Jó pede aos amigos que considerem como seria estar em seu lugar.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job calmly explains his feelings to exactly three adult companions seated at his level, open hand and sincere expression, friends attentive not aggressive, soft afternoon shade. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl. His illness is conveyed only by tired expression, never visible wounds."
+    },
+    {
+      "role": "part3",
+      "alt": "Jó ora por seus amigos depois da correção recebida.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job and exactly three adult friends stand together in peaceful prayer in a simple ancient courtyard, heads bowed gently, reconciliatory mood, no visible deity, golden morning light. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

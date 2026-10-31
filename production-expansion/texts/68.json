@@ -1,0 +1,71 @@
+{
+  "id": 68,
+  "title": "As Águas de Mara",
+  "subtitle": "Depois da água amarga, um lugar para respirar",
+  "reference": "Êxodo 15:22–27",
+  "description": "No deserto, o povo aprende a levar sua necessidade a Deus e encontra descanso em Elim.",
+  "testament": "antigo",
+  "cover": "/images/covers/68.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Três dias procurando água",
+      "paragraphs": [
+        "Depois de deixar a margem do mar, os israelitas seguiram para o deserto de Sur. Durante três dias caminharam sem encontrar água. A alegria da libertação continuava sendo verdadeira, mas seus corpos sentiam sede. Crianças, adultos, idosos e animais precisavam do mesmo cuidado essencial para continuar a viagem.",
+        "Finalmente chegaram a um lugar com água. A esperança deve ter crescido diante daquela descoberta, mas a água era amarga e não podia ser bebida. O lugar recebeu o nome de Mara, ligado a esse gosto. Encontrar aquilo de que precisavam e ainda assim não poder usá-lo tornou a decepção maior.",
+        "O povo reclamou com Moisés, perguntando o que beberia. A necessidade era real. Não bastava dizer às famílias que esquecessem a sede porque já tinham visto um grande milagre. A liberdade recém-recebida não tornava seus corpos diferentes. Agora era preciso aprender a confiar em Deus também nas necessidades de cada dia."
+      ],
+      "image": "68/part1.webp",
+      "alt": "As famílias chegam à água de Mara."
+    },
+    {
+      "heading": "Moisés pede ajuda",
+      "paragraphs": [
+        "Moisés clamou ao Senhor. Em vez de apresentar uma solução que não tinha, levou a situação a Deus. A Bíblia conta que o Senhor lhe mostrou uma madeira. Moisés a lançou na água, e a água se tornou própria para beber. Aquilo que parecia impedir a caminhada foi transformado em provisão.",
+        "O relato apresenta uma ação de Deus naquele momento, não uma receita para tratar qualquer água. O importante não era descobrir um objeto mágico no deserto. Era reconhecer que o Senhor escutava o pedido de ajuda e podia sustentar seu povo. Moisés participou obedecendo à orientação que havia recebido.",
+        "Em Mara, Deus também ensinou o povo a ouvir sua voz e seguir o que era justo. A caminhada da liberdade seria um aprendizado de confiança e obediência. O Senhor se apresentou como aquele que cuida e cura, mostrando que sua relação com Israel envolvia a vida inteira, e não somente a saída do Egito."
+      ],
+      "image": "68/part2.webp",
+      "alt": "Moisés coloca a madeira na água."
+    },
+    {
+      "heading": "Sombra e fontes em Elim",
+      "paragraphs": [
+        "A viagem prosseguiu até Elim. Ali havia doze fontes de água e setenta palmeiras. Depois da sede e da decepção em Mara, o povo encontrou um lugar onde podia acampar junto à água. As famílias não precisavam seguir sem pausa: havia espaço para descanso ao longo do caminho.",
+        "A Bíblia menciona as fontes e as palmeiras como marcas concretas daquele lugar. A provisão podia ser percebida na água disponível e na possibilidade de parar. O Deus que abrira o mar também acompanhava pessoas que precisavam beber e recuperar as forças. Grandes libertações e cuidados cotidianos pertenciam à mesma história.",
+        "Mara não foi a última parada, e Elim também não seria o destino final. Haveria outros trechos difíceis e outros momentos de alívio. O povo estava aprendendo que uma etapa amarga não descreve toda a viagem. Pedir ajuda, receber cuidado e descansar quando é possível são partes importantes de continuar caminhando com esperança."
+      ],
+      "image": "68/part3.webp",
+      "alt": "O acampamento encontra sombra em Elim."
+    }
+  ],
+  "lesson": "Uma decepção pode fazer parecer que todo o caminho será difícil. Mara lembra que podemos apresentar nossas necessidades a Deus sem esconder o cansaço. Elim nos ensina a reconhecer e aproveitar os momentos de descanso. Também podemos participar do cuidado oferecendo água, sombra, companhia ou ajuda a alguém. A fé não nos faz ignorar as necessidades do corpo; ela nos convida a tratá-las com atenção e gratidão.",
+  "question": "Qual cuidado simples ajuda você a recuperar as forças depois de um dia difícil?",
+  "prayer": "Senhor, cuida de quem sente sede, cansaço ou decepção. Ajuda-me a pedir ajuda quando preciso e a reconhecer os momentos de descanso que recebo. Ensina nossa família a cuidar do corpo, compartilhar recursos e continuar o caminho com esperança. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O povo descansa junto às fontes e palmeiras de Elim.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Hebrew families resting peacefully at lush desert oasis with clear springs and date palms, Moses near water smiling gently, rich landscape, warm sunlight."
+    },
+    {
+      "role": "part1",
+      "alt": "As famílias chegam à água de Mara.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses and adult travelers stand beside small desert pool looking concerned, empty clay cups and travel bundles, no one drinking unsafe water, distant tents."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés coloca a madeira na água.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses carefully lowers simple branch into desert pool as small group watches from bank, reverent hopeful light, natural scene no magical glowing stick."
+    },
+    {
+      "role": "part3",
+      "alt": "O acampamento encontra sombra em Elim.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Wide restful oasis scene family tents under date palms near clear spring, adults fill clay jars while children sit safely with parents, abundance of shade."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+15%3A22-27&version=KJV"
+  ]
+}

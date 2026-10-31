@@ -1,0 +1,71 @@
+{
+  "id": 167,
+  "title": "Uma Carta Diante de Deus",
+  "subtitle": "Levar o medo à oração",
+  "reference": "2 Reis 19:8–37",
+  "description": "Ezequias recebe uma carta de ameaça do rei da Assíria. Ele a leva ao templo, apresenta sua preocupação a Deus e busca orientação para uma situação que parecia maior que suas forças.",
+  "testament": "antigo",
+  "cover": "/images/covers/167.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras que tentavam assustar",
+      "paragraphs": [
+        "Jerusalém estava sob a ameaça da Assíria, um império poderoso. Seu rei, Senaqueribe, havia conquistado outras regiões e enviava mensagens para intimidar Ezequias e o povo de Judá. A intenção era fazer com que acreditassem que resistir seria inútil e que nenhuma ajuda poderia protegê-los. O medo era usado como parte da pressão.",
+        "Uma carta chegou a Ezequias, repetindo as conquistas assírias e questionando sua confiança no Senhor. O texto procurava colocar o Deus de Israel no mesmo lugar dos deuses de povos que haviam sido derrotados. Para o rei de Judá, não era apenas uma questão de orgulho pessoal. A vida da cidade e de suas famílias estava envolvida.",
+        "Ezequias recebeu a carta e a leu. Não fingiu que as palavras não existiam nem tentou enfrentar a situação como se fosse pequeno o perigo. Subiu à casa do Senhor e estendeu a carta diante de Deus. O gesto transformou uma ameaça carregada sozinho em uma preocupação apresentada em oração."
+      ],
+      "image": "167/part1.webp",
+      "alt": "Um mensageiro entrega uma carta a Ezequias num pátio do palácio, enquanto o rei a recebe com seriedade."
+    },
+    {
+      "heading": "Uma oração sincera",
+      "paragraphs": [
+        "Ezequias reconheceu o Senhor como Deus sobre todos os reinos da terra e Criador dos céus e da terra. Pediu que escutasse as palavras de Senaqueribe. Sua oração não começou negando a força da Assíria. Admitiu que os assírios haviam destruído muitos povos e queimado seus deuses, feitos por mãos humanas.",
+        "Depois pediu livramento, para que os reinos soubessem que o Senhor era o único Deus. A carta continuava ali, mas já não era a única voz considerada. Ezequias colocava a ameaça diante de uma confiança maior. Orar não significava abandonar sua responsabilidade como rei; significava reconhecer que não podia carregar toda a situação sem buscar direção.",
+        "Isaías, o profeta, enviou uma mensagem a Ezequias. O Senhor havia ouvido sua oração a respeito de Senaqueribe. A resposta confrontava a arrogância do rei assírio e anunciava limites para sua ação. O poder de um império não era apresentado como absoluto, mesmo quando suas conquistas faziam parecer que nada poderia detê-lo."
+      ],
+      "image": "167/part2.webp",
+      "alt": "Ezequias ora sozinho perto de uma janela do templo, com a carta aberta sobre uma mesa baixa."
+    },
+    {
+      "heading": "A cidade não seria tomada",
+      "paragraphs": [
+        "A palavra transmitida por Isaías afirmava que o rei da Assíria não entraria em Jerusalém nem a tomaria daquele modo. Voltaria pelo caminho por onde viera. O Senhor protegeria a cidade. Ezequias recebeu essa orientação num momento em que as ameaças procuravam ocupar todo o espaço de sua imaginação e da esperança do povo.",
+        "Naquela noite, o Senhor impediu o avanço do exército assírio. Senaqueribe precisou se retirar e voltou para Nínive, sem conquistar Jerusalém. As palavras ameaçadoras de sua carta não se cumpriram. A cidade permanecia de pé, e suas famílias puderam respirar aliviadas. O rei tão poderoso descobrira que havia um limite para suas conquistas.",
+        "Ezequias havia levado ao templo uma carta cheia de ameaças. Agora guardava também a lembrança de uma oração ouvida. As preocupações que pareciam grandes demais tinham encontrado lugar diante de Deus. Naquele dia, Jerusalém conheceu o alívio de continuar em segurança, e a história do rei passou a carregar mais um motivo para agradecer e confiar."
+      ],
+      "image": "167/part3.webp",
+      "alt": "Isaías conversa com Ezequias, e ao fundo famílias caminham em paz pelas ruas de Jerusalém."
+    }
+  ],
+  "lesson": "Quando uma preocupação parece grande demais, podemos falar com Deus e pedir companhia a alguém de confiança. Ezequias levou sua carta ao templo e abriu o coração. Não precisou fingir que estava tranquilo. Podemos fazer o mesmo com nossos medos: contar o que sentimos, ouvir uma boa orientação e dar o próximo passo acompanhados. A oração nos convida à sinceridade, à confiança e ao cuidado uns pelos outros.",
+  "question": "Quem você procuraria se recebesse uma mensagem ameaçadora ou algo que causasse medo?",
+  "prayer": "Deus, cuida de quem recebe ameaças e vive com medo. Ajuda-nos a procurar proteção e orientação responsável, sem carregar tudo sozinhos. Recebe nossas preocupações e ensina-nos a buscar justiça sem vingança. Que famílias e comunidades encontrem caminhos de segurança e paz. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ezequias estende uma carta diante de si no templo e ora com sinceridade à luz suave da manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue royal robe simple circlet; Isaiah elderly gray beard cream robe brown mantle. Ancient Jerusalem temple quiet prayer scene, rolled letter no legible text. No battle casualties, weapons or threatening army shown. Only scene named cast. Scene: Ezequias estende uma carta diante de si no templo e ora com sinceridade à luz suave da manhã."
+    },
+    {
+      "role": "part1",
+      "alt": "Um mensageiro entrega uma carta a Ezequias num pátio do palácio, enquanto o rei a recebe com seriedade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue royal robe simple circlet; Isaiah elderly gray beard cream robe brown mantle. Ancient Jerusalem temple quiet prayer scene, rolled letter no legible text. No battle casualties, weapons or threatening army shown. Only scene named cast. Scene: Um mensageiro entrega uma carta a Ezequias num pátio do palácio, enquanto o rei a recebe com seriedade. MANDATORY SCENE CAST: Only Hezekiah and the messenger. Isaiah is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Ezequias ora sozinho perto de uma janela do templo, com a carta aberta sobre uma mesa baixa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue royal robe simple circlet; Isaiah elderly gray beard cream robe brown mantle. Ancient Jerusalem temple quiet prayer scene, rolled letter no legible text. No battle casualties, weapons or threatening army shown. Only scene named cast. Scene: Ezequias ora sozinho perto de uma janela do templo, com a carta aberta sobre uma mesa baixa. MANDATORY SCENE CAST: Only Hezekiah, praying alone. Isaiah and all attendants are absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Isaías conversa com Ezequias, e ao fundo famílias caminham em paz pelas ruas de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard blue royal robe simple circlet; Isaiah elderly gray beard cream robe brown mantle. Ancient Jerusalem temple quiet prayer scene, rolled letter no legible text. No battle casualties, weapons or threatening army shown. Only scene named cast. Scene: Isaías conversa com Ezequias, e ao fundo famílias caminham em paz pelas ruas de Jerusalém."
+    }
+  ]
+}

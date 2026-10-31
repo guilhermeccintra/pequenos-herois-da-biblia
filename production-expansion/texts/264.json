@@ -1,0 +1,71 @@
+{
+  "id": 264,
+  "title": "Jesus Escuta Quem Não Ouvia",
+  "subtitle": "Um encontro longe do barulho",
+  "reference": "Marcos 7:31–37",
+  "description": "Algumas pessoas levam a Jesus um homem que não ouve e tem dificuldade para falar. Jesus o recebe com atenção pessoal, longe da multidão.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.7.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Amigos que procuram ajuda",
+      "paragraphs": [
+        "Jesus saiu da região de Tiro, passou por Sidom e chegou ao mar da Galileia, atravessando a região da Decápolis. Seu caminho alcançava lugares diferentes e pessoas com histórias variadas. Ali, trouxeram até ele um homem que não ouvia e tinha dificuldade para falar. As pessoas pediram que Jesus colocasse a mão sobre ele.",
+        "As pessoas que o acompanhavam levaram sua necessidade até Jesus. Elas desejavam vê-lo receber ajuda e pediram que o Mestre o tocasse. O homem estava ali, no meio daquele grupo, com suas dificuldades para ouvir e falar. Jesus voltou sua atenção para ele e preparou um encontro próximo, em que poderia cuidar especialmente de sua necessidade.",
+        "Jesus o levou para um lugar separado da multidão. Esse movimento deu ao homem atenção pessoal. Não precisava ficar exposto diante de todos para receber cuidado. Longe do aperto e dos olhares curiosos, poderia encontrar Jesus de perto. O gesto de se afastar preparou uma cena marcada por proximidade, respeito e uma ação dirigida especialmente a ele."
+      ],
+      "alt": "Jesus conduz um homem a um lugar tranquilo, longe da multidão.",
+      "image": "264/part1.webp"
+    },
+    {
+      "heading": "Gestos de atenção",
+      "paragraphs": [
+        "Jesus colocou os dedos nos ouvidos do homem e tocou sua língua. Marcos descreve gestos concretos, ligados às dificuldades que ele enfrentava. Naquele encontro, a comunicação não aconteceu apenas por palavras ouvidas. O cuidado também se expressou por uma presença próxima, que reconhecia sua maneira particular de perceber o que estava acontecendo.",
+        "Depois, Jesus olhou para o céu e suspirou. Disse uma palavra em aramaico: Efatá, que significa abrir-se. Sua atenção continuava voltada para aquele homem, longe da multidão. Os gestos e a voz faziam parte do mesmo encontro de cuidado. Diante dele estava Jesus, que o recebera de perto e agora lhe dirigia uma palavra cheia de autoridade.",
+        "Os ouvidos do homem se abriram, sua dificuldade na fala foi desfeita, e ele começou a falar com clareza. A mudança era extraordinária. Sua experiência de comunicação ganhava novas possibilidades. O homem que havia sido levado até Jesus recebia uma atenção que alcançava seu corpo e lhe abria caminhos diferentes de relação com as pessoas."
+      ],
+      "alt": "Jesus oferece atenção pessoal ao homem em um lugar reservado.",
+      "image": "264/part2.webp"
+    },
+    {
+      "heading": "Uma admiração difícil de guardar",
+      "paragraphs": [
+        "Jesus orientou as pessoas a não espalharem o acontecimento. Quanto mais pedia, porém, mais elas o divulgavam. Estavam profundamente admiradas com o que tinham visto. Diziam que Jesus fazia tudo bem, pois fazia ouvir quem não ouvia e falar quem não falava. Procuravam palavras para expressar a surpresa e a alegria daquele encontro.",
+        "A alegria se espalhava entre as pessoas que haviam acompanhado o encontro. Elas tinham levado um pedido até Jesus e agora ouviam o homem falar com clareza. O que começara com uma aproximação cuidadosa terminava em admiração. A lembrança de sua atenção pessoal permanecia junto da surpresa com aquela mudança extraordinária na vida de alguém conhecido.",
+        "Jesus seguia seu caminho pela região, e as pessoas continuavam falando do que ele fizera. Guardavam na memória o homem que recebera ajuda e a alegria de ouvi-lo falar. Naquela história, a compaixão aparecera em cada passo: na aproximação de quem o acompanhava, no cuidado de Jesus e na atenção dedicada à sua necessidade."
+      ],
+      "alt": "O homem se comunica com alegria ao reencontrar as pessoas que o acompanharam.",
+      "image": "264/part3.webp"
+    }
+  ],
+  "lesson": "Existem muitas maneiras de se comunicar. Pessoas surdas podem usar sinais, leitura labial, escrita e outras formas, conforme suas preferências e necessidades. Podemos perguntar como conversar melhor, olhar para a pessoa e dar tempo para a resposta. A história mostra um sinal de Jesus; nosso cuidado diário aparece no respeito, na acessibilidade e na disposição de aprender a comunicação do outro sem tratá-lo como inferior.",
+  "question": "O que você pode fazer para que uma conversa seja mais acessível e respeitosa para outra pessoa?",
+  "prayer": "Jesus, ensina-nos a escutar também com os olhos e com a atenção. Ajuda-nos a respeitar diferentes maneiras de se comunicar e a aprender com cada pessoa. Que nossas conversas tenham paciência, acolhimento e espaço para todos participarem com dignidade. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/264.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus conversa com um homem de maneira próxima e respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle at equal eye level with adult man olive skin short dark hair beard muted green tunic, attentive faces and expressive open hands, quiet Galilean garden away from crowd, dignified warm setting."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus conduz um homem a um lugar tranquilo, longe da multidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle walks beside adult man muted green tunic toward quiet olive grove, supportive companions stay at respectful distance behind, calm caring scene, no pulling or force."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus oferece atenção pessoal ao homem em um lugar reservado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle and adult man muted green tunic seated facing each other in quiet garden, gentle attentive communication with hands, focus on respectful faces, no fingers inserted into mouth or ears."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem se comunica com alegria ao reencontrar as pessoas que o acompanharam.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man muted green tunic speaks joyfully with two supportive companions while Jesus cream tunic terracotta mantle stands nearby, expressive friendly faces, ancient village garden, warm light."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 95,
+  "title": "O Cajado que Floresceu",
+  "subtitle": "Um ramo seco se torna lembrança de vida",
+  "reference": "Números 17",
+  "description": "O cajado de Arão floresce e ajuda o povo a reconhecer a responsabilidade que Deus lhe confiara.",
+  "testament": "antigo",
+  "cover": "/images/covers/95.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Depois de tantas discussões",
+      "paragraphs": [
+        "O povo de Israel havia vivido discussões dolorosas sobre a liderança e o serviço na tenda do encontro. A desconfiança ameaçava a vida em comunidade. Deus deu a Moisés uma orientação para apresentar um sinal claro, que ajudasse os israelitas a reconhecer a responsabilidade confiada a Arão.",
+        "Cada líder de uma casa familiar deveria entregar um cajado, formando um conjunto de doze. O nome de cada representante seria escrito em sua vara. No cajado da tribo de Levi estaria o nome de Arão. Aqueles objetos simples representavam pessoas e grupos, não apenas pedaços de madeira reunidos por acaso.",
+        "Moisés deveria colocá-los na tenda do encontro, diante do testemunho da aliança. Deus disse que o cajado da pessoa escolhida floresceria. O sinal não dependeria de uma votação sobre quem parecia mais importante nem de uma disputa para falar mais alto. O povo seria chamado a observar o que o Senhor faria."
+      ],
+      "image": "95/part1.webp",
+      "alt": "Os líderes entregam seus cajados a Moisés."
+    },
+    {
+      "heading": "Uma surpresa na manhã seguinte",
+      "paragraphs": [
+        "Os líderes entregaram seus cajados, e Moisés os colocou no lugar indicado. Entre as varas estava a de Arão. Não havia uma árvore plantada ali, recebendo cuidados no campo. Eram cajados usados por pessoas, separados de suas raízes. Por isso, o que aconteceria depois seria reconhecido como algo extraordinário.",
+        "Na manhã seguinte, Moisés entrou na tenda e viu que o cajado de Arão havia brotado. Não apresentava apenas uma pequena mudança. Tinha botões, flores e amêndoas maduras. A imagem reunia diferentes etapas da vida de uma planta num objeto que, até então, parecia incapaz de produzir fruto.",
+        "Moisés levou todos os cajados para fora e os mostrou aos israelitas. Cada líder viu o sinal e recebeu sua própria vara. O acontecimento não ficou restrito ao conhecimento de Moisés. A comunidade pôde observar aquilo que responderia à disputa e serviria de lembrança para o caminho adiante."
+      ],
+      "image": "95/part2.webp",
+      "alt": "Moisés encontra o cajado florescido."
+    },
+    {
+      "heading": "Uma lembrança para interromper a disputa",
+      "paragraphs": [
+        "Deus orientou que o cajado de Arão fosse guardado diante do testemunho como sinal. Ele lembraria ao povo o perigo de insistir numa rebelião que já havia trazido sofrimento. O objetivo não era transformar a vara num objeto de adoração, mas preservar a memória da orientação recebida.",
+        "Os israelitas reagiram com temor e fizeram perguntas sobre como se aproximar da tenda. Ainda precisavam aprender a lidar com a santidade de Deus e com as responsabilidades de cada pessoa. O sinal não significava que Arão fosse perfeito ou pudesse agir sem prestar contas. Indicava uma função específica dentro daquela comunidade.",
+        "Um cajado que floresceu se tornou uma imagem de vida no meio de uma história de conflito. Ao lembrá-lo, podemos pensar em como a comparação e a disputa desgastam as relações. Reconhecer funções diferentes não diminui a dignidade de ninguém. Cada responsabilidade deve existir para servir, e a comunidade precisa aprender a cooperar com respeito."
+      ],
+      "image": "95/part3.webp",
+      "alt": "O cajado é guardado como lembrança."
+    }
+  ],
+  "lesson": "O cajado florescido ajudou Israel a reconhecer uma responsabilidade sem continuar uma disputa destrutiva. Também podemos aprender que funções diferentes não significam valores diferentes. Quem lidera deve servir com responsabilidade, e quem participa pode colaborar, fazer perguntas respeitosas e oferecer ajuda. Comparar importância o tempo todo enfraquece o grupo. A cooperação cresce quando reconhecemos o lugar de cada tarefa e tratamos todas as pessoas com dignidade.",
+  "question": "Como você pode colaborar numa atividade em que outra pessoa ficou responsável por liderar?",
+  "prayer": "Senhor, ensina-me a cooperar sem transformar tudo numa disputa. Dá responsabilidade a quem lidera e respeito a todos que participam. Ajuda-nos a reconhecer nossas tarefas, fazer perguntas com sinceridade e trabalhar juntos para que a vida e o cuidado floresçam. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés mostra o cajado de Arão com flores e amêndoas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Moses holds wooden staff bearing fresh almond blossoms buds and almonds, Aaron and adult tribal leaders watch with wonder outside tabernacle, detailed natural flowers, no magical glow."
+    },
+    {
+      "role": "part1",
+      "alt": "Os líderes entregam seus cajados a Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Adult tribal leaders hand plain wooden staffs to Moses beside tabernacle, twelve staffs gathered visibly, no readable names or letters, orderly respectful scene."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés encontra o cajado florescido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Moses alone inside softly lit tabernacle looks at one flowering almond staff among eleven plain wooden rods on linen mat, clear contrast, no visible deity."
+    },
+    {
+      "role": "part3",
+      "alt": "O cajado é guardado como lembrança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Moses carefully places flowering almond staff in reverent interior area of tabernacle near curtained sanctuary, quiet warm light, no one worshiping object or touching ark."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+17&version=KJV"
+  ]
+}

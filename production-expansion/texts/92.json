@@ -1,0 +1,71 @@
+{
+  "id": 92,
+  "title": "Eldade e Medade no Acampamento",
+  "subtitle": "O bem não precisa acontecer apenas perto de nós",
+  "reference": "Números 11:24–30",
+  "description": "Moisés se alegra quando Eldade e Medade também recebem o Espírito de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/92.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma responsabilidade compartilhada",
+      "paragraphs": [
+        "Moisés reuniu setenta líderes do povo ao redor da tenda do encontro. Deus havia orientado que eles o ajudassem a carregar a responsabilidade pela comunidade. Conduzir tantas pessoas não era uma tarefa que ele devesse enfrentar sozinho. Haveria outras vozes e outras mãos participando do cuidado de Israel.",
+        "O Senhor desceu numa nuvem e falou com Moisés. Seu Espírito repousou sobre os líderes, e eles profetizaram. A Bíblia apresenta esse acontecimento como sinal da ação de Deus entre aqueles que compartilhariam a responsabilidade. O dom recebido não servia apenas para impressionar; estava ligado a uma necessidade real da comunidade.",
+        "Dois homens inscritos entre os escolhidos, Eldade e Medade, não haviam ido até a tenda. Permaneceram no acampamento, entre os lugares onde as famílias viviam. Enquanto Moisés e os outros líderes estavam reunidos, algo também aconteceria ali. O cuidado de Deus alcançaria aqueles dois homens, mesmo à distância do encontro principal."
+      ],
+      "image": "92/part1.webp",
+      "alt": "Moisés reúne os líderes junto à tenda."
+    },
+    {
+      "heading": "Uma notícia chega correndo",
+      "paragraphs": [
+        "O Espírito de Deus também repousou sobre Eldade e Medade, e os dois começaram a profetizar no acampamento. A ação do Senhor não ficou limitada ao espaço em que a reunião acontecia. Pessoas que estavam entre as tendas puderam perceber algo que os líderes junto a Moisés também estavam vivendo.",
+        "Um jovem correu para contar a novidade. Disse a Moisés que Eldade e Medade profetizavam no acampamento. A notícia trouxe uma questão inesperada para a reunião. Era preciso compreender se aquilo deveria ser recebido com alegria ou tratado como uma ameaça à organização que havia sido preparada.",
+        "Josué, auxiliar de Moisés, pediu que ele impedisse os dois. Parecia preocupado em proteger a posição de seu líder. Às vezes, o desejo de defender alguém pode nos fazer olhar com desconfiança para um bem que acontece fora do lugar esperado. Moisés respondeu de uma maneira que ampliou a visão de Josué."
+      ],
+      "image": "92/part2.webp",
+      "alt": "Um jovem leva a notícia a Moisés e Josué."
+    },
+    {
+      "heading": "A alegria que não precisa competir",
+      "paragraphs": [
+        "Moisés perguntou se Josué estava com ciúme por causa dele. Em seguida, expressou seu desejo de que todo o povo recebesse o Espírito do Senhor e pudesse profetizar. Não ficou incomodado por outras pessoas participarem da ação de Deus. O bem recebido por Eldade e Medade não diminuía sua própria missão.",
+        "Essa resposta revelou uma liderança generosa. Moisés não precisava ser a única pessoa por meio de quem algo bom acontecia. A comunidade seria beneficiada quando mais gente recebesse sabedoria e capacidade para servir. O cuidado de Deus não era um prêmio que só tivesse valor se poucos pudessem recebê-lo.",
+        "Depois, Moisés e os líderes voltaram ao acampamento. A história termina sem transformar o episódio numa disputa de prestígio. Eldade e Medade nos ajudam a lembrar que podemos agradecer pelo bem que aparece em outras pessoas. A alegria cresce quando deixamos de medir o valor de alguém como se fosse uma ameaça ao nosso próprio lugar."
+      ],
+      "image": "92/part3.webp",
+      "alt": "Moisés responde a Josué com generosidade."
+    }
+  ],
+  "lesson": "O talento ou a alegria de outra pessoa não diminuem o seu valor. Moisés desejou que mais gente participasse do bem que Deus estava fazendo. Podemos aprender a celebrar quando um colega consegue algo, quando outra pessoa ajuda bem ou quando alguém recebe uma oportunidade. Em vez de competir por toda a atenção, podemos procurar nossa própria maneira de contribuir. Uma comunidade fica mais forte quando há espaço para muitos servirem.",
+  "question": "Qual conquista de outra pessoa você pode celebrar com sinceridade hoje?",
+  "prayer": "Senhor, ajuda-me a reconhecer e celebrar os dons de outras pessoas. Livra meu coração da comparação que transforma o bem em competição. Ensina-me a contribuir com alegria e a desejar que mais gente encontre oportunidades de servir e crescer. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Eldade e Medade falam ao povo no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Eldad mature olive-skinned man gray-streaked beard ochre robe; Medad mature brown-skinned man dark beard cream robe muted green shawl. Scene: Two mature Israelite men Eldad and Medad speak reverently to attentive adults among desert tents, peaceful inspired expressions, no glowing eyes or supernatural body effects."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés reúne os líderes junto à tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Eldad mature olive-skinned man gray-streaked beard ochre robe; Medad mature brown-skinned man dark beard cream robe muted green shawl. Scene: Moses addresses group of elderly leaders around tabernacle under soft luminous cloud, respectful shared responsibility, no visible deity."
+    },
+    {
+      "role": "part2",
+      "alt": "Um jovem leva a notícia a Moisés e Josué.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Eldad mature olive-skinned man gray-streaked beard ochre robe; Medad mature brown-skinned man dark beard cream robe muted green shawl. Scene: Young adult messenger arrives at tent speaking earnestly to Moses and adult Joshua, natural gestures and attentive faces, no panic."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés responde a Josué com generosidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Eldad mature olive-skinned man gray-streaked beard ochre robe; Medad mature brown-skinned man dark beard cream robe muted green shawl. Scene: Moses warmly explains to Joshua with open hand while camp visible behind, humble encouraging expression, two principal characters only."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+11%3A24-30&version=KJV"
+  ]
+}

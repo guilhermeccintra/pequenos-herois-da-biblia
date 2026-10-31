@@ -1,0 +1,71 @@
+{
+  "id": 87,
+  "title": "O Ano do Recomeço",
+  "subtitle": "Uma oportunidade de voltar e recomeçar",
+  "reference": "Levítico 25:8–17,23–28",
+  "description": "O jubileu ensina Israel a limitar a perda das terras familiares e a lembrar a quem a terra pertence.",
+  "testament": "antigo",
+  "cover": "/images/covers/87.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Contar os anos com esperança",
+      "paragraphs": [
+        "Deus orientou Israel a contar sete grupos de sete anos. Depois desses quarenta e nove anos, chegaria um ano especial, o jubileu. Um toque de trombeta deveria anunciar esse tempo por toda a terra. A comunidade seria chamada a lembrar que sua vida não podia ser organizada apenas pelo acúmulo de alguns.",
+        "O quinquagésimo ano seria dedicado ao Senhor e marcado por uma proclamação de liberdade. As famílias deveriam voltar às suas propriedades e aos seus grupos familiares, conforme as regras da aliança. A orientação oferecia um horizonte de recomeço a pessoas que haviam perdido recursos e precisavam recuperar um lugar para viver.",
+        "O jubileu também incluía descanso para a terra. Não seria um ano de cultivo habitual nem de colheita organizada da mesma maneira que nos outros anos. O povo receberia o que o campo produzisse para alimento. O tempo especial unia confiança, memória e uma reorganização importante da vida em comunidade."
+      ],
+      "image": "87/part1.webp",
+      "alt": "O toque anuncia um tempo especial."
+    },
+    {
+      "heading": "A terra não era um objeto qualquer",
+      "paragraphs": [
+        "Deus explicou que a terra lhe pertencia. Os israelitas viviam nela como hóspedes sob seu cuidado. Por isso, as propriedades familiares não deveriam ser vendidas de forma definitiva, sem possibilidade de retorno. O chão que sustentava uma família não era apenas uma oportunidade para outra pessoa aumentar suas posses.",
+        "Se alguém empobrecesse e precisasse vender parte de sua terra, um parente próximo poderia resgatá-la. A própria pessoa também poderia recuperá-la se conseguisse os recursos, seguindo o cálculo previsto. Se isso não fosse possível, a terra retornaria no jubileu. A perda não deveria apagar para sempre o lugar daquela família.",
+        "Essas regras pertenciam à organização específica de Israel e tinham detalhes para diferentes tipos de propriedade. Aqui, o foco está nos campos familiares. O ensino mostra uma preocupação concreta com a pobreza: não bastava lamentar a situação de quem perdera tudo; era preciso pensar em caminhos que permitissem recuperar condições de viver."
+      ],
+      "image": "87/part2.webp",
+      "alt": "Parentes conversam sobre recuperar a terra da família."
+    },
+    {
+      "heading": "Negociar lembrando do retorno",
+      "paragraphs": [
+        "Como a terra voltaria no jubileu, os acordos de compra precisavam considerar quantos anos de produção restavam. Mais anos significavam um valor maior; menos anos, um valor menor. A pessoa estava negociando as colheitas daquele período, e não o direito de retirar para sempre a propriedade de outra família.",
+        "Deus repetiu que ninguém deveria explorar o próximo. O calendário do jubileu trazia uma lembrança de justiça para dentro das negociações. A honestidade exigia explicar as condições e respeitar o limite do acordo. Quem tinha recursos não deveria usar a necessidade de outra pessoa para prendê-la numa perda sem saída.",
+        "Levítico apresenta essa orientação, sem contar aqui a história de uma família específica que retornou ao seu campo. Sua mensagem, porém, é clara: o povo deveria organizar a vida de modo a abrir possibilidades de restauração. O som do jubileu anunciaria que dificuldades econômicas não deveriam ser tratadas como a última palavra sobre uma família."
+      ],
+      "image": "87/part3.webp",
+      "alt": "Vizinhos se encontram com respeito junto ao campo."
+    }
+  ],
+  "lesson": "O jubileu nos ajuda a pensar em oportunidades de recomeço. Quando alguém enfrenta uma dificuldade, pode precisar mais do que palavras de pena: precisa de apoio para recuperar autonomia e esperança. Crianças podem participar com gestos possíveis e com a ajuda da família. Também podemos evitar tirar vantagem da necessidade alheia. A justiça procura caminhos para que as pessoas voltem a participar da vida com dignidade.",
+  "question": "Como você pode apoiar alguém que está tentando recomeçar uma tarefa ou superar uma dificuldade?",
+  "prayer": "Senhor, cuida de quem perdeu recursos, segurança ou oportunidades. Dá sabedoria a quem pode abrir caminhos de recomeço. Ensina-me a ajudar com respeito, sem aproveitar a dificuldade de ninguém, e a reconhecer a dignidade de cada pessoa. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família retorna ao campo no tempo do jubileu.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Illustrative ancient Israelite family with modest bundles approaches familiar field and small stone home, elderly relative welcomes them, hopeful sunrise, no modern ownership documents."
+    },
+    {
+      "role": "part1",
+      "alt": "O toque anuncia um tempo especial.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Adult ancient Israelite man blows curved ram horn on village hill while families listen, fields beyond, dignified hopeful atmosphere, no text."
+    },
+    {
+      "role": "part2",
+      "alt": "Parentes conversam sobre recuperar a terra da família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Three adult relatives in modest earth-tone robes calmly discuss beside field boundary stones, open respectful hands, practical supportive conversation, no maps or documents."
+    },
+    {
+      "role": "part3",
+      "alt": "Vizinhos se encontram com respeito junto ao campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Two adult families greet each other warmly at rural field edge, one carries travel bundles, welcoming open gate and olive trees, restoration and dignity."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+25%3A8-17%2C23-28&version=KJV"
+  ]
+}

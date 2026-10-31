@@ -1,0 +1,74 @@
+{
+  "id": 223,
+  "title": "Ebede-Meleque e as Cordas",
+  "subtitle": "Coragem que também cuida dos detalhes",
+  "reference": "Jeremias 38:1–13",
+  "description": "Ao saber que Jeremias está em perigo, Ebede-Meleque procura ajuda e prepara um resgate com atenção e delicadeza.",
+  "testament": "antigo",
+  "cover": "/images/covers/223.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma injustiça no pátio",
+      "paragraphs": [
+        "Jeremias continuava anunciando a mensagem do Senhor enquanto Jerusalém enfrentava dias difíceis. Alguns líderes ficaram irritados com suas palavras e pediram ao rei que o condenasse. Zedequias permitiu que agissem. Eles levaram o profeta até uma cisterna no pátio da guarda e o desceram com cordas para dentro dela.",
+        "A cisterna estava sem água, mas havia lama no fundo. Jeremias ficou preso naquele lugar, afundando no barro. Sua situação era perigosa, especialmente porque a cidade sofria com a falta de alimento. O profeta precisava de alguém que percebesse a injustiça e procurasse uma maneira de tirá-lo dali.",
+        "Um homem chamado Ebede-Meleque soube do que tinha acontecido. Ele era etíope e trabalhava no palácio do rei. Ao ouvir a notícia, decidiu agir. A preocupação com Jeremias se transformou numa atitude corajosa: sair em busca de ajuda, mesmo quando outras pessoas poderosas haviam apoiado aquela decisão injusta."
+      ],
+      "image": "223/part1.webp",
+      "alt": "Ebede-Meleque defende Jeremias diante do rei"
+    },
+    {
+      "heading": "Uma voz em defesa de alguém",
+      "paragraphs": [
+        "O rei estava junto à Porta de Benjamim. Ebede-Meleque foi até ele e explicou que os homens haviam feito mal a Jeremias. Disse que o profeta corria risco de morrer onde estava, num tempo em que já faltava pão na cidade. Sua fala foi direta e dedicada a proteger uma vida.",
+        "Zedequias ouviu o pedido e autorizou o resgate. Ordenou que Ebede-Meleque levasse homens consigo para retirar Jeremias da cisterna antes que fosse tarde. Agora havia permissão e companhia para agir. A coragem de falar tinha aberto um caminho para a ajuda chegar ao homem que estava preso na lama.",
+        "Antes de ir até a cisterna, Ebede-Meleque fez algo muito cuidadoso. Entrou num depósito do palácio e recolheu roupas velhas e pedaços de tecido. Esses objetos simples teriam um papel importante no resgate. Ele pensou na maneira de retirar Jeremias e também em como evitar que as cordas o machucassem."
+      ],
+      "image": "223/part2.webp",
+      "alt": "Panos macios são preparados junto às cordas"
+    },
+    {
+      "heading": "Cuidado em cada movimento",
+      "paragraphs": [
+        "Ebede-Meleque e os homens chegaram ao lugar. Primeiro desceram os tecidos pelas cordas. Ele explicou a Jeremias que deveria colocar aqueles panos debaixo dos braços, entre o corpo e as cordas. O profeta seguiu a orientação. O cuidado preparado no depósito agora ajudava a tornar o resgate mais delicado.",
+        "Então os homens puxaram as cordas e retiraram Jeremias da cisterna. O profeta voltou ao pátio da guarda, onde permaneceu. Sua vida havia sido protegida por alguém que decidiu escutar a notícia, falar com coragem e organizar ajuda. Cada etapa teve importância, desde a primeira conversa até o último movimento.",
+        "A história guarda o nome de Ebede-Meleque e o detalhe dos tecidos usados no resgate. Juntos, eles mostram uma bondade atenta. Podemos aprender a procurar adultos responsáveis quando alguém precisa de proteção e a perceber os pequenos cuidados que fazem diferença. Coragem e delicadeza podem trabalhar juntas para ajudar uma pessoa."
+      ],
+      "image": "223/part3.webp",
+      "alt": "Jeremias recebe ajuda depois de sair da cisterna"
+    }
+  ],
+  "lesson": "Ebede-Meleque percebeu uma injustiça, procurou a autoridade responsável e organizou ajuda com cuidado. Sua história ensina a levar a sério o sofrimento de alguém. Se você perceber uma pessoa em perigo ou sendo maltratada, conte a um adulto de confiança. Você também pode demonstrar carinho nos detalhes, escutando e oferecendo companhia de maneira segura. Proteger uma vida começa com atenção.",
+  "question": "Que adulto de confiança você pode procurar quando perceber alguém precisando de proteção?",
+  "prayer": "Senhor, dá-me atenção para perceber quem precisa de ajuda. Ensina-me a procurar pessoas responsáveis quando houver perigo e a falar com coragem diante de uma injustiça. Que meu cuidado apareça também nos pequenos detalhes, com respeito, delicadeza e amor. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JER38.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ebede-Meleque organiza cordas e tecidos para ajudar Jeremias",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ebedmelech kneeling in an ancient stone courtyard preparing sturdy ropes and soft folded old cloths with two adult helpers, focused compassionate face, round cistern opening safely visible behind, warm daylight, no person in danger visible. Ebedmelech is a dignified Ethiopian palace official with dark brown skin, short tightly curled hair, neat beard and a deep blue robe with narrow gold trim."
+    },
+    {
+      "role": "part1",
+      "alt": "Ebede-Meleque defende Jeremias diante do rei",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ebedmelech speaking earnestly to Zedekiah seated near ancient Benjamin city gate, dignified respectful body language, concerned attentive faces, guards at a distance, no weapons raised. Ebedmelech is a dignified Ethiopian palace official with dark brown skin, short tightly curled hair, neat beard and a deep blue robe with narrow gold trim. Zedekiah is a middle-aged olive-skinned king with dark beard, purple robe and simple gold circlet."
+    },
+    {
+      "role": "part2",
+      "alt": "Panos macios são preparados junto às cordas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close view of Ebedmelech hands folding soft worn linen cloths beside thick rope in an ancient palace storage room, humble fabric and clay jars, warm light, deliberate compassionate preparation. Ebedmelech is a dignified Ethiopian palace official with dark brown skin, short tightly curled hair, neat beard and a deep blue robe with narrow gold trim."
+    },
+    {
+      "role": "part3",
+      "alt": "Jeremias recebe ajuda depois de sair da cisterna",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah safely seated on dry ground beside a stone cistern after rescue, fully clothed with a little mud on robe hem, Ebedmelech offering a supportive hand and clay cup while helpers gather ropes and cloths, relieved faces, no injuries. Jeremiah is a middle-aged olive-skinned Hebrew prophet with dark curly hair streaked gray, full beard, cream tunic and ochre shawl. Ebedmelech is a dignified Ethiopian palace official with dark brown skin, short tightly curled hair, neat beard and a deep blue robe with narrow gold trim."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -110,3 +110,25 @@ test('webhook signature failures return 400 before processing and body size is b
   assert.equal(res.statusCode, 400);
   await assert.rejects(http.readRawBody(Readable.from(['abcdef']), 3), (error) => error.status === 413);
 });
+
+test('API protege os novos IDs e limita o acervo a 365 sem liberar conteúdo inexistente', async () => {
+ for(const id of [41,100,365]){
+  const deps=fixture();
+  deps.repo.getStory=async(requested)=>{
+   deps.state.storyReads++;assert.equal(requested,id);
+   return {id,parts:[{image:`${id}/part1.webp`}],audio_path:null};
+  };
+  const res=response();await api.createHandlers(deps).story(request({url:`/api/story?id=${id}`}),res);
+  assert.equal(res.statusCode,200);assert.equal(res.body.story.id,id);
+  assert.match(res.body.story.parts[0].image,new RegExp(`/${id}/part1`));
+  const denied=response();await api.createHandlers(deps).story(request({url:`/api/story?id=${id}`,token:null}),denied);
+  assert.equal(denied.statusCode,401);assert.equal(deps.state.storyReads,1);
+ }
+ for(const id of ['0','366','1.5','1e2','01']){
+  const deps=fixture(),res=response();await api.createHandlers(deps).story(request({url:`/api/story?id=${id}`}),res);
+  assert.equal(res.statusCode,400);assert.equal(deps.state.storyReads,0);
+ }
+ const deps=fixture(),res=response();deps.repo.getStory=async()=>null;
+ await api.createHandlers(deps).story(request({url:'/api/story?id=365'}),res);
+ assert.equal(res.statusCode,404);
+});

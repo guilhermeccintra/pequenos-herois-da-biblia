@@ -1,0 +1,71 @@
+{
+  "id": 273,
+  "title": "O Semeador e os Solos",
+  "subtitle": "Uma palavra que precisa encontrar lugar para crescer",
+  "reference": "Mateus 13:1–23",
+  "description": "Sementes caem em lugares diferentes, e Jesus explica o que essa história revela sobre ouvir sua palavra.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Sementes pelo caminho",
+      "paragraphs": [
+        "Muita gente se reuniu perto do lago para ouvir Jesus. A multidão era tão grande que ele entrou num barco e se sentou, enquanto as pessoas ficaram na praia. Dali, começou a ensinar por meio de parábolas. Eram histórias simples que convidavam os ouvintes a pensar com atenção sobre o Reino de Deus.",
+        "Jesus contou que um semeador saiu para semear. Ao espalhar as sementes, algumas caíram na parte dura do caminho. Não entraram na terra. Logo vieram aves e as comeram. Outras caíram num terreno pedregoso, onde havia pouca terra. Brotaram depressa, porque a camada de solo era rasa e aquecia rapidamente.",
+        "Mas, quando o sol apareceu com força, aquelas pequenas plantas sofreram. Sem raízes profundas, secaram. O começo verde não havia sido suficiente. A semente precisava de espaço para criar raízes e receber sustento. Quem ouvia Jesus podia imaginar cada pedaço do campo e perceber que a mesma semente encontrava condições muito diferentes."
+      ],
+      "alt": "O semeador espalha sementes perto de um caminho e de pedras.",
+      "image": "273/part1.webp"
+    },
+    {
+      "heading": "Espinhos e terra boa",
+      "paragraphs": [
+        "Outra parte das sementes caiu entre espinhos. As plantas começaram a crescer, mas os espinhos cresceram junto e as sufocaram. Faltou espaço para que se desenvolvessem e produzissem. Havia vida começando ali, porém outras coisas ocupavam o terreno. Jesus descrevia um problema diferente daquele causado pelas aves ou pela terra rasa.",
+        "Finalmente, algumas sementes caíram em terra boa. Cresceram e produziram uma colheita abundante: umas cem, outras sessenta e outras trinta vezes o que havia sido semeado. O campo não terminou apenas em perdas. A história também tinha a alegria de uma semente acolhida, capaz de gerar muito além do seu tamanho inicial.",
+        "Jesus convidou quem tinha ouvidos a escutar. Mais tarde, seus discípulos perguntaram sobre o ensino em parábolas. Nem todas as pessoas que ouviam os mesmos sons recebiam a mensagem da mesma maneira. Era possível estar perto e continuar fechado. Também era possível ouvir com vontade de compreender e permitir que a palavra encontrasse lugar."
+      ],
+      "alt": "As sementes crescem em meio a espinhos e em terra boa.",
+      "image": "273/part2.webp"
+    },
+    {
+      "heading": "O que acontece no coração",
+      "paragraphs": [
+        "Jesus explicou que a semente representava a palavra sobre o Reino. O caminho lembrava quem ouvia sem compreender, e a mensagem era retirada. O terreno pedregoso representava quem recebia a palavra com alegria, mas não criava raízes. Quando surgiam dificuldades por causa dela, a pessoa abandonava depressa aquilo que havia começado.",
+        "Os espinhos representavam as preocupações e a sedução das riquezas. Elas podiam ocupar tanto espaço que a palavra ficava sufocada e não produzia fruto. A terra boa representava quem ouvia e compreendia. Essa pessoa acolhia a mensagem de tal maneira que ela crescia e aparecia em sua vida, produzindo frutos.",
+        "A parábola não servia para distribuir apelidos entre os ouvintes ou decidir que alguém jamais mudaria. Ela convidava cada um a prestar atenção ao próprio coração. Como estavam escutando? O que tomava todo o espaço? Da praia, do barco e depois da conversa com os discípulos, vinha o mesmo chamado: receber com cuidado a palavra de Jesus."
+      ],
+      "alt": "Jesus explica aos discípulos o significado da parábola.",
+      "image": "273/part3.webp"
+    }
+  ],
+  "lesson": "Ouvir com atenção envolve tempo, perguntas e disposição para mudar. Às vezes, a pressa, o medo ou a vontade de ter sempre mais ocupam nosso coração como espinhos. Podemos conversar sobre essas dificuldades e retomar o aprendizado. A parábola convida a cuidar do que recebemos, para que palavras de amor, justiça e confiança cresçam em atitudes boas e alcancem também outras pessoas.",
+  "question": "O que costuma atrapalhar sua atenção e que pequeno cuidado pode ajudar você a ouvir melhor?",
+  "prayer": "Deus, prepara meu coração para receber tua palavra. Ajuda-me a ouvir com atenção, fazer perguntas e continuar aprendendo quando surgir dificuldade. Mostra o que está ocupando espaço demais dentro de mim. Que teu amor crie raízes e produza atitudes boas na minha vida. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/273.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um semeador espalha sementes num campo.",
+      "prompt": "Use case: illustration-story. New standalone highly detailed warm cinematic 3D Bible storybook illustration for ages 6–12. Landscape 3:2 1536x1024. Natural warm lighting, beautiful expressive faces and tactile linen, stone and plants. No text, logo, border, modern objects or collage. Reference is ONLY for rendering style, not for weather or unwanted objects. One ordinary middle-aged Galilean farmer with short tight black curls, short beard and warm olive skin wearing OCHRE linen tunic, beige linen headwrap, brown belt and sandals scatters golden seeds from a woven shoulder pouch across dark plowed field. Two little birds on distant footpath. Warm sunrise, detailed soil. This is the unnamed farmer in a parable, NOT Jesus: no long hair, no cream robe, no red mantle. Reference is for textured 3D quality only; do not copy the wheat-inspection pose. New wide sowing action."
+    },
+    {
+      "role": "part1",
+      "alt": "Sementes caem perto das pedras e do caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Low close view farmer ochre robe hand scattering seeds, hard footpath and shallow rocky soil clearly visible, two small birds pecking seeds, warm natural light, cinematic storybook."
+    },
+    {
+      "role": "part2",
+      "alt": "Espigas amadurecem em terra boa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Healthy golden wheat growing in rich soil foreground, patch of thorny weeds at field edge background, sunlight through grain, a farmers hand gently inspecting ripe wheat, no collage."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus conversa com os discípulos perto do lago.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle seated beside beached wooden fishing boat explaining parable to three adult disciples, Galilee water behind, thoughtful faces and open palms, warm late afternoon."
+    }
+  ]
+}

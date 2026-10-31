@@ -1,0 +1,71 @@
+{
+  "id": 262,
+  "title": "Jesus Caminha sobre as Águas",
+  "subtitle": "Uma mão no meio das ondas",
+  "reference": "Mateus 14:22–33",
+  "description": "Durante uma noite de vento, os discípulos veem Jesus se aproximar sobre o lago. Pedro dá um passo de confiança e aprende a pedir ajuda quando sente medo.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.14.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma noite no lago",
+      "paragraphs": [
+        "Depois de alimentar a multidão, Jesus mandou os discípulos entrarem no barco e seguirem adiante para a outra margem. Ele despediu as pessoas e subiu ao monte para orar sozinho. Ao cair da noite, permanecia ali. Os discípulos, por sua vez, estavam no lago, enfrentando uma travessia que se tornaria difícil.",
+        "O barco já estava longe da terra e era atingido pelas ondas, porque o vento soprava contra eles. Os homens conheciam a água e alguns eram pescadores experientes, mas isso não eliminava o esforço daquela noite. O vento dificultava o caminho. Entre a escuridão e o movimento do lago, precisavam continuar cuidando do barco e uns dos outros.",
+        "Perto do amanhecer, Jesus foi até eles caminhando sobre as águas. Quando os discípulos o viram, ficaram assustados. Pensaram que fosse um fantasma e gritaram de medo. Não reconheceram imediatamente quem se aproximava. O acontecimento era muito diferente de tudo o que estavam acostumados a ver numa travessia de barco."
+      ],
+      "alt": "Os discípulos enfrentam vento e ondas durante a travessia noturna.",
+      "image": "262/part1.webp"
+    },
+    {
+      "heading": "Um passo e um pedido",
+      "paragraphs": [
+        "Jesus falou logo com eles, dizendo que tivessem coragem, pois era ele, e que não precisavam ter medo. Sua voz trouxe uma referência no meio do susto. Pedro respondeu pedindo que, se era mesmo Jesus, o mandasse ir até ele sobre a água. Jesus lhe disse que viesse. Então Pedro saiu do barco e começou a caminhar em sua direção.",
+        "Ao perceber a força do vento, Pedro ficou com medo e começou a afundar. Chamou por Jesus, pedindo que o salvasse. Seu pedido foi direto, sem palavras complicadas. No momento de dificuldade, não tentou esconder o que estava acontecendo. Reconheceu que precisava de ajuda e dirigiu sua voz àquele que o havia chamado.",
+        "Imediatamente, Jesus estendeu a mão e o segurou. Depois perguntou por que havia duvidado, chamando atenção para sua pequena fé. A pergunta veio junto de uma mão que já o protegia. Pedro não foi deixado sozinho para aprender uma lição no perigo. Jesus o alcançou quando ele pediu socorro."
+      ],
+      "alt": "Jesus estende a mão para ajudar Pedro no lago.",
+      "image": "262/part2.webp"
+    },
+    {
+      "heading": "De volta ao barco",
+      "paragraphs": [
+        "Jesus e Pedro entraram no barco, e o vento parou. Os discípulos, que antes tinham gritado assustados, reconheceram algo importante sobre Jesus. Ajoelharam-se diante dele e disseram que ele era verdadeiramente o Filho de Deus. A travessia havia se tornado um encontro que aprofundava sua compreensão sobre quem os acompanhava.",
+        "O vento forte havia acompanhado o esforço dos discípulos durante a noite. Agora, dentro do barco, estavam novamente com Jesus. Tinham ouvido sua voz no meio do medo e visto sua mão alcançar Pedro. A água que cercava a embarcação guardava a lembrança de um encontro extraordinário, em que reconheceram mais claramente a autoridade do Mestre.",
+        "Pedro viveu coragem e medo na mesma noite. Não precisou escolher entre fingir que estava bem e desistir de chamar. Pediu ajuda, e Jesus o segurou. No barco, todos puderam continuar juntos. A lembrança daquela mão estendida ficaria ligada à descoberta de que Jesus era maior do que a dificuldade que enfrentavam."
+      ],
+      "alt": "Jesus e Pedro estão seguros no barco enquanto o vento se acalma.",
+      "image": "262/part3.webp"
+    }
+  ],
+  "lesson": "Sentir medo não torna alguém sem valor. Podemos reconhecer o que sentimos e pedir ajuda a tempo. A cena no lago é um sinal específico de Jesus, e não uma atividade para repetir: perto da água, precisamos de supervisão e cuidados de segurança. Na vida diária, coragem também é chamar um adulto, aceitar uma mão estendida e cuidar para que ninguém enfrente uma dificuldade sozinho.",
+  "question": "Que frase simples você pode usar para pedir ajuda quando perceber que não consegue resolver algo sozinho?",
+  "prayer": "Jesus, acolhe nossos medos e ensina-nos a pedir ajuda. Obrigado pelas pessoas que nos oferecem cuidado quando estamos inseguros. Ajuda-nos a agir com prudência, a respeitar limites e a estender a mão a quem precisa de companhia. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/262.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus ajuda Pedro a voltar com segurança ao barco.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. A miracle on the OPEN LAKE, far from land: Jesus with reference face cream tunic terracotta mantle STANDS ON THE SURFACE OF DEEP WATER beside a small wooden boat. He firmly holds adult Peter hand helping him safely toward the boat; Peter curly dark hair beard beige fisher tunic partly in water and smiling with relief. Two adult disciples in boat extend supportive hands. Water surrounds EVERY side of Jesus, absolutely NO beach, NO rocks under his feet, NO shallow riverbed, NO nearby shoreline, NO vegetation foreground. Distant hills only tiny horizon. Blue pre-dawn sky with first warm light, reassuring family-friendly scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Os discípulos enfrentam vento e ondas durante a travessia noturna.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. ONLY DISCIPLES IN BOAT. Jesus is praying on a distant mountain and MUST NOT appear anywhere in this image. A small first-century wooden fishing boat on deep open Galilee water at night with FOUR ADULT DISCIPLES rowing against wind. Peter curly dark hair beard BEIGE fisher tunic, others blue-gray, muted olive and brown linen. NO red mantle, NO cream-and-red Jesus figure, NO long-haired Jesus face. New wide view showing boat, moving waves and dark blue sky before dawn, concerned but not terrified faces, no wreck or injury."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus estende a mão para ajudar Pedro no lago.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle standing miraculously on water gently grasps adult Peter hand near boat, Peter head and torso clearly above water with relieved face, stable supportive composition, no distress or drowning depiction, dawn light."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus e Pedro estão seguros no barco enquanto o vento se acalma.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle and Peter tan tunic rust sash safely seated inside ancient fishing boat with amazed disciples, lake now calm and golden dawn horizon, warm relieved faces, no danger."
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+> Registro histórico da edição original de 40 histórias. Para a edição de 365, consulte `AMPLIACAO-365.md`; este arquivo conserva as verificações e decisões anteriores.
+
 # Code Review Report
 
 ## Report Contract

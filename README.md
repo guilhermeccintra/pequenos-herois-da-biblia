@@ -2,20 +2,30 @@
 
 Webapp de histórias bíblicas ilustradas para crianças de 6 a 12 anos, com conta do responsável, landing page, biblioteca e leitura dentro do aplicativo.
 
-**Conteúdo já incluído:** 40 histórias completas, 160 ilustrações otimizadas, lições, perguntas e orações. **Planos:** R$ 47/mês e R$ 197/ano. O anual é cobrado de uma vez; a equivalência de R$ 16,42/mês não é parcelamento.
+**Conteúdo já incluído:** 365 histórias completas, uma para cada dia do ano; 1.460 ilustrações otimizadas (capa e três cenas por história), 365 reflexões, 365 perguntas e 365 orações. **Planos:** R$ 47/mês e R$ 197/ano. O anual é cobrado de uma vez; a equivalência de R$ 16,42/mês não é parcelamento.
+
+Veja o [índice das 365 leituras](docs/INDICE-365.md) e o [registro da ampliação e das verificações](docs/AMPLIACAO-365.md).
 
 ## O que funciona nesta entrega
 
 - Landing page ilustrada, planos, FAQ, amostra gratuita e cadastro.
-- Biblioteca com busca por título/personagem/referência, filtros de testamento, favoritos e progresso.
+- Biblioteca com busca por título/personagem/referência, filtros de testamento, favoritos, progresso e carregamento de 24 títulos por vez.
 - Leitor com três partes ilustradas e reflexão, ajuste de tamanho, modo noturno e conclusão.
 - Login, cadastro, confirmação de e-mail e recuperação de senha via Supabase.
 - Cobrança recorrente via Stripe Checkout, Portal de assinatura e webhook com verificação de assinatura, replay e estado atual.
 - Conteúdo pago protegido no servidor; banco com RLS e imagens/áudio em bucket privado.
 - Player MP3 com controle de velocidade, exibido quando o áudio estiver publicado.
-- Importação das 40 histórias/160 imagens e ferramentas de narração opcional.
+- Importação das 365 histórias/1.460 imagens e ferramentas de narração opcional.
 
-**O que requer suas contas:** Supabase, Vercel e Stripe. Não foram criadas contas, feitas cobranças nem configuradas credenciais reais. Os testes locais não substituem o teste integrado com suas contas. **Os 40 áudios não estão gravados.** O projeto aceita gravações humanas e inclui uma opção de geração natural por IA com ElevenLabs; uma voz sintética não é uma gravação humana.
+**O que requer suas contas:** Supabase, Vercel e Stripe. Não foram criadas contas, feitas cobranças nem configuradas credenciais reais. Os testes locais não substituem o teste integrado com suas contas. **Os 365 áudios não estão gravados.** O projeto aceita gravações humanas e inclui uma opção de geração natural por IA com ElevenLabs; uma voz sintética não é uma gravação humana.
+
+## Atualização da edição de 40 histórias
+
+1. Preserve os dados e credenciais das suas contas. Substitua os arquivos do projeto por esta edição.
+2. Execute `supabase/migrations/202610300002_expand_365.sql` no mesmo Supabase. Não recrie nem apague as tabelas.
+3. Valide com `node scripts/import-content.mjs --dry-run` e reimporte com `npm run import:content`. Os IDs 1–40 e as narrações já publicadas são preservados.
+4. Faça novo deploy do frontend e das funções da Vercel. O catálogo público e as novas capas precisam acompanhar o backend.
+5. Confira os IDs 41, 100 e 365 com uma conta de teste. Os áudios continuam opcionais e não são criados pela atualização.
 
 ## 1. Veja no computador antes de configurar
 
@@ -26,7 +36,7 @@ npm ci
 npm run dev
 ```
 
-Abra o endereço que o Vite mostrar. A configuração `.env.development` abre as 40 histórias **apenas no servidor local de desenvolvimento** e mostra uma faixa de prévia. Cadastro/cobrança não são simulados como operações reais. Não exponha o servidor de desenvolvimento na internet.
+Abra o endereço que o Vite mostrar. A configuração `.env.development` abre as 365 histórias **apenas no servidor local de desenvolvimento** e mostra uma faixa de prévia. Cadastro/cobrança não são simulados como operações reais. Não exponha o servidor de desenvolvimento na internet.
 
 ```bash
 npm test
@@ -56,7 +66,7 @@ Substitua somente usuário e repositório. GitHub Desktop também funciona. `.gi
 ## 3. Crie o projeto no Supabase
 
 1. Crie seu projeto e guarde sua senha de banco em local seguro.
-2. No SQL Editor, execute o arquivo completo `supabase/migrations/202610300001_initial.sql`. Ele cria tabelas, políticas de acesso, funções e o bucket privado `story-assets`.
+2. No SQL Editor, execute o arquivo completo `supabase/migrations/202610300001_initial.sql`. Ele cria tabelas, políticas de acesso, funções e o bucket privado `story-assets`. Em seguida, execute `supabase/migrations/202610300002_expand_365.sql` para ampliar os IDs aceitos até 365. Se você já usa a versão de 40 histórias, basta aplicar essa segunda migração: ela preserva contas, assinaturas, favoritos e progresso.
 3. Em Authentication, mantenha confirmação de e-mail e configure SMTP para enviar confirmação e recuperação em produção.
 4. Na configuração de URL do Auth, cadastre a URL final da Vercel como Site URL. Cadastre também os redirecionamentos exatos `https://SEU_DOMINIO/conta` e `https://SEU_DOMINIO/definir-senha`. Se usar domínio próprio, atualize todos eles.
 5. Copie a URL do projeto, a chave pública `anon`/publishable e a chave secreta de servidor `service_role`/secret. A chave secreta nunca vai no frontend.
@@ -72,7 +82,7 @@ node scripts/import-content.mjs --dry-run
 npm run import:content
 ```
 
-O primeiro comando valida 40 histórias e 160 imagens, sem chave ou upload. O segundo envia o conteúdo para seu próprio Supabase. É reexecutável e preserva narrações já publicadas. Em caso de interrupção, resolva a causa e execute novamente. Não mova conteúdo pago para `public/`.
+O primeiro comando valida 365 histórias e 1.460 imagens, sem chave ou upload. O segundo envia o conteúdo para seu próprio Supabase. É reexecutável e preserva narrações já publicadas. Em caso de interrupção, resolva a causa e execute novamente. Não mova conteúdo pago para `public/`.
 
 ## 5. Configure a Stripe
 
@@ -161,6 +171,6 @@ Para mudar preços futuramente, altere o cadastro Stripe, a validação `server/
 
 ## Tamanho e dependências
 
-As 160 imagens privadas somam cerca de 19 MB e são carregadas conforme a leitura. A área pública tem aproximadamente 3 MB de imagens, com carregamento adiado; não é tudo baixado ao abrir a landing. A imagem principal tem cerca de 149 KB. Fontes são locais e têm licenças OFL em `public/fonts/`.
+As imagens privadas são carregadas conforme a leitura. O catálogo mostra 24 cartões por vez e carrega as capas sob demanda; não baixa o acervo inteiro ao abrir a landing. A imagem principal tem cerca de 149 KB. Fontes são locais e têm licenças OFL em `public/fonts/`.
 
 Não há mensalidade de hospedagem, banco, e-mail, voz ou taxas de pagamento incluída no código. Esses serviços pertencem às contas que você conectar. O pacote não depende dos PDFs anteriores.

@@ -1,0 +1,71 @@
+{
+  "id": 156,
+  "title": "Um Quarto para Eliseu",
+  "subtitle": "Hospitalidade nos pequenos detalhes",
+  "reference": "2 Reis 4:8–17",
+  "description": "Uma mulher de Suném percebe que Eliseu passa sempre por sua cidade. Ela e o marido preparam um quarto simples para que o profeta tenha onde descansar.",
+  "testament": "antigo",
+  "cover": "/images/covers/156.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma parada no caminho",
+      "paragraphs": [
+        "Eliseu costumava passar pela cidade de Suném. Certa vez, uma mulher dali o convidou com insistência para comer em sua casa. Ela tinha recursos e desejava oferecer hospitalidade. O profeta aceitou, e aquele lugar passou a fazer parte de suas viagens. Sempre que atravessava a região, encontrava uma mesa onde podia parar e se alimentar.",
+        "Com o tempo, a mulher percebeu que Eliseu era um homem dedicado a Deus. Sua atenção não ficou apenas na honra de receber uma visita conhecida. Ela observou uma necessidade prática: alguém que viajava com frequência também precisava de descanso. Conversou então com o marido sobre a possibilidade de preparar um espaço próprio para o hóspede.",
+        "A proposta era construir um pequeno quarto na parte de cima da casa. Ali colocariam uma cama, uma mesa, uma cadeira e uma lamparina. A lista é simples e cuidadosa. Não fala de luxo para impressionar o visitante, mas de coisas que ajudariam uma pessoa a repousar, sentar, organizar seus objetos e ter luz quando a noite chegasse."
+      ],
+      "image": "156/part1.webp",
+      "alt": "A família recebe Eliseu para uma refeição simples numa casa de Suném."
+    },
+    {
+      "heading": "Um lugar preparado com atenção",
+      "paragraphs": [
+        "O quarto foi preparado, e Eliseu pôde usá-lo quando voltou à cidade. Subiu e se deitou para descansar. A generosidade da família ganhou forma em madeira, tecido e um espaço tranquilo. O trabalho de receber não dependia apenas de dizer que alguém era bem-vindo. Havia uma organização que tornava a acolhida possível de verdade.",
+        "Eliseu desejou agradecer por tanto cuidado. Chamou seu servo Geazi e pediu que falasse com a mulher. Quis saber se poderia ajudá-la em algum assunto junto ao rei ou ao comandante do exército. Ela respondeu que vivia entre seu povo. Não estava oferecendo aquele quarto como um modo de conseguir acesso a pessoas poderosas.",
+        "Depois, Eliseu perguntou a Geazi o que poderia fazer por ela. O servo observou que não tinha filho e que seu marido já era idoso. A informação revelou um desejo que não aparecera como cobrança durante a hospitalidade. A mulher havia cuidado do profeta sem apresentar uma lista de recompensas que esperava receber em troca."
+      ],
+      "image": "156/part2.webp",
+      "alt": "A mulher e o marido organizam o quarto de hóspedes, colocando uma cadeira e uma lamparina perto da mesa."
+    },
+    {
+      "heading": "Uma promessa inesperada",
+      "paragraphs": [
+        "Geazi chamou a mulher mais uma vez. Ela subiu e ficou à porta do quarto que havia preparado com tanto cuidado. Eliseu tinha uma notícia para lhe dar. Anunciou que, no mesmo tempo do ano seguinte, ela teria um filho nos braços. A conversa de agradecimento trazia uma promessa que a mulher não esperava ouvir.",
+        "A mulher ouviu a promessa e pediu ao homem de Deus que não a enganasse. A notícia tocava uma esperança muito profunda. Até então, ela havia oferecido refeições e preparado um quarto para o profeta. Agora era Eliseu quem lhe anunciava um presente inesperado: no tempo indicado, teria um filho para segurar nos braços.",
+        "A promessa se cumpriu no tempo anunciado por Eliseu. A mulher engravidou e deu à luz um menino. A casa que havia preparado um lugar de descanso para o profeta agora recebia uma criança. O pequeno quarto continuava ali, com sua cama, mesa, cadeira e lamparina, enquanto uma nova alegria passava a fazer parte daquela família."
+      ],
+      "image": "156/part3.webp",
+      "alt": "A mulher segura seu filho recém-nascido com carinho, ao lado do marido numa casa tranquila."
+    }
+  ],
+  "lesson": "Hospitalidade pode aparecer em detalhes: água, um lugar para sentar e atenção ao cansaço de quem chega. A mulher de Suném cuidou sem exigir uma recompensa. Podemos oferecer ajuda por bondade, respeitando os recursos e os limites de nossa família. A resposta especial que ela recebeu não é uma regra de troca com Deus. Pessoas que continuam esperando por um filho ou por outra alegria merecem respeito e carinho, nunca comparações ou promessas vazias.",
+  "question": "Que detalhe simples pode fazer uma visita se sentir mais acolhida em sua casa?",
+  "prayer": "Deus, ensina-nos a receber as pessoas com atenção e respeito. Ajuda-nos a perceber suas necessidades sem transformar a ajuda numa troca de favores. Cuida também das esperanças delicadas que cada pessoa carrega, e que nossas palavras sejam sinceras, cuidadosas e cheias de bondade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A mulher de Suném e o marido mostram a Eliseu um pequeno quarto preparado com cama, mesa, cadeira e lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite woman adult olive skin long dark braid cream scarf deep teal dress; husband older gray beard beige robe; Elisha adult receding dark hair neat beard green cloak; Gehazi adult brown tunic. Ancient upper room bed table chair oil lamp. Only characters named in scene. Scene: A mulher de Suném e o marido mostram a Eliseu um pequeno quarto preparado com cama, mesa, cadeira e lamparina."
+    },
+    {
+      "role": "part1",
+      "alt": "A família recebe Eliseu para uma refeição simples numa casa de Suném.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite woman adult olive skin long dark braid cream scarf deep teal dress; husband older gray beard beige robe; Elisha adult receding dark hair neat beard green cloak; Gehazi adult brown tunic. Ancient upper room bed table chair oil lamp. Only characters named in scene. Scene: A família recebe Eliseu para uma refeição simples numa casa de Suném."
+    },
+    {
+      "role": "part2",
+      "alt": "A mulher e o marido organizam o quarto de hóspedes, colocando uma cadeira e uma lamparina perto da mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite woman adult olive skin long dark braid cream scarf deep teal dress; husband older gray beard beige robe; Elisha adult receding dark hair neat beard green cloak; Gehazi adult brown tunic. Ancient upper room bed table chair oil lamp. Only characters named in scene. Scene: A mulher e o marido organizam o quarto de hóspedes, colocando uma cadeira e uma lamparina perto da mesa. MANDATORY SCENE CAST: Only the woman and her husband arranging an empty guest room. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "A mulher segura seu filho recém-nascido com carinho, ao lado do marido numa casa tranquila.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite woman adult olive skin long dark braid cream scarf deep teal dress; husband older gray beard beige robe; Elisha adult receding dark hair neat beard green cloak; Gehazi adult brown tunic. Ancient upper room bed table chair oil lamp. Only characters named in scene. Scene: A mulher segura seu filho recém-nascido com carinho, ao lado do marido numa casa tranquila. MANDATORY SCENE CAST: Only the woman, her husband and their newborn baby. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    }
+  ]
+}

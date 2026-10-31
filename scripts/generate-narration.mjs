@@ -5,6 +5,8 @@ import { mkdir, open, readFile, rename, rm, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
+import { STORY_COUNT, parseStorySelection } from '../shared/collection.mjs';
+
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const MODEL = 'eleven_multilingual_v2';
 const SETTINGS = { stability: 0.62, similarity_boost: 0.75, style: 0.12, use_speaker_boost: true };
@@ -37,8 +39,8 @@ export function parseArgs(argv) {
     else if (arg === '--out' && argv[i + 1]) options.out = resolve(argv[++i]);
     else throw new InstructionError(`Opção inválida: ${arg.startsWith('--') ? arg : '(valor)'}. Use --story 1|all, --out PASTA e --confirm-cost.`);
   }
-  if (options.story !== 'all' && !/^(?:[1-9]|[1-3][0-9]|40)$/.test(options.story)) {
-    throw new InstructionError('--story deve ser um número de 1 a 40 ou all.');
+  if (options.story !== 'all' && !parseStorySelection(options.story)) {
+    throw new InstructionError(`--story deve ser um número de 1 a ${STORY_COUNT} ou all.`);
   }
   return options;
 }
@@ -59,6 +61,7 @@ export async function main(argv = process.argv.slice(2), env = process.env, fetc
   const options = parseArgs(argv);
   const all = await readJson(resolve(ROOT, 'content/stories.json'));
   const stories = all.filter(story => options.story === 'all' || story.id === Number(options.story));
+  if (!stories.length) throw new InstructionError('A história selecionada não está disponível no acervo local.');
   const texts = stories.map(story => ({ story, text: buildNarrationText(story) }));
   for (const { story, text } of texts) {
     if (text.length >= 10000) throw new InstructionError(`História ${story.id} excede o limite de menos de 10.000 caracteres; nada foi enviado.`);

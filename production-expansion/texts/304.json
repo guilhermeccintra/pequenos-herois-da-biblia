@@ -1,0 +1,71 @@
+{
+  "id": 304,
+  "title": "Um Encontro na Porta Formosa",
+  "subtitle": "Um pedido e uma grande surpresa",
+  "reference": "Atos 3:1–10",
+  "description": "À porta do templo, um homem pede ajuda a Pedro e João. O encontro traz uma surpresa que faz muita gente parar e agradecer a Deus.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "À entrada do templo",
+      "paragraphs": [
+        "Pedro e João subiam ao templo de Jerusalém para a oração da tarde. Muitas pessoas passavam por suas entradas, cada uma com seus pensamentos e seus passos. Junto a uma das portas, chamada Formosa, estava um homem que não conseguia andar desde o nascimento. Todos os dias, outras pessoas o levavam até aquele lugar.",
+        "Ali, ele pedia ajuda a quem entrava. As moedas que recebia faziam parte de seu sustento. O relato não conta seu nome, mas não trata sua necessidade como invisível. Para aquele homem, a porta do templo era um lugar de espera. Ele dependia da atenção de pessoas que podiam simplesmente continuar andando.",
+        "Ao ver Pedro e João, pediu uma oferta. Os dois pararam e olharam diretamente para ele. Pedro pediu que o homem olhasse para eles também. Foi um encontro de rostos, não apenas de mãos. O homem prestou atenção, esperando receber alguma coisa. Ainda não imaginava o que aquele momento traria."
+      ],
+      "image": "304/part1.webp",
+      "alt": "Um homem adulto de túnica verde está sentado sobre um tapete junto à entrada do templo, e Pedro e João param para conversar com ele à mesma altura."
+    },
+    {
+      "heading": "Uma mão estendida",
+      "paragraphs": [
+        "Pedro explicou que não tinha prata nem ouro para oferecer. Mas tinha algo para compartilhar em nome de Jesus Cristo de Nazaré. Pediu que o homem se levantasse e andasse. Aquelas palavras apontavam para Jesus, não para uma habilidade particular do apóstolo. Pedro não pretendia receber o crédito por aquilo que aconteceria.",
+        "Então segurou a mão direita do homem e o ajudou a levantar. Imediatamente, seus pés e tornozelos ficaram firmes. O homem se pôs de pé e começou a andar. Um movimento que nunca fizera por conta própria agora se tornava possível. Atos apresenta esse acontecimento como um sinal extraordinário realizado em nome de Jesus.",
+        "O homem não ficou parado examinando a porta. Entrou no templo com Pedro e João, andando, saltando e louvando a Deus. Sua alegria encontrava expressão nos movimentos e nas palavras. Aquele que costumava ser carregado até a entrada agora seguia junto com os dois amigos, participando do caminho com seus próprios passos."
+      ],
+      "image": "304/part2.webp",
+      "alt": "Pedro segura respeitosamente a mão direita do homem, que se levanta com admiração, enquanto João observa."
+    },
+    {
+      "heading": "As pessoas reconhecem",
+      "paragraphs": [
+        "Quem estava por perto o viu caminhando e agradecendo a Deus. Muitos reconheceram o homem que costumava pedir ajuda na Porta Formosa. Não era um desconhecido inventado para contar uma história impressionante. Era alguém que viam com frequência, e a mudança os deixou cheios de admiração. O cotidiano da entrada do templo havia sido interrompido.",
+        "A notícia chamou a atenção para Pedro e João, mas eles não eram o centro da alegria daquele homem. Ele louvava a Deus. O encontro começara com um pedido de moedas e se tornara um testemunho sobre Jesus. Aquela tarde seria lembrada por uma surpresa muito maior que a oferta que ele esperava.",
+        "O valor do homem não começou quando pôde andar. Ele já merecia respeito quando precisava ser carregado e quando pedia ajuda à porta. A cura narrada em Atos revela o poder de Jesus; o olhar atento dos apóstolos também nos convida a perceber pessoas. Antes de qualquer surpresa, Pedro e João tinham parado para encontrá-lo."
+      ],
+      "image": "304/part3.webp",
+      "alt": "O homem caminha alegremente ao lado de Pedro e João no pátio do templo, erguendo as mãos em gratidão; pessoas o reconhecem ao fundo."
+    }
+  ],
+  "lesson": "Todas as pessoas merecem respeito, com ou sem deficiência. Antes de qualquer surpresa, Pedro e João pararam para olhar e ouvir o homem. Podemos seguir esse exemplo oferecendo amizade, atenção e ajuda quando ela é desejada. Perguntar o que alguém precisa é uma forma de reconhecer suas escolhas. A alegria desta história nos lembra do poder de Jesus e também do valor precioso de cada pessoa que encontramos.",
+  "question": "Como você pode oferecer ajuda com respeito, sem decidir sozinho o que outra pessoa precisa?",
+  "prayer": "Jesus, ensina-me a enxergar as pessoas com carinho e respeito. Obrigado porque cada vida tem valor. Ajuda-nos a cuidar de quem precisa, a remover dificuldades do caminho e a oferecer amizade sem fazer promessas que não podemos cumprir. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/304.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.3"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro estende a mão a um homem adulto que está se levantando junto à grande Porta Formosa de pedra, enquanto João acompanha com alegria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro estende a mão a um homem adulto que está se levantando junto à grande Porta Formosa de pedra, enquanto João acompanha com alegria."
+    },
+    {
+      "role": "part1",
+      "alt": "Um homem adulto de túnica verde está sentado sobre um tapete junto à entrada do templo, e Pedro e João param para conversar com ele à mesma altura.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Um homem adulto de túnica verde está sentado sobre um tapete junto à entrada do templo, e Pedro e João param para conversar com ele à mesma altura. Required cast continuity: Peter is the older grey-curly-haired man in rust tunic and cream shawl, John is the younger man in blue, healed man has curly dark hair/full beard and BEIGE tunic with BROWN mantle exactly as cover. All scenes OUTDOORS at the Temple Beautiful Gate, never indoors. In part1 the man remains seated, in part2 he is being helped up, part3 he is walking joyfully."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro segura respeitosamente a mão direita do homem, que se levanta com admiração, enquanto João observa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro segura respeitosamente a mão direita do homem, que se levanta com admiração, enquanto João observa. Required cast continuity: Peter is the older grey-curly-haired man in rust tunic and cream shawl, John is the younger man in blue, healed man has curly dark hair/full beard and BEIGE tunic with BROWN mantle exactly as cover. All scenes OUTDOORS at the Temple Beautiful Gate, never indoors. In part1 the man remains seated, in part2 he is being helped up, part3 he is walking joyfully."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem caminha alegremente ao lado de Pedro e João no pátio do templo, erguendo as mãos em gratidão; pessoas o reconhecem ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: O homem caminha alegremente ao lado de Pedro e João no pátio do templo, erguendo as mãos em gratidão; pessoas o reconhecem ao fundo. Required cast continuity: Peter is the older grey-curly-haired man in rust tunic and cream shawl, John is the younger man in blue, healed man has curly dark hair/full beard and BEIGE tunic with BROWN mantle exactly as cover. All scenes OUTDOORS at the Temple Beautiful Gate, never indoors. In part1 the man remains seated, in part2 he is being helped up, part3 he is walking joyfully."
+    }
+  ]
+}

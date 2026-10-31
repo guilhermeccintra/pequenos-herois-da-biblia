@@ -1,0 +1,71 @@
+{
+  "id": 69,
+  "title": "O Pão que Chegava de Manhã",
+  "subtitle": "O suficiente para cada família, a cada dia",
+  "reference": "Êxodo 16:1–21",
+  "description": "No deserto, o maná ensina o povo a receber o alimento com confiança e responsabilidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/69.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma preocupação no caminho",
+      "paragraphs": [
+        "Os israelitas saíram de Elim e chegaram ao deserto de Sim, entre Elim e Sinai. Já fazia algum tempo que haviam deixado o Egito. Agora a preocupação era a comida. O povo reclamou com Moisés e Arão, lembrando das refeições antigas como se a escravidão tivesse sido um lugar seguro para viver.",
+        "A fome e o medo do futuro podiam confundir suas lembranças. No Egito havia alimento, mas também trabalho cruel e falta de liberdade. Deus não ignorou a necessidade presente. Disse a Moisés que enviaria alimento e que o povo aprenderia a recolhê-lo de acordo com orientações claras para cada dia.",
+        "Moisés e Arão reuniram os israelitas e anunciaram que o Senhor ouvira suas reclamações. Ao entardecer, codornizes chegaram ao acampamento. Na manhã seguinte, havia orvalho ao redor. Quando o orvalho se levantou, uma coisa pequena e delicada apareceu sobre o chão do deserto, surpreendendo quem saía das tendas."
+      ],
+      "image": "69/part1.webp",
+      "alt": "Moisés e Arão escutam a preocupação do povo."
+    },
+    {
+      "heading": "Que alimento era aquele?",
+      "paragraphs": [
+        "Os israelitas olharam uns para os outros, sem saber o que estavam vendo. Moisés explicou que aquele era o alimento dado pelo Senhor. O povo o chamou de maná. Não chegara em sacos transportados por uma caravana nem havia sido colhido de um campo plantado ali. Era provisão no meio de uma região difícil.",
+        "Cada família deveria recolher a quantidade necessária para as pessoas de sua tenda. Quem juntava mais não ficava com excesso, e quem juntava menos não passava falta quando o alimento era medido. A atenção se voltava para a necessidade de todos. O objetivo não era transformar a manhã numa disputa por acumular.",
+        "Havia uma orientação importante: não guardar sobras para o dia seguinte naquela coleta comum. Deus daria o necessário novamente. Isso exigia confiança de pessoas acostumadas à insegurança. Suas mãos tinham trabalho a fazer, mas não precisavam tentar controlar todo o futuro enchendo os recipientes além do que lhes fora indicado."
+      ],
+      "image": "69/part2.webp",
+      "alt": "Os israelitas descobrem o maná no chão."
+    },
+    {
+      "heading": "Aprender uma manhã de cada vez",
+      "paragraphs": [
+        "Algumas pessoas não ouviram Moisés e guardaram parte do alimento. Na manhã seguinte, o que tinham reservado estava estragado. A tentativa de garantir o amanhã por conta própria não produziu a segurança esperada. O povo precisou aprender que receber a provisão também envolvia escutar as orientações que a acompanhavam.",
+        "A cada manhã, as famílias recolhiam o maná de que precisavam. Quando o sol esquentava, o que permanecia no chão se derretia. Havia um ritmo para aprender: levantar, recolher, preparar e repartir dentro de casa. A confiança em Deus aparecia em ações simples, repetidas no cotidiano do acampamento.",
+        "O maná não eliminou toda responsabilidade dos israelitas. Eles continuavam precisando cuidar uns dos outros e usar bem o alimento recebido. Mas não estavam abandonados à fome. No chão do deserto, a cada novo dia, encontravam uma lembrança de que o Senhor os sustentava. O suficiente para hoje também podia ensinar esperança para amanhã."
+      ],
+      "image": "69/part3.webp",
+      "alt": "As famílias preparam a refeição do dia."
+    }
+  ],
+  "lesson": "O maná nos convida a valorizar o alimento e pensar na necessidade de todos. Receber com gratidão inclui evitar desperdício, repartir quando podemos e lembrar de quem não tem o suficiente. A confiança também cresce em tarefas pequenas do dia a dia. Não precisamos resolver todo o futuro de uma vez, mas podemos cuidar bem do que está diante de nós e pedir ajuda para o próximo passo.",
+  "question": "Que atitude você pode tomar nas refeições para agradecer, evitar desperdício ou ajudar alguém?",
+  "prayer": "Deus bondoso, obrigado pelo alimento e pelas mãos que trabalham para que ele chegue até nós. Cuida de quem está com fome. Ensina-me a repartir, evitar desperdício e receber cada dia com gratidão, fazendo com cuidado a parte que me cabe. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família recolhe o maná ao amanhecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Adult Hebrew parents with fully clothed school-age children gather tiny pale manna flakes into woven baskets at desert dawn, tents behind, wonder and gratitude, no bread loaves on ground."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés e Arão escutam a preocupação do povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses and Aaron listen to worried adult families near empty food baskets at desert camp, compassionate conversation, no aggression."
+    },
+    {
+      "role": "part2",
+      "alt": "Os israelitas descobrem o maná no chão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Close foreground adult hands gently lift small pale round flakes from clean desert ground into woven basket, family faces amazed in background, morning dew light."
+    },
+    {
+      "role": "part3",
+      "alt": "As famílias preparam a refeição do dia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Hebrew family prepares simple meal beside tent, mother and father share bowls with children, basket of pale manna nearby, warm morning domestic scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+16%3A1-21&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 98,
+  "title": "Balaão Precisa Parar",
+  "subtitle": "A pressa e a raiva podem esconder o que precisamos perceber",
+  "reference": "Números 22:21–35",
+  "description": "No caminho para encontrar Balaque, Balaão descobre que sua jumenta enxergava um perigo que ele não via.",
+  "testament": "antigo",
+  "cover": "/images/covers/98.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um caminho que parecia simples",
+      "paragraphs": [
+        "Balaão viajava montado em sua jumenta, acompanhado por dois servos. Ele seguia para encontrar os representantes do rei Balaque, que desejava uma palavra contra Israel. Mas havia um problema no caminho de Balaão diante de Deus. Um anjo do Senhor se colocou na estrada para fazê-lo parar.",
+        "Balaão não viu o anjo. Sua jumenta, porém, percebeu a presença dele, com uma espada na mão, e saiu da estrada para um campo. O homem ficou irritado e bateu no animal para fazê-lo voltar. Pensou que a jumenta apenas atrapalhava a viagem, sem compreender o perigo que ela evitava.",
+        "Depois, o anjo se colocou numa passagem estreita entre vinhas, com muros dos dois lados. Ao tentar se afastar, a jumenta encostou no muro e apertou o pé de Balaão. Ele voltou a bater nela. A irritação crescia a cada interrupção, enquanto sua compreensão continuava pequena demais para explicar o que acontecia."
+      ],
+      "image": "98/part1.webp",
+      "alt": "A jumenta se afasta da estrada perto de um campo."
+    },
+    {
+      "heading": "Uma pergunta inesperada",
+      "paragraphs": [
+        "O anjo avançou para um lugar tão estreito que não havia espaço para desviar, nem para um lado nem para o outro. Quando a jumenta o viu, deitou-se no caminho com Balaão ainda montado. Furioso, ele tornou a bater nela com seu cajado, sem perceber que o animal estava tentando preservar sua vida.",
+        "Então, o Senhor permitiu que a jumenta falasse. Ela perguntou o que havia feito para receber aquelas três agressões. A resposta de Balaão mostrou sua raiva e sua vergonha. Ele se sentia tratado como alguém sem importância, mas ainda não estava fazendo a pergunta mais necessária: por que um animal conhecido agia daquele modo?",
+        "A jumenta lembrou que o servia havia muito tempo. Perguntou se costumava se comportar assim. Balaão respondeu que não. Aquela pergunta interrompeu a sequência de irritação e castigo. Havia uma história de confiança que ele havia esquecido, e um comportamento diferente que precisava ser compreendido, não respondido com violência."
+      ],
+      "image": "98/part2.webp",
+      "alt": "Balaão escuta a pergunta inesperada da jumenta."
+    },
+    {
+      "heading": "Olhos abertos para recomeçar",
+      "paragraphs": [
+        "O Senhor abriu os olhos de Balaão, e ele viu o anjo parado no caminho. Imediatamente, inclinou-se. O anjo perguntou por que ele havia batido na jumenta três vezes e explicou que estava ali para se opor ao seu caminho. As interrupções que Balaão considerara um problema o haviam protegido.",
+        "Balaão reconheceu que havia pecado. Disse que não sabia da presença do anjo e se dispôs a voltar, caso sua viagem não fosse aprovada. Sua atitude finalmente começou a mudar. Quem antes exigia passagem a qualquer custo agora precisava ouvir, admitir seu limite e considerar uma direção diferente.",
+        "O anjo permitiu que continuasse, mas reforçou que deveria falar somente o que Deus lhe mandasse. Balaão prosseguiu levando uma advertência importante. Nem sempre enxergamos tudo o que acontece ao nosso redor. Tratar os animais com cuidado, conter a raiva e prestar atenção aos sinais pode revelar aquilo que nossa pressa deixou escondido."
+      ],
+      "image": "98/part3.webp",
+      "alt": "Balaão se inclina diante do anjo no caminho."
+    }
+  ],
+  "lesson": "Quando algo sai do esperado, a irritação pode nos impedir de compreender. Balaão precisou parar e perceber que a jumenta tentava protegê-lo. Animais dependem do nosso cuidado e não devem receber maus-tratos. Também precisamos ouvir antes de julgar uma pessoa ou uma situação. Fazer uma pausa, observar e procurar ajuda pode mudar nossa resposta. Admitir que não entendemos tudo é um começo importante para agir com mais sabedoria.",
+  "question": "Como você pode fazer uma pausa antes de reagir com raiva quando algo interrompe seus planos?",
+  "prayer": "Senhor, ensina-me a parar antes de agir com raiva. Ajuda-me a cuidar dos animais, ouvir com atenção e reconhecer quando não compreendo uma situação. Dá-me humildade para mudar de atitude e sabedoria para seguir o caminho certo com respeito. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Balaão vê o anjo enquanto a jumenta descansa no caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam dismounted beside calm gray donkey lying safely on narrow ancient vineyard path; adult male angel in simple white robe stands at distance, sword pointed down away from everyone, solemn peaceful revelation, no striking or injuries."
+    },
+    {
+      "role": "part1",
+      "alt": "A jumenta se afasta da estrada perto de um campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam mounted on gray donkey stepping from dusty road into grassy field, puzzled expression, two adult servants far behind, no raised stick, no angel visible in this composition."
+    },
+    {
+      "role": "part2",
+      "alt": "Balaão escuta a pergunta inesperada da jumenta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Gray donkey resting comfortably on path turns head toward dismounted Balaam with gently open mouth, Balaam surprised and listening, close expressive composition, no human mouth or speech bubbles, no violence."
+    },
+    {
+      "role": "part3",
+      "alt": "Balaão se inclina diante do anjo no caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam bows humbly before adult male angel in simple white robe on vineyard path, angel sword lowered at side far from people, gray donkey standing calmly behind Balaam, warm light."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+22%3A21-35&version=KJV"
+  ]
+}

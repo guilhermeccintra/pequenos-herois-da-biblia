@@ -1,0 +1,71 @@
+{
+  "id": 144,
+  "title": "A Rainha que Trouxe Perguntas",
+  "subtitle": "Aprender também é uma viagem",
+  "reference": "1 Reis 10:1–13",
+  "description": "A rainha de Sabá viaja para conhecer a sabedoria de Salomão. Leva perguntas difíceis, observa a vida ao redor do rei e descobre mais do que ouvira de longe.",
+  "testament": "antigo",
+  "cover": "/images/covers/144.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Notícias que atravessaram a distância",
+      "paragraphs": [
+        "A fama de Salomão chegou à rainha de Sabá. Ela ouviu falar de sua sabedoria, ligada ao nome do Senhor, e desejou conhecê-la de perto. Não se contentou apenas com rumores trazidos por viajantes. Preparou uma viagem a Jerusalém para apresentar perguntas difíceis e perceber por si mesma o que havia por trás daquelas notícias.",
+        "A rainha chegou com uma grande comitiva. Camelos levavam especiarias, muito ouro e pedras preciosas. Aquela governante vinha de uma terra distante, mas o desejo de buscar entendimento a levara até Jerusalém. Trazia presentes e também perguntas que esperava poder apresentar ao rei. A viagem exigia organização, tempo e recursos, mostrando que aprender podia ser considerado algo de grande valor.",
+        "Ao encontrar Salomão, ela falou de tudo o que tinha no coração. Suas perguntas não eram tratadas como um incômodo que atrapalhava a visita. Faziam parte do propósito do encontro. A rainha desejava compreender, e o rei teve a oportunidade de compartilhar a sabedoria recebida, respondendo com atenção às questões apresentadas."
+      ],
+      "image": "144/part1.webp",
+      "alt": "A comitiva da rainha chega a Jerusalém com camelos e cestos de especiarias, numa viagem tranquila."
+    },
+    {
+      "heading": "Perguntar e observar",
+      "paragraphs": [
+        "Salomão respondeu às perguntas da rainha. Nenhum dos assuntos apresentados ficou sem explicação durante aquele encontro. Mas a visitante não observou apenas suas palavras. Viu a casa que ele havia construído, a comida servida, a organização dos oficiais, os servos e suas roupas. Sua atenção alcançava a vida que cercava o rei.",
+        "Também percebeu sua relação com o culto ao Senhor. O conjunto a impressionou profundamente. Uma coisa era ouvir notícias à distância; outra era encontrar a realidade diante dos olhos. A rainha reconheceu que não acreditara plenamente nos relatos até chegar e ver. Agora entendia que aquilo que ouvira não contava nem a metade da experiência.",
+        "Ela elogiou a oportunidade dos servos que escutavam a sabedoria de Salomão. Sua fala não ficou limitada ao brilho de objetos valiosos. Reconheceu a importância de aprender perto de alguém que podia ensinar. O encontro entre dois governantes se tornou também uma conversa sobre o valor do entendimento e das condições que permitem ouvi-lo todos os dias."
+      ],
+      "image": "144/part2.webp",
+      "alt": "A rainha e Salomão conversam diante de uma mesa simples, escutando com atenção um ao outro."
+    },
+    {
+      "heading": "Uma visita com troca e gratidão",
+      "paragraphs": [
+        "A rainha bendisse o Senhor, que havia colocado Salomão no trono. Relacionou essa posição ao amor de Deus por Israel e à responsabilidade de exercer justiça e retidão. Governar não deveria ser apenas desfrutar de riqueza. A sabedoria admirada na visita precisava servir ao bem do povo e ao modo como suas questões eram decididas.",
+        "Ela entregou ao rei os presentes que trouxera, incluindo especiarias em quantidade extraordinária. Salomão também lhe deu presentes e atendeu aos pedidos feitos durante a visita, conforme sua generosidade real. Havia troca entre os dois, mas o valor do encontro não cabia somente no peso do ouro ou no perfume das especiarias levadas pelos camelos.",
+        "Depois, a rainha voltou para sua terra com os servos. Sua viagem tinha começado com notícias e perguntas e terminava com observação, conversa e reconhecimento. Ela não precisou fingir que sabia tudo por ser governante. Ao procurar respostas, mostrou que uma pessoa importante também pode aprender, mudar de opinião e agradecer pelo conhecimento que encontra no caminho."
+      ],
+      "image": "144/part3.webp",
+      "alt": "A rainha se despede para voltar à sua terra, acompanhada por servos e bagagens organizadas."
+    }
+  ],
+  "lesson": "Perguntar não é sinal de fraqueza. A rainha de Sabá tinha autoridade e, ainda assim, viajou para aprender. Podemos fazer perguntas, observar com atenção e reconhecer quando entendemos algo melhor. Também é importante verificar notícias antes de tratá-las como verdade. Ninguém precisa ter todas as respostas para merecer respeito. Um bom encontro acontece quando há liberdade para perguntar e disposição para explicar sem ridicularizar quem está aprendendo.",
+  "question": "Que pergunta você gostaria de fazer a alguém que conhece bem um assunto de seu interesse?",
+  "prayer": "Deus, dá-nos curiosidade para aprender e humildade para fazer perguntas. Ajuda-nos a escutar boas explicações e a verificar o que ouvimos antes de repetir. Que possamos compartilhar conhecimento com paciência, respeitando quem ainda está descobrindo e agradecendo por quem nos ensina. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A rainha de Sabá conversa com Salomão no pátio do palácio, trazendo perguntas com confiança e interesse.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Queen of Sheba adult regal brown-skinned woman dark braided hair, elegant muted turquoise and gold robe tasteful ancient jewelry; Solomon olive skin dark curls blue robe simple crown. Ancient palace, camels with spice baskets, no modern objects. Only stated cast. Scene: A rainha de Sabá conversa com Salomão no pátio do palácio, trazendo perguntas com confiança e interesse."
+    },
+    {
+      "role": "part1",
+      "alt": "A comitiva da rainha chega a Jerusalém com camelos e cestos de especiarias, numa viagem tranquila.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Queen of Sheba adult regal brown-skinned woman dark braided hair, elegant muted turquoise and gold robe tasteful ancient jewelry; Solomon olive skin dark curls blue robe simple crown. Ancient palace, camels with spice baskets, no modern objects. Only stated cast. Scene: A comitiva da rainha chega a Jerusalém com camelos e cestos de especiarias, numa viagem tranquila. MANDATORY SCENE CAST: Only the queen and her traveling caravan. Solomon is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "A rainha e Salomão conversam diante de uma mesa simples, escutando com atenção um ao outro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Queen of Sheba adult regal brown-skinned woman dark braided hair, elegant muted turquoise and gold robe tasteful ancient jewelry; Solomon olive skin dark curls blue robe simple crown. Ancient palace, camels with spice baskets, no modern objects. Only stated cast. Scene: A rainha e Salomão conversam diante de uma mesa simples, escutando com atenção um ao outro."
+    },
+    {
+      "role": "part3",
+      "alt": "A rainha se despede para voltar à sua terra, acompanhada por servos e bagagens organizadas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Queen of Sheba adult regal brown-skinned woman dark braided hair, elegant muted turquoise and gold robe tasteful ancient jewelry; Solomon olive skin dark curls blue robe simple crown. Ancient palace, camels with spice baskets, no modern objects. Only stated cast. Scene: A rainha se despede para voltar à sua terra, acompanhada por servos e bagagens organizadas."
+    }
+  ]
+}

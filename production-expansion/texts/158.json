@@ -1,0 +1,71 @@
+{
+  "id": 158,
+  "title": "A Panela Compartilhada",
+  "subtitle": "Cuidado antes de continuar a refeição",
+  "reference": "2 Reis 4:38–41",
+  "description": "Durante uma fome, um grupo prepara uma panela de comida. Uma planta desconhecida torna a refeição perigosa, e todos precisam parar para receber ajuda.",
+  "testament": "antigo",
+  "cover": "/images/covers/158.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma refeição em tempo de fome",
+      "paragraphs": [
+        "Eliseu voltou a Gilgal, onde havia um grupo de profetas. A região passava por um período de fome, e conseguir alimento era uma preocupação real. Os homens se reuniram diante dele, e o profeta pediu ao seu servo que colocasse uma grande panela no fogo e preparasse um ensopado para a comunidade.",
+        "Uma panela compartilhada podia alimentar várias pessoas. Para isso, era necessário reunir ingredientes, cuidar do preparo e esperar. Em tempos de falta, cada recurso parecia valioso. O desejo de encontrar mais alimento levou um dos homens a sair ao campo em busca de ervas. Ele queria contribuir para a refeição que estava sendo organizada.",
+        "No caminho, encontrou uma planta silvestre e colheu seus frutos, enchendo a dobra de sua roupa. Voltou e os cortou dentro da panela. O problema era que não conhecia aquela planta. A intenção de ajudar era boa, mas faltava uma informação importante. Nem tudo que cresce no campo pode ser comido com segurança."
+      ],
+      "image": "158/part1.webp",
+      "alt": "Adultos organizam ingredientes e vasilhas para preparar comida em comunidade num tempo de escassez."
+    },
+    {
+      "heading": "Um aviso interrompe a mesa",
+      "paragraphs": [
+        "O ensopado foi servido aos homens. Quando começaram a comer, perceberam que havia algo errado e gritaram para Eliseu que a panela continha algo perigoso. Não conseguiram continuar a refeição. O aviso foi importante: reconhecer o problema e parar era mais necessário que insistir para não desperdiçar o que já havia sido preparado.",
+        "Os frutos que o homem trouxera do campo já estavam misturados aos outros ingredientes. Ele saíra querendo ajudar, mas colhera uma planta que não conhecia. Agora a grande panela estava diante do grupo, e todos esperavam uma resposta. Naquele tempo de fome, perder a refeição preparada tornava a dificuldade ainda maior.",
+        "Eliseu ouviu o alerta e pediu farinha. O grupo precisava receber ajuda em vez de discutir para decidir quem parecia mais culpado naquele instante. Havia uma situação concreta a ser resolvida. A refeição, que deveria sustentar a comunidade, se tornara um risco, e o profeta respondeu ao pedido de pessoas que tinham percebido a dificuldade."
+      ],
+      "image": "158/part2.webp",
+      "alt": "Os homens deixam suas tigelas e chamam Eliseu depois de perceber algo errado na comida."
+    },
+    {
+      "heading": "A refeição pode continuar",
+      "paragraphs": [
+        "Eliseu lançou a farinha na panela e mandou que servissem novamente aos homens. Desta vez, não havia mais perigo na comida. O ensopado pôde ser repartido, e as pessoas retomaram a refeição. Depois do susto, a comunidade recebia alimento para continuar. O Senhor havia cuidado daqueles homens no meio da escassez que a região enfrentava.",
+        "Os homens comeram juntos. A grande panela, que pouco antes causara preocupação, agora servia à comunidade. Cada porção recebida tinha valor naquele tempo difícil. A refeição podia continuar, e o grupo já não precisava afastar os pratos. A ajuda recebida por meio de Eliseu chegava até uma necessidade simples e urgente: ter alimento para o dia.",
+        "Em Gilgal, a fome ainda fazia parte da vida da região. Mas aquele grupo tinha recebido sustento. O homem que saíra para colher, o servo que preparara a panela e os que se reuniram diante do profeta participavam agora da mesma refeição. Depois da preocupação, havia espaço para comer e agradecer pelo cuidado de Deus."
+      ],
+      "image": "158/part3.webp",
+      "alt": "Eliseu segura uma pequena tigela de farinha perto da panela, acompanhado por adultos atentos e tranquilos."
+    }
+  ],
+  "lesson": "Um homem quis colaborar com a refeição, mas se enganou ao escolher os ingredientes. Quando o problema apareceu, o grupo falou com Eliseu e recebeu ajuda. Nós também podemos reconhecer um engano sem escondê-lo e avisar quando algo precisa ser corrigido. Pedir orientação faz parte do aprendizado. Uma comunidade se fortalece quando as pessoas cuidam umas das outras, dividem as tarefas e recebem com gratidão aquilo que chega à mesa.",
+  "question": "Que cuidado você pode lembrar antes de oferecer um alimento a outra pessoa?",
+  "prayer": "Deus, obrigado pelas refeições e por quem trabalha para prepará-las. Ajuda-nos a cuidar dos alimentos com atenção, reconhecer dúvidas e pedir orientação. Cuida das pessoas que enfrentam fome e ensina-nos a repartir de maneira segura, responsável e respeitosa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Eliseu e um grupo de adultos compartilham uma refeição simples num pátio, com uma grande panela ao centro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak cream tunic; adult prophet community in earth linen. Large clay cooking pot in safe courtyard, herbs baskets flour bowl, no sickness shown, no children near fire. Only scene cast. Scene: Eliseu e um grupo de adultos compartilham uma refeição simples num pátio, com uma grande panela ao centro."
+    },
+    {
+      "role": "part1",
+      "alt": "Adultos organizam ingredientes e vasilhas para preparar comida em comunidade num tempo de escassez.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak cream tunic; adult prophet community in earth linen. Large clay cooking pot in safe courtyard, herbs baskets flour bowl, no sickness shown, no children near fire. Only scene cast. Scene: Adultos organizam ingredientes e vasilhas para preparar comida em comunidade num tempo de escassez."
+    },
+    {
+      "role": "part2",
+      "alt": "Os homens deixam suas tigelas e chamam Eliseu depois de perceber algo errado na comida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak cream tunic; adult prophet community in earth linen. Large clay cooking pot in safe courtyard, herbs baskets flour bowl, no sickness shown, no children near fire. Only scene cast. Scene: Adult men sitting near a large clay pot set down their bowls and call Elisha in green mantle, showing concern about the meal. No one eating in this scene, no illness shown, no child. Elisha listens with attention."
+    },
+    {
+      "role": "part3",
+      "alt": "Eliseu segura uma pequena tigela de farinha perto da panela, acompanhado por adultos atentos e tranquilos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak cream tunic; adult prophet community in earth linen. Large clay cooking pot in safe courtyard, herbs baskets flour bowl, no sickness shown, no children near fire. Only scene cast. Scene: Eliseu segura uma pequena tigela de farinha perto da panela, acompanhado por adultos atentos e tranquilos."
+    }
+  ]
+}

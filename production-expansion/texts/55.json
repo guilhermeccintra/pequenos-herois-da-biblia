@@ -1,0 +1,71 @@
+{
+  "id": 55,
+  "title": "Lea Também é Vista",
+  "subtitle": "O valor que não depende da preferência dos outros",
+  "reference": "Gênesis 29:31–35",
+  "description": "Lea vive em uma família marcada por comparações. Sua história lembra que Deus percebe quem se sente deixado de lado.",
+  "testament": "antigo",
+  "cover": "/images/covers/55.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma família com feridas",
+      "paragraphs": [
+        "Jacó tinha chegado à casa de Labão e se apaixonado por Raquel. Combinou trabalhar sete anos para se casar com ela. Mas, na noite do casamento, Labão o enganou e lhe deu Lea, sua filha mais velha. Depois, Jacó também se casou com Raquel e assumiu outro período de trabalho. O engano criou feridas naquela família.",
+        "Lea e Raquel eram irmãs, mas passaram a viver numa relação difícil de comparação e preferência. Jacó amava Raquel mais do que Lea. Dentro da mesma família, Lea sentia a falta do afeto que desejava receber do marido. Seus dias carregavam essa tristeza, enquanto ela procurava um lugar de acolhimento naquela casa.",
+        "O texto então diz que Deus viu a situação de Lea. Ela não era invisível, embora se sentisse preterida. Sua história não seria contada apenas como a história da irmã que não fora escolhida. O olhar de Deus alcançava aquela pessoa, com sua dor e seus desejos, em meio às decisões injustas tomadas por outros."
+      ],
+      "image": "55/part1.webp",
+      "alt": "Lea faz uma pausa tranquila à entrada de sua tenda."
+    },
+    {
+      "heading": "Nomes que carregavam sentimentos",
+      "paragraphs": [
+        "Lea engravidou e teve um filho, a quem chamou Rúben. Ao explicar o nome, falou sobre o fato de Deus ter visto sua aflição. Também expressou a esperança de que seu marido passasse a amá-la. O nascimento trouxe alegria, mas suas palavras revelavam uma necessidade de carinho que ainda permanecia aberta.",
+        "Depois nasceu outro filho, chamado Simeão. Lea relacionou esse nome ao fato de Deus ter ouvido que era desprezada. Ela procurava reconhecer o cuidado recebido, enquanto continuava vivendo uma situação familiar dolorosa. Cada nome guardava algo de sua experiência. A história permite ouvir a voz de Lea, e não apenas observar sua vida de longe.",
+        "Quando nasceu o terceiro filho, ela lhe deu o nome de Levi. Novamente falou sobre seu desejo de que Jacó se ligasse a ela. Ter filhos não deveria ser uma forma de conquistar o direito de ser respeitada. Mas suas palavras mostram quanto desejava proximidade. A Bíblia registra essa esperança sem afirmar que ela havia sido plenamente atendida."
+      ],
+      "image": "55/part2.webp",
+      "alt": "Lea cuida de um bebê enquanto duas crianças pequenas brincam por perto."
+    },
+    {
+      "heading": "Uma palavra de gratidão",
+      "paragraphs": [
+        "Lea teve ainda um quarto filho. Dessa vez, ao explicar sua escolha de nome, falou em louvar ao Senhor. Chamou o menino de Judá, nome associado ao louvor. Naquele momento, a gratidão a Deus apareceu de maneira especial em suas palavras. Sua história continha dor, mas não era composta somente de dor.",
+        "A gratidão de Lea não fez desaparecer todas as dificuldades da família. As comparações e os conflitos ainda atravessariam sua história. Mas o nascimento de Judá lhe ofereceu uma razão para louvar naquele momento. Ela podia agradecer pelo filho e, ao mesmo tempo, continuar precisando de acolhimento, de carinho e de relações mais justas.",
+        "Os nomes de seus filhos permaneceriam na história do povo de Israel. Lea, que se sentia deixada de lado, fazia parte de uma história maior do que a preferência de Jacó. Seu valor não começou quando alguém passou a gostar mais dela. O relato havia afirmado desde o princípio: Deus a via. A vida de Lea importava."
+      ],
+      "image": "55/part3.webp",
+      "alt": "Lea olha para o bebê com gratidão, sob a luz da manhã."
+    }
+  ],
+  "lesson": "Comparar pessoas e demonstrar preferências pode machucar. Em nossa família e nas amizades, podemos cuidar para que ninguém seja sempre deixado de fora. O valor de uma pessoa não depende de ser a favorita, ganhar uma competição ou conseguir agradar a todos. Se você se sente ignorado ou triste, conte a um adulto de confiança. Você merece respeito e cuidado, mesmo quando outras pessoas não reconhecem isso.",
+  "question": "Que atitude pode ajudar alguém do seu grupo a perceber que também é importante?",
+  "prayer": "Deus, obrigado porque cada pessoa tem valor diante de ti. Acolhe quem se sente esquecido ou deixado de lado. Ensina-nos a evitar comparações que machucam e a demonstrar carinho com justiça. Ajuda-nos a pedir apoio quando precisamos de cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Lea acolhe um bebê com ternura, diante de uma tenda iluminada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Leah clearly adult woman in twenties-thirties, olive skin, long dark hair under muted ochre headscarf, plum modest long dress and cream shawl, expressive gentle brown eyes. Babies safely swaddled in cream linen, children fully clothed. Scene: Adult Leah tenderly cradles securely swaddled infant beside tent, dignified hopeful expression, warm intimate portrait, no other women or comparison."
+    },
+    {
+      "role": "part1",
+      "alt": "Lea faz uma pausa tranquila à entrada de sua tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Leah clearly adult woman in twenties-thirties, olive skin, long dark hair under muted ochre headscarf, plum modest long dress and cream shawl, expressive gentle brown eyes. Babies safely swaddled in cream linen, children fully clothed. Scene: Leah alone seated at tent entrance, thoughtful gently sad expression, fully clothed, soft daylight, no romantic or wedding scene."
+    },
+    {
+      "role": "part2",
+      "alt": "Lea cuida de um bebê enquanto duas crianças pequenas brincam por perto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Leah clearly adult woman in twenties-thirties, olive skin, long dark hair under muted ochre headscarf, plum modest long dress and cream shawl, expressive gentle brown eyes. Babies safely swaddled in cream linen, children fully clothed. Scene: Adult Leah securely holds swaddled infant while two small fully clothed sons play safely beside her on woven mat, warm family care, no breastfeeding exposed."
+    },
+    {
+      "role": "part3",
+      "alt": "Lea olha para o bebê com gratidão, sob a luz da manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Leah clearly adult woman in twenties-thirties, olive skin, long dark hair under muted ochre headscarf, plum modest long dress and cream shawl, expressive gentle brown eyes. Babies safely swaddled in cream linen, children fully clothed. Scene: Close-medium tender scene Leah smiling gratefully at fully swaddled newborn on supported arms, cream fabric and pottery background, no text or halos."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+29%3A15-35&version=KJV"
+  ]
+}

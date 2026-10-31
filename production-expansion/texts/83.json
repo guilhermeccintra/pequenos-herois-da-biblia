@@ -1,0 +1,71 @@
+{
+  "id": 83,
+  "title": "As Espigas que Ficavam no Campo",
+  "subtitle": "A colheita também podia alimentar quem chegava depois",
+  "reference": "Levítico 19:9–18",
+  "description": "Deus ensina Israel a deixar parte dos campos para pessoas que precisavam de alimento.",
+  "testament": "antigo",
+  "cover": "/images/covers/83.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um ensino para a vida na terra",
+      "paragraphs": [
+        "Enquanto preparava Israel para viver na terra prometida, Deus deu a Moisés orientações sobre a colheita. A vida do povo não seria feita apenas de cerimônias e viagens. Haveria campos, vinhas, trabalho e refeições. O modo de cuidar desses recursos também mostraria como a comunidade tratava seus vizinhos.",
+        "Quando chegasse o tempo de colher, os donos dos campos não deveriam retirar tudo até as últimas bordas. Também não deveriam voltar para recolher cada espiga que ficasse para trás. Uma parte permaneceria disponível. A orientação colocava um limite na vontade de levar para casa tudo o que os olhos conseguiam enxergar.",
+        "Nas vinhas, a mesma atenção aparecia de outra forma. Não seria necessário vasculhar cada ramo novamente nem apanhar todas as uvas caídas. O que ficasse teria um propósito. A colheita não precisava ser organizada como se somente o proprietário existisse e como se ninguém mais tivesse fome ao redor."
+      ],
+      "image": "83/part1.webp",
+      "alt": "Moisés ensina sobre o cuidado na colheita."
+    },
+    {
+      "heading": "Espaço para quem precisava",
+      "paragraphs": [
+        "Deus explicou para quem aquela parte deveria ficar: os pobres e os estrangeiros. Pessoas sem campo próprio ou sem uma rede de apoio também precisavam comer. A orientação criava uma possibilidade concreta de acesso ao alimento. O cuidado não dependeria apenas de um sentimento generoso que talvez surgisse depois de tudo guardado.",
+        "Imagine um campo que ilustre esse ensino: os trabalhadores recolhem os feixes, mas deixam as bordas disponíveis; mais tarde, outras pessoas podem recolher espigas. Essa imagem ajuda a entender a instrução, embora Levítico não conte aqui a história de uma família específica. O centro do relato é o cuidado que Deus mandou praticar.",
+        "Quem colhia precisaria lembrar que algumas espigas tinham outro destino. Elas não eram simplesmente uma falha do trabalho. A comunidade aprenderia a reservar espaço para a necessidade alheia antes de terminar a tarefa. Compartilhar podia fazer parte do planejamento, em vez de depender apenas da sobra que ninguém desejasse."
+      ],
+      "image": "83/part2.webp",
+      "alt": "Pessoas recolhem espigas deixadas no campo."
+    },
+    {
+      "heading": "Amar também se aprende no campo",
+      "paragraphs": [
+        "Nas orientações que acompanham esse ensino, Deus também proíbe o roubo, a mentira e a exploração. Manda tratar as pessoas com justiça e não guardar vingança. O cuidado com a colheita aparece dentro de uma maneira mais ampla de viver. A fé deveria alcançar o trabalho, as palavras e os relacionamentos.",
+        "O amor ao próximo não ficaria limitado a uma ideia bonita. Poderia ser visto na espiga deixada, no salário pago corretamente e na decisão de não prejudicar alguém. Pessoas diferentes teriam necessidades diferentes, mas todas deveriam ser tratadas com dignidade. O campo se tornaria um dos lugares em que esse respeito ganharia forma.",
+        "Essa orientação convida o povo a olhar além da própria cesta. Uma boa colheita pode ser motivo de alegria para quem trabalhou e também de cuidado por quem precisa. Ao ensinar Israel a deixar espaço nos campos, Deus mostrava que uma comunidade justa considera aqueles que não estão no centro da produção."
+      ],
+      "image": "83/part3.webp",
+      "alt": "Uma família reparte o alimento com gratidão."
+    }
+  ],
+  "lesson": "Compartilhar pode começar antes de sobrar alguma coisa. A orientação sobre os campos ensina a incluir a necessidade de outras pessoas no planejamento. Podemos separar uma parte do que temos para ajudar, cuidar de alimentos e participar de ações com a família. O importante é respeitar a dignidade de quem recebe, sem humilhar ou buscar aplausos. O amor se torna visível quando nosso cuidado deixa espaço para o outro.",
+  "question": "Que espaço você e sua família podem reservar no planejamento para ajudar alguém que precisa?",
+  "prayer": "Senhor, abre meus olhos para quem precisa de alimento e apoio. Ensina-me a compartilhar com respeito e a cuidar do que recebo. Que nossa família encontre formas concretas de ajudar, deixando espaço para o próximo em nossas escolhas e em nossa rotina. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um campo mantém espigas disponíveis nas bordas.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. Reference is for 3D rendering style only. Illustrative ancient Israelite harvest: a large golden wheat field has its center harvested into neat bundles while generous corners and edges retain standing wheat. In the foreground the father and mother greet adult gleaners carrying woven baskets. A school-age child stays beside a parent. Gentle respect, natural smiles, the standing edge is an obvious visual focus. Moses is not in this illustrative field scene. No reference houses or lake."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés ensina sobre o cuidado na colheita.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. Moses teaches seated adult families in a desert encampment about leaving part of the harvest for others. A small basket of golden grain and a few wheat stalks on a cloth provide a visual focus. New wide semicircle composition, listeners calmly attentive, plain family tents behind. No cultivated field here. Preserve identities only; no Egyptian construction or houses from references."
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas recolhem espigas deixadas no campo.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. Closer view at the field edge: two adult women and one adult man gather loose wheat ears into small woven baskets while the same ochre-clothed farmer greets them respectfully. Gleaners have distinct faces and muted plum, sage and cream clothes. Standing wheat remains along the boundary; harvested center beyond. Warm sunlight, dignity and calm working gestures. Moses is absent."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família reparte o alimento com gratidão.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. Different scene near a modest stone home at the edge of the harvested field. The same family and one adult visitor share bread and grapes around a low outdoor wooden table, everyone seated at equal height. Mother passes bread to the visitor, child beside father smiles. Baskets of gleaned wheat nearby. Warm late afternoon community scene, Moses absent."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+19%3A9-18&version=KJV"
+  ]
+}

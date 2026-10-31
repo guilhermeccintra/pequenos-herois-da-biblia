@@ -1,0 +1,71 @@
+{
+  "id": 88,
+  "title": "A Festa que Lembrava o Deserto",
+  "subtitle": "Uma festa para lembrar o cuidado no caminho",
+  "reference": "Levítico 23:33–43",
+  "description": "Cabanas, ramos e gratidão ajudam as novas gerações a conhecer a história da libertação.",
+  "testament": "antigo",
+  "cover": "/images/covers/88.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Celebrar depois da colheita",
+      "paragraphs": [
+        "Deus ensinou Israel a separar tempos de festa ao longo do ano. Uma dessas celebrações aconteceria depois de recolher os frutos da terra, no sétimo mês do calendário do povo. Seria a Festa das Cabanas, também chamada Festa dos Tabernáculos. A comunidade teria dias especiais para agradecer e lembrar sua história.",
+        "A festa duraria sete dias, com uma reunião solene também no oitavo. Haveria momentos de descanso do trabalho comum e de adoração. A colheita não deveria levar as pessoas a pensar apenas em quanto haviam conseguido guardar. Era tempo de reconhecer a provisão recebida e o cuidado que permitira chegar até ali.",
+        "O povo receberia a orientação de usar ramos de árvores, incluindo palmeiras e outras plantas. A celebração envolveria o corpo, o espaço e a convivência. Não seria apenas uma informação guardada na memória. As pessoas participariam de uma experiência que ajudaria a tornar visível o significado daquela época do ano."
+      ],
+      "image": "88/part1.webp",
+      "alt": "A comunidade prepara os ramos para a festa."
+    },
+    {
+      "heading": "Morar em cabanas por alguns dias",
+      "paragraphs": [
+        "Durante a festa, os israelitas deveriam viver em cabanas. Essas moradias temporárias lembrariam a caminhada depois da saída do Egito. Mesmo quando tivessem casas e campos, precisariam recordar que seus antepassados haviam viajado dependendo do cuidado de Deus. A estabilidade presente não deveria apagar a memória do caminho.",
+        "A preparação dos abrigos reuniria as famílias ao redor de uma tarefa simples. Haveria ramos para organizar, uma cobertura para montar e espaço para compartilhar. Ao morar nas cabanas durante a festa, adultos e crianças recordariam a caminhada de Israel. A história do deserto voltaria a fazer parte da experiência de uma nova geração.",
+        "A cabana não existia para competir com a do vizinho nem para demonstrar quem possuía mais recursos. Sua simplicidade apontava para outra direção. Por alguns dias, o povo lembraria que sua segurança mais profunda não vinha da força das paredes, mas da fidelidade de Deus que o acompanhara no deserto."
+      ],
+      "image": "88/part2.webp",
+      "alt": "Adultos montam uma cabana simples."
+    },
+    {
+      "heading": "Uma história contada aos filhos",
+      "paragraphs": [
+        "Deus explicou o motivo da festa: as gerações futuras deveriam saber que ele fizera os israelitas morar em abrigos temporários ao tirá-los do Egito. Uma criança que nunca tivesse conhecido a escravidão poderia ouvir essa história. A celebração criava uma ponte entre quem vivera a jornada e quem nasceria depois.",
+        "Havia também um convite à alegria diante do Senhor. Lembrar o passado não significava permanecer preso ao sofrimento. Significava reconhecer a libertação e agradecer pelo cuidado recebido. A festa reunia memória e esperança, mostrando que uma história difícil pode ser contada também a partir da ajuda que permitiu atravessá-la.",
+        "As cabanas seriam desmontadas, e as famílias voltariam à rotina. Mas a lembrança poderia continuar acompanhando suas escolhas. Quem reconhece que já precisou de abrigo pode olhar com mais atenção para quem precisa dele agora. A gratidão pela colheita e pela caminhada convida a viver com humildade, acolhimento e cuidado."
+      ],
+      "image": "88/part3.webp",
+      "alt": "Uma pessoa mais velha conta a história da caminhada."
+    }
+  ],
+  "lesson": "As festas em família podem guardar mais do que comida e diversão: podem transmitir histórias de cuidado e gratidão. A Festa das Cabanas ajudava Israel a lembrar de onde viera e quem o sustentara. Podemos ouvir os mais velhos, perguntar sobre momentos importantes e criar maneiras simples de agradecer juntos. Boas lembranças fortalecem o vínculo entre gerações e podem nos tornar mais atentos a quem precisa de acolhimento hoje.",
+  "question": "Que história da sua família poderia ser lembrada num momento de gratidão em conjunto?",
+  "prayer": "Deus fiel, obrigado pelas histórias de cuidado que chegaram até nós. Ajuda-nos a ouvir, lembrar e agradecer juntos. Que nossas celebrações tenham alegria, simplicidade e acolhimento, e que a memória do bem recebido nos ensine a cuidar de outras pessoas. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família celebra numa cabana de ramos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Illustrative ancient Israelite family shares bread fruit and gratitude inside simple leafy booth made of palm branches and wood, warm light through leaves, joyful modest harvest celebration."
+    },
+    {
+      "role": "part1",
+      "alt": "A comunidade prepara os ramos para a festa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Adults carry palm and leafy branches through ancient village courtyard while children safely help with small leaves, baskets of harvested fruit, cooperative preparation."
+    },
+    {
+      "role": "part2",
+      "alt": "Adultos montam uma cabana simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Adult parents tie leafy branches onto low wooden booth frame while children watch safely on ground, ancient tools and natural materials, no ladder danger."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma pessoa mais velha conta a história da caminhada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Illustrative unnamed ancient Israelite family: adult olive-brown father short dark beard ochre tunic, adult mother dark braid cream scarf teal long dress, children in cream and rust tunics. Fully clothed. Agricultural scenes illustrate biblical teaching, not a named event. Scene: Elderly grandmother tells family story to attentive children and adults seated inside leafy booth at dusk, oil lamp and fruit, tender intergenerational scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+23%3A33-43&version=KJV"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 75,
+  "title": "Presentes para a Tenda do Encontro",
+  "subtitle": "Cada oferta encontra seu lugar no cuidado comum",
+  "reference": "Êxodo 25:1–9; 35:4–29",
+  "description": "Pessoas com recursos e habilidades diferentes contribuem para a construção do tabernáculo.",
+  "testament": "antigo",
+  "cover": "/images/covers/75.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um convite para contribuir",
+      "paragraphs": [
+        "No caminho pelo deserto, Deus orientou Moisés a preparar um santuário, uma tenda especial para o encontro com seu povo. Essa construção seria chamada tabernáculo. Ela lembraria aos israelitas que a presença do Senhor acompanhava sua caminhada. Não precisariam esperar por uma grande cidade para aprender a adorá-lo juntos.",
+        "Deus pediu que a oferta fosse recebida de quem desejasse contribuir de coração. Moisés anunciou o convite à comunidade. A participação não deveria nascer de uma competição para ver quem entregaria o objeto mais caro. O que seria construído pertencia à vida de todo o povo e precisava de contribuições variadas.",
+        "Foram mencionados metais, tecidos, fios coloridos, madeira, azeite, especiarias e pedras. Cada material teria uma função. Algumas pessoas possuíam uma coisa, outras tinham algo diferente. A lista mostrava que uma obra comum pode reunir elementos diversos, como partes de uma mesma história que ainda está sendo preparada."
+      ],
+      "image": "75/part1.webp",
+      "alt": "Moisés explica o convite ao povo."
+    },
+    {
+      "heading": "Mãos e presentes diferentes",
+      "paragraphs": [
+        "Homens e mulheres trouxeram suas ofertas. Alguns entregaram objetos de metal, outros tecidos e materiais que poderiam ser usados na tenda. Os líderes também contribuíram com pedras e outros recursos. Não era necessário que todos carregassem o mesmo presente para que sua participação tivesse valor naquele trabalho.",
+        "Mulheres habilidosas fiaram com as próprias mãos e trouxeram os fios preparados. Outras trabalharam com pelos de cabra para os tecidos necessários. A oferta podia incluir tempo, conhecimento e esforço. Havia beleza tanto no material recebido quanto no cuidado de quem o transformava em algo útil para a comunidade.",
+        "Moisés também chamou as pessoas que sabiam realizar os trabalhos indicados. A construção exigiria atenção aos detalhes e cooperação entre muitas mãos. Ninguém conseguiria terminar sozinho todas as peças, tecidos e estruturas. O desejo de contribuir precisava encontrar organização para que cada habilidade servisse ao propósito comum."
+      ],
+      "image": "75/part2.webp",
+      "alt": "Mulheres preparam fios com habilidade."
+    },
+    {
+      "heading": "Um lugar feito de participação",
+      "paragraphs": [
+        "As ofertas chegaram porque as pessoas se dispuseram a participar. O texto destaca a vontade do coração e a prontidão para ajudar. Isso não tornava o trabalho desorganizado: havia orientações para a tenda e para os objetos que seriam feitos. Generosidade e cuidado com o modo de construir caminhavam juntos.",
+        "Cada pessoa poderia olhar para aquela obra e reconhecer que fazia parte de algo maior. Um fio, uma peça de madeira ou uma porção de azeite não pareciam contar a história inteira. Juntos, porém, os materiais serviriam a um lugar de encontro, adoração e memória da presença de Deus no meio do povo.",
+        "O tabernáculo nos lembra que contribuir não significa possuir tudo o que uma tarefa exige. Significa oferecer com disposição aquilo que realmente podemos compartilhar. Recursos, habilidades e tempo encontram valor quando servem ao bem comum. Na caminhada de Israel, a tenda seria preparada por muitas mãos e por corações que aceitaram participar."
+      ],
+      "image": "75/part3.webp",
+      "alt": "As ofertas são organizadas para o trabalho."
+    }
+  ],
+  "lesson": "Nem todo mundo contribui da mesma maneira. Algumas pessoas oferecem materiais; outras compartilham tempo, habilidade ou atenção. A construção do tabernáculo mostra que diferentes gestos podem trabalhar juntos para um bom propósito. Não precisamos competir nem dar o que não temos. Podemos perguntar do que uma tarefa precisa e oferecer uma ajuda possível, com alegria e responsabilidade. A generosidade cresce quando enxergamos o bem que será feito em conjunto.",
+  "question": "Qual habilidade ou ajuda simples você poderia oferecer numa atividade da família ou da comunidade?",
+  "prayer": "Senhor, obrigado pelos dons e recursos que podemos compartilhar. Ensina-me a contribuir com alegria, sem comparar meu gesto com o de outras pessoas. Ajuda-nos a trabalhar juntos, cuidar dos detalhes e usar nossas habilidades para o bem de todos. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias trazem ofertas para construir a tenda do encontro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses receives varied offerings from adult men and women at desert camp: folded blue purple crimson fabrics, wood, modest metal bowls, oil jars, generous joyful faces, no finished temple."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés explica o convite ao povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses speaks to gathered Hebrew families near open tent, gestures toward simple wooden beams and fabric samples, attentive hopeful community."
+    },
+    {
+      "role": "part2",
+      "alt": "Mulheres preparam fios com habilidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Clearly adult Hebrew women spin colored wool using ancient hand spindles and distaffs in tent shade, detailed natural fibers and baskets, dignified skilled work."
+    },
+    {
+      "role": "part3",
+      "alt": "As ofertas são organizadas para o trabalho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Adult artisans sort folded fabrics wood planks metal bowls and clay oil jars on woven mats in orderly workshop tent, men and women cooperate, warm light."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+25%3A1-9&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Exodus+35%3A4-29&version=KJV"
+  ]
+}

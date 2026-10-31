@@ -1,0 +1,71 @@
+{
+  "id": 103,
+  "title": "Palavras para Levar no Coração",
+  "subtitle": "O amor a Deus acompanha os pequenos momentos",
+  "reference": "Deuteronômio 6:4–9",
+  "description": "Moisés ensina que a palavra do Senhor deve fazer parte do coração, das conversas e da vida em família.",
+  "testament": "antigo",
+  "cover": "/images/covers/103.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma palavra para guardar por dentro",
+      "paragraphs": [
+        "Moisés chamou a atenção de Israel para uma verdade central: o Senhor, seu Deus, é um só. O povo deveria amá-lo com todo o coração, com toda a vida e com todas as forças. Não era um convite para reservar a Deus apenas uma pequena parte da semana ou alguns momentos especiais.",
+        "As palavras recebidas deveriam permanecer no coração. Isso significava mais do que lembrar um som ou repetir uma frase sem pensar. O ensino precisaria acompanhar as escolhas, os desejos e a maneira de tratar as pessoas. Aquilo que alguém guarda por dentro pode aparecer no que faz quando ninguém está cobrando.",
+        "Moisés também orientou que essas palavras fossem ensinadas com cuidado aos filhos. As crianças faziam parte da comunidade e precisavam conhecer a história e os caminhos de Deus. Aprender não seria apenas tarefa de um grande encontro público; a vida em família teria um lugar importante nessa transmissão de confiança."
+      ],
+      "image": "103/part1.webp",
+      "alt": "Moisés ensina famílias reunidas no acampamento."
+    },
+    {
+      "heading": "Conversas que cabem no cotidiano",
+      "paragraphs": [
+        "O ensino deveria aparecer quando as pessoas estivessem sentadas em casa e quando caminhassem pela estrada. Também ao deitar e ao levantar. Moisés descreveu momentos comuns, que voltam a acontecer todos os dias. O amor a Deus poderia ser lembrado perto da comida, durante um percurso ou antes do descanso.",
+        "A preparação do pão, o descanso em casa e os percursos do dia poderiam abrir espaço para uma conversa. Uma pergunta de criança mereceria atenção, e os adultos teriam histórias de cuidado para transmitir. O ensino de Moisés convidava as famílias a aproveitar esses encontros, levando a lembrança de Deus para perto da vida cotidiana.",
+        "Durante uma caminhada, a beleza do campo poderia lembrar a gratidão. Antes de dormir, haveria tempo para recordar o dia e conversar sobre uma escolha. A orientação alcançava situações diferentes, sem separar o aprendizado da convivência. Escutar perguntas, responder com carinho e agir com bondade ajudaria os filhos a compreender o amor que recebiam."
+      ],
+      "image": "103/part2.webp",
+      "alt": "Pais e filhos conversam durante uma caminhada."
+    },
+    {
+      "heading": "Lembretes no caminho da vida",
+      "paragraphs": [
+        "Moisés falou ainda de sinais nas mãos e junto à testa, e de palavras escritas nos batentes das casas e nos portões. Eram lembretes visíveis de um compromisso que deveria estar no coração. O povo precisava recordar a orientação tanto em suas ações quanto ao entrar e sair dos lugares onde vivia.",
+        "Esses sinais não substituíam o amor nem a obediência. Uma palavra colocada perto da porta não poderia cuidar de alguém no lugar de uma atitude generosa. O lembrete teria sentido quando ajudasse as pessoas a recordar e praticar aquilo que haviam recebido, com sinceridade, em vez de servir apenas como enfeite.",
+        "A orientação de Moisés aproxima a fé dos pequenos momentos. Há valor numa pergunta feita com confiança, numa resposta paciente e numa escolha bondosa durante o dia. Ao ensinar e aprender em família, o povo poderia levar adiante sua memória. O amor a Deus seria contado com palavras e reconhecido também na vida."
+      ],
+      "image": "103/part3.webp",
+      "alt": "A família agradece antes do descanso."
+    }
+  ],
+  "lesson": "Aprendemos muito nos momentos simples: numa conversa em casa, numa caminhada ou antes de dormir. Moisés ensinou que amar a Deus envolve toda a vida. Podemos fazer perguntas, ouvir com atenção e procurar atitudes que combinem com o que aprendemos. Os lembretes ajudam, mas não fazem escolhas por nós. O carinho, a honestidade e o cuidado diário mostram que uma palavra está encontrando lugar no coração.",
+  "question": "Em que momento do seu dia você poderia conversar com alguém de confiança sobre o que está aprendendo de Deus?",
+  "prayer": "Senhor, ajuda-me a guardar tua palavra no coração e a praticá-la nos pequenos momentos. Abençoa nossas conversas, perguntas e aprendizados em família. Dá-nos paciência para ouvir e carinho para ensinar, para que teu amor apareça em nossas atitudes de cada dia. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família conversa com carinho ao redor da mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Family adult mother olive skin dark braid cream dress teal shawl; adult father olive skin brown beard rust tunic; daughter age9 dark curls sage dress; son age7 brown curls ochre tunic. Scene: Ancient Hebrew family in warm stone home: adult mother cream dress teal shawl, adult father brown beard rust tunic, daughter age9 sage dress and son age7 ochre tunic; they converse warmly around low table with bread, intimate detailed cinematic scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés ensina famílias reunidas no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Family adult mother olive skin dark braid cream dress teal shawl; adult father olive skin brown beard rust tunic; daughter age9 dark curls sage dress; son age7 brown curls ochre tunic. Scene: Moses speaks gently to attentive parents and children seated under shade in desert camp, children beside parents, focus on listening and belonging."
+    },
+    {
+      "role": "part2",
+      "alt": "Pais e filhos conversam durante uma caminhada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Family adult mother olive skin dark braid cream dress teal shawl; adult father olive skin brown beard rust tunic; daughter age9 dark curls sage dress; son age7 brown curls ochre tunic. Scene: Only four-member Hebrew family walks along safe olive grove path, father rust tunic mother teal shawl daughter sage dress son ochre tunic, children ask questions and adults listen, no Moses."
+    },
+    {
+      "role": "part3",
+      "alt": "A família agradece antes do descanso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Family adult mother olive skin dark braid cream dress teal shawl; adult father olive skin brown beard rust tunic; daughter age9 dark curls sage dress; son age7 brown curls ochre tunic. Scene: Only same four-member family seated safely together beside woven bedding inside warm ancient home at dusk, quiet grateful conversation, mother teal shawl father rust tunic, no Moses or readable writing."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=KJV"
+  ]
+}

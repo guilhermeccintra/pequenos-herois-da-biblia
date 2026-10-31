@@ -1,0 +1,72 @@
+{
+  "id": 76,
+  "title": "Bezalel e Aoliabe: Mãos que Ensinam",
+  "subtitle": "Talentos que crescem quando são compartilhados",
+  "reference": "Êxodo 31:1–11; 35:30–35",
+  "description": "Bezalel e Aoliabe recebem habilidades para construir e ensinar outras pessoas.",
+  "testament": "antigo",
+  "cover": "/images/covers/76.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Chamados pelo nome",
+      "paragraphs": [
+        "A construção do tabernáculo exigiria muitos tipos de trabalho. Havia madeira para preparar, metais para moldar, pedras para lapidar e tecidos para tecer. Deus não entregou apenas uma lista de objetos a Moisés. Também indicou pessoas que poderiam participar da obra com inteligência, habilidade e cuidado nas mãos.",
+        "Bezalel, da tribo de Judá, foi chamado pelo nome. A Bíblia diz que Deus o encheu de seu Espírito, dando sabedoria, entendimento e conhecimento para diferentes trabalhos. Sua capacidade de criar e fazer coisas úteis fazia parte do serviço ao Senhor. A beleza também teria lugar naquela tenda preparada no deserto.",
+        "Aoliabe, da tribo de Dã, foi colocado ao seu lado. Eles não pertenciam à mesma tribo, mas participariam do mesmo propósito. Outras pessoas habilidosas também receberam sabedoria para trabalhar. Desde o início, a tarefa aparece como uma obra de colaboração, em que diferentes conhecimentos precisariam se encontrar."
+      ],
+      "image": "76/part1.webp",
+      "alt": "Moisés apresenta os artesãos à comunidade."
+    },
+    {
+      "heading": "Detalhes feitos com cuidado",
+      "paragraphs": [
+        "Bezalel podia trabalhar com ouro, prata e bronze, preparar pedras e esculpir madeira. A lista revela a variedade de habilidades necessárias. Um objeto bem-feito começa antes de estar pronto: alguém precisa imaginar sua forma, compreender sua função e prestar atenção aos materiais que tem diante de si.",
+        "Aoliabe e os demais artesãos também participariam dos trabalhos de desenho, bordado e tecelagem. Fios azuis, roxos e vermelhos seriam unidos ao linho. O resultado dependeria de paciência e precisão. Uma pequena parte mal ajustada poderia afetar o conjunto, por isso cada etapa merecia o mesmo cuidado.",
+        "A missão deles não era criar qualquer coisa apenas para mostrar talento. Havia orientações recebidas para a tenda e seus objetos. A criatividade serviria a um propósito comum. Aprender a usar uma habilidade com responsabilidade inclui ouvir, planejar e reconhecer que outras pessoas dependerão daquilo que nossas mãos produzem."
+      ],
+      "image": "76/part2.webp",
+      "alt": "Os artesãos trabalham em madeira e tecido."
+    },
+    {
+      "heading": "Saber fazer e saber ensinar",
+      "paragraphs": [
+        "A Bíblia acrescenta um detalhe especial: Deus colocou no coração de Bezalel e Aoliabe a capacidade de ensinar. Eles não guardariam todo o conhecimento para si. Outras mãos poderiam aprender e participar. Assim, a habilidade de duas pessoas ajudaria a formar uma equipe capaz de realizar um trabalho muito maior.",
+        "Bezalel e Aoliabe receberam também a capacidade de ensinar. O que sabiam não ficaria guardado apenas em suas próprias mãos. Outros trabalhadores poderiam aprender a preparar uma peça, compreender um detalhe e continuar uma tarefa. Assim, o serviço reuniria experiência e aprendizado, enquanto mais pessoas encontravam seu lugar na construção da tenda.",
+        "Ao lembrar os nomes desses artesãos, a Bíblia valoriza tarefas que às vezes parecem ficar nos bastidores. Quem desenha, costura, organiza ou ensina também pode servir a Deus e às pessoas. Um talento cresce em valor quando deixa de ser apenas motivo de orgulho e se torna uma maneira de ajudar outros a participar."
+      ],
+      "image": "76/part3.webp",
+      "alt": "Uma habilidade é compartilhada com paciência."
+    }
+  ],
+  "lesson": "As habilidades de Bezalel e Aoliabe serviram à comunidade e também foram ensinadas. Você não precisa saber fazer tudo para contribuir. Pode praticar algo com paciência, ouvir orientações e compartilhar o que já aprendeu sem zombar de quem está começando. Ensinar um jogo, mostrar como organizar materiais ou ajudar numa tarefa são formas de usar um talento para o bem. Aprender e ensinar podem caminhar juntos.",
+  "question": "O que você já sabe fazer e poderia ensinar com paciência a outra pessoa?",
+  "prayer": "Senhor, obrigado pelas habilidades que podemos desenvolver. Dá-me paciência para aprender, atenção aos detalhes e generosidade para ensinar. Ajuda-me a valorizar o trabalho de outras pessoas e a usar meus talentos para servir, sem orgulho ou comparação. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Bezalel e Aoliabe ensinam numa oficina do acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Two adult artisans Bezalel and Oholiab teach adult apprentices at desert workshop, carved wood, metal bowls and colored woven fabric, warm detailed craftsmanship scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés apresenta os artesãos à comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Moses introduces Bezalel and Oholiab to small group of adult workers beside tent with arranged tools and materials, respectful attentive expressions."
+    },
+    {
+      "role": "part2",
+      "alt": "Os artesãos trabalham em madeira e tecido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Bezalel carefully works on wooden frame with ancient hand tool while Oholiab checks blue purple crimson woven fabric on loom, safe orderly workshop, adults only."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma habilidade é compartilhada com paciência.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Oholiab demonstrates weaving to adult learner while Bezalel calmly explains wood joinery to another adult, collaborative warm workshop, no modern tools."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+31%3A1-11&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Exodus+35%3A30-35&version=KJV"
+  ]
+}

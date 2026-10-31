@@ -1,0 +1,71 @@
+{
+  "id": 250,
+  "title": "Uma Casa que Recebe Cuidado",
+  "subtitle": "Jesus se aproxima de uma necessidade cotidiana",
+  "reference": "Marcos 1:29–34",
+  "description": "Depois de sair da sinagoga, Jesus visita a casa de Simão e André. Ali encontra uma mulher com febre e oferece cuidado que alcança também outras famílias.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "A notícia dentro de casa",
+      "paragraphs": [
+        "Jesus saiu da sinagoga e foi à casa de Simão e André, acompanhado de Tiago e João. Depois do encontro público de ensino, entrava num espaço de vida cotidiana. Uma casa tem suas tarefas, refeições e conversas, mas naquele dia havia também uma preocupação: a sogra de Simão estava deitada com febre.",
+        "Assim que Jesus chegou, falaram com ele sobre a mulher. Não deixaram a necessidade escondida em outro quarto como se fosse um assunto sem importância. Sua doença fazia parte do que aquela família estava vivendo. Levaram a preocupação a Jesus, que não estava interessado apenas em multidões e acontecimentos que chamavam muita atenção.",
+        "Marcos conta o episódio com poucas palavras, mas acompanha os gestos de Jesus de perto. Ele se aproximou da mulher. Não permaneceu distante, esperando que ela fizesse um esforço para chegar até ele. Foi ao lugar onde ela estava. O cuidado começou com essa aproximação atenta dentro de uma casa comum."
+      ],
+      "alt": "Jesus é informado de que a sogra de Simão está com febre.",
+      "image": "250/part1.webp"
+    },
+    {
+      "heading": "Uma mão estendida",
+      "paragraphs": [
+        "Jesus tomou a mulher pela mão e a ajudou a se levantar. A febre a deixou. Aquela aproximação trouxe uma mudança imediata: a pessoa que estava deitada podia se erguer ao lado de Jesus. Dentro da casa, Simão e seus companheiros viam a compaixão do Mestre alcançar uma preocupação que lhes era muito próxima.",
+        "Depois de recuperar as forças, ela começou a servi-los. A mulher que estava deitada voltou a participar da vida da casa e a acolher os visitantes. A febre já havia passado; agora havia espaço para a convivência. Seu gesto de hospitalidade completava a cena de cuidado iniciada quando Jesus se aproximara e segurara sua mão.",
+        "A refeição e a convivência podiam continuar de outro jeito. Simão, André, Tiago e João testemunharam um cuidado que acontecia perto deles, no espaço de sua própria família. Seguir Jesus não os afastava das necessidades reais das pessoas. Também os ensinava a prestar atenção a uma febre, a uma mão estendida e à alegria de alguém se recuperar."
+      ],
+      "alt": "Jesus segura a mão da mulher e a ajuda a se levantar.",
+      "image": "250/part2.webp"
+    },
+    {
+      "heading": "Outras pessoas chegam à porta",
+      "paragraphs": [
+        "Ao entardecer, depois do pôr do sol, levaram a Jesus muitas pessoas doentes e outras que sofriam sob o poder de espíritos maus. A notícia de sua presença havia se espalhado. Gente de diferentes casas procurava ajuda. A porta daquele lugar se tornou um ponto de encontro para preocupações que vinham de toda a cidade.",
+        "Marcos diz que a cidade se reuniu à porta e que Jesus curou muitas pessoas de diversas doenças. Também libertou pessoas de espíritos maus. O cuidado não ficou restrito à família que o havia recebido primeiro. Outras histórias de sofrimento chegaram até ele, e ele as acolheu com autoridade e compaixão.",
+        "A visita começara com uma necessidade dentro de casa e terminara com muitas pessoas do lado de fora. Em ambos os espaços, Jesus se aproximou de quem sofria. A sogra de Simão não recebeu seu nome no relato, mas seu encontro foi lembrado. Uma vida cotidiana também tem lugar na história do cuidado de Deus."
+      ],
+      "alt": "Famílias chegam à porta da casa ao entardecer para buscar ajuda.",
+      "image": "250/part3.webp"
+    }
+  ],
+  "lesson": "Quando alguém está doente, podemos avisar um responsável, respeitar seu descanso e ajudar nas tarefas que forem seguras para nossa idade. Ninguém precisa trabalhar doente para demonstrar gratidão. Cuidar também é permitir que a pessoa receba atenção e tratamento adequado. A história nos lembra de olhar para necessidades próximas, às vezes escondidas na rotina de casa, e oferecer presença, delicadeza e ajuda possível.",
+  "question": "Que tarefa simples você pode assumir, com orientação, quando alguém da sua casa precisa descansar?",
+  "prayer": "Jesus, obrigado por teu cuidado com as pessoas que sofrem. Ajuda-nos a perceber quem precisa descansar e a colaborar com carinho em nossa casa. Abençoa quem está doente e quem oferece tratamento, companhia e ajuda todos os dias. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/250.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus acolhe a sogra de Simão depois de sua recuperação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle gently greets elderly Jewish woman gray hair cream headscarf muted rose dress standing comfortably beside simple bed, Simon thick beard tan robe nearby, modest Capernaum home, warm relief."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus é informado de que a sogra de Simão está com febre.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Simon thick beard tan robe quietly tells Jesus cream tunic terracotta mantle about elderly woman gray hair cream headscarf rose dress resting on bed in background, respectful calm sickroom, no medical drama."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus segura a mão da mulher e a ajuda a se levantar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle gently supports elderly woman gray hair cream headscarf rose dress by hand as she sits upright on simple bed, relieved expression, natural window light, dignified care."
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias chegam à porta da casa ao entardecer para buscar ajuda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. At sunset families and adults gather respectfully outside small Capernaum stone house, Jesus cream tunic terracotta mantle welcomes them at doorway, warm lantern light, people seeking care without visible wounds or frightening imagery."
+    }
+  ]
+}

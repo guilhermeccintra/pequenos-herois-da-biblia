@@ -1,0 +1,71 @@
+{
+  "id": 45,
+  "title": "Abraão Sai em Socorro de Ló",
+  "subtitle": "A coragem de não abandonar",
+  "reference": "Gênesis 14:1–16",
+  "description": "Uma guerra atinge a região onde Ló vive, e ele é levado prisioneiro. Ao receber a notícia, Abraão reúne ajuda para resgatá-lo.",
+  "testament": "antigo",
+  "cover": "/images/covers/45.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma notícia chega a Manre",
+      "paragraphs": [
+        "A região onde Ló morava foi atingida por uma guerra entre reis. Durante anos, algumas cidades haviam servido a um rei poderoso. Quando se rebelaram, vieram exércitos para enfrentá-las. A Bíblia apresenta os nomes dos governantes e descreve como o conflito se espalhou. Muitas pessoas que não haviam decidido aquela guerra sofreram suas consequências.",
+        "Os reis de Sodoma e Gomorra e seus aliados foram derrotados. Os vencedores levaram mantimentos, riquezas e moradores. Entre os prisioneiros estava Ló, sobrinho de Abraão, que vivia em Sodoma. Seus bens também foram levados. O campo bem regado que ele escolhera não o havia protegido daquela situação de perigo e perda da liberdade.",
+        "Um homem conseguiu escapar e levou a notícia a Abraão. Ele estava perto dos carvalhos de Manre. Havia feito alianças com Manre e seus irmãos, Escol e Aner. Ao ouvir que Ló tinha sido capturado, Abraão precisou decidir o que faria. O sobrinho estava longe, mas a separação dos rebanhos não havia apagado o vínculo entre eles."
+      ],
+      "image": "45/part1.webp",
+      "alt": "Um viajante leva notícias a Abraão junto às tendas de Manre."
+    },
+    {
+      "heading": "Uma resposta que reúne ajuda",
+      "paragraphs": [
+        "Abraão não tratou a dificuldade de Ló como motivo de satisfação. Não disse que o sobrinho merecia ficar sozinho porque escolhera aquela região. Organizou seus homens experientes, nascidos em sua casa, para uma ação de resgate. O relato conta trezentos e dezoito. Seus aliados também participaram do esforço para alcançar os que haviam levado os prisioneiros.",
+        "O grupo seguiu em perseguição até Dã. Era uma viagem com uma finalidade clara: recuperar as pessoas e o que havia sido tomado. A coragem de Abraão não aparece como vontade de conquistar uma cidade para si. Ele respondia a uma necessidade concreta de alguém da família e de outros que estavam sofrendo junto com ele.",
+        "Durante a noite, Abraão dividiu seus homens e enfrentou os invasores. O relato descreve a vitória e a perseguição até perto de Damasco, sem nos pedir que transformemos a guerra em brincadeira. Era uma situação grave. O objetivo da história, nesse momento, é mostrar que os prisioneiros puderam ser alcançados e retirados daquele perigo."
+      ],
+      "image": "45/part2.webp",
+      "alt": "Abraão organiza uma viagem com seus companheiros ao anoitecer."
+    },
+    {
+      "heading": "O caminho de volta",
+      "paragraphs": [
+        "Abraão recuperou os bens e trouxe Ló de volta. Também foram resgatadas mulheres e outras pessoas que tinham sido levadas. A lista é importante: não se tratava apenas de recuperar objetos valiosos. Pessoas que haviam perdido a liberdade podiam retornar. Cada uma delas tinha uma vida que não podia ser medida pelo preço de seus pertences.",
+        "O grupo voltou depois da longa perseguição. A notícia recebida junto às tendas havia produzido uma resposta organizada, com companheiros, preparação e responsabilidade. Abraão não fizera tudo sozinho. Contara com os homens de sua casa e com seus aliados. O cuidado, naquela história, ganhou a forma de um esforço compartilhado para proteger vidas.",
+        "Ló e Abraão ainda seguiriam caminhos diferentes. O resgate não apagava todas as dificuldades daquela região. Mesmo assim, aquele encontro mostrava que um desacordo anterior não precisava encerrar a disposição de ajudar. A família não se resumia à última escolha de Ló. Quando ele precisou de socorro, Abraão se lembrou do vínculo e agiu para trazê-lo de volta."
+      ],
+      "image": "45/part3.webp",
+      "alt": "Ló e outras pessoas seguem em segurança pelo caminho de volta."
+    }
+  ],
+  "lesson": "Ajudar alguém não exige concordar com todas as escolhas que essa pessoa fez. Podemos oferecer cuidado sem humilhar quem está em dificuldade. Para crianças, coragem diante de uma situação perigosa significa procurar imediatamente adultos responsáveis, nunca enfrentar o perigo sozinhas. Também podemos reunir ajuda para tarefas seguras: acolher um colega, avisar um professor ou participar com a família de uma ação de solidariedade. Ninguém precisa cuidar de tudo sozinho.",
+  "question": "Como você pode ajudar alguém sem usar a dificuldade dessa pessoa para dizer “eu avisei”?",
+  "prayer": "Deus, desperta em nós a vontade de socorrer quem precisa. Ensina-nos a pedir ajuda com responsabilidade e a agir junto com pessoas de confiança. Protege as famílias atingidas por guerras e violência. Que saibamos acolher sem humilhar e cuidar sem abandonar. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abraão acolhe Ló durante o retorno de um resgate, com viajantes ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult dark beard, blue-green tunic and tan mantle. Scene: Abraham and Lot reunite safely on a valley path, relieved embrace, rescued families with bundles in background, no weapons or injuries."
+    },
+    {
+      "role": "part1",
+      "alt": "Um viajante leva notícias a Abraão junto às tendas de Manre.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult dark beard, blue-green tunic and tan mantle. Scene: EXACTLY TWO PEOPLE: elderly Abraham in cream robe and terracotta mantle listening to one distinct messenger, an older balding man with gray beard and plain gray-brown robe. Lot is a prisoner elsewhere and MUST NOT appear. No young dark curly haired blue-tunic man. At a tent under oaks, earnest news, medium composition."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão organiza uma viagem com seus companheiros ao anoitecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult dark beard, blue-green tunic and tan mantle. Scene: Elderly Abraham discusses a route with THREE older adult companions in gray, ochre and brown robes. Lot is absent, NO young dark curly haired man in blue-green tunic. No women or children. At dusk near modest tents, travel bundles and two torches, no map, no fighting, no visible weapons."
+    },
+    {
+      "role": "part3",
+      "alt": "Ló e outras pessoas seguem em segurança pelo caminho de volta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult dark beard, blue-green tunic and tan mantle. Scene: Safe group of rescued adults and families returning through rolling countryside, Abraham leading beside Lot, gentle dawn, dignified hopeful faces."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+14&version=KJV"
+  ]
+}

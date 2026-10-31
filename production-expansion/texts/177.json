@@ -1,0 +1,74 @@
+{
+  "id": 177,
+  "title": "Esdras e o Coração que Aprende",
+  "subtitle": "Conhecer, praticar e ensinar",
+  "reference": "Esdras 7:1–10",
+  "description": "Esdras conhece a Lei de Deus e se prepara para ensiná-la. Sua história mostra que aprender e praticar precisam caminhar juntos.",
+  "testament": "antigo",
+  "cover": "/images/covers/177.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um homem dedicado à Palavra",
+      "paragraphs": [
+        "Muitos anos depois da primeira volta do povo a Jerusalém, havia um sacerdote chamado Esdras vivendo na Babilônia. Ele pertencia à família de Arão, lembrada pelo serviço sacerdotal em Israel. Esdras também era escriba: alguém que estudava os escritos e conhecia com cuidado a Lei de Moisés, dada por Deus ao seu povo.",
+        "O livro o apresenta como um homem preparado nesse conhecimento. Mas sua importância não estava apenas em saber repetir palavras difíceis ou reconhecer antigos mandamentos. Esdras havia escolhido dedicar o coração a buscar a Lei do Senhor. Isso significava dar atenção, estudar e procurar compreender aquilo que orientava a vida de sua comunidade.",
+        "Conhecer um texto não acontece apenas passando os olhos por ele. A decisão de Esdras mostra uma disposição de aprender com seriedade. Ele não tratava a Palavra como um objeto bonito para guardar sem abrir. Via nela uma orientação que precisava ser entendida, recebida e levada para dentro das escolhas do dia a dia."
+      ],
+      "image": "177/part1.webp",
+      "alt": "Esdras examina os escritos em seu lugar de estudo."
+    },
+    {
+      "heading": "Aprender para viver",
+      "paragraphs": [
+        "O relato acrescenta um segundo compromisso: Esdras queria praticar o que aprendia. Antes de ensinar aos outros, precisava dar atenção à própria maneira de viver. Sua preparação não era somente para responder perguntas ou ocupar um lugar importante. O conhecimento que buscava deveria orientar suas atitudes, suas responsabilidades e seu relacionamento com o povo.",
+        "Depois de buscar e praticar, vinha também o desejo de ensinar em Israel. Esdras queria compartilhar os mandamentos e as orientações de Deus com a comunidade. Aprender não seria uma vantagem guardada apenas para ele. Aquilo que conhecia poderia ajudar outras pessoas a entender melhor sua história e a direção que deveriam seguir.",
+        "Buscar, praticar e ensinar aparecem juntos numa frase curta do livro. Essa frase explica muito sobre Esdras. Um professor pode falar com clareza, mas seu exemplo também ensina. E quem começa a aprender não precisa saber tudo de uma vez: precisa de atenção, disposição e humildade para continuar crescendo no que conhece."
+      ],
+      "image": "177/part2.webp",
+      "alt": "Esdras conversa com outras pessoas sobre o que está aprendendo."
+    },
+    {
+      "heading": "Uma viagem com propósito",
+      "paragraphs": [
+        "No tempo do rei Artaxerxes, Esdras recebeu autorização para ir a Jerusalém. O rei lhe concedeu o que havia pedido, e o livro reconhece nisso a boa mão de Deus sobre ele. Sacerdotes, levitas, cantores, porteiros, servidores do templo e outros israelitas também participaram da viagem. Havia muitas funções diferentes naquele grupo.",
+        "A partida aconteceu no primeiro mês, e Esdras chegou a Jerusalém no quinto mês daquele ano. Era uma jornada longa, que exigia preparação e perseverança. O propósito que ele carregava não cabia apenas nas bagagens. Levava também sua dedicação à Palavra e o desejo de servir ao povo por meio do ensino.",
+        "Jerusalém já possuía um templo reconstruído, mas a comunidade continuava precisando aprender. As pedras de um edifício não substituíam o entendimento nem as escolhas de cada pessoa. Esdras chegava para participar dessa tarefa. Seu caminho recorda que uma boa aprendizagem pode começar no coração de alguém e depois alcançar muitas outras vidas, quando se transforma em prática e serviço."
+      ],
+      "image": "177/part3.webp",
+      "alt": "Esdras e outros viajantes chegam à região de Jerusalém."
+    }
+  ],
+  "lesson": "Quando aprendemos algo bom, podemos perguntar como colocá-lo em prática. Saber que devemos dividir é diferente de oferecer espaço numa brincadeira; conhecer a importância da verdade é diferente de admitir um erro. Não precisamos esperar ser perfeitos para aprender. Podemos começar com uma atitude concreta, reconhecer quando falhamos e pedir ajuda. O conhecimento cresce quando encontra lugar nas escolhas que fazemos.",
+  "question": "Qual coisa boa que você já aprendeu pode virar uma atitude sua hoje?",
+  "prayer": "Deus, dá-nos um coração disposto a aprender. Ajuda-nos a compreender tua Palavra com a companhia de pessoas cuidadosas e a praticar o bem que conhecemos. Que nosso exemplo também ensine gentileza, honestidade e respeito às pessoas que convivem conosco. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR07.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Esdras estuda um rolo da Lei com atenção e serenidade.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra seated at a low wooden desk reading an unlettered ancient scroll, simple oil lamp and shelves of rolled parchment, warm morning light, quiet dedicated expression. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part1",
+      "alt": "Esdras examina os escritos em seu lugar de estudo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Medium close view of Ezra carefully unrolling parchment on a wooden desk, hands and textured linen visible, clay ink pot and reed pen nearby, no readable writing. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part2",
+      "alt": "Esdras conversa com outras pessoas sobre o que está aprendendo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra shares an unlettered scroll with three adult learners in a modest shaded courtyard, respectful attentive discussion, no modern school furnishings. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part3",
+      "alt": "Esdras e outros viajantes chegam à região de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra walking with a small caravan of Judean families and packed donkeys toward ancient Jerusalem in the distance, hills and dusty road, gentle sunrise, hopeful expressions. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

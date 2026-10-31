@@ -1,0 +1,71 @@
+{
+  "id": 114,
+  "title": "Um Altar e uma Conversa",
+  "subtitle": "Perguntar pode evitar uma briga",
+  "reference": "Josué 22:10–34",
+  "description": "Um grande altar perto do Jordão provoca suspeitas entre as tribos. Antes de começar um conflito, representantes atravessam a distância para ouvir a explicação dos irmãos.",
+  "testament": "antigo",
+  "cover": "/images/covers/114.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma notícia preocupante",
+      "paragraphs": [
+        "Os homens das tribos de Rúben, Gade e da metade de Manassés estavam voltando para suas terras a leste do Jordão. Haviam ajudado os outros israelitas e agora retornavam às próprias famílias. Perto do rio, construíram um altar grande e visível. A construção chamou atenção, e a notícia logo chegou às tribos que viviam do outro lado.",
+        "Quem ouviu ficou alarmado. Israel deveria adorar o Senhor conforme a orientação recebida, e um altar diferente poderia significar abandono desse compromisso. Sem conhecer o motivo da construção, muitos entenderam que os irmãos estavam se afastando de Deus. A preocupação cresceu tanto que a comunidade se reuniu em Siló, pronta para um confronto.",
+        "Mas antes de partir para a guerra, enviaram uma comitiva. Fineias, filho do sacerdote Eleazar, foi acompanhado por dez líderes, um de cada tribo representada. Eles iriam falar com os responsáveis pelo altar. Ainda havia tensão, porém também havia uma oportunidade: a notícia não precisava ser a última palavra. Era possível ouvir diretamente quem havia construído aquilo."
+      ],
+      "image": "114/part1.webp",
+      "alt": "Um grupo observa de longe o altar construído perto do rio, preocupado com seu significado."
+    },
+    {
+      "heading": "O que o altar significava",
+      "paragraphs": [
+        "Os representantes chegaram com perguntas sérias. Recordaram erros do passado e temeram que uma decisão de alguns trouxesse consequências para todos. Também ofereceram uma alternativa: se a terra do outro lado não parecesse adequada, os irmãos poderiam viver com eles. Por trás da acusação havia preocupação com a unidade do povo e com sua relação com Deus.",
+        "Os homens de Rúben, Gade e Manassés responderam com firmeza. Deus conhecia sua intenção: não haviam feito o altar para oferecer sacrifícios diferentes nem para se rebelar. Seu medo era outro. Pensavam no futuro, quando os filhos das tribos ocidentais talvez dissessem aos seus filhos que, por morarem além do Jordão, não tinham parte no Senhor.",
+        "O rio poderia virar mais que uma fronteira de terra: poderia se tornar uma barreira entre famílias do mesmo povo. Por isso construíram aquele altar como testemunho, uma lembrança visível de que também pertenciam à comunidade que adorava a Deus. Não seria usado para sacrifícios. Era uma maneira de dizer às futuras gerações que o Jordão não apagava sua ligação."
+      ],
+      "image": "114/part2.webp",
+      "alt": "Os moradores do lado oriental explicam o altar a Fineias e aos representantes, com gestos respeitosos."
+    },
+    {
+      "heading": "O retorno sem batalha",
+      "paragraphs": [
+        "Fineias e os outros líderes ouviram a explicação e ficaram satisfeitos. Compreenderam que os irmãos não pretendiam abandonar o Senhor. A construção que parecera um sinal de rebeldia tinha sido feita por receio de separação. As intenções precisavam ser conhecidas para que a aparência não decidisse o julgamento. A conversa mudou o rumo da situação.",
+        "Os representantes voltaram para a terra de Canaã e contaram o que haviam ouvido. Os israelitas receberam bem a notícia, louvaram a Deus e desistiram de ir à guerra contra os irmãos. Nenhuma batalha foi necessária para resolver aquela suspeita. O caminho da escuta preservou famílias que poderiam ter sofrido por uma conclusão tomada cedo demais.",
+        "O altar permaneceu como testemunho de que o Senhor era Deus. A história guarda tanto o risco do mal-entendido quanto a possibilidade de repará-lo. Um grupo teve coragem de perguntar, outro explicou sua intenção, e todos puderam rever o que pensavam. A distância entre as margens continuou existindo, mas não precisava se transformar numa distância entre irmãos."
+      ],
+      "image": "114/part3.webp",
+      "alt": "Os representantes voltam ao acampamento e compartilham a boa notícia com famílias aliviadas."
+    }
+  ],
+  "lesson": "Uma imagem ou uma notícia pode não contar toda a história. Antes de espalhar uma acusação, podemos perguntar com respeito e ouvir a resposta. Isso não significa acreditar em qualquer explicação sem cuidado, mas buscar a verdade com ajuda de pessoas responsáveis. As tribos evitaram uma guerra porque conversaram. Em nossos conflitos, também podemos dizer o que sentimos, esclarecer intenções e mudar de opinião quando entendemos melhor o que aconteceu.",
+  "question": "Você já entendeu uma situação de outro jeito depois de ouvir a pessoa envolvida? O que mudou?",
+  "prayer": "Deus, ajuda-nos a não transformar suspeitas em acusações apressadas. Dá-nos coragem para perguntar com respeito, paciência para escutar e humildade para corrigir o que entendemos errado. Cuida de nossas conversas, para que aproximem as pessoas e ajudem a construir a paz. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Líderes de diferentes tribos conversam em paz ao lado de um grande altar de pedras perto do Jordão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Phinehas adult olive-skinned priest in cream linen robe muted blue sash; tribal leaders in diverse earth-colored cloaks. Large unlit stone altar beside Jordan, no sacrifices, no fighting. Scene: Líderes de diferentes tribos conversam em paz ao lado de um grande altar de pedras perto do Jordão."
+    },
+    {
+      "role": "part1",
+      "alt": "Um grupo observa de longe o altar construído perto do rio, preocupado com seu significado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Phinehas adult olive-skinned priest in cream linen robe muted blue sash; tribal leaders in diverse earth-colored cloaks. Large unlit stone altar beside Jordan, no sacrifices, no fighting. Scene: Um grupo observa de longe o altar construído perto do rio, preocupado com seu significado."
+    },
+    {
+      "role": "part2",
+      "alt": "Os moradores do lado oriental explicam o altar a Fineias e aos representantes, com gestos respeitosos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Phinehas adult olive-skinned priest in cream linen robe muted blue sash; tribal leaders in diverse earth-colored cloaks. Large unlit stone altar beside Jordan, no sacrifices, no fighting. Scene: Os moradores do lado oriental explicam o altar a Fineias e aos representantes, com gestos respeitosos."
+    },
+    {
+      "role": "part3",
+      "alt": "Os representantes voltam ao acampamento e compartilham a boa notícia com famílias aliviadas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Phinehas adult olive-skinned priest in cream linen robe muted blue sash; tribal leaders in diverse earth-colored cloaks. Large unlit stone altar beside Jordan, no sacrifices, no fighting. Scene: Os representantes voltam ao acampamento e compartilham a boa notícia com famílias aliviadas."
+    }
+  ]
+}

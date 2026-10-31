@@ -1,0 +1,71 @@
+{
+  "id": 310,
+  "title": "Filipe Leva Alegria a Samaria",
+  "subtitle": "Um presente que não se compra",
+  "reference": "Atos 8:4–25",
+  "description": "Filipe anuncia Jesus em Samaria, e a cidade recebe a notícia com alegria. Um homem chamado Simão precisa aprender que o dom de Deus não está à venda.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Novos caminhos",
+      "paragraphs": [
+        "A perseguição obrigou muitos discípulos a deixar Jerusalém. Eles passaram por cidades e regiões diferentes, levando consigo a mensagem sobre Jesus. A mudança de lugar tinha uma causa dolorosa, mas a esperança que conheciam não ficou guardada para trás. Filipe chegou a uma cidade de Samaria e começou a anunciar o Cristo aos seus moradores.",
+        "As pessoas ouviam com atenção o que ele dizia. Também viam sinais de cura e libertação realizados por meio dele. Atos conta que houve grande alegria naquela cidade. A mensagem de Jesus alcançava gente que vivia fora de Jerusalém. O cuidado de Deus não terminava nos caminhos que os primeiros discípulos já conheciam.",
+        "Ali vivia um homem chamado Simão, que havia impressionado a população com práticas de magia. As pessoas lhe davam muita atenção e o consideravam poderoso. Agora, porém, ouviam Filipe falar do Reino de Deus e do nome de Jesus. Homens e mulheres creram na mensagem e foram batizados, começando uma nova caminhada de fé."
+      ],
+      "image": "310/part1.webp",
+      "alt": "Filipe chega a uma cidade samaritana por uma estrada entre colinas, levando uma pequena bolsa de viagem."
+    },
+    {
+      "heading": "Amigos que chegam",
+      "paragraphs": [
+        "Simão também creu e foi batizado. Passou a acompanhar Filipe, admirado com os sinais que aconteciam. Sua surpresa, contudo, ainda precisava se transformar em compreensão. Ver algo extraordinário não significa entender imediatamente seu sentido. O caminho da fé inclui aprender a deixar antigas maneiras de pensar e de procurar importância diante dos outros.",
+        "Quando os apóstolos em Jerusalém souberam que Samaria recebera a palavra de Deus, enviaram Pedro e João. Os dois foram até os novos discípulos e oraram por eles. Colocaram as mãos sobre eles, e eles receberam o Espírito Santo. A comunidade de Samaria era reconhecida como parte daquela mesma família de fé.",
+        "Simão observou o que acontecia e ofereceu dinheiro aos apóstolos. Queria receber a capacidade de transmitir o Espírito a quem impusesse as mãos. Sua proposta tratava o presente de Deus como um poder que pudesse comprar e controlar. O desejo de possuir uma habilidade extraordinária tomou o lugar da disposição de receber com humildade."
+      ],
+      "image": "310/part2.webp",
+      "alt": "Pedro e João oram com novos discípulos samaritanos em um pátio acolhedor, com Filipe ao lado."
+    },
+    {
+      "heading": "Aprender a receber",
+      "paragraphs": [
+        "Pedro respondeu com muita firmeza. Explicou que o dom de Deus não podia ser comprado com dinheiro. A dificuldade de Simão não estava no tamanho da oferta, mas na intenção de seu coração. Ele precisava abandonar aquela maneira de pensar e pedir perdão a Deus. A fé não era um comércio de poderes ou de prestígio.",
+        "Simão pediu que os apóstolos orassem por ele, para que não lhe acontecesse o mal de que Pedro havia falado. Precisava levar a sério a correção recebida. O encontro mostrara que o Espírito Santo era um presente de Deus. A fé o chamava a abandonar a busca por controle e aprender um modo diferente de se relacionar com o Senhor.",
+        "Pedro e João continuaram anunciando a palavra e voltaram para Jerusalém. Pelo caminho, falaram de Jesus em muitas aldeias samaritanas. A alegria de Samaria fazia parte de uma mensagem que continuava se espalhando. O presente recebido não era uma ferramenta para dominar pessoas. Era a presença de Deus formando uma comunidade que aprendia a confiar e servir."
+      ],
+      "image": "310/part3.webp",
+      "alt": "Pedro conversa seriamente com Simão, que segura uma bolsa fechada de moedas; Filipe observa, sem humilhação pública nem agressão."
+    }
+  ],
+  "lesson": "Algumas coisas importantes são presentes que recebemos com gratidão: amor sincero, confiança e a graça de Deus. Simão precisou aprender que o Espírito Santo não estava à venda. Podemos crescer na fé buscando conhecer Deus e servir as pessoas, sem transformar tudo numa disputa por importância. A generosidade fica mais bonita quando nasce do carinho. Fazer o bem pode trazer alegria mesmo quando ninguém está olhando ou oferecendo aplausos.",
+  "question": "Qual é a diferença entre ajudar alguém com generosidade e tentar comprar sua amizade ou atenção?",
+  "prayer": "Deus, ensina-me a receber teu amor com humildade. Ajuda-nos a usar nossos recursos para cuidar, sem tentar comprar reconhecimento ou controlar as pessoas. Dá-nos sabedoria para perceber enganos e alegria para servir de coração sincero, seguindo o exemplo de Jesus. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/310.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.8"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Filipe fala de Jesus a uma comunidade samaritana alegre em uma praça de pedra com oliveiras ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl.  Scene: Filipe fala de Jesus a uma comunidade samaritana alegre em uma praça de pedra com oliveiras ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Filipe chega a uma cidade samaritana por uma estrada entre colinas, levando uma pequena bolsa de viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl.  Scene: Filipe chega a uma cidade samaritana por uma estrada entre colinas, levando uma pequena bolsa de viagem."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro e João oram com novos discípulos samaritanos em um pátio acolhedor, com Filipe ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl.  Scene: Pedro e João oram com novos discípulos samaritanos em um pátio acolhedor, com Filipe ao lado."
+    },
+    {
+      "role": "part3",
+      "alt": "Pedro conversa seriamente com Simão, que segura uma bolsa fechada de moedas; Filipe observa, sem humilhação pública nem agressão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Philip is a middle-aged Jewish man, olive skin, dark wavy shoulder-length hair, short dark beard, ochre tunic and teal shawl.  Scene: Pedro conversa seriamente com Simão, que segura uma bolsa fechada de moedas; Filipe observa, sem humilhação pública nem agressão. Peter must match his appearance in 310_part2: older man with short curly very gray hair, full gray beard, cream tunic and weathered rust-red woven mantle with subtle stripes. Preserve Philip in teal behind him and Simon holding the closed money pouch. Peter addresses Simon with two open hands and a serious compassionate expression."
+    }
+  ]
+}

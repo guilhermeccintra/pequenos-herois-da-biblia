@@ -1,0 +1,71 @@
+{
+  "id": 306,
+  "title": "A Oração dos Amigos",
+  "subtitle": "Pedir coragem juntos",
+  "reference": "Atos 4:23–31",
+  "description": "Depois de uma ameaça, os discípulos procuram os amigos. A comunidade transforma a preocupação em uma oração por coragem para continuar fazendo o bem.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma notícia difícil",
+      "paragraphs": [
+        "Quando foram soltos, Pedro e João procuraram seus amigos. Tinham sido interrogados pelas autoridades e recebido uma ordem para parar de ensinar em nome de Jesus. A ameaça não era um assunto pequeno. Eles contaram à comunidade o que os líderes haviam dito, sem fingir que tudo estava fácil ou que não havia motivo de preocupação.",
+        "Os amigos escutaram. A dificuldade vivida pelos dois se tornou uma preocupação compartilhada. Não precisavam inventar uma aparência de força para serem acolhidos. Tinham um lugar onde podiam contar o que estava acontecendo. Aquela conversa reunia pessoas que conheciam a mesma fé e desejavam continuar caminhando juntas, mesmo diante de oposição.",
+        "Depois de ouvir o relato, levantaram a voz a Deus em oração. A resposta da comunidade não começou com uma disputa sobre quem seria mais valente. Começou com a lembrança de quem Deus era. Reconheceram o Senhor como Criador do céu, da terra, do mar e de tudo o que existe."
+      ],
+      "image": "306/part1.webp",
+      "alt": "Pedro e João contam sua experiência a amigos que os escutam com atenção em uma sala simples."
+    },
+    {
+      "heading": "Uma oração com memória",
+      "paragraphs": [
+        "Os discípulos recordaram palavras das Escrituras sobre povos e governantes que se opõem ao Senhor. Ligaram essa lembrança ao que havia acontecido com Jesus. Herodes, Pôncio Pilatos e outras pessoas tinham participado de sua rejeição. A comunidade sabia que sua própria dificuldade vinha depois de uma história de oposição enfrentada pelo Mestre.",
+        "Ao orar, não tratavam Deus como alguém surpreendido pelos acontecimentos. Confiavam que ele conhecia a situação. Isso não tornava a violência boa nem apagava a responsabilidade de quem a praticava. Mas ajudava os discípulos a lembrar que a maldade humana não era maior que a esperança anunciada pela ressurreição de Jesus.",
+        "Então apresentaram as ameaças que estavam recebendo. Não esconderam o problema atrás de palavras bonitas. A oração podia conter a verdade sobre o medo, a pressão e a tarefa que ainda tinham pela frente. O Deus a quem chamavam de Criador também era aquele a quem podiam contar uma dificuldade muito concreta."
+      ],
+      "image": "306/part2.webp",
+      "alt": "Os discípulos oram juntos, alguns com mãos abertas e outros de mãos dadas, em um aposento iluminado pelo sol."
+    },
+    {
+      "heading": "Força para continuar",
+      "paragraphs": [
+        "O pedido principal foi por coragem para anunciar a palavra de Deus. Pediram também que ele continuasse agindo com curas, sinais e maravilhas em nome de Jesus. Não solicitaram poder para humilhar seus adversários. Desejavam continuar servindo e falando da boa notícia, apesar da ordem que tentava silenciar os apóstolos.",
+        "Depois da oração, o lugar onde estavam reunidos tremeu. Todos ficaram cheios do Espírito Santo e anunciavam a palavra com confiança. Atos descreve esse acontecimento como uma resposta de Deus à comunidade. A coragem não nasceu de uma competição entre os discípulos. Veio acompanhada da oração, da presença do Espírito e do apoio mútuo.",
+        "As ameaças não foram apagadas da memória, e outros desafios ainda chegariam. Mas Pedro, João e seus amigos não precisavam caminhar isolados. Tinham contado a verdade, lembrado as promessas e pedido ajuda. A reunião que começou com notícias difíceis terminou com disposição renovada para continuar. Orar juntos também os ajudou a permanecer juntos."
+      ],
+      "image": "306/part3.webp",
+      "alt": "A comunidade se levanta da oração com expressões de confiança e acolhimento, pronta para seguir para as ruas."
+    }
+  ],
+  "lesson": "Podemos contar a Deus o que nos preocupa sem escolher palavras perfeitas. Também podemos dividir a preocupação com pessoas confiáveis. Orar e pedir ajuda prática podem caminhar juntos: conversar com a família, procurar um professor ou receber apoio da comunidade. A coragem desta história serve para continuar fazendo o bem, não para procurar perigo. Quando alguém compartilha uma dificuldade, ouvir com carinho já é uma forma de ajudar.",
+  "question": "Que preocupação você gostaria de compartilhar com sua família em uma oração hoje?",
+  "prayer": "Senhor, tu conheces nossas preocupações. Obrigado porque podemos falar contigo e procurar apoio uns nos outros. Dá-nos coragem para fazer o bem, sabedoria para buscar proteção e carinho para ouvir quem está passando por um dia difícil. Caminha conosco. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/306.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.4"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma comunidade de discípulos ora em roda dentro de uma casa de pedra, unida e serena, sob uma luz acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Uma comunidade de discípulos ora em roda dentro de uma casa de pedra, unida e serena, sob uma luz acolhedora."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro e João contam sua experiência a amigos que os escutam com atenção em uma sala simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro e João contam sua experiência a amigos que os escutam com atenção em uma sala simples."
+    },
+    {
+      "role": "part2",
+      "alt": "Os discípulos oram juntos, alguns com mãos abertas e outros de mãos dadas, em um aposento iluminado pelo sol.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Os discípulos oram juntos, alguns com mãos abertas e outros de mãos dadas, em um aposento iluminado pelo sol."
+    },
+    {
+      "role": "part3",
+      "alt": "A comunidade se levanta da oração com expressões de confiança e acolhimento, pronta para seguir para as ruas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: A comunidade se levanta da oração com expressões de confiança e acolhimento, pronta para seguir para as ruas."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 122,
+  "title": "Um Casaco para Samuel",
+  "subtitle": "O carinho que acompanhava o crescimento",
+  "reference": "1 Samuel 2:18–21,26",
+  "description": "Samuel cresce servindo em Siló. A cada visita, Ana leva um pequeno casaco, um gesto de cuidado que acompanha o menino enquanto ele aprende suas tarefas.",
+  "testament": "antigo",
+  "cover": "/images/covers/122.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um menino em Siló",
+      "paragraphs": [
+        "Samuel ainda era menino quando começou a servir ao Senhor em Siló, sob os cuidados do sacerdote Eli. Ana o havia levado até ali depois de desmamá-lo, cumprindo o compromisso feito antes de seu nascimento. O filho aprenderia uma nova rotina perto do santuário, enquanto a mãe continuaria a visitá-lo com carinho todos os anos.",
+        "No santuário, Samuel usava uma roupa de linho própria de seu serviço. Ao seu redor havia adultos, tarefas e uma rotina que ele precisava aprender aos poucos. O menino participava da vida daquele lugar e aprendia com as pessoas ao redor. Entre uma tarefa e outra, continuava crescendo e descobrindo maneiras de servir ao Senhor.",
+        "Crescer não acontecia somente no tamanho de suas roupas. Samuel também precisava de orientação, exemplos e cuidado. Eli era responsável por acompanhá-lo naquele ambiente. Nenhuma tarefa religiosa tornava desnecessária a proteção de uma criança. Mesmo quando podia ajudar, Samuel continuava sendo um menino em desenvolvimento, com um caminho longo de aprendizado pela frente."
+      ],
+      "image": "122/part1.webp",
+      "alt": "Samuel, ainda menino, acompanha Eli em uma tarefa simples no pátio do santuário."
+    },
+    {
+      "heading": "O presente feito todos os anos",
+      "paragraphs": [
+        "Ana não deixou de acompanhar o filho. Todos os anos, quando subia com Elcana para oferecer o sacrifício, levava a Samuel um pequeno casaco. Ana preparava aquela roupa pensando no filho que encontraria novamente. Não era um presente de palácio nem algo feito para chamar atenção. Era uma peça de roupa preparada para uma criança que estava crescendo.",
+        "O casaco lembra que o amor pode aparecer em tarefas concretas. Uma mãe pensa no filho, prepara algo para ele e o leva durante a visita. O menino que ela apresentara em Siló não havia deixado de fazer parte de sua vida. O cuidado encontrava uma forma de atravessar a distância entre uma visita e outra.",
+        "A cada ano, Samuel estava um pouco maior. Ana preparava o pequeno casaco pensando no filho que encontraria na próxima visita. A roupa acompanhava seu crescimento e levava até Siló um cuidado vindo de casa. Quando ela e Elcana subiam para adorar, aquele presente simples fazia parte do reencontro tão esperado com o menino."
+      ],
+      "image": "122/part2.webp",
+      "alt": "Ana costura um pequeno casaco em casa para levar a Samuel na próxima visita."
+    },
+    {
+      "heading": "Crescer com cuidado",
+      "paragraphs": [
+        "Quando Elcana e Ana visitavam Siló, Eli os abençoava. Pedia que o Senhor lhes desse outros filhos no lugar do menino dedicado ao serviço. Depois, eles voltavam para sua casa. Com o tempo, Ana teve mais três filhos e duas filhas. Sua família cresceu, e Samuel continuou sendo lembrado e cuidado naquela história.",
+        "Nem tudo ia bem no santuário. Os filhos de Eli agiam de maneira errada e causavam tristeza com suas atitudes. Enquanto isso, Samuel continuava crescendo diante do Senhor. A vida do menino seguia outro caminho: ele aprendia a servir, cumpria suas tarefas e avançava pouco a pouco na responsabilidade que havia recebido naquele lugar.",
+        "Samuel crescia e era estimado por Deus e pelas pessoas. A cada visita de Ana, o novo casaco acompanhava mais um ano da vida do menino. Grandes histórias podem ser acompanhadas por pequenos gestos repetidos. Enquanto o futuro de Samuel ainda estava se formando, havia uma mãe que preparava uma roupa e um menino que seguia aprendendo um dia de cada vez."
+      ],
+      "image": "122/part3.webp",
+      "alt": "Samuel acena para Ana e Elcana depois da visita, usando o casaco que recebeu."
+    }
+  ],
+  "lesson": "Cuidar não depende apenas de presentes caros. Preparar uma roupa, ouvir como foi o dia ou ajudar numa tarefa são gestos que dizem: você é importante. O casaco de Ana acompanhava o crescimento de Samuel. Podemos perceber o trabalho de quem cuida de nós e agradecer. Também podemos oferecer ajuda adequada à nossa idade, lembrando que uma criança continua precisando de proteção, descanso e orientação mesmo quando já sabe fazer algumas coisas sozinha.",
+  "question": "Que cuidado simples alguém teve com você recentemente, e como pode agradecer por ele?",
+  "prayer": "Deus, obrigado pelas pessoas que percebem nossas necessidades e cuidam de nós nos detalhes. Ajuda-nos a reconhecer seu carinho e a agradecer. Que as crianças tenham proteção, descanso e bons exemplos, e que aprendamos a oferecer pequenos gestos de cuidado todos os dias. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ana ajuda Samuel a vestir um pequeno casaco no pátio de Siló, num encontro cheio de carinho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hannah adult olive-skinned woman blue dress cream veil; Samuel boy about eight with short dark curls brown eyes cream linen tunic, small tan outer coat; Eli elderly white beard cream robes. Warm ancient sanctuary courtyard. Scene: Ana ajuda Samuel a vestir um pequeno casaco no pátio de Siló, num encontro cheio de carinho."
+    },
+    {
+      "role": "part1",
+      "alt": "Samuel, ainda menino, acompanha Eli em uma tarefa simples no pátio do santuário.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hannah adult olive-skinned woman blue dress cream veil; Samuel boy about eight with short dark curls brown eyes cream linen tunic, small tan outer coat; Eli elderly white beard cream robes. Warm ancient sanctuary courtyard. Scene: Samuel, ainda menino, acompanha Eli em uma tarefa simples no pátio do santuário."
+    },
+    {
+      "role": "part2",
+      "alt": "Ana costura um pequeno casaco em casa para levar a Samuel na próxima visita.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Scene and required cast: Only Hannah appears: olive skin dark hair cream headscarf blue dress, seated alone in her modest ancient stone home, sewing a small tan coat for her absent young son. Baskets of wool and linen, clay oil lamp, warm window light. Samuel is away at Shiloh and MUST NOT be in this image. No children, no other adults. Reference only for style and Hannah identity."
+    },
+    {
+      "role": "part3",
+      "alt": "Samuel acena para Ana e Elcana depois da visita, usando o casaco que recebeu.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hannah adult olive-skinned woman blue dress cream veil; Samuel boy about eight with short dark curls brown eyes cream linen tunic, small tan outer coat; Eli elderly white beard cream robes. Warm ancient sanctuary courtyard. Scene: Samuel acena para Ana e Elcana depois da visita, usando o casaco que recebeu."
+    }
+  ]
+}

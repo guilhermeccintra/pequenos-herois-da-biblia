@@ -1,0 +1,71 @@
+{
+  "id": 285,
+  "title": "O Amigo à Meia-noite",
+  "subtitle": "Podemos procurar Deus com confiança",
+  "reference": "Lucas 11:5–13",
+  "description": "Um pedido de pão no meio da noite ajuda Jesus a ensinar seus discípulos sobre oração e confiança no Pai.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.11.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma visita inesperada",
+      "paragraphs": [
+        "Jesus ensinava seus discípulos a orar. Depois de mostrar como podiam falar com o Pai, contou uma situação que eles conseguiriam imaginar. Um homem recebeu a visita de um amigo que vinha de viagem. Já era meia-noite, e o visitante precisava ser acolhido. O anfitrião, porém, não tinha pão para lhe oferecer.",
+        "Receber alguém envolvia cuidado, e ele queria oferecer alimento ao amigo cansado. Por isso foi à casa de outro amigo e pediu três pães emprestados. Explicou que um viajante havia chegado e que não tinha nada para colocar diante dele. Àquela hora da noite, procurava ajuda para transformar uma chegada inesperada em acolhimento.",
+        "Do lado de dentro, o amigo respondeu que a porta já estava fechada e que seus filhos dormiam com ele. Levantar naquele momento seria trabalhoso. Pediu que não o incomodasse. A cena reunia uma necessidade verdadeira e uma resposta pouco animada. Jesus colocava seus ouvintes diante de uma porta fechada no meio da noite."
+      ],
+      "alt": "Um homem bate à porta do amigo para pedir pão.",
+      "image": "285/part1.webp"
+    },
+    {
+      "heading": "A persistência do pedido",
+      "paragraphs": [
+        "Jesus explicou que, mesmo se o homem não se levantasse apenas por amizade, acabaria levantando por causa da insistência do pedido. Daria ao outro o que fosse necessário. A história destacava a coragem de procurar ajuda e continuar pedindo diante de uma necessidade real. O anfitrião não se conformara em deixar o visitante sem cuidado.",
+        "Então Jesus convidou seus discípulos a pedir, buscar e bater. Essas imagens mostravam movimento e confiança. Orar não era ficar afastado de Deus, imaginando que ele não desejava ouvir. Os amigos de Jesus podiam apresentar suas necessidades e continuar voltados para o Pai. A conversa com Deus tinha lugar na vida comum, inclusive nas dificuldades.",
+        "Jesus conduzia seus discípulos da porta daquela casa para a confiança no Pai. O homem da parábola acabaria se levantando para oferecer os pães de que o amigo precisava. Quanto mais os seguidores de Jesus podiam se aproximar de Deus com seus pedidos. O Pai os recebia com uma bondade maior do que a que conheciam entre as pessoas."
+      ],
+      "alt": "O amigo se levanta e entrega pão pela porta.",
+      "image": "285/part2.webp"
+    },
+    {
+      "heading": "Um Pai que dá coisas boas",
+      "paragraphs": [
+        "Jesus continuou falando dos pais e de seus filhos. Se um filho pedisse alimento, um pai não deveria lhe entregar algo perigoso no lugar. A comparação destacava a diferença entre o que nutre e o que machuca. Os ouvintes conheciam a importância de responder às necessidades de uma criança com cuidado, e não com crueldade.",
+        "Mesmo pessoas imperfeitas sabiam dar coisas boas aos filhos. Quanto mais o Pai do céu ofereceria o Espírito Santo aos que lhe pedissem. Jesus apresentava a oração como relação de confiança com Deus. O maior presente não era simplesmente conseguir todos os objetos desejados, mas receber sua presença e seu auxílio para viver.",
+        "A história começou com três pães e uma visita cansada. Terminou apontando para a generosidade do Pai. Os discípulos podiam pedir sem fingir que não tinham necessidades e perseverar sem imaginar que estavam sozinhos. A oração os aproximava de Deus e também despertava atenção ao próximo, como o anfitrião que procurara alimento para acolher um amigo."
+      ],
+      "alt": "O viajante recebe pão e acolhimento à mesa.",
+      "image": "285/part3.webp"
+    }
+  ],
+  "lesson": "Podemos conversar com Deus sobre nossas necessidades e continuar orando quando a resposta demora. Isso não significa exigir que todos os desejos sejam atendidos do nosso jeito. Jesus ensina a confiar na bondade do Pai e em sua presença. A história também mostra uma oração voltada ao cuidado de outra pessoa. Pedir ajuda pode ser um passo importante para oferecer acolhimento e partilhar o bem.",
+  "question": "Por quem você pode orar hoje e que ajuda concreta pode oferecer a essa pessoa?",
+  "prayer": "Pai bondoso, obrigado porque posso falar contigo. Ensina-me a pedir com confiança, perseverar com esperança e acolher tua direção. Dá-me teu Espírito para reconhecer as necessidades de quem está perto. Que minha oração também me mova a ajudar e a compartilhar. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/285.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um amigo entrega pão pela porta durante a noite.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration adult host olive skin short dark beard teal robe receiving three small round loaves from sleepy adult friend brown robe at wooden doorway of stone house at midnight, warm lamplight against indigo night, friendly caring scene. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O anfitrião pede pão no meio da noite.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same host teal robe gently knocking on closed wooden door in first-century village at night, small clay lamp carried safely in other hand, moonlit stone lane, no scary elements. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O amigo se levanta para ajudar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same friend brown robe opening wooden door and extending three small bread loaves toward teal-robed host, closer side angle from inside warm stone house, quiet night beyond, only two adults. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O viajante é recebido com alimento.",
+      "prompt": "Use case: illustration-story. New landscape 3:2 1536x1024 warm highly detailed cinematic 3D Bible storybook illustration. Keep ONLY the identity of the short dark-haired host in TEAL-BLUE robe from the RIGHT of reference. New scene inside his own simple home at midnight: he places a wooden plate of three bread loaves before a DISTINCT arriving traveler, an older adult man with closely cropped gray hair, full gray beard and dusty OCHRE traveling cloak. The traveler's face and clothing must be clearly different from the brown-robed sleepy neighbor in the reference; that neighbor is ABSENT. Traveler seated at low table with large dusty travel satchel near his sandals, relieved tired smile. Host stands by table welcoming him. ONLY these two adult men. Warm oil lamplight, rough stone walls, modest pottery. No text, logos or modern objects."
+    }
+  ]
+}

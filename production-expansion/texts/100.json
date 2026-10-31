@@ -1,0 +1,71 @@
+{
+  "id": 100,
+  "title": "As Cinco Irmãs Falam por Justiça",
+  "subtitle": "Uma pergunta corajosa pode abrir caminho para a justiça",
+  "reference": "Números 27:1–11",
+  "description": "As filhas de Zelofeade apresentam sua necessidade, e Moisés leva a questão diante de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/100.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Cinco irmãs tinham uma pergunta",
+      "paragraphs": [
+        "Maala, Noa, Hogla, Milca e Tirza eram filhas de Zelofeade, da família de Manassés. Seu pai havia morrido durante a caminhada pelo deserto e não tinha filhos homens. Quando a terra fosse distribuída entre as famílias, aquela situação poderia fazer com que seu nome desaparecesse da parte que lhes caberia.",
+        "As cinco irmãs não ficaram apenas comentando a preocupação entre si. Foram até a entrada da tenda do encontro e se apresentaram diante de Moisés, do sacerdote Eleazar, dos líderes e de toda a comunidade. Era um lugar importante, onde sua pergunta poderia ser ouvida por quem tinha responsabilidade para responder.",
+        "Elas explicaram a situação com clareza. Seu pai havia morrido no deserto, mas não participara da rebelião de Corá. Também reconheceram que ele tinha sua própria responsabilidade diante de Deus. Não tentaram transformá-lo num homem perfeito; apresentaram os fatos necessários para que a questão da família fosse considerada."
+      ],
+      "image": "100/part1.webp",
+      "alt": "Maala, Noa, Hogla, Milca e Tirza conversam juntas."
+    },
+    {
+      "heading": "Uma voz que merece ser ouvida",
+      "paragraphs": [
+        "As irmãs perguntaram por que o nome de seu pai deveria desaparecer da família apenas porque ele não tivera um filho homem. Pediram uma propriedade entre os parentes de seu pai. A solicitação era concreta: queriam participar da herança que garantiria à família um lugar na terra que o povo esperava receber.",
+        "Moisés ouviu o pedido e o levou diante do Senhor. Não respondeu depressa apenas para encerrar a conversa. Também não tratou a pergunta das irmãs como um incômodo que deveria ser silenciado. Havia uma situação que precisava ser examinada, e o líder buscou orientação para dar uma resposta justa.",
+        "Deus afirmou que as filhas de Zelofeade tinham razão em seu pedido. Moisés deveria lhes dar uma propriedade entre os irmãos de seu pai, fazendo passar a herança para elas. As cinco mulheres haviam sido ouvidas. Sua presença diante da comunidade ajudou a tornar visível uma necessidade que não podia ser ignorada."
+      ],
+      "image": "100/part2.webp",
+      "alt": "Moisés escuta o pedido das cinco irmãs."
+    },
+    {
+      "heading": "Uma resposta que alcançou outras famílias",
+      "paragraphs": [
+        "A resposta não ficou limitada àquelas cinco irmãs. Deus também orientou como proceder quando um homem morresse sem deixar filho: sua herança passaria à filha. Se não houvesse filha, haveria uma sequência entre os parentes, para que a propriedade permanecesse ligada à família conforme as regras dadas a Israel.",
+        "Maala, Noa, Hogla, Milca e Tirza não precisaram gritar mais alto que todos para que sua questão tivesse valor. Apresentaram sua situação e seu pedido. Moisés precisou escutar, reconhecer que havia algo a aprender e buscar uma decisão que levasse em conta a realidade daquelas mulheres.",
+        "A Bíblia preserva os nomes das cinco irmãs. Elas não aparecem apenas como um grupo sem rosto, mas como pessoas cuja vida importava na organização da comunidade. Sua história nos convida a prestar atenção a quem pode ficar esquecido e a lembrar que uma pergunta respeitosa pode abrir espaço para uma resposta mais justa."
+      ],
+      "image": "100/part3.webp",
+      "alt": "As cinco irmãs recebem a resposta com esperança."
+    }
+  ],
+  "lesson": "As cinco irmãs mostraram que vale a pena apresentar uma necessidade com clareza. Moisés também ensina algo importante: quem tem responsabilidade precisa escutar e buscar uma resposta justa. Podemos observar quem está ficando de fora de um combinado e conversar sobre isso com um adulto de confiança. Ouvir diferentes pessoas não enfraquece um grupo. Ajuda a perceber situações que antes não estavam recebendo o cuidado necessário.",
+  "question": "Quem pode estar ficando de fora de um combinado, e como você pode ajudar essa pessoa a ser ouvida?",
+  "prayer": "Senhor, dá-me coragem para apresentar uma necessidade com respeito e atenção para ouvir quem costuma ficar esquecido. Ajuda-nos a buscar decisões justas e a reconhecer o valor de cada pessoa. Que nossas conversas abram espaço para cuidado e participação. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "As cinco irmãs apresentam seu pedido a Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Five sisters all adults aged 22–40 with brown or olive skin: Mahlah rust dress cream headscarf; Noah teal dress beige shawl; Hoglah ochre dress brown headscarf; Milcah muted plum dress cream shawl; Tirzah cream dress sage green headscarf. Scene: Exactly five adult sisters stand together respectfully before Moses at tabernacle entrance, diverse modest earth-tone robes, confident dignified faces, warm light; Eleazar and two elders seated to side."
+    },
+    {
+      "role": "part1",
+      "alt": "Maala, Noa, Hogla, Milca e Tirza conversam juntas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Five sisters all adults aged 22–40 with brown or olive skin: Mahlah rust dress cream headscarf; Noah teal dress beige shawl; Hoglah ochre dress brown headscarf; Milcah muted plum dress cream shawl; Tirzah cream dress sage green headscarf. Scene: Exactly five adult Israelite sisters discuss a family concern seated around woven mat outside tent, simple clay jars and bread basket, supportive attentive expressions, no men."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés escuta o pedido das cinco irmãs.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Five sisters all adults aged 22–40 with brown or olive skin: Mahlah rust dress cream headscarf; Noah teal dress beige shawl; Hoglah ochre dress brown headscarf; Milcah muted plum dress cream shawl; Tirzah cream dress sage green headscarf. Scene: Moses seated listening carefully to exactly five standing adult sisters at tabernacle courtyard; eldest sister speaks with open hand, other four beside her, intimate respectful composition."
+    },
+    {
+      "role": "part3",
+      "alt": "As cinco irmãs recebem a resposta com esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Eleazar mature olive-skinned man dark beard with gray strands, white linen turban blue priestly robe gold-blue ephod square jeweled breastpiece. Five sisters all adults aged 22–40 with brown or olive skin: Mahlah rust dress cream headscarf; Noah teal dress beige shawl; Hoglah ochre dress brown headscarf; Milcah muted plum dress cream shawl; Tirzah cream dress sage green headscarf. Scene: Exactly five adult sisters smile with quiet relief before Moses and adult priest Eleazar outside tabernacle, warm hopeful sunrise, no written documents or maps."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+27%3A1-11&version=KJV"
+  ]
+}

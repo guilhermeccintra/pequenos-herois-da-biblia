@@ -1,0 +1,71 @@
+{
+  "id": 119,
+  "title": "As Árvores Procuram um Rei",
+  "subtitle": "Uma história sobre quem quer mandar",
+  "reference": "Juízes 9:7–21",
+  "description": "Jotão conta uma fábula em que árvores procuram um rei. A oliveira, a figueira, a videira e o espinheiro ajudam a pensar sobre liderança e escolhas responsáveis.",
+  "testament": "antigo",
+  "cover": "/images/covers/119.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma voz no monte",
+      "paragraphs": [
+        "Jotão tinha vivido uma grande tragédia em sua família. Seu irmão Abimeleque havia usado violência para tomar o poder, e os habitantes de Siquém o tinham feito rei. Jotão escapara. Ao saber da escolha da cidade, subiu ao monte Gerizim e levantou a voz. Queria que o povo escutasse uma advertência antes de tratar aquela decisão como uma conquista feliz.",
+        "Em vez de começar com uma lista de ordens, contou uma história de árvores. Era uma fábula: plantas falariam e escolheriam um governante, como se fossem pessoas. Ninguém precisava acreditar que árvores conversam de verdade para entender. Às vezes uma imagem simples ajuda a perceber um problema que parece escondido dentro das decisões humanas.",
+        "Na história, as árvores saíram à procura de alguém para reinar sobre elas. Procuraram primeiro uma oliveira. A escolha parecia fazer sentido: a oliveira produzia azeite, algo precioso e útil. Mas a resposta dela mostrou que ocupar uma posição de mando não era necessariamente mais importante que continuar oferecendo o fruto que já beneficiava os outros."
+      ],
+      "image": "119/part1.webp",
+      "alt": "Jotão fala do alto de uma encosta para pessoas reunidas perto da cidade de Siquém."
+    },
+    {
+      "heading": "Três árvores respondem",
+      "paragraphs": [
+        "A oliveira perguntou se deveria abandonar seu azeite para ficar se agitando sobre as outras árvores. Depois, o convite chegou à figueira. Ela também respondeu lembrando sua doçura e seus bons frutos. Trocar tudo isso pela posição de rei não lhe parecia uma vantagem. Cada árvore reconhecia o valor do que já tinha para oferecer.",
+        "As árvores procuraram então a videira. Ela falou de seu vinho, associado à alegria, e também recusou deixar sua produção para governar. A fábula repetia a pergunta de maneiras diferentes. Quem realmente serve precisa desejar um título para ter valor? Uma tarefa útil pode ser maior que a vontade de aparecer acima dos outros?",
+        "Por fim, as árvores fizeram o convite ao espinheiro. Ele aceitou, mas colocou uma condição: se estivessem sendo sinceras, deveriam se abrigar à sua sombra. Se não, sairia fogo dele para consumir os cedros do Líbano. A imagem era estranha de propósito. Um arbusto espinhoso oferecia proteção que mal podia dar e, ao mesmo tempo, fazia uma ameaça."
+      ],
+      "image": "119/part2.webp",
+      "alt": "Oliveira carregada de azeitonas, figueira com frutos e videira com uvas aparecem lado a lado numa paisagem luminosa."
+    },
+    {
+      "heading": "O que a fábula queria mostrar",
+      "paragraphs": [
+        "Depois de contar a história, Jotão falou diretamente aos habitantes de Siquém. Perguntou se haviam agido com sinceridade e justiça ao escolher Abimeleque e ao tratar a família de Gideão. A resposta precisava considerar o que tinha acontecido, incluindo a violência. Um governante não deveria ser avaliado somente pelas promessas que fazia depois de conquistar o poder.",
+        "Jotão advertiu que a aliança construída daquela maneira acabaria trazendo destruição aos dois lados. Na linguagem da fábula, o fogo passaria entre Abimeleque e os homens que o apoiavam. Era uma denúncia séria, não uma brincadeira sobre plantas. O desejo de mandar, quando caminha com ameaças e injustiça, coloca toda a comunidade em perigo.",
+        "Depois, Jotão fugiu para Beer e ficou ali por medo do irmão. A história não termina com aplausos nem com uma solução fácil. Guarda uma pergunta difícil para quem escolhe líderes: essa pessoa oferece cuidado verdadeiro ou promete uma sombra que não consegue dar? A fábula convida a olhar para os frutos das atitudes, e não apenas para o tamanho dos títulos."
+      ],
+      "image": "119/part3.webp",
+      "alt": "Um pequeno espinheiro projeta uma sombra curta diante de árvores altas, mostrando o contraste da fábula."
+    }
+  ],
+  "lesson": "Liderar não é ser mais importante que todos. É assumir uma responsabilidade para o bem do grupo. Num jogo ou trabalho, podemos observar se alguém escuta, cumpre combinados e respeita limites. Promessas bonitas não compensam ameaças ou humilhações. Também não precisamos ter um cargo para ajudar: organizar materiais, explicar uma tarefa e incluir um colega são contribuições valiosas. Se alguém usa medo para mandar, procure um adulto confiável.",
+  "question": "Quais atitudes mostram que uma pessoa está liderando para cuidar do grupo, e não apenas para mandar?",
+  "prayer": "Deus, ensina-nos a reconhecer a diferença entre cuidado e ameaça. Ajuda-nos a escolher e a ser líderes que escutam, respeitam e servem. Que saibamos oferecer nossos talentos sem precisar parecer maiores que os outros, e buscar ajuda diante da injustiça. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma oliveira, uma figueira e uma videira cercam um pequeno espinheiro numa paisagem de fábula acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jotham young adult olive-skinned man short dark curls simple beige tunic brown cloak on Mount Gerizim. Fable illustrations show natural olive fig grapevine and thornbush, gently expressive stylized branches but no scary faces, no text. Scene: Uma oliveira, uma figueira e uma videira cercam um pequeno espinheiro numa paisagem de fábula acolhedora."
+    },
+    {
+      "role": "part1",
+      "alt": "Jotão fala do alto de uma encosta para pessoas reunidas perto da cidade de Siquém.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jotham young adult olive-skinned man short dark curls simple beige tunic brown cloak on Mount Gerizim. Fable illustrations show natural olive fig grapevine and thornbush, gently expressive stylized branches but no scary faces, no text. Scene: Jotão fala do alto de uma encosta para pessoas reunidas perto da cidade de Siquém."
+    },
+    {
+      "role": "part2",
+      "alt": "Oliveira carregada de azeitonas, figueira com frutos e videira com uvas aparecem lado a lado numa paisagem luminosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jotham young adult olive-skinned man short dark curls simple beige tunic brown cloak on Mount Gerizim. Fable illustrations show natural olive fig grapevine and thornbush, gently expressive stylized branches but no scary faces, no text. Scene: Oliveira carregada de azeitonas, figueira com frutos e videira com uvas aparecem lado a lado numa paisagem luminosa."
+    },
+    {
+      "role": "part3",
+      "alt": "Um pequeno espinheiro projeta uma sombra curta diante de árvores altas, mostrando o contraste da fábula.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Jotham young adult olive-skinned man short dark curls simple beige tunic brown cloak on Mount Gerizim. Fable illustrations show natural olive fig grapevine and thornbush, gently expressive stylized branches but no scary faces, no text. Scene: Um pequeno espinheiro projeta uma sombra curta diante de árvores altas, mostrando o contraste da fábula."
+    }
+  ]
+}

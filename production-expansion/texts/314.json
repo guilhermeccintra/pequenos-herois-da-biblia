@@ -1,0 +1,71 @@
+{
+  "id": 314,
+  "title": "Eneias Pode se Levantar",
+  "subtitle": "Uma visita em Lida",
+  "reference": "Atos 9:32–35",
+  "description": "Durante uma viagem para visitar os discípulos, Pedro conhece Eneias. Um encontro breve se torna uma notícia de esperança para toda a região.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Pedro visita os amigos",
+      "paragraphs": [
+        "A igreja vivia um tempo de crescimento na Judeia, na Galileia e em Samaria. Pedro percorria diferentes lugares e visitava os seguidores de Jesus. Sua missão não acontecia somente diante de grandes multidões. Havia pessoas para conhecer e comunidades para acompanhar em cidades onde a mensagem também havia chegado e começado a transformar vidas.",
+        "Em uma dessas viagens, Pedro foi até Lida. Ali encontrou um homem chamado Eneias, que estava acamado havia oito anos porque era paralítico. Atos registra seu nome e o tempo daquela condição. Não conta sua profissão, sua idade ou os detalhes de sua família. O relato concentra nossa atenção naquele encontro e no que aconteceu depois.",
+        "Oito anos representam muitos dias. Para uma criança de oito anos, seria o tempo de toda a vida até então. Essa comparação ajuda a perceber que Eneias não estava vivendo uma dificuldade passageira de poucas horas. Sua necessidade fazia parte da rotina havia muito tempo. Pedro chegou a uma vida que tinha uma história antes daquela visita."
+      ],
+      "image": "314/part1.webp",
+      "alt": "Pedro caminha por uma rua tranquila de Lida e é recebido por discípulos junto a uma casa de pedra."
+    },
+    {
+      "heading": "Uma palavra de esperança",
+      "paragraphs": [
+        "Ao encontrar Eneias, Pedro falou diretamente com ele. Disse que Jesus Cristo o curava e pediu que se levantasse e arrumasse sua cama. O apóstolo não atribuiu o acontecimento ao próprio nome. Apontou para Jesus. A mesma mensagem que anunciava às comunidades aparecia agora ligada a um homem específico, conhecido pelo seu nome.",
+        "Eneias se levantou imediatamente. Atos descreve a resposta de forma simples, sem explicar cada movimento. Aquele que havia passado oito anos acamado agora podia ficar de pé. Para ele, a palavra de Pedro não era apenas uma notícia sobre algo distante. O cuidado de Jesus alcançava sua própria vida naquele momento extraordinário.",
+        "Arrumar a cama era uma tarefa comum, mas naquele dia ganhava outro significado. A cama continuava sendo um objeto da casa; a relação de Eneias com ela havia mudado. Depois de tantos anos deitado, ele podia se levantar. As palavras de Pedro apontavam para Jesus, e o que acontecia diante deles confirmava aquele anúncio de esperança."
+      ],
+      "image": "314/part2.webp",
+      "alt": "Pedro conversa com Eneias à altura dos olhos, sentado ao lado de sua cama em um quarto iluminado pela janela."
+    },
+    {
+      "heading": "Uma notícia que se espalha",
+      "paragraphs": [
+        "As pessoas de Lida e da região de Sarom viram Eneias. O que tinha acontecido não ficou escondido em uma conversa particular. Ele era uma pessoa real em uma comunidade real. Ao vê-lo, muitos se voltaram para o Senhor. A surpresa conduzia os olhares para Jesus, a quem Pedro havia atribuído a cura desde o início.",
+        "A notícia ultrapassou as paredes da casa. Pessoas de Lida e da região de Sarom viram Eneias e se voltaram para o Senhor. Sua vida fazia parte de uma comunidade, e a mudança despertou atenção ao redor. A visita de Pedro havia se tornado um encontro cuja alegria alcançava muito mais gente do que os presentes naquele quarto.",
+        "O nome de Eneias permaneceu no livro de Atos. Ele não é lembrado apenas por uma condição física, mas como alguém encontrado e cuidado. Seu valor já existia antes da cura. A história nos permite celebrar o sinal realizado por Jesus e, ao mesmo tempo, lembrar que todas as pessoas merecem companhia, respeito e cuidado em qualquer condição."
+      ],
+      "image": "314/part3.webp",
+      "alt": "Eneias está de pé junto à porta de sua casa, conversando alegremente com vizinhos de Lida, enquanto Pedro observa ao lado."
+    }
+  ],
+  "lesson": "Visitar e fazer companhia são formas preciosas de cuidado. Pessoas que passam muito tempo em casa podem sentir alegria ao receber atenção e amizade. Podemos perguntar como estão, ouvir suas histórias e descobrir o que gostariam de fazer conosco. Eneias tinha uma vida e uma história antes da visita de Pedro. Lembrar disso nos ajuda a enxergar cada pessoa por inteiro, valorizando sua presença e aquilo que ela compartilha.",
+  "question": "Como você pode fazer companhia a alguém que passa muito tempo em casa sem invadir seu descanso?",
+  "prayer": "Jesus, obrigado porque conheces cada pessoa pelo nome. Cuida de quem enfrenta doenças e dificuldades. Ensina-nos a oferecer companhia com respeito, apoiar quem precisa e reconhecer o valor de cada vida. Que nosso carinho alcance também quem está longe dos nossos olhos. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/314.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.9"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro visita Eneias, um homem adulto de barba curta e túnica verde, que se levanta ao lado de uma cama simples com expressão de admiração.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Aeneas has olive skin, straight dark hair to his ears, short dark beard, moss-green tunic.  Scene: Pedro visita Eneias, um homem adulto de barba curta e túnica verde, que se levanta ao lado de uma cama simples com expressão de admiração."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro caminha por uma rua tranquila de Lida e é recebido por discípulos junto a uma casa de pedra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Aeneas has olive skin, straight dark hair to his ears, short dark beard, moss-green tunic.  Scene: Pedro caminha por uma rua tranquila de Lida e é recebido por discípulos junto a uma casa de pedra. Elenco exato: Pedro em túnica terracota e manto creme, três discípulos moradores; Eneias ainda não aparece."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro conversa com Eneias à altura dos olhos, sentado ao lado de sua cama em um quarto iluminado pela janela.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Aeneas has olive skin, straight dark hair to his ears, short dark beard, moss-green tunic.  Scene: Pedro conversa com Eneias à altura dos olhos, sentado ao lado de sua cama em um quarto iluminado pela janela."
+    },
+    {
+      "role": "part3",
+      "alt": "Eneias está de pé junto à porta de sua casa, conversando alegremente com vizinhos de Lida, enquanto Pedro observa ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Aeneas has olive skin, straight dark hair to his ears, short dark beard, moss-green tunic.  Scene: Eneias está de pé junto à porta de sua casa, conversando alegremente com vizinhos de Lida, enquanto Pedro observa ao lado."
+    }
+  ]
+}

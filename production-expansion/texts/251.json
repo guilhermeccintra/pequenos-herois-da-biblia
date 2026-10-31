@@ -1,0 +1,71 @@
+{
+  "id": 251,
+  "title": "O Encontro em Naim",
+  "subtitle": "Compaixão no caminho da tristeza",
+  "reference": "Lucas 7:11–17",
+  "description": "Perto da entrada de Naim, Jesus encontra uma mãe que perdeu seu único filho. Sua compaixão transforma um momento de grande tristeza.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.7.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Dois grupos se encontram",
+      "paragraphs": [
+        "Jesus caminhava para uma cidade chamada Naim. Seus discípulos e uma grande multidão iam com ele. Perto da entrada da cidade, encontraram outro grupo, que seguia na direção contrária. As pessoas acompanhavam o enterro de um jovem. Sua mãe estava entre elas, vivendo uma tristeza muito grande naquele dia.",
+        "O rapaz era seu único filho, e ela já era viúva. Lucas reúne esses detalhes para que percebamos a profundidade de sua perda. Ela havia perdido o marido e agora se despedia do filho. Muitas pessoas da cidade estavam com ela. A comunidade acompanhava seu luto, oferecendo a presença que conseguia oferecer.",
+        "Quando Jesus viu aquela mãe, sentiu compaixão. Seu olhar não ficou apenas no movimento da multidão ou no caminho que precisava percorrer. Voltou-se para uma pessoa que sofria. A história começa a mudar nesse encontro: Jesus reconheceu a dor da mulher e se aproximou dela, sem exigir primeiro uma explicação ou um pedido."
+      ],
+      "alt": "Jesus encontra uma mãe enlutada perto da entrada de Naim.",
+      "image": "251/part1.webp"
+    },
+    {
+      "heading": "Uma palavra no meio do silêncio",
+      "paragraphs": [
+        "Jesus falou com a mulher e lhe disse que não chorasse. Naquela cena, suas palavras vieram acompanhadas de uma ação extraordinária que ele estava prestes a realizar. Não eram uma repreensão à tristeza. A mãe tinha motivos reais para chorar, e a compaixão de Jesus mostrava que ele levava sua dor a sério.",
+        "Ele se aproximou e tocou o esquife, a estrutura em que levavam o corpo. Os carregadores pararam. A caminhada do enterro foi interrompida. Diante das pessoas, Jesus dirigiu-se ao jovem e mandou que se levantasse. Era uma ordem que ninguém ali poderia cumprir apenas com esforço humano ou vontade de consolar a família.",
+        "Então o jovem se sentou e começou a falar. O que parecia uma despedida sem volta foi transformado por Jesus. Lucas descreve o acontecimento sem detalhes assustadores. Sua atenção vai para a vida que retorna e para o encontro entre mãe e filho, que receberiam de volta a possibilidade de estar juntos."
+      ],
+      "alt": "Jesus se aproxima do jovem enquanto os acompanhantes param.",
+      "image": "251/part2.webp"
+    },
+    {
+      "heading": "Devolvido à sua mãe",
+      "paragraphs": [
+        "Jesus entregou o jovem à sua mãe. Essa frase guarda a ternura do episódio. O sinal não terminou apenas com pessoas admiradas diante de algo extraordinário. Terminou também com uma relação restaurada. A mulher que acompanhava a despedida pôde receber de volta seu filho, agora vivo, falando e presente ao seu lado.",
+        "Todos ficaram profundamente impressionados e glorificaram a Deus. Disseram que um grande profeta havia surgido entre eles e que Deus tinha visitado seu povo. Suas palavras procuravam expressar o que tinham testemunhado. A notícia se espalhou pela Judeia e pela região ao redor, alcançando outras pessoas que ouviriam sobre Jesus.",
+        "O encontro em Naim revela a compaixão de Jesus diante da morte e do sofrimento. Esse foi um sinal específico de sua missão, não uma promessa de que toda despedida será desfeita agora. Podemos guardar a certeza mostrada na cena: a dor daquela mãe importava. Jesus a viu, se aproximou e agiu com um cuidado que alcançou sua vida inteira."
+      ],
+      "alt": "A mãe abraça o filho vivo enquanto as pessoas agradecem a Deus.",
+      "image": "251/part3.webp"
+    }
+  ],
+  "lesson": "Quando alguém perde uma pessoa querida, pode chorar, sentir saudade e precisar de tempo. Não devemos mandar que pare de sentir tristeza. Podemos oferecer companhia, ouvir e procurar um adulto que ajude a cuidar. A história de Naim mostra a compaixão de Jesus num sinal extraordinário. Para nós, um gesto possível é permanecer perto com respeito, sem prometer respostas que não temos.",
+  "question": "Que gesto de companhia você pode oferecer a alguém que está triste ou com saudade?",
+  "prayer": "Jesus, acolhe as pessoas que sentem saudade e tristeza. Ajuda-nos a oferecer companhia com delicadeza, sem apressar o coração de ninguém. Que quem sofre encontre pessoas de confiança, consolo e cuidado, e que nossa família aprenda a estar perto. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/251.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma mãe abraça seu filho depois do encontro com Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Middle-aged widowed mother olive skin dark hair gray veil muted plum dress embraces living young adult son cream tunic, Jesus cream tunic terracotta mantle beside them, city gate of Nain, tender joyful relief, no corpse or funeral imagery."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus encontra uma mãe enlutada perto da entrada de Naim.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle compassionately approaches sad middle-aged mother gray veil plum dress accompanied by supportive townspeople near ancient city gate, no visible deceased person, dignified gentle emotional scene."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus se aproxima do jovem enquanto os acompanhantes param.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle reaches open hand toward living young adult man cream tunic now sitting upright on low carried wooden platform, onlookers surprised, no wounds no corpse no shroud, respectful gentle miracle scene."
+    },
+    {
+      "role": "part3",
+      "alt": "A mãe abraça o filho vivo enquanto as pessoas agradecem a Deus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Mother gray veil plum dress warmly embraces healthy young adult son cream tunic standing beside Jesus terracotta mantle, townspeople express quiet grateful wonder near Nain gate, soft hopeful light, safe family-friendly scene."
+    }
+  ]
+}

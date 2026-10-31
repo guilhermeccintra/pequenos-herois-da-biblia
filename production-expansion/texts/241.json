@@ -1,0 +1,71 @@
+{
+  "id": 241,
+  "title": "A Viagem para o Egito",
+  "subtitle": "Proteger também é saber partir",
+  "reference": "Mateus 2:13–23",
+  "description": "Avisado em sonho sobre um perigo, José leva Maria e Jesus para o Egito. A família encontra abrigo e, mais tarde, começa uma nova etapa em Nazaré.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.2.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um aviso durante a noite",
+      "paragraphs": [
+        "Os visitantes que tinham procurado Jesus já haviam partido. Herodes, porém, continuava interessado em encontrar o menino por um motivo cruel: queria matá-lo. Naquela época, governantes podiam usar seu poder para ferir outras pessoas. A família de Jesus precisava de proteção, e permanecer no mesmo lugar não era seguro.",
+        "Um anjo apareceu a José em sonho e o avisou do perigo. Ele deveria se levantar, tomar o menino e sua mãe e fugir para o Egito. Também recebeu a orientação de permanecer ali até novo aviso. A mensagem indicava uma ação concreta. Proteger aquela vida exigia sair, mesmo que a viagem fosse inesperada.",
+        "José se levantou e partiu com Maria e Jesus durante a noite. A orientação recebida em sonho se transformou em decisão. Era preciso deixar para trás o lugar onde estavam e levar o menino para longe de Herodes. José seguiu o aviso do anjo, cuidando da família enquanto começavam aquela viagem inesperada rumo ao Egito."
+      ],
+      "alt": "José prepara a saída enquanto Maria protege o pequeno Jesus.",
+      "image": "241/part1.webp"
+    },
+    {
+      "heading": "Abrigo em outro país",
+      "paragraphs": [
+        "A família chegou ao Egito e permaneceu lá enquanto Herodes viveu. Estava agora num país diferente, longe da ameaça do rei. José e Maria precisavam cuidar de Jesus durante aquela espera. O menino que recebera a visita dos sábios era também uma criança pequena, dependente de abrigo, alimento e dos cuidados de sua família.",
+        "Enquanto isso, Herodes fez muito mal às famílias de Belém e arredores. Houve perda e tristeza onde antes as crianças eram recebidas com alegria. Mateus recorda as palavras do profeta Jeremias sobre um choro profundo, de mães que lamentavam seus filhos. A crueldade do rei deixara sofrimento entre as famílias daquela região.",
+        "Longe de Belém, José e Maria permaneciam com Jesus no Egito, conforme a orientação do anjo. A partida durante a noite havia levado a família para um lugar de abrigo. Agora era tempo de esperar. Mateus relaciona aquela permanência às palavras do profeta sobre o filho chamado do Egito, ligando a viagem à história do povo de Deus."
+      ],
+      "alt": "Maria, José e Jesus encontram descanso em um lugar seguro no Egito.",
+      "image": "241/part2.webp"
+    },
+    {
+      "heading": "Um novo começo em Nazaré",
+      "paragraphs": [
+        "Depois da morte de Herodes, um anjo voltou a aparecer a José em sonho. Disse que ele poderia retornar à terra de Israel com o menino e sua mãe. José se levantou e iniciou a volta. A espera no Egito tinha chegado ao fim, mas o cuidado com a segurança da família continuava necessário.",
+        "José soube que Arquelau governava a Judeia no lugar de seu pai, Herodes, e teve medo de ir para lá. Recebeu outro aviso em sonho e mudou a direção da viagem. Com Maria e o menino, seguiu para a região da Galileia. O retorno à terra de Israel continuava sob a orientação que recebera de Deus.",
+        "A família foi morar em Nazaré. Ali começaria uma nova etapa da infância de Jesus. Mateus relaciona esses acontecimentos às palavras dos profetas. A história terminou, por enquanto, com uma casa possível depois da viagem. José cuidara ouvindo e agindo; Maria e Jesus estavam com ele, e a vida poderia continuar."
+      ],
+      "alt": "A família chega a Nazaré para começar uma nova etapa.",
+      "image": "241/part3.webp"
+    }
+  ],
+  "lesson": "Pedir ajuda, sair de um lugar perigoso e procurar proteção são atitudes importantes. Crianças devem contar a um adulto de confiança quando algo as assusta ou ameaça. Também podemos acolher quem chegou de outro lugar, sem zombar de seu jeito de falar ou de seus costumes. Uma família que precisou mudar pode estar deixando para trás pessoas queridas, e merece respeito e amizade.",
+  "question": "Como você pode acolher uma criança que acabou de chegar à sua escola ou comunidade?",
+  "prayer": "Deus, cuida das famílias que precisam sair de casa para buscar segurança. Aproxima delas pessoas que ofereçam proteção e acolhimento. Ajuda-nos a pedir ajuda quando houver perigo e a receber com carinho quem chega de outro lugar. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/241.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "José e Maria viajam com Jesus por um caminho tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Joseph dark beard tan tunic brown cloak and Mary dark hair cream veil dusty blue dress holding toddler Jesus safely walk along ancient desert path under a soft dawn sky, small travel bundles, protective family closeness, no pursuers, no violence."
+    },
+    {
+      "role": "part1",
+      "alt": "José prepara a saída enquanto Maria protege o pequeno Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Night in modest stone room, Joseph dark beard tan tunic brown cloak gathers cloth travel bundle, Mary cream veil dusty blue dress cradles sleeping toddler Jesus, soft oil lamp glow, attentive serious but reassuring faces."
+    },
+    {
+      "role": "part2",
+      "alt": "Maria, José e Jesus encontram descanso em um lugar seguro no Egito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Joseph tan tunic brown cloak and Mary cream veil dusty blue dress with toddler Jesus resting in peaceful modest Egyptian courtyard, date palms and adobe walls, clay water jug and woven mat, feeling of refuge, no pyramids required."
+    },
+    {
+      "role": "part3",
+      "alt": "A família chega a Nazaré para começar uma nova etapa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Joseph tan tunic brown cloak and Mary cream veil dusty blue dress guiding small child Jesus toward modest home in ancient Nazareth hillside village, green olive trees, soft hopeful morning, no modern buildings."
+    }
+  ]
+}

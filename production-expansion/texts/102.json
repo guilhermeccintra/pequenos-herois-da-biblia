@@ -1,0 +1,72 @@
+{
+  "id": 102,
+  "title": "Cidades para Ouvir com Justiça",
+  "subtitle": "A pressa de julgar pode aumentar uma dor",
+  "reference": "Números 35:9–34; Deuteronômio 19:1–13",
+  "description": "Deus orienta Israel a preparar cidades onde uma situação grave pudesse ser examinada antes de uma vingança.",
+  "testament": "antigo",
+  "cover": "/images/covers/102.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar para interromper a violência",
+      "paragraphs": [
+        "Enquanto Israel se preparava para viver na terra, Deus deu a Moisés uma orientação sobre cidades de refúgio. Se alguém causasse a morte de outra pessoa sem intenção, precisaria de um lugar para onde fugir. A situação era muito séria, e a dor da família atingida poderia provocar uma resposta imediata de vingança.",
+        "Seriam separadas seis cidades: três de um lado do Jordão e três na terra de Canaã. Elas serviriam aos israelitas, aos estrangeiros e às pessoas que morassem entre eles. A proteção não dependeria apenas de pertencer a uma família conhecida. Uma vida em perigo precisava de espaço para que a verdade fosse examinada.",
+        "O refúgio impediria que a pessoa acusada fosse morta antes de comparecer diante da comunidade para julgamento. Isso não significava fingir que nada havia acontecido. Havia uma morte, uma família em luto e uma responsabilidade a esclarecer. Era preciso ouvir e distinguir os fatos antes de permitir outra tragédia."
+      ],
+      "image": "102/part1.webp",
+      "alt": "Moisés explica a orientação sobre as cidades."
+    },
+    {
+      "heading": "Ouvir o que realmente aconteceu",
+      "paragraphs": [
+        "A lei diferenciava uma agressão planejada de um acidente. Em Deuteronômio, aparece o exemplo de dois homens que vão cortar madeira. Se a parte de metal de um machado se soltasse do cabo e atingisse o companheiro, causando sua morte, seria uma situação diferente de alguém que procurasse matar por ódio.",
+        "O exemplo ajudava a comunidade a perceber que o resultado, embora igualmente triste, não explicava sozinho a intenção. Seria necessário considerar o que havia acontecido e se existia inimizade anterior. Os caminhos até as cidades deveriam ser preparados, para que a distância não impedisse uma pessoa de alcançar proteção.",
+        "A comunidade ouviria o caso e decidiria conforme as orientações recebidas. Uma única testemunha não seria suficiente para condenar alguém à morte. A cidade também não deveria servir de esconderijo para quem tivesse praticado uma violência intencional. Proteger uma avaliação justa e responsabilizar pelo mal faziam parte da mesma preocupação."
+      ],
+      "image": "102/part2.webp",
+      "alt": "Os líderes escutam cuidadosamente uma situação."
+    },
+    {
+      "heading": "Proteção também tinha responsabilidade",
+      "paragraphs": [
+        "Quando fosse reconhecido que a morte havia sido causada sem intenção, a pessoa deveria permanecer na cidade de refúgio até a morte do sumo sacerdote. Depois, poderia voltar à sua propriedade. Não era uma passagem rápida para esquecer o ocorrido, mas uma condição de proteção dentro das regras daquela comunidade antiga.",
+        "Essas orientações pertenciam à organização de Israel naquele tempo. Não são um convite para praticar vingança hoje. Ao ler a passagem, podemos perceber a preocupação em impedir que a raiva decida tudo antes de uma escuta cuidadosa. Uma dor já existente não deveria ser ampliada por um julgamento apressado.",
+        "As cidades de refúgio lembravam que a vida humana tinha valor e que acusações graves exigiam responsabilidade. Entre o primeiro impulso e a decisão, precisava existir espaço para ouvir. Uma comunidade aprende a cuidar melhor quando leva o sofrimento a sério sem abandonar a atenção aos fatos, à verdade e à proteção das pessoas."
+      ],
+      "image": "102/part3.webp",
+      "alt": "A vida continua dentro da cidade protegida."
+    }
+  ],
+  "lesson": "Julgar depressa pode machucar alguém e aumentar um conflito. As cidades de refúgio criavam espaço para examinar uma situação antes de uma vingança. Nos problemas do dia a dia, podemos evitar espalhar acusações, ouvir com atenção e procurar um adulto responsável quando houver perigo ou injustiça. Cuidar não significa esconder o que aconteceu. Significa buscar a verdade com responsabilidade, sem deixar que a raiva escolha sozinha a resposta.",
+  "question": "O que você pode fazer antes de repetir uma acusação que ouviu sobre outra pessoa?",
+  "prayer": "Deus de justiça, ajuda-me a ouvir antes de julgar e a não espalhar acusações sem cuidado. Ensina-nos a proteger quem está em perigo e a buscar a verdade com responsabilidade. Que a raiva não transforme uma dificuldade em mais sofrimento. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um viajante chega à cidade de refúgio e é recebido com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Refuge traveler adult olive-skinned man short brown beard ochre tunic blue-gray mantle. Elders wear modest cream brown and sage robes. Scene: Adult olive-skinned traveler in dusty ochre tunic blue-gray mantle reaches open stone gateway of ancient refuge city; two elderly leaders welcome him calmly, safe peaceful atmosphere, no weapons or pursuing figures."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés explica a orientação sobre as cidades.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Refuge traveler adult olive-skinned man short brown beard ochre tunic blue-gray mantle. Elders wear modest cream brown and sage robes. Scene: Moses speaks to attentive adult elders in desert camp, simple distant settlement beyond hills, serious caring expressions, no map or writing."
+    },
+    {
+      "role": "part2",
+      "alt": "Os líderes escutam cuidadosamente uma situação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Refuge traveler adult olive-skinned man short brown beard ochre tunic blue-gray mantle. Elders wear modest cream brown and sage robes. Scene: Three adult elders sit in shaded ancient city gate listening to adult traveler and another adult witness, fair thoughtful conversation, no chains guards weapons or injury."
+    },
+    {
+      "role": "part3",
+      "alt": "A vida continua dentro da cidade protegida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Refuge traveler adult olive-skinned man short brown beard ochre tunic blue-gray mantle. Elders wear modest cream brown and sage robes. Scene: Adult traveler in ochre tunic blue-gray mantle works peacefully weaving basket in stone city courtyard among ordinary residents, hopeful sunlight, city gate distant, no prison imagery."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+35%3A9-34&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A1-13&version=KJV"
+  ]
+}

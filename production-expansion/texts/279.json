@@ -1,0 +1,71 @@
+{
+  "id": 279,
+  "title": "A Rede Cheia de Peixes",
+  "subtitle": "Jesus ensina a confiar na justiça de Deus",
+  "reference": "Mateus 13:47–50",
+  "description": "Uma rede traz muitos peixes até a praia e ajuda os discípulos a pensar no Reino e na justiça final.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma rede lançada ao mar",
+      "paragraphs": [
+        "Perto do lago, redes de pesca faziam parte da paisagem e do trabalho de muitas famílias. Alguns discípulos de Jesus conheciam bem o peso das cordas molhadas e o esforço de trazer a pesca para a margem. Ao ensinar sobre o Reino dos céus, Jesus escolheu essa atividade como imagem para mais uma parábola.",
+        "Ele falou de uma rede lançada ao mar que recolhia peixes de toda espécie. A rede não atravessava a água trazendo apenas um tipo escolhido de antemão. Diferentes peixes ficavam reunidos nela. O movimento da pesca juntava aquilo que estava espalhado, até chegar o momento de puxar tudo para a praia.",
+        "A imagem era concreta: água, cordas, peixes e mãos trabalhando. Jesus ajudava seus ouvintes a compreender uma verdade maior a partir de algo que podiam visualizar. O Reino não estava sendo comparado a um peixe solitário, mas a uma rede que recolhia muitos. A história começava com esse alcance amplo e avançava até a margem."
+      ],
+      "alt": "Pescadores lançam uma rede nas águas do lago.",
+      "image": "279/part1.webp"
+    },
+    {
+      "heading": "O trabalho na praia",
+      "paragraphs": [
+        "Quando a rede ficou cheia, os pescadores a arrastaram para a praia. O trabalho não terminava no primeiro movimento de puxar as cordas. Era preciso trazer a pesca para terra e examinar o que havia nela. Então os homens se sentavam e começavam a separar os peixes, guardando os bons em recipientes.",
+        "Os peixes que não serviam eram deixados de lado. A parábola descrevia uma separação feita depois da pesca, quando a rede já estava fora da água. Não apresentava os peixes decidindo sozinhos o destino uns dos outros. Havia um momento próprio e pessoas encarregadas de realizar aquele trabalho, de acordo com o que conheciam.",
+        "A cena podia parecer comum aos pescadores entre os ouvintes de Jesus. Mas a comparação não terminava na organização da pesca. Ele estava falando sobre o Reino dos céus e encaminhava o pensamento para a justiça de Deus. O que havia sido reunido na mesma rede não permaneceria sem distinção para sempre."
+      ],
+      "alt": "Os pescadores recolhem a rede e organizam a pesca na areia.",
+      "image": "279/part2.webp"
+    },
+    {
+      "heading": "A justiça pertence a Deus",
+      "paragraphs": [
+        "Jesus explicou que assim aconteceria no fim dos tempos. Os anjos fariam a separação entre os maus e os justos. Suas palavras levavam a sério o mal e suas consequências. Deus não trataria a injustiça como se ela não importasse. A história humana caminhava para um encontro com sua justiça, e não para um esquecimento sem resposta.",
+        "Ao mesmo tempo, a explicação colocava essa decisão final nas mãos de Deus. Os discípulos não recebiam autorização para tratar pessoas como peixes descartáveis ou decidir, por conta própria, quem não tinha mais valor. A parábola os chamava a ouvir com seriedade e a reconhecer que Deus conhece o que os olhos humanos nem sempre conseguem perceber.",
+        "A rede e a praia guardavam um ensino firme. Pertencer a uma multidão que ouve Jesus não substitui uma resposta verdadeira ao que ele ensina. Cada pessoa era convidada a considerar suas atitudes e buscar o bem. A justiça final não precisava ser carregada nos ombros dos discípulos: eles podiam confiar naquele que julga com verdade."
+      ],
+      "alt": "Jesus explica a seus discípulos o significado da rede.",
+      "image": "279/part3.webp"
+    }
+  ],
+  "lesson": "Nossas atitudes têm importância, e a injustiça não é indiferente a Deus. A parábola ensina a levar o bem a sério e confiar nele quanto ao julgamento final. Isso não nos autoriza a descartar pessoas ou lhes negar ajuda. Podemos reconhecer comportamentos errados, buscar proteção e trabalhar pela justiça, lembrando que ninguém deve ser reduzido a um rótulo ou tratado com crueldade.",
+  "question": "Como você pode enfrentar uma atitude errada sem tratar a pessoa como alguém sem valor?",
+  "prayer": "Deus justo, ajuda-me a levar minhas escolhas a sério. Dá-me coragem para reconhecer o que está errado e buscar ajuda quando necessário. Livra meu coração da crueldade e dos julgamentos apressados. Ensina-me a fazer o bem e a confiar na tua justiça. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/279.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pescadores trazem uma rede cheia para a praia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration three adult Galilean fishermen in muted teal ochre brown tunics hauling wet fishing net with mixed small fish onto sandy lakeshore, wicker baskets and wooden boat, sunrise warm detailed 3D, no Jesus. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "A rede se abre sobre as águas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide dynamic view two adult fishermen casting large circular woven net from small first-century wooden boat onto calm Galilee water, warm morning sunlight, historically plausible natural action, no modern equipment. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "Os pescadores organizam a pesca na praia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Two adult fishermen kneeling beside open net on sandy beach carefully transferring small fish into wicker baskets, no blood or graphic detail, tactile rope and scales, warm natural light. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus conversa com seus discípulos junto à praia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle seated on low shore rock explaining to three adult disciples, folded fishing net and baskets beside them, quiet lake background, attentive serious but gentle expressions."
+    }
+  ]
+}

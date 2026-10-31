@@ -1,0 +1,71 @@
+{
+  "id": 169,
+  "title": "Josias Encontra o Livro",
+  "subtitle": "Uma descoberta que pedia mudança",
+  "reference": "2 Reis 22:1–13",
+  "description": "Durante os reparos do templo, um livro da lei é encontrado. Quando Josias ouve sua leitura, percebe que a comunidade precisa levar a sério o que havia deixado de seguir.",
+  "testament": "antigo",
+  "cover": "/images/covers/169.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Reparos na casa do Senhor",
+      "paragraphs": [
+        "Josias começou a reinar em Judá com oito anos. Sua história foi marcada pelo desejo de seguir o caminho do Senhor, apesar de erros de reis anteriores. No décimo oitavo ano de seu reinado, enviou o secretário Safã ao templo. Havia recursos reunidos pelo povo, e eles deveriam ser entregues aos responsáveis pelos reparos da casa.",
+        "O trabalho envolvia carpinteiros, construtores e pedreiros. Era preciso comprar madeira e pedras para consertar o que estava danificado. Cuidar do templo significava lidar com materiais e tarefas concretas, não apenas falar de sua importância. Os homens encarregados eram reconhecidos por agir com fidelidade no uso do que recebiam.",
+        "Durante essa organização, o sumo sacerdote Hilquias fez uma descoberta. Encontrou o livro da lei na casa do Senhor e o entregou a Safã. O secretário o leu. Entre recursos, obras e instrumentos, havia aparecido algo que exigia outro tipo de atenção: palavras capazes de mostrar como a vida do povo se relacionava com a aliança de Deus."
+      ],
+      "image": "169/part1.webp",
+      "alt": "Adultos trabalham nos reparos do templo enquanto Hilquias observa um rolo encontrado entre objetos guardados."
+    },
+    {
+      "heading": "A leitura chega ao rei",
+      "paragraphs": [
+        "Safã voltou à presença de Josias para prestar informações. Contou que o dinheiro fora entregue aos trabalhadores responsáveis pela obra. Depois acrescentou a notícia do livro encontrado por Hilquias. Não guardou a descoberta apenas como uma curiosidade de arquivo. Levou-a ao rei e leu o texto diante dele.",
+        "Josias ouviu. As palavras mostravam uma distância entre o compromisso recebido e a maneira como o povo vinha vivendo. O rei rasgou suas roupas, gesto de tristeza e arrependimento naquele tempo. A reação não se limitou a admirar um objeto antigo. Ele percebeu que o conteúdo tinha algo a dizer sobre o presente.",
+        "Um livro pode ser encontrado e continuar fechado. Pode também ser lido sem que ninguém queira considerar suas consequências. Josias escolheu escutar de um modo que o atingia. Sua posição de governante não lhe permitia tratar toda correção como ofensa. Se desejava conduzir a comunidade com fidelidade, precisava reconhecer aquilo que havia sido deixado para trás."
+      ],
+      "image": "169/part2.webp",
+      "alt": "Safã lê o livro para Josias, que escuta com atenção e tristeza."
+    },
+    {
+      "heading": "Procurar orientação",
+      "paragraphs": [
+        "Josias chamou Hilquias, Safã e outros homens de confiança. Pediu que consultassem o Senhor a respeito das palavras do livro, por ele e pelo povo. Reconheceu que seus antepassados não haviam obedecido ao que estava escrito. A descoberta trazia responsabilidade, e o rei não queria responder apenas com uma emoção passageira.",
+        "O grupo foi buscar orientação com a profetisa Hulda. A conversa com ela daria continuidade ao processo de compreender a mensagem e responder. Josias havia dado um passo importante antes disso: admitir que precisava ouvir. Não pediu que procurassem alguém para dizer somente que estava tudo bem ou para transformar o livro em um elogio ao seu governo.",
+        "Os reparos no templo continuavam necessários, mas a descoberta mostrara uma obra ainda mais profunda a considerar. Paredes podiam ser consertadas enquanto atitudes permaneciam erradas. O livro encontrado convidava a comunidade a cuidar também de seu caminho. Ler de verdade significaria permitir que a palavra orientasse decisões, relações e mudanças depois que a voz de Safã terminasse a leitura."
+      ],
+      "image": "169/part3.webp",
+      "alt": "Josias conversa com seus representantes sobre buscar orientação, com o rolo aberto sobre uma mesa."
+    }
+  ],
+  "lesson": "Aprender algo importante pode nos mostrar que precisamos mudar. Josias não tratou a leitura como uma cerimônia sem efeito. Podemos ouvir uma orientação, fazer perguntas e pensar em uma atitude concreta para colocar em prática. Também é bom reconhecer quando não entendemos tudo e buscar ajuda confiável. Um livro guardado com carinho tem mais valor quando seu conteúdo é lido com atenção, discutido com respeito e relacionado à maneira como vivemos.",
+  "question": "Que ensinamento você ouviu recentemente e gostaria de transformar numa atitude nesta semana?",
+  "prayer": "Deus, dá-nos atenção para aprender e humildade para reconhecer quando precisamos mudar. Ajuda-nos a fazer perguntas, buscar boas orientações e colocar em prática o que é justo e bondoso. Que nossas leituras e conversas nos aproximem de uma vida mais responsável. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Safã lê um rolo diante de Josias, que escuta com seriedade e atenção no palácio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Josiah young adult olive skin short dark curls neat beard deep blue royal robe simple circlet; Hilkiah older gray beard cream priest robe; Shaphan adult brown beard beige robe. Ancient scroll no legible writing temple repair and palace. Only named scene cast. Scene: Safã lê um rolo diante de Josias, que escuta com seriedade e atenção no palácio."
+    },
+    {
+      "role": "part1",
+      "alt": "Adultos trabalham nos reparos do templo enquanto Hilquias observa um rolo encontrado entre objetos guardados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Josiah young adult olive skin short dark curls neat beard deep blue royal robe simple circlet; Hilkiah older gray beard cream priest robe; Shaphan adult brown beard beige robe. Ancient scroll no legible writing temple repair and palace. Only named scene cast. Scene: Adultos trabalham nos reparos do templo enquanto Hilquias observa um rolo encontrado entre objetos guardados. MANDATORY SCENE CAST: Only Hilkiah and adult repair workers at the temple. King Josiah and Shaphan are absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Safã lê o livro para Josias, que escuta com atenção e tristeza.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Josiah young adult olive skin short dark curls neat beard deep blue royal robe simple circlet; Hilkiah older gray beard cream priest robe; Shaphan adult brown beard beige robe. Ancient scroll no legible writing temple repair and palace. Only named scene cast. Scene: Shaphan in beige robe and brown mantle reads an open ancient scroll to young adult King Josiah in blue robe with simple circlet. Josiah is standing near his chair listening with deep concern, one hand over his heart. Exactly these two men, no Hilkiah, no attendants, palace interior with woven blue curtains."
+    },
+    {
+      "role": "part3",
+      "alt": "Josias conversa com seus representantes sobre buscar orientação, com o rolo aberto sobre uma mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Josiah young adult olive skin short dark curls neat beard deep blue royal robe simple circlet; Hilkiah older gray beard cream priest robe; Shaphan adult brown beard beige robe. Ancient scroll no legible writing temple repair and palace. Only named scene cast. Scene: Josias conversa com seus representantes sobre buscar orientação, com o rolo aberto sobre uma mesa."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 59,
+  "title": "A Bênção de Efraim e Manassés",
+  "subtitle": "Uma bênção para as próximas gerações",
+  "reference": "Gênesis 48",
+  "description": "José leva Efraim e Manassés para visitar Jacó. O avô recorda o cuidado de Deus e abençoa os netos de uma maneira inesperada.",
+  "testament": "antigo",
+  "cover": "/images/covers/59.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita importante",
+      "paragraphs": [
+        "José recebeu a notícia de que seu pai estava doente. Levou seus dois filhos, Manassés e Efraim, para visitá-lo. Quando Jacó soube que José havia chegado, reuniu forças e se sentou na cama. A visita aproximava três gerações de uma família que tinha atravessado separação, fome, mudança de terra e reencontro.",
+        "Jacó começou recordando que Deus lhe aparecera em Luz, na terra de Canaã, e o havia abençoado. Falou da promessa de muitos descendentes e de uma terra para viver. Antes de olhar para o futuro dos netos, voltou à lembrança de uma palavra que recebera durante sua própria caminhada. A bênção vinha acompanhada de memória.",
+        "Ele declarou que Efraim e Manassés, nascidos no Egito antes de sua chegada, seriam reconhecidos como seus próprios filhos na herança da família, assim como Rúben e Simeão. Os meninos teriam lugar entre as tribos de Israel. Sua história não ficaria separada da família apenas porque tinham nascido em outra terra."
+      ],
+      "image": "59/part1.webp",
+      "alt": "José chega com seus dois filhos para visitar o pai."
+    },
+    {
+      "heading": "O abraço do avô",
+      "paragraphs": [
+        "Jacó enxergava mal por causa da idade. Ao perceber os filhos de José, perguntou quem eram. José explicou que eram os filhos que Deus lhe havia dado no Egito. O pai pediu que se aproximassem para abençoá-los. Eles chegaram perto, e Jacó os beijou e abraçou. A bênção começava também com acolhimento.",
+        "Jacó disse a José que não esperava tornar a ver seu rosto, e agora Deus lhe permitia conhecer até os seus filhos. O encontro lembrava quanto havia mudado desde os anos em que acreditava ter perdido José. Diante dele estavam duas pessoas de uma geração seguinte, trazendo uma alegria que antes parecia impossível imaginar.",
+        "José organizou os filhos diante do avô: Manassés, o mais velho, ficaria perto da mão direita de Jacó, e Efraim, o mais novo, da esquerda. Mas Jacó cruzou os braços. Colocou a mão direita sobre Efraim e a esquerda sobre Manassés. O gesto chamou a atenção de José, que pensou que o pai se confundira."
+      ],
+      "image": "59/part2.webp",
+      "alt": "Jacó abraça seus dois netos durante a visita."
+    },
+    {
+      "heading": "Um futuro nas mãos de Deus",
+      "paragraphs": [
+        "Jacó abençoou os netos, lembrando o Deus diante de quem Abraão e Isaque haviam caminhado e que o sustentara por toda a vida. Pediu que o cuidado recebido também os acompanhasse. Sua oração não falava apenas de conquistas. Falava de presença, proteção e continuidade de uma história de fé através das gerações.",
+        "José tentou corrigir a posição das mãos, explicando que Manassés era o primogênito. Jacó respondeu que sabia. Manassés também se tornaria um povo, mas o irmão mais novo teria um lugar maior naquela promessa. O gesto era intencional. A bênção não seguia simplesmente a ordem que todos esperavam a partir do nascimento.",
+        "Os dois receberam a bênção do avô. Jacó ainda disse a José que Deus estaria com sua família e os faria voltar à terra de seus antepassados. Ele estava perto do fim da vida, mas a promessa continuaria. Aquele quarto guardou um encontro de memória e esperança, em que um homem idoso confiou a Deus a geração que seguiria adiante."
+      ],
+      "image": "59/part3.webp",
+      "alt": "Jacó cruza as mãos sobre os netos, e José observa atentamente."
+    }
+  ],
+  "lesson": "Ouvir pessoas mais velhas pode nos ajudar a conhecer a história da família. Podemos perguntar sobre lembranças, aprendizados e momentos de cuidado. Também é bom lembrar que irmãos e amigos não precisam ter caminhos iguais para terem o mesmo valor. A bênção de Jacó fazia parte de uma promessa específica; não justifica preferências injustas. Cada criança merece carinho, proteção e espaço para desenvolver suas capacidades.",
+  "question": "Que pergunta você gostaria de fazer a uma pessoa mais velha sobre a história da sua família?",
+  "prayer": "Deus, obrigado pelas gerações que vieram antes de nós e por quem cuida de nossa história. Ensina-nos a ouvir com carinho e a respeitar os diferentes caminhos de cada pessoa. Acompanha as crianças e os mais velhos com tua paz e teu cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jacó abençoa Efraim e Manassés, com José ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Jacob very elderly white beard olive-gray robe blue mantle. Manasseh older teen dark curls beige tunic russet sash; Ephraim younger teen dark curls cream tunic muted green sash; both fully clothed. Scene: Very elderly Jacob seated upright on simple bed blesses two young male descendants with crossed forearms, Joseph beside them, tender Egyptian domestic room, no medical distress."
+    },
+    {
+      "role": "part1",
+      "alt": "José chega com seus dois filhos para visitar o pai.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Jacob very elderly white beard olive-gray robe blue mantle. Manasseh older teen dark curls beige tunic russet sash; Ephraim younger teen dark curls cream tunic muted green sash; both fully clothed. Scene: Joseph enters peaceful room with his two adolescent sons, elderly Jacob seated on bed looks toward them, warm light, safe family visit."
+    },
+    {
+      "role": "part2",
+      "alt": "Jacó abraça seus dois netos durante a visita.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Jacob very elderly white beard olive-gray robe blue mantle. Manasseh older teen dark curls beige tunic russet sash; Ephraim younger teen dark curls cream tunic muted green sash; both fully clothed. Scene: Elderly Jacob seated embraces two teenage grandsons standing close, Joseph watches gratefully, intimate family composition."
+    },
+    {
+      "role": "part3",
+      "alt": "Jacó cruza as mãos sobre os netos, e José observa atentamente.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Jacob very elderly white beard olive-gray robe blue mantle. Manasseh older teen dark curls beige tunic russet sash; Ephraim younger teen dark curls cream tunic muted green sash; both fully clothed. Scene: Clear medium shot Jacob seated with hands crossed to bless two teenage boys, Joseph gently gestures in surprise, anatomy clear four characters only."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+48&version=KJV"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 216,
+  "title": "Melhor Caminhar Acompanhado",
+  "subtitle": "A força de ajudar e receber ajuda",
+  "reference": "Eclesiastes 4:9–12",
+  "description": "O trabalho, a caminhada e uma corda trançada mostram o valor da companhia e da cooperação.",
+  "testament": "antigo",
+  "cover": "/images/covers/216.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Dois podem realizar juntos",
+      "paragraphs": [
+        "Eclesiastes observa a vida com atenção e faz perguntas sobre aquilo que realmente tem valor. Em um de seus ensinamentos, o livro destaca a importância da companhia. Duas pessoas podem realizar um trabalho juntas e aproveitar o resultado compartilhado. O esforço encontra outra alegria quando também serve para aproximar os corações.",
+        "Quem trabalha em companhia pode repartir tarefas, trocar ideias e perceber algo que passou despercebido ao outro. Uma pessoa segura enquanto a outra ajusta; uma lembra enquanto a outra organiza. A cooperação reúne habilidades diferentes. Cada contribuição tem seu lugar, e o resultado carrega um pouco do cuidado de todos os envolvidos.",
+        "Esse ensino pode acompanhar uma atividade em família ou um trabalho da escola. Quando combinamos o que cada um fará, a tarefa ganha clareza. Quando escutamos uma ideia diferente, podemos descobrir uma solução melhor. O texto nos convida a reconhecer a riqueza de fazer algo com alguém e para alguém."
+      ],
+      "image": "216/part1.webp",
+      "alt": "Uma família coopera para organizar cestos"
+    },
+    {
+      "heading": "Uma mão para levantar",
+      "paragraphs": [
+        "A próxima imagem é a de uma queda. Se uma pessoa cair e tiver companhia, outra poderá ajudá-la a se levantar. O exemplo é simples e concreto. Numa caminhada, um tropeço pode mostrar o valor de ter alguém por perto, atento ao que acontece e disposto a oferecer a mão.",
+        "Também existem momentos em que precisamos levantar por dentro. Uma tentativa que deu errado pode trazer desânimo; uma dificuldade pode parecer grande demais. A companhia cuidadosa ajuda a recuperar a coragem. Às vezes oferece uma ideia; em outras ocasiões, fica perto e lembra que podemos pedir apoio para continuar.",
+        "Eclesiastes menciona ainda o calor compartilhado e a proteção que a companhia pode oferecer. São imagens da vida cotidiana que revelam uma mesma descoberta: cuidar uns dos outros fortalece o caminho. Receber ajuda faz parte dessa relação, assim como oferecê-la quando temos condições e aprendemos a perceber a necessidade."
+      ],
+      "image": "216/part2.webp",
+      "alt": "Um amigo oferece a mão a outro junto ao caminho"
+    },
+    {
+      "heading": "Fios que ganham resistência",
+      "paragraphs": [
+        "O ensinamento termina com uma corda de três fios, que oferece mais resistência quando suas partes estão bem unidas. Podemos imaginar os fios sendo trançados, cada um passando junto aos outros. O resultado mostra como a união acrescenta força. A imagem reúne, de maneira bonita, as lições sobre trabalho e companhia.",
+        "Na convivência, esses fios podem lembrar gestos que se apoiam: escuta, respeito e disposição para ajudar. Uma família ou um grupo precisa cuidar dessas relações. Cada pessoa continua tendo sua voz e seu valor, enquanto todos aprendem a combinar esforços. A força cresce junto com a confiança construída no dia a dia.",
+        "Podemos procurar hoje uma oportunidade de cooperar. Talvez alguém precise segurar uma ponta, ouvir uma explicação ou receber um incentivo. Talvez nós mesmos precisemos pedir uma mão. O ensino de Eclesiastes nos encoraja a acolher essas trocas. Um caminho compartilhado pode trazer trabalho bem feito, coragem renovada e a alegria de pertencer."
+      ],
+      "image": "216/part3.webp",
+      "alt": "Três fios formam uma corda resistente"
+    }
+  ],
+  "lesson": "Pedir ajuda e oferecer ajuda são maneiras de cuidar da convivência. Eclesiastes mostra o valor de ter companhia no trabalho e nas dificuldades. Você pode cooperar com uma tarefa simples, ouvir uma ideia e reconhecer quando precisa de apoio. Pense em alguém com quem divide o dia. Uma atitude de respeito e colaboração pode fortalecer esse vínculo, como fios que formam uma corda resistente.",
+  "question": "Em que tarefa você pode cooperar com alguém ou pedir uma ajuda hoje?",
+  "prayer": "Deus, obrigado pelas pessoas que caminham comigo. Ensina-me a cooperar, a escutar e a reconhecer quando preciso de ajuda. Dá-me atenção para perceber quem precisa de companhia. Que nossos gestos de respeito fortaleçam a amizade e o cuidado entre nós. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebpb/ECC04.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Duas pessoas ajudam uma à outra numa caminhada",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative Ecclesiastes scene: two ordinary ancient Hebrew adult friends on a broad hillside path, one offering a hand to help the other rise after a harmless stumble, warm caring expressions, safe ground, no injury.  Character identity: helper olive skin, dark curly hair and short beard, muted teal tunic and brown sash; companion brown skin, dark curls and beard, rust tunic and beige mantle. Same faces across scenes."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma família coopera para organizar cestos",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family working together in courtyard to sort harvested fruit into wicker baskets, children doing small light tasks, adults sharing work, warm cooperative faces, detailed linen and natural textures.  The same teal-clothed adult from the cover works with his wife in an ochre dress and cream headscarf and their two children."
+    },
+    {
+      "role": "part2",
+      "alt": "Um amigo oferece a mão a outro junto ao caminho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close gentle moment of two ordinary ancient Hebrew friends, one seated on low rock catching breath and other offering supportive hand, safe trail and olive grove, compassionate eye contact, no peril.  Character identity: helper olive skin, dark curly hair and short beard, muted teal tunic and brown sash; companion brown skin, dark curls and beard, rust tunic and beige mantle. Same faces across scenes."
+    },
+    {
+      "role": "part3",
+      "alt": "Três fios formam uma corda resistente",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Detailed close-up of three natural flax cords being braided by adult hands on a rustic ancient wooden workbench, completed thick braid visible beside separate ends, warm light, no letters, no diagrams or panels. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,3 +1,4 @@
+import { isStoryId } from "../shared/collection.mjs";
 export function normalize(value = "") {
   return String(value)
     .normalize("NFD")
@@ -24,9 +25,7 @@ export function cleanProgress(raw) {
   for (const [key, val] of Object.entries(raw)) {
     const id = Number(key);
     if (
-      !Number.isInteger(id) ||
-      id < 1 ||
-      id > 40 ||
+      !isStoryId(id) ||
       !val ||
       typeof val !== "object"
     )

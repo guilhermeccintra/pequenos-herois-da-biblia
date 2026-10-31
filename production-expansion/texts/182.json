@@ -1,0 +1,74 @@
+{
+  "id": 182,
+  "title": "Muitas Mãos, Uma Muralha",
+  "subtitle": "O valor da parte de cada um",
+  "reference": "Neemias 3",
+  "description": "Sacerdotes, artesãos, famílias e moradores de outras cidades participam da obra. Cada trecho reconstruído ajuda a formar a muralha de Jerusalém.",
+  "testament": "antigo",
+  "cover": "/images/covers/182.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Ao lado de alguém",
+      "paragraphs": [
+        "A reconstrução das muralhas de Jerusalém começou a reunir pessoas de muitos lugares e profissões. Neemias havia convidado o povo a trabalhar, e agora os trechos da cidade recebiam responsáveis. O capítulo que conta essa etapa tem muitos nomes. São nomes de gente que colocou tempo, força e habilidade a serviço de uma tarefa compartilhada.",
+        "O sacerdote Eliasibe e seus companheiros trabalharam na Porta das Ovelhas. Levantaram as portas e dedicaram aquele trecho. Perto deles estavam os homens de Jericó; ao lado, Zacur realizava sua parte. A expressão de trabalhar ao lado de alguém aparece muitas vezes. A muralha crescia porque um trecho encontrava o seguinte.",
+        "Outras famílias cuidaram da Porta dos Peixes, colocando vigas, portas, ferrolhos e trancas. Não bastava erguer pedras: os portões precisavam funcionar. Cada detalhe fazia diferença para a cidade. Quem passava por ali no futuro talvez não soubesse o nome de todos os trabalhadores, mas dependeria do cuidado que eles estavam colocando na obra."
+      ],
+      "image": "182/part1.webp",
+      "alt": "Trabalhadores ajustam as portas e vigas de um portão de Jerusalém."
+    },
+    {
+      "heading": "Profissões diferentes, um propósito",
+      "paragraphs": [
+        "Entre os participantes havia ourives, que trabalhavam com metais preciosos, e perfumistas, acostumados a outro tipo de habilidade. Também havia líderes de distritos, sacerdotes, levitas e comerciantes. A lista mostra que a reconstrução não pertencia a uma única profissão. Pessoas diferentes encontraram uma parte da tarefa em que podiam colaborar.",
+        "Salum, responsável por metade de um distrito de Jerusalém, trabalhou com suas filhas. O texto faz questão de mencioná-las entre os construtores. Outras pessoas repararam os trechos próximos de suas próprias casas. Cuidar do lugar onde viviam se ligava ao cuidado de toda a cidade, porque uma muralha tem partes diferentes, mas precisa permanecer unida.",
+        "O relato também registra uma dificuldade: os nobres de Tecoa não quiseram participar do trabalho. Nem todos responderam da mesma maneira. Ainda assim, os moradores de Tecoa ajudaram e chegaram a reconstruir outro trecho. A falta de disposição de algumas pessoas não apagou a contribuição cuidadosa das outras."
+      ],
+      "image": "182/part2.webp",
+      "alt": "Salum e suas filhas participam da reconstrução."
+    },
+    {
+      "heading": "Uma história feita de nomes",
+      "paragraphs": [
+        "Alguns trechos incluíam torres, escadas, tanques e lugares próximos dos portões. A lista acompanha a muralha pela cidade e mostra trabalhadores em cada ponto. Baruc é lembrado pelo entusiasmo com que reparou sua parte. Outros aparecem ao lado de vizinhos, parentes ou pessoas que compartilhavam uma responsabilidade no serviço do templo.",
+        "Podemos achar uma lista de nomes menos emocionante do que uma grande aventura. Mas, para aquela comunidade, cada nome guardava uma contribuição real. A muralha não foi levantada por uma única pessoa extraordinária. Foi reconstruída com o esforço de muita gente, incluindo pessoas que quase não aparecem em outras páginas da Bíblia.",
+        "No fim do percurso, os ourives e comerciantes trabalharam no trecho que voltava à Porta das Ovelhas. As partes se encontravam. O capítulo termina sem entregar toda a honra a um só trabalhador. Deixa uma lembrança mais ampla: quando uma tarefa é compartilhada, o cuidado com a própria parte pode proteger e beneficiar pessoas que estão muito além de nossa porta."
+      ],
+      "image": "182/part3.webp",
+      "alt": "Os trechos reconstruídos se unem ao redor da cidade."
+    }
+  ],
+  "lesson": "Em uma tarefa de grupo, nenhuma contribuição cuidadosa precisa ser desprezada. Quem organiza materiais, escuta ideias ou termina uma parte pequena ajuda o conjunto. Também é importante dividir o trabalho de modo justo e respeitar as possibilidades de cada pessoa. Podemos reconhecer quem costuma ficar sem elogios e agradecer por sua ajuda. Trabalhar juntos não significa todos fazerem a mesma coisa, mas todos serem tratados com valor.",
+  "question": "Quem fez uma parte importante de uma tarefa e merece receber seu agradecimento?",
+  "prayer": "Deus, obrigado pelas habilidades diferentes que existem entre nós. Ajuda-nos a dividir as tarefas com justiça, oferecer o que podemos e reconhecer a contribuição de cada pessoa. Ensina-nos a trabalhar com alegria e a agradecer também pelas ajudas que quase ninguém percebe. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Homens e mulheres trabalham em diferentes trechos da muralha.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Wide ancient Jerusalem wall construction scene with adult men and women cooperating safely, some pass small stones, others align timber gates, no children handling heavy tools, warm golden light. Ancient Judean adult workers have diverse olive to deep brown skin, practical cream, teal and ochre linen robes."
+    },
+    {
+      "role": "part1",
+      "alt": "Trabalhadores ajustam as portas e vigas de um portão de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult ancient carpenters carefully align a sturdy wooden gate and iron bolts with stone doorway, nearby priests observe respectfully, richly detailed wood grain and linen, morning light. Ancient Judean adult workers have diverse olive to deep brown skin, practical cream, teal and ochre linen robes."
+    },
+    {
+      "role": "part2",
+      "alt": "Salum e suas filhas participam da reconstrução.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Shallum and his adult daughters carefully work together repairing a low ancient stone wall, one daughter checks alignment while another brings a basket of small stones, capable respectful expressions. Ancient Judean adult workers have diverse olive to deep brown skin, practical cream, teal and ochre linen robes. Shallum is a mature gray bearded man; his daughters are adult women in practical fully covering linen dresses and headscarves."
+    },
+    {
+      "role": "part3",
+      "alt": "Os trechos reconstruídos se unem ao redor da cidade.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Hopeful panoramic view of ancient Jerusalem wall sections joining, adult neighbors from different trades greeting each other near completed stonework, warm evening light, no modern architecture. Ancient Judean adult workers have diverse olive to deep brown skin, practical cream, teal and ochre linen robes."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 242,
+  "title": "João Prepara o Caminho",
+  "subtitle": "Uma mudança que aparece nas atitudes",
+  "reference": "Lucas 3:1–18",
+  "description": "Perto do rio Jordão, João chama as pessoas a mudar de vida. Suas respostas mostram como partilha, honestidade e respeito fazem parte dessa preparação.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.3.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma voz perto do rio",
+      "paragraphs": [
+        "João, filho de Zacarias, já havia crescido. A palavra de Deus veio a ele no deserto, e ele passou a percorrer a região do rio Jordão. Sua mensagem convidava as pessoas ao arrependimento. Arrepender-se não era apenas sentir vergonha por um erro. Era reconhecer o que estava errado e mudar a direção da própria vida.",
+        "João batizava com água e anunciava o perdão. Lucas relaciona sua missão às palavras do profeta Isaías sobre preparar o caminho do Senhor. A imagem lembrava uma estrada que precisa ficar pronta para a chegada de alguém importante. Nesse caso, a preparação acontecia também no coração e nas escolhas das pessoas.",
+        "Muita gente vinha ouvi-lo. João falava com seriedade: não bastava confiar no nome da família ou dizer que pertencia ao povo de Abraão. Uma árvore é reconhecida pelos frutos que produz. Da mesma maneira, uma mudança sincera deveria aparecer na maneira de tratar os outros, e não somente em palavras bonitas."
+      ],
+      "alt": "João ensina uma multidão nas proximidades do rio Jordão.",
+      "image": "242/part1.webp"
+    },
+    {
+      "heading": "O que devemos fazer?",
+      "paragraphs": [
+        "As pessoas perguntavam o que deveriam fazer. João respondeu de maneira prática: quem tivesse duas túnicas deveria repartir com quem não tinha nenhuma. Quem tivesse alimento também deveria compartilhar. A preparação para receber o Senhor chegava ao armário e à mesa. Havia gente precisando de coisas que outras pessoas tinham de sobra.",
+        "Cobradores de impostos também se aproximaram. Queriam saber o que fazer em seu trabalho. João disse que não deveriam cobrar além do que estava determinado. A resposta apontava para a honestidade. Não era aceitável usar uma posição de autoridade para tirar mais dinheiro das pessoas e guardar a diferença para si.",
+        "Alguns soldados fizeram a mesma pergunta. João os orientou a não praticar violência, a não fazer acusações falsas e a se contentar com seu pagamento. Eles tinham força e poder, mas isso não lhes dava o direito de ameaçar ninguém. Mudar de vida incluía abandonar a intimidação e tratar as pessoas com justiça."
+      ],
+      "alt": "João orienta pessoas a compartilhar roupas e alimentos.",
+      "image": "242/part2.webp"
+    },
+    {
+      "heading": "Alguém maior estava chegando",
+      "paragraphs": [
+        "O povo estava cheio de expectativa. Algumas pessoas se perguntavam se João seria o Cristo, o Salvador esperado. Ele não aproveitou a dúvida para receber uma honra que não lhe pertencia. Explicou que batizava com água, mas que alguém muito mais poderoso estava para chegar. Sua tarefa era preparar, não ocupar o lugar desse outro.",
+        "João disse que nem era digno de desamarrar as correias das sandálias daquele que viria. Era uma maneira forte de expressar sua humildade diante de Jesus. Também anunciou que ele batizaria com o Espírito Santo. A mensagem chamava as pessoas a levar a sério o encontro com Deus e a transformação de suas vidas.",
+        "Com muitas outras orientações, João anunciava boas notícias ao povo. O caminho ficava preparado quando a escuta se tornava atitude: uma roupa repartida, uma cobrança honesta, uma ameaça abandonada. Perto do Jordão, as pessoas aprendiam que esperar pelo Senhor não significava ficar parado. Havia escolhas de amor e justiça para fazer naquele dia."
+      ],
+      "alt": "João aponta para o caminho enquanto as pessoas escutam com atenção.",
+      "image": "242/part3.webp"
+    }
+  ],
+  "lesson": "Uma boa intenção se torna visível em atitudes pequenas e concretas. Podemos separar, com um responsável, roupas em bom estado para doar, repartir o que é nosso e agir com honestidade nas brincadeiras. Quem tem mais força ou facilidade não deve usar isso para humilhar. João nos convida a olhar para a vida de hoje e escolher um passo verdadeiro de mudança, sem ficar apenas na promessa.",
+  "question": "Que atitude concreta pode mostrar hoje uma mudança que você deseja fazer?",
+  "prayer": "Deus, ajuda-nos a transformar boas intenções em cuidado de verdade. Ensina-nos a repartir, a falar com honestidade e a usar nossa força para ajudar. Dá-nos coragem para reconhecer erros e começar de novo com atitudes mais justas e generosas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/242.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "João conversa com pessoas à margem do Jordão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. John the Baptist lean adult man olive skin curly dark hair full beard rough camel-hair brown garment leather belt stands beside Jordan river teaching varied listeners, reeds and calm water, earnest warm face, no Jesus present."
+    },
+    {
+      "role": "part1",
+      "alt": "João ensina uma multidão nas proximidades do rio Jordão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide scene John Baptist curly dark hair full beard camel-hair garment leather belt speaking beside Jordan to attentive families and workers, detailed riverbank stones reeds and distant hills, morning sunlight."
+    },
+    {
+      "role": "part2",
+      "alt": "João orienta pessoas a compartilhar roupas e alimentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. John Baptist camel-hair garment gestures gently while one adult hands spare folded tunic to another and a family shares bread from basket beside river, respectful equal dignity, warm hopeful faces, no text."
+    },
+    {
+      "role": "part3",
+      "alt": "João aponta para o caminho enquanto as pessoas escutam com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. John Baptist curly hair beard camel-hair garment humbly gestures along riverside path while group listens, one soldier helmet under arm and a tax collector among ordinary listeners, no weapons raised, golden light."
+    }
+  ]
+}

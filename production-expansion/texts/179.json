@@ -1,0 +1,74 @@
+{
+  "id": 179,
+  "title": "A Notícia que Fez Neemias Orar",
+  "subtitle": "Quando a tristeza se transforma em cuidado",
+  "reference": "Neemias 1",
+  "description": "Neemias recebe notícias difíceis sobre Jerusalém. Longe da cidade, começa a ajudar de um modo simples e profundo: escutando, chorando e orando.",
+  "testament": "antigo",
+  "cover": "/images/covers/179.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma pergunta sincera",
+      "paragraphs": [
+        "Neemias vivia na fortaleza de Susã e trabalhava como copeiro do rei. Sua tarefa o colocava perto da corte, num lugar importante do reino. Ainda assim, ele se interessava pelo que acontecia longe dali. Quando seu irmão Hanani chegou com alguns homens vindos de Judá, Neemias quis saber como estavam o povo e a cidade de Jerusalém.",
+        "A pergunta não era apenas uma maneira de começar a conversa. Neemias ouviu com atenção a resposta dos visitantes. Eles disseram que os moradores de lá passavam por grande sofrimento e humilhação. As muralhas continuavam derrubadas, e os portões haviam sido queimados. A cidade precisava de proteção e de um trabalho sério de reconstrução.",
+        "Essas notícias atravessaram a distância entre Jerusalém e Susã. Neemias não podia enxergar as ruas da cidade de onde estava, mas podia escutar quem estivera lá. Ao receber o relato, não tratou a dificuldade como um problema sem importância só porque acontecia longe de seu trabalho e de sua rotina."
+      ],
+      "image": "179/part1.webp",
+      "alt": "Hanani e os viajantes chegam a Susã para falar com Neemias."
+    },
+    {
+      "heading": "Uma oração sem fingimento",
+      "paragraphs": [
+        "Neemias se sentou e chorou. Durante vários dias ficou triste, jejuou e orou diante do Deus dos céus. O livro não o apresenta como alguém que nunca se abala. Antes de liderar qualquer obra, ele foi uma pessoa tocada pelo sofrimento de outras pessoas. Sua oração nasceu dessa atenção ao que havia ouvido.",
+        "Começou lembrando quem Deus era: grande, fiel e cuidadoso com sua aliança. Pediu que o Senhor ouvisse a oração feita pelo povo. Também reconheceu os erros de Israel e incluiu a si mesmo e à sua família nessa confissão. Não usou a oração apenas para apontar o dedo para pessoas distantes ou para se considerar melhor do que elas.",
+        "Neemias recordou as palavras dadas por meio de Moisés sobre o afastamento do povo e sobre a possibilidade de voltar a Deus. Mesmo quando os dispersos estivessem muito longe, o Senhor poderia reuni-los. A oração olhava com honestidade para os erros, mas também se apoiava na esperança de uma relação restaurada."
+      ],
+      "image": "179/part2.webp",
+      "alt": "Neemias ora em um lugar tranquilo depois de receber notícias difíceis."
+    },
+    {
+      "heading": "Preparar o próximo passo",
+      "paragraphs": [
+        "Ele lembrou que Israel era o povo que Deus havia resgatado com seu poder. Pediu que o Senhor atendesse não apenas à sua oração, mas também à de outros servos que desejavam honrá-lo. Neemias estava longe, porém não se via como a única pessoa preocupada ou capaz de fazer alguma coisa. Havia uma história e uma comunidade maiores do que ele.",
+        "No final da oração, fez um pedido ligado ao futuro: que Deus lhe desse bom êxito e favor diante daquele homem. O texto logo esclarece que Neemias era copeiro do rei. Ele começava a se preparar para uma conversa importante. A tristeza não desaparecera, mas já se aproximava de uma atitude que poderia ajudar.",
+        "O primeiro capítulo termina antes do pedido ao rei e antes de qualquer pedra ser colocada no muro. Mesmo assim, a reconstrução já encontrava um começo. Neemias perguntou, ouviu, permitiu-se sentir e levou a situação a Deus. Depois precisaria agir. Por enquanto, aprendia a transformar uma notícia dolorosa em atenção, oração e disposição para servir."
+      ],
+      "image": "179/part3.webp",
+      "alt": "Neemias contempla os portões do palácio enquanto se prepara para agir."
+    }
+  ],
+  "lesson": "Quando alguém conta uma dificuldade, podemos começar ouvindo com atenção. Nem sempre teremos uma solução imediata, e não precisamos fingir que sabemos resolver tudo. Podemos conversar com um adulto de confiança, orar e procurar uma ajuda possível. Sentir tristeza pelo sofrimento de outra pessoa não é fraqueza. Esse sentimento pode nos ensinar a cuidar, desde que não tentemos carregar sozinhos uma responsabilidade grande demais.",
+  "question": "Quando alguém conta que está passando por um momento difícil, como você pode mostrar que está ouvindo?",
+  "prayer": "Deus, ajuda-nos a perceber quem precisa de cuidado. Ensina-nos a escutar com atenção e a conversar contigo sobre o que nos entristece. Mostra-nos pessoas seguras a quem pedir ajuda e atitudes possíveis para oferecer apoio sem tentar resolver tudo sozinhos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH01.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias escuta com atenção as notícias trazidas por Hanani.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah and Hanani seated in a quiet Persian palace courtyard, Hanani in dusty travel cloak explains news with serious gentle gestures, Nehemiah listens compassionately, warm subdued afternoon light. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle. Hanani has brown skin, short curly dark hair and dusty brown travel cloak."
+    },
+    {
+      "role": "part1",
+      "alt": "Hanani e os viajantes chegam a Susã para falar com Neemias.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Hanani and two weary adult travelers are greeted by Nehemiah at a modest entrance inside Susa palace complex, travel bags and dusty sandals, welcoming thoughtful faces. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle. Hanani has brown skin, short curly dark hair and dusty brown travel cloak."
+    },
+    {
+      "role": "part2",
+      "alt": "Neemias ora em um lugar tranquilo depois de receber notícias difíceis.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah alone seated on a low bench beside an open window, hands folded in prayer and a tear on his cheek, quiet oil lamp, gentle dusk, compassionate not despairing mood. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Neemias contempla os portões do palácio enquanto se prepara para agir.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah standing calmly in a shaded palace passage holding a simple serving cup, looking toward distant audience hall, thoughtful determined expression, warm light and ancient carved stone. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

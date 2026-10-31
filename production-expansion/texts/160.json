@@ -1,0 +1,71 @@
+{
+  "id": 160,
+  "title": "A Menina que Falou de Esperança",
+  "subtitle": "Uma voz pequena que foi ouvida",
+  "reference": "2 Reis 5:1–7",
+  "description": "Uma menina israelita vive longe de casa, servindo na família de Naamã. Ao saber de sua doença, fala sobre Eliseu e abre um caminho de busca por ajuda.",
+  "testament": "antigo",
+  "cover": "/images/covers/160.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Longe de sua terra",
+      "paragraphs": [
+        "Naamã era comandante do exército da Síria e muito respeitado por seu rei. Tinha prestígio e era conhecido por suas vitórias, mas sofria de uma doença de pele. Sua posição não o tornava livre de fragilidade. Dentro de sua casa, as pessoas conviviam com essa preocupação, inclusive uma menina que havia chegado ali de maneira dolorosa.",
+        "Durante uma incursão, soldados sírios haviam levado a menina da terra de Israel. Ela passou a servir à esposa de Naamã, longe de sua família e de sua casa. A mudança fora dolorosa e injusta. Ao redor dela havia outros costumes, outras vozes e uma casa que ainda não conhecia, mas suas lembranças de Israel continuavam presentes.",
+        "Mesmo nessa situação, a menina tinha uma memória importante de sua terra. Sabia que em Samaria havia um profeta ligado ao Senhor. Ao perceber a doença de Naamã, falou com sua senhora. Sua voz era a de alguém socialmente pouco importante, mas o que tinha a dizer abriria um caminho que os recursos do comandante ainda não haviam encontrado."
+      ],
+      "image": "160/part1.webp",
+      "alt": "Naamã e sua esposa conversam num pátio da casa, com expressão de preocupação serena."
+    },
+    {
+      "heading": "Uma informação compartilhada",
+      "paragraphs": [
+        "A menina disse à esposa de Naamã que desejava vê-lo diante do profeta que estava em Samaria. Ela confiava que ele poderia curá-lo. Suas palavras traziam uma possibilidade que a família ainda não havia procurado. A mulher escutou a jovem serva, e a notícia chegou até Naamã, que começaria a se preparar para uma viagem.",
+        "Naamã contou ao rei o que a menina de Israel havia dito. O governante apoiou a viagem e preparou uma carta ao rei de Israel. A notícia percorreu um caminho inesperado: de uma criança que servia numa casa até a conversa entre um comandante e um rei. A posição da menina não impediu que suas palavras fossem consideradas.",
+        "Naamã partiu levando prata, ouro e roupas de festa. Eram presentes valiosos, próprios de uma visita entre pessoas poderosas naquele tempo. Ele tinha recursos para transportar e autoridade para ser recebido. Mas a direção inicial de sua busca não viera desses bens. Viera de uma voz pequena, de alguém cuja própria vida havia sido marcada pela falta de poder."
+      ],
+      "image": "160/part2.webp",
+      "alt": "A esposa de Naamã se inclina para escutar a menina, que aponta uma direção com esperança."
+    },
+    {
+      "heading": "O caminho ainda precisava ser encontrado",
+      "paragraphs": [
+        "Quando a carta chegou, o rei de Israel ficou alarmado. O texto pedia que curasse Naamã, e ele sabia que não tinha poder para dar vida ou tirar uma doença daquela maneira. Pensou que o rei sírio procurava um motivo para conflito. A mensagem havia chegado ao governante, mas a menina falara de um profeta, não de uma capacidade especial do palácio.",
+        "O mal-entendido mostrava que a busca ainda precisaria encontrar o endereço certo. A história continuaria com Eliseu, com a resistência de Naamã e com uma aprendizagem sobre ouvir orientações simples. Naquele primeiro momento, porém, o passo decisivo já havia acontecido: alguém compartilhara uma informação de esperança, e outras pessoas tinham permitido que ela fosse ouvida.",
+        "O nome da menina ficou desconhecido, mas suas palavras tinham atravessado a casa e chegado ao rei da Síria. Naamã estava a caminho de Israel por causa da esperança que ela compartilhara. A jovem continuava longe de sua própria terra, levando consigo a memória do Senhor e a confiança no profeta de quem havia falado."
+      ],
+      "image": "160/part3.webp",
+      "alt": "O rei de Israel lê a carta trazida por Naamã e fica preocupado com o pedido."
+    }
+  ],
+  "lesson": "A menina tinha pouca importância aos olhos daquela casa, mas sua voz trouxe uma informação valiosa. Ela se lembrou do profeta de sua terra e falou com esperança. Podemos aprender a escutar as pessoas que costumam ficar de lado e reconhecer que cada uma tem algo a compartilhar. Um gesto de bondade pode começar com poucas palavras. Deus conhece também quem parece pequeno e nos ensina a tratar todos com atenção e respeito.",
+  "question": "Como você pode ajudar para que uma pessoa menos ouvida tenha espaço para falar no seu grupo?",
+  "prayer": "Deus, protege as crianças que vivem longe de casa, em guerras ou em situações de exploração. Ajuda os adultos a garantir seu cuidado e sua segurança. Ensina-nos a escutar cada pessoa com respeito e a reconhecer o valor de vozes que muitas vezes são esquecidas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A menina conversa com a esposa de Naamã num jardim tranquilo, sendo ouvida com atenção e respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Israelite girl about ten olive skin dark braids simple cream tunic muted green sash, dignified confident expression; Naaman adult Syrian brown skin dark beard blue commander robe without weapons; wife adult brown skin terracotta dress cream veil. Respectful safe domestic conversation, no captivity imagery or illness symptoms. Only scene named cast. Scene: A menina conversa com a esposa de Naamã num jardim tranquilo, sendo ouvida com atenção e respeito."
+    },
+    {
+      "role": "part1",
+      "alt": "Naamã e sua esposa conversam num pátio da casa, com expressão de preocupação serena.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Israelite girl about ten olive skin dark braids simple cream tunic muted green sash, dignified confident expression; Naaman adult Syrian brown skin dark beard blue commander robe without weapons; wife adult brown skin terracotta dress cream veil. Respectful safe domestic conversation, no captivity imagery or illness symptoms. Only scene named cast. Scene: Naamã e sua esposa conversam num pátio da casa, com expressão de preocupação serena. MANDATORY SCENE CAST: Only adult Naaman and his wife in foreground. The young girl is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "A esposa de Naamã se inclina para escutar a menina, que aponta uma direção com esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Israelite girl about ten olive skin dark braids simple cream tunic muted green sash, dignified confident expression; Naaman adult Syrian brown skin dark beard blue commander robe without weapons; wife adult brown skin terracotta dress cream veil. Respectful safe domestic conversation, no captivity imagery or illness symptoms. Only scene named cast. Scene: A esposa de Naamã se inclina para escutar a menina, que aponta uma direção com esperança. MANDATORY SCENE CAST: Only the young girl and the adult wife of Naaman. Naaman is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "O rei de Israel lê a carta trazida por Naamã e fica preocupado com o pedido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Israelite girl about ten olive skin dark braids simple cream tunic muted green sash, dignified confident expression; Naaman adult Syrian brown skin dark beard blue commander robe without weapons; wife adult brown skin terracotta dress cream veil. Respectful safe domestic conversation, no captivity imagery or illness symptoms. Only scene named cast. Scene: King of Israel adult olive skin medium dark beard burgundy robe simple circlet sits in his palace looking puzzled and concerned at a letter. Naaman in blue commander robe stands nearby with one adult attendant. No Elisha, no girl, no woman. Quiet royal audience without violence or weapons."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 215,
+  "title": "Um Tempo para Cada Coisa",
+  "subtitle": "A sabedoria de reconhecer os momentos da vida",
+  "reference": "Eclesiastes 3:1–13",
+  "description": "Um poema observa as mudanças da vida e convida a acolher cada tempo com atenção, bondade e gratidão.",
+  "testament": "antigo",
+  "cover": "/images/covers/215.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A vida tem muitos momentos",
+      "paragraphs": [
+        "O livro de Eclesiastes contém um poema muito conhecido sobre o tempo. Ele começa lembrando que a vida reúne diferentes estações e diferentes acontecimentos. Há momentos de começar e momentos de terminar, ocasiões de guardar e ocasiões de deixar partir. O texto observa essa variedade com atenção e convida o leitor a refletir.",
+        "Uma das primeiras imagens vem do campo: há tempo de plantar e tempo de colher. A pessoa coloca a semente na terra e acompanha seu crescimento. Depois, quando chega a estação adequada, recolhe o alimento. Cada etapa tem seu trabalho, sua espera e uma beleza que pede olhos atentos.",
+        "Essa imagem pode nos ajudar a compreender outras experiências. Aprender uma música, fazer uma amizade ou desenvolver uma habilidade também envolve etapas. Algumas coisas começam pequenas e precisam de tempo. Podemos cuidar do que está diante de nós, receber orientação e reconhecer a alegria de cada descoberta ao longo do caminho."
+      ],
+      "image": "215/part1.webp",
+      "alt": "Mãos colocam sementes numa terra preparada"
+    },
+    {
+      "heading": "Espaço para rir e chorar",
+      "paragraphs": [
+        "O poema fala também do tempo de chorar e do tempo de rir. A vida acolhe sentimentos diferentes, e cada um merece atenção. Existem encontros que trazem alegria e despedidas que provocam tristeza. O texto reconhece esses momentos como parte da experiência humana, oferecendo palavras para perceber aquilo que acontece dentro de nós.",
+        "Há ainda tempo de falar e tempo de ficar em silêncio. Uma pessoa que precisa contar algo pode receber o presente da nossa escuta. Em outra situação, uma palavra de carinho pode ser a ajuda necessária. A sabedoria procura perceber o momento e escolher o gesto que combina com ele.",
+        "Pense numa comemoração: queremos participar da alegria e celebrar juntos. Pense também num amigo que perdeu algo importante: talvez ele precise primeiro de companhia tranquila. Prestar atenção à situação ajuda a cuidar melhor. Podemos perguntar o que a pessoa precisa e respeitar o modo como ela está vivendo aquele momento."
+      ],
+      "image": "215/part2.webp",
+      "alt": "Uma pessoa escuta com carinho alguém que está triste"
+    },
+    {
+      "heading": "Receber o dia e fazer o bem",
+      "paragraphs": [
+        "Depois do poema, Eclesiastes contempla a beleza de cada coisa em seu tempo e a grandeza da obra de Deus. As pessoas desejam compreender muito, mas enxergam apenas uma parte do todo. Essa descoberta convida à humildade e à confiança diante de uma vida que sempre guarda novas perguntas.",
+        "O texto destaca a alegria de fazer o bem e de reconhecer os presentes simples: comer, beber e encontrar satisfação no trabalho realizado. São motivos de gratidão no meio das mudanças. Uma refeição compartilhada, uma tarefa concluída e uma oportunidade de ajudar podem dar beleza ao dia que recebemos.",
+        "Podemos acolher o tempo de hoje com o cuidado que ele pede. Talvez seja hora de aprender, esperar, conversar ou descansar. Talvez alguém precise de nossa alegria ou de nossa escuta. Em cada etapa, há espaço para procurar o bem. O poema nos ensina a viver com atenção ao presente e confiança em Deus."
+      ],
+      "image": "215/part3.webp",
+      "alt": "Uma família agradece por uma refeição simples"
+    }
+  ],
+  "lesson": "Cada momento da vida pode pedir um cuidado diferente. Há horas de celebrar, de escutar, de aprender e de descansar. Eclesiastes nos ajuda a reconhecer essa variedade e a acolher nossos sentimentos com sinceridade. Observe como você e as pessoas próximas estão hoje. Depois, escolha um gesto adequado a esse momento. Fazer o bem pode ser uma forma bonita de receber o tempo presente.",
+  "question": "O momento que você está vivendo pede mais alegria, escuta, paciência ou descanso?",
+  "prayer": "Senhor, ajuda-me a perceber o cuidado que cada momento pede. Recebe minha alegria e minha tristeza. Ensina-me a esperar com paciência, a escutar com carinho e a agradecer pelos presentes simples. Que eu encontre oportunidades de fazer o bem hoje. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebpb/ECC03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família cultiva um campo sob a luz da manhã",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic Ecclesiastes illustration: ancient Hebrew family tending a small cultivated field, an adult planting seeds while another gathers ripe herbs in neighboring bed, child watering gently, harmonious stages of growth, sunrise, no panels. "
+    },
+    {
+      "role": "part1",
+      "alt": "Mãos colocam sementes numa terra preparada",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Intimate close view of adult ancient farmer hands planting small seeds in rich prepared soil, tiny seedlings nearby, wooden tool and clay water jar, warm morning light, natural detailed textures. "
+    },
+    {
+      "role": "part2",
+      "alt": "Uma pessoa escuta com carinho alguém que está triste",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew older sister quietly listening to younger child on a courtyard bench, gentle caring expressions, hands resting naturally, soft shade and flowers, respectful space for sadness, no injuries. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família agradece por uma refeição simples",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family gathered around a simple meal of bread, vegetables and fruit at a rustic table, grateful gentle smiles after daily work, warm late afternoon light, inviting stone home. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

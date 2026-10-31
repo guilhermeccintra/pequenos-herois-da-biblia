@@ -1,0 +1,71 @@
+{
+  "id": 292,
+  "title": "Os Pássaros e os Lírios",
+  "subtitle": "O cuidado do Pai alcança a vida de cada dia",
+  "reference": "Mateus 6:25–34",
+  "description": "Jesus convida seus ouvintes a observar aves e flores para aprender a confiar no cuidado de Deus.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.6.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Olhar para o céu",
+      "paragraphs": [
+        "Jesus falava a pessoas que conheciam o trabalho necessário para conseguir comida e roupa. Essas necessidades eram reais. Mesmo assim, ele as convidou a não deixar que a preocupação dominasse toda a vida. A vida valia mais que o alimento, e o corpo valia mais que a roupa. Havia um cuidado maior a ser lembrado.",
+        "Então pediu que observassem as aves do céu. Elas não semeavam, não colhiam nem guardavam mantimentos em celeiros como os seres humanos. Ainda assim, o Pai celestial as alimentava. As aves faziam parte de sua criação e não estavam esquecidas. Jesus perguntou se seus ouvintes não valiam muito mais do que elas.",
+        "O convite não era abandonar o trabalho ou esperar que a comida aparecesse sem nenhum cuidado. Era aprender a olhar para as necessidades sem imaginar que estavam sozinhos no mundo. A preocupação, por mais intensa que fosse, não poderia acrescentar à vida aquilo que desejavam. Jesus ajudava seus ouvintes a reconhecer o limite da ansiedade."
+      ],
+      "alt": "Jesus aponta para aves que voam sobre o campo.",
+      "image": "292/part1.webp"
+    },
+    {
+      "heading": "A beleza no campo",
+      "paragraphs": [
+        "Depois, Jesus falou sobre as roupas. Pediu que observassem os lírios do campo e a maneira como cresciam. Eles não trabalhavam produzindo tecido nem fiavam fios. Mesmo assim, tinham uma beleza admirável. Nem Salomão, lembrado por sua riqueza e esplendor, se vestira como uma daquelas flores na comparação apresentada por Jesus.",
+        "As flores e a erva do campo duravam pouco. Podiam estar ali num dia e desaparecer depois. Se Deus vestia a criação passageira com tanta beleza, seus ouvintes podiam confiar em seu cuidado por eles. A imagem aproximava uma verdade profunda de algo pequeno, que talvez costumassem atravessar sem prestar atenção.",
+        "A pergunta de Jesus tocava a confiança. Quem se preocupava podia aprender a recordar que o Pai conhecia suas necessidades. Não era preciso transformar comida e roupa no centro absoluto de todos os pensamentos. A vida tinha espaço para o Reino de Deus e sua justiça, para o amor e para o cuidado compartilhado entre as pessoas."
+      ],
+      "alt": "Lírios florescem entre a erva do campo.",
+      "image": "292/part2.webp"
+    },
+    {
+      "heading": "Um dia de cada vez",
+      "paragraphs": [
+        "Jesus orientou seus ouvintes a buscar primeiro o Reino de Deus e sua justiça. O Pai sabia do que precisavam. Esse chamado colocava a vida numa direção: confiar em Deus e viver de acordo com seu bem. As necessidades continuavam importantes, mas não precisavam ocupar sozinhas o lugar de comando do coração.",
+        "Por fim, Jesus ensinou a não carregar antecipadamente todas as preocupações do amanhã. Cada dia já trazia seus próprios desafios. Era um convite a viver o presente com confiança e responsabilidade, sem tentar resolver na imaginação tudo o que poderia acontecer. O futuro não estava nas mãos de uma preocupação sem descanso.",
+        "As aves continuavam voando, e as flores permaneciam no campo. A partir delas, Jesus oferecia aos ouvintes uma lembrança do cuidado do Pai. Quem estivesse aflito não precisava fingir tranquilidade. Podia procurar ajuda, compartilhar sua necessidade e aprender a caminhar um dia de cada vez, sabendo que sua vida tinha valor diante de Deus."
+      ],
+      "alt": "Jesus e seus ouvintes caminham num campo com flores.",
+      "image": "292/part3.webp"
+    }
+  ],
+  "lesson": "Preocupar-se não é motivo para vergonha. Podemos falar sobre nossos medos com Deus e com pessoas de confiança, especialmente quando ficam grandes demais. Jesus nos lembra que temos valor e que o Pai conhece nossas necessidades. Cuidar do dia de hoje, aceitar ajuda e compartilhar o que temos são formas de viver essa confiança. Ninguém precisa carregar todas as dificuldades sozinho.",
+  "question": "Que preocupação você pode compartilhar hoje com Deus e com um adulto de confiança?",
+  "prayer": "Pai, tu conheces minhas necessidades e preocupações. Ajuda-me a perceber teu cuidado e a falar quando meu coração estiver apertado. Dá-me coragem para pedir ajuda e generosidade para ajudar também. Ensina-me a viver o dia de hoje com confiança, atenção e esperança. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/292.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus conversa com seus amigos num campo florido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated on grassy Galilean hillside among white and purple wild lilies, two sparrows nearby and adult disciples listening, warm morning sunlight, peaceful caring expression, richly detailed 3D landscape."
+    },
+    {
+      "role": "part1",
+      "alt": "Aves voam sobre o campo diante de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle gently gesturing toward small birds flying across bright sky while three adult disciples look up, open grassy hillside, wide natural composition, no magical birds."
+    },
+    {
+      "role": "part2",
+      "alt": "Lírios crescem entre a erva.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Botanical close-up wild lilies and delicate meadow flowers among green grasses in Galilee, dew and soft sunlight, small sparrow perched on nearby stone, cinematic detailed 3D, no people."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus caminha com seus ouvintes pelo campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Rear three-quarter wide view Jesus cream tunic terracotta mantle walking with three adult disciples along meadow path bordered by wildflowers, gentle golden evening light, calm hopeful mood."
+    }
+  ]
+}

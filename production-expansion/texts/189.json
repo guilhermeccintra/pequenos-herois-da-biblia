@@ -1,0 +1,74 @@
+{
+  "id": 189,
+  "title": "Canções sobre as Muralhas",
+  "subtitle": "Uma cidade inteira agradece",
+  "reference": "Neemias 12:27–43",
+  "description": "As muralhas reconstruídas recebem uma celebração especial. Dois grupos caminham cantando, e a alegria de Jerusalém pode ser ouvida de longe.",
+  "testament": "antigo",
+  "cover": "/images/covers/189.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Preparar uma grande gratidão",
+      "paragraphs": [
+        "As muralhas de Jerusalém tinham sido reconstruídas, e chegou o tempo de celebrar sua dedicação. O trabalho envolvera muita gente, muitas dificuldades e muitos cuidados. Agora a cidade reservaria um dia para agradecer. Neemias mandou buscar os levitas nos lugares onde moravam, para que viessem participar com cânticos e instrumentos musicais.",
+        "Os cantores também se reuniram, vindos das aldeias ao redor de Jerusalém. Havia címbalos, harpas e outros instrumentos de cordas. A celebração precisava de preparação, assim como a construção havia precisado. Pessoas acostumadas ao serviço musical trariam suas habilidades para ajudar a comunidade a expressar a alegria daquele encontro.",
+        "Os sacerdotes e levitas se purificaram, e também prepararam o povo, os portões e a muralha para a dedicação. Esses atos pertenciam à forma de adoração de Israel naquele tempo. A cidade não tratava a obra concluída apenas como uma conquista de seus próprios braços. Queria reconhecer diante de Deus o cuidado recebido durante o caminho."
+      ],
+      "image": "189/part1.webp",
+      "alt": "Músicos chegam a Jerusalém para participar da dedicação."
+    },
+    {
+      "heading": "Dois caminhos de louvor",
+      "paragraphs": [
+        "Neemias levou os líderes de Judá para cima da muralha e organizou dois grandes grupos de ação de graças. Um deles seguiu por um lado, na direção da Porta do Monturo. Esdras, o escriba, ia à frente. Sacerdotes com trombetas e músicos com instrumentos acompanhavam a caminhada, junto de parte dos líderes.",
+        "O outro grupo seguiu pelo lado oposto, e Neemias foi atrás dele com a outra parte do povo. O relato acompanha o percurso pelos portões e torres da cidade. Aqueles nomes lembravam os lugares onde as mãos haviam trabalhado. Agora os mesmos trechos que receberam esforço e vigilância recebiam música e agradecimento.",
+        "Os grupos não estavam competindo para ver quem cantava mais alto ou quem chegava primeiro. Caminhavam em louvor por percursos diferentes que levariam ao mesmo encontro. A muralha, antes destruída e motivo de tristeza, se tornava o caminho de uma celebração. A própria obra ajudava a contar a história do que a comunidade havia vivido."
+      ],
+      "image": "189/part2.webp",
+      "alt": "Esdras conduz um dos grupos de louvor pela muralha."
+    },
+    {
+      "heading": "Uma alegria que vai longe",
+      "paragraphs": [
+        "Os dois grupos chegaram à casa de Deus e se colocaram ali, com Neemias e os líderes. Os sacerdotes tocaram trombetas, e os cantores ergueram a voz sob a direção de Jezraías. O encontro reuniu trabalho organizado e alegria compartilhada. Cada função contribuía para que a gratidão de muitas pessoas ganhasse uma expressão comum.",
+        "O povo adorou e se alegrou muito naquele dia. O livro diz que Deus lhes havia dado grande alegria. Faz também questão de mencionar as mulheres e as crianças entre os que celebravam. A história da muralha não pertencia somente aos líderes que tomaram decisões; seu resultado alcançava as famílias que viviam na cidade.",
+        "A alegria de Jerusalém podia ser ouvida de longe. Depois de notícias tristes, ruínas e ameaças, havia música atravessando a cidade. Isso não significava que todos os desafios tinham desaparecido. Significava que o cuidado recebido e o trabalho realizado mereciam um tempo de agradecimento. As mãos que construíram podiam, naquele dia, acompanhar as vozes que cantavam juntas."
+      ],
+      "image": "189/part3.webp",
+      "alt": "Mulheres, homens e crianças celebram juntos no pátio do templo."
+    }
+  ],
+  "lesson": "Celebrar uma tarefa concluída ajuda a reconhecer o esforço de muitas pessoas. Podemos agradecer sem transformar a conquista numa competição ou esquecer quem contribuiu de um jeito discreto. Uma música, uma refeição ou uma conversa pode guardar a memória do que aprendemos juntos. A gratidão fica mais completa quando inclui as pessoas que ajudaram e permite que crianças e adultos participem da alegria.",
+  "question": "Como vocês poderiam celebrar uma conquista da família agradecendo a todos que ajudaram?",
+  "prayer": "Deus, obrigado pelo cuidado recebido e pelas tarefas que realizamos juntos. Ajuda-nos a lembrar de cada pessoa que contribuiu. Que nossas celebrações tenham gratidão, respeito e alegria compartilhada, e que ninguém seja esquecido quando contarmos a história do que conseguimos fazer. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH12.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Grupos de cantores celebram sobre as muralhas reconstruídas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Wide cinematic view of two thanksgiving processions of adults on broad secure ancient Jerusalem wall walkways, musicians with harps and trumpets, city below, golden celebratory light, safe parapets. "
+    },
+    {
+      "role": "part1",
+      "alt": "Músicos chegam a Jerusalém para participar da dedicação.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult ancient Levite musicians arrive through a completed city gate carrying small harps, bronze cymbals and long trumpets, friendly greetings, warm daylight and linen textures. "
+    },
+    {
+      "role": "part2",
+      "alt": "Esdras conduz um dos grupos de louvor pela muralha.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra walking ahead of adult singers on a broad protected stone wall walkway, musicians behind with harps and trumpets, distant Jerusalem rooftops, warm sunrise, no people at unsafe edges. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part3",
+      "alt": "Mulheres, homens e crianças celebram juntos no pátio do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Jerusalem families joyfully gathered in temple courtyard, children beside parents smiling and singing, adult musicians in background, gentle golden afternoon light, no sacrifice shown. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

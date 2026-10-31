@@ -1,4 +1,4 @@
-# Narração das 40 histórias
+# Narração das 365 histórias
 
 A entrega contém os textos completos e scripts para produzir ou importar áudio. **Não contém narrações prontas nem simula voz no navegador.** Todas as histórias começam com `audio_path: null`; o player só aparece depois de um MP3 real ser associado no banco e entregue pela API como URL assinada.
 
@@ -11,7 +11,7 @@ Os dois caminhos preservam título, subtítulo, referência bíblica, as três p
 
 ## Preparação e revisão
 
-Use Node.js 22 ou superior. Os scripts usam módulos nativos, sem SDK adicional. Execute os comandos na raiz do projeto. Configure segredos somente no ambiente local do operador, no gerenciador de segredos ou em um `.env` ignorado pelo Git. Nunca use prefixo `VITE_` para chave ElevenLabs ou service role do Supabase, nem coloque os scripts em uma rota pública.
+Use Node.js 24, a mesma versão recomendada para o aplicativo. Os scripts usam módulos nativos, sem SDK adicional. Execute os comandos na raiz do projeto. Configure segredos somente no ambiente local do operador, no gerenciador de segredos ou em um `.env` ignorado pelo Git. Nunca use prefixo `VITE_` para chave ElevenLabs ou service role do Supabase, nem coloque os scripts em uma rota pública.
 
 Para exportar roteiros para um narrador humano, sem enviar texto a serviços externos:
 
@@ -24,11 +24,11 @@ await mkdir('content/narration-texts', { recursive: true });
 for (const story of stories) {
   await writeFile(`content/narration-texts/${String(story.id).padStart(2, '0')}.txt`, buildNarrationText(story) + '\n');
 }
-console.log('40 roteiros exportados para content/narration-texts.');
+console.log(`${stories.length} roteiros exportados para content/narration-texts.`);
 JS
 ```
 
-Oriente uma leitura em português brasileiro, acolhedora e clara, com pausas entre as partes e espaço para a família pensar na pergunta. Preserve todas as palavras; não acrescente personagens, promessas, anúncios ou instruções. Grave um arquivo completo por história, sem cortar a oração. Exporte MP3, preferencialmente 44,1 kHz/128 kbps, nomeado `01.mp3` até `40.mp3`. Mantenha os arquivos e roteiros fora de `public/`.
+Oriente uma leitura em português brasileiro, acolhedora e clara, com pausas entre as partes e espaço para a família pensar na pergunta. Preserve todas as palavras; não acrescente personagens, promessas, anúncios ou instruções. Grave um arquivo completo por história, sem cortar a oração. Exporte MP3, preferencialmente 44,1 kHz/128 kbps, nomeado `01.mp3` até `365.mp3`, mantendo os três dígitos a partir de `100.mp3`. Mantenha os arquivos e roteiros fora de `public/`.
 
 Antes da importação, ouça o arquivo inteiro e confira pronúncia de nomes bíblicos, ordem das partes, ausência de cortes e distorção, volume e completude. A checagem automática identifica um cabeçalho MP3 plausível; ela não substitui essa revisão humana nem verifica fidelidade da fala.
 
@@ -41,7 +41,7 @@ node scripts/generate-narration.mjs --story 1
 node scripts/generate-narration.mjs --story all --dry-run
 ```
 
-Sem `--confirm-cost`, os comandos apenas mostram a quantidade de histórias e caracteres. Não há chamada externa, cobrança ou geração. A seleção `--story` aceita `1` a `40` ou `all`.
+Sem `--confirm-cost`, os comandos apenas mostram a quantidade de histórias e caracteres. Não há chamada externa, cobrança ou geração. A seleção `--story` aceita `1` a `365` ou `all`.
 
 Depois de escolher a voz e conferir o saldo e as condições da sua conta, gere primeiro uma história:
 
@@ -89,7 +89,7 @@ Nunca há repetição automática de solicitações pagas, inclusive em erro HTT
 
 Antes de importar áudio, aplique a migração, crie o bucket **privado** `story-assets` e importe as histórias/imagens com o importador principal do projeto. Se houver restrição de MIME no bucket, permita `audio/mpeg`; o script aceita arquivos até 50 MB. Não torne o bucket público.
 
-Defina `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` no ambiente do operador. Não use a chave anônima do frontend. É possível importar apenas parte dos 40 arquivos; os restantes continuam sem áudio.
+Defina `SUPABASE_URL` e `SUPABASE_SERVICE_ROLE_KEY` no ambiente do operador. Não use a chave anônima do frontend. É possível importar apenas parte dos 365 arquivos; os restantes continuam sem áudio.
 
 Para gravações humanas em uma pasta privada, por exemplo `content/audio-human/`:
 
@@ -117,15 +117,16 @@ Referências técnicas: [Supabase — Upload](https://supabase.com/docs/referenc
 
 ## Reconversão e testes
 
-As histórias em `content/stories.json` preservam exatamente os textos originais. `content/source-manifest.json` guarda hashes da narrativa, contagens de palavras, fontes bibliográficas e descrições de capa. O catálogo público contém somente os metadados das 40 histórias; `public/sample.json` contém somente a primeira história completa.
+As histórias 1–40 em `content/stories.json` preservam exatamente os textos originais. As histórias 41–365 ampliam a coleção com o mesmo formato. `content/source-manifest.json` guarda hashes da narrativa, contagens de palavras, fontes bibliográficas e descrições de capa. O catálogo público contém somente os metadados das 365 histórias; `public/sample.json` contém somente a primeira história completa.
 
 Para reconverter a pasta original `production` com `texts/01.json` a `40.json` e `art/NN_cover.png`, `NN_part1.png`, `NN_part2.png`, `NN_part3.png`:
 
 ```sh
 python -m pip install Pillow
-python scripts/prepare-content.py --source ../production
-node --test tests/content*.test.mjs
+python scripts/prepare-content.py --source ../production --count 40
 ```
+
+Esse comando reconstrói somente a edição original de 40 histórias, substituindo o acervo local; não o execute sobre a edição ampliada sem cópia de segurança. Para uma coleção completa de 365 originais, use `--count 365` e informe `testament` em cada nova história. A integração das histórias novas usa `scripts/integrate-expansion.py` e exige todos os arquivos aprovados em `production-expansion/`.
 
 A reconversão exige os originais, que não são necessários para rodar o site: a entrega já inclui os JSONs e WebPs preparados. Ela ignora quaisquer PNGs de rascunho. Apenas redimensiona e comprime as imagens existentes, sem criar ou reinterpretar ilustrações. Capas têm 640 px/qualidade 75, interiores 1100 px/qualidade 80 e hero 1200 px com teto de 180 KB. O hero vem da capa 30, Davi da 18 e Noé da 03.
 

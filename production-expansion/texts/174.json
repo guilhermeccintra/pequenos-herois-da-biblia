@@ -1,0 +1,74 @@
+{
+  "id": 174,
+  "title": "Alegria e Lágrimas nos Alicerces",
+  "subtitle": "Cada pessoa carrega uma lembrança",
+  "reference": "Esdras 3:7–13",
+  "description": "Os primeiros alicerces do novo templo trazem música e celebração. Para alguns moradores, aquele mesmo momento também desperta lágrimas e antigas lembranças.",
+  "testament": "antigo",
+  "cover": "/images/covers/174.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Madeira, pedra e muitas mãos",
+      "paragraphs": [
+        "A reconstrução do templo em Jerusalém precisava avançar. O povo que voltara do exílio já havia preparado o altar, mas o edifício ainda não estava de pé. Agora era hora de organizar materiais e trabalhadores. Pedreiros e carpinteiros receberam pagamento para realizar suas tarefas. Cada habilidade tinha uma parte importante naquela obra.",
+        "Também houve acordos com os moradores de Sidom e Tiro. Eles receberiam comida, bebida e azeite para trazer madeira de cedro do Líbano até o porto de Jope. O rei Ciro havia autorizado esse trabalho. As árvores não chegariam sozinhas a Jerusalém: o caminho dos materiais exigia combinação, esforço e pessoas cumprindo o que tinham combinado.",
+        "No segundo ano depois da chegada ao lugar do templo, Zorobabel, Jesua e os demais começaram essa etapa da construção. Levitas foram encarregados de acompanhar o trabalho. Havia uma tarefa para cada grupo, e a obra começou a tomar forma. Aquilo que antes era apenas um desejo agora ganhava medidas, materiais e organização."
+      ],
+      "image": "174/part1.webp",
+      "alt": "Trabalhadores organizam madeira e pedras para a construção."
+    },
+    {
+      "heading": "O som de um começo",
+      "paragraphs": [
+        "Quando os construtores lançaram os alicerces, o povo se reuniu para louvar. Os sacerdotes vestiram suas roupas de serviço e tocaram trombetas. Levitas descendentes de Asafe participaram com címbalos, instrumentos que produziam um som forte. A construção ainda não estava terminada, mas aquele começo já era motivo de agradecimento.",
+        "As pessoas cantavam umas para as outras, reconhecendo a bondade de Deus e seu amor constante por Israel. O louvor recordava que a história do povo não havia terminado com a destruição da cidade. Depois de uma longa espera e de uma viagem de retorno, ali estavam elas, reunidas diante do começo de um novo templo.",
+        "Muitos levantaram a voz com alegria. Podiam olhar para os alicerces e enxergar a possibilidade de um futuro diferente. Ainda seria preciso colocar muitas pedras no lugar, mas o primeiro trabalho estava visível. A celebração não significava que todos os problemas tinham acabado. Significava que aquele passo merecia ser reconhecido e compartilhado."
+      ],
+      "image": "174/part2.webp",
+      "alt": "Sacerdotes e levitas tocam instrumentos para celebrar o começo da obra."
+    },
+    {
+      "heading": "Duas vozes na mesma festa",
+      "paragraphs": [
+        "Entre os presentes havia sacerdotes, levitas e chefes de família mais velhos. Alguns tinham visto o antigo templo antes de sua destruição. Ao olhar os novos alicerces, começaram a chorar alto. A Bíblia conta essas lágrimas sem explicar todos os sentimentos de cada pessoa. A lembrança de antes e a visão do novo começo estavam juntas naquele momento.",
+        "Enquanto uns choravam, outros gritavam de alegria. Os sons se misturavam tanto que não era possível distinguir claramente uma coisa da outra. Quem ouvia de longe escutava uma grande voz coletiva saindo daquele lugar. A mesma cerimônia tinha espaço para pessoas que carregavam experiências diferentes, mesmo quando todas pertenciam ao mesmo povo.",
+        "A história não pede que os mais velhos parem de sentir, nem que os outros escondam a alegria. Ela nos mostra o que aconteceu naquele encontro. Os alicerces eram novos, mas cada pessoa chegara até ali com suas próprias lembranças. Entre música e lágrimas, a construção seguia, reunindo o que o povo havia vivido e o que ainda esperava viver."
+      ],
+      "image": "174/part3.webp",
+      "alt": "Um homem mais velho chora enquanto outras pessoas celebram perto dele."
+    }
+  ],
+  "lesson": "Duas pessoas podem viver o mesmo momento e sentir coisas diferentes. Uma mudança pode alegrar alguém e trazer saudade para outra pessoa. Antes de dizer como alguém deveria se sentir, podemos escutar. Não precisamos entender tudo para oferecer carinho. Celebrar uma novidade e respeitar uma lembrança triste podem acontecer juntos, como quando acolhemos quem sente falta da antiga escola enquanto conhecemos um lugar novo.",
+  "question": "Você já sentiu alegria e saudade ao mesmo tempo? Como gostaria de ser acolhido?",
+  "prayer": "Deus, ajuda-nos a escutar os sentimentos uns dos outros. Obrigado pelos novos começos e pelas lembranças que fazem parte de nossa vida. Ensina-nos a celebrar com quem está feliz e a oferecer companhia a quem precisa chorar ou sentir saudade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Alegria e lágrimas se encontram na celebração dos alicerces do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: At a newly laid ancient temple foundation, a joyful young adult and a tearful elderly man stand side by side respectfully, musicians softly visible behind, golden light, emotionally nuanced not theatrical. "
+    },
+    {
+      "role": "part1",
+      "alt": "Trabalhadores organizam madeira e pedras para a construção.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult ancient stonemasons and carpenters carefully organize large pale limestone blocks and cedar beams under supervision of Zerubbabel, distant Jerusalem hills, richly textured tools and linen. Zerubbabel has brown skin, short black beard, teal robe and brown cloak."
+    },
+    {
+      "role": "part2",
+      "alt": "Sacerdotes e levitas tocam instrumentos para celebrar o começo da obra.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeshua and priests with long ancient trumpets, Levite musicians with small bronze cymbals, families singing by temple foundations, joyous afternoon light, historically inspired instruments. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban."
+    },
+    {
+      "role": "part3",
+      "alt": "Um homem mais velho chora enquanto outras pessoas celebram perto dele.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close-medium view of a gray bearded elder with gentle tears looking at stone foundations, a younger adult offers quiet supportive hand on shoulder while celebrants remain softly visible, tender hopeful light. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

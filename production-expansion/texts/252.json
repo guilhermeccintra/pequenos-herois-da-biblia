@@ -1,0 +1,71 @@
+{
+  "id": 252,
+  "title": "Jesus e a Filha de Jairo",
+  "subtitle": "Uma mão estendida em meio ao medo",
+  "reference": "Marcos 5:21–24,35–43",
+  "description": "Jairo procura Jesus porque sua filha está muito doente. Mesmo depois de uma notícia dolorosa, Jesus continua até a casa e se aproxima da menina.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.5.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "O pedido de um pai",
+      "paragraphs": [
+        "Uma grande multidão se reuniu perto de Jesus à beira do lago. Entre as pessoas chegou Jairo, um dos dirigentes da sinagoga. Sua filha estava muito doente, perto da morte. Diante de uma preocupação tão grande, ele não se manteve distante por causa de seu cargo. Aproximou-se e se lançou aos pés de Jesus.",
+        "Jairo pediu com insistência que Jesus fosse colocar as mãos sobre a menina, para que ela fosse curada e vivesse. A urgência de seu pedido vinha do amor por sua filha. Não era uma discussão sobre quem tinha mais importância. Era um pai que reconhecia sua necessidade e procurava ajuda para alguém que amava.",
+        "Jesus foi com ele, e a multidão os acompanhou, apertando-se ao redor. No caminho, aconteceu outro encontro de cura, com uma mulher que havia muitos anos estava doente. Enquanto Jesus falava com ela, Jairo ainda esperava chegar à própria casa. Então vieram pessoas trazendo uma notícia muito dolorosa sobre sua filha."
+      ],
+      "alt": "Jairo pede a Jesus que vá cuidar de sua filha.",
+      "image": "252/part1.webp"
+    },
+    {
+      "heading": "Continuar até a casa",
+      "paragraphs": [
+        "Os mensageiros disseram que a menina havia morrido e perguntaram por que ainda incomodar o Mestre. Jesus ouviu a notícia e falou a Jairo para não ter medo e continuar crendo. Não abandonou o caminho. Levou consigo apenas Pedro, Tiago e João e seguiu até a casa onde a família vivia aquele sofrimento.",
+        "Ao chegar, encontrou muita agitação, choro e lamentação. Jesus perguntou por que choravam e disse que a menina dormia. As pessoas riram dele, pois sabiam que ela havia morrido. Suas palavras apontavam para o que ele faria em seguida: aquela morte não teria a última palavra no encontro que estava prestes a acontecer.",
+        "Jesus deixou a multidão do lado de fora e entrou onde a menina estava, acompanhado dos pais e dos três discípulos. A cena ficou próxima e cuidadosa. Não era um espetáculo preparado para curiosos. Havia uma criança, uma família ferida e a presença de Jesus, que se aproximaria dela com uma palavra de vida."
+      ],
+      "alt": "Jesus acompanha Jairo até sua casa, junto de três discípulos.",
+      "image": "252/part2.webp"
+    },
+    {
+      "heading": "Levante-se, menina",
+      "paragraphs": [
+        "Jesus tomou a menina pela mão e falou com ela. Marcos preservou as palavras em aramaico e explicou seu sentido: ele dizia à menina que se levantasse. A mão estendida e a voz de Jesus conduziram o encontro. A criança, que tinha doze anos, levantou-se imediatamente e começou a andar.",
+        "Os presentes ficaram profundamente admirados. A tristeza daquele lugar havia sido transformada por um sinal extraordinário. Jesus orientou que não espalhassem o acontecimento e disse que dessem comida à menina. Depois de algo tão surpreendente, lembrou uma necessidade simples de seu corpo. Ela precisava ser cuidada também no gesto cotidiano de receber alimento.",
+        "Jairo havia saído de casa para pedir ajuda e agora podia estar novamente com a filha viva. No caminho, ouvira uma notícia dolorosa e a palavra de Jesus que o convidava a confiar. Dentro de casa, via a menina andar. O Mestre cuidara daquela família com autoridade e delicadeza, lembrando até do alimento de que ela precisava."
+      ],
+      "alt": "A menina se levanta, acolhida por seus pais e por Jesus.",
+      "image": "252/part3.webp"
+    }
+  ],
+  "lesson": "Quando alguém adoece, pedir ajuda e buscar cuidado são atitudes de amor. Também podemos lembrar das necessidades simples: descanso, alimento, companhia e tratamento orientado por adultos responsáveis. A história de Jairo apresenta um sinal extraordinário de Jesus, não uma culpa para famílias que vivem perdas. Quem sofre merece acolhimento, e nenhuma criança precisa esconder o medo para parecer forte diante de outras pessoas.",
+  "question": "Quando você sente medo por alguém que ama, com qual adulto de confiança pode conversar?",
+  "prayer": "Jesus, acolhe as crianças e as famílias que estão passando por momentos difíceis. Ajuda-nos a pedir ajuda e a receber cuidado. Dá-nos pessoas de confiança para conversar sobre nossos medos e ensina-nos a oferecer companhia com carinho e delicadeza. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/252.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A filha de Jairo sorri entre seus pais e Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Healthy twelve-year-old girl olive skin dark braided hair modest long sage-green dress stands safely beside caring parents father dark beard brown robe mother cream veil rose dress, Jesus cream tunic terracotta mantle smiles gently, warm family room, no illness depiction."
+    },
+    {
+      "role": "part1",
+      "alt": "Jairo pede a Jesus que vá cuidar de sua filha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jairus dark beard brown robe earnestly asks Jesus cream tunic terracotta mantle for help beside Galilee lake, Jesus attentive compassionate face, modest crowd behind, no child in scene."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus acompanha Jairo até sua casa, junto de três discípulos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle walks beside worried Jairus brown robe toward modest stone home, three adult disciples follow, calm purposeful movement, gentle evening light."
+    },
+    {
+      "role": "part3",
+      "alt": "A menina se levanta, acolhida por seus pais e por Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Healthy twelve-year-old girl dark braided hair modest long sage-green dress stands beside simple bed with both parents close, Jesus cream tunic terracotta mantle gently offers open hand, a small bowl of food nearby, warm safe joyful scene no lifeless child."
+    }
+  ]
+}

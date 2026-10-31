@@ -1,0 +1,74 @@
+{
+  "id": 191,
+  "title": "Mordecai e o Aviso Importante",
+  "subtitle": "Fazer o certo sem tomar o lugar de outro",
+  "reference": "Ester 2:19–23",
+  "description": "Mordecai descobre um perigo no palácio e avisa Ester. Ela transmite a informação sem esconder quem deu o alerta, e tudo fica registrado.",
+  "testament": "antigo",
+  "cover": "/images/covers/191.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma responsabilidade no portão",
+      "paragraphs": [
+        "Ester já era rainha, e Mordecai continuava ligado à vida da fortaleza de Susã. O livro conta que ele se sentava à porta do rei, um lugar importante de circulação e serviço. Mesmo depois da mudança de Ester para o palácio, o vínculo entre os dois permanecia. Ela ainda dava atenção ao homem que a criara como filha.",
+        "Até aquele momento, Ester não havia revelado sua origem judaica nem contado quem eram seus parentes. Essa orientação fazia parte das circunstâncias difíceis em que viviam. A história, porém, mostraria que a ligação entre ela e Mordecai podia servir também ao cuidado com outras pessoas. Um fato preocupante estava prestes a chegar ao conhecimento dele.",
+        "Dois oficiais do rei, Bigtã e Teres, que trabalhavam como guardas da entrada, estavam zangados e planejavam atacar Assuero. O relato não explica todos os motivos da raiva deles. O que destaca é o perigo real que preparavam. Mordecai ficou sabendo do plano e precisou decidir o que fazer com aquela informação."
+      ],
+      "image": "191/part1.webp",
+      "alt": "Mordecai acompanha o movimento junto à porta do palácio."
+    },
+    {
+      "heading": "A notícia chega a quem pode agir",
+      "paragraphs": [
+        "Mordecai não tratou o plano como uma história para espalhar entre curiosos. Avisou Ester, que tinha acesso ao rei. A informação seguiu por um caminho que permitia buscar proteção. Diante de um perigo, era importante que a notícia chegasse às pessoas capazes de investigar e impedir o que estava sendo planejado.",
+        "Ester contou o caso ao rei em nome de Mordecai. Ela não disse que havia descoberto tudo sozinha nem apagou a participação de quem dera o aviso. A atitude de transmitir a informação com honestidade preservou sua origem. Uma boa ação podia ser compartilhada sem que alguém precisasse tomar para si o reconhecimento que pertencia ao outro.",
+        "O caso foi investigado. Essa etapa também faz parte do relato: o aviso não ficou apenas numa acusação sem exame. Os responsáveis verificaram a situação e confirmaram que o plano existia. A verdade precisava ser conhecida para que a proteção fosse tomada e a responsabilidade pelos atos fosse estabelecida."
+      ],
+      "image": "191/part2.webp",
+      "alt": "Ester transmite ao rei a informação recebida de Mordecai."
+    },
+    {
+      "heading": "Uma página guardada",
+      "paragraphs": [
+        "O perigo contra o rei foi descoberto, e os dois oficiais receberam a severa punição aplicada naquele reino. As informações de Mordecai tinham atravessado os corredores do palácio por meio de Ester e chegado a tempo. O rei estava protegido, e os responsáveis pelos registros guardaram por escrito o que havia acontecido naquele dia.",
+        "O acontecimento foi escrito no livro das crônicas diante do rei. Esses registros guardavam fatos da vida do reino. A participação de Mordecai ficou documentada, mesmo que ele não recebesse uma recompensa naquele momento. Fazer o que era certo não resultou imediatamente numa festa, num cargo novo ou num elogio público.",
+        "Mais adiante, aquela página voltaria a ser lida numa noite em que o rei não conseguia dormir. Por enquanto, a história termina com um aviso transmitido e um registro preservado. Mordecai agiu diante do perigo, Ester falou com honestidade e a investigação confirmou os fatos. O cuidado começou quando alguém decidiu não guardar silêncio sobre uma ameaça."
+      ],
+      "image": "191/part3.webp",
+      "alt": "Um escriba registra o acontecimento no livro das crônicas."
+    }
+  ],
+  "lesson": "Quando ficamos sabendo de um perigo, devemos procurar um adulto de confiança que possa ajudar. Isso é diferente de espalhar boatos ou tentar investigar sozinhos. Também podemos ser honestos sobre quem contribuiu para uma boa ideia ou solução. Dar crédito aos outros não diminui nosso valor. Às vezes fazemos o certo sem receber elogios imediatos, mas a segurança e a verdade continuam sendo importantes.",
+  "question": "Como você pode contar uma preocupação a um adulto sem espalhá-la como um boato?",
+  "prayer": "Deus, dá-nos coragem para procurar ajuda quando percebemos um perigo. Ensina-nos a falar a verdade com cuidado e a reconhecer a contribuição dos outros. Protege as pessoas ameaçadas e orienta os adultos responsáveis a investigar, escutar e agir com justiça. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Mordecai transmite a um mensageiro um aviso importante para Ester.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai calmly gives a serious confidential warning to a trusted adult messenger near an ancient Persian palace gateway, concerned protective expression, warm daylight, no weapons or threatening figures. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Mordecai acompanha o movimento junto à porta do palácio.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai seated near a grand ancient Persian palace gate observes everyday official activity attentively, scrolls and adult attendants in background, dignified calm scene. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Ester transmite ao rei a informação recebida de Mordecai.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther speaks earnestly to Ahasuerus in a quiet Persian audience chamber, both attentive and serious, respectful distance, no romance, warm light and richly textured modest robes. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "Um escriba registra o acontecimento no livro das crônicas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An adult Persian scribe carefully writes on an ancient unlettered parchment roll at a wooden desk, ink pot and organized scrolls, gentle lamplight, thoughtful focused expression. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 249,
+  "title": "A Confiança do Centurião",
+  "subtitle": "Uma palavra que atravessa a distância",
+  "reference": "Lucas 7:1–10",
+  "description": "Um oficial pede ajuda para um servo muito querido. Sua confiança na autoridade de Jesus surpreende os que acompanham o encontro.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.7.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma preocupação dentro de casa",
+      "paragraphs": [
+        "Jesus entrou em Cafarnaum. Naquela cidade, um centurião tinha um servo muito doente, perto da morte. O servo era estimado por ele. Embora o oficial ocupasse uma posição de autoridade e comandasse soldados, não conseguia resolver sozinho aquela situação. Sua casa precisava de uma ajuda que não podia ser obtida por uma ordem militar.",
+        "Ao ouvir falar de Jesus, o centurião enviou alguns líderes judeus para pedir que ele viesse curar o servo. A preocupação com aquela pessoa o levou a procurar ajuda. Os mensageiros chegaram a Jesus e fizeram o pedido com insistência. Conheciam o oficial e tinham motivos para falar bem de sua relação com a comunidade.",
+        "Disseram que ele amava o povo e havia construído uma sinagoga para eles. Consideravam que merecia receber aquele favor. Jesus foi com os mensageiros. Enquanto caminhavam em direção à casa, a necessidade do servo continuava no centro do pedido: alguém querido estava sofrendo, e outras pessoas se mobilizavam em busca de cuidado."
+      ],
+      "alt": "Mensageiros do centurião procuram Jesus numa rua de Cafarnaum.",
+      "image": "249/part1.webp"
+    },
+    {
+      "heading": "Uma mensagem de humildade",
+      "paragraphs": [
+        "Jesus já estava perto da casa quando o centurião enviou amigos com outra mensagem. Pediu que o Senhor não se incomodasse em entrar. Disse que não se considerava digno de recebê-lo debaixo de seu teto. Por isso também não havia ido pessoalmente procurá-lo. Sua atitude era diferente da maneira como os primeiros mensageiros o apresentaram.",
+        "O oficial não estava exigindo uma recompensa por suas boas ações. Reconhecia a grandeza de Jesus e confiava que uma palavra seria suficiente para curar o servo. A distância entre a rua e a casa não limitava a autoridade daquele a quem dirigia seu pedido. Ele acreditava que Jesus podia agir sem precisar estar ao lado da cama.",
+        "Para explicar, usou sua experiência de trabalho. Também estava debaixo de autoridade e tinha soldados sob seu comando. Quando dava uma ordem, ela era cumprida. Com essa comparação, o centurião expressava sua confiança na autoridade de Jesus. Não tentava comandá-lo; reconhecia que o poder de Jesus era maior do que o seu."
+      ],
+      "alt": "Amigos levam a Jesus a mensagem de confiança do centurião.",
+      "image": "249/part2.webp"
+    },
+    {
+      "heading": "Uma fé que surpreende",
+      "paragraphs": [
+        "Ao ouvir a mensagem, Jesus ficou admirado. Voltou-se para a multidão que o seguia e disse que nem em Israel havia encontrado uma fé tão grande. O elogio chamava atenção para a confiança de alguém que vinha de fora do povo judeu. O encontro mostrava que a fé podia ser encontrada onde muitos não esperavam.",
+        "Os mensageiros voltaram para a casa e encontraram o servo curado. A preocupação que os havia levado até Jesus deu lugar ao alívio. A palavra em que o centurião confiara tinha alcançado a necessidade de sua casa. Lucas encerra o episódio com esse retorno e com a descoberta de que o servo estava bem.",
+        "O oficial possuía posição, recursos e pessoas que o respeitavam, mas não apresentou essas coisas como um direito de mandar em Jesus. Aproximou-se por meio de um pedido humilde e de confiança. Seu cuidado com o servo moveu outras pessoas, e sua fé ajudou a multidão a enxergar algo novo sobre a autoridade do Senhor."
+      ],
+      "alt": "O centurião encontra o servo recuperado em sua casa.",
+      "image": "249/part3.webp"
+    }
+  ],
+  "lesson": "Ter uma responsabilidade ou ser bom em alguma coisa não significa conseguir resolver tudo sozinho. Podemos pedir ajuda com humildade e cuidar de quem depende de nós. O centurião se preocupou com uma pessoa que tinha menos poder do que ele. Isso nos convida a tratar com respeito quem trabalha para nossa família ou comunidade, lembrando que ninguém vale menos por sua função.",
+  "question": "Quem cuida de tarefas importantes perto de você e merece receber hoje seu respeito e agradecimento?",
+  "prayer": "Jesus, ensina-nos a pedir ajuda com humildade e a cuidar das pessoas que estão perto de nós. Que nunca usemos uma posição de vantagem para diminuir alguém. Dá-nos um coração atento, respeitoso e confiante em teu amor. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/249.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um centurião acolhe seu servo recuperado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Kind Roman centurion adult short dark hair trimmed beard simple bronze breastplate over linen tunic no helmet worn, standing beside recovered adult servant sand tunic sitting comfortably on bed, warm household room, joyful relieved expressions, no weapons."
+    },
+    {
+      "role": "part1",
+      "alt": "Mensageiros do centurião procuram Jesus numa rua de Cafarnaum.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. Exactly three adults in a Capernaum stone street: JESUS with the reference identity, shoulder-length wavy dark hair and short beard, cream ankle-length linen tunic and terracotta outer mantle, listens to two ELDERLY JEWISH ELDERS with gray beards and cream striped headwraps. Both elders ask sincerely for help. No centurion, no Roman clothing, no short-haired Jesus, no sick servant. Medium eye-level composition outside a modest synagogue."
+    },
+    {
+      "role": "part2",
+      "alt": "Amigos levam a Jesus a mensagem de confiança do centurião.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. Exactly three adults near a large Capernaum house entrance: JESUS with reference identity shoulder-length dark wavy hair short beard, plain cream ankle-length linen tunic and terracotta mantle, listens to TWO ADULT MESSENGERS in brown and green linen robes. One messenger speaks humbly with open palms. Jesus must NOT wear Roman tunic stripes, armor, short haircut or centurion costume. The centurion is absent. New close three-quarter composition focused on listening faces."
+    },
+    {
+      "role": "part3",
+      "alt": "O centurião encontra o servo recuperado em sua casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Roman centurion short dark hair simple bronze breastplate linen tunic smiles with relief at healthy adult servant sand tunic standing beside bed, returning messengers in doorway, dignified caring scene no weapons."
+    }
+  ]
+}

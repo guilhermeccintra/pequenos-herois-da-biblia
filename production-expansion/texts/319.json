@@ -1,0 +1,71 @@
+{
+  "id": 319,
+  "title": "Pedro e a Porta que se Abriu",
+  "subtitle": "Uma surpresa do lado de fora",
+  "reference": "Atos 12:1–19",
+  "description": "Pedro está preso, e seus amigos oram por ele. Uma libertação inesperada o leva até uma porta onde a alegria demora um pouco para conseguir entrar.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma noite na prisão",
+      "paragraphs": [
+        "O rei Herodes perseguia alguns membros da igreja. Tiago, irmão de João, havia sido morto, e Pedro também foi preso. Era um tempo de tristeza e perigo para os discípulos. Enquanto Pedro permanecia sob forte vigilância, a comunidade orava a Deus por ele. A preocupação não era imaginária: um amigo querido estava nas mãos de um governante violento.",
+        "Na noite antes de ser apresentado ao povo, Pedro dormia entre dois soldados, preso por correntes. Outros guardas vigiavam a entrada. Tudo parecia preparado para impedir uma fuga. A Bíblia descreve essas barreiras para mostrar como seria surpreendente o que aconteceria. Do lado de fora, os amigos continuavam sem poder abrir aquela prisão por sua própria força.",
+        "De repente, um anjo do Senhor apareceu, e uma luz brilhou na cela. O mensageiro tocou Pedro, acordou-o e pediu que se levantasse depressa. As correntes caíram de suas mãos. Pedro recebeu orientações simples: vestir-se, calçar as sandálias, colocar o manto e seguir. Passo a passo, começou a caminhar para fora."
+      ],
+      "image": "319/part1.webp",
+      "alt": "Pedro dorme em uma cela simples de pedra sob vigilância, com postura tranquila e sem ferimentos ou violência gráfica."
+    },
+    {
+      "heading": "Além do portão de ferro",
+      "paragraphs": [
+        "Pedro acompanhou o anjo, mas ainda não compreendia que aquilo estava acontecendo de verdade. Pensava estar vendo uma visão. Passaram pelos primeiros postos de guarda e chegaram ao portão de ferro que dava para a cidade. O portão se abriu por si mesmo. Os dois saíram e seguiram por uma rua.",
+        "Então o anjo se afastou. Pedro percebeu que estava livre e reconheceu que o Senhor o havia livrado do poder de Herodes. Depois de pensar na situação, foi à casa de Maria, mãe de João Marcos. Muitos discípulos estavam reunidos ali, orando. Era um lugar onde poderia encontrar os amigos e contar a notícia.",
+        "Pedro bateu à porta do pátio. Uma serva chamada Rode foi atender e reconheceu sua voz. Ficou tão contente que, em vez de abrir, correu para dentro e anunciou que Pedro estava lá fora. A alegria foi mais rápida que a tarefa de abrir a porta. Enquanto isso, o visitante continuava esperando do outro lado."
+      ],
+      "image": "319/part2.webp",
+      "alt": "Um mensageiro de roupa clara acompanha Pedro por um portão de ferro aberto sob a luz da lua, sem armas em destaque."
+    },
+    {
+      "heading": "A alegria finalmente entra",
+      "paragraphs": [
+        "Os que estavam na casa tiveram dificuldade para acreditar em Rode. Ela insistia, mas eles ofereciam outras explicações. Pedro continuou batendo. Quando finalmente abriram a porta e o viram, ficaram admirados. A pessoa por quem oravam estava diante deles, trazendo uma notícia que parecia boa demais para ser compreendida de imediato.",
+        "Pedro fez sinal para que se acalmassem e contou como o Senhor o tirara da prisão. Pediu que avisassem Tiago e os outros irmãos e depois partiu para outro lugar. Sua libertação não significava que todas as ameaças tivessem terminado. Era necessário continuar agindo com cuidado, protegendo a própria vida e mantendo a comunidade informada.",
+        "Aquela noite reuniu medo, oração, surpresa e alegria. Também mostrou que os discípulos nem sempre entendiam prontamente o que Deus fazia. A comunidade que estava reunida para pedir ajuda recebeu uma notícia maior do que esperava. Pedro estava livre, Rode tinha sido ouvida, e os amigos podiam compartilhar a gratidão pelo livramento que o Senhor havia realizado."
+      ],
+      "image": "319/part3.webp",
+      "alt": "Rode anuncia alegremente aos adultos reunidos em oração que Pedro chegou, enquanto a porta fechada aparece ao fundo."
+    }
+  ],
+  "lesson": "Podemos levar a Deus nossas preocupações e também procurar formas responsáveis de apoiar quem sofre. Ouvir com atenção é parte desse cuidado: Rode tinha uma notícia importante, mesmo quando os outros não acreditaram de imediato. Crianças e jovens também merecem ser escutados. Se você precisar contar algo sério, procure um adulto confiável e continue buscando ajuda se o primeiro não ouvir. Sua voz tem valor.",
+  "question": "Como você pode mostrar a alguém que está realmente ouvindo o que essa pessoa tenta contar?",
+  "prayer": "Senhor, cuida de quem está preso injustamente ou vive sob ameaça. Obrigado pelas pessoas que oram e ajudam. Ensina-nos a ouvir com atenção, acolher boas notícias e apoiar uns aos outros. Dá-nos prudência, esperança e coragem nos dias difíceis. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/319.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.12"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro, livre, está diante de uma porta de madeira aberta à noite, recebido por Rode e amigos surpresos em uma casa acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Rhoda is a young adult servant woman with olive skin, dark braided hair, simple muted coral dress and beige headscarf.  Scene: Pedro, livre, está diante de uma porta de madeira aberta à noite, recebido por Rode e amigos surpresos em uma casa acolhedora."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro dorme em uma cela simples de pedra sob vigilância, com postura tranquila e sem ferimentos ou violência gráfica.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Rhoda is a young adult servant woman with olive skin, dark braided hair, simple muted coral dress and beige headscarf.  Scene: Pedro dorme em uma cela simples de pedra sob vigilância, com postura tranquila e sem ferimentos ou violência gráfica. Exact cast: Peter sleeping and two anonymous guards quietly nearby. No Rhoda, no praying community."
+    },
+    {
+      "role": "part2",
+      "alt": "Um mensageiro de roupa clara acompanha Pedro por um portão de ferro aberto sob a luz da lua, sem armas em destaque.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Rhoda is a young adult servant woman with olive skin, dark braided hair, simple muted coral dress and beige headscarf.  Scene: Um mensageiro de roupa clara acompanha Pedro por um portão de ferro aberto sob a luz da lua, sem armas em destaque. Exact cast: Peter and one gentle angelic messenger only. No Rhoda, no community members. Peter wears rust tunic and cream shawl as cover."
+    },
+    {
+      "role": "part3",
+      "alt": "Rode anuncia alegremente aos adultos reunidos em oração que Pedro chegou, enquanto a porta fechada aparece ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Rhoda is a young adult servant woman with olive skin, dark braided hair, simple muted coral dress and beige headscarf.  Scene: Rode anuncia alegremente aos adultos reunidos em oração que Pedro chegou, enquanto a porta fechada aparece ao fundo. Exact cast: Rhoda in salmon dress with cream scarf, and five adult members of the house praying. PETER IS OUTSIDE THE CLOSED DOOR AND NOT VISIBLE. No other man with Peter gray curls and rust tunic."
+    }
+  ]
+}

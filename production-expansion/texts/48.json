@@ -1,0 +1,71 @@
+{
+  "id": 48,
+  "title": "Abraão Ora por uma Cidade",
+  "subtitle": "Uma conversa sobre justiça e misericórdia",
+  "reference": "Gênesis 18:16–33",
+  "description": "Ao ouvir sobre a gravidade do mal em Sodoma, Abraão se aproxima de Deus para falar sobre as pessoas que viviam ali.",
+  "testament": "antigo",
+  "cover": "/images/covers/48.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O que acontecia na cidade",
+      "paragraphs": [
+        "Depois de receber os visitantes em Manre, Abraão caminhou com eles por uma parte do caminho. Os homens olharam na direção de Sodoma. A narrativa conta que Deus decidiu comunicar a Abraão o que estava para acontecer. A conversa estava ligada à responsabilidade de sua família: aprender a praticar a justiça e o que era correto.",
+        "Deus falou sobre o clamor que vinha de Sodoma e Gomorra. Havia muita maldade naquelas cidades, e o sofrimento não era ignorado. O relato usa a imagem de Deus descendo para verificar a situação. Não apresenta um julgamento distraído. A gravidade do que acontecia seria considerada diante daquele que conhece a vida das pessoas.",
+        "Dois dos visitantes seguiram em direção a Sodoma. Abraão, porém, permaneceu diante do Senhor. Seu sobrinho Ló vivia naquela região. Mas a pergunta que ele faria não tratava apenas de seu parente. Abraão começou a pensar no que aconteceria com pessoas justas que estivessem dentro de uma cidade marcada por tanta injustiça."
+      ],
+      "image": "48/part1.webp",
+      "alt": "Abraão acompanha três visitantes por um caminho entre colinas."
+    },
+    {
+      "heading": "A coragem de apresentar uma pergunta",
+      "paragraphs": [
+        "Abraão se aproximou e perguntou se Deus destruiria os justos junto com os maus. E se houvesse cinquenta pessoas justas dentro da cidade? Não poderia poupá-la por causa delas? A pergunta vinha do desejo de que vidas não fossem tratadas como se todas as pessoas tivessem feito exatamente as mesmas escolhas.",
+        "Ele afirmou sua confiança no Juiz de toda a terra. Deus faria o que era justo. A conversa não era uma tentativa de ensinar bondade a Deus, mas uma oração em que Abraão apresentava sua preocupação com sinceridade. O Senhor respondeu que, se encontrasse cinquenta justos em Sodoma, pouparia o lugar por causa deles.",
+        "Abraão continuou, reconhecendo sua pequenez diante de Deus. E se faltassem cinco para completar cinquenta? O Senhor respondeu que não destruiria a cidade por causa de quarenta e cinco. Abraão perguntou sobre quarenta, e recebeu novamente uma resposta de misericórdia. A conversa avançava com respeito, uma pergunta depois da outra."
+      ],
+      "image": "48/part2.webp",
+      "alt": "Abraão faz uma pausa de oração com as mãos abertas."
+    },
+    {
+      "heading": "Persistir sem perder o respeito",
+      "paragraphs": [
+        "Abraão pediu licença para continuar falando. Perguntou sobre trinta pessoas justas, depois sobre vinte. Em cada resposta, Deus acolheu aquela intercessão. Por fim, Abraão apresentou uma última pergunta: e se fossem encontradas dez? O Senhor respondeu que não destruiria a cidade por causa dessas dez pessoas.",
+        "A oração de Abraão não transformou o mal das cidades em algo sem importância. A violência continuava sendo grave, e as pessoas que sofriam precisavam de justiça. Ao mesmo tempo, a conversa mostrou atenção às vidas que não deveriam ser confundidas com a maldade ao redor. Justiça e misericórdia estavam no centro daquele encontro.",
+        "Quando terminou de falar com Abraão, o Senhor partiu, e Abraão voltou para seu lugar. O desfecho da história de Sodoma ainda seria contado. Por enquanto, o que ficava era a lembrança de uma oração insistente, respeitosa e voltada para outras pessoas. Abraão havia levado a Deus sua preocupação e confiado a resposta ao Juiz de toda a terra."
+      ],
+      "image": "48/part3.webp",
+      "alt": "Abraão retorna para sua tenda ao cair da tarde."
+    }
+  ],
+  "lesson": "Orar por outras pessoas é uma maneira de não ficar indiferente ao que acontece ao redor. Podemos lembrar de famílias em dificuldade, de quem sofre injustiça e de quem precisa tomar boas decisões. A oração não nos dispensa de ajudar no que for possível e seguro. Também podemos apresentar perguntas a Deus com respeito. Não precisamos esconder nossas preocupações para conversar com ele com sinceridade.",
+  "question": "Por quem você gostaria de orar hoje, pensando em uma necessidade concreta dessa pessoa?",
+  "prayer": "Deus justo e misericordioso, olha para quem sofre e precisa de proteção. Ensina-nos a lembrar dos outros em nossas orações e atitudes. Dá sabedoria a quem toma decisões importantes. Recebe nossas perguntas e ajuda-nos a confiar no teu cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abraão ora em uma colina, com a cidade distante no vale.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe and terracotta mantle, beige headcloth, kind deeply thoughtful face. Scene: Abraham in prayer on hill overlooking distant ancient walled town, contemplative sunset, peaceful no destruction."
+    },
+    {
+      "role": "part1",
+      "alt": "Abraão acompanha três visitantes por um caminho entre colinas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe and terracotta mantle, beige headcloth, kind deeply thoughtful face. Scene: Abraham walks with three robed travelers along country path, distant valley city, natural warm lighting, no supernatural effects."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão faz uma pausa de oração com as mãos abertas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe and terracotta mantle, beige headcloth, kind deeply thoughtful face. Scene: Abraham alone in foreground with open palms speaking in prayer, thoughtful compassionate expression, no visible deity."
+    },
+    {
+      "role": "part3",
+      "alt": "Abraão retorna para sua tenda ao cair da tarde.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe and terracotta mantle, beige headcloth, kind deeply thoughtful face. Scene: Elderly Abraham walking toward his tent among oaks at twilight, gentle light and reflective mood, no flames or destruction."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+18&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 161,
+  "title": "Naamã Aprende a Ouvir",
+  "subtitle": "Uma orientação simples demais para o orgulho",
+  "reference": "2 Reis 5:8–19",
+  "description": "Naamã chega à casa de Eliseu esperando uma cerimônia grandiosa. A resposta simples o irrita, até que seus servos o ajudam a reconsiderar e dar o próximo passo.",
+  "testament": "antigo",
+  "cover": "/images/covers/161.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma comitiva à porta",
+      "paragraphs": [
+        "Naamã, comandante sírio, havia viajado a Israel por causa de sua doença de pele. Uma menina de sua casa falara sobre o profeta em Samaria. Quando Eliseu soube que o rei de Israel estava alarmado com o pedido de cura, mandou dizer que o homem fosse até ele. O encontro não precisaria ser resolvido pela autoridade de um palácio.",
+        "Naamã chegou à casa do profeta com cavalos e carros. Estava acostumado a receber respeito por sua posição. Talvez esperasse uma acolhida à altura da comitiva e dos presentes que levava. Eliseu, porém, não saiu para realizar uma cerimônia diante dele. Enviou um mensageiro com uma orientação: lavar-se sete vezes no Jordão, e sua pele seria restaurada.",
+        "A resposta deixou Naamã indignado. Ele imaginara que o profeta sairia, invocaria o nome do Senhor e faria um gesto sobre a parte doente. Também comparou o Jordão aos rios de Damasco, que considerava melhores. O problema não era apenas a água. Sua expectativa sobre como deveria ser tratado estava atrapalhando sua disposição de ouvir."
+      ],
+      "image": "161/part1.webp",
+      "alt": "Naamã chega à casa de Eliseu com cavalos e carros antigos, diante de um mensageiro respeitoso."
+    },
+    {
+      "heading": "A voz dos servos",
+      "paragraphs": [
+        "Naamã se virou para partir com raiva. Antes que a viagem terminasse daquele jeito, seus servos se aproximaram e falaram com respeito. Perguntaram se ele não faria uma tarefa difícil caso o profeta a tivesse pedido. Se estava disposto a algo grandioso, por que rejeitar uma orientação simples de lavar-se e ficar limpo?",
+        "Os servos não precisaram humilhá-lo para ajudá-lo a pensar. Usaram uma pergunta que mostrava a diferença entre a dificuldade da tarefa e o orgulho ferido. Naamã ouviu. Aquele homem poderoso já havia recebido uma pista importante de uma menina; agora precisava considerar o conselho de pessoas que o serviam. A ajuda vinha novamente de vozes que ele poderia ter ignorado.",
+        "Naamã desceu ao Jordão e mergulhou sete vezes, conforme a palavra transmitida por Eliseu. Quando saiu da água, sua pele estava restaurada. O que parecia simples demais havia se tornado o caminho para uma grande surpresa. Ele não precisava mostrar sua importância ou oferecer uma fortuna. Precisara ouvir, confiar e seguir a orientação recebida."
+      ],
+      "image": "161/part2.webp",
+      "alt": "Os servos conversam com Naamã à sombra de uma árvore, ajudando-o a reconsiderar sua decisão."
+    },
+    {
+      "heading": "Voltar para agradecer",
+      "paragraphs": [
+        "Naamã voltou à casa de Eliseu com sua comitiva. Reconheceu o Deus de Israel e quis oferecer um presente ao profeta. Eliseu recusou, mesmo diante da insistência. O cuidado recebido não seria transformado numa venda. A recusa ajudava a deixar claro que o milagre não tinha sido um serviço comprado com ouro, prata e roupas de festa.",
+        "O comandante apresentou então perguntas sobre a maneira como viveria sua fé ao voltar para sua terra e continuar suas responsabilidades. Não era um assunto pequeno para ele. A experiência no Jordão havia mudado sua compreensão, mas sua vida cotidiana ainda tinha situações complexas que precisariam ser enfrentadas com sinceridade.",
+        "Eliseu o despediu em paz. Naamã partiu diferente de como chegara: havia recebido cura e aprendido a escutar além de sua própria expectativa. A história não diz que uma posição importante impede alguém de aprender, mas mostra que ela também não dispensa humildade. Às vezes o passo que abre um novo caminho é aceitar um conselho simples vindo de alguém que costumamos deixar em segundo plano."
+      ],
+      "image": "161/part3.webp",
+      "alt": "Eliseu se despede de Naamã, que parte agradecido com sua comitiva."
+    }
+  ],
+  "lesson": "Podemos perder uma boa orientação porque ela parece simples ou vem de alguém com menos destaque. Naamã precisou rever sua expectativa e ouvir seus servos. Em nossa vida, humildade inclui fazer perguntas e seguir cuidados responsáveis, mesmo quando não parecem grandiosos. O milagre no Jordão não é uma receita de tratamento: problemas de saúde precisam de avaliação adequada. A fé pode acompanhar esse cuidado, sem promessas de cura comprada ou garantida.",
+  "question": "Você já rejeitou uma boa ideia por parecer simples demais? Como poderia escutar de outro jeito?",
+  "prayer": "Deus, ajuda-nos a ouvir bons conselhos com humildade, sem medir o valor das pessoas por sua posição. Ensina-nos a agradecer pelo cuidado recebido e a buscar orientação responsável para nossa saúde. Que o orgulho não nos impeça de aprender e de mudar de direção. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Naamã agradece a Eliseu no pátio da casa, com expressão humilde e comitiva discreta ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naaman adult Syrian brown skin dark short beard deep blue robe simple commander belt; Elisha adult olive skin receding hair neat beard green cloak; adult servants tan robes. Fully clothed all scenes, no skin disease close-up or nudity, Jordan bank safe. Only cast named in scene. Scene: Naamã agradece a Eliseu no pátio da casa, com expressão humilde e comitiva discreta ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Naamã chega à casa de Eliseu com cavalos e carros antigos, diante de um mensageiro respeitoso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naaman adult Syrian brown skin dark short beard deep blue robe simple commander belt; Elisha adult olive skin receding hair neat beard green cloak; adult servants tan robes. Fully clothed all scenes, no skin disease close-up or nudity, Jordan bank safe. Only cast named in scene. Scene: Naamã chega à casa de Eliseu com cavalos e carros antigos, diante de um mensageiro respeitoso. MANDATORY SCENE CAST: Only Naaman, adult attendants and a messenger at the closed house. Elisha stays indoors and must not be visible. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Os servos conversam com Naamã à sombra de uma árvore, ajudando-o a reconsiderar sua decisão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naaman adult Syrian brown skin dark short beard deep blue robe simple commander belt; Elisha adult olive skin receding hair neat beard green cloak; adult servants tan robes. Fully clothed all scenes, no skin disease close-up or nudity, Jordan bank safe. Only cast named in scene. Scene: Os servos conversam com Naamã à sombra de uma árvore, ajudando-o a reconsiderar sua decisão. MANDATORY SCENE CAST: Only Naaman and his adult attendants. Elisha is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Eliseu se despede de Naamã, que parte agradecido com sua comitiva.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Naaman adult Syrian brown skin dark short beard deep blue robe simple commander belt; Elisha adult olive skin receding hair neat beard green cloak; adult servants tan robes. Fully clothed all scenes, no skin disease close-up or nudity, Jordan bank safe. Only cast named in scene. Scene: Elisha in green mantle stands at his house doorway, gently bidding farewell to Naaman in blue commander robe, who stands facing him gratefully; two attendants lead horses behind Naaman on the lane. Both men standing, wide eye-level scene, peaceful departure after thanking the prophet."
+    }
+  ]
+}

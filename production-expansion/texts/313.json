@@ -1,0 +1,71 @@
+{
+  "id": 313,
+  "title": "Barnabé Abre uma Porta",
+  "subtitle": "Um amigo que ajuda a reconstruir confiança",
+  "reference": "Atos 9:26–31",
+  "description": "Ao chegar a Jerusalém, Saulo encontra pessoas que têm medo de seu passado. Barnabé escuta sua história e o ajuda a ser conhecido pelos apóstolos.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma porta difícil de abrir",
+      "paragraphs": [
+        "Saulo chegou a Jerusalém e procurou se juntar aos discípulos. Sua vida tinha mudado depois do encontro com Jesus, e em Damasco ele já havia anunciado a fé que antes perseguia. Mas as pessoas de Jerusalém conheciam seu passado. Tinham motivos reais para sentir medo quando aquele homem apareceu querendo estar perto delas.",
+        "Os discípulos não acreditavam que ele fosse de fato um seguidor de Jesus. Essa dúvida não surgiu do nada. Saulo havia causado sofrimento, e uma notícia de mudança não apagava automaticamente as lembranças. A confiança não podia ser exigida como se fosse uma porta que todos tivessem obrigação de abrir imediatamente.",
+        "Foi nesse momento que Barnabé se aproximou. Ele não aparece mandando os discípulos esquecer o que tinham vivido. Sua ajuda tomou outro caminho: levou Saulo aos apóstolos e contou o que sabia. Havia acontecimentos concretos que precisavam ser ouvidos para que as pessoas pudessem conhecer melhor aquela nova etapa."
+      ],
+      "image": "313/part1.webp",
+      "alt": "Saulo espera junto à entrada de uma casa de Jerusalém, com expressão humilde, enquanto discípulos conversam à distância sem hostilidade."
+    },
+    {
+      "heading": "Uma história apresentada",
+      "paragraphs": [
+        "Barnabé relatou que Saulo tinha visto o Senhor no caminho e que Jesus lhe havia falado. Contou também como ele anunciara o nome de Jesus com coragem em Damasco. A mudança não estava apoiada somente em uma declaração sobre si mesmo. Já havia atitudes e experiências que podiam ser apresentadas aos apóstolos.",
+        "O cuidado de Barnabé criou espaço para uma conversa que parecia difícil. Ele serviu como alguém capaz de aproximar pessoas, sem fingir que o passado era irrelevante. Saulo precisava ser conhecido de novo. Os discípulos precisavam de razões para compreender o que havia acontecido. Um amigo atento ajudou os dois lados desse encontro.",
+        "Depois disso, Saulo passou a conviver com os discípulos em Jerusalém e falava abertamente em nome do Senhor. Atos descreve uma participação real na comunidade. O homem que antes perseguia agora aprendia a caminhar entre os seguidores de Jesus. A acolhida não eliminava a responsabilidade por sua história, mas permitia que o novo caminho continuasse."
+      ],
+      "image": "313/part2.webp",
+      "alt": "Barnabé fala com Pedro e os apóstolos, com Saulo ao seu lado, todos atentos em uma sala iluminada pelo sol."
+    },
+    {
+      "heading": "Cuidado que acompanha",
+      "paragraphs": [
+        "Saulo também conversava e discutia com judeus de língua grega. Alguns deles passaram a procurar uma maneira de matá-lo. Mais uma vez, a oposição se tornou perigosa. Ao saber disso, os irmãos o levaram até Cesareia e o enviaram para Tarso. A comunidade que o acolhera também participou de sua proteção.",
+        "O relato segue dizendo que a igreja na Judeia, na Galileia e em Samaria vivia um período de paz e crescimento. Os discípulos eram fortalecidos e caminhavam no temor do Senhor e no consolo do Espírito Santo. A história de Saulo fazia parte de um movimento maior de pessoas aprendendo a viver a fé juntas.",
+        "Barnabé não precisou ocupar o centro de toda a narrativa para fazer diferença. Seu gesto de apresentar Saulo ajudou a construir uma ponte onde havia medo. A confiança crescia com verdade, testemunho e convivência. O acolhimento responsável não dizia que nada tinha acontecido; reconhecia que uma mudança podia começar e precisava ser acompanhada por atitudes."
+      ],
+      "image": "313/part3.webp",
+      "alt": "Saulo caminha acompanhado por amigos rumo ao porto de Cesareia, com pequenas embarcações e o mar ao fundo."
+    }
+  ],
+  "lesson": "Barnabé ajudou os discípulos a conhecer a mudança que havia acontecido com Saulo. Ele ouviu, trouxe informações e acompanhou o encontro. Podemos aprender a olhar com atenção para as atitudes das pessoas, reconhecendo que a confiança cresce com o tempo. Quando alguém deseja reparar um erro, palavras sinceras e ações responsáveis caminham juntas. Acolher com cuidado pode abrir espaço para um novo começo, com apoio e respeito por todos.",
+  "question": "Que atitudes, repetidas ao longo do tempo, ajudam a reconstruir a confiança depois de um erro?",
+  "prayer": "Jesus, ensina-nos a acolher com verdade e responsabilidade. Ajuda quem deseja mudar a demonstrar isso em suas atitudes. Cuida de quem foi ferido, respeita seu tempo e dá-nos sabedoria para construir relações seguras, com apoio, honestidade e carinho. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/313.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.9"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Barnabé apresenta Saulo a Pedro e outros apóstolos em um pátio tranquilo, criando uma conversa respeitosa entre os homens.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Peter has salt-and-pepper curls, beard, rust tunic and cream shawl.  Scene: Barnabé apresenta Saulo a Pedro e outros apóstolos em um pátio tranquilo, criando uma conversa respeitosa entre os homens."
+    },
+    {
+      "role": "part1",
+      "alt": "Saulo espera junto à entrada de uma casa de Jerusalém, com expressão humilde, enquanto discípulos conversam à distância sem hostilidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Peter has salt-and-pepper curls, beard, rust tunic and cream shawl.  Scene: Saulo espera junto à entrada de uma casa de Jerusalém, com expressão humilde, enquanto discípulos conversam à distância sem hostilidade."
+    },
+    {
+      "role": "part2",
+      "alt": "Barnabé fala com Pedro e os apóstolos, com Saulo ao seu lado, todos atentos em uma sala iluminada pelo sol.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Peter has salt-and-pepper curls, beard, rust tunic and cream shawl.  Scene: Barnabé fala com Pedro e os apóstolos, com Saulo ao seu lado, todos atentos em uma sala iluminada pelo sol."
+    },
+    {
+      "role": "part3",
+      "alt": "Saulo caminha acompanhado por amigos rumo ao porto de Cesareia, com pequenas embarcações e o mar ao fundo.",
+      "prompt": "New standalone warm cinematic highly detailed 3D Bible storybook illustration, ancient Caesarea harbor, landscape 3:2, no text. Paul (olive skin, high bald forehead with dark curly side hair, short dark beard, indigo tunic and cream shawl) walks toward the boats with exactly two ANONYMOUS adult local friends. Friend one has short straight black hair, no beard, dark tan tunic and brown headcloth. Friend two has long white beard and full white hair, dark brown tunic. No Peter (grey curls/rust tunic) and no Barnabas (wavy chestnut hair/green tunic), neither is depicted at this harbor. Friendly mutual care, small travel bags, sea and wooden sailboats behind them. Use reference for Paul only; other reference people must not be included."
+    }
+  ]
+}

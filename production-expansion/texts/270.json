@@ -1,0 +1,71 @@
+{
+  "id": 270,
+  "title": "A Videira e os Ramos",
+  "subtitle": "Permanecer no amor de Jesus faz a vida frutificar",
+  "reference": "João 15:1–17",
+  "description": "Na imagem de uma videira, Jesus ensina seus amigos sobre união, cuidado e amor que dá frutos.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.15.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma planta e seus ramos",
+      "paragraphs": [
+        "Jesus estava conversando com seus discípulos sobre o tempo em que não caminharia mais com eles da mesma maneira. Tinha muito a ensinar antes da despedida. Para explicar a ligação que continuaria entre eles, escolheu uma imagem conhecida: uma videira. Era a planta de cujos ramos nasciam os cachos de uvas.",
+        "Ele disse que era a videira verdadeira e que seu Pai era o agricultor. Quem cuidava de uma plantação sabia que os ramos precisavam de atenção. Havia poda e limpeza para que produzissem melhor. O trabalho do agricultor não terminava quando a planta começava a crescer; acompanhava seu desenvolvimento com cuidado.",
+        "Os discípulos eram os ramos. Essa comparação mostrava que a vida deles estava ligada à de Jesus. Um galho separado da planta não produz uvas por fazer muita força. Precisa permanecer unido à origem que o sustenta. Da mesma forma, seus amigos precisavam continuar ligados a ele, acolhendo suas palavras e seu amor."
+      ],
+      "alt": "Jesus explica a imagem da videira aos discípulos.",
+      "image": "270/part1.webp"
+    },
+    {
+      "heading": "Permanecer perto",
+      "paragraphs": [
+        "Jesus repetiu o convite para permanecer nele. A união não dependia apenas de estar fisicamente ao seu lado numa estrada. Depois, seus discípulos poderiam guardar suas palavras, conversar com Deus e viver o que haviam aprendido. Assim, a amizade continuaria presente nas decisões, no trabalho e no modo de tratar as pessoas.",
+        "Uma videira carregada mostra, nos cachos, a vida que circula pelos ramos. Jesus também desejava frutos na vida de seus amigos. Não eram medalhas para provar superioridade. Eram sinais de uma relação viva com ele. Seus ensinamentos conduziriam a atitudes que honravam o Pai e mostravam que aqueles homens eram seus discípulos.",
+        "Então Jesus explicou qual era o centro de tudo: o amor. Assim como o Pai o amava, ele amava seus amigos. Eles deveriam permanecer nesse amor, guardando seus mandamentos. O convite não era viver assustados tentando merecer cada cuidado. Era acolher o amor recebido e responder a ele com uma vida transformada."
+      ],
+      "alt": "Um ramo permanece unido à videira e produz uvas.",
+      "image": "270/part2.webp"
+    },
+    {
+      "heading": "Amigos que dão frutos",
+      "paragraphs": [
+        "Jesus queria que sua alegria estivesse nos discípulos e se tornasse completa neles. Seu mandamento era que amassem uns aos outros como ele os havia amado. A medida daquele amor apareceria na entrega da própria vida. Ele não falava de amizade apenas como conversa agradável, mas como compromisso profundo com o bem do outro.",
+        "Também chamou os discípulos de amigos. Havia compartilhado com eles o que recebera do Pai. Eles não eram pessoas mantidas à distância, sem conhecer seu coração. Jesus os escolhera para ir e produzir frutos que permanecessem. Sua missão continuaria além daquela conversa, alcançando outras pessoas por meio do amor aprendido.",
+        "A imagem da videira ficou ligada à despedida e à promessa de uma união duradoura. Os ramos não precisavam competir para ver qual parecia mais importante. Todos dependiam da mesma vida. Permanecer em Jesus e amar uns aos outros formavam um só caminho, que seus amigos poderiam percorrer mesmo quando não o vissem diante dos olhos."
+      ],
+      "alt": "Os discípulos ouvem Jesus com atenção e amizade.",
+      "image": "270/part3.webp"
+    }
+  ],
+  "lesson": "Permanecer em Jesus envolve alimentar a amizade com ele e praticar seu amor. Podemos reservar um momento para ouvir uma história bíblica, orar e depois transformar o aprendizado em ação. Dividir uma tarefa, escutar um amigo ou reparar uma palavra dura são frutos possíveis. Crescer leva tempo e precisa de cuidado; ninguém deve usar essa imagem para comparar o valor das pessoas.",
+  "question": "Que fruto de amor você pode cultivar hoje depois de ouvir esta história?",
+  "prayer": "Jesus, quero permanecer no teu amor. Ajuda-me a ouvir tuas palavras e a transformá-las em cuidado por outras pessoas. Quando eu estiver impaciente ou distraído, aproxima meu coração de ti. Que minha amizade contigo produza gestos de bondade que continuem crescendo. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/270.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus e seus discípulos observam uma videira carregada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Teaching visualization Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle with three adult disciples beside grapevine growing over low stone wall, lush leaves and purple grapes, warm cinematic late afternoon, friendly thoughtful expressions."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus ensina com a imagem da videira.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle speaking calmly to four adult disciples seated in first-century stone courtyard with vine in background, intimate composition, open hands, no text."
+    },
+    {
+      "role": "part2",
+      "alt": "Cachos de uvas crescem em ramos ligados à planta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Detailed close-up healthy grape branch visibly connected to thick woody vine, purple grapes and translucent green leaves, dappled sunlight, stone vineyard wall blurred behind, no people, cinematic 3D storybook."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus conversa de perto com seus amigos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle at eye level with two adult disciples on stone bench, listening and reassuring gesture, leafy vineyard courtyard, strong friendship mood, new close composition."
+    }
+  ]
+}

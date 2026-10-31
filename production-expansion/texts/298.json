@@ -1,0 +1,71 @@
+{
+  "id": 298,
+  "title": "Os Viajantes de Emaús",
+  "subtitle": "Jesus se aproxima de dois corações desanimados",
+  "reference": "Lucas 24:13–35",
+  "description": "Dois discípulos conversam pelo caminho sem perceber que o companheiro de viagem é Jesus ressuscitado.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.24.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma conversa na estrada",
+      "paragraphs": [
+        "No mesmo dia em que o túmulo de Jesus foi encontrado vazio, dois discípulos caminhavam de Jerusalém para uma aldeia chamada Emaús. Conversavam sobre tudo o que havia acontecido. A morte de Jesus tinha abalado suas esperanças, e as notícias daquela manhã ainda pareciam difíceis de compreender. Seus passos levavam também perguntas e tristeza.",
+        "Enquanto conversavam, Jesus se aproximou e começou a caminhar com eles. Os dois, porém, não o reconheceram. Ele perguntou sobre o assunto da conversa. Pararam, entristecidos. Um deles, chamado Cleopas, ficou surpreso por aquele viajante parecer não saber dos acontecimentos recentes em Jerusalém. Jesus perguntou o que tinha acontecido, dando espaço para que contassem.",
+        "Eles falaram de Jesus de Nazaré, de suas obras e palavras, e de como havia sido condenado e crucificado. Esperavam que fosse ele quem libertaria Israel. Agora já era o terceiro dia. Algumas mulheres tinham encontrado o túmulo vazio e relatado uma mensagem de anjos dizendo que ele estava vivo. Outros confirmaram o túmulo vazio, mas não o viram."
+      ],
+      "alt": "Dois discípulos caminham com Jesus pela estrada de Emaús.",
+      "image": "298/part1.webp"
+    },
+    {
+      "heading": "Palavras que aquecem o coração",
+      "paragraphs": [
+        "Jesus começou a explicar que eles precisavam compreender o que os profetas haviam anunciado. O Cristo passaria pelo sofrimento e entraria em sua glória. Partindo de Moisés e dos Profetas, mostrou nas Escrituras aquilo que dizia respeito a ele. A estrada se tornou lugar de aprendizado para dois amigos que pensavam ter perdido toda a esperança.",
+        "Os discípulos ouviam sem ainda perceber quem falava. Mais tarde, lembrariam como seus corações haviam sido aquecidos durante aquela explicação. Jesus não desprezou suas perguntas nem simplesmente exigiu que parassem de sentir tristeza. Caminhou com eles e os ajudou a olhar para os acontecimentos à luz de uma história maior, que não terminava na morte.",
+        "Quando se aproximaram da aldeia, Jesus fez como quem seguiria adiante. Os dois insistiram para que ficasse, pois o dia já estava terminando. Ele entrou para permanecer com eles. A hospitalidade abriu espaço para continuar o encontro. O viajante que os acompanhara na estrada agora dividiria a mesa naquela parada ao entardecer."
+      ],
+      "alt": "Jesus explica as Escrituras aos dois viajantes.",
+      "image": "298/part2.webp"
+    },
+    {
+      "heading": "Reconhecido ao partir o pão",
+      "paragraphs": [
+        "À mesa, Jesus tomou o pão, agradeceu a Deus, partiu-o e o entregou aos dois. Nesse momento, seus olhos se abriram, e eles o reconheceram. Era o Senhor! Então ele desapareceu de diante deles. Aquele companheiro de caminhada era o próprio Jesus ressuscitado, presente justamente quando seus corações estavam desanimados e cheios de perguntas.",
+        "Os dois comentaram sobre o que haviam sentido enquanto ele explicava as Escrituras pelo caminho. Não podiam guardar a notícia apenas entre si. Levantaram-se e voltaram imediatamente a Jerusalém. A estrada que antes carregara tristeza agora era percorrida com urgência e alegria. Precisavam encontrar os outros e compartilhar o que tinha acontecido.",
+        "Em Jerusalém, acharam os onze e seus companheiros reunidos. Ouviram que o Senhor realmente havia ressuscitado e aparecido a Simão. Então contaram sua própria experiência: a conversa na estrada e o reconhecimento ao partir o pão. A esperança ganhou voz entre os amigos. Jesus estava vivo e continuava se aproximando daqueles que precisavam reencontrar o caminho."
+      ],
+      "alt": "Os discípulos reconhecem Jesus quando ele parte o pão.",
+      "image": "298/part3.webp"
+    }
+  ],
+  "lesson": "Jesus se aproximou de pessoas tristes e ouviu suas perguntas. Podemos aprender a caminhar com quem está desanimado, oferecendo presença antes de respostas apressadas. A história também convida a buscar compreensão nas Escrituras e a compartilhar a esperança recebida. Quando não entendemos tudo, conversar, ouvir e acolher companhia pode abrir espaço para perceber um cuidado que antes não conseguíamos reconhecer.",
+  "question": "Como você pode fazer companhia a alguém que está triste, sem apressar seus sentimentos?",
+  "prayer": "Jesus, caminha comigo quando eu estiver triste ou confuso. Ajuda-me a ouvir tua palavra e a receber a companhia de quem cuida de mim. Ensina-me também a escutar com paciência outras pessoas. Que a esperança que recebo se transforme em presença e carinho. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/298.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus caminha com dois discípulos em direção a Emaús.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Risen Jesus cream tunic terracotta mantle walking beside two adult disciples on country road toward Emmaus at late afternoon, Cleopas middle-aged olive skin gray-streaked beard ochre robe brown shawl, companion younger dark beard muted blue robe, thoughtful conversation, gentle hills."
+    },
+    {
+      "role": "part1",
+      "alt": "Os viajantes contam a Jesus suas perguntas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same Cleopas ochre robe brown shawl and companion blue robe paused on dusty Judean path speaking sadly with Jesus cream tunic terracotta mantle, stone milestones and olive trees, respectful attentive listening."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus conversa durante a caminhada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Side tracking composition Jesus cream tunic terracotta mantle explaining with open hand while Cleopas ochre and companion blue listen walking together, warm sunset light, Emmaus houses far ahead, no text scrolls needed."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus parte o pão à mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated at small rustic table breaking round bread, Cleopas ochre robe and companion blue robe recognizing him with joyful surprise, warm oil lamp stone room, no magical flash no wounds focus."
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import { readFile, readdir, stat } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import assert from "node:assert/strict";
+import { STORY_COUNT } from "../shared/collection.mjs";
 const root = fileURLToPath(new URL("..", import.meta.url)),
   dist = join(root, "dist");
 async function walk(dir) {
@@ -43,7 +44,7 @@ assert.equal(
   JSON.parse(await readFile(join(dist, "sample.json"), "utf8")).id,
   1,
 );
-assert.equal(files.filter((p) => p.endsWith(".webp")).length, 46);
+assert.equal(files.filter((p) => p.endsWith(".webp")).length, STORY_COUNT + 6);
 console.log(
-  "Build verificado: nenhuma narrativa paga/segredo de servidor;46imagens públicas;3fontes locais;amostra1.",
+  `Build verificado: nenhuma narrativa paga/segredo de servidor; ${STORY_COUNT + 6} imagens públicas; 3 fontes locais; amostra 1.`,
 );

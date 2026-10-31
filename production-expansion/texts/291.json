@@ -1,0 +1,71 @@
+{
+  "id": 291,
+  "title": "Mais Tempo para a Figueira",
+  "subtitle": "Paciência que se transforma em cuidado",
+  "reference": "Lucas 13:6–9",
+  "description": "Uma figueira sem frutos recebe uma nova oportunidade e o cuidado atento de um trabalhador.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma árvore sem frutos",
+      "paragraphs": [
+        "Jesus contou uma parábola sobre uma figueira plantada numa vinha. Seu dono foi procurar frutos nela, mas não encontrou nenhum. A árvore ocupava um lugar no terreno e recebia aquilo de que precisava para crescer. Ainda assim, quando o proprietário se aproximava esperando figos, seus ramos permaneciam sem o resultado que ele buscava.",
+        "Aquela não era a primeira visita. O dono disse ao trabalhador da vinha que já fazia três anos que vinha procurar frutos naquela figueira e não encontrava. Sua paciência parecia ter chegado ao limite. Mandou que a cortasse, perguntando por que deveria continuar ocupando a terra sem produzir. Era uma decisão séria para aquela árvore.",
+        "Jesus contou a história depois de chamar seus ouvintes ao arrependimento. A figueira ajudava a pensar no tempo recebido e na resposta que deveria aparecer na vida. O dono não procurava apenas folhas ou uma aparência de crescimento. Esperava frutos. A imagem convidava as pessoas a considerar o que suas escolhas estavam produzindo."
+      ],
+      "alt": "O dono da vinha procura figos entre os ramos da árvore.",
+      "image": "291/part1.webp"
+    },
+    {
+      "heading": "O pedido do trabalhador",
+      "paragraphs": [
+        "O trabalhador pediu que o senhor deixasse a figueira por mais um ano. Não fingiu que os frutos estavam escondidos nem disse que a ausência deles não importava. Reconheceu a situação, mas propôs uma nova oportunidade. Antes do corte, queria dedicar à árvore um cuidado especial que poderia ajudá-la a responder de outra maneira.",
+        "Ele cavaria ao redor e colocaria adubo. A paciência de seu pedido vinha acompanhada de trabalho. Não era simplesmente esperar olhando para os mesmos ramos sem fazer nada. O trabalhador se oferecia para cuidar da terra e nutrir a figueira. Seu desejo de preservá-la se transformava numa tarefa concreta, feita ao redor de suas raízes.",
+        "Se produzisse frutos no ano seguinte, seria bom. Se não produzisse, o dono poderia cortá-la depois. A oportunidade não tornava o resultado sem importância. Havia esperança e também seriedade. Jesus apresentava uma cena em que o tempo adicional era um presente para ser aproveitado, unido ao cuidado de alguém que não queria desistir logo."
+      ],
+      "alt": "O trabalhador pede mais tempo e oferece cuidado à figueira.",
+      "image": "291/part2.webp"
+    },
+    {
+      "heading": "Uma oportunidade aberta",
+      "paragraphs": [
+        "A parábola termina sem contar o que aconteceu no ano seguinte. Não sabemos, pela história, se a figueira finalmente produziu figos. O final aberto deixa a atenção voltada para a oportunidade recebida. Os ouvintes não podiam apenas esperar pelo desfecho da árvore; precisavam considerar como responderiam ao chamado de Jesus em sua própria vida.",
+        "O cuidado do trabalhador revela uma paciência ativa. Cavando e adubando, ele procuraria oferecer condições para o crescimento. A imagem também ajuda a perceber que uma nova chance não precisa ser vivida sozinho. Pessoas podem receber orientação, apoio e tempo para mudar. A resposta, porém, precisa chegar às atitudes, como frutos que aparecem nos ramos.",
+        "Jesus não ensinava que alguém sem resultados visíveis tivesse perdido seu valor. A parábola era um chamado ao arrependimento, não uma medida para descartar pessoas. O tempo recebido podia ser acolhido com gratidão e responsabilidade. Diante daquela figueira, seus ouvintes eram convidados a deixar o adiamento e permitir que a mudança começasse de verdade."
+      ],
+      "alt": "O trabalhador cuida da terra ao redor da figueira.",
+      "image": "291/part3.webp"
+    }
+  ],
+  "lesson": "Uma nova oportunidade é um convite para mudar, e o cuidado pode ajudar essa mudança a acontecer. Podemos reconhecer um erro, aceitar orientação e praticar uma atitude diferente. A história também ensina uma paciência que trabalha: apoiar alguém inclui escutar e oferecer ajuda concreta. Ninguém deve ser tratado como descartável por aprender devagar. Crescimento precisa de tempo, responsabilidade e pessoas dispostas a cuidar.",
+  "question": "Que mudança você pode começar nesta nova oportunidade e de quem pode receber ajuda?",
+  "prayer": "Deus paciente, obrigado pelas oportunidades de aprender e mudar. Ajuda-me a reconhecer o que preciso corrigir e a aceitar orientação. Ensina-me também a cuidar de quem está crescendo, com paciência e atitudes concretas. Que o tempo recebido produza frutos de amor na minha vida. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/291.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O trabalhador cuida de uma figueira na vinha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration adult gardener olive skin short dark beard sage green tunic kneeling to loosen soil around young leafy fig tree with no fruit, vineyard rows behind, warm morning light, wooden hoe and small basket of compost, no Jesus."
+    },
+    {
+      "role": "part1",
+      "alt": "O proprietário procura frutos na figueira.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Mature owner gray beard cream robe rust sash gently lifting leafy fig branch searching for fruit but finding none, gardener sage green tunic nearby attentive, first-century vineyard, realistic small fig tree."
+    },
+    {
+      "role": "part2",
+      "alt": "O trabalhador pede uma nova oportunidade para a árvore.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Gardener sage green tunic speaking earnestly with mature owner cream robe rust sash beside fruitless fig tree, open hand toward soil, gentle serious expressions, medium eye-level composition."
+    },
+    {
+      "role": "part3",
+      "alt": "A terra da figueira recebe cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close low view same gardener sage green tunic carefully adding dark compost to loosened soil around fig tree base with small wooden scoop, tender roots undisturbed, warm sun through leaves, hopeful scene."
+    }
+  ]
+}

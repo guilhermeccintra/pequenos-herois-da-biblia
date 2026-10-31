@@ -1,0 +1,71 @@
+{
+  "id": 113,
+  "title": "As Cidades de Refúgio",
+  "subtitle": "Um lugar para ouvir antes de julgar",
+  "reference": "Josué 20",
+  "description": "Deus orienta Israel a separar cidades de refúgio. Ali, uma pessoa envolvida numa morte acidental poderia buscar proteção e ter sua situação ouvida com cuidado.",
+  "testament": "antigo",
+  "cover": "/images/covers/113.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quando uma tragédia acontecia",
+      "paragraphs": [
+        "A vida do povo de Israel incluía trabalho no campo, ferramentas, animais e muitas tarefas feitas em conjunto. Às vezes um acidente podia causar uma tragédia. A Bíblia distingue a morte provocada de propósito daquela que acontecia sem intenção. Essa diferença precisava ser considerada com seriedade, especialmente quando a dor deixava uma família tomada pela vontade de vingança.",
+        "Deus orientou Josué a separar cidades de refúgio, conforme já havia sido anunciado por meio de Moisés. Elas seriam lugares onde alguém que tivesse causado uma morte acidental poderia buscar proteção. Não serviriam para declarar toda pessoa inocente antes de ouvir o caso. Serviriam para impedir que a raiva decidisse tudo antes de uma avaliação justa.",
+        "O costume da vingança familiar fazia parte daquele tempo. Por isso, a orientação estabelecia limites e um caminho de proteção. A perda de uma vida não era tratada como algo pequeno. Justamente por ser tão séria, a situação não deveria ser resolvida por uma perseguição apressada, sem escuta, sem testemunhas e sem distinguir intenção de acidente."
+      ],
+      "image": "113/part1.webp",
+      "alt": "Famílias trabalham num campo antigo enquanto, ao fundo, uma cidade de pedra oferece abrigo."
+    },
+    {
+      "heading": "À porta da cidade",
+      "paragraphs": [
+        "A pessoa que fugia para uma cidade de refúgio deveria parar à entrada e apresentar sua situação aos anciãos. Os anciãos eram líderes responsáveis pela comunidade. Eles precisavam ouvir o relato e permitir que a pessoa encontrasse um lugar para morar ali enquanto o caso seguia o caminho previsto. A porta da cidade se tornava um lugar de escuta.",
+        "Se um parente da pessoa que morrera chegasse querendo vingança, os líderes não deveriam entregar imediatamente quem buscara refúgio. A orientação tratava de alguém que havia ferido sem intenção e sem ódio anterior. Era necessário considerar essas condições. Proteger durante a avaliação não significava ignorar a dor da família, mas impedir uma nova violência sem julgamento.",
+        "A pessoa ficaria na cidade até se apresentar diante da comunidade para que o caso fosse julgado. Também havia uma regra ligada à morte do sumo sacerdote daquele tempo para seu retorno à terra de origem. Eram normas próprias da organização antiga de Israel. O ponto principal era que a proteção e o julgamento tinham etapas que deveriam ser respeitadas."
+      ],
+      "image": "113/part2.webp",
+      "alt": "Um viajante explica sua situação aos anciãos sentados à sombra da entrada da cidade."
+    },
+    {
+      "heading": "Proteção em vários lugares",
+      "paragraphs": [
+        "Foram escolhidas seis cidades. A oeste do Jordão estavam Quedes, Siquém e Hebrom. A leste ficavam Bezer, Ramote e Golã. Sua distribuição ajudava a tornar o refúgio acessível em diferentes regiões. A orientação não foi deixada somente como uma ideia bonita. Ganhou nomes, lugares e pessoas responsáveis por receber quem precisasse dela.",
+        "O cuidado incluía tanto os israelitas quanto os estrangeiros que viviam entre eles. Uma pessoa vinda de outro povo também poderia buscar refúgio nas condições indicadas. Sua vida não valia menos por causa de sua origem. A justiça precisava considerar o que acontecera, e não simplesmente de onde alguém vinha ou quem era sua família.",
+        "Assim, as cidades de refúgio passaram a fazer parte da organização da terra. Elas lembravam que dor, pressa e vingança podem produzir novas tragédias. O povo precisava de lugares onde fosse possível parar, ouvir e avaliar. Nenhuma dessas regras transforma acidentes em coisas sem importância. Elas mostram a necessidade de proteger vidas enquanto se procura a verdade com responsabilidade."
+      ],
+      "image": "113/part3.webp",
+      "alt": "Pessoas de diferentes origens convivem num pátio seguro de uma cidade de refúgio."
+    }
+  ],
+  "lesson": "Antes de acusar alguém, precisamos ouvir e procurar ajuda responsável. Um acidente e uma atitude feita para machucar não são a mesma coisa, embora ambos possam exigir cuidado e reparação. Na escola ou em casa, não cabe a uma criança investigar sozinha situações perigosas. Podemos chamar um adulto, contar o que vimos sem inventar e ajudar quem se feriu. Justiça começa com atenção à verdade e proteção de todas as pessoas envolvidas.",
+  "question": "Quando acontece uma confusão, como você pode ajudar a esclarecer sem repetir boatos ou buscar vingança?",
+  "prayer": "Deus, cuida de quem sofre depois de uma tragédia. Dá sabedoria às pessoas responsáveis por proteger e fazer justiça. Ensina-nos a ouvir antes de acusar, a falar a verdade e a pedir ajuda. Que nossas escolhas diminuam a violência e preservem a vida. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Anciãos recebem um viajante à porta de uma cidade de refúgio, oferecendo espaço para conversar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israel stone city gate, elderly community leaders in earth-toned robes, distressed but unharmed adult traveler in brown cloak, diverse families. Peaceful protective atmosphere, no weapons or injury. Scene: Anciãos recebem um viajante à porta de uma cidade de refúgio, oferecendo espaço para conversar."
+    },
+    {
+      "role": "part1",
+      "alt": "Famílias trabalham num campo antigo enquanto, ao fundo, uma cidade de pedra oferece abrigo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israel stone city gate, elderly community leaders in earth-toned robes, distressed but unharmed adult traveler in brown cloak, diverse families. Peaceful protective atmosphere, no weapons or injury. Scene: Famílias trabalham num campo antigo enquanto, ao fundo, uma cidade de pedra oferece abrigo."
+    },
+    {
+      "role": "part2",
+      "alt": "Um viajante explica sua situação aos anciãos sentados à sombra da entrada da cidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israel stone city gate, elderly community leaders in earth-toned robes, distressed but unharmed adult traveler in brown cloak, diverse families. Peaceful protective atmosphere, no weapons or injury. Scene: Um viajante explica sua situação aos anciãos sentados à sombra da entrada da cidade."
+    },
+    {
+      "role": "part3",
+      "alt": "Pessoas de diferentes origens convivem num pátio seguro de uma cidade de refúgio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israel stone city gate, elderly community leaders in earth-toned robes, distressed but unharmed adult traveler in brown cloak, diverse families. Peaceful protective atmosphere, no weapons or injury. Scene: Pessoas de diferentes origens convivem num pátio seguro de uma cidade de refúgio."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 233,
+  "title": "O Caminho Simples de Miqueias",
+  "subtitle": "Justiça, misericórdia e humildade",
+  "reference": "Miqueias 6:6–8",
+  "description": "Uma pergunta sobre agradar a Deus recebe uma resposta que pode acompanhar cada escolha do dia.",
+  "testament": "antigo",
+  "cover": "/images/covers/233.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O que podemos oferecer?",
+      "paragraphs": [
+        "No livro de Miqueias, uma pergunta importante aparece diante do leitor: como alguém pode se apresentar ao Senhor? O texto imagina ofertas cada vez maiores. Seria necessário levar muitos animais ou uma quantidade imensa de azeite? A pergunta cresce e mostra o desejo de encontrar uma resposta que agrade a Deus.",
+        "As imagens chamam a atenção pela abundância. Milhares de carneiros e rios de azeite parecem grandes demais para contar. Enquanto o pensamento procura uma oferta impressionante, o profeta conduz a conversa para algo mais próximo da vida. O Senhor já havia mostrado ao povo um caminho bom para seguir.",
+        "A resposta de Miqueias reúne três orientações: praticar a justiça, amar a misericórdia e caminhar humildemente com Deus. São palavras que cabem na memória e podem acompanhar muitas situações. Cada uma abre uma porta para aprender como a fé se expressa na maneira de viver e de tratar outras pessoas."
+      ],
+      "image": "233/part1.webp",
+      "alt": "Uma família oferece atenção a um ensinamento"
+    },
+    {
+      "heading": "Justiça e misericórdia em ação",
+      "paragraphs": [
+        "Praticar a justiça envolve procurar o que é correto e respeitar o valor de cada pessoa. Isso pode aparecer ao repartir de maneira honesta, ouvir os dois lados de um desacordo e reconhecer quando alguém foi prejudicado. A justiça pede atenção à realidade e disposição para corrigir aquilo que precisa mudar.",
+        "Amar a misericórdia convida a cultivar um coração que se importa. Podemos perceber a dificuldade de alguém e oferecer ajuda com respeito. Também podemos acolher quem reconhece um erro e deseja repará-lo. A compaixão se aproxima da pessoa, procura compreender sua necessidade e encontra uma maneira cuidadosa de agir.",
+        "Essas duas orientações podem caminhar juntas. Quando uma regra é quebrada, por exemplo, podemos buscar uma solução justa e conversar sem humilhar ninguém. Quando algo precisa ser devolvido ou reparado, o cuidado ajuda a conduzir esse processo. O bem alcança a situação e também a dignidade das pessoas envolvidas."
+      ],
+      "image": "233/part2.webp",
+      "alt": "Uma criança reparte frutas com cuidado e justiça"
+    },
+    {
+      "heading": "Caminhar com humildade",
+      "paragraphs": [
+        "A terceira orientação fala de caminhar humildemente com Deus. A imagem lembra uma relação que continua ao longo do caminho. Quem caminha pode escutar, observar e ajustar os passos. A humildade reconhece que sempre há algo para aprender e que precisamos de orientação para crescer em sabedoria e amor.",
+        "Podemos levar a Deus nossas escolhas em oração e receber seus ensinamentos com atenção. Também podemos agradecer a ajuda de outras pessoas e admitir uma dúvida. Esse jeito de caminhar abre espaço para aprender com os mais velhos, escutar uma criança e reconhecer uma verdade que ainda não tínhamos percebido.",
+        "O ensino de Miqueias chega perto do nosso dia. Uma decisão justa, um gesto de compaixão e uma oração humilde podem acontecer na mesma manhã. Cada passo oferece uma oportunidade de responder ao Senhor. A pergunta sobre o que oferecer encontra um caminho vivo: um coração disposto a praticar o bem em companhia de Deus."
+      ],
+      "image": "233/part3.webp",
+      "alt": "Uma família caminha com humildade e carinho"
+    }
+  ],
+  "lesson": "Miqueias reúne três atitudes para guardar no coração: justiça, misericórdia e humildade. Podemos praticá-las ao ser honestos, cuidar de quem precisa e aceitar que ainda temos o que aprender. Escolha uma situação do seu dia e pense em como essas atitudes podem ajudar. Uma resposta justa pode ser dada com carinho, e um gesto bom pode nascer de uma oração simples e sincera.",
+  "question": "Qual das três atitudes você deseja praticar com mais atenção hoje: justiça, misericórdia ou humildade?",
+  "prayer": "Senhor, ensina-me a agir com justiça, a amar a misericórdia e a caminhar humildemente contigo. Ajuda-me a tratar cada pessoa com respeito e a aprender com os bons conselhos. Que minhas escolhas de hoje expressem teu amor de maneira simples e verdadeira. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/MIC06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Miqueias conversa com famílias junto a um caminho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Micah speaking gently to ancient Hebrew families beside a broad village path, elders and children listening, warm olive grove and simple homes, sincere approachable wisdom scene, no visible deity. Micah is a middle-aged olive-skinned Hebrew prophet with short curly dark hair, full beard, cream tunic and muted red-brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma família oferece atenção a um ensinamento",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Micah seated on a low stone bench with a blank parchment scroll, two adults and a child listening thoughtfully in an ancient village courtyard, modest clay jars and woven baskets, warm light. Micah is a middle-aged olive-skinned Hebrew prophet with short curly dark hair, full beard, cream tunic and muted red-brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma criança reparte frutas com cuidado e justiça",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative wisdom example: ordinary ancient Hebrew child fairly dividing figs into equal small clay bowls for friends, warm attentive faces, one friend offering help, rustic courtyard table, no written labels. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família caminha com humildade e carinho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family walking slowly with an elder along a safe village path, child listening attentively and adult offering elder a supportive arm, olive trees and golden morning, no named prophet or deity. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

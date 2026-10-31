@@ -1,0 +1,81 @@
+{
+  "id": 90,
+  "title": "A Nuvem Sobre o Acampamento",
+  "subtitle": "Há tempo de partir e tempo de permanecer",
+  "reference": "Números 9:15–23",
+  "description": "A nuvem sobre a tenda orienta o ritmo da jornada de Israel.",
+  "testament": "antigo",
+  "cover": "/images/covers/90.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um sinal sobre a tenda",
+      "paragraphs": [
+        "No dia em que o tabernáculo foi montado, uma nuvem o cobriu. Durante a noite, sua aparência era como fogo. O sinal podia ser percebido por todo o acampamento. A tenda lembrava a presença de Deus, e a nuvem mostrava que o povo não havia sido deixado para descobrir sozinho cada passo da jornada.",
+        "A comunidade precisava de direção. Eram muitas famílias, com crianças, idosos, animais e pertences. Mudar de lugar não era uma decisão pequena. Seria necessário desmontar tendas, preparar cargas e organizar o caminho. O ritmo da viagem não poderia depender apenas da pressa ou da preferência de algumas pessoas.",
+        "A orientação era clara: quando a nuvem se levantasse de sobre o tabernáculo, os israelitas partiriam. No lugar em que ela parasse, montariam seu acampamento. O sinal unia movimento e descanso. Deus não os orientava somente quando era hora de caminhar, mas também quando deveriam permanecer."
+      ],
+      "image": "90/part1.webp",
+      "alt": "A nuvem permanece sobre a tenda."
+    },
+    {
+      "heading": "Aprender a esperar",
+      "paragraphs": [
+        "Às vezes, a nuvem permanecia por muitos dias. O povo então continuava acampado, guardando a orientação recebida. Esperar também fazia parte da obediência. A ausência de movimento não significava que a jornada estivesse esquecida. Havia um tempo de ficar, mesmo quando as pessoas talvez imaginassem que já poderiam seguir adiante.",
+        "Em outras ocasiões, a permanência era curta. A nuvem podia ficar da tarde até a manhã e então se levantar. O povo precisava estar atento para partir, fosse de dia ou de noite. A caminhada exigia disponibilidade para responder, sem transformar uma parada temporária numa decisão de nunca mais sair dali.",
+        "O texto menciona períodos diferentes, de poucos dias a um mês ou um tempo mais longo. Não havia um calendário simples que permitisse aos israelitas prever todas as paradas. A repetição dessas situações mostra um aprendizado contínuo: observar, confiar e organizar a vida de acordo com a direção recebida."
+      ],
+      "image": "90/part2.webp",
+      "alt": "As famílias se preparam quando a nuvem se levanta."
+    },
+    {
+      "heading": "Caminhar como uma comunidade",
+      "paragraphs": [
+        "Enquanto permaneciam, as famílias cuidavam da vida no acampamento. Quando partiam, levavam consigo aquilo de que precisavam. A Bíblia concentra seu relato no sinal e na resposta do povo, sem descrever cada tarefa doméstica. Ainda assim, é fácil perceber que a orientação alcançava pessoas reais, com responsabilidades e limites diferentes.",
+        "A nuvem não chamava apenas os mais rápidos. O povo deveria seguir como comunidade, respeitando a organização transmitida por Moisés. A presença de Deus dava direção a todos. Cada família fazia parte de uma história compartilhada, em que avançar não significava simplesmente chegar primeiro e deixar o restante para trás.",
+        "Essa passagem termina repetindo que Israel parava e partia conforme a ordem do Senhor. Os dois movimentos tinham valor. Podemos guardar essa imagem como um convite à atenção: nem toda espera é perda de tempo, e nem toda mudança precisa ser temida. Há momentos de preparar, permanecer e caminhar, sempre buscando direção com responsabilidade."
+      ],
+      "image": "90/part3.webp",
+      "alt": "O povo caminha junto pelo deserto."
+    }
+  ],
+  "lesson": "A nuvem ensinava Israel a respeitar tanto a partida quanto a espera. Também precisamos aprender a perceber quando agir e quando parar para ouvir, preparar ou descansar. Nem sempre conseguimos decidir sozinhos, por isso é importante conversar com adultos de confiança e pedir sabedoria a Deus. Em atividades de grupo, avançar bem inclui cuidar de quem tem outro ritmo. A pressa não precisa nos fazer esquecer das pessoas.",
+  "question": "Em que situação você precisa aprender a esperar ou a respeitar o ritmo de outra pessoa?",
+  "prayer": "Senhor, dá-me atenção para reconhecer o tempo de agir e o tempo de esperar. Ajuda-me a buscar orientação, preparar meus passos e respeitar o ritmo dos outros. Que eu caminhe com responsabilidade, sem deixar o cuidado para trás. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A nuvem orienta o acampamento no deserto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Wide ancient Israelite desert camp with low rectangular tabernacle at center and luminous pillar cloud above, families prepare calmly near tents, majestic warm sky, no visible deity."
+    },
+    {
+      "role": "part1",
+      "alt": "A nuvem permanece sobre a tenda.",
+      "prompt": "Use case: illustration-story. New standalone landscape3:2,1536x1024 illustration for Pequenos Heróis ages6–12. Match richly detailed cinematic3D warm storybook render in reference, tactile linen and friendlyfaces. Reference supplies ONLY the SAME FOUR family identities and their clothing, plus distant tabernacle architecture, NOT composition or activities. Entirely NEW scene and camera angle: from inside the open shaded family tent looking diagonally outward into the desert camp at bright midday. Mother with rust-red headscarf kneels beside a small unlit cooking pot and serves bread onto a low wooden table, father with blue-white headcloth sits beside her holding a simple clay cup, their daughter and curly-haired son sit together on a woven rug in relaxed conversation. They are resting at camp, not packing. Far outside on the RIGHT side of the composition, the same low rectangular tabernacle behind a white linen fence has a steady white cloud above it, no fire. EXACTLY four foreground family members. No Moses, Aaron, deity, face in clouds, lettering, collage, frame, watermark, modern objects. Do not reproduce the cover's view, boy carrying sticks, father weaving or girl holding a blanket; all are now seated in a peaceful resting scene.",
+      "references": [
+        "production-expansion/art/90_cover.png"
+      ]
+    },
+    {
+      "role": "part2",
+      "alt": "As famílias se preparam quando a nuvem se levanta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity.  EXACT CAST AND SCENE: Sameanonymousfamilyfromcover: adultsrolltentclothsecurebundlesonpackdonkey, childrensafelynearparents. No MosesorAaron. SameLOWRECTANGULARtenttabernacledistant, whitecloudnow liftedclearlyaboveit, cooperativepreparation. No humanoidshape. Scene framing:  Adults roll tent cloth and secure bundles on donkeys while children stand with parents, cloud lifting from distant tabernacle, cooperative orderly preparation. References supply style and indicated identities ONLY; never copy the whole cast. No extra named figures. Create NEW composition distinct from cover. Detailedcinematicwarm3D,1536x1024landscape,nolettering. Compose a NEW view from the side of the family packing area: the loaded donkey occupies the RIGHT foreground, the father attaches a bundle to its saddle, mother rolls cloth on LEFT, children stand together watching behind her. Distant tabernacle offset LEFT, white cloud visibly lifted with a clear sky gap. Do not repeat the frontal family composition from the cover.",
+      "references": [
+        "production-expansion/art/90_cover.png"
+      ]
+    },
+    {
+      "role": "part3",
+      "alt": "O povo caminha junto pelo deserto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity.  EXACT CAST AND SCENE: Moses fromSECONDreference LEFT only namedcharacter; longwavygraywhitehair,longbeard,creamrobe terracotta mantle. Anonymousfamilies withchildrenandelderscarryingbundleswalkwithhim. Aaron ABSENT. LongcaravanthroughbroadDRYDESERTvalleyguidingwhitepillarcloudFARAHEAD. Campandtabernaclehavebeenpacked: no erecttabernaclebehind. No deityfaceorfigure. Scene framing:  Long family caravan follows desert valley beneath guiding cloud far ahead, elderly and children safely accompanied, Moses near foreground, expansive hopeful composition. References supply style and indicated identities ONLY; never copy the whole cast. No extra named figures. Create NEW composition distinct from cover. Detailedcinematicwarm3D,1536x1024landscape,nolettering.",
+      "references": [
+        "production-expansion/art/90_cover.png",
+        "production-expansion/art/65_cover.png"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+9%3A15-23&version=KJV"
+  ]
+}

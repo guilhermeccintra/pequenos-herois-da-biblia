@@ -1,0 +1,71 @@
+{
+  "id": 170,
+  "title": "Hulda e a Palavra de Deus",
+  "subtitle": "Coragem para dizer a verdade",
+  "reference": "2 Reis 22:14–20; 23:1–3",
+  "description": "Os enviados de Josias procuram a profetisa Hulda. Sua resposta não esconde a gravidade dos erros do povo, mas reconhece a humildade de um rei disposto a ouvir.",
+  "testament": "antigo",
+  "cover": "/images/covers/170.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita à profetisa",
+      "paragraphs": [
+        "Depois de encontrar o livro da lei no templo, Josias enviou homens de confiança para consultar o Senhor. O grupo incluía o sacerdote Hilquias, o secretário Safã e outros representantes do rei. Eles procuraram Hulda, uma profetisa que vivia em Jerusalém, numa parte da cidade chamada segundo bairro. Sua voz era reconhecida como uma voz de orientação.",
+        "A Bíblia também registra o nome de seu marido, Salum, que trabalhava como responsável por roupas. Esses detalhes colocam Hulda dentro da vida real da cidade. Ela não aparece como uma figura distante, sem casa ou relações. Era uma mulher com uma tarefa profética importante, procurada por homens que ocupavam posições de responsabilidade no reino.",
+        "Os enviados falaram com ela sobre o livro e a preocupação de Josias. O rei havia ouvido a leitura e percebido que o povo não seguira o compromisso recebido. Agora precisava de uma resposta que ajudasse a compreender a situação. Hulda não foi chamada para decorar uma cerimônia. Foi procurada para transmitir uma palavra que teria consequências para a comunidade."
+      ],
+      "image": "170/part1.webp",
+      "alt": "Hilquias, Safã e outros representantes chegam à casa de Hulda levando um rolo cuidadosamente guardado."
+    },
+    {
+      "heading": "Uma mensagem que não escondia o problema",
+      "paragraphs": [
+        "Hulda anunciou que o Senhor traria juízo sobre aquele lugar e seus habitantes, conforme as palavras do livro. O povo havia abandonado a aliança e seguido outros deuses. A mensagem era difícil, mas não seria alterada para agradar aos visitantes ou proteger a aparência de que tudo estava bem. O passado tinha consequências que precisavam ser reconhecidas.",
+        "Ela também deu uma resposta particular a respeito de Josias. Deus havia percebido seu coração sensível, sua humilhação e suas lágrimas ao ouvir a leitura. O rei não recebera a palavra com indiferença. Sua disposição de se arrepender era conhecida pelo Senhor, mesmo que uma única reação pessoal não apagasse toda a história de escolhas da comunidade.",
+        "Hulda anunciou que Josias seria poupado de presenciar a grande calamidade que viria sobre Jerusalém. Os enviados ouviram cada palavra com atenção. Havia uma resposta séria sobre o caminho do povo e também uma palavra dirigida ao coração sensível do rei. Era hora de voltar ao palácio e contar fielmente o que a profetisa lhes havia dito."
+      ],
+      "image": "170/part2.webp",
+      "alt": "Hulda transmite sua mensagem com firmeza e serenidade enquanto os enviados escutam atentos."
+    },
+    {
+      "heading": "A resposta chega ao povo",
+      "paragraphs": [
+        "Os homens voltaram e levaram a mensagem a Josias. A palavra de Hulda não ficou guardada numa conversa particular sem efeito. O rei convocou os anciãos de Judá e de Jerusalém. Depois subiu à casa do Senhor com sacerdotes, profetas e pessoas do povo, dos menores aos maiores, para que a leitura fosse compartilhada.",
+        "Josias leu diante de todos as palavras do livro da aliança encontrado no templo. Então assumiu o compromisso de seguir o Senhor de todo o coração e guardar seus mandamentos. O povo também participou desse compromisso. A descoberta, a consulta e a leitura pública formavam um caminho de resposta que envolvia mais pessoas do que o grupo enviado inicialmente.",
+        "Hulda havia cumprido sua parte falando com fidelidade. Não era responsável por controlar todas as decisões futuras do rei ou da comunidade. Sua coragem estava em comunicar a verdade, inclusive quando era desconfortável. A história reconhece uma mulher cuja palavra ajudou a orientar um momento decisivo, lembrando que sabedoria e autoridade para servir não pertencem somente aos homens ou aos lugares de maior destaque."
+      ],
+      "image": "170/part3.webp",
+      "alt": "Josias lê o livro da aliança diante de famílias e líderes reunidos no pátio do templo."
+    }
+  ],
+  "lesson": "Dizer a verdade com respeito pode exigir coragem. Hulda falou com firmeza e foi ouvida por pessoas importantes do reino. Sua história nos ensina a valorizar a sabedoria de mulheres e homens que servem com dedicação. Podemos ouvir com atenção, fazer perguntas e procurar uma pessoa de confiança quando precisamos de orientação. Um coração disposto a aprender descobre ajuda onde talvez ainda não tivesse procurado.",
+  "question": "Como você pode ouvir uma verdade desconfortável sem atacar a pessoa que a apresentou com respeito?",
+  "prayer": "Deus, dá-nos coragem para falar a verdade com respeito e humildade para recebê-la. Ajuda-nos a reconhecer a sabedoria de mulheres e homens que servem com responsabilidade. Protege quem denuncia injustiças e guia-nos até apoio confiável quando uma situação for maior que nossas forças. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Hulda conversa com os enviados de Josias num pátio tranquilo de Jerusalém, sendo ouvida com respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Huldah mature olive-skinned woman dark hair streaked gray cream headscarf muted purple dress teal shawl, dignified thoughtful expression; adult royal envoys earth robes; Josiah young adult blue royal robe. Ancient Jerusalem domestic courtyard and temple assembly, no legible text. Only scene named cast. Scene: Hulda conversa com os enviados de Josias num pátio tranquilo de Jerusalém, sendo ouvida com respeito."
+    },
+    {
+      "role": "part1",
+      "alt": "Hilquias, Safã e outros representantes chegam à casa de Hulda levando um rolo cuidadosamente guardado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Huldah mature olive-skinned woman dark hair streaked gray cream headscarf muted purple dress teal shawl, dignified thoughtful expression; adult royal envoys earth robes; Josiah young adult blue royal robe. Ancient Jerusalem domestic courtyard and temple assembly, no legible text. Only scene named cast. Scene: Hilquias, Safã e outros representantes chegam à casa de Hulda levando um rolo cuidadosamente guardado."
+    },
+    {
+      "role": "part2",
+      "alt": "Hulda transmite sua mensagem com firmeza e serenidade enquanto os enviados escutam atentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Huldah mature olive-skinned woman dark hair streaked gray cream headscarf muted purple dress teal shawl, dignified thoughtful expression; adult royal envoys earth robes; Josiah young adult blue royal robe. Ancient Jerusalem domestic courtyard and temple assembly, no legible text. Only scene named cast. Scene: Hulda transmite sua mensagem com firmeza e serenidade enquanto os enviados escutam atentos. MANDATORY SCENE CAST: Only Huldah and adult royal envoys. King Josiah is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Josias lê o livro da aliança diante de famílias e líderes reunidos no pátio do templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Huldah mature olive-skinned woman dark hair streaked gray cream headscarf muted purple dress teal shawl, dignified thoughtful expression; adult royal envoys earth robes; Josiah young adult blue royal robe. Ancient Jerusalem domestic courtyard and temple assembly, no legible text. Only scene named cast. Scene: Josias lê o livro da aliança diante de famílias e líderes reunidos no pátio do templo. MANDATORY SCENE CAST: Only Josiah and the assembled community. Huldah is absent. Reference provides rendering style only; do not copy its complete cast."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 258,
+  "title": "Nicodemos e o Novo Nascimento",
+  "subtitle": "Uma conversa que abre novas perguntas",
+  "reference": "João 3:1–21",
+  "description": "Nicodemos procura Jesus durante a noite. Mesmo sendo um mestre, descobre que ainda há muito para aprender sobre a vida que vem de Deus.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.3.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Um visitante durante a noite",
+      "paragraphs": [
+        "Nicodemos era fariseu e um dos líderes do povo judeu. Conhecia as Escrituras e tinha responsabilidade de ensinar. Certa noite, foi conversar com Jesus. Reconheceu que ele era um mestre vindo de Deus, porque os sinais que realizava mostravam a presença de Deus com ele. Nicodemos chegou com respeito e com interesse em compreender.",
+        "Jesus lhe respondeu falando sobre um novo nascimento. Disse que, para ver o Reino de Deus, era necessário nascer de novo, ou nascer do alto. A expressão trouxe uma ideia que Nicodemos não sabia como entender. Ele pensou no nascimento de um bebê e perguntou como uma pessoa adulta poderia nascer outra vez.",
+        "A pergunta de Nicodemos mostra que aprender pode exigir reconhecer uma dificuldade. Sua posição de mestre não fazia com que entendesse tudo imediatamente. Diante de Jesus, precisava ouvir e perguntar. A conversa não seria uma repetição das certezas que já trazia; abriria um caminho para compreender a vida de Deus de uma maneira nova."
+      ],
+      "alt": "Nicodemos visita Jesus durante uma noite tranquila.",
+      "image": "258/part1.webp"
+    },
+    {
+      "heading": "O vento e a vida do Espírito",
+      "paragraphs": [
+        "Jesus explicou que falava de nascer da água e do Espírito. Não se tratava de voltar a ser um bebê. Era uma vida recebida pela ação de Deus. O nascimento humano dá início à vida no corpo; a obra do Espírito traz uma transformação que não pode ser produzida apenas por esforço, posição social ou conhecimento religioso.",
+        "Para ajudar Nicodemos, Jesus usou a imagem do vento. Podemos ouvir seu som e perceber seus efeitos, embora não o seguremos nas mãos nem controlemos seu caminho. Assim também a ação do Espírito ultrapassa aquilo que conseguimos dominar. A comparação oferecia uma pista a partir de algo conhecido na experiência cotidiana.",
+        "Nicodemos perguntou como essas coisas poderiam acontecer. Jesus lembrou que ele era mestre de Israel e o convidou a levar a sério seu testemunho. A conversa exigia humildade. Saber muitas informações sobre Deus não era o mesmo que estar aberto a receber o que ele oferecia. Nicodemos precisava continuar escutando, mesmo sem compreender tudo de uma vez."
+      ],
+      "alt": "Jesus explica a Nicodemos enquanto uma brisa move as folhas do pátio.",
+      "image": "258/part2.webp"
+    },
+    {
+      "heading": "O amor que oferece vida",
+      "paragraphs": [
+        "Jesus recordou uma história do tempo de Moisés, quando uma serpente foi levantada no deserto. Usou essa lembrança para falar do Filho do Homem, que também seria levantado, para que os que cressem recebessem vida eterna. Suas palavras apontavam para a entrega que faria e para a salvação oferecida por meio dele.",
+        "O evangelho apresenta então uma declaração central: Deus amou o mundo e deu seu Filho para que quem nele crê tenha vida eterna. A missão do Filho era trazer salvação. A conversa iniciada durante a noite se abria para o tamanho desse amor, que não ficava restrito aos que possuíam títulos ou destaque na comunidade.",
+        "O ensino ligava a luz à verdade. Quem pratica a verdade se aproxima da luz e deixa que suas ações sejam conhecidas diante de Deus. Nicodemos chegara de noite, trazendo perguntas, e encontrara palavras sobre uma vida renovada. A conversa apontava para o amor de Deus e para um coração disposto a receber sua transformação."
+      ],
+      "alt": "Nicodemos escuta Jesus com atenção à luz de uma lamparina.",
+      "image": "258/part3.webp"
+    }
+  ],
+  "lesson": "Ter dúvidas não impede o aprendizado. Podemos fazer perguntas com respeito, procurar pessoas de confiança e admitir quando ainda não entendemos. Nicodemos, mesmo sendo mestre, precisava continuar aprendendo. A conversa também nos lembra que o amor de Deus não é um prêmio para quem sabe mais. Podemos recebê-lo com humildade e deixar que esse cuidado transforme nossa maneira de falar, escolher e tratar as pessoas.",
+  "question": "Que pergunta sobre Deus ou sobre a vida você gostaria de conversar com um adulto de confiança?",
+  "prayer": "Deus, obrigado pelo amor que oferece vida. Ajuda-nos a perguntar sem vergonha e a aprender com humildade. Que teu Espírito transforme nossas escolhas e nos ensine a caminhar na verdade, recebendo teu cuidado e compartilhando amor com as pessoas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/258.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus e Nicodemos conversam à luz de uma lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle speaking with Nicodemus mature Jewish scholar salt-and-pepper beard indigo robe cream headwrap in peaceful stone courtyard at night, small oil lamp warm glow, deep blue sky, thoughtful respectful faces."
+    },
+    {
+      "role": "part1",
+      "alt": "Nicodemos visita Jesus durante uma noite tranquila.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Nicodemus salt-and-pepper beard indigo robe cream headwrap arrives at warmly lit doorway where Jesus cream tunic terracotta mantle welcomes him, quiet ancient street under stars, no secrecy fear or danger."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus explica a Nicodemos enquanto uma brisa move as folhas do pátio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated explaining with open hand to Nicodemus indigo robe cream headwrap, vine leaves gently moving above courtyard, oil lamp and night sky, reflective composition."
+    },
+    {
+      "role": "part3",
+      "alt": "Nicodemos escuta Jesus com atenção à luz de uma lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close-medium Nicodemus indigo robe cream headwrap listens thoughtfully to Jesus cream tunic terracotta mantle across small wooden table, warm oil lamp illuminates kind faces, stars beyond, no writing."
+    }
+  ]
+}

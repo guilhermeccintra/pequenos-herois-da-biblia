@@ -1,0 +1,71 @@
+{
+  "id": 159,
+  "title": "Vinte Pães para Muitos",
+  "subtitle": "A surpresa de repartir",
+  "reference": "2 Reis 4:42–44",
+  "description": "Um homem leva pães de cevada a Eliseu. O alimento parece pequeno para cem pessoas, mas o profeta pede que seja repartido, e todos comem.",
+  "testament": "antigo",
+  "cover": "/images/covers/159.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um presente da colheita",
+      "paragraphs": [
+        "Um homem veio de Baal-Salisa trazendo alimento para Eliseu. Levava vinte pães de cevada e grãos novos, um presente ligado aos primeiros frutos da colheita. Ele separara parte da colheita e percorrera o caminho até ali com sua oferta. O alimento que carregava chegava num momento de necessidade e poderia ser repartido com as pessoas reunidas perto do profeta.",
+        "A cevada era um alimento simples, presente na vida comum. Os pães não eram uma demonstração de luxo. Tinham valor justamente porque podiam sustentar gente de verdade, especialmente num contexto em que a falta de comida preocupava a comunidade. Um presente modesto podia carregar trabalho, gratidão e disposição de compartilhar.",
+        "Quando recebeu o alimento, Eliseu não pediu que tudo fosse guardado somente para ele. Orientou que fosse entregue ao povo para comer. O que chegara às mãos do profeta deveria circular. A decisão mudou a pergunta da cena: em vez de pensar apenas em quem recebera o presente, era preciso considerar quem estava ao redor e também precisava de sustento."
+      ],
+      "image": "159/part1.webp",
+      "alt": "Um homem chega com um cesto de pães e grãos novos para oferecer a Eliseu."
+    },
+    {
+      "heading": "Parece pouco para tanta gente",
+      "paragraphs": [
+        "O servo olhou para os pães e para a quantidade de pessoas. Havia cem homens, e vinte pães pareciam insuficientes. Ele perguntou como poderia servir aquilo a tanta gente. Sua dúvida não era absurda. Fazia a conta do que estava diante de seus olhos e reconhecia um limite real entre a porção disponível e a necessidade do grupo.",
+        "Eliseu repetiu que o alimento deveria ser dado ao povo. Acrescentou a palavra do Senhor: todos comeriam, e ainda sobraria. O servo tinha diante de si os vinte pães e a tarefa de servi-los. Precisava começar a repartir, confiando na promessa anunciada pelo profeta, enquanto os homens reunidos aguardavam a refeição que havia chegado como presente.",
+        "O servo começou a repartir os pães diante dos homens. O presente trazido pelo visitante já não estava guardado apenas na cesta: passava de uma pessoa para outra. Eliseu havia orientado que todos recebessem alimento, e o servo seguia sua palavra. Aos poucos, o grupo que aguardava a refeição começou a comer."
+      ],
+      "image": "159/part2.webp",
+      "alt": "O servo observa os pães e a comunidade reunida, enquanto Eliseu o orienta com serenidade."
+    },
+    {
+      "heading": "Todos comem e ainda sobra",
+      "paragraphs": [
+        "Os homens comeram, e ainda houve sobra, conforme a palavra do Senhor. A refeição alcançou o grupo inteiro. O servo pôde ver que a promessa de Eliseu se cumprira diante de seus olhos. Os vinte pães, que pareciam poucos para cem pessoas, tinham sido repartidos, e ainda havia alimento depois que todos receberam sua porção.",
+        "Cada participante teve uma parte nessa cena. Um homem trouxe os pães; Eliseu reconheceu que deveriam ser compartilhados; o servo os colocou diante das pessoas; o grupo recebeu e comeu. A história de um milagre também inclui gestos humanos simples. A oferta não ficara parada numa prateleira, separada da necessidade que existia ao redor.",
+        "Ao fim da refeição, as sobras continuavam ali como sinal do que havia acontecido. Um homem trouxera seu presente, Eliseu anunciara a palavra do Senhor, e o servo repartira os pães. Cem pessoas haviam comido. A cesta que chegara de Baal-Salisa agora fazia parte de uma lembrança de generosidade e do sustento recebido pela comunidade."
+      ],
+      "image": "159/part3.webp",
+      "alt": "As pessoas comem juntas e algumas porções permanecem nos cestos, num momento de gratidão."
+    }
+  ],
+  "lesson": "Podemos reconhecer o valor de uma contribuição pequena sem achar que ela precisa resolver tudo sozinha. Um alimento doado, uma tarefa assumida ou um tempo oferecido pode se juntar à ajuda de outras pessoas. A história dos pães fala de um milagre particular; nossa partilha diária precisa de planejamento e responsabilidade. Repartir bem também inclui evitar desperdício e pensar em quem ainda não recebeu, para que o cuidado alcance mais gente.",
+  "question": "Que pequena contribuição você pode oferecer a uma ação coletiva de cuidado?",
+  "prayer": "Deus, obrigado pelo alimento e pelas pessoas que o repartem. Ajuda-nos a perceber quem ainda precisa receber e a colaborar com o que podemos oferecer. Ensina-nos a planejar com responsabilidade, evitar desperdício e agradecer pela ajuda que se soma em comunidade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Eliseu e um servo repartem pães de cevada entre pessoas sentadas num pátio acolhedor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; adult donor brown robe carrying basket of rustic barley flatbreads; servant beige tunic; seated adult community. No copied reference cast. Only people named in each scene. Scene: Eliseu e um servo repartem pães de cevada entre pessoas sentadas num pátio acolhedor."
+    },
+    {
+      "role": "part1",
+      "alt": "Um homem chega com um cesto de pães e grãos novos para oferecer a Eliseu.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; adult donor brown robe carrying basket of rustic barley flatbreads; servant beige tunic; seated adult community. No copied reference cast. Only people named in each scene. Scene: Um homem chega com um cesto de pães e grãos novos para oferecer a Eliseu."
+    },
+    {
+      "role": "part2",
+      "alt": "O servo observa os pães e a comunidade reunida, enquanto Eliseu o orienta com serenidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; adult donor brown robe carrying basket of rustic barley flatbreads; servant beige tunic; seated adult community. No copied reference cast. Only people named in each scene. Scene: O servo observa os pães e a comunidade reunida, enquanto Eliseu o orienta com serenidade."
+    },
+    {
+      "role": "part3",
+      "alt": "As pessoas comem juntas e algumas porções permanecem nos cestos, num momento de gratidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; adult donor brown robe carrying basket of rustic barley flatbreads; servant beige tunic; seated adult community. No copied reference cast. Only people named in each scene. Scene: As pessoas comem juntas e algumas porções permanecem nos cestos, num momento de gratidão."
+    }
+  ]
+}

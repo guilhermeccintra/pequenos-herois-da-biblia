@@ -1,0 +1,71 @@
+{
+  "id": 316,
+  "title": "Pedro na Casa de Cornélio",
+  "subtitle": "Deus não escolhe favoritos",
+  "reference": "Atos 10",
+  "description": "Cornélio chama Pedro para uma conversa que atravessa uma antiga separação. Os dois descobrem que a mensagem de Jesus alcança pessoas de todos os povos.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Dois homens, duas cidades",
+      "paragraphs": [
+        "Em Cesareia vivia Cornélio, um oficial romano que respeitava a Deus, orava e ajudava pessoas necessitadas. Certo dia, viu um anjo em uma visão. O mensageiro disse que suas orações e suas ofertas tinham sido lembradas diante de Deus e orientou que mandasse buscar Pedro, hospedado na casa de Simão, em Jope.",
+        "Cornélio chamou dois empregados e um soldado de confiança, contou o que acontecera e os enviou. No dia seguinte, enquanto eles se aproximavam de Jope, Pedro subiu ao terraço para orar. Sentiu fome e, enquanto preparavam a refeição, recebeu uma visão. Viu algo semelhante a um grande lençol descendo do céu com diversos animais.",
+        "Uma voz lhe disse que matasse e comesse. Pedro respondeu que nunca havia comido o que considerava impuro segundo os costumes de sua fé. A voz o orientou a não chamar de impuro o que Deus havia purificado. Isso aconteceu três vezes. Pedro ainda pensava no significado da visão quando os mensageiros chegaram à casa."
+      ],
+      "image": "316/part1.webp",
+      "alt": "Cornélio, oficial romano adulto de cabelo curto e túnica clara sem armadura, ora em uma sala simples de sua casa, iluminada pela tarde."
+    },
+    {
+      "heading": "Um encontro preparado",
+      "paragraphs": [
+        "O Espírito orientou Pedro a acompanhar os homens sem hesitar. Ele os recebeu e, no dia seguinte, partiu com eles e alguns irmãos de Jope. Em Cesareia, Cornélio aguardava com parentes e amigos próximos. Tinha reunido pessoas para ouvir. A viagem ligava duas casas e preparava um encontro que ultrapassava uma antiga barreira.",
+        "Ao receber Pedro, Cornélio se ajoelhou diante dele. Pedro o levantou, lembrando que também era um ser humano. Não viera para ser adorado. Ao entrar e encontrar o grupo reunido, explicou que Deus lhe mostrara que não deveria considerar nenhuma pessoa impura. A visão estava ajudando a transformar sua maneira de se relacionar com gente de outro povo.",
+        "Cornélio contou a visita do anjo e disse que todos estavam ali para ouvir o que Deus mandara Pedro falar. Pedro reconheceu então que Deus não faz distinção de pessoas. Pessoas de qualquer nação que o respeitam e praticam o que é justo são acolhidas por ele. A mensagem de paz por meio de Jesus não pertencia a um povo apenas."
+      ],
+      "image": "316/part2.webp",
+      "alt": "Pedro recebe três mensageiros no terraço de uma casa em Jope, com o mar ao fundo e expressão de atenção."
+    },
+    {
+      "heading": "A mesma família de fé",
+      "paragraphs": [
+        "Pedro anunciou a vida de Jesus, o bem que ele fizera, sua morte e sua ressurreição. Falou das testemunhas que o tinham visto vivo e do perdão recebido por quem nele crê. Os ouvintes não precisavam adivinhar por que Pedro havia viajado. A boa notícia sobre Jesus era o centro daquela reunião.",
+        "Enquanto ainda falava, o Espírito Santo veio sobre os que ouviam. Os irmãos que tinham acompanhado Pedro ficaram admirados ao perceber que o mesmo presente também era dado aos não judeus. Ouviram aquelas pessoas louvar a Deus. A experiência mostrou de modo claro que a família da fé estava se abrindo além das fronteiras que conheciam.",
+        "Pedro perguntou quem poderia impedir que fossem batizados, já que tinham recebido o Espírito como os primeiros discípulos. Eles foram batizados em nome de Jesus Cristo e pediram que Pedro ficasse alguns dias. A visita terminava com convivência e acolhimento. Dois homens que viviam em cidades e costumes diferentes agora participavam de uma mesma esperança."
+      ],
+      "image": "316/part3.webp",
+      "alt": "Pedro fala de Jesus a parentes e amigos de Cornélio em um pátio romano; todos escutam com alegria e respeito."
+    }
+  ],
+  "lesson": "Uma pessoa não vale menos por ter outra origem, língua ou costume. Podemos aprender a perceber ideias preconceituosas e corrigi-las, assim como Pedro precisou aprender. Acolher não exige saber tudo sobre alguém de imediato: começa com respeito e disposição para ouvir. Na escola e na família, evite apelidos que diminuem um povo ou uma aparência. A história de Cornélio convida a abrir espaço para quem costuma ser deixado de fora.",
+  "question": "Que atitude ajuda alguém de outra origem ou cultura a se sentir respeitado no seu grupo?",
+  "prayer": "Deus, obrigado porque teu amor alcança pessoas de todos os povos. Mostra-nos quando nossos pensamentos excluem ou diminuem alguém. Ensina-nos a ouvir, aprender e acolher com respeito. Que nossa família construa amizades sem preconceito, seguindo a paz de Jesus. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/316.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.10"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro e Cornélio se cumprimentam à entrada de uma casa romana em Cesareia, com famílias de origens diferentes reunidas em um pátio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Cornelius is a middle-aged Mediterranean Roman man, short dark greying hair, clean-shaven, cream tunic with burgundy trim, no weapons or armor in the home.  Scene: Pedro e Cornélio se cumprimentam à entrada de uma casa romana em Cesareia, com famílias de origens diferentes reunidas em um pátio."
+    },
+    {
+      "role": "part1",
+      "alt": "Cornélio, oficial romano adulto de cabelo curto e túnica clara sem armadura, ora em uma sala simples de sua casa, iluminada pela tarde.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Cornelius is a middle-aged Mediterranean Roman man, short dark greying hair, clean-shaven, cream tunic with burgundy trim, no weapons or armor in the home.  Scene: Cornélio, oficial romano adulto de cabelo curto e túnica clara sem armadura, ora em uma sala simples de sua casa, iluminada pela tarde. Elenco exato: somente Cornélio, sozinho; nenhum Pedro ou família."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro recebe três mensageiros no terraço de uma casa em Jope, com o mar ao fundo e expressão de atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Cornelius is a middle-aged Mediterranean Roman man, short dark greying hair, clean-shaven, cream tunic with burgundy trim, no weapons or armor in the home.  Scene: Pedro recebe três mensageiros no terraço de uma casa em Jope, com o mar ao fundo e expressão de atenção. Elenco exato: Pedro e três mensageiros adultos de roupas simples. Cornélio está ausente; nenhum oficial romano."
+    },
+    {
+      "role": "part3",
+      "alt": "Pedro fala de Jesus a parentes e amigos de Cornélio em um pátio romano; todos escutam com alegria e respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Cornelius is a middle-aged Mediterranean Roman man, short dark greying hair, clean-shaven, cream tunic with burgundy trim, no weapons or armor in the home.  Scene: Pedro fala de Jesus a parentes e amigos de Cornélio em um pátio romano; todos escutam com alegria e respeito."
+    }
+  ]
+}

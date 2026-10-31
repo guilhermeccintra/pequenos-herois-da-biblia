@@ -1,0 +1,74 @@
+{
+  "id": 213,
+  "title": "Um Tesouro Chamado Sabedoria",
+  "subtitle": "Aprender a confiar de todo o coração",
+  "reference": "Provérbios 3:1–18",
+  "description": "Um ensinamento carinhoso mostra que bondade, verdade e confiança em Deus são riquezas para a vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/213.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um conselho para guardar perto",
+      "paragraphs": [
+        "O terceiro capítulo de Provérbios começa como uma conversa carinhosa entre quem ensina e quem está aprendendo. O convite é guardar as orientações no coração e lembrar delas ao viver. A sabedoria se aproxima como um cuidado recebido: alguém deseja que nossos passos encontrem paz, compreensão e um caminho bom.",
+        "Bondade e verdade recebem um lugar especial nesse ensino. O texto usa duas imagens: levá-las junto ao pescoço e escrevê-las no coração. Podemos pensar em algo tão precioso que queremos manter sempre perto. Assim, ser bondoso e verdadeiro deixa de ser uma ideia distante e passa a acompanhar nossas escolhas.",
+        "Esse tesouro pode aparecer num gesto pequeno. Devolver o que encontramos, cumprir uma combinação e acolher alguém são maneiras de dar forma ao que guardamos por dentro. A orientação de Provérbios convida o leitor a construir uma vida em que as pessoas possam encontrar cuidado e confiar nas palavras que ouvem."
+      ],
+      "image": "213/part1.webp",
+      "alt": "Uma criança devolve uma pequena bolsa encontrada"
+    },
+    {
+      "heading": "Confiar e aprender",
+      "paragraphs": [
+        "Em seguida, o capítulo convida a confiar no Senhor de todo o coração. Quem aprende pode reconhecer que ainda precisa de orientação. Levar os caminhos a Deus inclui pedir sabedoria, escutar seu ensino e receber ajuda. A confiança abre espaço para aprender além daquilo que já conseguimos compreender sozinhos.",
+        "O texto também aconselha a humildade. Uma pessoa pode saber muitas coisas e ainda ter o que descobrir. Quando admitimos uma dúvida, fazemos uma pergunta ou aceitamos uma correção cuidadosa, damos um passo importante. O coração disposto a aprender encontra novas maneiras de fazer o bem e de se afastar do mal.",
+        "Há ainda um convite à gratidão pelo que recebemos. Honrar ao Senhor com nossos recursos envolve reconhecer que a vida e seus presentes merecem cuidado. Podemos aprender a repartir e a usar bem aquilo que temos. Desse modo, confiança, humildade e generosidade começam a caminhar lado a lado."
+      ],
+      "image": "213/part2.webp",
+      "alt": "Uma criança pede orientação a uma pessoa mais velha"
+    },
+    {
+      "heading": "Mais preciosa que o ouro",
+      "paragraphs": [
+        "Provérbios celebra a felicidade de quem encontra sabedoria. Para mostrar seu valor, compara esse achado à prata, ao ouro e às pedras preciosas. São riquezas que as pessoas desejam guardar. O ensino afirma que aprender a viver com entendimento é um tesouro ainda mais valioso para orientar o coração.",
+        "A sabedoria é apresentada com caminhos agradáveis e veredas de paz. Também recebe a imagem de uma árvore de vida para quem a abraça. Podemos imaginar sombra, alimento e firmeza. Essas figuras mostram como um aprendizado bom pode sustentar nossas relações, nossas decisões e a maneira de enfrentar as dificuldades.",
+        "Encontrar esse tesouro é um caminho feito de muitas descobertas. Hoje podemos aprender a escutar; amanhã, a reparar um erro; depois, a repartir com alegria. A conversa de Provérbios continua nos convidando a guardar bondade e verdade perto do coração. Assim, a riqueza da sabedoria encontra lugar nos passos de cada dia."
+      ],
+      "image": "213/part3.webp",
+      "alt": "Uma árvore frondosa cresce ao lado de um pequeno tesouro"
+    }
+  ],
+  "lesson": "Sabedoria é aprender a usar bem o que sabemos e a reconhecer quando precisamos de ajuda. Provérbios nos convida a confiar em Deus, guardar bondade e verdade e receber orientações com humildade. Pense numa situação em que você ainda tem dúvidas. Fazer uma pergunta a alguém de confiança pode ser um bom começo. Um coração que aprende guarda um tesouro precioso.",
+  "question": "Em que situação você pode pedir orientação para fazer uma escolha mais sábia?",
+  "prayer": "Senhor, ajuda-me a guardar bondade e verdade no coração. Ensina-me a confiar em ti e a reconhecer quando preciso de orientação. Que eu receba bons conselhos com humildade e use aquilo que aprendo para cuidar melhor das pessoas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PRO03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um adulto ensina com carinho junto a uma árvore",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative Proverbs scene: kind elderly ancient Hebrew teacher speaking warmly to two children beneath a lush fruit tree, blank parchment scroll on lap, attentive faces, small ancient village beyond, no named character. "
+    },
+    {
+      "role": "part1",
+      "alt": "Uma criança devolve uma pequena bolsa encontrada",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew child returning a small woven pouch to a grateful neighbor in village market, parent nearby, warm faces, rich linen and pottery textures, a simple truthful helpful gesture. "
+    },
+    {
+      "role": "part2",
+      "alt": "Uma criança pede orientação a uma pessoa mais velha",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Hebrew child asking a thoughtful question of grandmother at a rustic courtyard table, blank parchment open, grandmother listening with warm smile, fruit and clay cup, calm afternoon light. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma árvore frondosa cresce ao lado de um pequeno tesouro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic Proverbs landscape: thriving fruit tree beside a quiet path, small open wooden box containing a few gold pieces and polished gems in foreground, tree dominates composition as symbol of living wisdom, no people, no lettering. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 44,
+  "title": "Abraão e Ló Escolhem a Paz",
+  "subtitle": "Espaço para os rebanhos, cuidado com a família",
+  "reference": "Gênesis 13",
+  "description": "Os rebanhos de Abraão e Ló crescem, e seus pastores começam a discutir. Abraão propõe uma escolha que coloca a paz acima da disputa.",
+  "testament": "antigo",
+  "cover": "/images/covers/44.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quando o espaço ficou pequeno",
+      "paragraphs": [
+        "Abraão, que naquela época ainda se chamava Abrão, voltou do Egito com Sara e seu sobrinho Ló. Levavam seus pertences e muitos animais. Abraão possuía rebanhos, prata e ouro. Ló também tinha ovelhas, gado e tendas. Aquilo que mostrava o crescimento das duas famílias trouxe uma dificuldade: todos precisavam de espaço para viver.",
+        "Os animais necessitavam de pasto e água. Como os rebanhos eram grandes, a região não conseguia sustentar os dois grupos tão próximos. Além deles, outros povos já viviam naquela terra. Não era um lugar vazio, onde cada pessoa pudesse tomar tudo o que desejasse sem se importar com quem também dependia dali.",
+        "Os pastores de Abraão e os pastores de Ló começaram a discutir. A dificuldade prática estava se transformando em conflito. Se cada grupo insistisse em defender somente sua vantagem, a convivência ficaria ainda pior. Abraão percebeu que era preciso agir antes que a disputa entre os trabalhadores também afastasse definitivamente as duas famílias."
+      ],
+      "image": "44/part1.webp",
+      "alt": "Pastores acompanham grandes rebanhos em uma passagem estreita."
+    },
+    {
+      "heading": "Você pode escolher primeiro",
+      "paragraphs": [
+        "Abraão conversou com Ló. Pediu que não houvesse briga entre eles, nem entre seus pastores, pois pertenciam à mesma família. A relação valia mais do que vencer uma discussão sobre os campos. Reconhecer o problema não era desistir da paz. Era o primeiro passo para buscar um modo diferente de continuar vivendo.",
+        "Então Abraão apresentou uma proposta: poderiam seguir para lugares diferentes. Se Ló escolhesse um lado, ele iria para o outro. A terra estava diante deles, e havia espaço para reorganizar os rebanhos. Abraão era o mais velho, mas não exigiu a primeira escolha. Abriu mão dessa vantagem para interromper a disputa.",
+        "Ló levantou os olhos e viu a planície do Jordão. Era uma região bem regada, que parecia excelente para seus animais. Escolheu aquele lugar e partiu em direção ao leste. Assim, os dois grupos se separaram. A distância entre as tendas permitiria que cada um cuidasse de seus rebanhos sem repetir diariamente a mesma briga."
+      ],
+      "image": "44/part2.webp",
+      "alt": "Abraão convida Ló a escolher seu caminho, com a planície ao fundo."
+    },
+    {
+      "heading": "Um horizonte além da disputa",
+      "paragraphs": [
+        "Ló passou a viver entre as cidades da planície e armou suas tendas perto de Sodoma. O relato observa que ali havia muita maldade. Uma paisagem bonita não dizia tudo sobre o lugar. A decisão parecia vantajosa quando olhava apenas para a água e o pasto, mas a vida naquela região traria outras dificuldades.",
+        "Abraão permaneceu em Canaã. Depois da partida de Ló, Deus lhe disse que olhasse em todas as direções. Reafirmou a promessa da terra e de uma descendência numerosa. Abraão não havia perdido a companhia de Deus ao permitir que o sobrinho escolhesse primeiro. A promessa não dependia de ganhar aquela disputa pelos melhores campos.",
+        "Ele recebeu o convite de percorrer a terra e continuou sua caminhada. Mais tarde, armou suas tendas junto aos carvalhos de Manre, em Hebrom, onde construiu um altar. A história terminava com novos caminhos. Nem todas as diferenças precisavam ser resolvidas mantendo todos no mesmo lugar; naquele momento, reorganizar a vida ajudara a preservar a paz."
+      ],
+      "image": "44/part3.webp",
+      "alt": "Abraão arma sua tenda perto de grandes árvores em Canaã."
+    }
+  ],
+  "lesson": "Nem sempre resolver uma discussão significa conseguir exatamente o que queremos. Podemos ouvir, combinar turnos, dividir materiais ou procurar uma organização melhor. Fazer as pazes também pode incluir manter uma distância respeitosa quando isso ajuda. Generosidade não é aceitar maus-tratos: em situações injustas ou perigosas, procure um adulto. A proposta de Abraão nos ensina a buscar soluções que considerem as pessoas, e não somente nossa vantagem.",
+  "question": "Em qual situação você poderia propor uma combinação justa para evitar uma briga?",
+  "prayer": "Deus da paz, ajuda-nos a perceber quando uma disputa está crescendo. Dá-nos calma para ouvir e criatividade para encontrar acordos justos. Ensina-nos a valorizar as pessoas mais do que ganhar sempre. Cuida de nossa família e de nossas amizades. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abraão e Ló observam duas direções de uma ampla paisagem de pastagens.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult with dark beard, blue-green tunic and tan mantle. Scene: Abraham and adult nephew Lot stand on hillside looking at two distinct valleys, flocks in distance, open peaceful gestures, panoramic composition."
+    },
+    {
+      "role": "part1",
+      "alt": "Pastores acompanham grandes rebanhos em uma passagem estreita.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult with dark beard, blue-green tunic and tan mantle. Scene: Several adult shepherds with sheep and cattle at narrow grazing route, mild disagreement conveyed by gestures, no aggression, Abraham watching thoughtfully."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão convida Ló a escolher seu caminho, com a planície ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult with dark beard, blue-green tunic and tan mantle. Scene: Medium shot of Abraham calmly gesturing toward open valley while Lot listens, generous expression, distant green Jordan plain."
+    },
+    {
+      "role": "part3",
+      "alt": "Abraão arma sua tenda perto de grandes árvores em Canaã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man with white beard, cream robe, terracotta mantle and beige headcloth. Lot: younger adult with dark beard, blue-green tunic and tan mantle. Scene: EXACTLY ONE PERSON: elderly Abraham alone beside his tent among large oaks at Mamre. Lot is absent; no dark-bearded man or blue-clothed person anywhere. Wide evening shot with modest stone altar and sheep in distance. Show Abraham facing the tent calmly."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+13&version=KJV"
+  ]
+}

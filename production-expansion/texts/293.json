@@ -1,0 +1,71 @@
+{
+  "id": 293,
+  "title": "Jesus Ensina a Orar",
+  "subtitle": "Uma conversa sincera com o Pai",
+  "reference": "Mateus 6:5–13",
+  "description": "Jesus mostra que a oração nasce da confiança e ensina seus discípulos a falar com o Pai sobre a vida.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.6.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma conversa que não é apresentação",
+      "paragraphs": [
+        "No ensino do monte, Jesus falou sobre oração. Algumas pessoas gostavam de orar em lugares onde seriam vistas e admiradas. O problema não era haver outras pessoas por perto, mas transformar a conversa com Deus numa apresentação. Jesus convidou seus discípulos a buscar o Pai com sinceridade, sem fazer da oração uma maneira de conseguir aplausos.",
+        "Ele falou de entrar no quarto, fechar a porta e orar ao Pai que vê em secreto. A imagem mostrava que Deus não precisava de uma plateia para ouvir. Uma oração silenciosa, feita longe dos olhares, tinha valor. O encontro com o Pai não dependia de parecer importante diante de outras pessoas.",
+        "Jesus também ensinou que não era preciso acumular palavras vazias, como se uma grande quantidade delas obrigasse Deus a escutar. O Pai já conhecia as necessidades de seus filhos antes de serem apresentadas. Orar não era informar a um Deus distraído o que estava acontecendo. Era aproximar-se dele com confiança e abrir o coração."
+      ],
+      "alt": "Jesus conversa com seus discípulos sobre oração.",
+      "image": "293/part1.webp"
+    },
+    {
+      "heading": "Pai nosso",
+      "paragraphs": [
+        "Então Jesus ensinou uma oração que começava chamando Deus de Pai nosso, que está nos céus. A palavra nosso lembrava que ninguém precisava se aproximar pensando apenas em si. Havia uma família mais ampla nesse pedido. O Pai era tratado com proximidade e também com respeito: seu nome deveria ser honrado como santo.",
+        "A oração pedia a chegada do Reino de Deus e que sua vontade fosse feita na terra como no céu. Antes de apresentar uma lista de desejos pessoais, os discípulos eram convidados a desejar o bem de Deus para o mundo. Seu amor e sua justiça poderiam orientar a vida, as relações e as escolhas.",
+        "Depois vinha o pedido pelo pão de cada dia. A oração alcançava uma necessidade simples e concreta: o alimento. O Pai que está nos céus também se importa com a mesa das famílias. Pedir o pão nosso podia lembrar a necessidade de outras pessoas, convidando os discípulos à gratidão e à partilha do que recebiam."
+      ],
+      "alt": "Uma família agradece pelo alimento em uma mesa simples.",
+      "image": "293/part2.webp"
+    },
+    {
+      "heading": "Perdão e proteção",
+      "paragraphs": [
+        "Jesus ensinou a pedir perdão pelas dívidas, uma imagem dos erros e faltas diante de Deus. Esse pedido vinha ligado à disposição de perdoar os outros. Quem busca misericórdia também é chamado a deixar o desejo de vingança. A oração tocava as relações, onde palavras e atitudes podem machucar e precisam de cuidado.",
+        "Por fim, os discípulos eram ensinados a pedir que não fossem deixados cair em tentação e que fossem livrados do mal. Reconheciam que precisavam de ajuda para escolher o bem e enfrentar aquilo que ameaça a vida. Não estavam prometendo que seriam fortes sozinhos. Colocavam sua fragilidade diante do Pai e confiavam em sua proteção.",
+        "A oração ensinada por Jesus unia o céu e o cotidiano: o nome de Deus, seu Reino, o pão, o perdão e a proteção. Não era uma coleção de palavras mágicas. Era um caminho para conversar com o Pai, aprender a desejar o bem e lembrar que a vida pode ser apresentada a ele com confiança."
+      ],
+      "alt": "Um discípulo ora com serenidade num lugar reservado.",
+      "image": "293/part3.webp"
+    }
+  ],
+  "lesson": "Podemos orar com palavras simples e sinceras. Jesus ensina a olhar para Deus com respeito e confiança, lembrar das necessidades dos outros e pedir ajuda para viver melhor. A oração não exige uma apresentação perfeita. Ela pode incluir gratidão, dúvidas, tristeza e pedidos. Também nos convida a agir: compartilhar o pão, reparar erros e procurar caminhos de paz com cuidado e responsabilidade.",
+  "question": "Qual parte da oração ensinada por Jesus se aproxima mais do que você precisa conversar com Deus hoje?",
+  "prayer": "Pai nosso, que teu nome seja honrado em minha vida. Guia minhas escolhas pelo teu amor, cuida do nosso alimento e ensina-me a compartilhar. Perdoa meus erros, ajuda-me a perdoar com sabedoria e protege-nos do mal. Quero conversar contigo com sinceridade e confiança. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/293.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus ensina seus discípulos a orar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated peacefully with four adult disciples in sheltered Galilean hillside grove, gentle hands and attentive faces, soft morning light, quiet reverent cinematic 3D, no text."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus explica que a oração pode ser simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close eye-level Jesus cream tunic terracotta mantle speaking warmly to two adult disciples on stone bench, calm open hands, simple garden courtyard backdrop, no exaggerated glowing aura."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família agradece pelo pão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. First-century family two adults and one child modest linen robes around low wooden table with round bread and clay cups, hands resting respectfully as they give thanks, warm home interior, no Jesus."
+    },
+    {
+      "role": "part3",
+      "alt": "Um discípulo conversa com Deus em particular.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult disciple olive skin short dark hair beard muted teal tunic praying quietly alone seated near small window in simple stone room, relaxed reverent hands, warm natural light, no writing no symbols."
+    }
+  ]
+}

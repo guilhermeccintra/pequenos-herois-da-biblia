@@ -1,0 +1,74 @@
+{
+  "id": 203,
+  "title": "Um Coração que se Lembra",
+  "subtitle": "A gratidão cantada no Salmo 103",
+  "reference": "Salmo 103",
+  "description": "O poeta conversa com a própria alma e se lembra da misericórdia, da paciência e do amor de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/203.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma conversa por dentro",
+      "paragraphs": [
+        "Você já precisou lembrar a si mesmo de alguma coisa importante? No Salmo 103, Davi faz algo parecido. Ele conversa com a própria alma, convidando tudo o que existe dentro dele a louvar ao Senhor. É uma canção que começa no coração e, aos poucos, se abre para o mundo inteiro.",
+        "O poeta pede que sua alma guarde na memória os benefícios recebidos de Deus. Ele se lembra do perdão, do cuidado e da misericórdia. Em vez de deixar a gratidão escondida num canto, vai trazendo esses presentes para perto, como quem reúne lembranças preciosas e olha para cada uma com carinho.",
+        "A imagem de uma coroa aparece no poema. Essa coroa é feita de amor e compaixão. Davi também menciona a renovação das forças, comparada à vitalidade de uma águia. As palavras ajudam o leitor a perceber que a bondade de Deus alcança a vida por inteiro e sustenta a esperança."
+      ],
+      "image": "203/part1.webp",
+      "alt": "Um pai acolhe os filhos num jardim antigo"
+    },
+    {
+      "heading": "Um amor maior que a distância",
+      "paragraphs": [
+        "O salmo recorda a história do povo de Israel e o que Deus revelou a Moisés. O Senhor age com justiça em favor de quem sofre opressão. Sua paciência e sua misericórdia recebem destaque. Ele conhece nossas dificuldades e nos chama a viver com responsabilidade dentro de uma relação de amor.",
+        "Para falar desse amor, o poeta escolhe medidas enormes. Olha para a altura dos céus acima da terra. Pensa também na distância entre o nascente e o poente. Com essas imagens, celebra a grandeza da misericórdia e a maneira como Deus afasta de nós a culpa quando oferece seu perdão.",
+        "Em seguida, o poema usa uma figura muito próxima: um pai que se compadece de seus filhos. O cuidado acolhe a fragilidade de quem ainda precisa de ajuda. Deus conhece aquilo de que somos feitos. Diante dele podemos reconhecer nossos limites, aprender com os erros e buscar um caminho de reconciliação."
+      ],
+      "image": "203/part2.webp",
+      "alt": "O horizonte recebe a luz do amanhecer"
+    },
+    {
+      "heading": "Uma canção que se espalha",
+      "paragraphs": [
+        "A vida humana é comparada à relva e à flor do campo. As flores são bonitas, mas passam depressa quando o vento muda a paisagem. Ao lado dessa imagem delicada, o salmo celebra a permanência do amor de Deus, que alcança gerações e acompanha aqueles que guardam sua aliança.",
+        "A canção então cresce. Davi convida os anjos, os servos do Senhor e todas as suas obras a louvar. Aquilo que começou como uma conversa interior se transforma num convite imenso. Cada parte da criação parece encontrar seu lugar numa grande resposta de reconhecimento ao cuidado do Criador.",
+        "No final, o poeta volta a falar com sua alma. O caminho do louvor passa pelo céu inteiro e retorna ao coração. Podemos acompanhar esse movimento ao lembrar um cuidado recebido, agradecer pelo perdão e oferecer misericórdia a alguém. A memória agradecida ajuda a enxergar o dia com mais atenção."
+      ],
+      "image": "203/part3.webp",
+      "alt": "Flores do campo se movem suavemente ao vento"
+    }
+  ],
+  "lesson": "A gratidão pode começar com uma lembrança pequena: alguém que nos ajudou, um perdão recebido ou uma nova oportunidade. O Salmo 103 ensina a prestar atenção ao amor de Deus e a guardá-lo no coração. Quando lembramos que também precisamos de paciência e cuidado, fica mais fácil oferecer essas coisas aos outros. Agradecer pode transformar a maneira como tratamos quem está perto.",
+  "question": "Qual cuidado recebido você quer guardar na memória e agradecer a Deus hoje?",
+  "prayer": "Senhor, ajuda meu coração a lembrar tua bondade. Obrigado pelo perdão, pelo cuidado e pelas pessoas que me ajudam. Ensina-me a reconhecer meus limites e a tratar os outros com a mesma paciência e misericórdia que desejo receber. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA103.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi agradece em meio a uma paisagem florida",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David sitting with a wooden lyre in a flowering Judean meadow, gentle reflective smile and one hand over heart, immense sunlit sky, graceful eagle far overhead. Symbolic illustration of Psalm 103. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream tunic and muted blue shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Um pai acolhe os filhos num jardim antigo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Symbolic human scene for Psalm 103: ordinary ancient Hebrew father kneeling to embrace two children in a garden courtyard, warm compassionate faces, linen garments, pomegranate tree. The father is an ordinary human, not a depiction of God. "
+    },
+    {
+      "role": "part2",
+      "alt": "O horizonte recebe a luz do amanhecer",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic landscape showing vast luminous sky stretching from horizon to horizon over Judean hills, sunlight gently bathing land, small field flowers in foreground, sense of immeasurable love. No people. "
+    },
+    {
+      "role": "part3",
+      "alt": "Flores do campo se movem suavemente ao vento",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close low-angle view of delicate wildflowers and grasses moving in gentle breeze, distant ancient village and layered hills under expansive golden sky, poetic Psalm 103 atmosphere. No people. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

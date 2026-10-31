@@ -1,0 +1,71 @@
+{
+  "id": 308,
+  "title": "Sete Pessoas para Ajudar",
+  "subtitle": "Cuidar para ninguém ficar de fora",
+  "reference": "Atos 6:1–7",
+  "description": "Uma queixa revela que algumas viúvas estão sendo esquecidas. Os discípulos escutam o problema e organizam uma equipe para servir com justiça.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma necessidade esquecida",
+      "paragraphs": [
+        "O número de discípulos aumentava, e a comunidade precisava organizar muitas tarefas. Entre os seguidores de Jesus havia judeus que falavam grego e outros que falavam aramaico. Eles compartilhavam a fé, mas traziam línguas e experiências diferentes. Crescer juntos exigia mais que boas intenções: era necessário perceber como cada grupo estava sendo atendido.",
+        "Surgiu então uma queixa. As viúvas do grupo que falava grego estavam sendo esquecidas na distribuição diária de ajuda. A Bíblia não trata essa reclamação como uma perturbação que deveria ser silenciada. Havia uma necessidade real. Mulheres que precisavam do apoio da comunidade não estavam recebendo o cuidado que lhes era devido.",
+        "Os doze apóstolos reuniram os discípulos. Não bastava dizer que todos eram importantes e continuar fazendo tudo da mesma maneira. O problema precisava de uma resposta organizada. Os apóstolos também tinham a responsabilidade de orar e ensinar a palavra de Deus. Para que essas tarefas continuassem, outras pessoas deveriam assumir o cuidado da distribuição."
+      ],
+      "image": "308/part1.webp",
+      "alt": "Uma viúva conversa com discípulos junto a cestos de alimento; todos a escutam com seriedade e respeito."
+    },
+    {
+      "heading": "Uma equipe escolhida",
+      "paragraphs": [
+        "A proposta foi escolher sete homens de boa reputação, cheios do Espírito e de sabedoria. Servir às mesas não era uma tarefa sem valor. Exigia confiança, atenção e justiça. Quem organizasse a ajuda precisaria lidar com pessoas e necessidades, tomando decisões que afetavam a vida de quem dependia daquele cuidado diário.",
+        "A comunidade concordou com a proposta. Escolheu Estêvão, Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau. O relato destaca a fé de Estêvão e menciona a origem de Nicolau em Antioquia. Nomes diferentes aparecem juntos porque a solução não estava nas mãos de uma pessoa apenas. Uma equipe passaria a participar daquela responsabilidade.",
+        "Os sete foram apresentados aos apóstolos, que oraram e colocaram as mãos sobre eles. Era um gesto de envio e reconhecimento do serviço. A comunidade não precisava escolher entre ensinar e alimentar. Podia organizar pessoas para cuidar das duas tarefas, compreendendo que a fé também se expressava na maneira de servir."
+      ],
+      "image": "308/part2.webp",
+      "alt": "Os discípulos reúnem a comunidade em um pátio de pedra para organizar uma equipe de ajuda."
+    },
+    {
+      "heading": "Espaço para servir melhor",
+      "paragraphs": [
+        "A resposta à queixa não foi mandar as viúvas esperar em silêncio. A comunidade ouviu, reuniu-se e mudou sua organização. Isso mostra que um grupo pode aprender quando reconhece uma falha. Nem toda dificuldade é resolvida apenas com uma frase de consolo. Às vezes, o cuidado precisa de uma equipe, uma distribuição mais justa e responsabilidades claras.",
+        "Depois dessa decisão, a palavra de Deus continuou se espalhando, e o número de discípulos cresceu. Atos conta que muitos sacerdotes também passaram a obedecer à fé. O trabalho dos apóstolos e o serviço dos sete faziam parte de uma comunidade que aprendia a atender pessoas enquanto anunciava a mensagem de Jesus.",
+        "Os nomes dos sete ficaram registrados, mas a história também nos faz lembrar das mulheres cuja necessidade havia sido esquecida. A solução começou quando alguém falou sobre o problema e os outros aceitaram escutar. Uma comunidade acolhedora não é aquela que nunca erra. É aquela que se dispõe a perceber, corrigir e cuidar melhor de quem estava ficando de fora."
+      ],
+      "image": "308/part3.webp",
+      "alt": "Os sete ajudantes distribuem pão e mantimentos de modo organizado a viúvas de diferentes idades em um ambiente acolhedor."
+    }
+  ],
+  "lesson": "Se uma pessoa está sendo esquecida, vale prestar atenção e falar com respeito sobre o problema. Na família, na escola ou na igreja, dividir tarefas pode tornar o cuidado mais justo. Cada trabalho importa: ensinar, organizar, limpar, cozinhar e acolher. Quando uma queixa é verdadeira, escutar ajuda a melhorar. Você pode procurar um adulto e explicar o que percebeu, sem precisar resolver tudo sozinho.",
+  "question": "Existe alguma tarefa no seu grupo que poderia ser dividida melhor para ninguém ficar sobrecarregado ou esquecido?",
+  "prayer": "Jesus, ajuda-nos a perceber quem está ficando de fora. Ensina-nos a ouvir com humildade e a corrigir nossas falhas. Dá sabedoria a quem organiza o cuidado e alegria a quem serve. Que nossas tarefas mostrem respeito por cada pessoa. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/308.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.6"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Sete homens de diferentes aparências recebem uma oração de envio dos apóstolos em um pátio, com uma comunidade atenta ao redor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Sete homens de diferentes aparências recebem uma oração de envio dos apóstolos em um pátio, com uma comunidade atenta ao redor."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma viúva conversa com discípulos junto a cestos de alimento; todos a escutam com seriedade e respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Uma viúva conversa com discípulos junto a cestos de alimento; todos a escutam com seriedade e respeito."
+    },
+    {
+      "role": "part2",
+      "alt": "Os discípulos reúnem a comunidade em um pátio de pedra para organizar uma equipe de ajuda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Os discípulos reúnem a comunidade em um pátio de pedra para organizar uma equipe de ajuda."
+    },
+    {
+      "role": "part3",
+      "alt": "Os sete ajudantes distribuem pão e mantimentos de modo organizado a viúvas de diferentes idades em um ambiente acolhedor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Os sete ajudantes distribuem pão e mantimentos de modo organizado a viúvas de diferentes idades em um ambiente acolhedor."
+    }
+  ]
+}

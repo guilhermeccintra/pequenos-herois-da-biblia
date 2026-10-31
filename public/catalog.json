@@ -398,5 +398,3255 @@
     "testament": "novo",
     "cover": "/images/covers/40.webp",
     "duration": "4–7 min"
+  },
+  {
+    "id": 41,
+    "title": "Agar e a Água no Deserto",
+    "subtitle": "Um choro que não passou despercebido",
+    "reference": "Gênesis 21:14–21",
+    "description": "No deserto, Agar e Ismael ficam sem água. Entre o medo e a descoberta de um poço, encontram cuidado e uma esperança para continuar.",
+    "testament": "antigo",
+    "cover": "/images/covers/41.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 42,
+    "title": "Caim e Abel: Antes que a Raiva Cresça",
+    "subtitle": "Escolher o cuidado antes da violência",
+    "reference": "Gênesis 4:1–16",
+    "description": "Caim e Abel apresentam suas ofertas a Deus. Quando a raiva cresce no coração de Caim, uma advertência mostra que ainda havia outra escolha.",
+    "testament": "antigo",
+    "cover": "/images/covers/42.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 43,
+    "title": "Enoque Caminha com Deus",
+    "subtitle": "A amizade que acompanhou seus dias",
+    "reference": "Gênesis 5:21–24; Hebreus 11:5–6",
+    "description": "Em uma longa lista de gerações, o nome de Enoque guarda uma lembrança especial: ele viveu em amizade com Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/43.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 44,
+    "title": "Abraão e Ló Escolhem a Paz",
+    "subtitle": "Espaço para os rebanhos, cuidado com a família",
+    "reference": "Gênesis 13",
+    "description": "Os rebanhos de Abraão e Ló crescem, e seus pastores começam a discutir. Abraão propõe uma escolha que coloca a paz acima da disputa.",
+    "testament": "antigo",
+    "cover": "/images/covers/44.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 45,
+    "title": "Abraão Sai em Socorro de Ló",
+    "subtitle": "A coragem de não abandonar",
+    "reference": "Gênesis 14:1–16",
+    "description": "Uma guerra atinge a região onde Ló vive, e ele é levado prisioneiro. Ao receber a notícia, Abraão reúne ajuda para resgatá-lo.",
+    "testament": "antigo",
+    "cover": "/images/covers/45.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 46,
+    "title": "Melquisedeque e a Bênção da Gratidão",
+    "subtitle": "Reconhecer de onde vem o bem",
+    "reference": "Gênesis 14:17–24",
+    "description": "Depois do resgate de Ló, Abraão encontra Melquisedeque. Pão, bênção e uma escolha generosa marcam seu retorno.",
+    "testament": "antigo",
+    "cover": "/images/covers/46.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 47,
+    "title": "Três Visitantes à Porta da Tenda",
+    "subtitle": "Hospitalidade e uma notícia surpreendente",
+    "reference": "Gênesis 18:1–15",
+    "description": "Abraão recebe três visitantes junto à sua tenda. Enquanto oferece descanso e alimento, Sara escuta uma notícia que parece impossível.",
+    "testament": "antigo",
+    "cover": "/images/covers/47.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 48,
+    "title": "Abraão Ora por uma Cidade",
+    "subtitle": "Uma conversa sobre justiça e misericórdia",
+    "reference": "Gênesis 18:16–33",
+    "description": "Ao ouvir sobre a gravidade do mal em Sodoma, Abraão se aproxima de Deus para falar sobre as pessoas que viviam ali.",
+    "testament": "antigo",
+    "cover": "/images/covers/48.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 49,
+    "title": "A Saída de Ló",
+    "subtitle": "Aceitar a mão que ajuda a sair",
+    "reference": "Gênesis 19:1–29",
+    "description": "Ló recebe dois mensageiros em Sodoma. Diante do perigo e da destruição anunciada, sua família precisa ouvir, sair e buscar proteção.",
+    "testament": "antigo",
+    "cover": "/images/covers/49.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 50,
+    "title": "O Riso de Sara",
+    "subtitle": "A alegria que chegou depois da espera",
+    "reference": "Gênesis 21:1–7",
+    "description": "Sara e Abraão recebem o filho prometido. O nascimento de Isaque transforma a longa espera em uma alegria para compartilhar.",
+    "testament": "antigo",
+    "cover": "/images/covers/50.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 51,
+    "title": "Um Acordo Junto ao Poço",
+    "subtitle": "Conversar com verdade para viver em paz",
+    "reference": "Gênesis 21:22–34",
+    "description": "Abraão e Abimeleque desejam firmar um acordo. Antes disso, um problema envolvendo um poço precisa ser ouvido e resolvido.",
+    "testament": "antigo",
+    "cover": "/images/covers/51.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 52,
+    "title": "Rebeca e os Camelos Sedentos",
+    "subtitle": "A generosidade que foi além do pedido",
+    "reference": "Gênesis 24",
+    "description": "Um servo de Abraão chega a um poço depois de uma longa viagem. Rebeca oferece água e revela, em suas atitudes, uma disposição generosa.",
+    "testament": "antigo",
+    "cover": "/images/covers/52.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 53,
+    "title": "Isaque Abre Espaço para a Paz",
+    "subtitle": "Continuar sem alimentar a briga",
+    "reference": "Gênesis 26:12–33",
+    "description": "Os poços de Isaque se tornam motivo de disputa. Em vez de responder com violência, ele segue trabalhando até encontrar espaço para viver em paz.",
+    "testament": "antigo",
+    "cover": "/images/covers/53.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 54,
+    "title": "Jacó Chega ao Poço de Harã",
+    "subtitle": "Um encontro no fim da viagem",
+    "reference": "Gênesis 29:1–14",
+    "description": "Depois de muitos dias longe de casa, Jacó chega a um poço. Uma conversa com pastores o aproxima da família que procurava.",
+    "testament": "antigo",
+    "cover": "/images/covers/54.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 55,
+    "title": "Lea Também é Vista",
+    "subtitle": "O valor que não depende da preferência dos outros",
+    "reference": "Gênesis 29:31–35",
+    "description": "Lea vive em uma família marcada por comparações. Sua história lembra que Deus percebe quem se sente deixado de lado.",
+    "testament": "antigo",
+    "cover": "/images/covers/55.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 56,
+    "title": "Jacó Volta a Betel",
+    "subtitle": "Voltar ao lugar da promessa",
+    "reference": "Gênesis 35:1–15",
+    "description": "Deus orienta Jacó a voltar a Betel. A família prepara a viagem, deixa para trás outros deuses e recorda o cuidado recebido.",
+    "testament": "antigo",
+    "cover": "/images/covers/56.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 57,
+    "title": "O Abraço que Jacó Esperava",
+    "subtitle": "O reencontro que parecia impossível",
+    "reference": "Gênesis 45:25–28; 46:1–30",
+    "description": "Jacó recebe a notícia de que José está vivo. Uma viagem ao Egito o leva ao abraço que havia perdido a esperança de receber.",
+    "testament": "antigo",
+    "cover": "/images/covers/57.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 58,
+    "title": "Um Pastor Diante do Faraó",
+    "subtitle": "Dignidade diante de qualquer pessoa",
+    "reference": "Gênesis 46:31–34; 47:1–12",
+    "description": "José apresenta sua família ao faraó. Jacó, um pastor idoso vindo de outra terra, entra no palácio levando sua história e uma bênção.",
+    "testament": "antigo",
+    "cover": "/images/covers/58.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 59,
+    "title": "A Bênção de Efraim e Manassés",
+    "subtitle": "Uma bênção para as próximas gerações",
+    "reference": "Gênesis 48",
+    "description": "José leva Efraim e Manassés para visitar Jacó. O avô recorda o cuidado de Deus e abençoa os netos de uma maneira inesperada.",
+    "testament": "antigo",
+    "cover": "/images/covers/59.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 60,
+    "title": "José Escolhe Consolar",
+    "subtitle": "O perdão que se transforma em cuidado",
+    "reference": "Gênesis 50:15–21",
+    "description": "Depois da morte de Jacó, os irmãos de José sentem medo do passado. José responde com verdade, consolo e a decisão de continuar cuidando da família.",
+    "testament": "antigo",
+    "cover": "/images/covers/60.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 61,
+    "title": "A Esperança que Atravessou Gerações",
+    "subtitle": "Uma promessa maior que uma vida",
+    "reference": "Gênesis 50:22–26; Êxodo 13:19",
+    "description": "No fim da vida, José deixa à família uma esperança que seus descendentes levariam consigo.",
+    "testament": "antigo",
+    "cover": "/images/covers/61.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 62,
+    "title": "Sifrá e Puá Protegem a Vida",
+    "subtitle": "Coragem para proteger quem precisa",
+    "reference": "Êxodo 1:8–22",
+    "description": "Duas parteiras enfrentam uma ordem cruel e escolhem cuidar da vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/62.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 63,
+    "title": "Um Cesto Entre os Juncos",
+    "subtitle": "Um bebê cercado por escolhas de cuidado",
+    "reference": "Êxodo 2:1–10",
+    "description": "A mãe de Moisés, sua irmã e a filha do faraó ajudam a preservar uma pequena vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/63.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 64,
+    "title": "Moisés Ajuda Junto ao Poço",
+    "subtitle": "A bondade encontra lugar num recomeço",
+    "reference": "Êxodo 2:15–22",
+    "description": "Longe do Egito, Moisés ajuda sete irmãs junto a um poço e encontra acolhimento.",
+    "testament": "antigo",
+    "cover": "/images/covers/64.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 65,
+    "title": "Tijolos sem Palha",
+    "subtitle": "Quando fazer o certo encontra resistência",
+    "reference": "Êxodo 5",
+    "description": "Moisés e Arão enfrentam a recusa do faraó, e o povo sofre com uma ordem ainda mais injusta.",
+    "testament": "antigo",
+    "cover": "/images/covers/65.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 66,
+    "title": "Uma Promessa no Meio do Cansaço",
+    "subtitle": "Deus escuta até quem já não consegue responder",
+    "reference": "Êxodo 6:1–9",
+    "description": "Em meio ao trabalho cruel, Moisés leva ao povo uma promessa de libertação e pertencimento.",
+    "testament": "antigo",
+    "cover": "/images/covers/66.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 67,
+    "title": "Miriã e o Cântico da Liberdade",
+    "subtitle": "A gratidão encontra voz e movimento",
+    "reference": "Êxodo 15:1–21",
+    "description": "Depois da travessia, Miriã reúne as mulheres para celebrar o cuidado de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/67.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 68,
+    "title": "As Águas de Mara",
+    "subtitle": "Depois da água amarga, um lugar para respirar",
+    "reference": "Êxodo 15:22–27",
+    "description": "No deserto, o povo aprende a levar sua necessidade a Deus e encontra descanso em Elim.",
+    "testament": "antigo",
+    "cover": "/images/covers/68.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 69,
+    "title": "O Pão que Chegava de Manhã",
+    "subtitle": "O suficiente para cada família, a cada dia",
+    "reference": "Êxodo 16:1–21",
+    "description": "No deserto, o maná ensina o povo a receber o alimento com confiança e responsabilidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/69.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 70,
+    "title": "Um Dia para Descansar",
+    "subtitle": "O cuidado de Deus também oferece descanso",
+    "reference": "Êxodo 16:22–36",
+    "description": "O povo aprende a preparar o alimento e separar um dia para parar, agradecer e confiar.",
+    "testament": "antigo",
+    "cover": "/images/covers/70.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 71,
+    "title": "Água em Refidim",
+    "subtitle": "Uma necessidade real, uma resposta de cuidado",
+    "reference": "Êxodo 17:1–7",
+    "description": "Em Refidim, a falta de água se torna uma oportunidade de reconhecer a presença de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/71.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 72,
+    "title": "Arão e Hur Sustentam as Mãos",
+    "subtitle": "Até quem lidera precisa ser sustentado",
+    "reference": "Êxodo 17:8–16",
+    "description": "Arão e Hur percebem o cansaço de Moisés e encontram uma forma de ajudá-lo.",
+    "testament": "antigo",
+    "cover": "/images/covers/72.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 73,
+    "title": "Jetro Ensina a Dividir as Tarefas",
+    "subtitle": "Uma tarefa grande pede uma equipe",
+    "reference": "Êxodo 18",
+    "description": "Jetro observa o dia de Moisés e oferece um conselho que beneficia todo o povo.",
+    "testament": "antigo",
+    "cover": "/images/covers/73.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 74,
+    "title": "Uma Aliança e uma Mesa",
+    "subtitle": "Uma promessa ouvida e assumida em comunidade",
+    "reference": "Êxodo 24",
+    "description": "Ao pé do Sinai, o povo escuta a aliança e participa de um momento de compromisso com Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/74.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 75,
+    "title": "Presentes para a Tenda do Encontro",
+    "subtitle": "Cada oferta encontra seu lugar no cuidado comum",
+    "reference": "Êxodo 25:1–9; 35:4–29",
+    "description": "Pessoas com recursos e habilidades diferentes contribuem para a construção do tabernáculo.",
+    "testament": "antigo",
+    "cover": "/images/covers/75.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 76,
+    "title": "Bezalel e Aoliabe: Mãos que Ensinam",
+    "subtitle": "Talentos que crescem quando são compartilhados",
+    "reference": "Êxodo 31:1–11; 35:30–35",
+    "description": "Bezalel e Aoliabe recebem habilidades para construir e ensinar outras pessoas.",
+    "testament": "antigo",
+    "cover": "/images/covers/76.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 77,
+    "title": "O Bezerro de Ouro",
+    "subtitle": "A pressa não pode decidir em nosso lugar",
+    "reference": "Êxodo 32",
+    "description": "Durante a ausência de Moisés, o povo faz uma escolha grave e precisa enfrentar suas consequências.",
+    "testament": "antigo",
+    "cover": "/images/covers/77.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 78,
+    "title": "Moisés Pede a Presença de Deus",
+    "subtitle": "Mais importante que chegar é caminhar com Deus",
+    "reference": "Êxodo 33",
+    "description": "Moisés pede direção, companhia e uma compreensão maior da bondade do Senhor.",
+    "testament": "antigo",
+    "cover": "/images/covers/78.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 79,
+    "title": "Duas Novas Tábuas",
+    "subtitle": "A misericórdia abre espaço para um novo compromisso",
+    "reference": "Êxodo 34",
+    "description": "Moisés sobe novamente ao Sinai e retorna com as tábuas da aliança.",
+    "testament": "antigo",
+    "cover": "/images/covers/79.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 80,
+    "title": "Quando os Presentes Foram Suficientes",
+    "subtitle": "Generosidade também sabe reconhecer o suficiente",
+    "reference": "Êxodo 36:1–7",
+    "description": "Os artesãos percebem que já receberam os materiais necessários e Moisés interrompe a coleta.",
+    "testament": "antigo",
+    "cover": "/images/covers/80.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 81,
+    "title": "A Tenda Fica Pronta",
+    "subtitle": "O trabalho de muitas mãos encontra seu propósito",
+    "reference": "Êxodo 40",
+    "description": "O tabernáculo é montado, e a nuvem lembra ao povo que Deus acompanha sua caminhada.",
+    "testament": "antigo",
+    "cover": "/images/covers/81.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 82,
+    "title": "Uma Bênção Sobre o Povo",
+    "subtitle": "Mãos levantadas para desejar o bem",
+    "reference": "Levítico 9:1–24",
+    "description": "Arão começa seu serviço e abençoa a comunidade reunida diante do Senhor.",
+    "testament": "antigo",
+    "cover": "/images/covers/82.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 83,
+    "title": "As Espigas que Ficavam no Campo",
+    "subtitle": "A colheita também podia alimentar quem chegava depois",
+    "reference": "Levítico 19:9–18",
+    "description": "Deus ensina Israel a deixar parte dos campos para pessoas que precisavam de alimento.",
+    "testament": "antigo",
+    "cover": "/images/covers/83.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 84,
+    "title": "A Balança Justa",
+    "subtitle": "A honestidade cabe em pequenas medidas",
+    "reference": "Levítico 19:35–37; 25:14–17",
+    "description": "Nas trocas e nas compras, Deus ensina o povo a não tirar vantagem de outras pessoas.",
+    "testament": "antigo",
+    "cover": "/images/covers/84.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 85,
+    "title": "Um Lugar para Quem Chega de Longe",
+    "subtitle": "Lembrar a própria história ajuda a acolher",
+    "reference": "Levítico 19:33–34",
+    "description": "Deus orienta Israel a tratar o estrangeiro com amor e respeito.",
+    "testament": "antigo",
+    "cover": "/images/covers/85.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 86,
+    "title": "Quando a Terra Descansava",
+    "subtitle": "A terra também recebe um tempo de pausa",
+    "reference": "Levítico 25:1–7",
+    "description": "Deus ensina Israel a cultivar com responsabilidade e a reconhecer que a criação não é uma máquina sem limites.",
+    "testament": "antigo",
+    "cover": "/images/covers/86.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 87,
+    "title": "O Ano do Recomeço",
+    "subtitle": "Uma oportunidade de voltar e recomeçar",
+    "reference": "Levítico 25:8–17,23–28",
+    "description": "O jubileu ensina Israel a limitar a perda das terras familiares e a lembrar a quem a terra pertence.",
+    "testament": "antigo",
+    "cover": "/images/covers/87.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 88,
+    "title": "A Festa que Lembrava o Deserto",
+    "subtitle": "Uma festa para lembrar o cuidado no caminho",
+    "reference": "Levítico 23:33–43",
+    "description": "Cabanas, ramos e gratidão ajudam as novas gerações a conhecer a história da libertação.",
+    "testament": "antigo",
+    "cover": "/images/covers/88.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 89,
+    "title": "Palavras de Paz para o Caminho",
+    "subtitle": "Palavras que lembram proteção, bondade e paz",
+    "reference": "Números 6:22–27",
+    "description": "Deus ensina Arão e seus filhos a abençoar o povo durante sua caminhada.",
+    "testament": "antigo",
+    "cover": "/images/covers/89.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 90,
+    "title": "A Nuvem Sobre o Acampamento",
+    "subtitle": "Há tempo de partir e tempo de permanecer",
+    "reference": "Números 9:15–23",
+    "description": "A nuvem sobre a tenda orienta o ritmo da jornada de Israel.",
+    "testament": "antigo",
+    "cover": "/images/covers/90.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 91,
+    "title": "O Chamado das Trombetas",
+    "subtitle": "Um som claro ajuda todos a caminhar juntos",
+    "reference": "Números 10:1–10",
+    "description": "Duas trombetas de prata organizam os encontros, as partidas e as celebrações de Israel.",
+    "testament": "antigo",
+    "cover": "/images/covers/91.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 92,
+    "title": "Eldade e Medade no Acampamento",
+    "subtitle": "O bem não precisa acontecer apenas perto de nós",
+    "reference": "Números 11:24–30",
+    "description": "Moisés se alegra quando Eldade e Medade também recebem o Espírito de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/92.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 93,
+    "title": "Miriã, Arão e a Humildade",
+    "subtitle": "A humildade troca a disputa pelo cuidado",
+    "reference": "Números 12",
+    "description": "Miriã e Arão falam contra Moisés, e ele responde pedindo a cura de sua irmã.",
+    "testament": "antigo",
+    "cover": "/images/covers/93.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 94,
+    "title": "Doze Espias e um Cacho de Uvas",
+    "subtitle": "A mesma terra, duas maneiras de olhar",
+    "reference": "Números 13–14",
+    "description": "Doze homens conhecem Canaã, mas Josué e Calebe respondem ao desafio com confiança.",
+    "testament": "antigo",
+    "cover": "/images/covers/94.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 95,
+    "title": "O Cajado que Floresceu",
+    "subtitle": "Um ramo seco se torna lembrança de vida",
+    "reference": "Números 17",
+    "description": "O cajado de Arão floresce e ajuda o povo a reconhecer a responsabilidade que Deus lhe confiara.",
+    "testament": "antigo",
+    "cover": "/images/covers/95.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 96,
+    "title": "Moisés e a Rocha de Meribá",
+    "subtitle": "Até quem lidera precisa ouvir com cuidado",
+    "reference": "Números 20:1–13",
+    "description": "Em Meribá, Moisés recebe uma orientação sobre a água e aprende que a responsabilidade também exige humildade.",
+    "testament": "antigo",
+    "cover": "/images/covers/96.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 97,
+    "title": "Um Sinal de Cura no Deserto",
+    "subtitle": "Reconhecer o erro abre espaço para pedir ajuda",
+    "reference": "Números 21:4–9",
+    "description": "Durante uma jornada difícil, o povo recebe um sinal de cuidado depois de pedir que Moisés ore por ele.",
+    "testament": "antigo",
+    "cover": "/images/covers/97.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 98,
+    "title": "Balaão Precisa Parar",
+    "subtitle": "A pressa e a raiva podem esconder o que precisamos perceber",
+    "reference": "Números 22:21–35",
+    "description": "No caminho para encontrar Balaque, Balaão descobre que sua jumenta enxergava um perigo que ele não via.",
+    "testament": "antigo",
+    "cover": "/images/covers/98.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 99,
+    "title": "Bênçãos no Lugar de Maldições",
+    "subtitle": "A verdade não pode ser comprada por uma recompensa",
+    "reference": "Números 23–24",
+    "description": "Balaque quer ouvir palavras contra Israel, mas Balaão precisa anunciar as bênçãos que recebe de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/99.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 100,
+    "title": "As Cinco Irmãs Falam por Justiça",
+    "subtitle": "Uma pergunta corajosa pode abrir caminho para a justiça",
+    "reference": "Números 27:1–11",
+    "description": "As filhas de Zelofeade apresentam sua necessidade, e Moisés leva a questão diante de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/100.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 101,
+    "title": "Josué Recebe uma Responsabilidade",
+    "subtitle": "Preparar outra pessoa também é uma forma de cuidar",
+    "reference": "Números 27:12–23",
+    "description": "Moisés pede que Israel não fique sem direção, e Josué é apresentado para uma nova responsabilidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/101.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 102,
+    "title": "Cidades para Ouvir com Justiça",
+    "subtitle": "A pressa de julgar pode aumentar uma dor",
+    "reference": "Números 35:9–34; Deuteronômio 19:1–13",
+    "description": "Deus orienta Israel a preparar cidades onde uma situação grave pudesse ser examinada antes de uma vingança.",
+    "testament": "antigo",
+    "cover": "/images/covers/102.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 103,
+    "title": "Palavras para Levar no Coração",
+    "subtitle": "O amor a Deus acompanha os pequenos momentos",
+    "reference": "Deuteronômio 6:4–9",
+    "description": "Moisés ensina que a palavra do Senhor deve fazer parte do coração, das conversas e da vida em família.",
+    "testament": "antigo",
+    "cover": "/images/covers/103.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 104,
+    "title": "Não Esqueçam o Caminho",
+    "subtitle": "A gratidão ajuda a lembrar de quem caminhou conosco",
+    "reference": "Deuteronômio 8",
+    "description": "Moisés recorda o cuidado no deserto e prepara o povo para receber uma terra boa sem esquecer de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/104.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 105,
+    "title": "Moisés se Despede com Esperança",
+    "subtitle": "Uma despedida pode guardar gratidão e esperança",
+    "reference": "Deuteronômio 31:1–13; 34",
+    "description": "Moisés encoraja Josué, entrega o ensino ao povo e contempla a terra antes do fim de sua jornada.",
+    "testament": "antigo",
+    "cover": "/images/covers/105.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 106,
+    "title": "Josué Recebe uma Grande Missão",
+    "subtitle": "Coragem para continuar",
+    "reference": "Josué 1",
+    "description": "Depois da morte de Moisés, Josué precisa conduzir o povo. Uma promessa de companhia, um livro para meditar e o apoio dos companheiros o ajudam a começar.",
+    "testament": "antigo",
+    "cover": "/images/covers/106.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 107,
+    "title": "Raabe e o Cordão Vermelho",
+    "subtitle": "Uma casa, uma promessa",
+    "reference": "Josué 2",
+    "description": "Raabe acolhe dois mensageiros em Jericó e pede proteção para sua família. Um cordão vermelho na janela se torna o sinal de um compromisso que precisará ser cumprido.",
+    "testament": "antigo",
+    "cover": "/images/covers/107.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 108,
+    "title": "A Travessia do Jordão",
+    "subtitle": "O caminho que se abriu",
+    "reference": "Josué 3",
+    "description": "O Jordão está cheio, e o povo precisa atravessar. Os sacerdotes avançam com a arca, e famílias inteiras descobrem um caminho onde antes só havia água.",
+    "testament": "antigo",
+    "cover": "/images/covers/108.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 109,
+    "title": "Doze Pedras para Lembrar",
+    "subtitle": "Uma história para contar aos filhos",
+    "reference": "Josué 4",
+    "description": "Depois da travessia do Jordão, doze homens carregam pedras do rio. Elas formarão uma lembrança para que as crianças possam perguntar e ouvir a história do cuidado de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/109.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 110,
+    "title": "A Primeira Páscoa na Nova Terra",
+    "subtitle": "Do maná ao fruto da terra",
+    "reference": "Josué 5:10–12",
+    "description": "Em Gilgal, os israelitas celebram a Páscoa. Depois de tantos anos recebendo maná no deserto, provam os alimentos da terra onde começarão uma nova vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/110.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 111,
+    "title": "Calebe Pede a Montanha",
+    "subtitle": "Uma promessa lembrada por muitos anos",
+    "reference": "Josué 14:6–15",
+    "description": "Aos oitenta e cinco anos, Calebe se apresenta a Josué com a lembrança de uma promessa. Sua confiança mostra que cada fase da vida pode ter uma tarefa importante.",
+    "testament": "antigo",
+    "cover": "/images/covers/111.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 112,
+    "title": "Acsa Pede Fontes de Água",
+    "subtitle": "Coragem para dizer do que precisamos",
+    "reference": "Josué 15:16–19",
+    "description": "Acsa recebe uma terra no Neguebe e percebe que precisa de água para cuidar dela. Com respeito e clareza, apresenta seu pedido a Calebe.",
+    "testament": "antigo",
+    "cover": "/images/covers/112.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 113,
+    "title": "As Cidades de Refúgio",
+    "subtitle": "Um lugar para ouvir antes de julgar",
+    "reference": "Josué 20",
+    "description": "Deus orienta Israel a separar cidades de refúgio. Ali, uma pessoa envolvida numa morte acidental poderia buscar proteção e ter sua situação ouvida com cuidado.",
+    "testament": "antigo",
+    "cover": "/images/covers/113.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 114,
+    "title": "Um Altar e uma Conversa",
+    "subtitle": "Perguntar pode evitar uma briga",
+    "reference": "Josué 22:10–34",
+    "description": "Um grande altar perto do Jordão provoca suspeitas entre as tribos. Antes de começar um conflito, representantes atravessam a distância para ouvir a explicação dos irmãos.",
+    "testament": "antigo",
+    "cover": "/images/covers/114.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 115,
+    "title": "Josué e a Escolha da Família",
+    "subtitle": "Um compromisso para viver",
+    "reference": "Josué 24:1–28",
+    "description": "Em Siquém, Josué reúne o povo para lembrar sua história e renovar um compromisso. Servir a Deus precisaria aparecer nas escolhas da casa e da comunidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/115.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 116,
+    "title": "Débora Debaixo da Palmeira",
+    "subtitle": "Uma mulher que ajudava o povo a decidir",
+    "reference": "Juízes 4:1–10",
+    "description": "Num tempo difícil, Débora escuta o povo e oferece orientação. Debaixo de uma palmeira, suas palavras ajudam a abrir um caminho de responsabilidade e coragem.",
+    "testament": "antigo",
+    "cover": "/images/covers/116.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 117,
+    "title": "Baraque Reúne as Tribos",
+    "subtitle": "Cada pessoa faz sua parte",
+    "reference": "Juízes 4:10–16",
+    "description": "Baraque reúne os homens de duas tribos no monte Tabor. Com Débora ao seu lado, aprende que coragem também envolve ouvir a hora de agir e assumir sua parte.",
+    "testament": "antigo",
+    "cover": "/images/covers/117.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 118,
+    "title": "O Cântico de Débora",
+    "subtitle": "Dar nome à ajuda recebida",
+    "reference": "Juízes 5:1–15,31",
+    "description": "Depois de um tempo de opressão, Débora e Baraque cantam. O cântico recorda a dor do povo e reconhece as pessoas que se dispuseram a ajudar.",
+    "testament": "antigo",
+    "cover": "/images/covers/118.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 119,
+    "title": "As Árvores Procuram um Rei",
+    "subtitle": "Uma história sobre quem quer mandar",
+    "reference": "Juízes 9:7–21",
+    "description": "Jotão conta uma fábula em que árvores procuram um rei. A oliveira, a figueira, a videira e o espinheiro ajudam a pensar sobre liderança e escolhas responsáveis.",
+    "testament": "antigo",
+    "cover": "/images/covers/119.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 120,
+    "title": "Mica e os Ídolos de Prata",
+    "subtitle": "Nem tudo que parece religioso faz bem",
+    "reference": "Juízes 17–18",
+    "description": "Mica reúne objetos religiosos em sua casa e pensa que eles garantirão sua segurança. Quando viajantes levam tudo embora, ele precisa encarar a fragilidade dessa confiança.",
+    "testament": "antigo",
+    "cover": "/images/covers/120.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 121,
+    "title": "Ana Leva Sua Tristeza a Deus",
+    "subtitle": "Uma oração que podia ter lágrimas",
+    "reference": "1 Samuel 1",
+    "description": "Ana deseja muito ter um filho e sofre com palavras que a machucam. Em Siló, ela encontra espaço para abrir o coração diante de Deus e ser ouvida.",
+    "testament": "antigo",
+    "cover": "/images/covers/121.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 122,
+    "title": "Um Casaco para Samuel",
+    "subtitle": "O carinho que acompanhava o crescimento",
+    "reference": "1 Samuel 2:18–21,26",
+    "description": "Samuel cresce servindo em Siló. A cada visita, Ana leva um pequeno casaco, um gesto de cuidado que acompanha o menino enquanto ele aprende suas tarefas.",
+    "testament": "antigo",
+    "cover": "/images/covers/122.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 123,
+    "title": "Samuel Aprende a Escutar",
+    "subtitle": "Uma voz no silêncio da noite",
+    "reference": "1 Samuel 3",
+    "description": "Durante a noite, Samuel ouve seu nome e corre até Eli. Depois de algumas tentativas, aprende a responder ao chamado de Deus e a contar uma mensagem difícil com honestidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/123.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 124,
+    "title": "A Arca Volta para Casa",
+    "subtitle": "Alegria no caminho dos campos",
+    "reference": "1 Samuel 6:1–18",
+    "description": "Depois de meses entre os filisteus, a arca é colocada num carro puxado por duas vacas. Os trabalhadores de Bete-Semes veem chegar uma lembrança importante da aliança de Israel.",
+    "testament": "antigo",
+    "cover": "/images/covers/124.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 125,
+    "title": "A Pedra de Ebenézer",
+    "subtitle": "Até aqui recebemos ajuda",
+    "reference": "1 Samuel 7:2–17",
+    "description": "Samuel chama o povo a voltar para Deus e ora por Israel num momento de medo. Depois, levanta uma pedra para lembrar a ajuda recebida.",
+    "testament": "antigo",
+    "cover": "/images/covers/125.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 126,
+    "title": "Saul Procura as Jumentas",
+    "subtitle": "Uma tarefa comum, um encontro inesperado",
+    "reference": "1 Samuel 9:1–27",
+    "description": "Saul sai com um servo para procurar os animais de seu pai. A viagem parece não dar resultado, até que uma sugestão simples os leva ao encontro de Samuel.",
+    "testament": "antigo",
+    "cover": "/images/covers/126.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 127,
+    "title": "Saul Entre as Bagagens",
+    "subtitle": "Quando a responsabilidade assusta",
+    "reference": "1 Samuel 10:17–27",
+    "description": "O povo se reúne para conhecer seu rei, mas Saul não aparece. Ele está escondido entre as bagagens, mostrando que uma grande responsabilidade pode vir acompanhada de receio.",
+    "testament": "antigo",
+    "cover": "/images/covers/127.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 128,
+    "title": "Jônatas e Seu Companheiro",
+    "subtitle": "Confiança que não caminha sozinha",
+    "reference": "1 Samuel 14:1–23",
+    "description": "Jônatas conversa com seu escudeiro antes de uma passagem difícil. A história mostra parceria e iniciativa num tempo de guerra, sem esconder o perigo que enfrentaram.",
+    "testament": "antigo",
+    "cover": "/images/covers/128.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 129,
+    "title": "Deus Vê o Coração",
+    "subtitle": "O pastor que ainda estava no campo",
+    "reference": "1 Samuel 16:1–13",
+    "description": "Samuel visita a família de Jessé e percebe que a aparência não decide tudo. O filho mais novo ainda está cuidando das ovelhas quando chega a hora de ser chamado.",
+    "testament": "antigo",
+    "cover": "/images/covers/129.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 130,
+    "title": "Davi Toca a Harpa",
+    "subtitle": "Uma habilidade oferecida com cuidado",
+    "reference": "1 Samuel 16:14–23",
+    "description": "Saul atravessa momentos de grande sofrimento, e seus servos procuram alguém que saiba tocar. Davi chega com sua música e oferece uma habilidade que aprendera a cultivar.",
+    "testament": "antigo",
+    "cover": "/images/covers/130.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 131,
+    "title": "A Amizade de Davi e Jônatas",
+    "subtitle": "Um compromisso em dias difíceis",
+    "reference": "1 Samuel 18:1–4; 20",
+    "description": "Davi e Jônatas constroem uma amizade que enfrenta dias de perigo. Para proteger o amigo, Jônatas precisa escutar, procurar a verdade e cumprir a palavra dada.",
+    "testament": "antigo",
+    "cover": "/images/covers/131.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 132,
+    "title": "Davi Escolhe Poupar",
+    "subtitle": "Uma oportunidade de abandonar a vingança",
+    "reference": "1 Samuel 24",
+    "description": "Saul entra numa caverna sem saber que Davi está escondido ali. Davi precisa decidir o que fazer quando tem nas mãos a chance de ferir quem o persegue.",
+    "testament": "antigo",
+    "cover": "/images/covers/132.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 133,
+    "title": "Abigail Leva a Paz",
+    "subtitle": "A coragem de interromper a raiva",
+    "reference": "1 Samuel 25:2–35",
+    "description": "Uma resposta grosseira provoca a ira de Davi. Abigail ouve o que aconteceu, prepara alimentos e sai para impedir que a situação termine numa tragédia.",
+    "testament": "antigo",
+    "cover": "/images/covers/133.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 134,
+    "title": "A Mesma Parte para Todos",
+    "subtitle": "O cuidado de quem ficou com a bagagem",
+    "reference": "1 Samuel 30:1–25",
+    "description": "Depois de uma jornada exaustiva, alguns homens não conseguem continuar. Quando Davi volta, precisa defender o valor de quem ficou para cuidar da bagagem.",
+    "testament": "antigo",
+    "cover": "/images/covers/134.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 135,
+    "title": "Davi Celebra com Alegria",
+    "subtitle": "Gratidão que se reparte",
+    "reference": "2 Samuel 6:12–23",
+    "description": "A arca da aliança chega a Jerusalém, e Davi celebra diante do povo. A alegria também se transforma em alimento repartido para que todos voltem para casa lembrando aquele dia.",
+    "testament": "antigo",
+    "cover": "/images/covers/135.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 136,
+    "title": "Mefibosete à Mesa do Rei",
+    "subtitle": "Uma promessa que virou acolhimento",
+    "reference": "2 Samuel 9",
+    "description": "Davi se lembra de sua amizade com Jônatas e procura alguém de sua família. Mefibosete chega com receio, mas encontra lugar à mesa e a restituição de sua terra.",
+    "testament": "antigo",
+    "cover": "/images/covers/136.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 137,
+    "title": "Natã e a Pequena Ovelha",
+    "subtitle": "Uma história que revelou um erro",
+    "reference": "2 Samuel 12:1–13",
+    "description": "O profeta Natã conta a Davi uma história sobre um homem rico e uma família pobre. O rei se indigna, até perceber que precisa olhar para suas próprias atitudes.",
+    "testament": "antigo",
+    "cover": "/images/covers/137.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 138,
+    "title": "A Generosidade de Barzilai",
+    "subtitle": "A ajuda que chegou na hora difícil",
+    "reference": "2 Samuel 17:27–29; 19:31–40",
+    "description": "Durante uma fuga, Davi e seus companheiros recebem alimentos e descanso. Barzilai ajuda sem transformar sua bondade numa obrigação de receber honras depois.",
+    "testament": "antigo",
+    "cover": "/images/covers/138.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 139,
+    "title": "Davi Prepara o Futuro",
+    "subtitle": "Uma obra que outra pessoa terminaria",
+    "reference": "1 Crônicas 22:1–19; 28:9–21; 29:1–20",
+    "description": "Davi deseja construir o templo, mas a obra ficará para Salomão. Em vez de abandonar o projeto, reúne materiais, oferece orientações e convida o povo a colaborar.",
+    "testament": "antigo",
+    "cover": "/images/covers/139.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 140,
+    "title": "Salomão Pede Sabedoria",
+    "subtitle": "Um coração capaz de escutar",
+    "reference": "1 Reis 3:3–15",
+    "description": "No começo de seu reinado, Salomão recebe a oportunidade de fazer um pedido. Em vez de escolher riqueza ou poder, pede discernimento para cuidar do povo.",
+    "testament": "antigo",
+    "cover": "/images/covers/140.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 141,
+    "title": "Duas Mães Diante do Rei",
+    "subtitle": "Escutar para proteger a vida",
+    "reference": "1 Reis 3:16–28",
+    "description": "Duas mulheres chegam a Salomão com relatos diferentes sobre um bebê. O rei precisa encontrar a verdade e proteger a criança no centro daquela disputa.",
+    "testament": "antigo",
+    "cover": "/images/covers/141.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 142,
+    "title": "Uma Casa Construída em Equipe",
+    "subtitle": "Muitas mãos, habilidades diferentes",
+    "reference": "1 Reis 5–6",
+    "description": "Salomão organiza a construção do templo e recebe a ajuda de Hirão. Madeira, pedra e trabalho especializado se encontram numa obra que exige cooperação e responsabilidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/142.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 143,
+    "title": "A Oração no Templo",
+    "subtitle": "Uma casa aberta para o encontro",
+    "reference": "1 Reis 8:1–61",
+    "description": "O templo está pronto, e Salomão reúne o povo para sua dedicação. Sua oração lembra que Deus é maior que qualquer edifício e pede atenção também para quem vem de longe.",
+    "testament": "antigo",
+    "cover": "/images/covers/143.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 144,
+    "title": "A Rainha que Trouxe Perguntas",
+    "subtitle": "Aprender também é uma viagem",
+    "reference": "1 Reis 10:1–13",
+    "description": "A rainha de Sabá viaja para conhecer a sabedoria de Salomão. Leva perguntas difíceis, observa a vida ao redor do rei e descobre mais do que ouvira de longe.",
+    "testament": "antigo",
+    "cover": "/images/covers/144.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 145,
+    "title": "Roboão e os Dois Conselhos",
+    "subtitle": "Ouvir não é procurar só quem concorda",
+    "reference": "1 Reis 12:1–24",
+    "description": "O povo pede alívio, e Roboão consulta dois grupos de conselheiros. A escolha que faz mostra como a dureza de um líder pode dividir uma comunidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/145.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 146,
+    "title": "Elias e os Corvos",
+    "subtitle": "Cuidado num lugar escondido",
+    "reference": "1 Reis 17:1–6",
+    "description": "Depois de falar ao rei Acabe, Elias segue para junto de um riacho. Ali recebe água e alimento de um jeito inesperado, enquanto aprende a viver um dia de cada vez.",
+    "testament": "antigo",
+    "cover": "/images/covers/146.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 147,
+    "title": "Farinha e Azeite em Sarepta",
+    "subtitle": "O pouco que continuou sustentando",
+    "reference": "1 Reis 17:7–16",
+    "description": "O riacho seca, e Elias segue para Sarepta. Uma viúva tem apenas um pouco de farinha e azeite, mas recebe uma promessa de sustento para sua casa.",
+    "testament": "antigo",
+    "cover": "/images/covers/147.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 148,
+    "title": "O Filho da Viúva",
+    "subtitle": "Uma casa que encontrou consolo",
+    "reference": "1 Reis 17:17–24",
+    "description": "Depois do sustento recebido em Sarepta, a família enfrenta uma grande tristeza. Elias leva a dor daquela mãe a Deus, e o menino volta à vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/148.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 149,
+    "title": "Elias no Monte Carmelo",
+    "subtitle": "Uma escolha diante de todo o povo",
+    "reference": "1 Reis 18:17–46",
+    "description": "Elias reúne o povo no Carmelo e chama todos a decidir em quem confiar. Depois de uma oração simples e de uma resposta extraordinária, uma pequena nuvem anuncia chuva.",
+    "testament": "antigo",
+    "cover": "/images/covers/149.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 150,
+    "title": "Elias e a Voz Suave",
+    "subtitle": "Descanso antes do próximo passo",
+    "reference": "1 Reis 19:1–18",
+    "description": "Depois de viver momentos intensos, Elias fica com medo e foge. Deus cuida de seu cansaço, escuta sua dor e o encontra de um jeito diferente do que ele esperava.",
+    "testament": "antigo",
+    "cover": "/images/covers/150.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 151,
+    "title": "Eliseu Deixa os Bois",
+    "subtitle": "Um chamado no meio do trabalho",
+    "reference": "1 Reis 19:19–21",
+    "description": "Eliseu está arando quando Elias passa e lança seu manto sobre ele. O encontro abre um novo caminho de serviço, com despedida, partilha e aprendizado.",
+    "testament": "antigo",
+    "cover": "/images/covers/151.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 152,
+    "title": "A Vinha de Nabote",
+    "subtitle": "Quando o poder esquece a justiça",
+    "reference": "1 Reis 21:1–29",
+    "description": "Acabe deseja a vinha de Nabote, mas ouve uma recusa. A história revela o dano causado por ganância e mentira e mostra Elias confrontando a injustiça.",
+    "testament": "antigo",
+    "cover": "/images/covers/152.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 153,
+    "title": "A Despedida de Elias",
+    "subtitle": "Continuar sem esquecer quem ensinou",
+    "reference": "2 Reis 2:1–18",
+    "description": "Eliseu acompanha Elias numa última viagem. Depois de uma despedida extraordinária, recebe o manto do mestre e precisa dar os primeiros passos de uma nova responsabilidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/153.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 154,
+    "title": "Água Boa em Jericó",
+    "subtitle": "Uma fonte cuidada para toda a cidade",
+    "reference": "2 Reis 2:19–22",
+    "description": "Os moradores de Jericó apresentam a Eliseu um problema que afeta sua vida: a água não é boa. O profeta vai à fonte, e a cidade recebe um sinal de restauração.",
+    "testament": "antigo",
+    "cover": "/images/covers/154.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 155,
+    "title": "Os Vasos da Viúva",
+    "subtitle": "Uma casa cheia de possibilidades",
+    "reference": "2 Reis 4:1–7",
+    "description": "Uma viúva procura Eliseu porque uma dívida ameaça sua família. Com um pouco de azeite e vasos emprestados, ela participa de um acontecimento que muda o futuro de seus filhos.",
+    "testament": "antigo",
+    "cover": "/images/covers/155.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 156,
+    "title": "Um Quarto para Eliseu",
+    "subtitle": "Hospitalidade nos pequenos detalhes",
+    "reference": "2 Reis 4:8–17",
+    "description": "Uma mulher de Suném percebe que Eliseu passa sempre por sua cidade. Ela e o marido preparam um quarto simples para que o profeta tenha onde descansar.",
+    "testament": "antigo",
+    "cover": "/images/covers/156.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 157,
+    "title": "A Mãe que Foi Buscar Ajuda",
+    "subtitle": "Perseverança num dia de dor",
+    "reference": "2 Reis 4:18–37",
+    "description": "O filho da mulher de Suném adoece de repente. Ela procura Eliseu com determinação, e o profeta volta à casa para levar aquela dor a Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/157.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 158,
+    "title": "A Panela Compartilhada",
+    "subtitle": "Cuidado antes de continuar a refeição",
+    "reference": "2 Reis 4:38–41",
+    "description": "Durante uma fome, um grupo prepara uma panela de comida. Uma planta desconhecida torna a refeição perigosa, e todos precisam parar para receber ajuda.",
+    "testament": "antigo",
+    "cover": "/images/covers/158.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 159,
+    "title": "Vinte Pães para Muitos",
+    "subtitle": "A surpresa de repartir",
+    "reference": "2 Reis 4:42–44",
+    "description": "Um homem leva pães de cevada a Eliseu. O alimento parece pequeno para cem pessoas, mas o profeta pede que seja repartido, e todos comem.",
+    "testament": "antigo",
+    "cover": "/images/covers/159.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 160,
+    "title": "A Menina que Falou de Esperança",
+    "subtitle": "Uma voz pequena que foi ouvida",
+    "reference": "2 Reis 5:1–7",
+    "description": "Uma menina israelita vive longe de casa, servindo na família de Naamã. Ao saber de sua doença, fala sobre Eliseu e abre um caminho de busca por ajuda.",
+    "testament": "antigo",
+    "cover": "/images/covers/160.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 161,
+    "title": "Naamã Aprende a Ouvir",
+    "subtitle": "Uma orientação simples demais para o orgulho",
+    "reference": "2 Reis 5:8–19",
+    "description": "Naamã chega à casa de Eliseu esperando uma cerimônia grandiosa. A resposta simples o irrita, até que seus servos o ajudam a reconsiderar e dar o próximo passo.",
+    "testament": "antigo",
+    "cover": "/images/covers/161.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 162,
+    "title": "O Machado Emprestado",
+    "subtitle": "Cuidar do que pertence ao outro",
+    "reference": "2 Reis 6:1–7",
+    "description": "Um grupo precisa ampliar o lugar onde vive e aprende. Durante o trabalho, a lâmina de um machado cai no Jordão, e seu dono lembra com aflição que a ferramenta era emprestada.",
+    "testament": "antigo",
+    "cover": "/images/covers/162.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 163,
+    "title": "Olhos Abertos para a Esperança",
+    "subtitle": "Uma mesa no lugar da vingança",
+    "reference": "2 Reis 6:8–23",
+    "description": "O servo de Eliseu se assusta ao ver a cidade cercada. O profeta ora por ele e, depois de um encontro inesperado com o exército adversário, escolhe oferecer alimento em vez de vingança.",
+    "testament": "antigo",
+    "cover": "/images/covers/163.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 164,
+    "title": "Boas Notícias Precisam Ser Repartidas",
+    "subtitle": "Quatro homens pensam na cidade",
+    "reference": "2 Reis 7:1–16",
+    "description": "Quatro homens encontram alimento num acampamento abandonado. Primeiro pensam em guardar tudo, mas percebem que a cidade faminta precisa saber da descoberta.",
+    "testament": "antigo",
+    "cover": "/images/covers/164.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 165,
+    "title": "Joás Conserta o Templo",
+    "subtitle": "Cuidar também exige organização",
+    "reference": "2 Reis 12:1–16",
+    "description": "O templo precisa de reparos, mas o trabalho demora a começar. Joás e Joiada organizam a arrecadação e entregam os recursos a pessoas responsáveis pela obra.",
+    "testament": "antigo",
+    "cover": "/images/covers/165.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 166,
+    "title": "Ezequias Convida para a Páscoa",
+    "subtitle": "Um convite que atravessou fronteiras",
+    "reference": "2 Crônicas 30",
+    "description": "Ezequias envia cartas para reunir o povo em Jerusalém. Nem todos aceitam, mas quem chega participa de uma celebração que abre espaço para recomeço, aprendizado e alegria.",
+    "testament": "antigo",
+    "cover": "/images/covers/166.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 167,
+    "title": "Uma Carta Diante de Deus",
+    "subtitle": "Levar o medo à oração",
+    "reference": "2 Reis 19:8–37",
+    "description": "Ezequias recebe uma carta de ameaça do rei da Assíria. Ele a leva ao templo, apresenta sua preocupação a Deus e busca orientação para uma situação que parecia maior que suas forças.",
+    "testament": "antigo",
+    "cover": "/images/covers/167.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 168,
+    "title": "Ezequias e a Sombra",
+    "subtitle": "Gratidão por mais tempo de vida",
+    "reference": "2 Reis 20:1–11",
+    "description": "Ezequias adoece gravemente e apresenta sua dor a Deus. A resposta recebida por meio de Isaías traz cuidado, uma promessa de mais tempo e um sinal ligado à sombra.",
+    "testament": "antigo",
+    "cover": "/images/covers/168.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 169,
+    "title": "Josias Encontra o Livro",
+    "subtitle": "Uma descoberta que pedia mudança",
+    "reference": "2 Reis 22:1–13",
+    "description": "Durante os reparos do templo, um livro da lei é encontrado. Quando Josias ouve sua leitura, percebe que a comunidade precisa levar a sério o que havia deixado de seguir.",
+    "testament": "antigo",
+    "cover": "/images/covers/169.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 170,
+    "title": "Hulda e a Palavra de Deus",
+    "subtitle": "Coragem para dizer a verdade",
+    "reference": "2 Reis 22:14–20; 23:1–3",
+    "description": "Os enviados de Josias procuram a profetisa Hulda. Sua resposta não esconde a gravidade dos erros do povo, mas reconhece a humildade de um rei disposto a ouvir.",
+    "testament": "antigo",
+    "cover": "/images/covers/170.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 171,
+    "title": "Ciro Abre o Caminho",
+    "subtitle": "A notícia de um recomeço",
+    "reference": "Esdras 1",
+    "description": "Depois de muitos anos longe de Jerusalém, o povo recebe uma notícia inesperada. Um decreto do rei abre o caminho para voltar e reconstruir.",
+    "testament": "antigo",
+    "cover": "/images/covers/171.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 172,
+    "title": "Presentes para o Recomeço",
+    "subtitle": "Cada ajuda tem seu lugar",
+    "reference": "Esdras 1:5–11; 2:68–70",
+    "description": "Vizinhos, líderes e famílias ajudam na volta a Jerusalém. Recursos diferentes se juntam para transformar a esperança de reconstrução em trabalho possível.",
+    "testament": "antigo",
+    "cover": "/images/covers/172.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 173,
+    "title": "O Altar e a Primeira Festa",
+    "subtitle": "Um começo no meio das ruínas",
+    "reference": "Esdras 3:1–6",
+    "description": "O templo ainda não estava reconstruído quando o povo voltou a se reunir. Entre ruínas e receios, um altar e uma festa marcaram os primeiros passos.",
+    "testament": "antigo",
+    "cover": "/images/covers/173.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 174,
+    "title": "Alegria e Lágrimas nos Alicerces",
+    "subtitle": "Cada pessoa carrega uma lembrança",
+    "reference": "Esdras 3:7–13",
+    "description": "Os primeiros alicerces do novo templo trazem música e celebração. Para alguns moradores, aquele mesmo momento também desperta lágrimas e antigas lembranças.",
+    "testament": "antigo",
+    "cover": "/images/covers/174.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 175,
+    "title": "A Obra Volta a Crescer",
+    "subtitle": "Uma carta, uma busca e uma resposta",
+    "reference": "Esdras 5–6:18",
+    "description": "A construção do templo encontra novas perguntas. Uma busca nos registros do reino confirma a autorização recebida e permite que o trabalho continue.",
+    "testament": "antigo",
+    "cover": "/images/covers/175.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 176,
+    "title": "Uma Páscoa de Recomeço",
+    "subtitle": "Lembrar juntos do cuidado de Deus",
+    "reference": "Esdras 6:19–22",
+    "description": "Com o templo reconstruído, o povo celebra a Páscoa. A lembrança de uma antiga libertação encontra a alegria de quem voltou para casa.",
+    "testament": "antigo",
+    "cover": "/images/covers/176.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 177,
+    "title": "Esdras e o Coração que Aprende",
+    "subtitle": "Conhecer, praticar e ensinar",
+    "reference": "Esdras 7:1–10",
+    "description": "Esdras conhece a Lei de Deus e se prepara para ensiná-la. Sua história mostra que aprender e praticar precisam caminhar juntos.",
+    "testament": "antigo",
+    "cover": "/images/covers/177.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 178,
+    "title": "Uma Viagem de Confiança",
+    "subtitle": "Oração e cuidado pelo caminho",
+    "reference": "Esdras 8:21–36",
+    "description": "Antes de uma longa viagem, Esdras reúne o povo para orar. Também organiza a guarda dos recursos que levarão ao templo de Jerusalém.",
+    "testament": "antigo",
+    "cover": "/images/covers/178.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 179,
+    "title": "A Notícia que Fez Neemias Orar",
+    "subtitle": "Quando a tristeza se transforma em cuidado",
+    "reference": "Neemias 1",
+    "description": "Neemias recebe notícias difíceis sobre Jerusalém. Longe da cidade, começa a ajudar de um modo simples e profundo: escutando, chorando e orando.",
+    "testament": "antigo",
+    "cover": "/images/covers/179.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 180,
+    "title": "Um Pedido Diante do Rei",
+    "subtitle": "Coragem para dizer o que é preciso",
+    "reference": "Neemias 2:1–10",
+    "description": "O rei percebe a tristeza de Neemias e faz uma pergunta. Com medo, oração e um pedido bem preparado, Neemias encontra uma oportunidade de ajudar Jerusalém.",
+    "testament": "antigo",
+    "cover": "/images/covers/180.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 181,
+    "title": "A Volta Noturna de Neemias",
+    "subtitle": "Olhar com atenção antes de começar",
+    "reference": "Neemias 2:11–20",
+    "description": "Neemias chega a Jerusalém e examina as muralhas durante a noite. Antes de convidar o povo para reconstruir, procura conhecer de perto a tarefa.",
+    "testament": "antigo",
+    "cover": "/images/covers/181.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 182,
+    "title": "Muitas Mãos, Uma Muralha",
+    "subtitle": "O valor da parte de cada um",
+    "reference": "Neemias 3",
+    "description": "Sacerdotes, artesãos, famílias e moradores de outras cidades participam da obra. Cada trecho reconstruído ajuda a formar a muralha de Jerusalém.",
+    "testament": "antigo",
+    "cover": "/images/covers/182.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 183,
+    "title": "Trabalho e Atenção",
+    "subtitle": "Cuidar uns dos outros durante a obra",
+    "reference": "Neemias 4",
+    "description": "A reconstrução das muralhas enfrenta zombaria e ameaças. Neemias reúne oração, organização e proteção para que o povo continue trabalhando.",
+    "testament": "antigo",
+    "cover": "/images/covers/183.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 184,
+    "title": "Uma Mesa com Lugar para Outros",
+    "subtitle": "Justiça também faz parte da reconstrução",
+    "reference": "Neemias 5",
+    "description": "Enquanto as muralhas crescem, algumas famílias passam necessidade. Neemias escuta o sofrimento delas e chama os líderes a corrigir uma injustiça.",
+    "testament": "antigo",
+    "cover": "/images/covers/184.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 185,
+    "title": "O Convite que Podia Esperar",
+    "subtitle": "Discernir antes de dizer sim",
+    "reference": "Neemias 6:1–14",
+    "description": "Convites insistentes e uma carta assustadora tentam afastar Neemias da obra. Ele precisa perceber as intenções e manter sua responsabilidade com o povo.",
+    "testament": "antigo",
+    "cover": "/images/covers/185.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 186,
+    "title": "Os Portões se Abrem Outra Vez",
+    "subtitle": "Terminar a obra e continuar cuidando",
+    "reference": "Neemias 6:15–19; 7:1–3",
+    "description": "As muralhas de Jerusalém ficam prontas em cinquenta e dois dias. Neemias então organiza as pessoas que continuarão cuidando da cidade.",
+    "testament": "antigo",
+    "cover": "/images/covers/186.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 187,
+    "title": "O Livro Aberto na Praça",
+    "subtitle": "Entender para viver com alegria",
+    "reference": "Neemias 8:1–12",
+    "description": "O povo se reúne para ouvir a Lei de Deus. Esdras lê, os levitas explicam e a compreensão se transforma em alegria e partilha.",
+    "testament": "antigo",
+    "cover": "/images/covers/187.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 188,
+    "title": "A Festa das Cabanas",
+    "subtitle": "Ramos que ajudam a lembrar",
+    "reference": "Neemias 8:13–18",
+    "description": "Ao estudar a Lei, os líderes reencontram uma orientação para a festa. A cidade se enche de cabanas feitas de ramos e de alegria compartilhada.",
+    "testament": "antigo",
+    "cover": "/images/covers/188.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 189,
+    "title": "Canções sobre as Muralhas",
+    "subtitle": "Uma cidade inteira agradece",
+    "reference": "Neemias 12:27–43",
+    "description": "As muralhas reconstruídas recebem uma celebração especial. Dois grupos caminham cantando, e a alegria de Jerusalém pode ser ouvida de longe.",
+    "testament": "antigo",
+    "cover": "/images/covers/189.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 190,
+    "title": "Ester no Palácio",
+    "subtitle": "Uma mudança que não apaga quem somos",
+    "reference": "Ester 2:1–18",
+    "description": "Criada por Mordecai depois de perder os pais, Ester é levada ao palácio. Em uma vida cheia de mudanças, continua recebendo o cuidado de quem a conhece.",
+    "testament": "antigo",
+    "cover": "/images/covers/190.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 191,
+    "title": "Mordecai e o Aviso Importante",
+    "subtitle": "Fazer o certo sem tomar o lugar de outro",
+    "reference": "Ester 2:19–23",
+    "description": "Mordecai descobre um perigo no palácio e avisa Ester. Ela transmite a informação sem esconder quem deu o alerta, e tudo fica registrado.",
+    "testament": "antigo",
+    "cover": "/images/covers/191.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 192,
+    "title": "Ester Escolhe a Coragem",
+    "subtitle": "Uma decisão acompanhada por seu povo",
+    "reference": "Ester 3–5",
+    "description": "Uma ordem ameaça o povo judeu. Ester precisa decidir se falará ao rei, e busca o apoio de sua comunidade antes de enfrentar uma conversa difícil.",
+    "testament": "antigo",
+    "cover": "/images/covers/192.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 193,
+    "title": "A Noite em que o Rei Não Dormiu",
+    "subtitle": "Uma boa ação volta a ser lembrada",
+    "reference": "Ester 6",
+    "description": "Durante uma noite sem sono, o rei ouve os registros do reino. Uma antiga atitude de Mordecai é lembrada, surpreendendo quem esperava receber a honra.",
+    "testament": "antigo",
+    "cover": "/images/covers/193.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 194,
+    "title": "A Voz de Ester por Seu Povo",
+    "subtitle": "Falar até que a proteção seja possível",
+    "reference": "Ester 7–8",
+    "description": "Ester revela ao rei a ameaça que pesa sobre seu povo. Depois de denunciar o plano, continua buscando uma medida que proteja as famílias em todas as províncias.",
+    "testament": "antigo",
+    "cover": "/images/covers/194.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 195,
+    "title": "Uma Festa para Não Esquecer",
+    "subtitle": "A memória que se transforma em partilha",
+    "reference": "Ester 9:20–32",
+    "description": "Depois dos dias de perigo, Mordecai e Ester ajudam o povo a guardar a memória do livramento. A celebração inclui comida compartilhada e presentes aos necessitados.",
+    "testament": "antigo",
+    "cover": "/images/covers/195.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 196,
+    "title": "Jó nos Dias Difíceis",
+    "subtitle": "A dor não precisa ficar escondida",
+    "reference": "Jó 1–2",
+    "description": "Jó enfrenta perdas e uma doença dolorosa. O começo de sua história nos convida a escutar o sofrimento com cuidado, sem culpar quem está sofrendo.",
+    "testament": "antigo",
+    "cover": "/images/covers/196.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 197,
+    "title": "Amigos que Aprendem a Escutar",
+    "subtitle": "Presença vale mais que respostas apressadas",
+    "reference": "Jó 2:11–13; 16:1–5; 42:7–9",
+    "description": "Os amigos de Jó chegam para consolá-lo. Mas, quando começam a explicar sua dor sem compreendê-la, precisam aprender que palavras também podem machucar.",
+    "testament": "antigo",
+    "cover": "/images/covers/197.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 198,
+    "title": "Jó e as Maravilhas da Criação",
+    "subtitle": "Um mundo maior do que nossas respostas",
+    "reference": "Jó 38–39",
+    "description": "Depois de muitas perguntas, Jó ouve Deus falar sobre a criação. Mares, estrelas e animais revelam um cuidado e uma sabedoria maiores do que ele podia compreender.",
+    "testament": "antigo",
+    "cover": "/images/covers/198.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 199,
+    "title": "Jó e um Novo Começo",
+    "subtitle": "A esperança não apaga a lembrança",
+    "reference": "Jó 42:1–17",
+    "description": "Depois de ouvir Deus, Jó reconhece seus limites. A história termina com oração, companhia e uma nova etapa de vida, sem transformar a dor em algo sem importância.",
+    "testament": "antigo",
+    "cover": "/images/covers/199.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 200,
+    "title": "O Pastor que Cuida",
+    "subtitle": "Uma caminhada pelo Salmo 23",
+    "reference": "Salmo 23",
+    "description": "Um salmo de Davi descreve o cuidado de Deus com imagens de pastos, caminhos e uma mesa acolhedora. É uma oração para lembrar que não caminhamos sozinhos.",
+    "testament": "antigo",
+    "cover": "/images/covers/200.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 201,
+    "title": "O Céu Conta uma História",
+    "subtitle": "Um poema sobre a criação e a Palavra de Deus",
+    "reference": "Salmo 19",
+    "description": "O céu, o sol e as palavras de Deus convidam o coração a admirar, aprender e agradecer.",
+    "testament": "antigo",
+    "cover": "/images/covers/201.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 202,
+    "title": "A Árvore Junto às Águas",
+    "subtitle": "Um salmo sobre raízes e escolhas",
+    "reference": "Salmo 1",
+    "description": "Uma árvore bem cuidada ajuda a compreender a vida de quem aprende a seguir o caminho de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/202.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 203,
+    "title": "Um Coração que se Lembra",
+    "subtitle": "A gratidão cantada no Salmo 103",
+    "reference": "Salmo 103",
+    "description": "O poeta conversa com a própria alma e se lembra da misericórdia, da paciência e do amor de Deus.",
+    "testament": "antigo",
+    "cover": "/images/covers/203.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 204,
+    "title": "Uma Canção Antes de Dormir",
+    "subtitle": "A confiança da oração no fim do dia",
+    "reference": "Salmo 4",
+    "description": "Uma oração acolhe as preocupações e conduz o coração ao descanso, à confiança e à alegria.",
+    "testament": "antigo",
+    "cover": "/images/covers/204.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 205,
+    "title": "Conhecido e Amado",
+    "subtitle": "A presença de Deus no Salmo 139",
+    "reference": "Salmo 139:1–18, 23–24",
+    "description": "O salmista celebra o cuidado de Deus, que conhece cada pessoa e a acompanha em todos os lugares.",
+    "testament": "antigo",
+    "cover": "/images/covers/205.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 206,
+    "title": "Uma Lâmpada para o Caminho",
+    "subtitle": "A Palavra que ilumina cada passo",
+    "reference": "Salmo 119:97–112",
+    "description": "Um poeta encontra alegria e direção nos ensinamentos de Deus, comparados a uma luz no caminho.",
+    "testament": "antigo",
+    "cover": "/images/covers/206.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 207,
+    "title": "O Socorro Vem do Senhor",
+    "subtitle": "Uma canção para quem caminha",
+    "reference": "Salmo 121",
+    "description": "Ao olhar para os montes, o salmista se lembra de quem criou o céu e a terra e confia em seu cuidado.",
+    "testament": "antigo",
+    "cover": "/images/covers/207.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 208,
+    "title": "Alegria de Caminhar Juntos",
+    "subtitle": "Uma oração pela paz da cidade",
+    "reference": "Salmo 122",
+    "description": "O convite para adorar ao Senhor se transforma em alegria, encontro e desejo de paz para todos.",
+    "testament": "antigo",
+    "cover": "/images/covers/208.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 209,
+    "title": "Um Convite para Toda a Criação",
+    "subtitle": "O grande louvor do Salmo 148",
+    "reference": "Salmo 148",
+    "description": "Do brilho das estrelas às pequenas criaturas, o salmo reúne toda a criação numa canção de gratidão.",
+    "testament": "antigo",
+    "cover": "/images/covers/209.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 210,
+    "title": "A Força de uma Resposta Calma",
+    "subtitle": "Um ensinamento de Provérbios para as conversas",
+    "reference": "Provérbios 15:1–7",
+    "description": "Palavras escolhidas com cuidado podem abrir espaço para a escuta, a verdade e a reconciliação.",
+    "testament": "antigo",
+    "cover": "/images/covers/210.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 211,
+    "title": "A Pequena Formiga e o Trabalho",
+    "subtitle": "Sabedoria encontrada bem perto do chão",
+    "reference": "Provérbios 6:6–11",
+    "description": "Uma criatura pequena oferece uma grande lição sobre atenção, preparo e disposição para começar.",
+    "testament": "antigo",
+    "cover": "/images/covers/211.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 212,
+    "title": "A Amizade que Permanece",
+    "subtitle": "Conselhos de Provérbios sobre ser um bom amigo",
+    "reference": "Provérbios 17:17; 27:5–10",
+    "description": "A amizade cresce na companhia, na sinceridade e na disposição de cuidar também nos dias difíceis.",
+    "testament": "antigo",
+    "cover": "/images/covers/212.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 213,
+    "title": "Um Tesouro Chamado Sabedoria",
+    "subtitle": "Aprender a confiar de todo o coração",
+    "reference": "Provérbios 3:1–18",
+    "description": "Um ensinamento carinhoso mostra que bondade, verdade e confiança em Deus são riquezas para a vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/213.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 214,
+    "title": "Palavras que Constroem",
+    "subtitle": "O cuidado que cabe na nossa voz",
+    "reference": "Provérbios 12:18; 16:24; 18:21",
+    "description": "A sabedoria ensina a reconhecer o efeito das palavras e a usá-las para encorajar, cuidar e reparar.",
+    "testament": "antigo",
+    "cover": "/images/covers/214.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 215,
+    "title": "Um Tempo para Cada Coisa",
+    "subtitle": "A sabedoria de reconhecer os momentos da vida",
+    "reference": "Eclesiastes 3:1–13",
+    "description": "Um poema observa as mudanças da vida e convida a acolher cada tempo com atenção, bondade e gratidão.",
+    "testament": "antigo",
+    "cover": "/images/covers/215.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 216,
+    "title": "Melhor Caminhar Acompanhado",
+    "subtitle": "A força de ajudar e receber ajuda",
+    "reference": "Eclesiastes 4:9–12",
+    "description": "O trabalho, a caminhada e uma corda trançada mostram o valor da companhia e da cooperação.",
+    "testament": "antigo",
+    "cover": "/images/covers/216.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 217,
+    "title": "Isaías e o Chamado no Templo",
+    "subtitle": "Um coração disposto a responder",
+    "reference": "Isaías 6",
+    "description": "Numa visão cheia de reverência, Isaías recebe perdão e se oferece para levar a mensagem do Senhor.",
+    "testament": "antigo",
+    "cover": "/images/covers/217.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 218,
+    "title": "O Menino e a Esperança de Paz",
+    "subtitle": "As promessas anunciadas por Isaías",
+    "reference": "Isaías 9:1–7; 11:1–9",
+    "description": "A promessa de um governante justo e as imagens de uma criação em paz acendem a esperança do povo.",
+    "testament": "antigo",
+    "cover": "/images/covers/218.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 219,
+    "title": "Asas para Quem Está Cansado",
+    "subtitle": "A esperança que renova as forças",
+    "reference": "Isaías 40:25–31",
+    "description": "O profeta convida o povo a olhar para as estrelas e confiar no Criador, que sustenta quem está cansado.",
+    "testament": "antigo",
+    "cover": "/images/covers/219.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 220,
+    "title": "Jeremias Recebe uma Missão",
+    "subtitle": "A coragem de quem aprende a falar",
+    "reference": "Jeremias 1",
+    "description": "Jeremias se sente jovem para sua tarefa, mas recebe a promessa da companhia de Deus e começa a escutar.",
+    "testament": "antigo",
+    "cover": "/images/covers/220.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 221,
+    "title": "Jeremias na Casa do Oleiro",
+    "subtitle": "O barro e a oportunidade de mudar",
+    "reference": "Jeremias 18:1–12",
+    "description": "Ao observar um oleiro refazer seu vaso, Jeremias recebe uma mensagem sobre escuta, mudança e recomeço.",
+    "testament": "antigo",
+    "cover": "/images/covers/221.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 222,
+    "title": "O Campo Comprado na Esperança",
+    "subtitle": "Um documento guardado para o futuro",
+    "reference": "Jeremias 32",
+    "description": "Em dias difíceis para Jerusalém, Jeremias compra um campo e guarda o documento como sinal de confiança no futuro prometido.",
+    "testament": "antigo",
+    "cover": "/images/covers/222.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 223,
+    "title": "Ebede-Meleque e as Cordas",
+    "subtitle": "Coragem que também cuida dos detalhes",
+    "reference": "Jeremias 38:1–13",
+    "description": "Ao saber que Jeremias está em perigo, Ebede-Meleque procura ajuda e prepara um resgate com atenção e delicadeza.",
+    "testament": "antigo",
+    "cover": "/images/covers/223.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 224,
+    "title": "Uma Carta para Quem Está Longe",
+    "subtitle": "Esperança que aprende a cuidar do presente",
+    "reference": "Jeremias 29:1–14",
+    "description": "A mensagem enviada aos exilados ensina a construir, plantar e buscar o bem da cidade enquanto esperam pelo retorno.",
+    "testament": "antigo",
+    "cover": "/images/covers/224.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 225,
+    "title": "Ezequiel e o Vale que Ganhou Vida",
+    "subtitle": "Uma visão de esperança para o povo",
+    "reference": "Ezequiel 37:1–14",
+    "description": "Num vale silencioso, Ezequiel recebe uma visão que anuncia renovação para um povo desanimado.",
+    "testament": "antigo",
+    "cover": "/images/covers/225.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 226,
+    "title": "O Rio que Traz Vida",
+    "subtitle": "A água da esperança na visão de Ezequiel",
+    "reference": "Ezequiel 47:1–12",
+    "description": "Uma pequena correnteza se torna um grande rio, cercado de árvores e cheio de sinais de vida.",
+    "testament": "antigo",
+    "cover": "/images/covers/226.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 227,
+    "title": "Daniel e os Amigos à Mesa",
+    "subtitle": "Fidelidade, respeito e disposição para aprender",
+    "reference": "Daniel 1",
+    "description": "Longe de casa, quatro jovens procuram guardar sua fé e encontram uma maneira respeitosa de apresentar suas escolhas.",
+    "testament": "antigo",
+    "cover": "/images/covers/227.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 228,
+    "title": "Daniel e o Sonho do Rei",
+    "subtitle": "Sabedoria recebida para proteger vidas",
+    "reference": "Daniel 2",
+    "description": "Diante de um pedido impossível, Daniel busca a ajuda de Deus com seus amigos e apresenta a resposta com humildade.",
+    "testament": "antigo",
+    "cover": "/images/covers/228.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 229,
+    "title": "Os Amigos na Fornalha",
+    "subtitle": "Fidelidade compartilhada em um dia difícil",
+    "reference": "Daniel 3",
+    "description": "Sadraque, Mesaque e Abede-Nego permanecem unidos em sua fé e recebem um livramento que surpreende o rei.",
+    "testament": "antigo",
+    "cover": "/images/covers/229.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 230,
+    "title": "O Rei e a Árvore do Sonho",
+    "subtitle": "A descoberta da humildade",
+    "reference": "Daniel 4",
+    "description": "Um sonho sobre uma grande árvore leva Nabucodonosor a aprender que poder e grandeza precisam de humildade.",
+    "testament": "antigo",
+    "cover": "/images/covers/230.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 231,
+    "title": "Joel e a Promessa do Espírito",
+    "subtitle": "Esperança para todas as gerações",
+    "reference": "Joel 2:21–32",
+    "description": "Depois de anunciar renovação para a terra, Joel apresenta uma promessa que alcança jovens, idosos, homens e mulheres.",
+    "testament": "antigo",
+    "cover": "/images/covers/231.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 232,
+    "title": "Amós e a Justiça como um Rio",
+    "subtitle": "O cuidado com o próximo faz parte da fé",
+    "reference": "Amós 5:10–24",
+    "description": "O profeta chama o povo a unir sua adoração a atitudes justas e ao cuidado com quem está sofrendo.",
+    "testament": "antigo",
+    "cover": "/images/covers/232.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 233,
+    "title": "O Caminho Simples de Miqueias",
+    "subtitle": "Justiça, misericórdia e humildade",
+    "reference": "Miqueias 6:6–8",
+    "description": "Uma pergunta sobre agradar a Deus recebe uma resposta que pode acompanhar cada escolha do dia.",
+    "testament": "antigo",
+    "cover": "/images/covers/233.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 234,
+    "title": "Habacuque e a Alegria da Confiança",
+    "subtitle": "Uma oração quando o caminho parece difícil",
+    "reference": "Habacuque 3:17–19",
+    "description": "O profeta imagina tempos de escassez e encontra no Senhor uma esperança capaz de sustentar seus passos.",
+    "testament": "antigo",
+    "cover": "/images/covers/234.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 235,
+    "title": "Ageu e a Coragem de Recomeçar",
+    "subtitle": "Uma mensagem para quem precisava voltar ao trabalho",
+    "reference": "Ageu 1–2:9",
+    "description": "O povo recebe um convite para cuidar de suas prioridades e retomar a construção com confiança na presença do Senhor.",
+    "testament": "antigo",
+    "cover": "/images/covers/235.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 236,
+    "title": "Zacarias e a Boa Notícia",
+    "subtitle": "Uma promessa no meio da espera",
+    "reference": "Lucas 1:5–25",
+    "description": "Durante seu serviço no templo, Zacarias recebe uma notícia inesperada: Isabel terá um filho. O menino preparará o povo para receber o Senhor.",
+    "testament": "novo",
+    "cover": "/images/covers/236.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 237,
+    "title": "Maria Visita Isabel",
+    "subtitle": "Uma alegria que cresce quando é partilhada",
+    "reference": "Lucas 1:39–56",
+    "description": "Maria atravessa a região montanhosa para visitar Isabel. Um encontro entre parentes se transforma em acolhimento, alegria e gratidão a Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/237.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 238,
+    "title": "O Nome de João",
+    "subtitle": "Uma criança, uma promessa e uma voz que volta",
+    "reference": "Lucas 1:57–80",
+    "description": "Isabel e Zacarias recebem seu filho e escolhem o nome anunciado por Deus. O silêncio de Zacarias dá lugar a um louvor cheio de esperança.",
+    "testament": "novo",
+    "cover": "/images/covers/238.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 239,
+    "title": "Simeão e a Promessa",
+    "subtitle": "Uma esperança recebida nos braços",
+    "reference": "Lucas 2:22–35",
+    "description": "Maria e José levam Jesus ao templo. Guiado pelo Espírito Santo, Simeão reconhece no menino a salvação que esperava e agradece a Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/239.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 240,
+    "title": "A Mulher que Voltou a se Endireitar",
+    "subtitle": "Cuidado que devolve liberdade",
+    "reference": "Lucas 13:10–17",
+    "description": "Durante um ensino na sinagoga, Jesus vê uma mulher que há muitos anos não consegue se endireitar. Seu cuidado desperta gratidão e uma conversa importante.",
+    "testament": "novo",
+    "cover": "/images/covers/240.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 241,
+    "title": "A Viagem para o Egito",
+    "subtitle": "Proteger também é saber partir",
+    "reference": "Mateus 2:13–23",
+    "description": "Avisado em sonho sobre um perigo, José leva Maria e Jesus para o Egito. A família encontra abrigo e, mais tarde, começa uma nova etapa em Nazaré.",
+    "testament": "novo",
+    "cover": "/images/covers/241.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 242,
+    "title": "João Prepara o Caminho",
+    "subtitle": "Uma mudança que aparece nas atitudes",
+    "reference": "Lucas 3:1–18",
+    "description": "Perto do rio Jordão, João chama as pessoas a mudar de vida. Suas respostas mostram como partilha, honestidade e respeito fazem parte dessa preparação.",
+    "testament": "novo",
+    "cover": "/images/covers/242.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 243,
+    "title": "Jesus no Deserto",
+    "subtitle": "Escolher o bem mesmo diante da tentação",
+    "reference": "Mateus 4:1–11",
+    "description": "No deserto, Jesus enfrenta tentações e responde com as Escrituras. Sua confiança no Pai não se transforma em espetáculo nem em busca de poder.",
+    "testament": "novo",
+    "cover": "/images/covers/243.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 244,
+    "title": "André Apresenta Seu Irmão",
+    "subtitle": "Uma descoberta boa demais para guardar",
+    "reference": "João 1:35–42",
+    "description": "André passa um tempo com Jesus e depois procura seu irmão Simão. Um convite simples abre o começo de uma grande caminhada.",
+    "testament": "novo",
+    "cover": "/images/covers/244.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 245,
+    "title": "Filipe e Natanael",
+    "subtitle": "Um convite para olhar mais de perto",
+    "reference": "João 1:43–51",
+    "description": "Filipe convida Natanael a conhecer Jesus. Uma dúvida sobre Nazaré dá lugar à surpresa de ser conhecido antes mesmo de chegar.",
+    "testament": "novo",
+    "cover": "/images/covers/245.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 246,
+    "title": "Um Lugar para Mateus",
+    "subtitle": "O convite que abriu uma nova caminhada",
+    "reference": "Mateus 9:9–13",
+    "description": "Jesus chama Mateus quando ele está trabalhando na cobrança de impostos. Depois, uma refeição com pessoas desprezadas se torna uma lição sobre misericórdia.",
+    "testament": "novo",
+    "cover": "/images/covers/246.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 247,
+    "title": "Jesus na Sinagoga de Nazaré",
+    "subtitle": "Uma boa notícia maior que as fronteiras",
+    "reference": "Lucas 4:16–30",
+    "description": "Na cidade onde cresceu, Jesus lê as palavras de Isaías e anuncia boas notícias. Sua mensagem convida as pessoas a enxergar o cuidado de Deus além de seu próprio grupo.",
+    "testament": "novo",
+    "cover": "/images/covers/247.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 248,
+    "title": "Quatro Amigos e um Telhado",
+    "subtitle": "Um caminho aberto pelo cuidado",
+    "reference": "Marcos 2:1–12",
+    "description": "Uma casa cheia parece impedir quatro amigos de chegar até Jesus. Eles encontram outra maneira de levar seu companheiro, e todos testemunham algo surpreendente.",
+    "testament": "novo",
+    "cover": "/images/covers/248.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 249,
+    "title": "A Confiança do Centurião",
+    "subtitle": "Uma palavra que atravessa a distância",
+    "reference": "Lucas 7:1–10",
+    "description": "Um oficial pede ajuda para um servo muito querido. Sua confiança na autoridade de Jesus surpreende os que acompanham o encontro.",
+    "testament": "novo",
+    "cover": "/images/covers/249.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 250,
+    "title": "Uma Casa que Recebe Cuidado",
+    "subtitle": "Jesus se aproxima de uma necessidade cotidiana",
+    "reference": "Marcos 1:29–34",
+    "description": "Depois de sair da sinagoga, Jesus visita a casa de Simão e André. Ali encontra uma mulher com febre e oferece cuidado que alcança também outras famílias.",
+    "testament": "novo",
+    "cover": "/images/covers/250.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 251,
+    "title": "O Encontro em Naim",
+    "subtitle": "Compaixão no caminho da tristeza",
+    "reference": "Lucas 7:11–17",
+    "description": "Perto da entrada de Naim, Jesus encontra uma mãe que perdeu seu único filho. Sua compaixão transforma um momento de grande tristeza.",
+    "testament": "novo",
+    "cover": "/images/covers/251.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 252,
+    "title": "Jesus e a Filha de Jairo",
+    "subtitle": "Uma mão estendida em meio ao medo",
+    "reference": "Marcos 5:21–24,35–43",
+    "description": "Jairo procura Jesus porque sua filha está muito doente. Mesmo depois de uma notícia dolorosa, Jesus continua até a casa e se aproxima da menina.",
+    "testament": "novo",
+    "cover": "/images/covers/252.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 253,
+    "title": "A Mulher que Tocou o Manto",
+    "subtitle": "Vista e acolhida no meio da multidão",
+    "reference": "Marcos 5:25–34",
+    "description": "Uma mulher que sofre há muitos anos se aproxima de Jesus em meio à multidão. O encontro traz cura e uma palavra pública de acolhimento.",
+    "testament": "novo",
+    "cover": "/images/covers/253.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 254,
+    "title": "Dez Homens e um Agradecimento",
+    "subtitle": "O caminho de volta para dizer obrigado",
+    "reference": "Lucas 17:11–19",
+    "description": "Dez homens pedem ajuda a Jesus e são curados no caminho. Um deles volta, e sua gratidão se torna uma descoberta para todos.",
+    "testament": "novo",
+    "cover": "/images/covers/254.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 255,
+    "title": "Bartimeu Pede Ajuda",
+    "subtitle": "Uma voz que Jesus escolheu ouvir",
+    "reference": "Marcos 10:46–52",
+    "description": "À saída de Jericó, Bartimeu chama por Jesus. Mesmo quando tentam silenciá-lo, sua voz é ouvida e ele recebe espaço para dizer o que deseja.",
+    "testament": "novo",
+    "cover": "/images/covers/255.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 256,
+    "title": "O Homem que Passou a Enxergar",
+    "subtitle": "Uma história contada com coragem",
+    "reference": "João 9:1–41",
+    "description": "Jesus encontra um homem cego desde o nascimento e rejeita a ideia de culpá-lo por isso. Depois da cura, o homem aprende a falar com coragem sobre o que viveu.",
+    "testament": "novo",
+    "cover": "/images/covers/256.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 257,
+    "title": "A Conversa junto ao Poço",
+    "subtitle": "Água viva e uma história compartilhada",
+    "reference": "João 4:1–30,39–42",
+    "description": "Jesus conversa com uma mulher samaritana junto ao poço de Jacó. O encontro atravessa diferenças e leva uma aldeia inteira a querer ouvi-lo.",
+    "testament": "novo",
+    "cover": "/images/covers/257.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 258,
+    "title": "Nicodemos e o Novo Nascimento",
+    "subtitle": "Uma conversa que abre novas perguntas",
+    "reference": "João 3:1–21",
+    "description": "Nicodemos procura Jesus durante a noite. Mesmo sendo um mestre, descobre que ainda há muito para aprender sobre a vida que vem de Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/258.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 259,
+    "title": "Marta e Maria Recebem Jesus",
+    "subtitle": "Um lugar para escutar no meio das tarefas",
+    "reference": "Lucas 10:38–42",
+    "description": "Marta recebe Jesus em casa e se ocupa com o serviço. Maria se senta para ouvi-lo, e o encontro convida a família a pensar sobre atenção e prioridades.",
+    "testament": "novo",
+    "cover": "/images/covers/259.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 260,
+    "title": "Jesus Chora por Lázaro",
+    "subtitle": "Amizade, lágrimas e uma voz de vida",
+    "reference": "João 11:1–44",
+    "description": "Marta e Maria chamam Jesus quando Lázaro adoece. Ao chegar a Betânia, Jesus acolhe a dor das irmãs e revela sua autoridade diante da morte.",
+    "testament": "novo",
+    "cover": "/images/covers/260.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 261,
+    "title": "O Perfume de Maria",
+    "subtitle": "Um gesto de amor em Betânia",
+    "reference": "João 12:1–8",
+    "description": "Durante uma refeição, Maria oferece a Jesus um perfume precioso. O gesto revela devoção e provoca uma conversa sobre amor, aparência e cuidado.",
+    "testament": "novo",
+    "cover": "/images/covers/261.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 262,
+    "title": "Jesus Caminha sobre as Águas",
+    "subtitle": "Uma mão no meio das ondas",
+    "reference": "Mateus 14:22–33",
+    "description": "Durante uma noite de vento, os discípulos veem Jesus se aproximar sobre o lago. Pedro dá um passo de confiança e aprende a pedir ajuda quando sente medo.",
+    "testament": "novo",
+    "cover": "/images/covers/262.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 263,
+    "title": "Um Novo Começo em Betesda",
+    "subtitle": "Visto no lugar da longa espera",
+    "reference": "João 5:1–15",
+    "description": "Junto ao tanque de Betesda, Jesus encontra um homem que vive há muitos anos com uma enfermidade. O encontro muda seu caminho e provoca perguntas.",
+    "testament": "novo",
+    "cover": "/images/covers/263.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 264,
+    "title": "Jesus Escuta Quem Não Ouvia",
+    "subtitle": "Um encontro longe do barulho",
+    "reference": "Marcos 7:31–37",
+    "description": "Algumas pessoas levam a Jesus um homem que não ouve e tem dificuldade para falar. Jesus o recebe com atenção pessoal, longe da multidão.",
+    "testament": "novo",
+    "cover": "/images/covers/264.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 265,
+    "title": "A Coragem de uma Mãe",
+    "subtitle": "Um pedido que atravessa diferenças",
+    "reference": "Marcos 7:24–30",
+    "description": "Uma mulher de outra região procura Jesus para pedir ajuda por sua filha. Sua resposta confiante abre um encontro de cuidado que supera fronteiras.",
+    "testament": "novo",
+    "cover": "/images/covers/265.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 266,
+    "title": "Uma Luz no Alto do Monte",
+    "subtitle": "Escutar o Filho amado",
+    "reference": "Lucas 9:28–36",
+    "description": "Jesus sobe ao monte para orar com três discípulos. Ali, eles veem sua glória e recebem um convite para escutar sua voz.",
+    "testament": "novo",
+    "cover": "/images/covers/266.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 267,
+    "title": "A Moeda e o Peixe",
+    "subtitle": "Um pequeno sinal de cuidado em Cafarnaum",
+    "reference": "Mateus 17:24–27",
+    "description": "Uma pergunta sobre o imposto do templo leva Pedro a descobrir uma resposta surpreendente de Jesus.",
+    "testament": "novo",
+    "cover": "/images/covers/267.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 268,
+    "title": "Jesus, o Bom Pastor",
+    "subtitle": "Uma voz conhecida e um cuidado que permanece",
+    "reference": "João 10:1–18",
+    "description": "Jesus usa a imagem de um pastor para explicar como conhece, conduz e protege aqueles que o seguem.",
+    "testament": "novo",
+    "cover": "/images/covers/268.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 269,
+    "title": "A Luz que Orienta",
+    "subtitle": "Jesus convida as pessoas a seguir sua direção",
+    "reference": "João 8:12; 12:35–36",
+    "description": "Ao se apresentar como a luz do mundo, Jesus oferece uma direção para os passos e para o coração.",
+    "testament": "novo",
+    "cover": "/images/covers/269.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 270,
+    "title": "A Videira e os Ramos",
+    "subtitle": "Permanecer no amor de Jesus faz a vida frutificar",
+    "reference": "João 15:1–17",
+    "description": "Na imagem de uma videira, Jesus ensina seus amigos sobre união, cuidado e amor que dá frutos.",
+    "testament": "novo",
+    "cover": "/images/covers/270.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 271,
+    "title": "Sal e Luz",
+    "subtitle": "Pequenas atitudes podem fazer diferença",
+    "reference": "Mateus 5:13–16",
+    "description": "No monte, Jesus fala de sal, de uma cidade iluminada e de uma lâmpada para ensinar seus discípulos.",
+    "testament": "novo",
+    "cover": "/images/covers/271.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 272,
+    "title": "Duas Casas e a Chuva",
+    "subtitle": "Ouvir e praticar dá firmeza à vida",
+    "reference": "Mateus 7:24–29",
+    "description": "Jesus conta sobre dois construtores e mostra o que acontece quando a chuva revela a base de cada casa.",
+    "testament": "novo",
+    "cover": "/images/covers/272.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 273,
+    "title": "O Semeador e os Solos",
+    "subtitle": "Uma palavra que precisa encontrar lugar para crescer",
+    "reference": "Mateus 13:1–23",
+    "description": "Sementes caem em lugares diferentes, e Jesus explica o que essa história revela sobre ouvir sua palavra.",
+    "testament": "novo",
+    "cover": "/images/covers/273.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 274,
+    "title": "O Trigo e o Joio",
+    "subtitle": "Paciência para cuidar do campo até a colheita",
+    "reference": "Mateus 13:24–30, 36–43",
+    "description": "Quando plantas indesejadas aparecem no meio do trigo, o dono do campo evita uma decisão apressada.",
+    "testament": "novo",
+    "cover": "/images/covers/274.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 275,
+    "title": "A Pequena Semente de Mostarda",
+    "subtitle": "O Reino de Deus pode surpreender desde o começo",
+    "reference": "Marcos 4:30–32",
+    "description": "Jesus compara o Reino a uma semente minúscula que cresce e oferece abrigo aos pássaros.",
+    "testament": "novo",
+    "cover": "/images/covers/275.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 276,
+    "title": "O Fermento na Massa",
+    "subtitle": "Uma transformação que começa escondida",
+    "reference": "Mateus 13:33",
+    "description": "Jesus encontra numa cozinha uma imagem simples para falar da ação transformadora do Reino.",
+    "testament": "novo",
+    "cover": "/images/covers/276.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 277,
+    "title": "O Tesouro no Campo",
+    "subtitle": "Uma descoberta que muda todas as escolhas",
+    "reference": "Mateus 13:44",
+    "description": "Um homem encontra um tesouro e percebe que vale a pena reorganizar sua vida por causa dele.",
+    "testament": "novo",
+    "cover": "/images/covers/277.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 278,
+    "title": "A Pérola Preciosa",
+    "subtitle": "O olhar de quem reconhece um grande valor",
+    "reference": "Mateus 13:45–46",
+    "description": "Um comerciante que procura boas pérolas encontra uma de valor excepcional e faz uma escolha decisiva.",
+    "testament": "novo",
+    "cover": "/images/covers/278.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 279,
+    "title": "A Rede Cheia de Peixes",
+    "subtitle": "Jesus ensina a confiar na justiça de Deus",
+    "reference": "Mateus 13:47–50",
+    "description": "Uma rede traz muitos peixes até a praia e ajuda os discípulos a pensar no Reino e na justiça final.",
+    "testament": "novo",
+    "cover": "/images/covers/279.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 280,
+    "title": "Os Dois Filhos e a Vinha",
+    "subtitle": "Uma mudança de atitude vale mais que uma promessa vazia",
+    "reference": "Mateus 21:28–32",
+    "description": "Dois irmãos respondem de maneiras diferentes ao pai, mas suas ações revelam mais que suas primeiras palavras.",
+    "testament": "novo",
+    "cover": "/images/covers/280.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 281,
+    "title": "Trabalhadores na Vinha",
+    "subtitle": "A generosidade de Deus surpreende nossas contas",
+    "reference": "Mateus 20:1–16",
+    "description": "O dono de uma vinha contrata pessoas em horários diferentes e surpreende a todos na hora do pagamento.",
+    "testament": "novo",
+    "cover": "/images/covers/281.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 282,
+    "title": "O Convite para o Banquete",
+    "subtitle": "Há lugar à mesa para quem costuma ficar de fora",
+    "reference": "Lucas 14:15–24",
+    "description": "Quando os primeiros convidados recusam o jantar, o dono da casa abre as portas para pessoas inesperadas.",
+    "testament": "novo",
+    "cover": "/images/covers/282.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 283,
+    "title": "As Dez Moças e Suas Lâmpadas",
+    "subtitle": "Preparar-se também faz parte da espera",
+    "reference": "Mateus 25:1–13",
+    "description": "Dez moças esperam a chegada do noivo, mas nem todas se prepararam para uma espera mais longa.",
+    "testament": "novo",
+    "cover": "/images/covers/283.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 284,
+    "title": "Os Servos e os Talentos",
+    "subtitle": "Cuidar com fidelidade do que foi confiado",
+    "reference": "Mateus 25:14–30",
+    "description": "Antes de viajar, um senhor entrega recursos a três servos e depois pergunta como cuidaram deles.",
+    "testament": "novo",
+    "cover": "/images/covers/284.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 285,
+    "title": "O Amigo à Meia-noite",
+    "subtitle": "Podemos procurar Deus com confiança",
+    "reference": "Lucas 11:5–13",
+    "description": "Um pedido de pão no meio da noite ajuda Jesus a ensinar seus discípulos sobre oração e confiança no Pai.",
+    "testament": "novo",
+    "cover": "/images/covers/285.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 286,
+    "title": "A Viúva que Não Desistiu",
+    "subtitle": "Continuar buscando justiça e falando com Deus",
+    "reference": "Lucas 18:1–8",
+    "description": "Uma mulher insiste em pedir justiça a um juiz indiferente, e Jesus ensina sobre perseverança na oração.",
+    "testament": "novo",
+    "cover": "/images/covers/286.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 287,
+    "title": "Duas Orações no Templo",
+    "subtitle": "Deus recebe um coração sincero e humilde",
+    "reference": "Lucas 18:9–14",
+    "description": "Dois homens vão ao templo para orar, mas cada um chega com uma atitude muito diferente.",
+    "testament": "novo",
+    "cover": "/images/covers/287.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 288,
+    "title": "Os Celeiros do Homem Rico",
+    "subtitle": "A vida vale mais que tudo o que podemos guardar",
+    "reference": "Lucas 12:13–21",
+    "description": "Uma grande colheita leva um homem a fazer planos que esquecem o valor da vida e do próximo.",
+    "testament": "novo",
+    "cover": "/images/covers/288.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 289,
+    "title": "A Moeda Encontrada",
+    "subtitle": "A alegria de recuperar o que tinha valor",
+    "reference": "Lucas 15:8–10",
+    "description": "Uma mulher procura cuidadosamente uma moeda perdida e reúne as amigas para compartilhar sua alegria.",
+    "testament": "novo",
+    "cover": "/images/covers/289.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 290,
+    "title": "O Servo que Precisava Perdoar",
+    "subtitle": "A misericórdia recebida deve alcançar o próximo",
+    "reference": "Mateus 18:21–35",
+    "description": "Depois de receber o perdão de uma dívida enorme, um servo se recusa a ter misericórdia de seu companheiro.",
+    "testament": "novo",
+    "cover": "/images/covers/290.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 291,
+    "title": "Mais Tempo para a Figueira",
+    "subtitle": "Paciência que se transforma em cuidado",
+    "reference": "Lucas 13:6–9",
+    "description": "Uma figueira sem frutos recebe uma nova oportunidade e o cuidado atento de um trabalhador.",
+    "testament": "novo",
+    "cover": "/images/covers/291.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 292,
+    "title": "Os Pássaros e os Lírios",
+    "subtitle": "O cuidado do Pai alcança a vida de cada dia",
+    "reference": "Mateus 6:25–34",
+    "description": "Jesus convida seus ouvintes a observar aves e flores para aprender a confiar no cuidado de Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/292.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 293,
+    "title": "Jesus Ensina a Orar",
+    "subtitle": "Uma conversa sincera com o Pai",
+    "reference": "Mateus 6:5–13",
+    "description": "Jesus mostra que a oração nasce da confiança e ensina seus discípulos a falar com o Pai sobre a vida.",
+    "testament": "novo",
+    "cover": "/images/covers/293.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 294,
+    "title": "Duas Pequenas Moedas",
+    "subtitle": "Jesus percebe o que os olhos apressados não veem",
+    "reference": "Marcos 12:41–44",
+    "description": "Uma viúva coloca duas moedas na oferta do templo, e Jesus chama a atenção dos discípulos para seu gesto.",
+    "testament": "novo",
+    "cover": "/images/covers/294.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 295,
+    "title": "Jesus Lava os Pés dos Amigos",
+    "subtitle": "O Mestre mostra a grandeza de servir",
+    "reference": "João 13:1–17",
+    "description": "Durante uma refeição com os discípulos, Jesus pega uma toalha e transforma um gesto simples em exemplo de amor.",
+    "testament": "novo",
+    "cover": "/images/covers/295.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 296,
+    "title": "Uma Oração no Jardim",
+    "subtitle": "Jesus apresenta sua tristeza ao Pai",
+    "reference": "Mateus 26:36–46",
+    "description": "No Getsêmani, Jesus ora com sinceridade e pede aos amigos que permaneçam perto dele.",
+    "testament": "novo",
+    "cover": "/images/covers/296.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 297,
+    "title": "Pedro e o Canto do Galo",
+    "subtitle": "Quando o medo fala mais alto, ainda é possível voltar",
+    "reference": "Lucas 22:54–62",
+    "description": "No pátio da casa do sumo sacerdote, Pedro nega conhecer Jesus e percebe com tristeza o que fez.",
+    "testament": "novo",
+    "cover": "/images/covers/297.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 298,
+    "title": "Os Viajantes de Emaús",
+    "subtitle": "Jesus se aproxima de dois corações desanimados",
+    "reference": "Lucas 24:13–35",
+    "description": "Dois discípulos conversam pelo caminho sem perceber que o companheiro de viagem é Jesus ressuscitado.",
+    "testament": "novo",
+    "cover": "/images/covers/298.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 299,
+    "title": "Tomé e as Marcas de Jesus",
+    "subtitle": "Um encontro que transforma a dúvida em confiança",
+    "reference": "João 20:24–29",
+    "description": "Tomé não estava com os amigos quando Jesus apareceu, mas recebe depois um encontro cheio de paz.",
+    "testament": "novo",
+    "cover": "/images/covers/299.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 300,
+    "title": "Um Café da Manhã à Beira do Mar",
+    "subtitle": "Jesus oferece alimento e um recomeço a Pedro",
+    "reference": "João 21:1–19",
+    "description": "Depois de uma noite de pesca, os discípulos encontram Jesus na praia e Pedro recebe uma missão de cuidado.",
+    "testament": "novo",
+    "cover": "/images/covers/300.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 301,
+    "title": "O Dia de Pentecostes",
+    "subtitle": "Uma mensagem em muitas línguas",
+    "reference": "Atos 2:1–13",
+    "description": "A promessa de Jesus alcança seus amigos reunidos. Pessoas de muitos lugares escutam a mesma boa notícia, cada uma em sua própria língua.",
+    "testament": "novo",
+    "cover": "/images/covers/301.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 302,
+    "title": "Pedro Conta a Boa Notícia",
+    "subtitle": "A pergunta que abriu um novo começo",
+    "reference": "Atos 2:14–41",
+    "description": "Diante de uma multidão admirada, Pedro explica quem é Jesus. Sua mensagem convida os ouvintes a mudar de direção e começar uma vida de fé.",
+    "testament": "novo",
+    "cover": "/images/covers/302.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 303,
+    "title": "Uma Mesa para Compartilhar",
+    "subtitle": "Aprender, repartir e viver juntos",
+    "reference": "Atos 2:42–47",
+    "description": "Os primeiros seguidores de Jesus descobrem que a fé também se vive à mesa. Aprendem, oram e repartem seus recursos para que ninguém seja esquecido.",
+    "testament": "novo",
+    "cover": "/images/covers/303.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 304,
+    "title": "Um Encontro na Porta Formosa",
+    "subtitle": "Um pedido e uma grande surpresa",
+    "reference": "Atos 3:1–10",
+    "description": "À porta do templo, um homem pede ajuda a Pedro e João. O encontro traz uma surpresa que faz muita gente parar e agradecer a Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/304.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 305,
+    "title": "Coragem para Dizer a Verdade",
+    "subtitle": "Uma resposta dada com firmeza",
+    "reference": "Atos 4:1–22",
+    "description": "Pedro e João são questionados depois de ajudar um homem. Mesmo diante de ameaças, explicam com clareza por que anunciam Jesus.",
+    "testament": "novo",
+    "cover": "/images/covers/305.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 306,
+    "title": "A Oração dos Amigos",
+    "subtitle": "Pedir coragem juntos",
+    "reference": "Atos 4:23–31",
+    "description": "Depois de uma ameaça, os discípulos procuram os amigos. A comunidade transforma a preocupação em uma oração por coragem para continuar fazendo o bem.",
+    "testament": "novo",
+    "cover": "/images/covers/306.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 307,
+    "title": "Barnabé e o Presente Generoso",
+    "subtitle": "Um campo que virou cuidado",
+    "reference": "Atos 4:32–37",
+    "description": "Barnabé tinha um recurso que podia ajudar muita gente. Sua escolha mostra como a generosidade transforma aquilo que possuímos em cuidado para o próximo.",
+    "testament": "novo",
+    "cover": "/images/covers/307.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 308,
+    "title": "Sete Pessoas para Ajudar",
+    "subtitle": "Cuidar para ninguém ficar de fora",
+    "reference": "Atos 6:1–7",
+    "description": "Uma queixa revela que algumas viúvas estão sendo esquecidas. Os discípulos escutam o problema e organizam uma equipe para servir com justiça.",
+    "testament": "novo",
+    "cover": "/images/covers/308.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 309,
+    "title": "Estêvão e a Coragem de Amar",
+    "subtitle": "Firmeza sem abandonar o amor",
+    "reference": "Atos 6:8–15; 7:54–60",
+    "description": "Estêvão serve à comunidade e fala sobre Jesus. Quando enfrenta uma grande injustiça, sua história convida a lembrar a coragem, a verdade e o cuidado por quem sofre.",
+    "testament": "novo",
+    "cover": "/images/covers/309.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 310,
+    "title": "Filipe Leva Alegria a Samaria",
+    "subtitle": "Um presente que não se compra",
+    "reference": "Atos 8:4–25",
+    "description": "Filipe anuncia Jesus em Samaria, e a cidade recebe a notícia com alegria. Um homem chamado Simão precisa aprender que o dom de Deus não está à venda.",
+    "testament": "novo",
+    "cover": "/images/covers/310.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 311,
+    "title": "Uma Conversa no Caminho",
+    "subtitle": "Uma pergunta dentro da carruagem",
+    "reference": "Atos 8:26–40",
+    "description": "Filipe encontra um viajante que lê as Escrituras sem compreender tudo. Uma pergunta respeitosa abre espaço para uma conversa sobre Jesus e um novo começo.",
+    "testament": "novo",
+    "cover": "/images/covers/311.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 312,
+    "title": "Um Cesto na Muralha",
+    "subtitle": "Amigos que ajudam a encontrar saída",
+    "reference": "Atos 9:23–25",
+    "description": "Saulo enfrenta uma ameaça em Damasco. Seus amigos descobrem um jeito de protegê-lo, mostrando que aceitar ajuda também pode ser um gesto de coragem.",
+    "testament": "novo",
+    "cover": "/images/covers/312.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 313,
+    "title": "Barnabé Abre uma Porta",
+    "subtitle": "Um amigo que ajuda a reconstruir confiança",
+    "reference": "Atos 9:26–31",
+    "description": "Ao chegar a Jerusalém, Saulo encontra pessoas que têm medo de seu passado. Barnabé escuta sua história e o ajuda a ser conhecido pelos apóstolos.",
+    "testament": "novo",
+    "cover": "/images/covers/313.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 314,
+    "title": "Eneias Pode se Levantar",
+    "subtitle": "Uma visita em Lida",
+    "reference": "Atos 9:32–35",
+    "description": "Durante uma viagem para visitar os discípulos, Pedro conhece Eneias. Um encontro breve se torna uma notícia de esperança para toda a região.",
+    "testament": "novo",
+    "cover": "/images/covers/314.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 315,
+    "title": "Tabita e as Roupas do Cuidado",
+    "subtitle": "Pequenos pontos, muito carinho",
+    "reference": "Atos 9:36–43",
+    "description": "Tabita é conhecida pelas roupas e pela ajuda que oferece às pessoas. Quando ela morre, a comunidade sente sua falta e procura Pedro em meio à tristeza.",
+    "testament": "novo",
+    "cover": "/images/covers/315.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 316,
+    "title": "Pedro na Casa de Cornélio",
+    "subtitle": "Deus não escolhe favoritos",
+    "reference": "Atos 10",
+    "description": "Cornélio chama Pedro para uma conversa que atravessa uma antiga separação. Os dois descobrem que a mensagem de Jesus alcança pessoas de todos os povos.",
+    "testament": "novo",
+    "cover": "/images/covers/316.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 317,
+    "title": "O Novo Nome em Antioquia",
+    "subtitle": "Gente conhecida por seguir Cristo",
+    "reference": "Atos 11:19–26",
+    "description": "Uma comunidade cresce em Antioquia e recebe a visita de Barnabé. Ele encontra alegria, busca um companheiro para ensinar e participa de um novo capítulo da igreja.",
+    "testament": "novo",
+    "cover": "/images/covers/317.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 318,
+    "title": "Uma Oferta para os Amigos Distantes",
+    "subtitle": "Generosidade que atravessa distâncias",
+    "reference": "Atos 11:27–30",
+    "description": "Ao saber que uma fome está chegando, os discípulos de Antioquia decidem ajudar. Cada um contribui conforme pode, e a oferta segue para os irmãos da Judeia.",
+    "testament": "novo",
+    "cover": "/images/covers/318.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 319,
+    "title": "Pedro e a Porta que se Abriu",
+    "subtitle": "Uma surpresa do lado de fora",
+    "reference": "Atos 12:1–19",
+    "description": "Pedro está preso, e seus amigos oram por ele. Uma libertação inesperada o leva até uma porta onde a alegria demora um pouco para conseguir entrar.",
+    "testament": "novo",
+    "cover": "/images/covers/319.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 320,
+    "title": "Uma Igreja que Envia",
+    "subtitle": "Partir também é servir",
+    "reference": "Atos 13:1–3",
+    "description": "Durante uma reunião em Antioquia, a comunidade recebe uma nova direção. Barnabé e Saulo são enviados para levar a mensagem de Jesus a outros lugares.",
+    "testament": "novo",
+    "cover": "/images/covers/320.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 321,
+    "title": "O Governador que Quis Ouvir",
+    "subtitle": "Escutar com atenção, escolher com verdade",
+    "reference": "Atos 13:4–12",
+    "description": "Em Chipre, um governador deseja conhecer a palavra de Deus. Paulo e Barnabé encontram alguém que tenta impedir a conversa, e a verdade precisa ser defendida.",
+    "testament": "novo",
+    "cover": "/images/covers/321.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 322,
+    "title": "Uma Mensagem que Atravessa Fronteiras",
+    "subtitle": "A alegria de ouvir pela primeira vez",
+    "reference": "Atos 13:13–52",
+    "description": "Em Antioquia da Pisídia, Paulo conta a história de Jesus. A mensagem desperta perguntas, oposição e uma grande alegria entre pessoas que também desejam recebê-la.",
+    "testament": "novo",
+    "cover": "/images/covers/322.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 323,
+    "title": "Paulo e Barnabé em Listra",
+    "subtitle": "O bem aponta para Deus",
+    "reference": "Atos 14:8–20",
+    "description": "Um homem é curado em Listra, e a multidão entende o acontecimento de um jeito errado. Paulo e Barnabé precisam explicar que são pessoas comuns a serviço do Deus vivo.",
+    "testament": "novo",
+    "cover": "/images/covers/323.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 324,
+    "title": "Uma Conversa Importante em Jerusalém",
+    "subtitle": "Escutar antes de decidir",
+    "reference": "Atos 15:1–35",
+    "description": "Uma dúvida importante divide os discípulos. Em Jerusalém, a comunidade reúne testemunhos e Escrituras para encontrar um caminho de acolhimento e responsabilidade.",
+    "testament": "novo",
+    "cover": "/images/covers/324.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 325,
+    "title": "Timóteo Entra na Viagem",
+    "subtitle": "Um jovem aprende caminhando",
+    "reference": "Atos 16:1–5; 2 Timóteo 1:5; 3:14–15",
+    "description": "Timóteo já era conhecido por sua fé quando Paulo chegou à sua região. Um convite o leva a participar de uma viagem de ensino, cuidado e aprendizado.",
+    "testament": "novo",
+    "cover": "/images/covers/325.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 326,
+    "title": "O Chamado do Outro Lado do Mar",
+    "subtitle": "Uma direção nova para a viagem",
+    "reference": "Atos 16:6–10",
+    "description": "Paulo e seus companheiros encontram caminhos que não podem seguir. Em Trôade, uma visão os ajuda a compreender para onde devem levar a boa notícia.",
+    "testament": "novo",
+    "cover": "/images/covers/326.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 327,
+    "title": "Lídia Abre o Coração e a Casa",
+    "subtitle": "Uma conversa à beira do rio",
+    "reference": "Atos 16:11–15",
+    "description": "Lídia vende tecidos de púrpura e participa de um lugar de oração. Ao ouvir Paulo, recebe a mensagem de Jesus e oferece sua casa como espaço de acolhimento.",
+    "testament": "novo",
+    "cover": "/images/covers/327.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 328,
+    "title": "Cantos na Prisão de Filipos",
+    "subtitle": "Uma canção que atravessa a noite",
+    "reference": "Atos 16:16–40",
+    "description": "Paulo e Silas são presos injustamente em Filipos. Durante a noite, uma surpresa abre caminho para uma conversa, uma refeição e uma transformação na casa do carcereiro.",
+    "testament": "novo",
+    "cover": "/images/covers/328.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 329,
+    "title": "Os Leitores Atentos de Bereia",
+    "subtitle": "Perguntas que ajudam a compreender",
+    "reference": "Atos 17:10–15",
+    "description": "Em Bereia, os ouvintes recebem a mensagem e examinam as Escrituras com atenção.",
+    "testament": "novo",
+    "cover": "/images/covers/329.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 330,
+    "title": "Paulo Conversa em Atenas",
+    "subtitle": "Uma conversa na cidade das perguntas",
+    "reference": "Atos 17:16–34",
+    "description": "Em Atenas, Paulo observa, escuta e apresenta o Deus que criou todas as coisas.",
+    "testament": "novo",
+    "cover": "/images/covers/330.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 331,
+    "title": "Priscila, Áquila e uma Boa Conversa",
+    "subtitle": "Quem ensina também pode aprender",
+    "reference": "Atos 18:1–4, 18–28",
+    "description": "Priscila e Áquila acolhem Apolo e o ajudam a compreender melhor o caminho de Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/331.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 332,
+    "title": "Êutico e o Abraço de Esperança",
+    "subtitle": "Uma noite de susto e consolo",
+    "reference": "Atos 20:7–12",
+    "description": "Durante uma reunião em Trôade, Êutico sofre uma queda e a comunidade recebe um grande consolo.",
+    "testament": "novo",
+    "cover": "/images/covers/332.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 333,
+    "title": "Um Sobrinho que Pediu Ajuda",
+    "subtitle": "Coragem também é procurar quem pode proteger",
+    "reference": "Atos 23:12–24",
+    "description": "O sobrinho de Paulo descobre um perigo e leva a notícia às pessoas que podem ajudar.",
+    "testament": "novo",
+    "cover": "/images/covers/333.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 334,
+    "title": "Coragem em Meio ao Naufrágio",
+    "subtitle": "Esperança, pão e ajuda em meio ao mar",
+    "reference": "Atos 27",
+    "description": "Durante uma longa tempestade, Paulo encoraja os passageiros e todos chegam vivos à terra.",
+    "testament": "novo",
+    "cover": "/images/covers/334.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 335,
+    "title": "Malta: Uma Ilha de Acolhimento",
+    "subtitle": "Mãos que acolhem depois da tempestade",
+    "reference": "Atos 28:1–10",
+    "description": "Os habitantes de Malta recebem os náufragos com bondade, e Paulo cuida de pessoas da ilha.",
+    "testament": "novo",
+    "cover": "/images/covers/335.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 336,
+    "title": "Paz com Deus",
+    "subtitle": "Um amor que chega primeiro",
+    "reference": "Romanos 5:1–11",
+    "description": "Em sua carta aos romanos, Paulo explica de onde vem a paz com Deus. Seu ensino convida a família a descobrir a graça, a esperança e um amor que não precisa ser comprado.",
+    "testament": "novo",
+    "cover": "/images/covers/336.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 337,
+    "title": "Um Corpo, Muitas Tarefas",
+    "subtitle": "Ninguém precisa fazer tudo sozinho",
+    "reference": "Romanos 12:3–8",
+    "description": "Paulo usa a imagem do corpo para ensinar que uma comunidade precisa de pessoas diferentes. Uma descoberta sobre humildade, participação e o valor de cada contribuição.",
+    "testament": "novo",
+    "cover": "/images/covers/337.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 338,
+    "title": "Vencer o Mal com o Bem",
+    "subtitle": "A coragem de escolher outro caminho",
+    "reference": "Romanos 12:9–21",
+    "description": "Em uma carta cheia de orientações práticas, Paulo mostra que o amor sincero aparece no cuidado. Seu ensino convida a responder às dificuldades sem alimentar a vingança.",
+    "testament": "novo",
+    "cover": "/images/covers/338.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 339,
+    "title": "Acolher sem Desprezar",
+    "subtitle": "Uma mesa com espaço para o respeito",
+    "reference": "Romanos 14:1–19",
+    "description": "Os cristãos de Roma tinham opiniões diferentes sobre alimentos e dias especiais. Paulo os orienta a acolher uns aos outros e a procurar aquilo que constrói a paz.",
+    "testament": "novo",
+    "cover": "/images/covers/339.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 340,
+    "title": "O Amor que Permanece",
+    "subtitle": "Mais importante do que impressionar",
+    "reference": "1 Coríntios 13:1–13",
+    "description": "Paulo escreve aos coríntios sobre um caminho que dá sentido aos dons e às palavras. O amor aparece em escolhas pacientes, bondosas e comprometidas com a verdade.",
+    "testament": "novo",
+    "cover": "/images/covers/340.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 341,
+    "title": "Dons para Servir",
+    "subtitle": "Presentes que ajudam a comunidade",
+    "reference": "1 Coríntios 12:4–11, 27–31",
+    "description": "Os coríntios aprendem que os dons têm uma origem comum e um propósito de cuidado. Uma leitura sobre diferenças, cooperação e serviço que não depende de aplausos.",
+    "testament": "novo",
+    "cover": "/images/covers/341.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 342,
+    "title": "A Alegria de Repartir",
+    "subtitle": "Uma semente de cuidado",
+    "reference": "2 Coríntios 9:6–15",
+    "description": "Paulo orienta uma oferta destinada a pessoas que precisavam de ajuda. A comparação com sementes revela uma generosidade livre, responsável e cheia de gratidão.",
+    "testament": "novo",
+    "cover": "/images/covers/342.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 343,
+    "title": "O Fruto que Cresce por Dentro",
+    "subtitle": "Um jardim de atitudes",
+    "reference": "Gálatas 5:13–26",
+    "description": "A carta aos gálatas fala de liberdade, amor e do fruto do Espírito. Uma leitura que usa a imagem do crescimento para descobrir atitudes que fazem bem às pessoas.",
+    "testament": "novo",
+    "cover": "/images/covers/343.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 344,
+    "title": "Carregar os Fardos",
+    "subtitle": "Ajuda que não humilha",
+    "reference": "Gálatas 6:1–10",
+    "description": "Paulo convida a comunidade a cuidar de quem tropeça e a repartir pesos difíceis. Seu ensino reúne gentileza, responsabilidade e perseverança no bem.",
+    "testament": "novo",
+    "cover": "/images/covers/344.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 345,
+    "title": "Uma Casa de Gente",
+    "subtitle": "Perto de Deus, perto uns dos outros",
+    "reference": "Efésios 2:11–22",
+    "description": "Uma carta mostra que a fé em Jesus aproxima pessoas antes separadas. A imagem de uma casa ajuda a entender pertencimento, reconciliação e uma comunidade em construção.",
+    "testament": "novo",
+    "cover": "/images/covers/345.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 346,
+    "title": "A Armadura da Paz",
+    "subtitle": "Firmeza para escolher o bem",
+    "reference": "Efésios 6:10–18",
+    "description": "Uma comparação com a armadura de um soldado ensina sobre verdade, justiça, fé e oração. O chamado é permanecer firme no bem, sem transformar pessoas em inimigos.",
+    "testament": "novo",
+    "cover": "/images/covers/346.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 347,
+    "title": "Olhar Também para o Outro",
+    "subtitle": "O caminho humilde de Jesus",
+    "reference": "Filipenses 2:1–11",
+    "description": "Paulo convida os filipenses a abandonar disputas de importância. O exemplo de Jesus mostra que a grandeza pode caminhar com humildade e serviço.",
+    "testament": "novo",
+    "cover": "/images/covers/347.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 348,
+    "title": "Alegria e Oração",
+    "subtitle": "Um lugar para entregar as preocupações",
+    "reference": "Filipenses 4:4–9",
+    "description": "Paulo convida uma comunidade a levar seus pedidos a Deus e a cultivar pensamentos verdadeiros e bons. Uma leitura sobre alegria, gentileza e paz em meio às preocupações.",
+    "testament": "novo",
+    "cover": "/images/covers/348.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 349,
+    "title": "Aprender o Contentamento",
+    "subtitle": "A força para atravessar dias diferentes",
+    "reference": "Filipenses 4:10–20",
+    "description": "Paulo agradece a ajuda dos filipenses e conta que aprendeu a viver em situações diferentes. O contentamento aparece junto com a gratidão e a importância de receber apoio.",
+    "testament": "novo",
+    "cover": "/images/covers/349.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 350,
+    "title": "Vestir-se de Bondade",
+    "subtitle": "As atitudes que escolhemos levar",
+    "reference": "Colossenses 3:12–17",
+    "description": "Uma carta usa a imagem de vestir roupas para falar de compaixão, humildade e amor. A leitura convida a escolher atitudes que acompanhem cada encontro do dia.",
+    "testament": "novo",
+    "cover": "/images/covers/350.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 351,
+    "title": "Gratidão em Cada Dia",
+    "subtitle": "Pequenos caminhos de cuidado",
+    "reference": "1 Tessalonicenses 5:12–24",
+    "description": "A primeira carta aos tessalonicenses termina com orientações para a convivência. Alegria, oração, gratidão e atenção aos mais frágeis ajudam a comunidade a crescer.",
+    "testament": "novo",
+    "cover": "/images/covers/351.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 352,
+    "title": "Timóteo Pode Dar Exemplo",
+    "subtitle": "A idade não apaga o valor das atitudes",
+    "reference": "1 Timóteo 4:6–16",
+    "description": "Timóteo recebe orientações para seu trabalho na comunidade. A carta o encoraja a aprender, praticar e mostrar sua fé no modo de falar e de viver.",
+    "testament": "novo",
+    "cover": "/images/covers/352.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 353,
+    "title": "Uma Fé Aprendida em Casa",
+    "subtitle": "As lembranças que ajudam a crescer",
+    "reference": "2 Timóteo 1:3–7; 3:14–17",
+    "description": "Uma carta recorda a fé de Loide e Eunice e o aprendizado de Timóteo desde a infância. A leitura mostra o valor do cuidado entre gerações e de continuar aprendendo.",
+    "testament": "novo",
+    "cover": "/images/covers/353.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 354,
+    "title": "Filemom e um Novo Acolhimento",
+    "subtitle": "Uma carta em favor de Onésimo",
+    "reference": "Filemom 1:8–21",
+    "description": "Paulo escreve em favor de Onésimo e pede que Filemom o receba como irmão amado. Uma leitura cuidadosa sobre dignidade, reconciliação e relações que precisam mudar.",
+    "testament": "novo",
+    "cover": "/images/covers/354.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 355,
+    "title": "O Caminho da Fé",
+    "subtitle": "Confiar enquanto a jornada continua",
+    "reference": "Hebreus 11:1–16",
+    "description": "O livro de Hebreus relembra pessoas que confiaram em Deus ao longo da história. A leitura mostra que a fé acompanha passos, espera e esperança, mesmo sem enxergar todo o caminho.",
+    "testament": "novo",
+    "cover": "/images/covers/355.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 356,
+    "title": "A Corrida da Perseverança",
+    "subtitle": "Um passo de cada vez, olhando para Jesus",
+    "reference": "Hebreus 12:1–3",
+    "description": "Depois de recordar testemunhas da fé, Hebreus compara a vida a uma corrida. O ensino convida a deixar pesos desnecessários e a continuar com os olhos voltados para Jesus.",
+    "testament": "novo",
+    "cover": "/images/covers/356.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 357,
+    "title": "Uma Porta para o Visitante",
+    "subtitle": "O amor que aprende a acolher",
+    "reference": "Hebreus 13:1–6, 16",
+    "description": "Hebreus convida a conservar o amor fraterno, acolher e lembrar de quem sofre. A hospitalidade aparece como um cuidado concreto, praticado com responsabilidade.",
+    "testament": "novo",
+    "cover": "/images/covers/357.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 358,
+    "title": "Ouvir Antes de Falar",
+    "subtitle": "Uma pausa que muda a conversa",
+    "reference": "Tiago 1:19–27",
+    "description": "Tiago ensina a ouvir com atenção, cuidar das palavras e colocar a fé em prática. Um espelho ajuda a compreender a diferença entre escutar um ensino e vivê-lo.",
+    "testament": "novo",
+    "cover": "/images/covers/358.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 359,
+    "title": "Uma Fé que Ajuda",
+    "subtitle": "Quando as palavras ganham mãos",
+    "reference": "Tiago 2:14–26",
+    "description": "Tiago apresenta uma pergunta sobre fé e atitudes. O exemplo de alguém sem alimento mostra por que desejar o bem precisa caminhar junto com ajuda concreta.",
+    "testament": "novo",
+    "cover": "/images/covers/359.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 360,
+    "title": "A Sabedoria da Paz",
+    "subtitle": "O conhecimento que aprende a cuidar",
+    "reference": "Tiago 3:13–18",
+    "description": "Tiago pergunta como reconhecer uma pessoa sábia. Sua resposta aponta para atitudes humildes, misericordiosas e capazes de cultivar a paz.",
+    "testament": "novo",
+    "cover": "/images/covers/360.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 361,
+    "title": "Cuidem Uns dos Outros",
+    "subtitle": "Presentes recebidos, cuidados repartidos",
+    "reference": "1 Pedro 4:7–11; 5:7",
+    "description": "A primeira carta de Pedro convida a orar, acolher e usar os dons para servir. Uma lembrança do cuidado de Deus acompanha o chamado a cuidar das pessoas.",
+    "testament": "novo",
+    "cover": "/images/covers/361.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 362,
+    "title": "Amar com Atitudes",
+    "subtitle": "Um coração aberto para o próximo",
+    "reference": "1 João 3:16–24",
+    "description": "A primeira carta de João liga o amor de Jesus ao cuidado concreto com as pessoas. O ensino convida a unir palavras, verdade e atitudes de generosidade.",
+    "testament": "novo",
+    "cover": "/images/covers/362.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 363,
+    "title": "A Porta e o Convite",
+    "subtitle": "Escutar e recomeçar",
+    "reference": "Apocalipse 3:14–22",
+    "description": "Na mensagem à comunidade de Laodiceia, Jesus chama seus leitores a reconhecer necessidades escondidas. A imagem de uma porta e de uma refeição oferece um convite ao recomeço.",
+    "testament": "novo",
+    "cover": "/images/covers/363.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 364,
+    "title": "A Cidade sem Lágrimas",
+    "subtitle": "A esperança de todas as coisas novas",
+    "reference": "Apocalipse 21:1–7, 22–27",
+    "description": "João descreve uma visão de novo céu, nova terra e da cidade santa. No centro da esperança está a presença de Deus e a promessa do fim do sofrimento.",
+    "testament": "novo",
+    "cover": "/images/covers/364.webp",
+    "duration": "4–7 min"
+  },
+  {
+    "id": 365,
+    "title": "O Rio da Vida",
+    "subtitle": "Uma esperança que continua",
+    "reference": "Apocalipse 22:1–5",
+    "description": "Nas últimas páginas da Bíblia, João vê um rio cristalino e a árvore da vida. A visão encerra a jornada da coleção com imagens de cura, luz e comunhão com Deus.",
+    "testament": "novo",
+    "cover": "/images/covers/365.webp",
+    "duration": "4–7 min"
   }
 ]

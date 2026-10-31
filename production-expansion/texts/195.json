@@ -1,0 +1,74 @@
+{
+  "id": 195,
+  "title": "Uma Festa para Não Esquecer",
+  "subtitle": "A memória que se transforma em partilha",
+  "reference": "Ester 9:20–32",
+  "description": "Depois dos dias de perigo, Mordecai e Ester ajudam o povo a guardar a memória do livramento. A celebração inclui comida compartilhada e presentes aos necessitados.",
+  "testament": "antigo",
+  "cover": "/images/covers/195.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Depois do medo",
+      "paragraphs": [
+        "O povo judeu havia atravessado dias de grande perigo no reino de Assuero. Hamã preparara uma ordem para destruí-lo, e Ester falara ao rei em busca de proteção. Uma nova mensagem permitira que os judeus se reunissem para defender suas vidas. O livro conta conflitos difíceis, até que chegou o tempo de descanso dos ataques.",
+        "Os dias que seriam de destruição se transformaram em dias de alívio. As famílias puderam celebrar a vida preservada. A história não precisava ser esquecida quando o medo diminuísse. Era importante lembrar o que havia acontecido, como tinham enfrentado a ameaça e por que aquele descanso trazia tanta alegria para a comunidade.",
+        "Mordecai escreveu sobre esses acontecimentos e enviou cartas aos judeus de todas as províncias, tanto aos que estavam perto quanto aos que viviam longe. A lembrança deveria alcançar o povo inteiro. Não ficaria somente na memória de quem acompanhara Ester no palácio ou de quem morava na cidade de Susã."
+      ],
+      "image": "195/part1.webp",
+      "alt": "Mordecai registra os acontecimentos para que não sejam esquecidos."
+    },
+    {
+      "heading": "Uma alegria que inclui outros",
+      "paragraphs": [
+        "As cartas orientavam que os dias quatorze e quinze do mês de adar fossem lembrados a cada ano. Eram os dias ligados ao descanso dos inimigos e à passagem da tristeza para a alegria. O calendário ajudaria as gerações seguintes a voltar àquela história, mesmo quando já não tivessem conhecido pessoalmente seus participantes.",
+        "A celebração deveria incluir festas e refeições alegres. Também havia duas formas importantes de partilha: enviar porções de comida uns aos outros e dar presentes aos necessitados. A gratidão não seria vivida apenas dentro de cada casa. Deveria atravessar as portas e alcançar pessoas que precisavam de alimento, ajuda e companhia.",
+        "O povo aceitou guardar esse costume. As famílias tinham vivido um perigo coletivo e agora teriam uma memória coletiva de livramento. Celebrar não significava alegrar-se com o sofrimento dos outros. O centro era reconhecer a vida preservada, o fim daquele período de ameaça e a possibilidade de continuar a história juntos."
+      ],
+      "image": "195/part2.webp",
+      "alt": "Uma família oferece uma porção de comida a quem precisa."
+    },
+    {
+      "heading": "Um nome e uma lembrança",
+      "paragraphs": [
+        "A festa recebeu o nome de Purim, ligado à palavra que significava sorte. Hamã havia lançado sortes para escolher o tempo de seu plano contra os judeus. O nome da celebração guardava a lembrança dessa ameaça e de como a história tomou outro rumo. Aquilo que marcara uma intenção de destruição se tornou parte de uma memória de sobrevivência.",
+        "Ester e Mordecai confirmaram a celebração por meio de outra carta. A mensagem foi enviada com palavras de paz e verdade às cento e vinte e sete províncias do reino. O relato também preservou a lembrança dos jejuns e do clamor do povo. A alegria não apagava a dor atravessada; ajudava a contar a história inteira com responsabilidade.",
+        "A determinação de Ester ficou registrada. A memória deveria continuar entre famílias, cidades e gerações. Assim, uma festa passou a ensinar por meio de datas, histórias e gestos de partilha. Quando o povo voltasse a celebrar, poderia lembrar não apenas que tinha sobrevivido, mas também que a alegria se torna mais completa quando encontra lugar para quem necessita de cuidado."
+      ],
+      "image": "195/part3.webp",
+      "alt": "Ester e Mordecai confirmam a mensagem de paz e verdade."
+    }
+  ],
+  "lesson": "Guardar uma boa lembrança pode nos ajudar a agradecer e a cuidar melhor dos outros. Em uma celebração, podemos pensar em quem não tem os mesmos recursos ou está sozinho. Com a orientação dos responsáveis, é possível repartir alimento, oferecer companhia ou participar de uma ajuda organizada. A alegria não precisa ficar fechada em nossa casa; pode se transformar numa atitude de generosidade que inclui outras pessoas.",
+  "question": "Como uma próxima celebração da sua família poderia incluir alguém que precisa de cuidado?",
+  "prayer": "Deus, obrigado pela vida e pelos momentos de alívio depois das dificuldades. Ajuda-nos a guardar a memória do cuidado recebido sem esquecer quem ainda sofre. Que nossas celebrações tragam paz, verdade e generosidade, com espaço para repartir alimento, companhia e carinho. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias repartem alimentos numa celebração de gratidão.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Jewish families in Susa exchange baskets of bread and fruit during a joyful communal celebration, children beside adults, warm courtyard, no modern Purim costumes or printed decorations. "
+    },
+    {
+      "role": "part1",
+      "alt": "Mordecai registra os acontecimentos para que não sejam esquecidos.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai at a wooden writing table with an adult scribe, carefully reviewing unlettered parchment records, thoughtful grateful expression, quiet Persian-era room and warm light. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família oferece uma porção de comida a quem precisa.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean family respectfully hands a covered basket of food to a grateful older neighbor at a simple doorway, dignity and mutual warmth, children help with small fruit basket. "
+    },
+    {
+      "role": "part3",
+      "alt": "Ester e Mordecai confirmam a mensagem de paz e verdade.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther and Mordecai stand beside a palace table with neatly rolled letters while adult messengers prepare to depart, calm hopeful expressions, modest royal dress and warm golden light. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

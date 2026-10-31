@@ -1,0 +1,71 @@
+{
+  "id": 280,
+  "title": "Os Dois Filhos e a Vinha",
+  "subtitle": "Uma mudança de atitude vale mais que uma promessa vazia",
+  "reference": "Mateus 21:28–32",
+  "description": "Dois irmãos respondem de maneiras diferentes ao pai, mas suas ações revelam mais que suas primeiras palavras.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.21.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "O pedido do pai",
+      "paragraphs": [
+        "Jesus conversava com líderes religiosos em Jerusalém. Eles questionavam sua autoridade e precisavam pensar sobre a própria resposta ao que Deus estava fazendo. Então Jesus lhes propôs uma história. Um homem tinha dois filhos e precisava de ajuda no trabalho de sua vinha. Foi até um deles e pediu que fosse trabalhar naquele dia.",
+        "O primeiro filho respondeu que não queria ir. Sua resposta foi direta e pouco disposta. Naquele momento, ele recusou o pedido do pai. Quem ouvisse somente aquelas palavras poderia imaginar que a conversa havia terminado e que nada mais aconteceria. O trabalho continuava esperando, mas o filho parecia decidido a ficar longe dele.",
+        "Entretanto, a história não parou na primeira resposta. Depois, o filho mudou de ideia e foi trabalhar. O arrependimento apareceu num movimento concreto: ele fez o que havia recusado. Jesus mostrava que uma atitude inicial errada não precisava se tornar o último capítulo. Era possível reconhecer a recusa e escolher um caminho diferente."
+      ],
+      "alt": "Um pai pede ao filho que trabalhe na vinha.",
+      "image": "280/part1.webp"
+    },
+    {
+      "heading": "Uma resposta que não virou ação",
+      "paragraphs": [
+        "O pai também foi ao outro filho e fez o mesmo pedido. Desta vez, ouviu uma resposta respeitosa. O filho disse que iria. Suas palavras pareciam indicar prontidão e obediência. Se a história terminasse naquele instante, ele poderia parecer o mais disposto dos dois, enquanto o irmão ficaria lembrado apenas pela recusa.",
+        "Mas esse segundo filho não foi trabalhar. O que prometera não aconteceu. Entre sua fala e sua atitude surgiu uma distância. O pedido do pai havia recebido uma resposta bonita, porém a vinha continuava sem sua ajuda. Jesus colocou lado a lado duas situações em que as primeiras palavras não contavam toda a história.",
+        "Então perguntou aos líderes qual dos dois havia feito a vontade do pai. A resposta era clara: o que acabara indo trabalhar. Não porque sua recusa inicial fosse boa, mas porque depois ele mudou de direção. O outro havia falado corretamente, mas suas palavras não se transformaram no cuidado e na responsabilidade que o pedido exigia."
+      ],
+      "alt": "Um filho permanece longe da vinha apesar de ter prometido ir.",
+      "image": "280/part2.webp"
+    },
+    {
+      "heading": "A coragem de mudar",
+      "paragraphs": [
+        "Jesus explicou por que havia contado aquela parábola. Pessoas desprezadas por muitos líderes tinham ouvido João Batista e crido em sua mensagem. Reconheceram a necessidade de mudar. Os líderes, porém, mesmo vendo essa transformação, não haviam se arrependido para crer. A resposta de cada grupo precisava ser observada além da aparência e da posição social.",
+        "A história dos filhos revelava o perigo de confiar apenas numa imagem de obediência. Falar com respeito tinha valor, mas não substituía a atitude. Da mesma forma, ter começado errado não impedia alguém de voltar atrás. A porta do arrependimento aparecia na ação do primeiro filho, que deixou sua recusa e foi para a vinha.",
+        "Os ouvintes de Jesus precisavam examinar a própria resposta. Estavam dispostos a mudar ou apenas a dizer o que parecia certo? A parábola deixava uma tarefa simples de compreender e exigente de viver: aproximar palavras e ações. Quando fosse necessário corrigir o rumo, o melhor passo seria começar a fazer o bem que antes haviam recusado."
+      ],
+      "alt": "O filho que mudou de ideia trabalha entre as videiras.",
+      "image": "280/part3.webp"
+    }
+  ],
+  "lesson": "Podemos corrigir uma resposta ruim com uma mudança sincera de atitude. Dizer que vamos ajudar é importante, mas cumprir a promessa também faz parte do cuidado. Quando percebemos que falhamos, não precisamos ficar presos à vergonha ou inventar desculpas. Podemos reconhecer o erro, conversar e começar de novo. Arrependimento aparece quando procuramos reparar o que fizemos e agir de modo diferente.",
+  "question": "Existe alguma ajuda que você prometeu e ainda pode transformar em uma atitude concreta?",
+  "prayer": "Pai, ajuda-me a unir minhas palavras às minhas atitudes. Quando eu recusar o bem ou fizer uma promessa vazia, dá-me coragem para reconhecer e mudar. Ensina-me a cumprir responsabilidades com sinceridade e a reparar meus erros com gestos de cuidado. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/280.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um filho trabalha na vinha depois de mudar de ideia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene young adult son olive skin short dark curls muted green tunic tending grapevines with woven basket, father gray beard cream robe brown sash watching warmly from path, golden afternoon, no Jesus. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O pai conversa com um dos filhos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Father gray beard cream robe brown sash requesting help from young adult son green tunic at simple stone house doorway, son initially hesitant arms loosely folded, vineyard visible beyond, gentle non-aggressive faces. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O outro filho fica no pátio da casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Second young adult son olive skin straight dark hair ochre tunic seated idly in shaded stone courtyard while empty vineyard path visible beyond, thoughtful not villainous expression, no father, no Jesus. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O primeiro filho cuida da vinha.",
+      "prompt": "Use case: illustration-story. New landscape 3:2 1536x1024 illustration for a family Bible storybook. Same warmly detailed cinematic 3D style and same curly dark-haired son in muted green linen tunic from reference. Show him alone calmly caring for grapevines in a first-century vineyard, carefully guiding one leafy vine shoot against a wooden support with his hands, a wicker harvest basket on the ground nearby. Three-quarter view from the side, peaceful focused smile, fully clothed loose green tunic with a long hem and sandals. His father is not in this scene. No other people, no text or logos, no modern tools."
+    }
+  ]
+}

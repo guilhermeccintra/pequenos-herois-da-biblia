@@ -1,0 +1,71 @@
+{
+  "id": 126,
+  "title": "Saul Procura as Jumentas",
+  "subtitle": "Uma tarefa comum, um encontro inesperado",
+  "reference": "1 Samuel 9:1–27",
+  "description": "Saul sai com um servo para procurar os animais de seu pai. A viagem parece não dar resultado, até que uma sugestão simples os leva ao encontro de Samuel.",
+  "testament": "antigo",
+  "cover": "/images/covers/126.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Animais que não voltaram",
+      "paragraphs": [
+        "Quis, um homem da tribo de Benjamim, percebeu que suas jumentas tinham desaparecido. Chamou seu filho Saul e pediu que levasse um servo para procurá-las. Saul era um jovem alto, de aparência destacada entre os israelitas. Naquele dia, porém, não saiu para ser admirado. Tinha uma tarefa concreta: encontrar os animais e trazê-los de volta.",
+        "Os dois atravessaram a região montanhosa de Efraim e passaram por outros lugares sem encontrar o que procuravam. Depois seguiram pela terra de Benjamim, mas as jumentas continuavam desaparecidas. A viagem foi ficando longa. Uma procura que parecia simples no começo exigia agora caminhada, atenção e disposição para continuar mesmo sem sinais claros de sucesso.",
+        "Quando chegaram à região de Zufe, Saul pensou em voltar. Temia que seu pai deixasse de se preocupar com os animais e começasse a se angustiar com eles. Essa preocupação fazia sentido. Uma tarefa importante não deveria apagar o cuidado com as pessoas. Antes de decidir, porém, Saul ouviu uma sugestão do servo que o acompanhava."
+      ],
+      "image": "126/part1.webp",
+      "alt": "Quis conversa com Saul perto de um curral vazio, pedindo ajuda para encontrar os animais."
+    },
+    {
+      "heading": "Uma boa ideia do companheiro",
+      "paragraphs": [
+        "O servo sabia que naquela cidade vivia um homem de Deus respeitado, cujas palavras se cumpriam. Talvez ele pudesse orientar o caminho. Saul perguntou o que poderiam oferecer numa visita, pois o pão da bagagem havia acabado. O servo tinha uma pequena quantia de prata. Os dois concordaram em procurar aquele homem, conhecido então como vidente.",
+        "Ao subir para a cidade, encontraram moças que saíam para buscar água. Perguntaram pelo vidente e receberam uma orientação detalhada. Ele estava ali naquele dia, e o povo preparava uma refeição de sacrifício no lugar alto. Deveriam se apressar para encontrá-lo antes da celebração. A busca avançava graças a pessoas que compartilhavam o que sabiam.",
+        "Enquanto isso, Samuel já havia recebido de Deus a notícia de que encontraria um homem de Benjamim. Quando Saul se aproximou para perguntar onde ficava a casa do vidente, Samuel se apresentou. O encontro que parecia nascer apenas de uma procura por animais fazia parte de algo que Saul ainda não conhecia. Havia uma responsabilidade maior sendo preparada."
+      ],
+      "image": "126/part2.webp",
+      "alt": "O companheiro aponta para a cidade enquanto Saul escuta sua sugestão numa pausa da viagem."
+    },
+    {
+      "heading": "A mesa preparada",
+      "paragraphs": [
+        "Samuel disse a Saul que subisse com ele e comesse naquela ocasião. Também tranquilizou sua preocupação: as jumentas desaparecidas havia três dias já tinham sido encontradas. Depois falou sobre o desejo de Israel ligado à sua família. Saul se mostrou surpreso. Vinha da menor das tribos e não entendia por que recebia palavras tão importantes.",
+        "Samuel levou Saul e seu servo para a sala da refeição e lhes deu um lugar de honra entre os convidados. Uma porção reservada foi colocada diante de Saul. O jovem que saíra procurando animais agora era recebido de uma maneira inesperada. Ainda não havia compreendido toda a missão, mas começava a perceber que aquela visita era diferente.",
+        "Depois da refeição, conversaram, e Saul passou a noite na cidade. De manhã, Samuel o acompanhou até a saída. Pediu que o servo seguisse adiante, pois tinha uma palavra de Deus para lhe transmitir. A tarefa cotidiana havia conduzido Saul a um novo começo. Pelo caminho, ele também aprendera algo simples: escutar um companheiro pode abrir uma possibilidade que não havíamos percebido."
+      ],
+      "image": "126/part3.webp",
+      "alt": "Samuel recebe Saul e seu companheiro numa refeição simples, com um lugar preparado à mesa."
+    }
+  ],
+  "lesson": "A sugestão que ajudou Saul veio do servo que caminhava com ele. Uma boa ideia pode surgir de alguém que não ocupa a posição de maior destaque. Podemos escutar colegas, irmãos e pessoas que trabalham ao nosso redor com o mesmo respeito. Também vale cuidar das tarefas comuns sem achar que só as grandes ocasiões importam. Procurar um objeto, ajudar em casa ou cumprir um combinado pode ensinar atenção, parceria e responsabilidade.",
+  "question": "Quando alguém com menos destaque oferece uma ideia, como você pode mostrar que está disposto a escutar?",
+  "prayer": "Deus, ensina-nos a valorizar as pessoas que caminham conosco e a ouvir suas boas ideias. Ajuda-nos a cuidar das tarefas simples com responsabilidade e a perceber quando precisamos mudar de caminho. Que o respeito esteja presente em nossas conversas e decisões. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Saul e seu companheiro observam uma cidade no alto do caminho, depois de procurar as jumentas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Saul tall young adult olive-skinned dark wavy hair short beard cream tunic ochre cloak; adult servant shorter brown tunic; Samuel elderly gray beard cream robe brown mantle. Ancient hill country, donkeys only in background if scene requests. Only characters explicitly named in scene; do not copy reference cast. Scene: Saul e seu companheiro observam uma cidade no alto do caminho, depois de procurar as jumentas."
+    },
+    {
+      "role": "part1",
+      "alt": "Quis conversa com Saul perto de um curral vazio, pedindo ajuda para encontrar os animais.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required scene: Exactly two human characters: Kish, an older olive-skinned man with a graying beard and brown robe, speaking to his very tall young adult son Saul, dark wavy hair and short beard, cream tunic and ochre cloak. They stand beside a completely empty rustic donkey pen. Their animals are missing. Absolutely no donkeys, horses or other animals anywhere in this image, including background. Only the empty pen and rustic stone farm appear around them."
+    },
+    {
+      "role": "part2",
+      "alt": "O companheiro aponta para a cidade enquanto Saul escuta sua sugestão numa pausa da viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required scene: Exactly two characters: tall young adult Saul, olive skin dark wavy hair short beard cream tunic ochre cloak, and his shorter adult servant, dark curls beard brown tunic. The servant points to a distant hilltop town while Saul listens, on a dirt path during their unsuccessful search for missing donkeys. Absolutely no donkeys, horses or any other animals anywhere in this image. They are traveling on foot with only small shoulder bags."
+    },
+    {
+      "role": "part3",
+      "alt": "Samuel recebe Saul e seu companheiro numa refeição simples, com um lugar preparado à mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Saul tall young adult olive-skinned dark wavy hair short beard cream tunic ochre cloak; adult servant shorter brown tunic; Samuel elderly gray beard cream robe brown mantle. Ancient hill country, donkeys only in background if scene requests. Only characters explicitly named in scene; do not copy reference cast. Scene: Samuel recebe Saul e seu companheiro numa refeição simples, com um lugar preparado à mesa."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 116,
+  "title": "Débora Debaixo da Palmeira",
+  "subtitle": "Uma mulher que ajudava o povo a decidir",
+  "reference": "Juízes 4:1–10",
+  "description": "Num tempo difícil, Débora escuta o povo e oferece orientação. Debaixo de uma palmeira, suas palavras ajudam a abrir um caminho de responsabilidade e coragem.",
+  "testament": "antigo",
+  "cover": "/images/covers/116.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar para buscar orientação",
+      "paragraphs": [
+        "O povo de Israel atravessava um tempo de opressão. Jabim, rei de Canaã, dominava a região, e seu comandante Sísera tinha novecentos carros de ferro. Durante vinte anos, os israelitas sofreram com esse poder. A ameaça não era apenas uma notícia distante. Ela afetava a vida das famílias, os caminhos e a segurança da comunidade.",
+        "Naqueles dias, Débora era profetisa e julgava Israel. Ela costumava sentar-se debaixo de uma palmeira, entre Ramá e Betel, na região montanhosa de Efraim. As pessoas iam até ali para que suas questões fossem ouvidas. Não era necessário um grande palácio para que uma responsabilidade importante fosse exercida com atenção.",
+        "As pessoas conheciam o lugar da palmeira de Débora e iam até ali para apresentar suas questões. Ela ouvia e orientava o povo como juíza de Israel. Enquanto o poder de Sísera espalhava medo, sua presença oferecia uma direção. Debaixo daquela árvore, havia alguém disposta a servir ao Senhor e a cuidar da comunidade."
+      ],
+      "image": "116/part1.webp",
+      "alt": "Pessoas aguardam com tranquilidade perto da palmeira enquanto Débora ouve uma situação da comunidade."
+    },
+    {
+      "heading": "Uma mensagem para Baraque",
+      "paragraphs": [
+        "Débora mandou chamar Baraque, filho de Abinoão, que vivia em Quedes, na região de Naftali. Ela lhe apresentou uma orientação do Senhor: reunir homens de Naftali e Zebulom e levá-los ao monte Tabor. A missão estava ligada ao enfrentamento da opressão que o povo sofria. Não era uma aventura para conquistar fama pessoal.",
+        "Baraque ouviu a mensagem, mas não quis seguir sozinho. Disse que iria se Débora fosse com ele; se ela não fosse, não partiria. Seu pedido revelava a importância da presença dela naquele momento. A profetisa era uma pessoa em quem ele confiava. Diante de uma responsabilidade assustadora, desejava contar com sua companhia.",
+        "Débora respondeu que o acompanharia. Também avisou que a honra pelo desfecho não seria dele, pois Sísera seria entregue nas mãos de uma mulher. Baraque precisaria cumprir sua parte sem controlar toda a maneira como a história terminaria. A ajuda recebida não transformava a missão numa disputa por quem seria mais admirado."
+      ],
+      "image": "116/part2.webp",
+      "alt": "Débora conversa com Baraque à sombra da árvore, transmitindo orientação com seriedade e cuidado."
+    },
+    {
+      "heading": "A palmeira fica para trás",
+      "paragraphs": [
+        "Débora se levantou e foi com Baraque para Quedes. O lugar de escuta sob a palmeira agora dava passagem a outra forma de servir. Ela não ficaria apenas transmitindo instruções de longe. Aceitara acompanhar a pessoa chamada para a tarefa. A presença de alguém confiável ajudava a transformar uma orientação em um passo concreto.",
+        "Baraque convocou os homens de Zebulom e Naftali. Dez mil se reuniram em Quedes para acompanhá-lo. Débora também partiu com eles, conforme havia prometido. O chamado que começara numa conversa agora movimentava o povo. A voz da profetisa e a disposição dos que se apresentaram ajudavam a preparar uma resposta à longa opressão.",
+        "O caminho adiante ainda seria difícil. Débora havia deixado o lugar sob a palmeira para acompanhar Baraque naquela missão. A mesma mulher que escutava as questões do povo agora caminhava ao lado dos que precisavam de coragem. Eles seguiam com a orientação recebida do Senhor, enquanto o monte Tabor aguardava o próximo passo."
+      ],
+      "image": "116/part3.webp",
+      "alt": "Débora e Baraque seguem pelo caminho para Quedes, acompanhados por adultos, sem combate visível."
+    }
+  ],
+  "lesson": "Débora escutava as pessoas, ajudava a resolver dificuldades e acompanhou Baraque quando ele precisou de coragem. Sua história nos lembra que mulheres têm voz, sabedoria e responsabilidade no povo de Deus. Liderar começa com atenção aos outros. Na escola ou em casa, podemos ouvir antes de decidir, incluir alguém que ficou de fora e acompanhar um amigo numa tarefa difícil. Às vezes, uma presença amiga ajuda mais do que muitas palavras.",
+  "question": "Quem costuma escutar você com atenção, e como você pode oferecer essa mesma atenção a alguém?",
+  "prayer": "Deus, obrigado pelas mulheres que ensinam, orientam e cuidam de nossa comunidade. Ajuda-nos a ouvir com respeito e a reconhecer a sabedoria das pessoas. Dá-nos coragem para acompanhar quem precisa de apoio e para usar nossa voz em favor da justiça e da paz. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Débora escuta uma família à sombra de sua palmeira, com a paisagem montanhosa de Efraim ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman dark curly hair partly covered by cream headscarf, muted purple robe, teal shawl, dignified warm expression. Barak adult short dark beard brown tunic blue cloak. Ancient palm tree hill country. Scene: Débora escuta uma família à sombra de sua palmeira, com a paisagem montanhosa de Efraim ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Pessoas aguardam com tranquilidade perto da palmeira enquanto Débora ouve uma situação da comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman dark curly hair partly covered by cream headscarf, muted purple robe, teal shawl, dignified warm expression. Barak adult short dark beard brown tunic blue cloak. Ancient palm tree hill country. Scene: Pessoas aguardam com tranquilidade perto da palmeira enquanto Débora ouve uma situação da comunidade."
+    },
+    {
+      "role": "part2",
+      "alt": "Débora conversa com Baraque à sombra da árvore, transmitindo orientação com seriedade e cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman dark curly hair partly covered by cream headscarf, muted purple robe, teal shawl, dignified warm expression. Barak adult short dark beard brown tunic blue cloak. Ancient palm tree hill country. Scene: Débora conversa com Baraque à sombra da árvore, transmitindo orientação com seriedade e cuidado."
+    },
+    {
+      "role": "part3",
+      "alt": "Débora e Baraque seguem pelo caminho para Quedes, acompanhados por adultos, sem combate visível.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman dark curly hair partly covered by cream headscarf, muted purple robe, teal shawl, dignified warm expression. Barak adult short dark beard brown tunic blue cloak. Ancient palm tree hill country. Scene: Débora e Baraque seguem pelo caminho para Quedes, acompanhados por adultos, sem combate visível."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 275,
+  "title": "A Pequena Semente de Mostarda",
+  "subtitle": "O Reino de Deus pode surpreender desde o começo",
+  "reference": "Marcos 4:30–32",
+  "description": "Jesus compara o Reino a uma semente minúscula que cresce e oferece abrigo aos pássaros.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.4.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Como explicar o Reino?",
+      "paragraphs": [
+        "Jesus ensinava as pessoas usando imagens do cotidiano. Quem o escutava conhecia plantações, sementes e o trabalho no campo. Ele perguntou a que poderiam comparar o Reino de Deus e que parábola serviria para explicá-lo. A pergunta convidava seus ouvintes a pensar antes de receber uma imagem surpreendentemente pequena como resposta.",
+        "Jesus escolheu um grão de mostarda. Era uma semente minúscula entre aquelas que as pessoas costumavam semear. Cabia com facilidade na palma de uma mão. Quem olhasse apenas para seu tamanho talvez não esperasse nada impressionante. Uma pequena semente não fazia barulho nem chamava atenção como um edifício, uma multidão ou um exército.",
+        "No entanto, aquela era a imagem escolhida para falar do Reino de Deus. Jesus não começou descrevendo uma árvore enorme. Começou pela semente colocada na terra. Sua comparação pedia aos ouvintes que prestassem atenção ao início de algo vivo, mesmo quando esse início parecia discreto demais para despertar admiração."
+      ],
+      "alt": "Uma pequena semente de mostarda repousa na palma de uma mão.",
+      "image": "275/part1.webp"
+    },
+    {
+      "heading": "Vida que cresce",
+      "paragraphs": [
+        "Quando era semeada, a mostarda começava a crescer. A terra escondia a semente, mas não encerrava sua história. Aos poucos, aquilo que parecia tão pequeno dava origem a uma planta muito maior. Jesus conduzia a imaginação dos ouvintes desde o grão quase invisível até os ramos que se abriam acima do solo.",
+        "Ele descreveu a planta tornando-se maior que as outras hortaliças e formando grandes ramos. A diferença entre começo e resultado era marcante. O Reino de Deus também não precisava ser julgado apenas por sua aparência inicial. Um começo humilde não impedia que o cuidado de Deus produzisse algo amplo, vivo e surpreendente.",
+        "A parábola não apresentava um atalho para apressar o crescimento. Não dizia que a semente pulava todas as etapas só porque era pequena. Sua força estava no contraste entre o que se via no início e o que poderia se desenvolver. Quem escutava era convidado a olhar com esperança além da primeira impressão."
+      ],
+      "alt": "A planta de mostarda cresce e abre seus ramos.",
+      "image": "275/part2.webp"
+    },
+    {
+      "heading": "Ramos que oferecem abrigo",
+      "paragraphs": [
+        "Jesus acrescentou um detalhe bonito: os pássaros podiam se abrigar à sombra dos ramos. O crescimento da planta não era apenas uma questão de altura. Sua presença criava espaço de proteção. A pequena semente chegava a oferecer um lugar onde outras criaturas encontravam descanso, pouso e abrigo do calor do dia.",
+        "A imagem terminava assim, com vida acolhendo vida. Os ouvintes podiam pensar no Reino de Deus como algo que crescia além do que pareciam permitir seus primeiros sinais. Na caminhada de Jesus, nem tudo tinha aparência grandiosa. Entretanto, suas palavras e seu cuidado anunciavam a ação de Deus, que não precisava começar fazendo alarde.",
+        "Um grão pequeno, terra, ramos e pássaros: eram poucos elementos para guardar na memória. Juntos, convidavam a confiar no que Deus fazia e a não desprezar começos modestos. A parábola não mandava ninguém medir seu valor pelo tamanho do resultado. Apresentava a esperança de um Reino cujo alcance podia surpreender quem olhava apenas para a semente."
+      ],
+      "alt": "Pássaros descansam entre os ramos da mostarda.",
+      "image": "275/part3.webp"
+    }
+  ],
+  "lesson": "Nem todo começo importante chama atenção. Aprender a acolher, dividir ou pedir perdão pode começar com um gesto pequeno e crescer com o tempo. A parábola fala primeiro do Reino de Deus e de seu alcance surpreendente. Ela também nos ajuda a valorizar pequenos passos sem exigir resultados imediatos. Crescer inclui oferecer espaço para que outras pessoas encontrem cuidado e se sintam bem-vindas.",
+  "question": "Que pequeno gesto de acolhimento você pode começar hoje e continuar cultivando?",
+  "prayer": "Deus, ajuda-me a perceber o valor dos pequenos começos. Dá-me paciência para crescer e confiança no teu Reino. Que os gestos de amor que eu aprender encontrem espaço na minha vida e se tornem abrigo, amizade e cuidado para outras pessoas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/275.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma grande planta de mostarda abriga pássaros.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Large flowering mustard shrub in first-century Galilean garden, spreading leafy branches with tiny yellow blossoms, three small songbirds sheltered among branches, warm golden sun, cinematic rich 3D botanical storybook scene, no giant fantasy tree. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma semente pequena cabe na mão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Macro cinematic 3D illustration olive-skinned adult hand holding one tiny mustard seed on palm above dark garden soil, cloth sleeve muted ochre, shallow depth of field, seed correctly very small, no text. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "A mostarda cresce no solo do jardim.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Low angle young vigorous mustard plant growing in rich soil near rough stone garden border, delicate yellow flowers and green leaves catching morning dew, detailed natural textures, no people. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "Um pássaro encontra sombra entre os ramos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close view small warm brown songbird resting safely on branching stem inside mature flowering mustard shrub, dappled shade and yellow flowers, another bird softly blurred, peaceful welcoming mood. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

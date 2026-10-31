@@ -1,0 +1,90 @@
+{
+  "id": 148,
+  "title": "O Filho da Viúva",
+  "subtitle": "Uma casa que encontrou consolo",
+  "reference": "1 Reis 17:17–24",
+  "description": "Depois do sustento recebido em Sarepta, a família enfrenta uma grande tristeza. Elias leva a dor daquela mãe a Deus, e o menino volta à vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/148.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma tristeza inesperada",
+      "paragraphs": [
+        "Elias estava hospedado na casa da viúva de Sarepta. A família havia recebido sustento durante a seca, com a farinha e o azeite que não faltavam. Mesmo assim, a vida não ficou livre de sofrimento. O filho da mulher adoeceu gravemente. Sua condição piorou até que ele deixou de respirar e morreu.",
+        "A mãe ficou tomada pela dor. Em sua aflição, perguntou a Elias por que ele viera à sua casa. Temia que sua presença tivesse lembrado alguma culpa antiga e trazido aquela perda. As perguntas saíam misturadas à tristeza. Ela tinha recebido alimento para continuar vivendo, mas agora segurava nos braços o filho que tanto amava.",
+        "Elias não respondeu com uma discussão sobre quem tinha razão. Pediu que ela lhe entregasse o filho. Levou o menino para o quarto superior onde estava hospedado e o deitou em sua própria cama. Sua atitude não apagava a tristeza da mãe, mas mostrava que não permaneceria indiferente diante da dor que havia entrado naquela casa."
+      ],
+      "image": "148/part1.webp",
+      "alt": "A viúva conversa com Elias numa sala simples, expressando preocupação enquanto ele a escuta com cuidado."
+    },
+    {
+      "heading": "Uma oração cheia de perguntas",
+      "paragraphs": [
+        "No quarto, Elias clamou ao Senhor. Também ele apresentou uma pergunta dolorosa sobre o que estava acontecendo à viúva que o recebera. Sua oração não tinha a aparência de alguém que compreendia tudo. O profeta podia falar a Deus a partir da aflição, levando diante dele uma situação que não conseguia resolver por sua própria força.",
+        "Elias se estendeu sobre o menino três vezes e clamou ao Senhor para que sua vida voltasse. A mãe aguardava, e o profeta continuava orando no quarto superior. Seu pedido era simples e cheio de aflição: desejava que aquela criança pudesse viver novamente. Ali, diante de uma dor tão grande, ele buscava a ajuda de Deus.",
+        "O Senhor ouviu a oração de Elias. A vida voltou ao menino, e ele tornou a respirar. O quarto que havia recebido uma criança sem vida agora guardava um acontecimento extraordinário. O profeta podia vê-lo vivo diante de si. Ainda faltava levar à mãe a notícia que mudaria a tristeza daquela casa em alegria."
+      ],
+      "image": "148/part2.webp",
+      "alt": "Elias ora sozinho junto a uma janela do quarto superior, com expressão de esperança e atenção."
+    },
+    {
+      "heading": "O reencontro no andar de baixo",
+      "paragraphs": [
+        "Elias pegou o menino e o levou do quarto superior para a parte de baixo da casa. Entregou-o à mãe e lhe mostrou que estava vivo. Depois de uma separação tão dolorosa, havia novamente a possibilidade do abraço. O profeta não guardou o acontecimento como uma demonstração para engrandecer o próprio nome. Devolveu o filho à sua família.",
+        "A mulher reconheceu então que Elias era um homem de Deus e que a palavra do Senhor em sua boca era verdadeira. Sua resposta expressava a transformação vivida naquele encontro. Antes, falara a partir de medo e culpa; agora via o filho diante de si e reconhecia a ação de Deus. A casa de Sarepta recebera outra lembrança de cuidado.",
+        "A mãe tinha novamente o filho consigo. Na mesma casa em que a farinha e o azeite continuavam sustentando a família, agora havia outra razão para agradecer. Elias testemunhara a resposta à sua oração, e a mulher reconhecera a verdade da palavra do Senhor. O menino voltava ao convívio de sua família, cercado pelo cuidado que tanto desejavam oferecer."
+      ],
+      "image": "148/part3.webp",
+      "alt": "Elias acompanha o menino saudável pela escada até o encontro com sua mãe, num momento de alegria."
+    }
+  ],
+  "lesson": "A viúva falou sobre sua dor, e Elias levou aquela tristeza a Deus em oração. A história nos lembra que sentimentos difíceis também têm lugar em nossa conversa com ele. Quando alguém sofre, podemos escutar, oferecer companhia e ajudar em pequenas tarefas. Nem sempre encontramos respostas para tudo, mas podemos continuar demonstrando amor. A esperança nos aproxima de Deus, e o carinho nos aproxima das pessoas que precisam de consolo.",
+  "question": "O que você poderia dizer ou fazer para acompanhar alguém triste sem tentar explicar tudo?",
+  "prayer": "Deus, cuida das crianças doentes, de suas famílias e de quem trabalha para ajudá-las. Recebe também a dor de quem está de luto. Ensina-nos a oferecer companhia sem julgamentos, a buscar o cuidado necessário e a permanecer perto com carinho e respeito. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A mãe abraça o filho vivo e saudável na entrada de sua casa, enquanto Elias observa com gratidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard rough brown mantle; widow adult brown skin blue dress cream scarf; son healthy boy about eight dark curls tan tunic. Illustrate only safe non-distressing moments: prayer, conversation, healthy reunion. No dead or unconscious child, no medical actions, no physical distress. Only named scene cast. Scene: A mãe abraça o filho vivo e saudável na entrada de sua casa, enquanto Elias observa com gratidão. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story. Third reference supplies only identity for the widow and healthy son: blue dress, cream headscarf, warm brown skin, dark wavy hair; boy about eight with brown curls and beige tunic. Compose the new scene described, do not copy the reference composition.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png",
+        "production-expansion/art/147_cover.png"
+      ]
+    },
+    {
+      "role": "part1",
+      "alt": "A viúva conversa com Elias numa sala simples, expressando preocupação enquanto ele a escuta com cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard rough brown mantle; widow adult brown skin blue dress cream scarf; son healthy boy about eight dark curls tan tunic. Illustrate only safe non-distressing moments: prayer, conversation, healthy reunion. No dead or unconscious child, no medical actions, no physical distress. Only named scene cast. Scene: A viúva conversa com Elias numa sala simples, expressando preocupação enquanto ele a escuta com cuidado. MANDATORY SCENE CAST: Only the widow and Elijah. The child is not visible. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story. Third reference supplies the established identities of the widow and her son: blue linen dress, cream headscarf, warm brown skin, dark wavy hair; boy about eight with brown curls and beige tunic. Do not copy the full cast or kitchen scene. Use ONLY the characters listed in the scene; in part1 only the two adults appear, the child is completely absent.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png",
+        "production-expansion/art/147_cover.png"
+      ]
+    },
+    {
+      "role": "part2",
+      "alt": "Elias ora sozinho junto a uma janela do quarto superior, com expressão de esperança e atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard rough brown mantle; widow adult brown skin blue dress cream scarf; son healthy boy about eight dark curls tan tunic. Illustrate only safe non-distressing moments: prayer, conversation, healthy reunion. No dead or unconscious child, no medical actions, no physical distress. Only named scene cast. Scene: Elias ora sozinho junto a uma janela do quarto superior, com expressão de esperança e atenção. MANDATORY SCENE CAST: Only Elijah praying alone at a window; no other people, no child, no person in bed. Reference provides rendering style only; do not copy its complete cast. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part3",
+      "alt": "Elias acompanha o menino saudável pela escada até o encontro com sua mãe, num momento de alegria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin thick dark beard rough brown mantle; widow adult brown skin blue dress cream scarf; son healthy boy about eight dark curls tan tunic. Illustrate only safe non-distressing moments: prayer, conversation, healthy reunion. No dead or unconscious child, no medical actions, no physical distress. Only named scene cast. Scene: Elias acompanha o menino saudável pela escada até o encontro com sua mãe, num momento de alegria. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story. Third reference supplies only identity for the widow and healthy son: blue dress, cream headscarf, warm brown skin, dark wavy hair; boy about eight with brown curls and beige tunic. Compose the new scene described, do not copy the reference composition.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png",
+        "production-expansion/art/147_cover.png"
+      ]
+    }
+  ]
+}

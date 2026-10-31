@@ -1,0 +1,72 @@
+{
+  "id": 43,
+  "title": "Enoque Caminha com Deus",
+  "subtitle": "A amizade que acompanhou seus dias",
+  "reference": "Gênesis 5:21–24; Hebreus 11:5–6",
+  "description": "Em uma longa lista de gerações, o nome de Enoque guarda uma lembrança especial: ele viveu em amizade com Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/43.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um nome entre muitas famílias",
+      "paragraphs": [
+        "O livro de Gênesis conta como as famílias cresceram depois de Adão e Eva. Uma geração veio depois da outra. Nasceram filhos, que também se tornaram pais, e a história seguiu adiante. Entre os muitos nomes dessa lista aparece Enoque, filho de Jarede. Ele viveu muito antes de Noé construir a arca.",
+        "Entre tantas gerações, o nome de Enoque recebeu uma lembrança especial. Sua história não ficou marcada por uma grande construção ou por uma longa viagem. Ele fazia parte de uma família, viveu muitos anos e deixou descendentes. Mas havia algo ainda mais importante a respeito de sua vida: Enoque andava com Deus.",
+        "Essa expressão não é a descrição de uma estrada no mapa. Ela fala de uma vida próxima de Deus, orientada pela confiança. Enoque não é lembrado por levantar uma torre muito alta ou comandar um grande exército. A marca que o relato destaca é a companhia de Deus, que fazia parte de seu caminho ao longo dos anos."
+      ],
+      "image": "43/part1.webp",
+      "alt": "Enoque observa sua família reunida perto de uma moradia simples."
+    },
+    {
+      "heading": "Uma caminhada que durou",
+      "paragraphs": [
+        "Enoque tinha sessenta e cinco anos quando nasceu seu filho Matusalém. Depois disso, o relato diz que ele caminhou com Deus por trezentos anos e teve outros filhos e filhas. A narrativa apresenta uma vida longa e uma relação que não ficou restrita a um único acontecimento extraordinário. Havia continuidade naquela amizade.",
+        "Ser pai fazia parte de sua história. Sua família crescia dentro de um mundo onde o bem e o mal já estavam presentes. A confiança em Deus precisaria acompanhar o passar dos anos e a continuidade das gerações. Enoque não aparece como alguém que confiou por um instante e depois abandonou o caminho.",
+        "Muitos anos depois, a carta aos Hebreus recordou Enoque como exemplo de fé. Antes de sua partida, ele havia recebido o testemunho de que agradara a Deus. A mesma passagem explica que confiar em Deus está ligado a crer que ele existe e a buscá-lo. Enoque é apresentado como alguém cuja vida foi marcada por essa busca."
+      ],
+      "image": "43/part2.webp",
+      "alt": "Enoque faz uma pausa de oração em uma trilha entre árvores."
+    },
+    {
+      "heading": "Uma história guardada por Deus",
+      "paragraphs": [
+        "Gênesis informa que Enoque viveu trezentos e sessenta e cinco anos. Então o relato interrompe a sequência habitual de nascimento, vida e morte. Diz que Enoque já não foi encontrado, porque Deus o tomou para si. Hebreus explica que ele foi levado sem passar pela morte. Sua história termina de uma maneira singular.",
+        "A partida de Enoque permaneceu cercada de mistério, mas sua caminhada deixou uma lembrança clara. Ele havia vivido em confiança, e Deus o tomou para si. Aquele que passara seus anos buscando o Senhor foi acolhido por ele. A história preservou esse encontro como um sinal de esperança entre os nomes de tantas gerações.",
+        "Quando a lista continua, outras gerações aparecem. Mas aquela pequena história permanece como uma lembrança luminosa: uma vida pode ser significativa mesmo sem receber uma longa descrição. Enoque foi lembrado pela fé. Sua caminhada nos convida a pensar na presença de Deus também nos dias comuns, onde aprendemos, convivemos, recomeçamos e escolhemos como tratar as pessoas."
+      ],
+      "image": "43/part3.webp",
+      "alt": "Uma trilha iluminada se abre entre colinas, com Enoque caminhando ao longe."
+    }
+  ],
+  "lesson": "Cultivar a amizade com Deus pode fazer parte da rotina. Uma oração sincera, a leitura de uma passagem e a disposição de aprender ajudam a lembrar dessa companhia. Isso não significa acertar sempre ou precisar parecer especial. Podemos levar a Deus nossas dúvidas e escolhas, com ajuda de quem cuida de nós. A confiança cresce em uma caminhada, e cada dia oferece uma oportunidade de aprender.",
+  "question": "Que pequeno momento da sua rotina você gostaria de separar para conversar com Deus?",
+  "prayer": "Deus, obrigado por nos convidares a caminhar em tua companhia. Ajuda-nos a lembrar de ti nos dias alegres e nos dias difíceis. Ensina-nos a ouvir, confiar e aprender com nossa família. Que nossa fé cresça com sinceridade, um dia de cada vez. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Enoque caminha por uma paisagem tranquila sob a luz da manhã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Enoch: middle-aged olive-skinned man with kind expressive eyes, shoulder-length brown wavy hair and short beard, simple cream linen tunic and muted olive mantle. Scene: Enoch walks in a lush ancient valley at sunrise, calm faithful expression, gentle winding path and detailed trees, no visible deity."
+    },
+    {
+      "role": "part1",
+      "alt": "Enoque observa sua família reunida perto de uma moradia simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Enoch: middle-aged olive-skinned man with kind expressive eyes, shoulder-length brown wavy hair and short beard, simple cream linen tunic and muted olive mantle. Scene: Artistic interpretation of Enoch beside a simple early agrarian dwelling with family nearby, warm multigenerational scene, no claim of specific undocumented event."
+    },
+    {
+      "role": "part2",
+      "alt": "Enoque faz uma pausa de oração em uma trilha entre árvores.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Enoch: middle-aged olive-skinned man with kind expressive eyes, shoulder-length brown wavy hair and short beard, simple cream linen tunic and muted olive mantle. Scene: Enoch alone at a quiet path pauses in prayer with relaxed hands, warm shaft of natural sunlight through foliage, contemplative medium shot."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma trilha iluminada se abre entre colinas, com Enoque caminhando ao longe.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Enoch: middle-aged olive-skinned man with kind expressive eyes, shoulder-length brown wavy hair and short beard, simple cream linen tunic and muted olive mantle. Scene: Symbolic artistic scene of Enoch walking toward a softly sunlit distant valley, no flying body, wings, stairs, chariot or literal depiction of heaven."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+5&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Hebrews+11%3A5-6&version=KJV"
+  ]
+}

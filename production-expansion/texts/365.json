@@ -1,0 +1,71 @@
+{
+  "id": 365,
+  "title": "O Rio da Vida",
+  "subtitle": "Uma esperança que continua",
+  "reference": "Apocalipse 22:1–5",
+  "description": "Nas últimas páginas da Bíblia, João vê um rio cristalino e a árvore da vida. A visão encerra a jornada da coleção com imagens de cura, luz e comunhão com Deus.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/365.webp",
+  "parts": [
+    {
+      "heading": "Água clara como cristal",
+      "paragraphs": [
+        "A visão de João continua nas últimas páginas de Apocalipse. Um mensageiro lhe mostra um rio de água da vida, brilhante como cristal. O rio sai do trono de Deus e do Cordeiro. Essa imagem profética anuncia a vida que vem de Deus: clara, abundante e capaz de renovar a criação. João é convidado a contemplar essa paisagem de esperança.",
+        "A água aparece clara e viva. Em tantas histórias bíblicas, ela acompanha a sede, a viagem, o cuidado e o recomeço. Aqui, sua fonte está ligada à presença de Deus. A visão reúne essas lembranças numa promessa de plenitude. A vida não precisa ser conquistada como um prêmio reservado aos mais fortes; ela procede daquele que a oferece.",
+        "João não descreve uma margem abandonada ou uma corrente escura. A imagem é de beleza e abundância. Depois de tantas cenas de conflito no livro, o rio ajuda o leitor a olhar para o propósito final de Deus. O mal não ocupa o centro da última paisagem. O que se destaca é a vida sustentada por sua presença."
+      ],
+      "image": "365/part1.webp",
+      "alt": "João idoso de barba branca e manto marrom observa rio cristalino conduzido por mensageiro de roupa clara, cenário de visão luminoso, nenhum trono ocupado por figura humana divina."
+    },
+    {
+      "heading": "Uma árvore para a vida",
+      "paragraphs": [
+        "Junto ao rio aparece a árvore da vida, produzindo fruto ao longo dos meses. A descrição fala de doze frutos e de uma colheita contínua. É uma imagem de provisão que não se esgota. A árvore lembra o começo da história bíblica, no jardim, e agora participa da visão de uma criação plenamente renovada.",
+        "Suas folhas são apresentadas como destinadas à cura das nações. A linguagem da visão anuncia restauração, como um cuidado que alcança povos inteiros. Histórias marcadas por conflitos e feridas recebem a promessa da vida que vem de Deus. A esperança se abre para muitas pessoas, reunindo famílias e nações numa criação onde a paz pode florescer.",
+        "A visão afirma que não haverá mais maldição. O trono de Deus e do Cordeiro estará na cidade, e seus servos o servirão. A presença de Deus continua sendo o centro da cena. O futuro prometido não é uma vida sem sentido ou relação, mas uma comunhão em que o serviço e o pertencimento encontram sua plenitude."
+      ],
+      "image": "365/part2.webp",
+      "alt": "Árvore da vida exuberante junto a rio transparente, diferentes frutos e folhas delicadas, famílias de origens diversas caminham pacificamente ao fundo, simbolismo de cura e vida."
+    },
+    {
+      "heading": "Luz para sempre",
+      "paragraphs": [
+        "João diz que os servos verão o rosto de Deus e terão seu nome na fronte. A imagem fala de proximidade e de pertencimento seguro. Eles serão reconhecidos como seus, vivendo na alegria de sua presença. O texto anuncia uma relação plenamente restaurada, em que a confiança acompanha cada encontro e o amor de Deus envolve a vida de seu povo.",
+        "Também não haverá mais noite. As pessoas não precisarão de lâmpada nem da luz do sol, porque o Senhor as iluminará. A descrição comunica uma segurança que não se apaga e uma vida compartilhada em sua presença para sempre. A luz não vem de um esforço humano para impedir toda escuridão; vem do próprio Deus.",
+        "Nossa jornada de histórias chega a essa margem de esperança. O rio e a árvore não nos afastam do cuidado com o mundo de hoje. Eles lembram que a vida é preciosa e que a cura faz parte do futuro prometido. Podemos terminar esta leitura agradecendo e começar o próximo dia com uma atitude de amor, levando adiante o que aprendemos juntos."
+      ],
+      "image": "365/part3.webp",
+      "alt": "Panorama final de rio claro, jardim fértil e cidade luminosa de portões abertos, famílias em paz e luz difusa acolhedora, sem noite, sol, lua ou figura de Deus."
+    }
+  ],
+  "lesson": "Ao terminar uma jornada de leitura, podemos lembrar do que mais nos ajudou a crescer. A esperança da vida com Deus nos convida a cuidar da vida agora: respeitar as pessoas, proteger a criação e buscar ajuda para quem sofre. Não precisamos saber todos os detalhes do futuro para praticar o bem hoje. Uma história termina, mas o aprendizado pode continuar em conversas, escolhas e pequenos gestos de amor.",
+  "question": "Qual aprendizado desta coleção você gostaria de levar para os próximos dias com uma atitude concreta?",
+  "prayer": "Deus da vida, obrigado pelas histórias que lemos e pelos momentos que compartilhamos. Guarda em nós a esperança de tua presença e ensina-nos a cuidar das pessoas e da criação. Que cada novo dia encontre nosso coração disposto a aprender, agradecer e amar. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Visão simbólica de rio cristalino atravessando jardim luminoso na cidade santa, árvore da vida frondosa com frutos variados e folhas detalhadas nas margens, paz, sem sol visível ou figura divina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event. Vision imagery, symbolic and hopeful, no physical depiction of God or occupied throne. John when included is an elderly man with white beard, beige tunic and brown mantle.  Scene: Visão simbólica de rio cristalino atravessando jardim luminoso na cidade santa, árvore da vida frondosa com frutos variados e folhas detalhadas nas margens, paz, sem sol visível ou figura divina."
+    },
+    {
+      "role": "part1",
+      "alt": "João idoso de barba branca e manto marrom observa rio cristalino conduzido por mensageiro de roupa clara, cenário de visão luminoso, nenhum trono ocupado por figura humana divina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event. Vision imagery, symbolic and hopeful, no physical depiction of God or occupied throne. John when included is an elderly man with white beard, beige tunic and brown mantle.  Scene: João idoso de barba branca e manto marrom observa rio cristalino conduzido por mensageiro de roupa clara, cenário de visão luminoso, nenhum trono ocupado por figura humana divina."
+    },
+    {
+      "role": "part2",
+      "alt": "Árvore da vida exuberante junto a rio transparente, diferentes frutos e folhas delicadas, famílias de origens diversas caminham pacificamente ao fundo, simbolismo de cura e vida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event. Vision imagery, symbolic and hopeful, no physical depiction of God or occupied throne. John when included is an elderly man with white beard, beige tunic and brown mantle.  Scene: Árvore da vida exuberante junto a rio transparente, diferentes frutos e folhas delicadas, famílias de origens diversas caminham pacificamente ao fundo, simbolismo de cura e vida."
+    },
+    {
+      "role": "part3",
+      "alt": "Panorama final de rio claro, jardim fértil e cidade luminosa de portões abertos, famílias em paz e luz difusa acolhedora, sem noite, sol, lua ou figura de Deus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event. Vision imagery, symbolic and hopeful, no physical depiction of God or occupied throne. John when included is an elderly man with white beard, beige tunic and brown mantle.  Scene: Panorama final de rio claro, jardim fértil e cidade luminosa de portões abertos, famílias em paz e luz difusa acolhedora, sem noite, sol, lua ou figura de Deus."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/REV.22.KJV"
+  ]
+}

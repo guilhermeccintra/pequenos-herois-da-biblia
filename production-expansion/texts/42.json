@@ -1,0 +1,71 @@
+{
+  "id": 42,
+  "title": "Caim e Abel: Antes que a Raiva Cresça",
+  "subtitle": "Escolher o cuidado antes da violência",
+  "reference": "Gênesis 4:1–16",
+  "description": "Caim e Abel apresentam suas ofertas a Deus. Quando a raiva cresce no coração de Caim, uma advertência mostra que ainda havia outra escolha.",
+  "testament": "antigo",
+  "cover": "/images/covers/42.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Dois irmãos, dois trabalhos",
+      "paragraphs": [
+        "Depois que Adão e Eva deixaram o jardim, sua família cresceu. Nasceram Caim e Abel. Com o passar dos anos, cada um passou a realizar um trabalho: Caim cultivava a terra, enquanto Abel cuidava de ovelhas. Um acompanhava o crescimento das plantas; o outro precisava conduzir e proteger seu rebanho. Ambos faziam parte daquela família.",
+        "Chegou um tempo em que os irmãos levaram ofertas a Deus. Caim apresentou produtos da terra. Abel ofereceu das primeiras crias do rebanho. A Bíblia conta que Deus recebeu com agrado Abel e sua oferta, mas não recebeu da mesma maneira Caim e o que ele havia levado. A reação de Caim foi de grande irritação.",
+        "O rosto de Caim mostrava o que acontecia por dentro. A comparação com o irmão se transformava em raiva, e ele se fechava diante da resposta que recebera. Seu trabalho no campo continuava fazendo parte de sua vida, mas agora havia uma escolha urgente diante dele: o que faria com aqueles sentimentos?"
+      ],
+      "image": "42/part1.webp",
+      "alt": "Caim carrega frutos da terra e Abel acompanha suas ovelhas."
+    },
+    {
+      "heading": "Uma advertência antes do erro",
+      "paragraphs": [
+        "Deus falou com Caim antes que ele ferisse o irmão. Perguntou por que estava tão irritado e abatido. Havia espaço para ouvir, refletir e mudar a direção. Caim não era obrigado a obedecer à raiva. Podia interromper aquele caminho e escolher uma atitude que preservasse a vida e o relacionamento com Abel.",
+        "A advertência descrevia o pecado como algo esperando à porta, pronto para dominar. Caim precisava resistir. A imagem ajuda a entender que certos sentimentos, quando alimentados sem cuidado, podem conduzir a decisões perigosas. Sentir raiva não dava a ele o direito de machucar ninguém. A conversa de Deus mostrava a seriedade daquela escolha.",
+        "Mas Caim não acolheu a advertência. Mais tarde, quando os irmãos estavam no campo, atacou Abel e tirou sua vida. A raiva havia se transformado numa violência terrível. Abel não era responsável pelo descontentamento de Caim. Nada naquela agressão resolveria o que ele sentia, e a família agora enfrentava uma perda que não poderia desfazer."
+      ],
+      "image": "42/part2.webp",
+      "alt": "Caim se afasta para refletir à beira do campo, com as mãos abertas."
+    },
+    {
+      "heading": "Uma pergunta que continua importante",
+      "paragraphs": [
+        "Deus perguntou a Caim onde estava seu irmão. Caim respondeu que não sabia e perguntou se era responsável por cuidar dele. A tentativa de escapar da verdade não apagava o que havia ocorrido. Deus sabia da violência cometida. A vida de Abel importava, e sua morte não seria tratada como algo sem consequência.",
+        "Caim não continuaria sua vida como antes. A terra já não lhe daria o sustento da mesma forma, e ele se tornaria um homem sem lugar fixo. Assustado com as consequências, temeu também ser morto por outras pessoas. Deus o marcou com um sinal de proteção. O relato não explica como era esse sinal.",
+        "O cuidado de Deus não tornou certa a violência de Caim. Também não permitiu que uma morte fosse desculpa para novas vinganças. Caim partiu, levando as consequências de sua decisão. A história permanece como uma advertência: precisamos prestar atenção à raiva, assumir nossas escolhas e reconhecer que a vida de quem está ao nosso lado merece proteção."
+      ],
+      "image": "42/part3.webp",
+      "alt": "Caim segue por uma estrada distante, enquanto o campo fica para trás."
+    }
+  ],
+  "lesson": "A raiva pode aparecer quando perdemos, ouvimos um não ou nos comparamos com alguém. Podemos reconhecê-la sem machucar. Afastar-nos de uma discussão, respirar e contar a um adulto o que aconteceu são escolhas de cuidado. Se alguém ameaça ou agride, precisamos procurar proteção e ajuda. Não cabe à criança resolver sozinha uma situação de violência. Pedir ajuda cedo pode impedir que um problema cresça.",
+  "question": "Qual adulto de confiança você pode procurar quando estiver com muita raiva ou quando alguém ameaçar machucar você?",
+  "prayer": "Deus, ajuda-nos a reconhecer a raiva antes que ela se transforme em palavras ou atitudes que machucam. Dá-nos coragem para pedir ajuda e escolher a paz. Protege quem sofre violência e ensina nossa família a cuidar da vida. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Caim e Abel aparecem separados por seus campos e rebanhos, em um cenário sereno.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Cain: adult man with olive skin, short dark curls and beard, rust linen tunic. Abel: adult man with olive skin, dark wavy hair, short beard, cream tunic and blue shawl. Gentle stylized faces. Scene: Two adult brothers in a peaceful early agricultural valley, one with a basket of grain and one tending sheep, story cover about choices, no violence."
+    },
+    {
+      "role": "part1",
+      "alt": "Caim carrega frutos da terra e Abel acompanha suas ovelhas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Cain: adult man with olive skin, short dark curls and beard, rust linen tunic. Abel: adult man with olive skin, dark wavy hair, short beard, cream tunic and blue shawl. Gentle stylized faces. Scene: Young adult Cain carries a basket of harvest beside cultivated field, Abel gently guides two sheep in the middle distance, both fully clothed."
+    },
+    {
+      "role": "part2",
+      "alt": "Caim se afasta para refletir à beira do campo, com as mãos abertas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Cain: adult man with olive skin, short dark curls and beard, rust linen tunic. Abel: adult man with olive skin, dark wavy hair, short beard, cream tunic and blue shawl. Gentle stylized faces. Scene: Cain alone at edge of field, troubled but reflective expression, open hands, warm contemplative light; no weapons, attack, body or visible deity."
+    },
+    {
+      "role": "part3",
+      "alt": "Caim segue por uma estrada distante, enquanto o campo fica para trás.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Cain: adult man with olive skin, short dark curls and beard, rust linen tunic. Abel: adult man with olive skin, dark wavy hair, short beard, cream tunic and blue shawl. Gentle stylized faces. Scene: EXACTLY ONE PERSON: Cain alone, the man in rust tunic from reference. No Abel, no man in blue, no other humans anywhere. A new wide shot from behind Cain as he walks away along a lonely stony road, field far behind, thoughtful sorrow, no physical mark, no weapons, no body."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+4&version=KJV"
+  ]
+}

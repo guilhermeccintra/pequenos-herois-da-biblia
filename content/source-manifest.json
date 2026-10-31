@@ -830,5 +830,4907 @@
         "note": "World English Bible, domínio público. Capítulo recuperado em 30/10/2026 pelo site eBible; passagem lida e comparada na revisão cruzada, com cópia em production/sources/. Atos 9:1–22: Saulo, luz e voz, três dias sem visão, Ananias, casa de Judas, rua Direita, recuperação e anúncio; nenhuma renomeação milagrosa ou cavalo introduzido."
       }
     ]
+  },
+  {
+    "id": 41,
+    "narrative_sha256": "42d86f4c36e232f82c78b55f0867462023e88f4985f5ab006e2659513d207576",
+    "narrative_words": 481,
+    "part_words": [
+      162,
+      160,
+      159
+    ],
+    "cover_alt": "Agar oferece água a Ismael junto a um poço no deserto.",
+    "sources": [
+      "https://www.bible.com/pt/bible/212/GEN.21.14-21",
+      "https://www.biblegateway.com/passage/?search=Genesis+21%3A14-21&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 42,
+    "narrative_sha256": "d327a8d310e0c5db38900b39154230435ff5c393e3cd79acd9826aadab8f849a",
+    "narrative_words": 487,
+    "part_words": [
+      163,
+      160,
+      164
+    ],
+    "cover_alt": "Caim e Abel aparecem separados por seus campos e rebanhos, em um cenário sereno.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+4&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 43,
+    "narrative_sha256": "c31000dd0c2bcde750a00fa98a8e737808c7ec6a5055ca1e7d9fcd410c93ccd8",
+    "narrative_words": 487,
+    "part_words": [
+      162,
+      162,
+      163
+    ],
+    "cover_alt": "Enoque caminha por uma paisagem tranquila sob a luz da manhã.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+5&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Hebrews+11%3A5-6&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 44,
+    "narrative_sha256": "58a288684e0325ef2b023497e06875be423cb0989530df5711e6f32471463360",
+    "narrative_words": 480,
+    "part_words": [
+      158,
+      158,
+      164
+    ],
+    "cover_alt": "Abraão e Ló observam duas direções de uma ampla paisagem de pastagens.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+13&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 45,
+    "narrative_sha256": "9b28a16e524394a77e1ba14aefb672a0fdcc1b2fe90b82d8827acd6eb3e5a84a",
+    "narrative_words": 498,
+    "part_words": [
+      165,
+      166,
+      167
+    ],
+    "cover_alt": "Abraão acolhe Ló durante o retorno de um resgate, com viajantes ao fundo.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+14&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 46,
+    "narrative_sha256": "cecc31f48163f73469bf190e8c8b19898fab2b265d1b4af346985a65b553be2c",
+    "narrative_words": 478,
+    "part_words": [
+      156,
+      157,
+      165
+    ],
+    "cover_alt": "Melquisedeque acolhe Abraão com pão e uma bênção.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+14&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 47,
+    "narrative_sha256": "2600663eaa9fea2df0754539287079c36f5890bfef4f5567458d1681897998d5",
+    "narrative_words": 465,
+    "part_words": [
+      153,
+      153,
+      159
+    ],
+    "cover_alt": "Abraão recebe três viajantes à sombra de uma grande árvore.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+18&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 48,
+    "narrative_sha256": "5162f8bdc26a6e8a71b934ae9b75e4d0890b79de9cd9cc7f1a8e16ccb6621c32",
+    "narrative_words": 476,
+    "part_words": [
+      162,
+      155,
+      159
+    ],
+    "cover_alt": "Abraão ora em uma colina, com a cidade distante no vale.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+18&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 49,
+    "narrative_sha256": "82e094ea0eb4634ad43115777f59079365d8f71f15f36a63f24ec2b3041e70b4",
+    "narrative_words": 482,
+    "part_words": [
+      159,
+      159,
+      164
+    ],
+    "cover_alt": "Ló e sua família deixam a cidade acompanhados por dois mensageiros.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+19&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 50,
+    "narrative_sha256": "2930b5e814e1f830b163959292162caf1d6582c61523acb1f6a215397a605fc3",
+    "narrative_words": 483,
+    "part_words": [
+      161,
+      157,
+      165
+    ],
+    "cover_alt": "Sara e Abraão acolhem o bebê Isaque diante de sua tenda.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+21%3A1-7&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 51,
+    "narrative_sha256": "8e2a2a1aecc5bdf90d887fd30ceb30489f75530860df3a5d0907fdd6c334331e",
+    "narrative_words": 471,
+    "part_words": [
+      156,
+      158,
+      157
+    ],
+    "cover_alt": "Abraão e Abimeleque conversam junto a um poço, com cordeiras por perto.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+21&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 52,
+    "narrative_sha256": "a53f03b1483528a5311b476b7236a4d9b860ace3872fea67a725cb2c86e81fab",
+    "narrative_words": 485,
+    "part_words": [
+      158,
+      162,
+      165
+    ],
+    "cover_alt": "Rebeca oferece água aos camelos junto ao poço, enquanto um viajante agradece.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+24&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 53,
+    "narrative_sha256": "426f63ed0e0fc6abca7f5d9c2023ebb2092ad003b2f07c288ac398f724b0e7d6",
+    "narrative_words": 467,
+    "part_words": [
+      155,
+      150,
+      162
+    ],
+    "cover_alt": "Isaque observa água encontrada em um poço, cercado por trabalhadores aliviados.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+26&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 54,
+    "narrative_sha256": "7169f6899ab69c2952cdafc2a47cc01a0e894368241e39739b2d9b53b284d74c",
+    "narrative_words": 485,
+    "part_words": [
+      159,
+      163,
+      163
+    ],
+    "cover_alt": "Jacó e Raquel se encontram junto ao poço, com as ovelhas da família.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+29&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 55,
+    "narrative_sha256": "872f2bc3f27d71e1646c5ad91ca9d41ea9df7b825e9c72c080a2f5623e877f3b",
+    "narrative_words": 490,
+    "part_words": [
+      163,
+      164,
+      163
+    ],
+    "cover_alt": "Lea acolhe um bebê com ternura, diante de uma tenda iluminada.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+29%3A15-35&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 56,
+    "narrative_sha256": "aed5379026ecddeef103b104d978e869665373478bd3f363e7248d70331004db",
+    "narrative_words": 491,
+    "part_words": [
+      163,
+      163,
+      165
+    ],
+    "cover_alt": "Jacó e sua família chegam a Betel, diante de uma paisagem aberta.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+35&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 57,
+    "narrative_sha256": "808a20a57211596766739f0fc059460eea3109321c988e5de77b41543ec0460f",
+    "narrative_words": 471,
+    "part_words": [
+      153,
+      156,
+      162
+    ],
+    "cover_alt": "José abraça seu pai Jacó depois de muitos anos de separação.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+45%3A25-28&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Genesis+46-48&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 58,
+    "narrative_sha256": "d354c4838f9bc98bde6c84af5b9677cc3e283973df5b82fc2dd7485a2f9f2e6b",
+    "narrative_words": 469,
+    "part_words": [
+      157,
+      153,
+      159
+    ],
+    "cover_alt": "Jacó oferece uma bênção ao faraó, acompanhado por José.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+46-48&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 59,
+    "narrative_sha256": "e8cda57543fee53da98bb4cd28b588d377307f417650dc846c181b00754acd2e",
+    "narrative_words": 482,
+    "part_words": [
+      157,
+      161,
+      164
+    ],
+    "cover_alt": "Jacó abençoa Efraim e Manassés, com José ao lado.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+48&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 60,
+    "narrative_sha256": "03da64d749da48214fac07711c1f2bf5c29efa318e933f0e21f31443ea48566f",
+    "narrative_words": 490,
+    "part_words": [
+      161,
+      164,
+      165
+    ],
+    "cover_alt": "José consola seus irmãos em uma conversa serena.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+50&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 61,
+    "narrative_sha256": "dbca4501d9396655c7430d6c173de5aaf568322c3b6bdf800cfbcb250caf27ec",
+    "narrative_words": 438,
+    "part_words": [
+      138,
+      148,
+      152
+    ],
+    "cover_alt": "José idoso conversa com sua família.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Genesis+50%3A22-26&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Exodus+13%3A19&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 62,
+    "narrative_sha256": "fc3c0622f64d3c8d6a3f992deea3ac9fcb1fa6ff982f972867d5db09e48fb30b",
+    "narrative_words": 454,
+    "part_words": [
+      146,
+      152,
+      156
+    ],
+    "cover_alt": "Sifrá e Puá caminham juntas com seus materiais de cuidado.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+1%3A8-22&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 63,
+    "narrative_sha256": "a4ec2e137086f6ce0b730f2c10e450b7e0c27a233799350f0d9b3594be46fca2",
+    "narrative_words": 455,
+    "part_words": [
+      158,
+      149,
+      148
+    ],
+    "cover_alt": "A princesa encontra o bebê no cesto entre os juncos.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+2%3A1-10&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 64,
+    "narrative_sha256": "6aa6afdfbab2a27dd00ef12c167fc57fe1150e9e601a4938ba60c6953484c6fd",
+    "narrative_words": 458,
+    "part_words": [
+      153,
+      153,
+      152
+    ],
+    "cover_alt": "Moisés ajuda a dar água ao rebanho em Midiã.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+2%3A15-22&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 65,
+    "narrative_sha256": "74be48b4f15e07f10cdc431ef34e834b583075b562990e7c78d1bbab149b946f",
+    "narrative_words": 456,
+    "part_words": [
+      150,
+      150,
+      156
+    ],
+    "cover_alt": "Moisés e Arão conversam com trabalhadores cansados.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+5&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 66,
+    "narrative_sha256": "5493a4f384d3f903bfe55c8c566fe842af4ef99261b36b4ed3b2c9d6d61ca552",
+    "narrative_words": 454,
+    "part_words": [
+      150,
+      150,
+      154
+    ],
+    "cover_alt": "Moisés fala com famílias cansadas no Egito.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+6%3A1-9&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 67,
+    "narrative_sha256": "1d01b47a975976bbc283b60c616f18249783386e2d0c56affa09bdf60dcf4b71",
+    "narrative_words": 455,
+    "part_words": [
+      152,
+      151,
+      152
+    ],
+    "cover_alt": "Miriã celebra com um tamborim e outras mulheres.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+15%3A1-21&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 68,
+    "narrative_sha256": "975279d7e133a07f95a718e5b398aa35f585c8bd702e47c5de809dcd17b1f6b3",
+    "narrative_words": 457,
+    "part_words": [
+      150,
+      155,
+      152
+    ],
+    "cover_alt": "O povo descansa junto às fontes e palmeiras de Elim.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+15%3A22-27&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 69,
+    "narrative_sha256": "98c4524266cde07b9d494bcdb23794a2d9e7fe518ba4f0ca8b97f4ade81c1fd7",
+    "narrative_words": 457,
+    "part_words": [
+      150,
+      156,
+      151
+    ],
+    "cover_alt": "Uma família recolhe o maná ao amanhecer.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+16%3A1-21&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 70,
+    "narrative_sha256": "c1adf45407c89a03ec6d4164cddb6c00fbf1872ef194097fe3f4ffcaa4f9f74b",
+    "narrative_words": 467,
+    "part_words": [
+      157,
+      150,
+      160
+    ],
+    "cover_alt": "Uma família descansa à sombra de sua tenda.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+16%3A22-36&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 71,
+    "narrative_sha256": "f604ec1f5ee963cf5e1903182483766132b3e8b11f85d2dda45c44a7d44631bd",
+    "narrative_words": 456,
+    "part_words": [
+      152,
+      148,
+      156
+    ],
+    "cover_alt": "Água corre da rocha diante de Moisés e dos líderes.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+17%3A1-7&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 72,
+    "narrative_sha256": "3fa02ac8734ecd6d37ac5277f571f9f17ff544de923e3f9bfbd6cbb943fe354d",
+    "narrative_words": 454,
+    "part_words": [
+      152,
+      153,
+      149
+    ],
+    "cover_alt": "Arão e Hur sustentam os braços de Moisés na colina.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+17%3A8-16&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 73,
+    "narrative_sha256": "8fdc29217c59b3a8d84e24d357985b77df25d03fb8a79504f96d612df545efbd",
+    "narrative_words": 452,
+    "part_words": [
+      152,
+      149,
+      151
+    ],
+    "cover_alt": "Jetro conversa com Moisés sobre dividir as tarefas.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+18&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 74,
+    "narrative_sha256": "85593655f08de29b720b562c67bd8595604f16a88fa0bc4d398dabedf221930c",
+    "narrative_words": 451,
+    "part_words": [
+      149,
+      153,
+      149
+    ],
+    "cover_alt": "Moisés apresenta o livro da aliança ao povo.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+24&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 75,
+    "narrative_sha256": "cc29a02997ed7b86888902ba77954d988197ceb9416b112ed558790882f511b3",
+    "narrative_words": 445,
+    "part_words": [
+      147,
+      143,
+      155
+    ],
+    "cover_alt": "Famílias trazem ofertas para construir a tenda do encontro.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+25%3A1-9&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Exodus+35%3A4-29&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 76,
+    "narrative_sha256": "b4c0d8d69900dc2112c51a2b9457805857bc15b0fb7ae6db05b0893d3da83f4e",
+    "narrative_words": 445,
+    "part_words": [
+      146,
+      143,
+      156
+    ],
+    "cover_alt": "Bezalel e Aoliabe ensinam numa oficina do acampamento.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+31%3A1-11&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Exodus+35%3A30-35&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 77,
+    "narrative_sha256": "db28bfb0b7a0065e882d5e3b8f169cf39d35013411030a5b932539446ba843a6",
+    "narrative_words": 452,
+    "part_words": [
+      155,
+      149,
+      148
+    ],
+    "cover_alt": "Moisés percebe o bezerro de ouro no acampamento.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+32&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 78,
+    "narrative_sha256": "8ab351677311a62a467541e08703d3e847120009a13d6e5f1fe2d33552b1cddf",
+    "narrative_words": 455,
+    "part_words": [
+      160,
+      150,
+      145
+    ],
+    "cover_alt": "Moisés ora junto à tenda do encontro.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+33&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 79,
+    "narrative_sha256": "ac6571d2b280d08ddf69d46d20209cc798b08a077cc0d3c2f088ea68f2b5db4f",
+    "narrative_words": 466,
+    "part_words": [
+      153,
+      160,
+      153
+    ],
+    "cover_alt": "Moisés desce do Sinai com duas novas tábuas.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+34&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 80,
+    "narrative_sha256": "aaef9f35595f7d799106e181a0d7d0b631e2ae5d76fe6c6cdfa2791a8b91786d",
+    "narrative_words": 445,
+    "part_words": [
+      147,
+      146,
+      152
+    ],
+    "cover_alt": "Os artesãos mostram a Moisés que há materiais suficientes.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+36%3A1-7&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 81,
+    "narrative_sha256": "64ce9327e6b4dfde3046cebde65ded75e3f386dff5e88615fce89db877039b05",
+    "narrative_words": 446,
+    "part_words": [
+      154,
+      144,
+      148
+    ],
+    "cover_alt": "O tabernáculo pronto é coberto por uma nuvem luminosa.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Exodus+40&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 82,
+    "narrative_sha256": "df8c262bdbd0ac1b3e3ed96ec10f0119755dd2c82785ba5b388d10a845ffdebf",
+    "narrative_words": 449,
+    "part_words": [
+      151,
+      148,
+      150
+    ],
+    "cover_alt": "Arão abençoa o povo diante da tenda.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+9&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 83,
+    "narrative_sha256": "20274ff3e6a6d7d9dea193255087485e664e86c84272f1a1c15b4f549535fe40",
+    "narrative_words": 459,
+    "part_words": [
+      149,
+      154,
+      156
+    ],
+    "cover_alt": "Um campo mantém espigas disponíveis nas bordas.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+19%3A9-18&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 84,
+    "narrative_sha256": "45ab46cb702dda6b0b2cf78422864191cb5df8c2a6d5909dade3133cc949811a",
+    "narrative_words": 449,
+    "part_words": [
+      149,
+      148,
+      152
+    ],
+    "cover_alt": "Duas pessoas conferem uma balança com honestidade.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+19%3A35-37&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Leviticus+25%3A14-17&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 85,
+    "narrative_sha256": "a3e4a9d1d22c6bad5d2d1e716e3860e67599708cca2579ac2b5c5457827d7de4",
+    "narrative_words": 453,
+    "part_words": [
+      149,
+      153,
+      151
+    ],
+    "cover_alt": "Uma família recebe viajantes com água e acolhimento.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 86,
+    "narrative_sha256": "e05c2805a27534d263dc41e63ea63775a8c5a87167e2c60fc5356b0b7847297c",
+    "narrative_words": 464,
+    "part_words": [
+      147,
+      157,
+      160
+    ],
+    "cover_alt": "Uma família observa o campo em descanso.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+25%3A1-7&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 87,
+    "narrative_sha256": "9a53bf9701bb764591234ac0f8319ae8f2ae4bc15ac1f37de8704410f0bbcf34",
+    "narrative_words": 458,
+    "part_words": [
+      153,
+      151,
+      154
+    ],
+    "cover_alt": "Uma família retorna ao campo no tempo do jubileu.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+25%3A8-17%2C23-28&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 88,
+    "narrative_sha256": "6763b40a081f0756d3584a440b72afc8099299fc759f838272c1ebf0e035806a",
+    "narrative_words": 454,
+    "part_words": [
+      153,
+      152,
+      149
+    ],
+    "cover_alt": "Uma família celebra numa cabana de ramos.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Leviticus+23%3A33-43&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 89,
+    "narrative_sha256": "99016576e33308d1a7762ba486c291d6753c2a053409fda4dfcaf86aee6ef8cf",
+    "narrative_words": 461,
+    "part_words": [
+      155,
+      152,
+      154
+    ],
+    "cover_alt": "Arão pronuncia palavras de bênção sobre as famílias.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+6%3A22-27&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 90,
+    "narrative_sha256": "7dfae8cd5cf2322b04f60e11742be0a532e681c963e069b86024d6a4a91abddc",
+    "narrative_words": 452,
+    "part_words": [
+      148,
+      150,
+      154
+    ],
+    "cover_alt": "A nuvem orienta o acampamento no deserto.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+9%3A15-23&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 91,
+    "narrative_sha256": "f666b6a15ae9d5ae6e4e5a72e584f03ec6674a8deba53d08396881f26a685dc2",
+    "narrative_words": 448,
+    "part_words": [
+      150,
+      150,
+      148
+    ],
+    "cover_alt": "Dois sacerdotes tocam trombetas de prata no acampamento.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+10%3A1-10&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 92,
+    "narrative_sha256": "5e9ff91d652950db175ddc901ea92d3561f51ef7cd1bcb26b98169aeb26a5134",
+    "narrative_words": 455,
+    "part_words": [
+      150,
+      149,
+      156
+    ],
+    "cover_alt": "Eldade e Medade falam ao povo no acampamento.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+11%3A24-30&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 93,
+    "narrative_sha256": "5f0ae50a68c428024559e0eef249c18e8c01d443612813d13e60443bc15c41e3",
+    "narrative_words": 452,
+    "part_words": [
+      153,
+      152,
+      147
+    ],
+    "cover_alt": "Moisés ora enquanto Arão se preocupa com Miriã.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+12&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 94,
+    "narrative_sha256": "c3f2d69415f5469336579184852be32d6088fe570e075b0a1878e1498b47067d",
+    "narrative_words": 449,
+    "part_words": [
+      146,
+      149,
+      154
+    ],
+    "cover_alt": "Dois exploradores carregam um grande cacho de uvas.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+13-14&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 95,
+    "narrative_sha256": "1fda265376deefcec25c641f3837c0f7bf47b0f1c38e53266ee0f429f690bd23",
+    "narrative_words": 449,
+    "part_words": [
+      150,
+      145,
+      154
+    ],
+    "cover_alt": "Moisés mostra o cajado de Arão com flores e amêndoas.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+17&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 96,
+    "narrative_sha256": "6a7c936ab519d9808d1448ad1070e6a09eb61f2c06d193bc72f31c5bdef3221e",
+    "narrative_words": 452,
+    "part_words": [
+      145,
+      154,
+      153
+    ],
+    "cover_alt": "Moisés observa a água que sai da rocha em Meribá.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+20%3A1-13&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 97,
+    "narrative_sha256": "84ae8c3188b689efe290563460b36d723f315212084f031e715679635d23666c",
+    "narrative_words": 448,
+    "part_words": [
+      147,
+      147,
+      154
+    ],
+    "cover_alt": "Moisés apresenta o sinal de bronze ao povo.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+21%3A4-9&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 98,
+    "narrative_sha256": "ff24a81200ff3b198d36b34d90b05c91102b11bc0592c9e7f69a9ecc108f1d83",
+    "narrative_words": 456,
+    "part_words": [
+      149,
+      156,
+      151
+    ],
+    "cover_alt": "Balaão vê o anjo enquanto a jumenta descansa no caminho.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+22%3A21-35&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 99,
+    "narrative_sha256": "15beb76e170f51b56a7568577e67df24be000d13e3af1d2b4d44125f275819f4",
+    "narrative_words": 442,
+    "part_words": [
+      137,
+      150,
+      155
+    ],
+    "cover_alt": "Balaão anuncia uma bênção diante de Balaque.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+23-24&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 100,
+    "narrative_sha256": "776b0757f0f2d8833f337fa6081f3fdda07c7c78b8da9304030158b836afa300",
+    "narrative_words": 451,
+    "part_words": [
+      149,
+      153,
+      149
+    ],
+    "cover_alt": "As cinco irmãs apresentam seu pedido a Moisés.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+27%3A1-11&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 101,
+    "narrative_sha256": "6ca886463682488f9049723a7f973e22305bf75831cf1af3dcb6051f19da38fb",
+    "narrative_words": 441,
+    "part_words": [
+      147,
+      147,
+      147
+    ],
+    "cover_alt": "Moisés coloca as mãos sobre Josué diante do povo.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+27%3A12-23&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 102,
+    "narrative_sha256": "d2ea55e7b5bcf11a2a3bb370b47b7bc4a40e93e4d3270bf899580b6ddc576ac1",
+    "narrative_words": 459,
+    "part_words": [
+      155,
+      150,
+      154
+    ],
+    "cover_alt": "Um viajante chega à cidade de refúgio e é recebido com atenção.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Numbers+35%3A9-34&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A1-13&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 103,
+    "narrative_sha256": "def7f28959059ac6ecc868472996f90c993005beeb8eb713c77c1f288275f296",
+    "narrative_words": 468,
+    "part_words": [
+      153,
+      159,
+      156
+    ],
+    "cover_alt": "Uma família conversa com carinho ao redor da mesa.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 104,
+    "narrative_sha256": "4238280232dbc82538fb44f65f6cd9a69f0e51cf86ccf1b318d22a0069c64a73",
+    "narrative_words": 454,
+    "part_words": [
+      151,
+      146,
+      157
+    ],
+    "cover_alt": "Moisés fala de uma terra boa às famílias de Israel.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Deuteronomy+8&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 105,
+    "narrative_sha256": "8d49e362d3cff139be3196be303dab8316a103fd5ecf5de3990400197f50fa90",
+    "narrative_words": 463,
+    "part_words": [
+      152,
+      155,
+      156
+    ],
+    "cover_alt": "Moisés contempla a terra do alto do monte Nebo.",
+    "sources": [
+      "https://www.biblegateway.com/passage/?search=Deuteronomy+31%3A1-13&version=KJV",
+      "https://www.biblegateway.com/passage/?search=Deuteronomy+34&version=KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 106,
+    "narrative_sha256": "5913e44f0beab0641f9d8909ad15895dcb842abb78c33561af8c3b5d207085a8",
+    "narrative_words": 463,
+    "part_words": [
+      154,
+      157,
+      152
+    ],
+    "cover_alt": "Josué observa o Jordão com esperança, enquanto famílias organizam as tendas ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 107,
+    "narrative_sha256": "b9396eaf8681715557f893cb1dbb63895e78f73e0a6d2627fcef9639a9e09c65",
+    "narrative_words": 492,
+    "part_words": [
+      162,
+      167,
+      163
+    ],
+    "cover_alt": "Raabe prende um cordão vermelho à janela de sua casa na muralha de Jericó, com sua família ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 108,
+    "narrative_sha256": "97a30865196f09e8e8f848a68d66395063f68ffa94cc16da1d903c0f788c8289",
+    "narrative_words": 496,
+    "part_words": [
+      165,
+      165,
+      166
+    ],
+    "cover_alt": "Famílias atravessam o leito seco do Jordão, enquanto os sacerdotes permanecem ao centro com a arca.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 109,
+    "narrative_sha256": "6e72057bb2daceb175a1fd73a888ffb31f0a851760757069148fd20e256a53c5",
+    "narrative_words": 490,
+    "part_words": [
+      165,
+      165,
+      160
+    ],
+    "cover_alt": "Josué mostra um memorial de doze pedras a famílias e crianças no acampamento de Gilgal.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 110,
+    "narrative_sha256": "2d7ae4ee770bb97e960314e8cbbc4da3fcc08e712bbcfd803bd0563d44a088e2",
+    "narrative_words": 493,
+    "part_words": [
+      157,
+      169,
+      167
+    ],
+    "cover_alt": "Uma família celebra com pães sem fermento e grãos tostados diante de sua tenda em Gilgal.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 111,
+    "narrative_sha256": "28e3f94738c78ad83d3fa25f12ac145a12e346569516b665bdb50d7dc21059f7",
+    "narrative_words": 503,
+    "part_words": [
+      170,
+      166,
+      167
+    ],
+    "cover_alt": "Calebe e Josué conversam diante das montanhas de Hebrom, com um gesto de bênção e acolhimento.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 112,
+    "narrative_sha256": "de1d7f0aad2223e6099b7b2fd6904bb66bc77b1006708a9285ef20a5ab36b39b",
+    "narrative_words": 493,
+    "part_words": [
+      165,
+      166,
+      162
+    ],
+    "cover_alt": "Acsa e Calebe observam uma fonte que corre entre pedras numa região seca, com vegetação perto da água.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 113,
+    "narrative_sha256": "0c44925fa0cba8f027cfd24fda3016e53220eeb45df58b01d0caa0c36e533f78",
+    "narrative_words": 511,
+    "part_words": [
+      170,
+      175,
+      166
+    ],
+    "cover_alt": "Anciãos recebem um viajante à porta de uma cidade de refúgio, oferecendo espaço para conversar.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 114,
+    "narrative_sha256": "07f7cb67c07e7b3bfbefe7003b3058215be66bdcfc266b9dc5d4c242e202ee61",
+    "narrative_words": 508,
+    "part_words": [
+      167,
+      173,
+      168
+    ],
+    "cover_alt": "Líderes de diferentes tribos conversam em paz ao lado de um grande altar de pedras perto do Jordão.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 115,
+    "narrative_sha256": "315f8182c68fb8145cbc76df5ac4afa42cfbe1f574ab1361daf7cbe59167d2b0",
+    "narrative_words": 500,
+    "part_words": [
+      166,
+      167,
+      167
+    ],
+    "cover_alt": "Josué conversa com famílias reunidas sob uma grande árvore, ao lado de uma pedra de lembrança.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 116,
+    "narrative_sha256": "0361bbca80785565d5992bade8195c2f8459b84081718b233c59e5a34de6af01",
+    "narrative_words": 476,
+    "part_words": [
+      159,
+      157,
+      160
+    ],
+    "cover_alt": "Débora escuta uma família à sombra de sua palmeira, com a paisagem montanhosa de Efraim ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 117,
+    "narrative_sha256": "d4d5711eb69f527e9a1a95766f62ead21831eb38d9a87a5aa4eb67d7b5ef62a6",
+    "narrative_words": 498,
+    "part_words": [
+      170,
+      162,
+      166
+    ],
+    "cover_alt": "Baraque e Débora observam o vale a partir do monte Tabor, com um grupo de adultos reunido atrás deles.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 118,
+    "narrative_sha256": "0536da0ac0ec8a0d997be3337ae3378f809e126e610ce40039c0be7867b0c392",
+    "narrative_words": 499,
+    "part_words": [
+      167,
+      162,
+      170
+    ],
+    "cover_alt": "Débora e Baraque cantam diante de famílias reunidas numa aldeia em paz, com expressões de gratidão.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 119,
+    "narrative_sha256": "42ae2cc292705d3dbf557fcf9282dee9fb90a530c0291823235c267617587ea5",
+    "narrative_words": 510,
+    "part_words": [
+      170,
+      167,
+      173
+    ],
+    "cover_alt": "Uma oliveira, uma figueira e uma videira cercam um pequeno espinheiro numa paisagem de fábula acolhedora.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 120,
+    "narrative_sha256": "7b7ec46705fabaccb4fc5fdcb3b60c883099c76f24347285be9c2892167ac01b",
+    "narrative_words": 529,
+    "part_words": [
+      173,
+      174,
+      182
+    ],
+    "cover_alt": "Mica observa com tristeza uma prateleira vazia em sua casa, percebendo que seus objetos foram levados.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 121,
+    "narrative_sha256": "28e34c9eb4965527ac173d70c51fd88a7bdf360d3b2e7a7f78532d98d15109c9",
+    "narrative_words": 507,
+    "part_words": [
+      169,
+      173,
+      165
+    ],
+    "cover_alt": "Ana apresenta Samuel, uma criança já desmamada, ao sacerdote Eli em Siló.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 122,
+    "narrative_sha256": "bf67dade106ca1cc170fc41719de00ab473d9d6601f72e9d17266940a631ad85",
+    "narrative_words": 500,
+    "part_words": [
+      163,
+      168,
+      169
+    ],
+    "cover_alt": "Ana ajuda Samuel a vestir um pequeno casaco no pátio de Siló, num encontro cheio de carinho.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 123,
+    "narrative_sha256": "663986e03970e05ec630ec0fcfca9c111d168b9d93205ea041eeb4d8694d763e",
+    "narrative_words": 513,
+    "part_words": [
+      168,
+      174,
+      171
+    ],
+    "cover_alt": "Samuel escuta com atenção perto de uma lamparina no santuário silencioso durante a noite.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 124,
+    "narrative_sha256": "d2e54ea341654da477715acd6ad344052dbef754135b303588c6867a1f9140d2",
+    "narrative_words": 501,
+    "part_words": [
+      166,
+      161,
+      174
+    ],
+    "cover_alt": "Duas vacas puxam um carro com a arca por um caminho entre campos de trigo, recebidas por moradores alegres.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 125,
+    "narrative_sha256": "4348ebdfbcef38da8989d195cf8a123ce80c914426884ce1821dc61b53662fef",
+    "narrative_words": 493,
+    "part_words": [
+      163,
+      162,
+      168
+    ],
+    "cover_alt": "Samuel coloca a mão sobre uma grande pedra de lembrança enquanto famílias escutam ao redor.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 126,
+    "narrative_sha256": "df757ad6f679ebe956a6d34d8f226650d7603ef847c4e64f02f2a27a678041ae",
+    "narrative_words": 510,
+    "part_words": [
+      166,
+      169,
+      175
+    ],
+    "cover_alt": "Saul e seu companheiro observam uma cidade no alto do caminho, depois de procurar as jumentas.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 127,
+    "narrative_sha256": "64a22f7b0db1c250adeabe6c13c8f6a3bf1ab4064d66c2e6472ac51230cd8d90",
+    "narrative_words": 491,
+    "part_words": [
+      164,
+      164,
+      163
+    ],
+    "cover_alt": "Saul aparece timidamente ao lado de cestos e bagagens enquanto Samuel o acolhe diante da assembleia.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 128,
+    "narrative_sha256": "01ac555bb2faa3d88ca614aff91732855c29ee61a91af1780e9622adbdd94e79",
+    "narrative_words": 497,
+    "part_words": [
+      168,
+      161,
+      168
+    ],
+    "cover_alt": "Jônatas e seu companheiro conversam diante de uma passagem rochosa, avaliando o caminho juntos.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 129,
+    "narrative_sha256": "023e6ee5ed82df4eb8630dcedee70b04db2ec34645940ebc22a7a3490ed6c57e",
+    "narrative_words": 499,
+    "part_words": [
+      159,
+      173,
+      167
+    ],
+    "cover_alt": "Samuel acolhe Davi no pátio da família, enquanto Jessé e os irmãos observam com surpresa.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 130,
+    "narrative_sha256": "53177a129f26c433c8e8d03de7bcfe8deccf35b8b0ca9c5166bcd65574f60413",
+    "narrative_words": 497,
+    "part_words": [
+      165,
+      165,
+      167
+    ],
+    "cover_alt": "Davi toca uma pequena lira de madeira diante de Saul, numa sala tranquila iluminada pelo entardecer.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 131,
+    "narrative_sha256": "771b1251f7f05d60d22cff9cacb6c10e1c5885cbc9fa896e58d5f51dd842aac8",
+    "narrative_words": 499,
+    "part_words": [
+      167,
+      168,
+      164
+    ],
+    "cover_alt": "Davi e Jônatas se abraçam num campo ao amanhecer, numa despedida respeitosa e emocionada.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 132,
+    "narrative_sha256": "679fa6921920d3f43ff4f59139067176766df78ea179a9d387c118d162b53e6d",
+    "narrative_words": 499,
+    "part_words": [
+      163,
+      168,
+      168
+    ],
+    "cover_alt": "Davi mostra a Saul um pequeno pedaço de tecido à distância, diante das rochas de En-Gedi.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 133,
+    "narrative_sha256": "42caf73cf8d1a56c706a10ba79af14b2e0e6d98d18e9897ca696960518cf138f",
+    "narrative_words": 520,
+    "part_words": [
+      171,
+      174,
+      175
+    ],
+    "cover_alt": "Abigail oferece alimentos a Davi num caminho entre colinas, numa conversa que traz serenidade.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 134,
+    "narrative_sha256": "e369a53b8b9cb326542ccb696b20322e6fbca1154e80ea4708de4807e51100e1",
+    "narrative_words": 506,
+    "part_words": [
+      164,
+      170,
+      172
+    ],
+    "cover_alt": "Davi recebe os companheiros junto ao ribeiro de Besor e reparte provisões com todos.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 135,
+    "narrative_sha256": "cf9085e4bc997234fe55f404255ae2cd1f8ecb9bdb29e542fd6a9a430b3f76da",
+    "narrative_words": 507,
+    "part_words": [
+      169,
+      166,
+      172
+    ],
+    "cover_alt": "Davi celebra com alegria numa rua de Jerusalém enquanto famílias acompanham a chegada da arca.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 136,
+    "narrative_sha256": "144c2d72665d581641418d9662914c24753343b2912261c6329156b9e4d053f1",
+    "narrative_words": 507,
+    "part_words": [
+      168,
+      170,
+      169
+    ],
+    "cover_alt": "Mefibosete participa com alegria de uma refeição à mesa de Davi, sentado confortavelmente entre os convidados.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 137,
+    "narrative_sha256": "6fa7abb3ee51ddcc766863c1b02ffbef6f9cd3602b8acd8eb3fec8f66499dde1",
+    "narrative_words": 501,
+    "part_words": [
+      166,
+      166,
+      169
+    ],
+    "cover_alt": "Natã conta uma história a Davi numa sala simples do palácio, enquanto o rei escuta com atenção.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 138,
+    "narrative_sha256": "e14421867dc21319eae835e7e1a70aa9bc7e04d575864d9b2eba5289f30256fb",
+    "narrative_words": 502,
+    "part_words": [
+      167,
+      165,
+      170
+    ],
+    "cover_alt": "Barzilai entrega cestos de alimentos a Davi e aos companheiros cansados num acampamento acolhedor.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 139,
+    "narrative_sha256": "8b9e85d0a1008d8492a70e0aed52f57896a1c032efdb14e299b1fea8899793d7",
+    "narrative_words": 498,
+    "part_words": [
+      168,
+      166,
+      164
+    ],
+    "cover_alt": "Davi mostra a Salomão os materiais preparados para uma grande construção, num encontro entre gerações.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Chronicles"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 140,
+    "narrative_sha256": "c2ed048131dbdf9a40da1fd4a45e55a3a4284c77a00fbdf2274eb338ea269064",
+    "narrative_words": 494,
+    "part_words": [
+      168,
+      167,
+      159
+    ],
+    "cover_alt": "Salomão ora com serenidade perto de uma janela aberta, com a cidade e seus habitantes ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 141,
+    "narrative_sha256": "9fcfde2ea67bbe481d472b06bd367a6d0b2a377f5f7154126fea3a45234e2b1f",
+    "narrative_words": 526,
+    "part_words": [
+      172,
+      180,
+      174
+    ],
+    "cover_alt": "Uma mãe segura seu bebê em segurança diante de Salomão, num momento de alívio após a decisão.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 142,
+    "narrative_sha256": "1303df783b1af8b3870879c9e33c4f4106ef2a6787f02c1384641ef9ca001160",
+    "narrative_words": 493,
+    "part_words": [
+      163,
+      158,
+      172
+    ],
+    "cover_alt": "Trabalhadores adultos de diferentes ofícios colaboram na construção de um templo antigo, com pedras e cedros organizados.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 143,
+    "narrative_sha256": "cc8f27e92fe50411cb6e454c1bf4bea5ea9359df70fa090bece2af3ecc5a3271",
+    "narrative_words": 516,
+    "part_words": [
+      169,
+      169,
+      178
+    ],
+    "cover_alt": "Salomão ora diante do povo no pátio do templo, com as mãos abertas e uma expressão de humildade.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 144,
+    "narrative_sha256": "dca8b8521885c3db94acb7599933159a85ec65a38d0d43f1381d3aa805496f4f",
+    "narrative_words": 497,
+    "part_words": [
+      166,
+      164,
+      167
+    ],
+    "cover_alt": "A rainha de Sabá conversa com Salomão no pátio do palácio, trazendo perguntas com confiança e interesse.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 145,
+    "narrative_sha256": "35e184d3194aceb3260e669f7ce2444f54197cc5477e4ed4fdc1211a42ade3e6",
+    "narrative_words": 490,
+    "part_words": [
+      169,
+      159,
+      162
+    ],
+    "cover_alt": "Roboão escuta representantes do povo num pátio, diante de rostos que demonstram cansaço e esperança.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 146,
+    "narrative_sha256": "7c89092cdeb0c4f161bbbfb3e8fb1c6ee04a7e3a6ac7aadb7c538beb3368123c",
+    "narrative_words": 499,
+    "part_words": [
+      166,
+      168,
+      165
+    ],
+    "cover_alt": "Elias recebe um pedaço de pão trazido por um corvo perto de um riacho entre pedras e árvores.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 147,
+    "narrative_sha256": "4ec2bd04da68967a563979b1e3e2e3b177fec6a87fa63a921a30193d2d77c568",
+    "narrative_words": 518,
+    "part_words": [
+      171,
+      174,
+      173
+    ],
+    "cover_alt": "A viúva prepara pão com farinha e azeite enquanto seu filho e Elias aguardam numa casa simples e acolhedora.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 148,
+    "narrative_sha256": "54a0c13c967994b533521238b74ccb0f841ba1c667e476f7421f4f3c45d81820",
+    "narrative_words": 506,
+    "part_words": [
+      163,
+      166,
+      177
+    ],
+    "cover_alt": "A mãe abraça o filho vivo e saudável na entrada de sua casa, enquanto Elias observa com gratidão.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 149,
+    "narrative_sha256": "e2fc9a9c37586a8a8b2bb24674d90fe066223a279234a820e322e9569a802e03",
+    "narrative_words": 506,
+    "part_words": [
+      162,
+      174,
+      170
+    ],
+    "cover_alt": "Elias e seu servo observam uma pequena nuvem acima do mar a partir do monte Carmelo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 150,
+    "narrative_sha256": "43042daaedcc0ab90e1208c89c7fa0410dac0336e68e1fc3ac23d7ea9cfe419b",
+    "narrative_words": 512,
+    "part_words": [
+      169,
+      163,
+      180
+    ],
+    "cover_alt": "Elias permanece serenamente à entrada de uma caverna ao amanhecer, com o manto perto do rosto e luz suave.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 151,
+    "narrative_sha256": "7f13d8b1f8b90f8770eba162739e9cd9b38fded57afcc2d4f3188c71ce4faebf",
+    "narrative_words": 506,
+    "part_words": [
+      172,
+      162,
+      172
+    ],
+    "cover_alt": "Elias coloca seu manto sobre os ombros de Eliseu num campo arado, enquanto os bois descansam ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 152,
+    "narrative_sha256": "b751c448932b3505043fcd23a1e0b273d8e1573d84146af14341933a2f0f37ce",
+    "narrative_words": 502,
+    "part_words": [
+      165,
+      169,
+      168
+    ],
+    "cover_alt": "Nabote cuida de sua vinha com expressão serena, diante de fileiras de uvas e muros antigos.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 153,
+    "narrative_sha256": "3c128482b06ba8d378ff0226c3f5e41358b61aac9cf6d194d912dffc8bf86461",
+    "narrative_words": 503,
+    "part_words": [
+      165,
+      165,
+      173
+    ],
+    "cover_alt": "Eliseu segura o manto de Elias à margem do Jordão, com expressão de saudade e responsabilidade.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 154,
+    "narrative_sha256": "f1962a5bb290dd1884f291e924a3bb2c1c096a29921a829f28459289a36913ea",
+    "narrative_words": 495,
+    "part_words": [
+      164,
+      165,
+      166
+    ],
+    "cover_alt": "Eliseu e moradores de Jericó observam uma fonte de água limpa que corre entre pedras e vegetação.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 155,
+    "narrative_sha256": "7de84696302806723bdbba2a533c39ec79834057cc119e0fbd6d798aff51e485",
+    "narrative_words": 505,
+    "part_words": [
+      165,
+      170,
+      170
+    ],
+    "cover_alt": "A viúva enche uma vasilha de azeite enquanto seus dois filhos ajudam ao lado de muitos jarros de barro.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 156,
+    "narrative_sha256": "525f0a320badecb4d50da03fa61a369ddef40807b7c136dd2e6007757bf7e4a4",
+    "narrative_words": 497,
+    "part_words": [
+      169,
+      163,
+      165
+    ],
+    "cover_alt": "A mulher de Suném e o marido mostram a Eliseu um pequeno quarto preparado com cama, mesa, cadeira e lamparina.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 157,
+    "narrative_sha256": "d2872b3a4a6c404928f19352206c0b87e5d109f5130a58d799749f1b655a51e5",
+    "narrative_words": 503,
+    "part_words": [
+      170,
+      162,
+      171
+    ],
+    "cover_alt": "A mãe abraça seu filho saudável no quarto de hóspedes, enquanto Eliseu observa com gratidão.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 158,
+    "narrative_sha256": "62b94b5a985a0ff054fad8ac56874c8200896a62d3e78fdf357dcf93cc6596fe",
+    "narrative_words": 484,
+    "part_words": [
+      159,
+      159,
+      166
+    ],
+    "cover_alt": "Eliseu e um grupo de adultos compartilham uma refeição simples num pátio, com uma grande panela ao centro.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 159,
+    "narrative_sha256": "8b2fe0f66fbc229feee4dad834c33037aed4e8cd43b221db32545c244c39d702",
+    "narrative_words": 499,
+    "part_words": [
+      169,
+      166,
+      164
+    ],
+    "cover_alt": "Eliseu e um servo repartem pães de cevada entre pessoas sentadas num pátio acolhedor.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 160,
+    "narrative_sha256": "8bdec729ae787a574378c640f6ee38de19487fcebec1b9cdd2ff5ba92c734f53",
+    "narrative_words": 516,
+    "part_words": [
+      172,
+      172,
+      172
+    ],
+    "cover_alt": "A menina conversa com a esposa de Naamã num jardim tranquilo, sendo ouvida com atenção e respeito.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 161,
+    "narrative_sha256": "df9561828c2e389e2160245d8b91e595ed6aa063e1e23d868e9ff25308491201",
+    "narrative_words": 511,
+    "part_words": [
+      171,
+      167,
+      173
+    ],
+    "cover_alt": "Naamã agradece a Eliseu no pátio da casa, com expressão humilde e comitiva discreta ao fundo.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 162,
+    "narrative_sha256": "d038575b32e46c5644b500a9a8b34f77e92491b7c731ed3f8c1975dc155c416d",
+    "narrative_words": 491,
+    "part_words": [
+      163,
+      158,
+      170
+    ],
+    "cover_alt": "Um adulto recupera a lâmina de um machado junto à margem segura do rio, com Eliseu ao lado.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 163,
+    "narrative_sha256": "8a622656a4ea03338179d3110dd71522752bf0d9fe837841d2254250526859f9",
+    "narrative_words": 511,
+    "part_words": [
+      175,
+      167,
+      169
+    ],
+    "cover_alt": "Homens antes adversários compartilham uma refeição em Samaria, enquanto Eliseu observa com serenidade.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 164,
+    "narrative_sha256": "8cece806e80218434027f7be2980dd9231db18911da7ef7bd2c7ddb8f23409fc",
+    "narrative_words": 492,
+    "part_words": [
+      164,
+      162,
+      166
+    ],
+    "cover_alt": "Quatro homens avisam aos porteiros de Samaria sobre o alimento encontrado, com expressões de esperança.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 165,
+    "narrative_sha256": "97d37f4897fbd296dc8e509f83c6fdbc9a6df0debebacf73dbda68bbeb7025e7",
+    "narrative_words": 512,
+    "part_words": [
+      174,
+      157,
+      181
+    ],
+    "cover_alt": "Joás e Joiada observam trabalhadores consertando o templo, com materiais organizados e espaço seguro.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 166,
+    "narrative_sha256": "08e6b0f303ce66a43b5580209d0233384fddefe8a6a30ac0183338a37e3ff7df",
+    "narrative_words": 479,
+    "part_words": [
+      157,
+      160,
+      162
+    ],
+    "cover_alt": "Famílias de diferentes regiões se reúnem com alegria em Jerusalém para uma celebração acolhedora.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Chronicles"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 167,
+    "narrative_sha256": "1076609b9dea82b23b8c4a9d8d90dddd95cad4f814743eb2980c09084153fac8",
+    "narrative_words": 482,
+    "part_words": [
+      160,
+      159,
+      163
+    ],
+    "cover_alt": "Ezequias estende uma carta diante de si no templo e ora com sinceridade à luz suave da manhã.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 168,
+    "narrative_sha256": "ece536e3fb0482697ed15eb96a0aa5796b9fb29d0c30017436cc498beb835da8",
+    "narrative_words": 499,
+    "part_words": [
+      169,
+      162,
+      168
+    ],
+    "cover_alt": "Ezequias e Isaías observam a sombra sobre degraus de pedra num pátio iluminado pelo sol.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 169,
+    "narrative_sha256": "476fc86547254813174d97aab066f5e96c22bb836112c7d31a8198e782d9e111",
+    "narrative_words": 488,
+    "part_words": [
+      163,
+      157,
+      168
+    ],
+    "cover_alt": "Safã lê um rolo diante de Josias, que escuta com seriedade e atenção no palácio.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 170,
+    "narrative_sha256": "a5ff33dd41c550e611e9bbd00fea1fe115324a24d85c251de16087496e516856",
+    "narrative_words": 520,
+    "part_words": [
+      172,
+      171,
+      177
+    ],
+    "cover_alt": "Hulda conversa com os enviados de Josias num pátio tranquilo de Jerusalém, sendo ouvida com respeito.",
+    "sources": [
+      "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 171,
+    "narrative_sha256": "3ac3cf4a91e6e970058eae60fda33704f3e24aa8ea08b5d2fd049dcd1d108c67",
+    "narrative_words": 478,
+    "part_words": [
+      161,
+      160,
+      157
+    ],
+    "cover_alt": "Famílias se preparam para voltar a Jerusalém após o anúncio de Ciro.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR01.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 172,
+    "narrative_sha256": "35d2d2e1615012379812ce59c5a1553b81b2e3dd54d7d0640f92399f4de8d10b",
+    "narrative_words": 476,
+    "part_words": [
+      160,
+      158,
+      158
+    ],
+    "cover_alt": "Pessoas entregam ofertas que ajudarão na reconstrução de Jerusalém.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR01.htm",
+      "https://ebible.org/engwebp/EZR02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 173,
+    "narrative_sha256": "20e9badd269d4bfa22bf4ce59d96a8702d877e4dbf32aebc7529cadd9258d1d6",
+    "narrative_words": 487,
+    "part_words": [
+      165,
+      158,
+      164
+    ],
+    "cover_alt": "O povo se reúne perto do altar enquanto o templo ainda espera reconstrução.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 174,
+    "narrative_sha256": "ddd534b23f5e91502275c9a7298db3413638cdedb6689758108993e33bbb2db8",
+    "narrative_words": 488,
+    "part_words": [
+      161,
+      157,
+      170
+    ],
+    "cover_alt": "Alegria e lágrimas se encontram na celebração dos alicerces do templo.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 175,
+    "narrative_sha256": "9ff932ca09dd2dadc95ec4c4b1eac48d01f522130c1e511159e25565755b64da",
+    "narrative_words": 475,
+    "part_words": [
+      155,
+      159,
+      161
+    ],
+    "cover_alt": "O povo celebra o templo concluído depois de um longo trabalho.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR05.htm",
+      "https://ebible.org/engwebp/EZR06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 176,
+    "narrative_sha256": "b3265cb6f127314dc9832e6dd0fda088acd86726527b66b802c9ef8e29819668",
+    "narrative_words": 493,
+    "part_words": [
+      161,
+      163,
+      169
+    ],
+    "cover_alt": "Famílias celebram uma refeição de Páscoa após a reconstrução do templo.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 177,
+    "narrative_sha256": "02d348e60a942ad928bf027813d5cf3fc2a45581305648b8a6b83570e3acdf13",
+    "narrative_words": 482,
+    "part_words": [
+      160,
+      159,
+      163
+    ],
+    "cover_alt": "Esdras estuda um rolo da Lei com atenção e serenidade.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR07.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 178,
+    "narrative_sha256": "5e3b00f0cb8802a4266bd53cbcc667bceefe43e2940e757f1f7bd33b75af3ab5",
+    "narrative_words": 487,
+    "part_words": [
+      160,
+      162,
+      165
+    ],
+    "cover_alt": "Esdras e os viajantes oram antes de seguir para Jerusalém.",
+    "sources": [
+      "https://ebible.org/engwebp/EZR08.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 179,
+    "narrative_sha256": "f2c6d42259cfa01557bab90aee12ba668678be6b0c45d7111b27ca659c8d901d",
+    "narrative_words": 494,
+    "part_words": [
+      161,
+      163,
+      170
+    ],
+    "cover_alt": "Neemias escuta com atenção as notícias trazidas por Hanani.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH01.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 180,
+    "narrative_sha256": "708b6e67b91937e1b2c8d1eb020b477a2a92dd2f9f8c54916a23caf0f9727669",
+    "narrative_words": 477,
+    "part_words": [
+      155,
+      166,
+      156
+    ],
+    "cover_alt": "Neemias apresenta ao rei seu pedido para ajudar Jerusalém.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 181,
+    "narrative_sha256": "fbb4891b38d2f533c198d22262383ce2862982006a7e585398b57c2f009160ad",
+    "narrative_words": 493,
+    "part_words": [
+      160,
+      167,
+      166
+    ],
+    "cover_alt": "Neemias examina as muralhas de Jerusalém durante a noite.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 182,
+    "narrative_sha256": "27db6074ca88001668c327fe0e96bc9639315327c6ee7d4c9f0a8fe9ec7009fb",
+    "narrative_words": 476,
+    "part_words": [
+      159,
+      153,
+      164
+    ],
+    "cover_alt": "Homens e mulheres trabalham em diferentes trechos da muralha.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 183,
+    "narrative_sha256": "d73ee6b25851d59ae32d0683acd3e573c451ed51e3ceea4c1c3fe2a1dbdde87c",
+    "narrative_words": 479,
+    "part_words": [
+      155,
+      159,
+      165
+    ],
+    "cover_alt": "Neemias organiza a comunicação e o cuidado durante a reconstrução.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH04.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 184,
+    "narrative_sha256": "612cdb3aaa02a63d9bdb951c71923808958aeb5acc60be1c7f35690250c53518",
+    "narrative_words": 484,
+    "part_words": [
+      160,
+      160,
+      164
+    ],
+    "cover_alt": "Neemias escuta as famílias que precisam de ajuda e justiça.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH05.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 185,
+    "narrative_sha256": "4a5d049fbf7a291fadaa2314fcfd079cf21b491353f1371195861c3c9377dbbe",
+    "narrative_words": 474,
+    "part_words": [
+      158,
+      156,
+      160
+    ],
+    "cover_alt": "Neemias responde com firmeza a um convite que o afastaria da obra.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 186,
+    "narrative_sha256": "47f60309e4f772e97bd436c3e350f945e4af7940679a5d1a1adc1b67eafd6e34",
+    "narrative_words": 468,
+    "part_words": [
+      160,
+      149,
+      159
+    ],
+    "cover_alt": "Neemias contempla os portões reconstruídos de Jerusalém.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH06.htm",
+      "https://ebible.org/engwebp/NEH07.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 187,
+    "narrative_sha256": "05a96625f5349f4a0fd4cd67a7f12a35754fcd130984c5dd47227d07b5603bbe",
+    "narrative_words": 486,
+    "part_words": [
+      162,
+      161,
+      163
+    ],
+    "cover_alt": "Esdras lê a Lei numa plataforma diante do povo reunido.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH08.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 188,
+    "narrative_sha256": "cd3a60698c15d07ca2e6725d9b6e40d3df985aa3fa7130bb335806f8c23c5ba5",
+    "narrative_words": 488,
+    "part_words": [
+      162,
+      167,
+      159
+    ],
+    "cover_alt": "Famílias celebram entre cabanas de ramos em Jerusalém.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH08.htm",
+      "https://ebible.org/engwebp/EZR03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 189,
+    "narrative_sha256": "fce06df5230eb1a6b838b0d58d2feb46331d0578868fca2573f7a79a9f8717f6",
+    "narrative_words": 480,
+    "part_words": [
+      156,
+      159,
+      165
+    ],
+    "cover_alt": "Grupos de cantores celebram sobre as muralhas reconstruídas.",
+    "sources": [
+      "https://ebible.org/engwebp/NEH12.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 190,
+    "narrative_sha256": "cbbc40a3970d27a3641f18b162bd7382d09282168999fdf2526e187d17a7b6ad",
+    "narrative_words": 489,
+    "part_words": [
+      162,
+      162,
+      165
+    ],
+    "cover_alt": "Ester olha com serenidade para uma nova etapa de sua vida no palácio.",
+    "sources": [
+      "https://ebible.org/engwebpb/EST02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 191,
+    "narrative_sha256": "e9849750ee7c339ed66c77067e928228d5f01f2d3a641fbf6fca9c086e90fced",
+    "narrative_words": 484,
+    "part_words": [
+      165,
+      157,
+      162
+    ],
+    "cover_alt": "Mordecai transmite a um mensageiro um aviso importante para Ester.",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 192,
+    "narrative_sha256": "349a8407b1b6c81426cab643adf63fa02139ea81b909e5c8e65bdebc755d5255",
+    "narrative_words": 493,
+    "part_words": [
+      167,
+      165,
+      161
+    ],
+    "cover_alt": "Ester se apresenta diante do rei com coragem e respeito.",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 193,
+    "narrative_sha256": "d35b6b7b7e6f1400a39b700efde2488e28ec1e0539e17d32252180eff4ff8c51",
+    "narrative_words": 472,
+    "part_words": [
+      155,
+      154,
+      163
+    ],
+    "cover_alt": "Mordecai recebe uma homenagem inesperada na praça de Susã.",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 194,
+    "narrative_sha256": "7e0d984400a9448045547124fe00e51c2ab6d9c9cf73ad7d5ad5cc36f494e47a",
+    "narrative_words": 488,
+    "part_words": [
+      165,
+      156,
+      167
+    ],
+    "cover_alt": "Ester apresenta ao rei um pedido de proteção para seu povo.",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 195,
+    "narrative_sha256": "9d24ddbf4757e782ef1c552ad7a57bf3d81b5e34f8338cf13f442fc1a4546a2e",
+    "narrative_words": 489,
+    "part_words": [
+      157,
+      155,
+      177
+    ],
+    "cover_alt": "Famílias repartem alimentos numa celebração de gratidão.",
+    "sources": [
+      "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 196,
+    "narrative_sha256": "51c7b75d100765d1f5fef77009b5e53b80550dea23f2ad600d12c31369e648ab",
+    "narrative_words": 488,
+    "part_words": [
+      166,
+      163,
+      159
+    ],
+    "cover_alt": "Jó recebe a companhia silenciosa de três amigos num tempo de tristeza.",
+    "sources": [
+      "https://ebible.org/engwebp/JOB01.htm",
+      "https://ebible.org/engwebp/JOB02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 197,
+    "narrative_sha256": "58136c50b9dcc2d280543bab4dd0de47271797c3dbff5fad2502bbee560e74f4",
+    "narrative_words": 492,
+    "part_words": [
+      160,
+      164,
+      168
+    ],
+    "cover_alt": "Jó e seus amigos aprendem sobre o cuidado que as palavras precisam ter.",
+    "sources": [
+      "https://ebible.org/engwebp/JOB02.htm",
+      "https://ebible.org/engwebp/JOB16.htm",
+      "https://ebible.org/engwebp/JOB42.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 198,
+    "narrative_sha256": "9bc76c1952a2f0bf889bfe83c86e044462c7c3718b7c02c0e5a98cc9919e2959",
+    "narrative_words": 497,
+    "part_words": [
+      170,
+      161,
+      166
+    ],
+    "cover_alt": "Jó contempla a grandeza da criação com um olhar atento.",
+    "sources": [
+      "https://ebible.org/engwebp/JOB38.htm",
+      "https://ebible.org/engwebp/JOB39.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 199,
+    "narrative_sha256": "03b1debc3f27ba1b6a17234fbfd1561d7b65a0edf948d15392f575764f6a2fd8",
+    "narrative_words": 497,
+    "part_words": [
+      163,
+      166,
+      168
+    ],
+    "cover_alt": "Jó recebe familiares e amigos numa nova etapa de sua vida.",
+    "sources": [
+      "https://ebible.org/engwebp/JOB42.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 200,
+    "narrative_sha256": "f781eff04c578c0a7826c0c587218e5cb67ca77a3ca3f1f78eb71f6920832faa",
+    "narrative_words": 487,
+    "part_words": [
+      164,
+      162,
+      161
+    ],
+    "cover_alt": "Um pastor acompanha o rebanho num campo tranquilo, imagem do cuidado descrito no salmo.",
+    "sources": [
+      "https://ebible.org/engwebp/PSA023.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 201,
+    "narrative_sha256": "06f4e0bb92ea92604a80d92de7139452d85540a91d8d9fee3263728a8b71e58e",
+    "narrative_words": 448,
+    "part_words": [
+      152,
+      147,
+      149
+    ],
+    "cover_alt": "Céu estrelado acima das colinas e de um poeta com sua harpa",
+    "sources": [
+      "https://ebible.org/engwebp/PSA019.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 202,
+    "narrative_sha256": "e29be947c6f1282368d0d5535b20f5c2ac401bde2261df4641f7fb339b0b3892",
+    "narrative_words": 450,
+    "part_words": [
+      149,
+      150,
+      151
+    ],
+    "cover_alt": "Árvore frondosa com frutos junto a um riacho",
+    "sources": [
+      "https://ebible.org/engwebp/PSA001.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 203,
+    "narrative_sha256": "548939a31957b7a166c47fd895c7c68a410d3882e9ede245b063ad1e9a3e0857",
+    "narrative_words": 451,
+    "part_words": [
+      152,
+      152,
+      147
+    ],
+    "cover_alt": "Davi agradece em meio a uma paisagem florida",
+    "sources": [
+      "https://ebible.org/engwebp/PSA103.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 204,
+    "narrative_sha256": "2860d7a1292b9ef517d091ffb514c0908cc83475edbd36a36a3677e3dac17766",
+    "narrative_words": 450,
+    "part_words": [
+      148,
+      153,
+      149
+    ],
+    "cover_alt": "Uma casa antiga iluminada por uma lamparina ao anoitecer",
+    "sources": [
+      "https://ebible.org/engwebp/PSA004.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 205,
+    "narrative_sha256": "5c0022ba8e6f30601bf65d96fee1e9d8734c17eea40f3e460e1b9ea258f35826",
+    "narrative_words": 456,
+    "part_words": [
+      153,
+      149,
+      154
+    ],
+    "cover_alt": "Davi observa o horizonte luminoso sobre o mar",
+    "sources": [
+      "https://ebible.org/engwebp/PSA139.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 206,
+    "narrative_sha256": "04c0e4dfed72bb5566e473c495e80881a7bbcd92b1f7b8864c8a56b66478d1f0",
+    "narrative_words": 449,
+    "part_words": [
+      149,
+      149,
+      151
+    ],
+    "cover_alt": "Uma lamparina ilumina um caminho de pedras",
+    "sources": [
+      "https://ebible.org/engwebp/PSA119.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 207,
+    "narrative_sha256": "2fcafcbcbca1ee8aa3dbf1117fe958269509231363dff0d6d8f8ac28ccd6e1f2",
+    "narrative_words": 455,
+    "part_words": [
+      153,
+      151,
+      151
+    ],
+    "cover_alt": "Uma família de viajantes contempla as montanhas",
+    "sources": [
+      "https://ebible.org/engwebp/PSA121.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 208,
+    "narrative_sha256": "b02f756afd6e84261a23bdeb414eb25562b1450aa73624c51d51af42781672eb",
+    "narrative_words": 456,
+    "part_words": [
+      149,
+      153,
+      154
+    ],
+    "cover_alt": "Famílias se aproximam dos portões de Jerusalém",
+    "sources": [
+      "https://ebible.org/engwebp/PSA122.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 209,
+    "narrative_sha256": "840c576ea57dbd16cdd747441783c7c8411fadac9697f3c78abe0395264d8b03",
+    "narrative_words": 451,
+    "part_words": [
+      149,
+      151,
+      151
+    ],
+    "cover_alt": "Uma paisagem reúne montanhas, mar, árvores e aves",
+    "sources": [
+      "https://ebible.org/engwebp/PSA148.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 210,
+    "narrative_sha256": "1b06b9eb11ae6d570a093fdb209fed6a836a90f078638f94e8892dc600cbb4f6",
+    "narrative_words": 445,
+    "part_words": [
+      151,
+      145,
+      149
+    ],
+    "cover_alt": "Duas crianças conversam com calma num pátio",
+    "sources": [
+      "https://ebible.org/engwebp/PRO15.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 211,
+    "narrative_sha256": "22ed7a13e7cc458fd00821d1f0b5cf547928f68a68c12782becb2adb07ef826f",
+    "narrative_words": 455,
+    "part_words": [
+      151,
+      154,
+      150
+    ],
+    "cover_alt": "Formigas carregam pequenos grãos por uma trilha",
+    "sources": [
+      "https://ebible.org/engwebp/PRO06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 212,
+    "narrative_sha256": "a69ef69f2304cf0475f581035df457c55c0e5a19447a070cfcf509a7f7a90848",
+    "narrative_words": 459,
+    "part_words": [
+      152,
+      153,
+      154
+    ],
+    "cover_alt": "Dois amigos compartilham uma conversa acolhedora",
+    "sources": [
+      "https://ebible.org/engwebp/PRO17.htm",
+      "https://ebible.org/engwebp/PRO27.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 213,
+    "narrative_sha256": "38db677945e98afd07b51babd3a5c7b6e98de32a9879e7cabb6276e2b1065a82",
+    "narrative_words": 451,
+    "part_words": [
+      151,
+      149,
+      151
+    ],
+    "cover_alt": "Um adulto ensina com carinho junto a uma árvore",
+    "sources": [
+      "https://ebible.org/engwebp/PRO03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 214,
+    "narrative_sha256": "0bd81b71d3e72766e138aa68c136375e7d66a5ae98ac0542922b860129e399a7",
+    "narrative_words": 455,
+    "part_words": [
+      151,
+      151,
+      153
+    ],
+    "cover_alt": "Uma avó encoraja uma criança durante um aprendizado",
+    "sources": [
+      "https://ebible.org/engwebpb/PRO12.htm",
+      "https://ebible.org/engwebpb/PRO16.htm",
+      "https://ebible.org/engwebpb/PRO18.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 215,
+    "narrative_sha256": "3c1ff026620a83a626ddd8e1d87b9667bfee7fe75e80fa34ec952567d4a06a66",
+    "narrative_words": 458,
+    "part_words": [
+      153,
+      153,
+      152
+    ],
+    "cover_alt": "Uma família cultiva um campo sob a luz da manhã",
+    "sources": [
+      "https://ebible.org/engwebpb/ECC03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 216,
+    "narrative_sha256": "dfc71e6048a2a1babccb68a5957373ba643897fbddd33c03276e01d81cbd21e9",
+    "narrative_words": 456,
+    "part_words": [
+      153,
+      148,
+      155
+    ],
+    "cover_alt": "Duas pessoas ajudam uma à outra numa caminhada",
+    "sources": [
+      "https://ebible.org/engwebpb/ECC04.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 217,
+    "narrative_sha256": "c7b2f42d4bdab9113976af6666699df15121282b9090fce1b54246fcffee6ffe",
+    "narrative_words": 446,
+    "part_words": [
+      150,
+      146,
+      150
+    ],
+    "cover_alt": "Isaías contempla uma luz intensa no templo de sua visão",
+    "sources": [
+      "https://ebible.org/engwebp/ISA06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 218,
+    "narrative_sha256": "96efd70f8b9cd41cba80ee2c135330292f8db69b39b83524371fe133b79f47fc",
+    "narrative_words": 454,
+    "part_words": [
+      153,
+      151,
+      150
+    ],
+    "cover_alt": "Uma criança e animais tranquilos ilustram a esperança de Isaías",
+    "sources": [
+      "https://ebible.org/engwebp/ISA09.htm",
+      "https://ebible.org/engwebp/ISA11.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 219,
+    "narrative_sha256": "d161b394a169872b28c409bff7bc27131b4796442005aaa8ef9ad910f93854db",
+    "narrative_words": 457,
+    "part_words": [
+      150,
+      151,
+      156
+    ],
+    "cover_alt": "Uma águia abre as asas sobre montanhas luminosas",
+    "sources": [
+      "https://ebible.org/engwebp/ISA40.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 220,
+    "narrative_sha256": "7cf5a64da975ec42676818914ac18ad019b657dbb4679f800c7fe7801d1d53c1",
+    "narrative_words": 450,
+    "part_words": [
+      149,
+      150,
+      151
+    ],
+    "cover_alt": "Jeremias contempla um ramo de amendoeira em flor",
+    "sources": [
+      "https://ebible.org/engwebp/JER01.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 221,
+    "narrative_sha256": "e8b1a440d5ae001569cfd1d128ce17ac4f9699b6516f62c346351ec903ba3932",
+    "narrative_words": 451,
+    "part_words": [
+      153,
+      147,
+      151
+    ],
+    "cover_alt": "Jeremias observa o oleiro trabalhando com o barro",
+    "sources": [
+      "https://ebible.org/engwebp/JER18.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 222,
+    "narrative_sha256": "45369af54bcba7a520d1919ee5237df83f9934f079b8bf36912c5e6efad6d04b",
+    "narrative_words": 456,
+    "part_words": [
+      149,
+      151,
+      156
+    ],
+    "cover_alt": "Jeremias entrega documentos a Baruque junto a um vaso",
+    "sources": [
+      "https://ebible.org/engwebp/JER32.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 223,
+    "narrative_sha256": "5b4a53208ba643fd15cf90c9eb7e307100f2115a087f78a5117a47b68e4491d9",
+    "narrative_words": 445,
+    "part_words": [
+      145,
+      150,
+      150
+    ],
+    "cover_alt": "Ebede-Meleque organiza cordas e tecidos para ajudar Jeremias",
+    "sources": [
+      "https://ebible.org/engwebp/JER38.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 224,
+    "narrative_sha256": "f02a0a2ba1c35ce7722c8910b339df43e80afcb660e1b4bf5a64365399b5e155",
+    "narrative_words": 452,
+    "part_words": [
+      150,
+      147,
+      155
+    ],
+    "cover_alt": "Uma família exilada cuida de um jardim na Babilônia",
+    "sources": [
+      "https://ebible.org/engwebp/JER29.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 225,
+    "narrative_sha256": "800cf881a5db794349516c9a96f49a40945141a4f04e449133d599082c7dc070",
+    "narrative_words": 443,
+    "part_words": [
+      147,
+      146,
+      150
+    ],
+    "cover_alt": "Ezequiel contempla uma multidão de pé em sua visão",
+    "sources": [
+      "https://ebible.org/engwebp/EZK37.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 226,
+    "narrative_sha256": "94ef5ccd1f20ff6ad4d5127557b9d5f8c5516edcbdcc8da0ce9c75fad2c37857",
+    "narrative_words": 449,
+    "part_words": [
+      150,
+      145,
+      154
+    ],
+    "cover_alt": "Ezequiel contempla um rio cercado de árvores frutíferas",
+    "sources": [
+      "https://biblehub.com/web/ezekiel/47.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 227,
+    "narrative_sha256": "e5153a22818c888618ef4e3e9f1b4f3f372ad21fca43bcc19a77205c0c67df6d",
+    "narrative_words": 450,
+    "part_words": [
+      145,
+      150,
+      155
+    ],
+    "cover_alt": "Daniel e três amigos compartilham uma refeição simples",
+    "sources": [
+      "https://ebible.org/engwebp/DAN01.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 228,
+    "narrative_sha256": "5b8b67b35b311a9794ac41b0837a8949fda06cede48c23f81d792a259e4cb975",
+    "narrative_words": 456,
+    "part_words": [
+      151,
+      149,
+      156
+    ],
+    "cover_alt": "Daniel explica ao rei a mensagem do sonho",
+    "sources": [
+      "https://ebible.org/engwebp/DAN02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 229,
+    "narrative_sha256": "906bc8caeb945653f55e2127b6a124c173759b5414bc2d6e8440a5f7e8e90ac6",
+    "narrative_words": 444,
+    "part_words": [
+      145,
+      146,
+      153
+    ],
+    "cover_alt": "Três amigos permanecem unidos com coragem",
+    "sources": [
+      "https://ebible.org/engwebp/DAN03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 230,
+    "narrative_sha256": "58cf2734521dfd53629dbbd5b8eaa12951f8ced8c8342a1815ad4abdc62ce268",
+    "narrative_words": 457,
+    "part_words": [
+      151,
+      147,
+      159
+    ],
+    "cover_alt": "Uma grande árvore abriga aves e animais no sonho",
+    "sources": [
+      "https://ebible.org/engwebp/DAN04.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 231,
+    "narrative_sha256": "a3dffcfc67e3a15511acc0b0fb85b2ba5050f20e9f91d39ba94f8dd938eb4539",
+    "narrative_words": 462,
+    "part_words": [
+      154,
+      151,
+      157
+    ],
+    "cover_alt": "Joel anuncia esperança a pessoas de todas as idades",
+    "sources": [
+      "https://ebible.org/engwebp/JOL02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 232,
+    "narrative_sha256": "6fd7f4c77325c81d08d54b2d0652763de65d0230c022262d83562017235881fe",
+    "narrative_words": 462,
+    "part_words": [
+      151,
+      154,
+      157
+    ],
+    "cover_alt": "Amós fala sobre justiça perto de um rio",
+    "sources": [
+      "https://ebible.org/engwebp/AMO05.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 233,
+    "narrative_sha256": "40741526a509b29e80406e4ddd5df7d43694589b6011e5b76dbecfb43ed3d24f",
+    "narrative_words": 453,
+    "part_words": [
+      150,
+      149,
+      154
+    ],
+    "cover_alt": "Miqueias conversa com famílias junto a um caminho",
+    "sources": [
+      "https://ebible.org/engwebp/MIC06.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 234,
+    "narrative_sha256": "4b101b82d65bf0477b92a0b5a3f9af7dfac35385aa532128c1dfbaeac931a0b2",
+    "narrative_words": 466,
+    "part_words": [
+      150,
+      158,
+      158
+    ],
+    "cover_alt": "Habacuque contempla uma montanha com confiança",
+    "sources": [
+      "https://ebible.org/engwebp/HAB03.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 235,
+    "narrative_sha256": "2e5bb61a7b06cfc0b6bf538376d82f45fd069a71e762fd4adbb4dd31bc3e6af8",
+    "narrative_words": 460,
+    "part_words": [
+      152,
+      146,
+      162
+    ],
+    "cover_alt": "Ageu encoraja o povo junto à obra do templo",
+    "sources": [
+      "https://ebible.org/engwebp/HAG01.htm",
+      "https://ebible.org/engwebp/HAG02.htm"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 236,
+    "narrative_sha256": "552ef44afc7bc2be37fa8694748906ced84c5c7a8d66890afd0ec14bf32bcfb6",
+    "narrative_words": 461,
+    "part_words": [
+      159,
+      151,
+      151
+    ],
+    "cover_alt": "Zacarias e Isabel sorriem na entrada de sua casa.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 237,
+    "narrative_sha256": "0187e5058bfbbe0ae3b0a41a4bd237244979c24d4bf6a760ea7c0c97ce9546e1",
+    "narrative_words": 458,
+    "part_words": [
+      149,
+      151,
+      158
+    ],
+    "cover_alt": "Maria e Isabel se abraçam em um pátio ensolarado.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 238,
+    "narrative_sha256": "f3c329d19433e5abf2381ff07ff4b85247f12ff0b7395d7bf52fe64bc82f830e",
+    "narrative_words": 453,
+    "part_words": [
+      150,
+      150,
+      153
+    ],
+    "cover_alt": "Zacarias e Isabel apresentam o bebê João com alegria.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 239,
+    "narrative_sha256": "66f57659444fc185f6b9a548d212bf7e3a8a1234a5f9b20aaa25a27bfbe29609",
+    "narrative_words": 465,
+    "part_words": [
+      156,
+      152,
+      157
+    ],
+    "cover_alt": "Simeão segura Jesus diante de Maria e José.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 240,
+    "narrative_sha256": "0f523e8221fb001bfca2c5791aaa9b093b5277b45cd75a804e36fb72cd277f80",
+    "narrative_words": 470,
+    "part_words": [
+      160,
+      154,
+      156
+    ],
+    "cover_alt": "A mulher agradece a Jesus em uma sinagoga acolhedora.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 241,
+    "narrative_sha256": "15440605b01d230fac63c0dbbf8b2099db0f649eee5c3bd85e2f1d7b8072cb53",
+    "narrative_words": 483,
+    "part_words": [
+      158,
+      164,
+      161
+    ],
+    "cover_alt": "José e Maria viajam com Jesus por um caminho tranquilo.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 242,
+    "narrative_sha256": "376384b403dc6e9f21c8803c45ab10f454417885fc16a9da3f2b7ade03d81bac",
+    "narrative_words": 475,
+    "part_words": [
+      157,
+      156,
+      162
+    ],
+    "cover_alt": "João conversa com pessoas à margem do Jordão.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 243,
+    "narrative_sha256": "8241fab7f5775c86e1bd46c804cc3bd86f9447a83daac57a8d54e815d201015e",
+    "narrative_words": 482,
+    "part_words": [
+      159,
+      165,
+      158
+    ],
+    "cover_alt": "Jesus caminha com serenidade pelo deserto.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 244,
+    "narrative_sha256": "d8ccbe0941e982e8009fd225fcc7b483670cf9cc713251ec1e851fef4327cbd3",
+    "narrative_words": 470,
+    "part_words": [
+      157,
+      157,
+      156
+    ],
+    "cover_alt": "André apresenta Simão a Jesus em um caminho da Galileia.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 245,
+    "narrative_sha256": "0b5e4ce237348e5e9d76fe9e38a97d4c1d247cd12f0c05fe312c51139e441ce7",
+    "narrative_words": 476,
+    "part_words": [
+      155,
+      163,
+      158
+    ],
+    "cover_alt": "Jesus recebe Filipe e Natanael perto de uma figueira.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 246,
+    "narrative_sha256": "5fba61154f73e219078907d3d265e5bce25886f17d152c5546807a9cb5fb4ca5",
+    "narrative_words": 477,
+    "part_words": [
+      159,
+      160,
+      158
+    ],
+    "cover_alt": "Mateus se levanta para atender ao convite de Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.9.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 247,
+    "narrative_sha256": "b42be637a2df0eee81249aab0f2db0d923e49d2f5953894e7a53b544e65b07c4",
+    "narrative_words": 471,
+    "part_words": [
+      154,
+      161,
+      156
+    ],
+    "cover_alt": "Jesus apresenta um rolo aberto à comunidade de Nazaré.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 248,
+    "narrative_sha256": "38c83bc1ea6c441421a05b6b9352dd43b6efbd652b9fa7bd240bd518bfe7f6ba",
+    "narrative_words": 482,
+    "part_words": [
+      159,
+      162,
+      161
+    ],
+    "cover_alt": "Quatro amigos se alegram ao lado do companheiro que agora caminha.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 249,
+    "narrative_sha256": "d730c9ccf41fc1247973eb62f1701745547105894354d62cfc57fd067ca3e0c2",
+    "narrative_words": 490,
+    "part_words": [
+      161,
+      165,
+      164
+    ],
+    "cover_alt": "Um centurião acolhe seu servo recuperado.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.7.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 250,
+    "narrative_sha256": "cf82582905f39a317c3a07d1f770b1534b09e5c1729507d3b7d3a8a8d12f9726",
+    "narrative_words": 484,
+    "part_words": [
+      156,
+      167,
+      161
+    ],
+    "cover_alt": "Jesus acolhe a sogra de Simão depois de sua recuperação.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 251,
+    "narrative_sha256": "7b0cb01101b3f70e11f2908d7407a4bd248b52e88313fa6347b5cb15dbb807e5",
+    "narrative_words": 474,
+    "part_words": [
+      154,
+      158,
+      162
+    ],
+    "cover_alt": "Uma mãe abraça seu filho depois do encontro com Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.7.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 252,
+    "narrative_sha256": "352e7dbca1e2e98c03abe2d73b2beb9e0cda81b8d7c941a22041f6199d160f11",
+    "narrative_words": 479,
+    "part_words": [
+      159,
+      160,
+      160
+    ],
+    "cover_alt": "A filha de Jairo sorri entre seus pais e Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 253,
+    "narrative_sha256": "0e788bc32a04abdce54f62f348ebc89f9023119fdc5352275cca4ae0228946c3",
+    "narrative_words": 469,
+    "part_words": [
+      159,
+      155,
+      155
+    ],
+    "cover_alt": "Jesus acolhe uma mulher com uma palavra de paz.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 254,
+    "narrative_sha256": "a0efc6273b8f63e7be6a13ceee003f924060a2609ae19280ab2beb920d8e4e2d",
+    "narrative_words": 479,
+    "part_words": [
+      158,
+      155,
+      166
+    ],
+    "cover_alt": "Um homem samaritano agradece a Jesus ao lado do caminho.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.17.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 255,
+    "narrative_sha256": "037d7aa02f1837aea09d056ab9ca29e857e6ececf16de537623db7691f3dcc5d",
+    "narrative_words": 480,
+    "part_words": [
+      160,
+      151,
+      169
+    ],
+    "cover_alt": "Bartimeu conversa com Jesus à saída de Jericó.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.10.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 256,
+    "narrative_sha256": "d51590cdb4706ab9aa6c28f0afea0518ab4bfc09f3a7b728e88ec6ddd8a417b5",
+    "narrative_words": 491,
+    "part_words": [
+      165,
+      160,
+      166
+    ],
+    "cover_alt": "Jesus conversa com o homem que agora enxerga.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.9.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 257,
+    "narrative_sha256": "ba71f77eb091aedf8d72edc260ccd29b2ccd82972a05b1b5153fdb2b96f27893",
+    "narrative_words": 484,
+    "part_words": [
+      158,
+      169,
+      157
+    ],
+    "cover_alt": "Jesus e a mulher samaritana conversam junto ao poço.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 258,
+    "narrative_sha256": "d3df7dba0ca43632551984101e390bc5474cd57ace9b03d89e6b527fbe46ca0e",
+    "narrative_words": 488,
+    "part_words": [
+      161,
+      165,
+      162
+    ],
+    "cover_alt": "Jesus e Nicodemos conversam à luz de uma lamparina.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 259,
+    "narrative_sha256": "11f6abff64ac56e053860640e189c112066bc75bc0f9207b9f5b6bc4f9bf8bad",
+    "narrative_words": 490,
+    "part_words": [
+      166,
+      157,
+      167
+    ],
+    "cover_alt": "Jesus conversa com Marta e Maria em uma casa acolhedora.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.10.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 260,
+    "narrative_sha256": "ac9f20bf4e09c224e51772fe64185f60219f3e7c37ef91766510ad274f002775",
+    "narrative_words": 470,
+    "part_words": [
+      155,
+      154,
+      161
+    ],
+    "cover_alt": "Lázaro e suas irmãs se reencontram ao lado de Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.11.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 261,
+    "narrative_sha256": "d93a5b68c656c0b7af3c4dc6cc576807db5c8b87cc4e405c6188b39e0a235e33",
+    "narrative_words": 495,
+    "part_words": [
+      167,
+      161,
+      167
+    ],
+    "cover_alt": "Maria oferece um frasco precioso num gesto de carinho a Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 262,
+    "narrative_sha256": "545d4eb380e99b1976d420b1bf653877de6a5019aa144b0cde12ebd4584c89f2",
+    "narrative_words": 479,
+    "part_words": [
+      159,
+      162,
+      158
+    ],
+    "cover_alt": "Jesus ajuda Pedro a voltar com segurança ao barco.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.14.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 263,
+    "narrative_sha256": "284cd994465fc334ed9528d3d734a248bc2732c306a4f05598820803184b22e1",
+    "narrative_words": 480,
+    "part_words": [
+      158,
+      155,
+      167
+    ],
+    "cover_alt": "Um homem carrega sua esteira após encontrar Jesus.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 264,
+    "narrative_sha256": "2e11400cf41ee70665b197783fea1463a15130ed9687f9711284c58498c8c95d",
+    "narrative_words": 494,
+    "part_words": [
+      167,
+      164,
+      163
+    ],
+    "cover_alt": "Jesus conversa com um homem de maneira próxima e respeitosa.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.7.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 265,
+    "narrative_sha256": "33ebccdbfe4c7d48878f8e039b3e30bca17c6a8218dbe087c6429c77488345bc",
+    "narrative_words": 488,
+    "part_words": [
+      160,
+      163,
+      165
+    ],
+    "cover_alt": "Uma mãe abraça sua filha em um reencontro tranquilo.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.7.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 266,
+    "narrative_sha256": "f19c7e2a62c21b857920a698dc5ad9e9ae030124fe7cf55e7dd680d02f8211c9",
+    "narrative_words": 485,
+    "part_words": [
+      161,
+      161,
+      163
+    ],
+    "cover_alt": "Jesus em luz serena no alto do monte diante de três discípulos.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.9.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 267,
+    "narrative_sha256": "1349dafbc25833c296ca41eac9779e34aec3e9c849321d3366b5f6dcc7cec119",
+    "narrative_words": 470,
+    "part_words": [
+      151,
+      159,
+      160
+    ],
+    "cover_alt": "Pedro segura um peixe junto ao lago e observa uma moeda.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.17.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 268,
+    "narrative_sha256": "846f13b7a344976cf4d32b7ef132326b7d7c8c8ed630b504679d84693c360b92",
+    "narrative_words": 446,
+    "part_words": [
+      149,
+      148,
+      149
+    ],
+    "cover_alt": "Jesus caminha entre ovelhas em um campo tranquilo.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.10.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 269,
+    "narrative_sha256": "891f2264f15d908423e2f8e12a2becddd1952c8f0ba5f0475be54b56c31ae8e5",
+    "narrative_words": 468,
+    "part_words": [
+      156,
+      157,
+      155
+    ],
+    "cover_alt": "Jesus ensina enquanto a luz da manhã atravessa o pátio.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.8.KJV",
+      "https://www.bible.com/bible/1/JHN.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 270,
+    "narrative_sha256": "77dd0e21160e927dbd52a248921db710c6efccd629a098b7506213d6af4af7ee",
+    "narrative_words": 471,
+    "part_words": [
+      155,
+      156,
+      160
+    ],
+    "cover_alt": "Jesus e seus discípulos observam uma videira carregada.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.15.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 271,
+    "narrative_sha256": "99867911bd56034477837a26ea43a91fa8a03b7406db17af74c917f824f9279b",
+    "narrative_words": 475,
+    "part_words": [
+      160,
+      156,
+      159
+    ],
+    "cover_alt": "Jesus ensina no monte sob a luz dourada.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 272,
+    "narrative_sha256": "967d69fa601f511bcd7e695f095801e1c345431a747ff57aeabe2002749340e1",
+    "narrative_words": 479,
+    "part_words": [
+      159,
+      158,
+      162
+    ],
+    "cover_alt": "Uma casa permanece firme sobre uma grande rocha.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.7.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 273,
+    "narrative_sha256": "b533c4b279ba756f4359903625ca91b0b96dadfa2fb95cb7e2d9f95147c4dd4c",
+    "narrative_words": 470,
+    "part_words": [
+      155,
+      157,
+      158
+    ],
+    "cover_alt": "Um semeador espalha sementes num campo.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 274,
+    "narrative_sha256": "5c788c3b9fdd351fb87540cce79cd78982ed9a653521119301993f97c75a98a9",
+    "narrative_words": 474,
+    "part_words": [
+      158,
+      154,
+      162
+    ],
+    "cover_alt": "O dono do campo observa trigo e joio com seus trabalhadores.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 275,
+    "narrative_sha256": "8fea260f117dc1f07f4d6549e24b563e68838d2c3cef3a85632088824fad088c",
+    "narrative_words": 471,
+    "part_words": [
+      153,
+      157,
+      161
+    ],
+    "cover_alt": "Uma grande planta de mostarda abriga pássaros.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 276,
+    "narrative_sha256": "13515b3127e871aa6dc82ea0df6164851ee8e4f87b97c0edef956c85db3a48ca",
+    "narrative_words": 490,
+    "part_words": [
+      160,
+      168,
+      162
+    ],
+    "cover_alt": "Uma mulher prepara massa de pão numa cozinha simples.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 277,
+    "narrative_sha256": "1d56b397054b5a751abbfb1452a17c745acea076d51e2f5e18926b05f28e77f4",
+    "narrative_words": 481,
+    "part_words": [
+      160,
+      158,
+      163
+    ],
+    "cover_alt": "Um homem encontra um pequeno recipiente com um tesouro no campo.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 278,
+    "narrative_sha256": "b232b14ae20505ed3fb8f2315da66e48828b070507d33baf9ddf3ec9ff3be167",
+    "narrative_words": 491,
+    "part_words": [
+      161,
+      162,
+      168
+    ],
+    "cover_alt": "Um comerciante admira uma pérola preciosa.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 279,
+    "narrative_sha256": "b4d7e37ec43de9b78ae0a4193baa11d140b56ab731a62fd7be71657cca98310a",
+    "narrative_words": 488,
+    "part_words": [
+      160,
+      158,
+      170
+    ],
+    "cover_alt": "Pescadores trazem uma rede cheia para a praia.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 280,
+    "narrative_sha256": "058d376461e4330ae456633943c931c6a90c10c223706a8aef5c6b628c0e6e02",
+    "narrative_words": 488,
+    "part_words": [
+      160,
+      162,
+      166
+    ],
+    "cover_alt": "Um filho trabalha na vinha depois de mudar de ideia.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.21.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 281,
+    "narrative_sha256": "5b7e6d65f500127f588986aeed9fa690eea82028cd4d4b1a7c8bd6c6a7fe36fe",
+    "narrative_words": 471,
+    "part_words": [
+      156,
+      155,
+      160
+    ],
+    "cover_alt": "O dono da vinha acolhe trabalhadores ao pôr do sol.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.20.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 282,
+    "narrative_sha256": "dc17d7729fea8852410a0929d901ad006cb4f9dc76fd56799b484af02c1c8460",
+    "narrative_words": 477,
+    "part_words": [
+      158,
+      154,
+      165
+    ],
+    "cover_alt": "Pessoas diferentes compartilham o banquete.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.14.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 283,
+    "narrative_sha256": "a74c97205293d3bb1516b7e238818bd1b0ca27397898e6b974d8dc0db3dea2fc",
+    "narrative_words": 487,
+    "part_words": [
+      159,
+      161,
+      167
+    ],
+    "cover_alt": "Moças com lâmpadas esperam a celebração à noite.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.25.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 284,
+    "narrative_sha256": "7c7c9fe749926987ded841a50d7332a723eaf5e21dfca461ee10d9b3830b53e3",
+    "narrative_words": 494,
+    "part_words": [
+      160,
+      165,
+      169
+    ],
+    "cover_alt": "O senhor conversa com três servos sobre os recursos confiados.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.25.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 285,
+    "narrative_sha256": "546519a36f177d3b89255d0b66d6724c9fe2c9abc3b0dd3082544ec1f222ac0b",
+    "narrative_words": 492,
+    "part_words": [
+      159,
+      169,
+      164
+    ],
+    "cover_alt": "Um amigo entrega pão pela porta durante a noite.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.11.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 286,
+    "narrative_sha256": "117492152ef00b6dcff1cf40bd1749fc0e3a34b9d3b55d5118b1479a33a3d04b",
+    "narrative_words": 488,
+    "part_words": [
+      161,
+      164,
+      163
+    ],
+    "cover_alt": "A viúva pede justiça com firmeza e dignidade.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.18.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 287,
+    "narrative_sha256": "40a09ed9cdbc02e58f1968d63b9c3ed517721d6a86d60fcc6870e4d3c997cb90",
+    "narrative_words": 484,
+    "part_words": [
+      163,
+      157,
+      164
+    ],
+    "cover_alt": "Um homem ora humildemente no templo.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.18.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 288,
+    "narrative_sha256": "834c1c981be0c20fbc1b110dd5d9a42ca036b2bdbcdec858eea5590d2ed71560",
+    "narrative_words": 497,
+    "part_words": [
+      162,
+      166,
+      169
+    ],
+    "cover_alt": "O homem rico contempla seus grandes celeiros.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 289,
+    "narrative_sha256": "2eac0a498627e0120e83e8ff1ac3b4c6ac01286a09562638f7cd2e8b25d80874",
+    "narrative_words": 485,
+    "part_words": [
+      158,
+      160,
+      167
+    ],
+    "cover_alt": "Uma mulher encontra a moeda que procurava.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.15.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 290,
+    "narrative_sha256": "02ac0c73bf688b5e731acd1ea494830be7743261e5533eee9ab779d209ee073b",
+    "narrative_words": 495,
+    "part_words": [
+      161,
+      166,
+      168
+    ],
+    "cover_alt": "Um servo recebe a compaixão do rei.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.18.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 291,
+    "narrative_sha256": "99b84944f427cef8ac11df22d55b7ad0673fb159f4642773c74dd0e53d18e932",
+    "narrative_words": 487,
+    "part_words": [
+      161,
+      163,
+      163
+    ],
+    "cover_alt": "O trabalhador cuida de uma figueira na vinha.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 292,
+    "narrative_sha256": "6655ce30cb12b35476b7c48d3e1c6138b3e27041ece0d4aa4394559ef61b782e",
+    "narrative_words": 479,
+    "part_words": [
+      162,
+      159,
+      158
+    ],
+    "cover_alt": "Jesus conversa com seus amigos num campo florido.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.6.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 293,
+    "narrative_sha256": "39713c3bd2d4b94a4554074c25b6f07f2d8b568698e404ac3cfe6bfe79df69cc",
+    "narrative_words": 489,
+    "part_words": [
+      162,
+      163,
+      164
+    ],
+    "cover_alt": "Jesus ensina seus discípulos a orar.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.6.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 294,
+    "narrative_sha256": "1ab79cb468567aea0110ea051468d724c1c7f262170f0dc5905280538f81f6b7",
+    "narrative_words": 489,
+    "part_words": [
+      159,
+      167,
+      163
+    ],
+    "cover_alt": "A viúva oferece duas pequenas moedas no templo.",
+    "sources": [
+      "https://www.bible.com/bible/1/MRK.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 295,
+    "narrative_sha256": "a618701cc4c60bba8bdbcf2a0fbc75712accd4338c7c73298744aab02a956e62",
+    "narrative_words": 491,
+    "part_words": [
+      164,
+      162,
+      165
+    ],
+    "cover_alt": "Jesus lava os pés de Pedro com cuidado.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 296,
+    "narrative_sha256": "71b0b6fb59857761aba70e44fa3cb9f7d73a2a9303f80f391ff6f63725012888",
+    "narrative_words": 484,
+    "part_words": [
+      160,
+      161,
+      163
+    ],
+    "cover_alt": "Jesus ora entre as oliveiras durante a noite.",
+    "sources": [
+      "https://www.bible.com/bible/1/MAT.26.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 297,
+    "narrative_sha256": "d23b3660d0716473d578422dbd42f5f0a4f59dacdf73fe56b1ff255448b75198",
+    "narrative_words": 504,
+    "part_words": [
+      171,
+      165,
+      168
+    ],
+    "cover_alt": "Pedro ouve o galo e percebe seu erro.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.22.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 298,
+    "narrative_sha256": "0294b2405cda046f3b5e45505fc99e012e8f27576443dd7cd960fc77e3b3f533",
+    "narrative_words": 492,
+    "part_words": [
+      167,
+      163,
+      162
+    ],
+    "cover_alt": "Jesus caminha com dois discípulos em direção a Emaús.",
+    "sources": [
+      "https://www.bible.com/bible/1/LUK.24.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 299,
+    "narrative_sha256": "ad0eea257108f6b758dc59005e0e22686da23153d6bb96a7ca5835f9ff76c138",
+    "narrative_words": 488,
+    "part_words": [
+      165,
+      159,
+      164
+    ],
+    "cover_alt": "Jesus acolhe Tomé num encontro de paz.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.20.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 300,
+    "narrative_sha256": "2f49004997cb8a6d8934018695e2671942d3d0de9ed70a8e13d76e7b145ff24f",
+    "narrative_words": 485,
+    "part_words": [
+      163,
+      156,
+      166
+    ],
+    "cover_alt": "Jesus oferece café da manhã aos amigos na praia.",
+    "sources": [
+      "https://www.bible.com/bible/1/JHN.21.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 301,
+    "narrative_sha256": "4076226589c51412e64eb91dc11f951b1be38e0d1944e64397019a80e4005f01",
+    "narrative_words": 460,
+    "part_words": [
+      156,
+      151,
+      153
+    ],
+    "cover_alt": "Os discípulos reunidos em uma casa de Jerusalém, com pequenas luzes semelhantes a chamas sobre suas cabeças, celebram com admiração e serenidade.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.2"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 302,
+    "narrative_sha256": "48fffcb7d2a6300499a54f866a1b2496d3244cac3de70fb2047a9c66a9d18047",
+    "narrative_words": 466,
+    "part_words": [
+      155,
+      149,
+      162
+    ],
+    "cover_alt": "Pedro, de túnica ferrugem e manto creme, fala a uma multidão atenta em um pátio de Jerusalém sob luz dourada.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.2"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 303,
+    "narrative_sha256": "e9ac4ace42a1913b6713a8e76fa8fd658614e4aec855cca2e33981d88a03b0d0",
+    "narrative_words": 471,
+    "part_words": [
+      156,
+      155,
+      160
+    ],
+    "cover_alt": "Uma comunidade do primeiro século compartilha pão e frutas em mesas simples de um pátio acolhedor, com adultos e crianças sorrindo.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.2"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 304,
+    "narrative_sha256": "b40c967e412d094e39b4f8e5b4927f9cd11afc0902d49d80befdf187ccdff1a3",
+    "narrative_words": 477,
+    "part_words": [
+      156,
+      158,
+      163
+    ],
+    "cover_alt": "Pedro estende a mão a um homem adulto que está se levantando junto à grande Porta Formosa de pedra, enquanto João acompanha com alegria.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.3"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 305,
+    "narrative_sha256": "a2ee03cb4681b6671c52625a10ae52a33b5e7a72e2c1f25f514c37b05323999c",
+    "narrative_words": 470,
+    "part_words": [
+      160,
+      153,
+      157
+    ],
+    "cover_alt": "Pedro e João conversam com firmeza diante de anciãos em uma sala de pedra, sem armas visíveis nem agressão.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.4"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 306,
+    "narrative_sha256": "fa8b62cc5b8c7a9ac8fd9438bd9453b64ced7a24d915bdbebe95419d7b5e3b44",
+    "narrative_words": 470,
+    "part_words": [
+      158,
+      155,
+      157
+    ],
+    "cover_alt": "Uma comunidade de discípulos ora em roda dentro de uma casa de pedra, unida e serena, sob uma luz acolhedora.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.4"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 307,
+    "narrative_sha256": "762ea6f1ef9b00ab0a4893e37f478d7c9589b8e6c5769523e7782af6bc58a54c",
+    "narrative_words": 481,
+    "part_words": [
+      156,
+      158,
+      167
+    ],
+    "cover_alt": "Barnabé, homem de barba castanha e túnica verde-oliva, entrega uma pequena bolsa de moedas a apóstolos em uma casa simples, com serenidade.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.4"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 308,
+    "narrative_sha256": "cfcf47ccd718cab10572c0350b61912a4f1de1a921aa6c58417d9d8069dac650",
+    "narrative_words": 482,
+    "part_words": [
+      159,
+      154,
+      169
+    ],
+    "cover_alt": "Sete homens de diferentes aparências recebem uma oração de envio dos apóstolos em um pátio, com uma comunidade atenta ao redor.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.6"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 309,
+    "narrative_sha256": "b1659f82590c4bbc2e888582f6e44c3c56d0eed022636b7234b5ab0ffe18ca32",
+    "narrative_words": 477,
+    "part_words": [
+      158,
+      157,
+      162
+    ],
+    "cover_alt": "Estêvão olha com serenidade para uma luz suave no céu, em um jardim de pedras fora de Jerusalém, sem agressores nem violência.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.7"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 310,
+    "narrative_sha256": "cc624f1f0777bd439bc8ac60dbfe54ebfd459e0ee9d767a4af6ffbbff177362f",
+    "narrative_words": 494,
+    "part_words": [
+      162,
+      159,
+      173
+    ],
+    "cover_alt": "Filipe fala de Jesus a uma comunidade samaritana alegre em uma praça de pedra com oliveiras ao fundo.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.8"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 311,
+    "narrative_sha256": "97d6f539a74af8bb2dfd8d3a11a8bfb8cbdef07687b50754478ef642d2082b7b",
+    "narrative_words": 486,
+    "part_words": [
+      163,
+      161,
+      162
+    ],
+    "cover_alt": "Filipe e um dignitário etíope de pele escura conversam lado a lado em uma carruagem antiga parada junto a uma estrada, com um rolo aberto entre eles.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.8"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 312,
+    "narrative_sha256": "f1a929d63a70197bec76e193334b191fe5c2a6936ba0ef39654ae3aaedfdca47",
+    "narrative_words": 473,
+    "part_words": [
+      156,
+      158,
+      159
+    ],
+    "cover_alt": "Saulo está protegido dentro de um grande cesto junto à base de uma muralha de Damasco à noite; amigos adultos o ajudam, em uma cena serena sem vertigem.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.9"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 313,
+    "narrative_sha256": "fafbd0fb43ca63995c33bf02fba1fb75cbd9fdd5fae57e77b52c1e541f35dbea",
+    "narrative_words": 474,
+    "part_words": [
+      153,
+      160,
+      161
+    ],
+    "cover_alt": "Barnabé apresenta Saulo a Pedro e outros apóstolos em um pátio tranquilo, criando uma conversa respeitosa entre os homens.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.9"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 314,
+    "narrative_sha256": "767e21c4a28e017e7b2fa75a40b1ae763c382af188477f1e73a9865b1127c0be",
+    "narrative_words": 500,
+    "part_words": [
+      167,
+      161,
+      172
+    ],
+    "cover_alt": "Pedro visita Eneias, um homem adulto de barba curta e túnica verde, que se levanta ao lado de uma cama simples com expressão de admiração.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.9"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 315,
+    "narrative_sha256": "d2eafb95d0bd5a35ea6cc13055340234100b18d536c7a187d95d0a342a6cd554",
+    "narrative_words": 484,
+    "part_words": [
+      164,
+      160,
+      160
+    ],
+    "cover_alt": "Tabita, mulher adulta de pele oliva e cabelos escuros cobertos por lenço azul, costura uma túnica junto a amigas em uma casa acolhedora de Jope.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.9"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 316,
+    "narrative_sha256": "90904c5160bd18da83f760da33951157b48d19580263b024942679bb07f01801",
+    "narrative_words": 496,
+    "part_words": [
+      161,
+      172,
+      163
+    ],
+    "cover_alt": "Pedro e Cornélio se cumprimentam à entrada de uma casa romana em Cesareia, com famílias de origens diferentes reunidas em um pátio.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.10"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 317,
+    "narrative_sha256": "da62382cca0bcc50379b0cb621edcd92613c9facc917a42546c1313be21a656b",
+    "narrative_words": 476,
+    "part_words": [
+      154,
+      158,
+      164
+    ],
+    "cover_alt": "Barnabé e Saulo ensinam um grupo diverso de adultos e crianças em um pátio de Antioquia, com rolos das Escrituras sem letras legíveis.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.11"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 318,
+    "narrative_sha256": "d1ea88811f1aac17ab6863ba0bc9a25bf3c82992847a13e2d399fd217604d1b4",
+    "narrative_words": 486,
+    "part_words": [
+      158,
+      166,
+      162
+    ],
+    "cover_alt": "Discípulos de Antioquia entregam bolsas e cestos a Barnabé e Saulo para levar ajuda à Judeia, com expressão de cuidado e cooperação.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.11"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 319,
+    "narrative_sha256": "11605855ec8f26b4bc43296d7aec19a99119d4b753e89d0a605d9525cf0a694d",
+    "narrative_words": 489,
+    "part_words": [
+      166,
+      160,
+      163
+    ],
+    "cover_alt": "Pedro, livre, está diante de uma porta de madeira aberta à noite, recebido por Rode e amigos surpresos em uma casa acolhedora.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.12"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 320,
+    "narrative_sha256": "5ec51f0b469095f9eed9e6220c083fc7bc152fdc73c246205b7979302b09ef01",
+    "narrative_words": 479,
+    "part_words": [
+      165,
+      154,
+      160
+    ],
+    "cover_alt": "Barnabé e Saulo recebem uma oração de envio de líderes diversos na comunidade de Antioquia, com mãos apoiadas respeitosamente em seus ombros.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.13"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 321,
+    "narrative_sha256": "bd802095eb42221180f9ab67d07010827185739a644e68c1780447a3c316b9db",
+    "narrative_words": 490,
+    "part_words": [
+      159,
+      161,
+      170
+    ],
+    "cover_alt": "Paulo e Barnabé conversam com o governador Sérgio Paulo em um pátio romano de Pafos, com atenção e respeito.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.13"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 322,
+    "narrative_sha256": "5b75de9619b8a22b00da0ca72a3c89cb87284d08802771dca67a38f49fe735e7",
+    "narrative_words": 483,
+    "part_words": [
+      160,
+      161,
+      162
+    ],
+    "cover_alt": "Paulo e Barnabé conversam com uma multidão diversa em Antioquia da Pisídia, diante de construções antigas e colinas verdes.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.13"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 323,
+    "narrative_sha256": "ead218d3e0a5a92b1a7487bb30be674eb5acb7bcdc4001f18c70c71466185581",
+    "narrative_words": 499,
+    "part_words": [
+      168,
+      165,
+      166
+    ],
+    "cover_alt": "Paulo e Barnabé fazem gestos respeitosos para interromper uma homenagem exagerada em Listra, com moradores segurando grinaldas, sem sacrifício ou violência.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.14"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 324,
+    "narrative_sha256": "9bd9f107620a17a63f1bf9167da615954bd49c249f4b1b4ec48417092ce76725",
+    "narrative_words": 482,
+    "part_words": [
+      158,
+      163,
+      161
+    ],
+    "cover_alt": "Apóstolos e líderes conversam em roda em Jerusalém, com Paulo e Barnabé presentes e um rolo sobre uma mesa, em clima de atenção.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.15"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 325,
+    "narrative_sha256": "cddef77273072e9f4ef5415cb093abd1ad7ac549ff42a49f8818a578bd291ae5",
+    "narrative_words": 489,
+    "part_words": [
+      164,
+      163,
+      162
+    ],
+    "cover_alt": "Paulo conversa com Timóteo, jovem adulto de cabelos castanhos curtos e túnica verde, junto a uma estrada em Listra, com uma pequena bolsa de viagem.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.16",
+      "https://www.sbb.org.br/biblia/ARC/2TI.1",
+      "https://www.sbb.org.br/biblia/ARC/2TI.3"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 326,
+    "narrative_sha256": "065a5a25ee300a1133609729be569d5edc84f9b7c190e2cdd3f301b6aed749f7",
+    "narrative_words": 490,
+    "part_words": [
+      161,
+      164,
+      165
+    ],
+    "cover_alt": "Paulo e seus companheiros observam o porto de Trôade ao amanhecer, com um navio de madeira pronto para a travessia e o mar luminoso ao fundo.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.16"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 327,
+    "narrative_sha256": "77d3075faee63e5c4b6aaeee43f9b8c0c9bb08a788acb56338ea157a6da02eb9",
+    "narrative_words": 487,
+    "part_words": [
+      159,
+      164,
+      164
+    ],
+    "cover_alt": "Lídia, comerciante adulta de cabelos escuros e vestido vinho, escuta Paulo à beira de um rio com outras mulheres, sob árvores e luz suave.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.16"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 328,
+    "narrative_sha256": "06e8907f78b7c8af4a234a0cc309453551f5ec0b428b9d1886e65c5fe2f5ac4d",
+    "narrative_words": 482,
+    "part_words": [
+      164,
+      159,
+      159
+    ],
+    "cover_alt": "Paulo e Silas cantam sentados em uma cela simples à noite, iluminados por uma lamparina, sem ferimentos gráficos, com expressão de esperança.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.16"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 329,
+    "narrative_sha256": "870205b7d2136a3d2c2087aaab5d515590567825f2a4bd3cc6cef07f29096b81",
+    "narrative_words": 459,
+    "part_words": [
+      151,
+      156,
+      152
+    ],
+    "cover_alt": "Paulo e Silas estudam um rolo aberto com moradores de Bereia em uma sala acolhedora, com rostos atentos e sem letras legíveis.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.17"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 330,
+    "narrative_sha256": "5c42d8ed9d25788e7394864aec6363fa0fc781f11c974489c4602fc91d81a657",
+    "narrative_words": 474,
+    "part_words": [
+      156,
+      159,
+      159
+    ],
+    "cover_alt": "Paulo conversa com pensadores atenienses em um terraço de pedra do Areópago, com colunas e a cidade grega ao fundo, sem estátuas em destaque.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.17"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 331,
+    "narrative_sha256": "d98cc379629a8ea176a0c49aeee94aff6b8f5b2fbebe5ba540d924f7b1145f72",
+    "narrative_words": 477,
+    "part_words": [
+      158,
+      160,
+      159
+    ],
+    "cover_alt": "Priscila e Áquila conversam com Apolo ao redor de uma mesa com um rolo aberto em Éfeso, em clima de respeito e aprendizado; somente os três.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.18"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 332,
+    "narrative_sha256": "7cb9481334bf8f83e6f1ff668151d94a0b37409d640b7981c4badf6bfa4a1d77",
+    "narrative_words": 482,
+    "part_words": [
+      156,
+      162,
+      164
+    ],
+    "cover_alt": "Êutico, jovem adulto de cabelos castanhos curtos e túnica verde, está vivo e sentado com segurança entre amigos aliviados numa sala iluminada por lamparinas; Paulo sorri ao lado.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.20"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 333,
+    "narrative_sha256": "74d5d7fd18654ffa95963da9805523baaaacb330fc6054dcc8f0e036efff26d8",
+    "narrative_words": 482,
+    "part_words": [
+      159,
+      164,
+      159
+    ],
+    "cover_alt": "O sobrinho de Paulo, jovem de cabelos escuros curtos e túnica verde, conversa reservadamente com um comandante romano de expressão atenta em uma sala de pedra, sem armas em destaque.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.23"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 334,
+    "narrative_sha256": "9944f9200d3d0b6679d5d8704445d5c1b81d813ca0ab4383cea79d13a87ac9f8",
+    "narrative_words": 477,
+    "part_words": [
+      159,
+      157,
+      161
+    ],
+    "cover_alt": "Paulo reparte pão com passageiros num navio antigo ao amanhecer depois de uma tempestade, entre cordas e madeira molhada, com expressões de esperança e céu ainda nublado.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.27"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 335,
+    "narrative_sha256": "5880f03548181e4b2bfdbbbd57660f6a5e7a7d16b4e9a9bee082997d01c60682",
+    "narrative_words": 478,
+    "part_words": [
+      156,
+      162,
+      160
+    ],
+    "cover_alt": "Paulo e viajantes se aquecem com segurança perto de uma fogueira numa praia de Malta, enquanto moradores oferecem mantos, sob céu clareando após a chuva.",
+    "sources": [
+      "https://www.sbb.org.br/biblia/ARC/ACT.28"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 336,
+    "narrative_sha256": "3009cfae50a5b17e491b810851ed5b87e8e21eec5c3281f76bbb465d2d3135d8",
+    "narrative_words": 500,
+    "part_words": [
+      167,
+      164,
+      169
+    ],
+    "cover_alt": "Paulo escreve uma carta junto a uma janela aberta para um jardim, enquanto uma família lê uma cópia em um pátio próximo, atmosfera de paz e reconciliação.",
+    "sources": [
+      "https://www.bible.com/bible/1/ROM.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 337,
+    "narrative_sha256": "4309810b65b58780b3bc50e0e817ecd9ce69cd1af4334b92a8d6d9fa065d7e6e",
+    "narrative_words": 497,
+    "part_words": [
+      168,
+      161,
+      168
+    ],
+    "cover_alt": "Uma comunidade do primeiro século prepara uma refeição em pátio arborizado: pessoas amassam pão, organizam cestos, servem água e acolhem crianças, diversas tarefas cooperativas.",
+    "sources": [
+      "https://www.bible.com/bible/1/ROM.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 338,
+    "narrative_sha256": "f2b683a09f21110247804e309e5b98d76a92017fe5be4196ee28a2e79b99ddb2",
+    "narrative_words": 503,
+    "part_words": [
+      167,
+      165,
+      171
+    ],
+    "cover_alt": "Em uma rua antiga de Roma, uma mulher oferece água a um viajante cansado enquanto uma criança observa, atmosfera de bondade firme e dignidade, sem conflito físico.",
+    "sources": [
+      "https://www.bible.com/bible/1/ROM.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 339,
+    "narrative_sha256": "f035a6e0faf6ece094f03e1951af0a41d66b8610c4cec548bebed31f980fc746",
+    "narrative_words": 516,
+    "part_words": [
+      168,
+      169,
+      179
+    ],
+    "cover_alt": "Famílias do primeiro século sentadas à mesa com diferentes pratos simples, legumes, pão e frutas, uma pessoa oferece escolha com gesto gentil, ninguém excluído.",
+    "sources": [
+      "https://www.bible.com/bible/1/ROM.14.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 340,
+    "narrative_sha256": "3df6bc241ccc375496c260425c150af47cc8d48d5a0c528bd2b1c33db2e8253e",
+    "narrative_words": 531,
+    "part_words": [
+      174,
+      178,
+      179
+    ],
+    "cover_alt": "Uma família do primeiro século ajuda uma criança a aprender a amassar pão, gestos pacientes e calorosos, mesa rústica detalhada, amor demonstrado no cotidiano.",
+    "sources": [
+      "https://www.bible.com/bible/1/1CO.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 341,
+    "narrative_sha256": "85b1ceaa2f87f161d7e2def79f34ce40eacec2826ae351de3710d155d9ad649b",
+    "narrative_words": 508,
+    "part_words": [
+      169,
+      166,
+      173
+    ],
+    "cover_alt": "Comunidade do primeiro século organiza mantimentos e livros em uma casa iluminada, diferentes pessoas ensinam, arrumam cestos e acolhem visitantes, cooperação sem destaque individual.",
+    "sources": [
+      "https://www.bible.com/bible/1/1CO.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 342,
+    "narrative_sha256": "a25a2a2154373ca35a942c6a7cd508633c9e8c6740f389672a5e387dee874a16",
+    "narrative_words": 506,
+    "part_words": [
+      167,
+      172,
+      167
+    ],
+    "cover_alt": "Um agricultor do primeiro século entrega sementes a uma jovem enquanto uma cesta de pão segue para uma família ao fundo, paisagem fértil e luz dourada, simbolismo de generosidade.",
+    "sources": [
+      "https://www.bible.com/bible/1/2CO.9.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 343,
+    "narrative_sha256": "4b5c275177b8e61f6af2d174331b08a97cb3b5ece3d2146ad4fca8649b2a123a",
+    "narrative_words": 519,
+    "part_words": [
+      171,
+      172,
+      176
+    ],
+    "cover_alt": "Criança e adulto do primeiro século cuidam de uma árvore frutífera em jardim ensolarado, frutos de cores naturais e folhas detalhadas, metáfora visual do fruto do Espírito.",
+    "sources": [
+      "https://www.bible.com/bible/1/GAL.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 344,
+    "narrative_sha256": "48bf06df59f7c5efc1b157e1b179dcedba2966ccff7fc8b1ab874aab0da453a2",
+    "narrative_words": 523,
+    "part_words": [
+      176,
+      173,
+      174
+    ],
+    "cover_alt": "Dois viajantes do primeiro século repartem o peso de cestos em uma trilha, um ajuda o outro com respeito, crianças e adulto próximos, paisagem de oliveiras.",
+    "sources": [
+      "https://www.bible.com/bible/1/GAL.6.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 345,
+    "narrative_sha256": "4256c7c2ab7ada3f2820a718d538af8cc33a05639133b564560dd2cd8519fc95",
+    "narrative_words": 533,
+    "part_words": [
+      175,
+      181,
+      177
+    ],
+    "cover_alt": "Pessoas de diferentes origens do primeiro século entram juntas numa casa de pedra com porta ampla, famílias acolhem visitantes, luz dourada e plantas no pátio, símbolo de pertencimento.",
+    "sources": [
+      "https://www.bible.com/bible/1/EPH.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 346,
+    "narrative_sha256": "80937733d5d3037a34179808b027d56974da081350ee9efcfaf3920946d53180",
+    "narrative_words": 482,
+    "part_words": [
+      164,
+      163,
+      155
+    ],
+    "cover_alt": "Paulo mostra a uma família um escudo e capacete romanos repousando sobre uma mesa ao lado de um rolo, sem arma empunhada, pátio pacífico com oliveira, metáfora da armadura espiritual.",
+    "sources": [
+      "https://www.bible.com/bible/1/EPH.6.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 347,
+    "narrative_sha256": "be0000ebf1af3764b79c03c9f5b9e22dd92d34445b7d43a71dcde61e4b3e93da",
+    "narrative_words": 493,
+    "part_words": [
+      164,
+      164,
+      165
+    ],
+    "cover_alt": "Jesus de túnica clara e manto terracota acolhe pessoas num caminho de vila antiga, inclina-se para ouvir uma criança com respeito, grupo diverso ao redor e luz dourada.",
+    "sources": [
+      "https://www.bible.com/bible/1/PHP.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 348,
+    "narrative_sha256": "874bb26abf4e68325e2253f3cf5b71938b08347eff52370f9d8a06eb686612b3",
+    "narrative_words": 499,
+    "part_words": [
+      163,
+      170,
+      166
+    ],
+    "cover_alt": "Família do primeiro século ora junto a uma janela aberta para céu tranquilo e jardim, uma criança segura a mão de adulto, atmosfera de confiança sem sorrisos forçados.",
+    "sources": [
+      "https://www.bible.com/bible/1/PHP.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 349,
+    "narrative_sha256": "db22516de3218ceffd136d87de515d2229d3a995b854720955f6e187d6de3788",
+    "narrative_words": 506,
+    "part_words": [
+      168,
+      172,
+      166
+    ],
+    "cover_alt": "Paulo recebe uma cesta de alimentos de um mensageiro num aposento simples, expressão agradecida, mesa de madeira e luz dourada, cuidado concreto.",
+    "sources": [
+      "https://www.bible.com/bible/1/PHP.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 350,
+    "narrative_sha256": "b6a8f16209d894c242cb08f51266166d71be475ce211eff245bff00a7facbe86",
+    "narrative_words": 501,
+    "part_words": [
+      160,
+      172,
+      169
+    ],
+    "cover_alt": "Uma criança do primeiro século recebe um manto limpo de um adulto carinhoso antes de sair, cesta de tecidos coloridos e porta para jardim, metáfora de vestir bondade.",
+    "sources": [
+      "https://www.bible.com/bible/1/COL.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 351,
+    "narrative_sha256": "1f58be59005148f8695039fddd2be05e64d26ea1fe50821f87ec94f400f87f14",
+    "narrative_words": 519,
+    "part_words": [
+      173,
+      173,
+      173
+    ],
+    "cover_alt": "Família do primeiro século sentada à mesa ao entardecer compartilha gratidão, uma criança fala e os adultos escutam, lamparina suave e janela para jardim.",
+    "sources": [
+      "https://www.bible.com/bible/1/1TH.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 352,
+    "narrative_sha256": "18accff0785f4214a4ff74c9270656e702bb951639d6f4dfed3a66e5fb5a8fa5",
+    "narrative_words": 510,
+    "part_words": [
+      173,
+      170,
+      167
+    ],
+    "cover_alt": "Timóteo, jovem adulto de cabelos castanhos curtos e túnica verde-azulada, lê um rolo diante de comunidade pequena, rostos atentos, casa antiga luminosa.",
+    "sources": [
+      "https://www.bible.com/bible/1/1TI.4.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 353,
+    "narrative_sha256": "2f81d33b090b77a76b6ec0b1adbc3dbd7da8d39552673f3a711f51ec279fcd30",
+    "narrative_words": 513,
+    "part_words": [
+      168,
+      174,
+      171
+    ],
+    "cover_alt": "Loide, avó de cabelos grisalhos sob véu claro, e Eunice, mãe de cabelo castanho e manto terracota, leem um rolo com Timóteo menino, cena artística doméstica do primeiro século.",
+    "sources": [
+      "https://www.bible.com/bible/1/2TI.1.KJV",
+      "https://www.bible.com/bible/1/2TI.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 354,
+    "narrative_sha256": "8dd9b594790ba1fd351fed5d76db6f29965d24ace4c894d0a2ec6230df8bec6f",
+    "narrative_words": 514,
+    "part_words": [
+      164,
+      175,
+      175
+    ],
+    "cover_alt": "Paulo de túnica azul e manto bege entrega uma carta a Onésimo, jovem adulto de túnica cinza e manto verde, ambos sentados no mesmo nível com dignidade, aposento antigo simples.",
+    "sources": [
+      "https://www.bible.com/bible/1/PHM.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 355,
+    "narrative_sha256": "d552d784dfa83d85bfc0d2bef6a71cd3c8e9091f79a40ea7a1e44be8541bd988",
+    "narrative_words": 506,
+    "part_words": [
+      170,
+      163,
+      173
+    ],
+    "cover_alt": "Família de viajantes antigos caminha entre tendas e colinas sob céu estrelado, direção luminosa distante, metáfora da jornada da fé, sem cidade moderna.",
+    "sources": [
+      "https://www.bible.com/bible/1/HEB.11.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 356,
+    "narrative_sha256": "f0cd67ed049b37c55e6b4a33df086a65c0402435d2fd1a4296df480bbdbd790f",
+    "narrative_words": 502,
+    "part_words": [
+      161,
+      169,
+      172
+    ],
+    "cover_alt": "Jovem viajante do primeiro século percorre caminho entre colinas com adulto ao lado, bolsa pesada deixada num banco seguro, horizonte luminoso, metáfora de perseverança sem competição.",
+    "sources": [
+      "https://www.bible.com/bible/1/HEB.12.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 357,
+    "narrative_sha256": "f5af624f35c4deefb4133872ea86e047e1c9dae86568a72d13ee06747fadc8f1",
+    "narrative_words": 507,
+    "part_words": [
+      169,
+      175,
+      163
+    ],
+    "cover_alt": "Família do primeiro século recebe um viajante adulto na porta de casa, oferece água e lugar para descansar, crianças perto dos responsáveis, atmosfera segura.",
+    "sources": [
+      "https://www.bible.com/bible/1/HEB.13.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 358,
+    "narrative_sha256": "0bcd0748dae7e9d70ad8f17c10e46e6dcdbb23bc43de415416491a3161e1b723",
+    "narrative_words": 507,
+    "part_words": [
+      171,
+      167,
+      169
+    ],
+    "cover_alt": "Um menino e uma menina do primeiro século conversam com adulto atento em pátio, todos escutam sem interromper, espelho antigo de metal repousa sobre mesa ao lado.",
+    "sources": [
+      "https://www.bible.com/bible/1/JAS.1.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 359,
+    "narrative_sha256": "046b207301cddce4a1016e7353ba34d9b7ef02df147694506574b28c1100b643",
+    "narrative_words": 520,
+    "part_words": [
+      166,
+      180,
+      174
+    ],
+    "cover_alt": "Família do primeiro século oferece pão e manto a um visitante adulto com dignidade, criança ajuda segurando cesta pequena, casa antiga luminosa.",
+    "sources": [
+      "https://www.bible.com/bible/1/JAS.2.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 360,
+    "narrative_sha256": "1098e3e442efd039fc02e1cf2b89511e5acb663f73eb63557afc0266fb2fa729",
+    "narrative_words": 507,
+    "part_words": [
+      169,
+      166,
+      172
+    ],
+    "cover_alt": "Um ancião do primeiro século ensina crianças a plantar num jardim, todos colaboram e fazem perguntas, metáfora de sabedoria que semeia paz.",
+    "sources": [
+      "https://www.bible.com/bible/1/JAS.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 361,
+    "narrative_sha256": "7f59f039bb6764c86edd3d15ee9b5d7fcac70fa1f34fcf9bfccbdef4e484a128",
+    "narrative_words": 513,
+    "part_words": [
+      170,
+      172,
+      171
+    ],
+    "cover_alt": "Comunidade do primeiro século acolhe viajantes em pátio, algumas pessoas oferecem água e outras recebem apoio, troca de cuidado com dignidade e luz acolhedora.",
+    "sources": [
+      "https://www.bible.com/bible/1/1PE.4.KJV",
+      "https://www.bible.com/bible/1/1PE.5.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 362,
+    "narrative_sha256": "296ee4d9701a133710686f6cb6aa4192b2b71609cf1aaad08c2d0601a692c25b",
+    "narrative_words": 524,
+    "part_words": [
+      178,
+      170,
+      176
+    ],
+    "cover_alt": "Uma família do primeiro século oferece refeição a vizinha e criança com respeito, todos sentados juntos, coração aberto representado por gestos e não por símbolos desenhados.",
+    "sources": [
+      "https://www.bible.com/bible/1/1JN.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 363,
+    "narrative_sha256": "3627ea1f75901e3a6f5c6ecfeb721b927c9fc84674669b8b3c81a72177b8a0b0",
+    "narrative_words": 515,
+    "part_words": [
+      173,
+      166,
+      176
+    ],
+    "cover_alt": "Jesus de túnica clara e manto terracota bate suavemente à porta de madeira de uma casa antiga, luz acolhedora, cena simbólica de Apocalipse sem ameaça.",
+    "sources": [
+      "https://www.bible.com/bible/1/REV.3.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 364,
+    "narrative_sha256": "2a12b5be73d88e47b3c6206aa645aeb1bbbfa4e34bf8ec9ef4274c022f83d4b2",
+    "narrative_words": 515,
+    "part_words": [
+      172,
+      166,
+      177
+    ],
+    "cover_alt": "Visão simbólica da nova Jerusalém: cidade luminosa de pedra clara e detalhes preciosos, portões abertos, jardins e caminhos serenos, sem sol visível e sem figura de Deus, estilo3D detalhado acolhedor.",
+    "sources": [
+      "https://www.bible.com/bible/1/REV.21.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
+  },
+  {
+    "id": 365,
+    "narrative_sha256": "ad315344c1df1d8c05122f269e1c18654b9ad2c01d7407f8b96c8592bb39d17f",
+    "narrative_words": 521,
+    "part_words": [
+      176,
+      167,
+      178
+    ],
+    "cover_alt": "Visão simbólica de rio cristalino atravessando jardim luminoso na cidade santa, árvore da vida frondosa com frutos variados e folhas detalhadas nas margens, paz, sem sol visível ou figura divina.",
+    "sources": [
+      "https://www.bible.com/bible/1/REV.22.KJV"
+    ],
+    "generation": "Ilustrações novas geradas com image_gen, com referências visuais da coleção original."
   }
 ]

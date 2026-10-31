@@ -1,0 +1,74 @@
+{
+  "id": 226,
+  "title": "O Rio que Traz Vida",
+  "subtitle": "A água da esperança na visão de Ezequiel",
+  "reference": "Ezequiel 47:1–12",
+  "description": "Uma pequena correnteza se torna um grande rio, cercado de árvores e cheio de sinais de vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/226.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Água saindo do templo",
+      "paragraphs": [
+        "Nas visões recebidas por Ezequiel, havia um templo e um guia que lhe mostrava diferentes lugares. Em certo momento, o profeta foi levado de volta à entrada. Ali percebeu água saindo por baixo da soleira e correndo em direção ao leste. Um pequeno fluxo começava a chamar sua atenção.",
+        "O guia conduziu Ezequiel por outro portão e deu a volta até o lado de fora. A água continuava aparecendo, saindo do lugar ligado à presença do Senhor. O profeta acompanhou seu caminho. Aquela correnteza faria parte de uma visão de renovação, cheia de imagens capazes de despertar esperança no povo.",
+        "O homem que o acompanhava tinha uma corda de medir. Caminhou para o leste, marcou uma distância e levou Ezequiel através da água. Nesse primeiro trecho, ela chegava aos tornozelos. O profeta começava a perceber que o fluxo visto junto ao templo seguiria crescendo conforme avançavam pela paisagem da visão."
+      ],
+      "image": "226/part1.webp",
+      "alt": "Uma pequena correnteza sai da entrada do templo"
+    },
+    {
+      "heading": "Um rio cada vez maior",
+      "paragraphs": [
+        "O guia mediu outra distância, e a água chegou aos joelhos. Depois de mais um trecho, alcançou a cintura. A cada nova medida, o rio se tornava mais profundo. Ezequiel acompanhava essa transformação com atenção: aquilo que começara como uma correnteza pequena agora ocupava um espaço muito maior.",
+        "Quando o guia mediu novamente, havia um rio que o profeta já não podia atravessar caminhando. As águas tinham crescido tanto que seria necessário nadar. O homem perguntou se Ezequiel havia observado tudo aquilo. Depois o levou de volta à margem, onde outra surpresa estava esperando por seus olhos.",
+        "Muitas árvores cresciam dos dois lados do rio. A paisagem reunia água e vegetação, formando uma imagem de abundância. O guia explicou que a correnteza seguiria para a região oriental e chegaria ao mar. Onde essas águas passassem, trariam renovação e permitiriam que diferentes formas de vida florescessem."
+      ],
+      "image": "226/part2.webp",
+      "alt": "Ezequiel observa a água crescer na visão"
+    },
+    {
+      "heading": "Árvores, alimento e esperança",
+      "paragraphs": [
+        "A explicação falou de muitos peixes e de pescadores estendendo suas redes ao longo das margens. O lugar receberia vida em grande variedade. A visão também mencionou áreas pantanosas que permaneceriam salgadas. Cada detalhe fazia parte da paisagem mostrada ao profeta, enquanto ele aprendia a reconhecer a força daquela água.",
+        "As árvores junto às margens ofereceriam alimento. Suas folhas continuariam verdes, e novos frutos chegariam regularmente, porque a água vinha do santuário. O fruto serviria para comer, e as folhas seriam destinadas à cura. O rio se tornava uma imagem de vida recebida do Senhor e compartilhada de muitas maneiras.",
+        "Para quem vivia o exílio, aquela visão abria um horizonte de esperança. A água que saía do templo alcançava lugares distantes e os renovava. Podemos guardar sua beleza ao pensar no cuidado de Deus e nos gestos que repartimos. Bondade, companhia e ajuda também podem chegar a alguém como água que refresca o coração."
+      ],
+      "image": "226/part3.webp",
+      "alt": "Árvores oferecem frutos junto ao rio"
+    }
+  ],
+  "lesson": "O rio da visão de Ezequiel aponta para a vida e a renovação que vêm do Senhor. Sua água alcança outros lugares e permite que a paisagem floresça. Podemos responder a esse cuidado repartindo aquilo que faz bem: uma ajuda, uma companhia ou uma palavra verdadeira. Pense em alguém que precisa de atenção hoje e escolha um gesto simples para oferecer com carinho.",
+  "question": "Que gesto seu pode levar alívio e alegria a alguém, como água que refresca?",
+  "prayer": "Senhor, obrigado pela vida e pela esperança que vêm de ti. Renova meu coração e ensina-me a repartir cuidado. Ajuda-me a perceber quem precisa de companhia, alimento ou uma palavra bondosa, para que minhas atitudes levem alegria e alívio. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://biblehub.com/web/ezekiel/47.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ezequiel contempla um rio cercado de árvores frutíferas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic prophetic vision of Ezekiel 47: Ezekiel standing safely on lush riverbank, broad clear river flowing from distant luminous ancient temple, abundant fruit trees on both banks, tiny fish visible near shore, no visible deity. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma pequena correnteza sai da entrada do templo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic vision: Ezekiel and Guide observing clear water flowing gently from beneath the threshold of an ancient temple doorway, beautifully detailed pale stone and rippling shallow water, no deity or text. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle. Guide is an ordinary-looking adult heavenly messenger in plain ivory robe, short dark hair and calm face, without wings or halo."
+    },
+    {
+      "role": "part2",
+      "alt": "Ezequiel observa a água crescer na visão",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezekiel and Guide standing in calm shallow knee-deep clear water near a broad safe bank, Guide holding a coiled measuring cord, river widening in background, warm dreamlike light, no danger or deep immersion. Ezekiel is a middle-aged olive-skinned Hebrew prophet with dark wavy hair, full beard, cream tunic and dusty blue mantle. Guide is an ordinary-looking adult heavenly messenger in plain ivory robe, short dark hair and calm face, without wings or halo."
+    },
+    {
+      "role": "part3",
+      "alt": "Árvores oferecem frutos junto ao rio",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Lush prophetic vision landscape with clear river, abundant fruit trees on both banks, textured leaves and ripe fruit in foreground, ancient adult fishermen tending nets on distant safe shore, warm radiant light, no named prophet. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

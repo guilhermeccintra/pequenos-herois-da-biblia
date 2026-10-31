@@ -1,0 +1,71 @@
+{
+  "id": 123,
+  "title": "Samuel Aprende a Escutar",
+  "subtitle": "Uma voz no silêncio da noite",
+  "reference": "1 Samuel 3",
+  "description": "Durante a noite, Samuel ouve seu nome e corre até Eli. Depois de algumas tentativas, aprende a responder ao chamado de Deus e a contar uma mensagem difícil com honestidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/123.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Alguém chamou meu nome",
+      "paragraphs": [
+        "Era noite em Siló. Eli estava deitado em seu lugar, e sua visão já havia enfraquecido com a idade. Samuel também descansava no santuário, onde ficava a arca de Deus. A lâmpada ainda não se apagara. O lugar estava quieto quando o menino ouviu alguém chamá-lo pelo nome. Ele se levantou e correu até Eli.",
+        "Samuel pensou que o sacerdote precisasse de alguma coisa. Apresentou-se pronto para ouvir, mas Eli disse que não o havia chamado e o mandou voltar a deitar. O menino obedeceu. Pouco depois, o chamado aconteceu de novo. Mais uma vez, Samuel se levantou e procurou Eli. Mais uma vez, ouviu que não era ele quem chamava.",
+        "A Bíblia explica que Samuel ainda não conhecia o Senhor daquela maneira; a palavra de Deus ainda não lhe havia sido revelada. Ele estava aprendendo. Sua primeira resposta não foi compreender tudo imediatamente, mas procurar o adulto que o orientava. O chamado voltaria uma terceira vez, e a repetição ajudaria Eli a perceber o que estava acontecendo."
+      ],
+      "image": "123/part1.webp",
+      "alt": "Samuel se aproxima do leito de Eli para perguntar se o sacerdote o chamou."
+    },
+    {
+      "heading": "Uma resposta para aprender",
+      "paragraphs": [
+        "Quando Samuel voltou pela terceira vez, Eli entendeu que o Senhor estava chamando o menino. Deu-lhe uma orientação: voltar a deitar e, se fosse chamado novamente, responder que estava escutando como servo de Deus. Eli não pediu que Samuel inventasse uma mensagem nem que fingisse já saber tudo. Ajudou-o a se preparar para ouvir.",
+        "Samuel voltou ao seu lugar. O Senhor o chamou novamente, e ele respondeu conforme aprendera. A mensagem recebida, porém, não era fácil. Deus anunciou que cumpriria o juízo sobre a casa de Eli, porque os filhos do sacerdote agiam de modo grave e ele não os havia impedido como deveria. A responsabilidade religiosa não apagava a necessidade de enfrentar o erro.",
+        "O menino ficou deitado até a manhã. Depois abriu as portas do santuário, mas tinha medo de contar a visão a Eli. A pessoa que o ensinara a ouvir também fazia parte da mensagem difícil. Samuel não podia transformar o que ouvira em algo agradável só para evitar desconforto. Ao mesmo tempo, era compreensível que sentisse receio de falar."
+      ],
+      "image": "123/part2.webp",
+      "alt": "Eli orienta Samuel com serenidade, sentado à luz de uma lamparina."
+    },
+    {
+      "heading": "Contar sem esconder",
+      "paragraphs": [
+        "Eli chamou Samuel e perguntou o que Deus lhe havia dito. Pediu que não escondesse nada. Então o menino contou toda a mensagem. Não acrescentou uma ameaça por conta própria nem apagou a parte que poderia entristecer o sacerdote. Sua responsabilidade naquele momento era falar com honestidade sobre o que recebera, mesmo sendo uma conversa difícil.",
+        "Eli reconheceu que a palavra vinha do Senhor e respondeu que ele fizesse o que considerasse bom. Samuel tinha contado tudo, mesmo sendo difícil falar. A noite começara com um menino correndo para saber quem o chamava; a manhã trazia uma responsabilidade nova. O Senhor havia lhe confiado uma mensagem, e Eli a tinha ouvido.",
+        "Samuel cresceu, e o Senhor esteve com ele. O povo, de uma região a outra, reconheceu que era profeta de Deus. Aquele começo noturno não ficou isolado como um susto no escuro. Foi parte de uma vida de escuta e serviço. O menino que correra três vezes até Eli continuaria aprendendo a receber a palavra e a comunicá-la com fidelidade."
+      ],
+      "image": "123/part3.webp",
+      "alt": "Na manhã seguinte, Samuel conversa honestamente com Eli perto das portas abertas do santuário."
+    }
+  ],
+  "lesson": "Samuel aprendeu a escutar com a ajuda de Eli. Nem sempre entendemos uma orientação logo na primeira vez; perguntar e ouvir novamente também fazem parte do aprendizado. Deus conhece nosso nome e valoriza um coração disposto. Em casa, na escola ou na igreja, podemos prestar atenção, pedir explicações e falar a verdade com respeito. Escutar bem nos ajuda a perceber o que precisamos aprender e como podemos servir às pessoas.",
+  "question": "Quando uma conversa parece difícil, quem pode ajudar você a falar com segurança e honestidade?",
+  "prayer": "Deus, dá-nos atenção para ouvir e coragem para falar a verdade com respeito. Ajuda-nos a procurar orientação quando algo nos confundir ou assustar. Que os adultos cuidem de suas responsabilidades e que as crianças encontrem pessoas confiáveis para conversar e se sentir protegidas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Samuel escuta com atenção perto de uma lamparina no santuário silencioso durante a noite.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel boy about ten olive skin short dark curls cream linen tunic; Eli very elderly white beard cream robe, kind but tired expression. Ancient Shiloh sanctuary, safe oil lamps, night blue and warm gold light, no visible deity. Scene: Samuel escuta com atenção perto de uma lamparina no santuário silencioso durante a noite."
+    },
+    {
+      "role": "part1",
+      "alt": "Samuel se aproxima do leito de Eli para perguntar se o sacerdote o chamou.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel boy about ten olive skin short dark curls cream linen tunic; Eli very elderly white beard cream robe, kind but tired expression. Ancient Shiloh sanctuary, safe oil lamps, night blue and warm gold light, no visible deity. Scene: Samuel se aproxima do leito de Eli para perguntar se o sacerdote o chamou."
+    },
+    {
+      "role": "part2",
+      "alt": "Eli orienta Samuel com serenidade, sentado à luz de uma lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel boy about ten olive skin short dark curls cream linen tunic; Eli very elderly white beard cream robe, kind but tired expression. Ancient Shiloh sanctuary, safe oil lamps, night blue and warm gold light, no visible deity. Scene: Eli orienta Samuel com serenidade, sentado à luz de uma lamparina."
+    },
+    {
+      "role": "part3",
+      "alt": "Na manhã seguinte, Samuel conversa honestamente com Eli perto das portas abertas do santuário.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Samuel boy about ten olive skin short dark curls cream linen tunic; Eli very elderly white beard cream robe, kind but tired expression. Ancient Shiloh sanctuary, safe oil lamps, night blue and warm gold light, no visible deity. Scene: Na manhã seguinte, Samuel conversa honestamente com Eli perto das portas abertas do santuário."
+    }
+  ]
+}

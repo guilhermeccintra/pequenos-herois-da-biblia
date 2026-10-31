@@ -1,0 +1,71 @@
+{
+  "id": 117,
+  "title": "Baraque Reúne as Tribos",
+  "subtitle": "Cada pessoa faz sua parte",
+  "reference": "Juízes 4:10–16",
+  "description": "Baraque reúne os homens de duas tribos no monte Tabor. Com Débora ao seu lado, aprende que coragem também envolve ouvir a hora de agir e assumir sua parte.",
+  "testament": "antigo",
+  "cover": "/images/covers/117.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Gente de lugares diferentes",
+      "paragraphs": [
+        "O chamado chegou a Zebulom e Naftali. Homens de duas tribos se reuniram para acompanhar Baraque até o monte Tabor. Seu povo sofria sob o domínio de Jabim, rei de Canaã, e o comandante Sísera representava uma ameaça poderosa. Reunir pessoas para aquela missão exigia mais do que dar uma ordem e esperar que tudo estivesse resolvido.",
+        "Débora, a profetisa que havia transmitido a orientação de Deus, acompanhava Baraque. Sua presença atendia ao pedido que ele fizera. Dez mil homens subiram com eles. O monte oferecia uma posição de onde podiam observar a região. Ao mesmo tempo, lembrava que ainda seria necessário descer e enfrentar uma situação que não desapareceria por si mesma.",
+        "A notícia chegou a Sísera. Ele reuniu seus carros de guerra e os homens que comandava junto ao ribeiro de Quisom. Eram novecentos carros de ferro, a força que intimidara Israel por tantos anos. No monte, Baraque e seus companheiros viam a tarefa que tinham pela frente. Débora estava com eles, e chegava o momento de avançar."
+      ],
+      "image": "117/part1.webp",
+      "alt": "Homens de Zebulom e Naftali chegam por caminhos diferentes para se reunir no monte Tabor."
+    },
+    {
+      "heading": "A hora de sair do lugar",
+      "paragraphs": [
+        "Baraque estava no monte quando Débora lhe disse que chegara o dia indicado. O Senhor iria à sua frente. A orientação não convidava o comandante a confiar somente em sua posição no alto ou em sua própria habilidade. Ele precisava escutar e agir no momento certo, reconhecendo que a missão não começava nem terminava em sua pessoa.",
+        "Baraque desceu do Tabor, seguido pelos homens que havia reunido. O movimento da comunidade começou com aquele passo. Quem lidera não pode apenas pedir que os outros enfrentem o caminho enquanto permanece longe de toda responsabilidade. Naquela situação, ele acompanhou os homens e assumiu a tarefa para a qual havia sido chamado.",
+        "O Senhor lançou confusão sobre Sísera, seus carros e seu exército. Os homens que pareciam tão poderosos perderam a organização diante do avanço de Baraque. Até Sísera abandonou o próprio carro e fugiu a pé. A força que durante muitos anos havia espalhado medo entre os israelitas já não conseguia manter sua posição."
+      ],
+      "image": "117/part2.webp",
+      "alt": "Débora aponta o caminho enquanto Baraque escuta com atenção, diante da paisagem aberta do vale."
+    },
+    {
+      "heading": "O peso do que aconteceu",
+      "paragraphs": [
+        "Baraque perseguiu os carros e o exército até Harosete-Hagoim. Os homens de Sísera foram derrotados, e aquele poder que oprimia Israel caiu. A batalha trouxe perdas e sofrimento, mas o domínio de Jabim começava a chegar ao fim. Depois de tantos anos sob ameaça, o povo via abrir-se um caminho para recuperar sua liberdade.",
+        "O comandante Sísera fugira, e outros acontecimentos ainda fariam parte do fim daquele domínio. Baraque não controlava sozinho toda a história. Sua tarefa havia sido reunir, ouvir e agir. Débora também tinha cumprido sua parte ao orientar e acompanhar. O povo começava a sair de uma situação de opressão que durara muito tempo.",
+        "O encontro no monte Tabor lembra que uma responsabilidade grande pode envolver muitas pessoas. Nenhum nome conta tudo sozinho. Há quem chama, quem encoraja, quem escuta e quem assume uma tarefa. Para nós, essa cooperação pode ser vivida em caminhos de paz, nos quais a coragem aparece ao proteger vidas e construir soluções sem repetir a violência do passado."
+      ],
+      "image": "117/part3.webp",
+      "alt": "Baraque e seus companheiros descem juntos por uma trilha do monte, numa cena de cooperação sem combate."
+    }
+  ],
+  "lesson": "Trabalhar em grupo exige escutar, preparar e assumir uma tarefa possível. Baraque contou com a orientação de Débora e com pessoas de outras tribos. Em nossa vida, podemos dividir responsabilidades num trabalho escolar ou numa ação para ajudar alguém. A guerra antiga não ensina crianças a enfrentar perigos ou agredir pessoas. Nossa coragem pode aparecer ao chamar ajuda, interromper uma brincadeira que machuca e cooperar para que todos fiquem seguros.",
+  "question": "Num trabalho em grupo, qual tarefa você pode assumir e que ajuda precisa pedir para realizá-la bem?",
+  "prayer": "Deus, ensina-nos a cooperar e a reconhecer a ajuda que recebemos. Dá-nos atenção para ouvir, responsabilidade para cumprir nossa parte e coragem para proteger quem precisa. Cuida das pessoas que sofrem em guerras e guia nossas escolhas pelo caminho da paz. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Baraque e Débora observam o vale a partir do monte Tabor, com um grupo de adultos reunido atrás deles.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Barak adult olive skin short dark beard brown tunic blue cloak; Deborah middle-aged purple robe teal shawl cream headscarf. Mount Tabor grassy hill, adults in ancient earth-colored linen. No battle, blood or drawn weapons. Scene: Baraque e Débora observam o vale a partir do monte Tabor, com um grupo de adultos reunido atrás deles."
+    },
+    {
+      "role": "part1",
+      "alt": "Homens de Zebulom e Naftali chegam por caminhos diferentes para se reunir no monte Tabor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Barak adult olive skin short dark beard brown tunic blue cloak; Deborah middle-aged purple robe teal shawl cream headscarf. Mount Tabor grassy hill, adults in ancient earth-colored linen. No battle, blood or drawn weapons. Scene: Homens de Zebulom e Naftali chegam por caminhos diferentes para se reunir no monte Tabor."
+    },
+    {
+      "role": "part2",
+      "alt": "Débora aponta o caminho enquanto Baraque escuta com atenção, diante da paisagem aberta do vale.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Barak adult olive skin short dark beard brown tunic blue cloak; Deborah middle-aged purple robe teal shawl cream headscarf. Mount Tabor grassy hill, adults in ancient earth-colored linen. No battle, blood or drawn weapons. Scene: Débora aponta o caminho enquanto Baraque escuta com atenção, diante da paisagem aberta do vale."
+    },
+    {
+      "role": "part3",
+      "alt": "Baraque e seus companheiros descem juntos por uma trilha do monte, numa cena de cooperação sem combate.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Barak adult olive skin short dark beard brown tunic blue cloak; Deborah middle-aged purple robe teal shawl cream headscarf. Mount Tabor grassy hill, adults in ancient earth-colored linen. No battle, blood or drawn weapons. Scene: Baraque e seus companheiros descem juntos por uma trilha do monte, numa cena de cooperação sem combate."
+    }
+  ]
+}

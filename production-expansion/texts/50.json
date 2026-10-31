@@ -1,0 +1,71 @@
+{
+  "id": 50,
+  "title": "O Riso de Sara",
+  "subtitle": "A alegria que chegou depois da espera",
+  "reference": "Gênesis 21:1–7",
+  "description": "Sara e Abraão recebem o filho prometido. O nascimento de Isaque transforma a longa espera em uma alegria para compartilhar.",
+  "testament": "antigo",
+  "cover": "/images/covers/50.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma espera que parecia longa demais",
+      "paragraphs": [
+        "Abraão e Sara haviam recebido uma promessa que acompanhara muitos anos de sua vida. Deus anunciara que teriam um filho. Entretanto, os dias passaram, e ambos envelheceram. Quando os visitantes chegaram à tenda de Manre e repetiram a notícia, Sara ouviu e riu por dentro. Ter um bebê naquela idade parecia impossível.",
+        "A espera havia atravessado muitas fases da vida de Abraão e Sara. Eles fizeram perguntas, tiveram medo e também cometeram erros ao longo do caminho. Nem sempre conseguiam enxergar como a promessa se cumpriria. Ainda assim, o tempo não havia apagado a palavra recebida, e Deus não havia esquecido aquele casal.",
+        "Mas chegou o tempo anunciado. O relato de Gênesis diz que Deus visitou Sara e fez por ela o que havia prometido. Ela engravidou. Aquilo que antes conheciam apenas por meio de uma palavra agora começava a mudar a vida da casa. A espera estava chegando a uma etapa que eles não poderiam produzir por suas próprias forças."
+      ],
+      "image": "50/part1.webp",
+      "alt": "Sara e Abraão conversam à entrada da tenda, cercados pela luz do entardecer."
+    },
+    {
+      "heading": "Um menino chamado Isaque",
+      "paragraphs": [
+        "Sara deu à luz um filho quando Abraão já era idoso. O menino nasceu no tempo que Deus havia indicado. Abraão lhe deu o nome de Isaque, conforme a orientação recebida anteriormente. O nome estava ligado ao riso. Dentro daquela família, ele guardaria a lembrança da surpresa e da alegria que acompanharam sua chegada.",
+        "Abraão tinha cem anos quando Isaque nasceu. Sara também era uma mulher muito idosa. O relato destaca essas idades para mostrar como aquele nascimento era extraordinário. O filho não chegara quando tudo parecia simples ou previsível. Sua presença lembrava a fidelidade de Deus à promessa feita especificamente àquela família.",
+        "Quando Isaque tinha oito dias, Abraão cumpriu o sinal da aliança que Deus havia estabelecido. A vida do menino começava dentro de uma história que vinha de antes dele. Seu nascimento não era apenas uma novidade para a casa. Estava ligado à promessa de uma descendência por meio da qual outras famílias receberiam bênção."
+      ],
+      "image": "50/part2.webp",
+      "alt": "Abraão observa Sara com Isaque cuidadosamente envolto em tecido."
+    },
+    {
+      "heading": "Uma alegria para contar",
+      "paragraphs": [
+        "Sara falou sobre o que Deus lhe havia dado: motivo para rir. Quem ouvisse sua história também se alegraria com ela. O riso que antes carregara espanto diante da promessa agora podia acompanhar uma felicidade concreta. Havia um bebê para cuidar, alimentar e acolher. A alegria tinha chegado junto com novas responsabilidades.",
+        "Ela se admirou de que alguém pudesse imaginar aquela cena: Sara amamentando um filho, embora Abraão já fosse tão velho. Não era preciso apagar a longa espera para celebrar o presente. A memória dos anos fazia parte da surpresa. O que parecera distante agora estava nos braços de uma mãe que tinha uma história para contar.",
+        "Isaque cresceria, e a família ainda enfrentaria dificuldades. O nascimento não significava que todos os problemas haviam terminado. Mas aquele começo era uma ocasião de gratidão. O Deus que fizera a promessa não a havia esquecido. Na casa de Abraão e Sara, o nome do menino lembrava que uma esperança aguardada podia se transformar em alegria compartilhada."
+      ],
+      "image": "50/part3.webp",
+      "alt": "Sara sorri com o bebê no colo enquanto Abraão participa do cuidado."
+    }
+  ],
+  "lesson": "Quando algo bom acontece, podemos compartilhar a alegria sem esquecer de quem ainda está esperando ou sofrendo. A história de Sara fala de uma promessa específica de Deus, não de uma regra segundo a qual toda pessoa receberá o mesmo que deseja. Podemos agradecer pelas boas notícias, acolher as diferentes histórias das famílias e aprender a celebrar com delicadeza. Alegria e cuidado podem caminhar juntos.",
+  "question": "Que boa notícia da sua família ou de um amigo você pode celebrar com gratidão?",
+  "prayer": "Deus, obrigado pelas alegrias que chegam e pelas pessoas com quem podemos compartilhá-las. Ensina-nos a celebrar com carinho e a acolher quem vive dias de espera ou tristeza. Acompanha as famílias em suas diferentes histórias. Que nossa gratidão se transforme em cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Sara e Abraão acolhem o bebê Isaque diante de sua tenda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Sarah: elderly olive-skinned woman silver hair under blue headscarf, cream dress and rose shawl. Abraham: elderly olive-skinned man long white beard, cream robe terracotta mantle. Isaac newborn securely wrapped in cream linen. Scene: Elderly Sarah and Abraham joyfully hold a safely swaddled newborn Isaac beside tent at golden morning, tender family portrait, no text."
+    },
+    {
+      "role": "part1",
+      "alt": "Sara e Abraão conversam à entrada da tenda, cercados pela luz do entardecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Sarah: elderly olive-skinned woman silver hair under blue headscarf, cream dress and rose shawl. Abraham: elderly olive-skinned man long white beard, cream robe terracotta mantle. Isaac newborn securely wrapped in cream linen. Scene: Elderly Sarah and Abraham sit beside tent sharing a thoughtful hopeful moment, expansive sky, calm intimate composition, no infant yet."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão observa Sara com Isaque cuidadosamente envolto em tecido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Sarah: elderly olive-skinned woman silver hair under blue headscarf, cream dress and rose shawl. Abraham: elderly olive-skinned man long white beard, cream robe terracotta mantle. Isaac newborn securely wrapped in cream linen. Scene: Sarah cradles swaddled baby securely in arms while elderly Abraham looks with gentle wonder, interior tent soft light, no medical scene."
+    },
+    {
+      "role": "part3",
+      "alt": "Sara sorri com o bebê no colo enquanto Abraão participa do cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Sarah: elderly olive-skinned woman silver hair under blue headscarf, cream dress and rose shawl. Abraham: elderly olive-skinned man long white beard, cream robe terracotta mantle. Isaac newborn securely wrapped in cream linen. Scene: Sarah smiles tenderly at newborn on her lap fully swaddled and supported, Abraham offers folded clean linen, joyful modest tent, no breastfeeding exposed."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+21%3A1-7&version=KJV"
+  ]
+}

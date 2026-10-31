@@ -1,0 +1,71 @@
+{
+  "id": 121,
+  "title": "Ana Leva Sua Tristeza a Deus",
+  "subtitle": "Uma oração que podia ter lágrimas",
+  "reference": "1 Samuel 1",
+  "description": "Ana deseja muito ter um filho e sofre com palavras que a machucam. Em Siló, ela encontra espaço para abrir o coração diante de Deus e ser ouvida.",
+  "testament": "antigo",
+  "cover": "/images/covers/121.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma alegria que faltava",
+      "paragraphs": [
+        "Todos os anos, Elcana viajava com sua família para adorar ao Senhor em Siló. Sua esposa Ana o acompanhava, mas carregava uma tristeza profunda: desejava ter filhos e não conseguia. Penina, outra esposa de Elcana, tinha filhos e a provocava por causa disso. As palavras repetidas tornavam ainda mais difícil uma dor que Ana já conhecia bem.",
+        "Elcana amava Ana e procurava tratá-la com carinho. Mesmo assim, durante uma das visitas a Siló, ela chorava e não queria comer. Ele percebeu sua tristeza e tentou consolá-la. Ana escutou suas palavras, mas ainda carregava uma grande aflição. Depois da refeição, levantou-se e foi apresentar ao Senhor o que estava em seu coração.",
+        "Depois da refeição, Ana se levantou e foi orar. O sacerdote Eli estava sentado perto da entrada do santuário. Ela se aproximou carregando aquilo que não conseguia resolver por conta própria. Não preparou um discurso para parecer forte. Diante de Deus, pôde apresentar sua tristeza do jeito que ela estava: profunda, acompanhada de choro e cheia de desejo."
+      ],
+      "image": "121/part1.webp",
+      "alt": "Ana está triste num pátio tranquilo, enquanto Elcana se aproxima com um gesto de cuidado."
+    },
+    {
+      "heading": "Palavras que não saíam da boca",
+      "paragraphs": [
+        "Ana pediu ao Senhor que olhasse para sua aflição e lhe desse um filho. Fez também um compromisso: se o menino nascesse, seria dedicado ao serviço de Deus por toda a vida. Ali, perto do santuário, ela continuou orando. O pedido saía de um coração cheio de tristeza, mas voltado com confiança para o Senhor.",
+        "Ela orava em seu coração. Seus lábios se moviam, mas a voz não era ouvida. Eli observou e entendeu errado: pensou que estivesse embriagada. Ana respondeu com respeito e clareza. Explicou que não havia bebido; era uma mulher muito triste, abrindo sua alma diante do Senhor. Sua aparência não contava toda a história do que estava vivendo.",
+        "Ao ouvir a explicação, Eli mudou a maneira de falar. Desejou que ela fosse em paz e que Deus atendesse ao seu pedido. Ana pediu que continuasse a olhá-la com bondade. Depois foi embora, voltou a comer e seu rosto já não tinha a mesma expressão. O futuro ainda não estava diante dela, mas havia encontrado espaço para confiar e seguir."
+      ],
+      "image": "121/part2.webp",
+      "alt": "Ana ora silenciosamente perto da entrada do santuário; Eli a observa de seu assento ao fundo."
+    },
+    {
+      "heading": "Um nome para agradecer",
+      "paragraphs": [
+        "A família voltou para casa em Ramá. Com o tempo, Ana engravidou e deu à luz um menino. Chamou-o Samuel, lembrando o pedido que fizera ao Senhor. A criança crescia sob seus cuidados, e aquela casa recebeu uma grande alegria. Ana também guardava na memória o compromisso que havia assumido quando orou em Siló.",
+        "Enquanto Samuel era pequeno e ainda precisava ser amamentado, Ana permaneceu com ele em casa. Quando chegou o momento, levou o menino a Siló com Elcana e as ofertas preparadas. Aproximou-se de Eli e o ajudou a lembrar: era a mulher que havia estado ali orando. Agora apresentava o filho por quem pedira.",
+        "Ana explicou que dedicava Samuel ao Senhor, conforme seu compromisso. O menino passou a servir ali, sob os cuidados de Eli, dentro dos costumes daquela época. O pedido feito entre lágrimas se tornou uma história de gratidão e responsabilidade. Ana não havia escondido sua tristeza; encontrara palavras para entregá-la a Deus e, depois, para reconhecer a alegria recebida."
+      ],
+      "image": "121/part3.webp",
+      "alt": "Ana e Elcana levam Samuel, já desmamado, para conhecer Eli no santuário de Siló."
+    }
+  ],
+  "lesson": "Ana encontrou palavras para falar com Deus mesmo quando seu coração estava cheio de tristeza. Podemos conversar com ele sobre sentimentos difíceis e também procurar quem nos escute com carinho. Ao perceber alguém triste, não precisamos saber todas as respostas: podemos oferecer companhia e respeito. Eli aprendeu a olhar Ana com mais atenção. Sua história nos convida a conhecer as pessoas antes de julgá-las e a agradecer pelo cuidado que recebemos.",
+  "question": "Como você pode acolher alguém triste sem tentar apressar seus sentimentos ou fazer brincadeiras que machucam?",
+  "prayer": "Deus, recebe nossas alegrias e nossas tristezas. Cuida de quem espera, de quem chora e de quem se sente incompreendido. Ensina-nos a escutar com carinho, a não fazer comparações que machucam e a procurar companhia e ajuda quando o coração estiver pesado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ana apresenta Samuel, uma criança já desmamada, ao sacerdote Eli em Siló.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Scene and required cast: Hannah olive skin dark hair cream headscarf blue dress gently holds the hand of her son Samuel, a three-year-old boy with dark curls wearing a cream tunic, standing independently beside her. Elderly Eli white beard cream linen robe welcomes them. Shiloh sanctuary courtyard. Samuel is a weaned walking toddler, NOT an infant or newborn, no swaddling. Exactly Hannah, Samuel and Eli foreground."
+    },
+    {
+      "role": "part1",
+      "alt": "Ana está triste num pátio tranquilo, enquanto Elcana se aproxima com um gesto de cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hannah adult olive-skinned woman dark wavy hair cream veil muted blue dress, kind expressive face; Eli elderly white-bearded man cream robe; Samuel infant wrapped safely in cream blanket. Ancient sanctuary Shiloh. Scene: Ana está triste num pátio tranquilo, enquanto Elcana se aproxima com um gesto de cuidado."
+    },
+    {
+      "role": "part2",
+      "alt": "Ana ora silenciosamente perto da entrada do santuário; Eli a observa de seu assento ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hannah adult olive-skinned woman dark wavy hair cream veil muted blue dress, kind expressive face; Eli elderly white-bearded man cream robe; Samuel infant wrapped safely in cream blanket. Ancient sanctuary Shiloh. Scene: Ana ora silenciosamente perto da entrada do santuário; Eli a observa de seu assento ao fundo."
+    },
+    {
+      "role": "part3",
+      "alt": "Ana e Elcana levam Samuel, já desmamado, para conhecer Eli no santuário de Siló.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Scene and required cast: Hannah olive skin dark hair cream headscarf blue dress and Elkanah dark curly beard brown mantle bring their son Samuel, age three, standing and holding Hannah hand, short dark curls cream knee-length tunic, to elderly Eli white beard cream linen robe. Shiloh sanctuary courtyard. Samuel has been weaned, is a walking young child not a baby. No swaddled newborn. Exactly these four people foreground."
+    }
+  ]
+}

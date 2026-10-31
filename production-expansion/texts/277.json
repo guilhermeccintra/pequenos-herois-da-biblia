@@ -1,0 +1,71 @@
+{
+  "id": 277,
+  "title": "O Tesouro no Campo",
+  "subtitle": "Uma descoberta que muda todas as escolhas",
+  "reference": "Mateus 13:44",
+  "description": "Um homem encontra um tesouro e percebe que vale a pena reorganizar sua vida por causa dele.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma descoberta inesperada",
+      "paragraphs": [
+        "Jesus contou uma parábola muito breve para explicar o valor do Reino dos céus. Um homem encontrou um tesouro escondido num campo. O relato não dizia seu nome, sua idade nem o motivo de estar naquele lugar. Toda a atenção se voltava para a descoberta: havia ali algo precioso, oculto onde ninguém esperava ver riqueza.",
+        "O campo continuava parecendo um campo. A terra, as plantas e os caminhos não anunciavam em voz alta o que estava guardado. Mas o homem agora sabia de uma coisa que mudava sua maneira de olhar para aquele lugar. O valor da descoberta não dependia de outras pessoas terem percebido a mesma coisa antes dele.",
+        "Jesus queria que seus ouvintes pensassem no Reino a partir dessa surpresa. Algo podia estar perto e ainda não ter sido reconhecido em seu verdadeiro valor. Encontrar o tesouro significava enxergar o campo de outra maneira. A parábola começava com uma descoberta capaz de transformar as decisões que viriam depois."
+      ],
+      "alt": "Um homem descobre um tesouro escondido na terra.",
+      "image": "277/part1.webp"
+    },
+    {
+      "heading": "A alegria da descoberta",
+      "paragraphs": [
+        "O homem tornou a esconder o tesouro e foi embora cheio de alegria. Essa alegria é um detalhe importante da história. Ele não estava apenas fazendo contas com o rosto preocupado. Havia reconhecido algo tão valioso que sua reação era desejar aquele campo com uma certeza nova, nascida do que acabara de encontrar.",
+        "Então vendeu tudo o que possuía. Aquilo que antes parecia indispensável passou a ser considerado à luz da descoberta. Não porque suas coisas tivessem desaparecido ou perdido toda utilidade, mas porque ele havia encontrado algo maior. A escolha do campo reorganizava suas prioridades e mostrava onde seu coração agora colocava o valor principal.",
+        "Jesus não transformou a parábola numa explicação sobre contratos, escavações ou regras de compra. Esses detalhes não eram o centro do ensino. A história iluminava a alegria de reconhecer o Reino dos céus e a disposição de responder a essa descoberta. O homem agia porque percebia o valor do que havia encontrado."
+      ],
+      "alt": "O homem parte alegre, decidido a adquirir o campo.",
+      "image": "277/part2.webp"
+    },
+    {
+      "heading": "O campo adquirido",
+      "paragraphs": [
+        "Depois de vender o que possuía, o homem comprou o campo. A parábola terminou com essa decisão concreta. Ele não guardou a descoberta apenas como uma lembrança agradável. Sua alegria o levou a agir. O tesouro mudou a maneira de usar seus recursos e de escolher o que merecia ocupar o primeiro lugar.",
+        "Jesus estava falando do Reino de Deus, e não oferecendo uma promessa de enriquecimento. O tesouro da comparação ajudava a compreender um valor maior que o dinheiro. Conhecer a presença e o caminho de Deus podia reorganizar a vida, mostrando que algumas coisas consideradas enormes eram menores diante do amor e da verdade recebidos.",
+        "Quem ouvia precisava pensar no que valorizava. A história não trazia uma ordem para crianças venderem seus objetos, nem dizia que Deus pudesse ser comprado. Apresentava a resposta alegre de alguém que reconheceu um bem incomparável. O homem encontrou o tesouro num campo; os ouvintes eram convidados a reconhecer o Reino que Jesus anunciava diante deles."
+      ],
+      "alt": "O homem olha o campo que decidiu comprar.",
+      "image": "277/part3.webp"
+    }
+  ],
+  "lesson": "Aquilo que valorizamos orienta nossas escolhas. Jesus apresenta o Reino de Deus como um tesouro que merece o primeiro lugar. Isso pode nos ajudar a escolher honestidade em vez de vantagem, amizade em vez de competição e cuidado em vez de egoísmo. O amor de Deus não é comprado. Nós o recebemos e aprendemos a reorganizar a vida com alegria por causa dele.",
+  "question": "Que escolha pode mostrar que o amor e a verdade valem mais para você do que ganhar uma vantagem?",
+  "prayer": "Pai, ajuda-me a reconhecer o valor do teu Reino. Que eu não troque o amor, a verdade e a amizade por vantagens pequenas. Ensina-me a escolher com alegria o que faz bem e a colocar teu cuidado no centro da minha vida. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/277.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um homem encontra um pequeno recipiente com um tesouro no campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration adult man olive skin short brown beard muted teal tunic cream headwrap kneeling in cultivated field discovering ancient clay jar with a few gold coins and ornaments partly hidden in soil, joyful wonder, warm sunlight, no fantasy glow. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O tesouro aparece entre a terra do campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close view same teal-robed adult man carefully brushing soil from partly buried small ancient clay treasure jar, a few coins glint naturally, earthy field textures, astonished gentle face. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O homem caminha alegre em direção à aldeia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same man teal tunic cream headwrap walking briskly along field path toward small stone village, open joyful expression, empty hands no treasure carried, late afternoon, side wide composition. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem observa o campo adquirido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same teal-robed man standing peacefully beside low boundary stone overlooking sunlit field he has acquired, thoughtful joyful face, rolling agricultural landscape, no visible treasure, calm wide final composition. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

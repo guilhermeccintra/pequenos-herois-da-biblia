@@ -1,0 +1,71 @@
+{
+  "id": 288,
+  "title": "Os Celeiros do Homem Rico",
+  "subtitle": "A vida vale mais que tudo o que podemos guardar",
+  "reference": "Lucas 12:13–21",
+  "description": "Uma grande colheita leva um homem a fazer planos que esquecem o valor da vida e do próximo.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.12.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma pergunta sobre herança",
+      "paragraphs": [
+        "Uma pessoa no meio da multidão pediu que Jesus mandasse seu irmão dividir a herança com ela. Jesus respondeu perguntando quem o havia colocado como juiz daquela partilha. Em seguida, chamou a atenção de todos para um perigo: a cobiça. A vida de alguém não era definida pela quantidade de bens que possuía.",
+        "Para explicar, contou a história de um homem rico cujas terras produziram uma colheita muito grande. Havia tanto para guardar que seus depósitos não eram suficientes. O homem começou a pensar no que faria. O problema que ocupava sua mente era encontrar espaço para todos os frutos que havia recebido de suas plantações.",
+        "Uma colheita abundante poderia trazer muitas possibilidades. Na história, porém, o homem conversava apenas consigo mesmo sobre seus próprios bens. Não mencionava outras pessoas, necessidades ao redor ou gratidão a Deus. Seu pensamento se fechava no que era seu e em como guardar ainda mais. A abundância se tornava o centro de toda a sua atenção."
+      ],
+      "alt": "O homem rico observa uma colheita abundante.",
+      "image": "288/part1.webp"
+    },
+    {
+      "heading": "Celeiros cada vez maiores",
+      "paragraphs": [
+        "Ele chegou a uma decisão: derrubaria os celeiros e construiria outros maiores. Neles guardaria todos os grãos e seus bens. O plano parecia resolver o problema do espaço. Com depósitos grandes, imaginava ter garantido não apenas a colheita, mas também sua tranquilidade por muitos anos. A segurança de sua vida ficava apoiada no que conseguiria armazenar.",
+        "Depois, dizia a si mesmo que poderia descansar, comer, beber e aproveitar. Havia muitas coisas guardadas para o futuro. O homem falava como se controlar os celeiros fosse o mesmo que controlar os dias que ainda viveria. Seus recursos eram reais, mas a certeza sobre o amanhã ia além do que qualquer depósito poderia oferecer.",
+        "Jesus não estava dizendo que planejar ou guardar alimento fosse sempre errado. O problema aparecia na confiança absoluta depositada nos bens e na ausência de Deus e do próximo em seus pensamentos. O homem tinha espaço cada vez maior para a colheita e um olhar cada vez mais estreito para o significado da própria vida."
+      ],
+      "alt": "O homem planeja construir depósitos maiores para seus grãos.",
+      "image": "288/part2.webp"
+    },
+    {
+      "heading": "Uma pergunta que muda tudo",
+      "paragraphs": [
+        "Na parábola, Deus falou ao homem e o chamou de insensato. Naquela mesma noite, sua vida chegaria ao fim. De quem seriam, então, as coisas que havia preparado? A pergunta revelava o limite de todos os seus planos. O que possuía não tinha poder para garantir mais um dia nem para substituir o valor da vida.",
+        "Jesus concluiu que assim acontece com quem acumula tesouros apenas para si e não é rico para com Deus. A riqueza da história não era avaliada somente pelos celeiros. Havia uma pobreza escondida na maneira de viver: o homem não conseguia enxergar além de seus bens, nem reconhecer a vida como algo maior do que suas reservas.",
+        "A parábola deixava uma advertência firme para quem ouvira o pedido sobre a herança. Cuidar de recursos é importante, mas eles não podem ocupar todo o coração. A vida acontece também nas relações, na gratidão e na generosidade. Jesus convidava a usar o que se recebe com sabedoria, lembrando que possuir muito não significa viver bem."
+      ],
+      "alt": "Os celeiros cheios contrastam com a solidão dos planos do homem.",
+      "image": "288/part3.webp"
+    }
+  ],
+  "lesson": "Ter coisas e fazer planos pode ser útil, mas isso não define nosso valor nem garante tudo. A história convida a guardar espaço no coração para Deus e para as pessoas. Podemos agradecer pelo que temos, compartilhar de maneira responsável e perceber quando a vontade de possuir começa a comandar nossas escolhas. A vida inclui amizade, cuidado e generosidade que nenhum depósito consegue guardar.",
+  "question": "O que você pode compartilhar ou fazer por alguém usando com sabedoria aquilo que já tem?",
+  "prayer": "Deus, obrigado pelo que recebo a cada dia. Ajuda-me a cuidar dos recursos sem deixar que eles controlem meu coração. Ensina-me a agradecer, compartilhar e valorizar as pessoas. Que meus planos tenham espaço para o amor, a amizade e o cuidado com quem precisa. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/288.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O homem rico contempla seus grandes celeiros.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene mature wealthy farmer olive skin neatly trimmed dark beard burgundy robe tan sash standing before large first-century stone granaries and overflowing grain baskets, thoughtful self-satisfied not villainous expression, golden harvest light, no Jesus. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "A colheita ocupa muitos cestos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide wheat harvest field with stacked baskets and sacks of golden grain, same wealthy farmer burgundy robe tan sash surveying abundance, workers small distant background, natural detailed agricultural scene. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O homem calcula como guardar mais grãos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same wealthy farmer burgundy robe tan sash inside grain store pointing to full baskets and limited space, thinking with hand on chin, stone walls wooden beams, warm daylight, no modern plans or writing. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem fica sozinho entre seus depósitos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same wealthy farmer burgundy robe seated thoughtfully alone beside huge closed granary doors at dusk, small in spacious composition, reflective mood no death imagery no frightening effects, warm lantern glow. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

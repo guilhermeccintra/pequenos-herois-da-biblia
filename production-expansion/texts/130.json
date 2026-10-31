@@ -1,0 +1,71 @@
+{
+  "id": 130,
+  "title": "Davi Toca a Harpa",
+  "subtitle": "Uma habilidade oferecida com cuidado",
+  "reference": "1 Samuel 16:14–23",
+  "description": "Saul atravessa momentos de grande sofrimento, e seus servos procuram alguém que saiba tocar. Davi chega com sua música e oferece uma habilidade que aprendera a cultivar.",
+  "testament": "antigo",
+  "cover": "/images/covers/130.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Dias difíceis no palácio",
+      "paragraphs": [
+        "Saul atravessava dias de grande aflição. Um espírito o atormentava, e os servos percebiam como aqueles momentos eram difíceis para o rei. Mesmo cercado pelas responsabilidades do governo, ele precisava de ajuda. As pessoas que o acompanhavam procuravam uma maneira de lhe trazer conforto, observando sua tristeza e pensando no que poderiam fazer por ele.",
+        "Os servos sugeriram procurar alguém que soubesse tocar harpa. Quando Saul estivesse angustiado, a música poderia trazer alívio. A proposta não era fingir que o sofrimento não existia nem repreender o rei por estar mal. Era usar um recurso conhecido para oferecer conforto durante aqueles momentos difíceis. Saul concordou e pediu que encontrassem um bom músico.",
+        "Um dos servos lembrou de Davi, filho de Jessé, de Belém. Disse que o jovem sabia tocar, falava bem e tinha boas qualidades. Também reconheceu que o Senhor estava com ele. Davi não estava presente para anunciar o próprio talento. Alguém que o conhecia percebeu que sua habilidade poderia ser útil a outra pessoa."
+      ],
+      "image": "130/part1.webp",
+      "alt": "Saul está pensativo em seu assento enquanto servos conversam com respeito sobre como ajudá-lo."
+    },
+    {
+      "heading": "Do campo à presença do rei",
+      "paragraphs": [
+        "Saul enviou mensageiros a Jessé pedindo que mandasse Davi, que cuidava das ovelhas. O trabalho no campo fazia parte da vida do jovem, mas agora surgia outra tarefa. Sua música, aprendida e praticada antes daquele convite, encontraria um lugar diferente. Um dom cultivado em dias comuns poderia se transformar em serviço num momento inesperado.",
+        "Jessé preparou presentes para o rei e os enviou com o filho. Davi partiu levando pão, vinho e um cabrito, conforme o costume da visita. A viagem levava Davi para uma tarefa muito diferente das que conhecia. Ele saía do ambiente do rebanho e dos campos de sua família para servir na casa de um governante.",
+        "Quando Davi chegou, Saul se agradou muito dele. O jovem passou a servi-lo e tornou-se também seu escudeiro. O rei mandou dizer a Jessé que desejava mantê-lo ali. A relação começava com acolhimento e uma necessidade de cuidado. Outras dificuldades viriam depois, mas naquele momento havia uma oportunidade para Davi oferecer o que sabia fazer."
+      ],
+      "image": "130/part2.webp",
+      "alt": "Jessé se despede de Davi, que leva a lira e os presentes preparados para a visita ao rei."
+    },
+    {
+      "heading": "As cordas e o alívio",
+      "paragraphs": [
+        "Sempre que Saul passava por aqueles momentos de aflição, Davi pegava a harpa e tocava. O som das cordas acompanhava a presença do jovem diante do rei. Ao ouvir aquela música, Saul sentia alívio e ficava melhor. A habilidade de Davi não era usada para humilhar quem sofria nem para mostrar que era superior aos outros.",
+        "A música tinha um lugar de serviço. Tocar bem exigia atenção ao instrumento, ao momento e à pessoa que escutava. Enquanto as notas enchiam o ambiente, Saul encontrava alívio e Davi continuava tocando com cuidado. Uma capacidade que poderia aparecer apenas como talento pessoal tornou-se uma forma de estar perto de alguém em dificuldade.",
+        "Assim, Davi passou a servir também por meio da música. O jovem que cuidava de ovelhas em Belém agora tocava diante do rei. Quando a aflição chegava, pegava a harpa e oferecia o que sabia fazer. Saul o escutava, encontrava alívio e podia descansar. Naquele salão, o som das cordas acompanhava uma presença que lhe fazia bem."
+      ],
+      "image": "130/part3.webp",
+      "alt": "Saul escuta com serenidade a música de Davi, com expressões de descanso e uma atmosfera acolhedora."
+    }
+  ],
+  "lesson": "Nossas habilidades podem servir ao cuidado. Uma música, um desenho ou uma leitura compartilhada pode confortar alguém, desde que respeitemos o que a pessoa deseja. O sofrimento não deve virar motivo de vergonha ou acusação espiritual. Quando a tristeza ou a angústia persistem, adultos responsáveis e profissionais de saúde podem ajudar. Davi ofereceu sua música; nós podemos oferecer companhia e também reconhecer quando é necessário buscar apoio além do que sabemos fazer.",
+  "question": "Que habilidade sua pode trazer alegria ou conforto a alguém, sem pressionar a pessoa a se sentir melhor depressa?",
+  "prayer": "Deus, ajuda-nos a usar nossos talentos com carinho e humildade. Cuida de quem vive tristeza, medo ou angústia, e guia essas pessoas até o apoio de que precisam. Ensina-nos a oferecer companhia, respeitar sentimentos e reconhecer os limites da ajuda que podemos dar. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi toca uma pequena lira de madeira diante de Saul, numa sala tranquila iluminada pelo entardecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent olive skin reddish-brown curls sand tunic green sash playing small ancient wooden lyre, not modern harp. Saul tall adult dark hair beard ochre royal robe simple crown seated peacefully. No visible spirits, demons, threatening shadows or magic. Only cast named in scene. Scene: Davi toca uma pequena lira de madeira diante de Saul, numa sala tranquila iluminada pelo entardecer."
+    },
+    {
+      "role": "part1",
+      "alt": "Saul está pensativo em seu assento enquanto servos conversam com respeito sobre como ajudá-lo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent olive skin reddish-brown curls sand tunic green sash playing small ancient wooden lyre, not modern harp. Saul tall adult dark hair beard ochre royal robe simple crown seated peacefully. No visible spirits, demons, threatening shadows or magic. Only cast named in scene. Scene: Saul está pensativo em seu assento enquanto servos conversam com respeito sobre como ajudá-lo. MANDATORY SCENE CAST: Only Saul and adult palace servants. David, Jesse and musical instruments are absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Jessé se despede de Davi, que leva a lira e os presentes preparados para a visita ao rei.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent olive skin reddish-brown curls sand tunic green sash playing small ancient wooden lyre, not modern harp. Saul tall adult dark hair beard ochre royal robe simple crown seated peacefully. No visible spirits, demons, threatening shadows or magic. Only cast named in scene. Scene: Jessé se despede de Davi, que leva a lira e os presentes preparados para a visita ao rei. MANDATORY SCENE CAST: Only Jesse and David; Saul is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Saul escuta com serenidade a música de Davi, com expressões de descanso e uma atmosfera acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent olive skin reddish-brown curls sand tunic green sash playing small ancient wooden lyre, not modern harp. Saul tall adult dark hair beard ochre royal robe simple crown seated peacefully. No visible spirits, demons, threatening shadows or magic. Only cast named in scene. Scene: Saul escuta com serenidade a música de Davi, com expressões de descanso e uma atmosfera acolhedora."
+    }
+  ]
+}

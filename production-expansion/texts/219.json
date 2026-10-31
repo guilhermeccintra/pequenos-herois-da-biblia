@@ -1,0 +1,74 @@
+{
+  "id": 219,
+  "title": "Asas para Quem Está Cansado",
+  "subtitle": "A esperança que renova as forças",
+  "reference": "Isaías 40:25–31",
+  "description": "O profeta convida o povo a olhar para as estrelas e confiar no Criador, que sustenta quem está cansado.",
+  "testament": "antigo",
+  "cover": "/images/covers/219.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Olhar para o céu",
+      "paragraphs": [
+        "No capítulo 40 de Isaías, uma mensagem de consolo chama o povo a renovar a esperança. Perto do final, surge um convite para levantar os olhos e observar o céu. Quem criou todas aquelas estrelas? A pergunta conduz a atenção para a grandeza do Senhor, lembrado como o Criador de tudo.",
+        "A mensagem apresenta Deus conhecendo e chamando as estrelas. O céu parece imenso aos nossos olhos, cheio de luzes que mal conseguimos contar. Mesmo essa vastidão está diante de seu cuidado. A imagem oferece admiração e confiança a pessoas que precisavam lembrar quem as acompanhava em meio às dificuldades.",
+        "Às vezes, quando estamos preocupados, nossos pensamentos ficam presos ao que está bem perto. O convite de Isaías amplia o olhar. O povo é chamado a recordar uma história maior que seu cansaço. Contemplar o Criador pode abrir espaço para respirar, apresentar a aflição e acolher uma palavra de esperança."
+      ],
+      "image": "219/part1.webp",
+      "alt": "Isaías e famílias contemplam o céu estrelado"
+    },
+    {
+      "heading": "O cansaço pode ser apresentado",
+      "paragraphs": [
+        "A mensagem também escuta uma queixa de Israel. O povo se sentia como se seu caminho estivesse escondido de Deus e sua causa tivesse sido esquecida. Eram palavras de quem carregava uma grande preocupação. O texto responde lembrando que o Senhor é eterno e que seu entendimento alcança além do nosso.",
+        "O Criador dos confins da terra é apresentado como aquele que permanece firme. Sua força pode sustentar quem está enfraquecido. A promessa de auxílio se aproxima justamente de quem tem pouco vigor. Há acolhimento nessa mensagem: as pessoas cansadas podem procurar o Senhor e pedir forças para continuar seu caminho.",
+        "Isaías reconhece que até os jovens, lembrados por sua energia, podem se cansar e tropeçar. O limite faz parte da vida humana. A esperança oferecida pelo profeta acolhe essa realidade e direciona o coração a Deus. Podemos admitir que precisamos descansar, receber cuidado e encontrar companhia para o que pesa."
+      ],
+      "image": "219/part2.webp",
+      "alt": "Pessoas cansadas recebem água e companhia"
+    },
+    {
+      "heading": "Esperança que ganha asas",
+      "paragraphs": [
+        "Então aparece a imagem de uma águia abrindo as asas. Quem espera no Senhor recebe renovação de forças. A beleza do voo ajuda a imaginar um coração que reencontra coragem depois do desânimo. O poema também fala de correr e caminhar, aproximando a promessa tanto dos grandes movimentos quanto dos passos comuns.",
+        "Esperar em Deus envolve confiança enquanto a vida continua. Podemos orar, receber ajuda e fazer aquilo que está ao nosso alcance. Às vezes, a força renovada aparece como disposição para tentar novamente; em outras ocasiões, como coragem para pedir apoio ou paciência para atravessar uma etapa que exige tempo.",
+        "O convite às estrelas termina perto dos pés de quem caminha. A mesma mensagem que contempla o céu alcança a pessoa cansada e sua necessidade de hoje. Podemos guardar a imagem da águia e a lembrança do Criador. Há esperança para apresentar nossos limites a Deus e acolher o cuidado que nos ajuda a seguir."
+      ],
+      "image": "219/part3.webp",
+      "alt": "Viajantes retomam um caminho com esperança"
+    }
+  ],
+  "lesson": "Você pode contar a Deus quando estiver cansado ou desanimado. Isaías lembra que o Senhor conhece nossas necessidades e oferece esperança. Receber descanso, conversar com alguém de confiança e dividir uma dificuldade podem ajudar a recuperar as forças. Pense no cuidado de que precisa hoje e acolha essa ajuda. A coragem também aparece quando reconhecemos nossos limites e permitimos que alguém caminhe conosco.",
+  "question": "Que tipo de cuidado pode ajudar você a renovar suas forças hoje?",
+  "prayer": "Senhor, tu conheces meu cansaço e minhas preocupações. Ajuda-me a receber descanso e companhia quando preciso. Renova minha esperança e dá-me coragem para pedir ajuda. Que eu encontre forças para o próximo passo e perceba teu cuidado ao longo do caminho. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/ISA40.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma águia abre as asas sobre montanhas luminosas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Isaiah 40: majestic natural eagle soaring with broad wings above Judean mountain ridges at golden dawn, fine feather detail, uplifting expansive sky, no people, no supernatural animal features."
+    },
+    {
+      "role": "part1",
+      "alt": "Isaías e famílias contemplam o céu estrelado",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Isaiah standing with a small ancient Hebrew family on a safe hillside at twilight, pointing gently toward a vast starry sky, thoughtful hopeful faces, a seated elder resting nearby, no visible deity. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas cansadas recebem água e companhia",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew travelers resting beneath an olive tree, one adult offering a clay cup of water to a tired companion while a child rests beside family, compassionate warm scene, no illness or distress. "
+    },
+    {
+      "role": "part3",
+      "alt": "Viajantes retomam um caminho com esperança",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew group of adults and children walking together on broad gentle mountain path after resting, supportive companionship, morning sunlight, small eagle far overhead, calm determined expressions. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

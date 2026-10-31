@@ -1,0 +1,71 @@
+{
+  "id": 290,
+  "title": "O Servo que Precisava Perdoar",
+  "subtitle": "A misericórdia recebida deve alcançar o próximo",
+  "reference": "Mateus 18:21–35",
+  "description": "Depois de receber o perdão de uma dívida enorme, um servo se recusa a ter misericórdia de seu companheiro.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.18.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma dívida impossível",
+      "paragraphs": [
+        "Pedro perguntou a Jesus quantas vezes deveria perdoar um irmão que pecasse contra ele. Sugeriu sete vezes. Jesus respondeu ampliando muito essa conta e contou uma parábola sobre o Reino dos céus. Um rei resolveu acertar as contas com seus servos. Um deles foi trazido com uma dívida tão enorme que não tinha como pagá-la.",
+        "Como não havia recursos para saldar a conta, o rei ordenou que fossem vendidos os bens do homem e sua família, conforme a situação dura descrita na história. O servo se lançou diante dele e pediu paciência, prometendo pagar tudo. Seu desespero era grande, mas a dívida estava muito além de sua capacidade.",
+        "O rei teve compaixão. Em vez de apenas dar um prazo maior, perdoou a dívida inteira e deixou o servo ir. A mudança era imensa. O homem que acabara de enfrentar uma perda terrível saía livre daquele peso. Havia recebido uma misericórdia que não conseguiria comprar com esforço ou devolver na mesma medida."
+      ],
+      "alt": "O servo pede misericórdia ao rei diante de sua grande dívida.",
+      "image": "290/part1.webp"
+    },
+    {
+      "heading": "Um pedido muito parecido",
+      "paragraphs": [
+        "Ao sair, esse servo encontrou um companheiro que lhe devia uma quantia muito menor. Agarrou-o e exigiu o pagamento. O companheiro se ajoelhou e pediu paciência, prometendo pagar. Suas palavras eram parecidas com as que o primeiro servo acabara de dizer ao rei. A oportunidade de oferecer misericórdia estava agora diante dele.",
+        "Mas o servo não quis ouvir. Mandou prender o companheiro até que a dívida fosse paga. O perdão que recebera não havia mudado seu modo de tratar o outro. Ele desejava compaixão para si e dureza para quem dependia de sua decisão. A diferença entre a enorme dívida perdoada e a pequena dívida cobrada tornava sua atitude ainda mais clara.",
+        "Outros servos viram o que aconteceu e ficaram muito tristes. Foram contar ao rei. Não trataram a crueldade como assunto sem importância. A misericórdia recebida pelo primeiro homem tinha sido seguida de violência e recusa de cuidado. Sua liberdade não deveria servir para oprimir alguém numa situação parecida, embora muito menor que a sua."
+      ],
+      "alt": "O servo exige o pagamento do companheiro sem demonstrar compaixão.",
+      "image": "290/part2.webp"
+    },
+    {
+      "heading": "Uma misericórdia que deve continuar",
+      "paragraphs": [
+        "O rei chamou o servo de volta e o repreendeu. Lembrou que havia perdoado toda aquela dívida porque ele pedira. Não deveria também ter tido misericórdia de seu companheiro? A pergunta expunha a contradição. Quem recebera tamanho perdão agira como se nunca tivesse precisado de ajuda. Sua memória da compaixão não chegara às mãos.",
+        "A história terminou com consequências severas para aquele servo. Jesus usou o final como advertência sobre perdoar de coração. Não bastava contar quantas vezes alguém merecia uma nova chance enquanto esquecia a própria necessidade de misericórdia. O perdão de Deus deveria transformar a maneira como seus seguidores tratavam as falhas e as dívidas uns dos outros.",
+        "Pedro começara perguntando quantas vezes deveria perdoar. Ao final da parábola, a enorme dívida cancelada pelo rei ajudava a enxergar a pergunta de outro modo. Quem recebia misericórdia era chamado a oferecê-la também. A lembrança do servo deixava um convite sério: permitir que o perdão de Deus transformasse o coração e chegasse à maneira de tratar o próximo."
+      ],
+      "alt": "O rei chama o servo para prestar contas de sua atitude.",
+      "image": "290/part3.webp"
+    }
+  ],
+  "lesson": "Quando recebemos perdão, somos convidados a tratar os outros com misericórdia. Isso não significa esquecer limites, aceitar agressões ou deixar de pedir ajuda. Podemos buscar justiça sem alimentar vingança. Perdoar de coração pode levar tempo e precisar de apoio, especialmente quando a dor é grande. A história ensina a não exigir compaixão apenas para nós, enquanto recusamos qualquer cuidado a quem também falhou.",
+  "question": "Como você pode buscar uma solução justa para um conflito sem tentar se vingar?",
+  "prayer": "Pai misericordioso, obrigado pelo perdão que me ofereces. Ajuda-me a reconhecer minhas falhas e a tratar os outros com compaixão. Quando eu estiver magoado, ensina-me a buscar apoio e proteção sem alimentar vingança. Dá-me sabedoria para construir caminhos de perdão com responsabilidade. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/290.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um servo recebe a compaixão do rei.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene dignified mature king olive skin gray beard deep blue robe simple gold circlet seated in first-century stone audience hall extending merciful open hand to kneeling adult servant rust robe, warm light, no weapons no text. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O servo pede tempo para pagar sua dívida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same rust-robed servant kneeling respectfully before king blue robe gold circlet, simple accounting scroll rolled closed on low table, worried pleading expression, warm royal stone hall, no chains no violence. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O servo cobra a dívida do companheiro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same rust-robed servant sternly demanding payment from adult companion in muted green tunic on stone street, companion open pleading hands, physical distance no grabbing no assault, two concerned adult witnesses background. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O rei questiona a falta de misericórdia do servo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same king blue robe gold circlet speaking firmly but calmly to rust-robed servant standing ashamed in audience hall, open explanatory gesture, no punishment imagery no chains, thoughtful solemn cinematic lighting. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

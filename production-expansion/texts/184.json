@@ -1,0 +1,74 @@
+{
+  "id": 184,
+  "title": "Uma Mesa com Lugar para Outros",
+  "subtitle": "Justiça também faz parte da reconstrução",
+  "reference": "Neemias 5",
+  "description": "Enquanto as muralhas crescem, algumas famílias passam necessidade. Neemias escuta o sofrimento delas e chama os líderes a corrigir uma injustiça.",
+  "testament": "antigo",
+  "cover": "/images/covers/184.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma dificuldade dentro da cidade",
+      "paragraphs": [
+        "A obra das muralhas de Jerusalém enfrentava problemas vindos de fora, mas havia também sofrimento dentro da própria comunidade. Muitas famílias levantaram a voz para pedir ajuda. Algumas não tinham alimento suficiente. Outras precisavam entregar campos, vinhas e casas como garantia para conseguir comida durante um tempo de escassez.",
+        "Havia ainda quem tomasse dinheiro emprestado para pagar os impostos do rei. As dívidas se tornavam tão pesadas que filhos e filhas acabavam submetidos a servidão. Os pais se sentiam sem saída, porque suas terras estavam nas mãos de outras pessoas. Os moradores que deviam apoiar uns aos outros estavam vivendo uma situação profundamente injusta.",
+        "Neemias ouviu as queixas e ficou muito indignado. A muralha podia estar crescendo, mas isso não tornava aceitável o sofrimento das famílias. Uma cidade protegida por pedras também precisava ser um lugar onde as pessoas fossem tratadas com justiça. Antes de responder, Neemias refletiu sobre o que havia escutado e sobre a atitude que precisava tomar."
+      ],
+      "image": "184/part1.webp",
+      "alt": "Moradores conversam sobre a dificuldade de conseguir alimento para suas famílias."
+    },
+    {
+      "heading": "Corrigir o que estava errado",
+      "paragraphs": [
+        "Ele confrontou os nobres e as autoridades que cobravam juros de seus próprios irmãos. Reuniu uma grande assembleia e explicou a contradição: alguns trabalhavam para libertar compatriotas da servidão, enquanto outros os colocavam nessa situação novamente. Os responsáveis ficaram em silêncio. Não tinham uma boa resposta para justificar o dano que estavam causando.",
+        "Neemias pediu que parassem com aquelas cobranças. Também incluiu a si mesmo, seus irmãos e seus ajudantes no compromisso de mudar a forma de lidar com os empréstimos. Em seguida, chamou os líderes a devolver campos, vinhas, oliveiras, casas e valores cobrados. A correção precisava ser concreta, alcançando aquilo que as famílias haviam perdido.",
+        "Os líderes prometeram devolver e não exigir mais aquelas coisas. Neemias chamou os sacerdotes para testemunhar o compromisso. O povo respondeu com louvor, e os responsáveis cumpriram a promessa. Não bastou reconhecer que havia um problema: a injustiça começou a ser corrigida quando decisões e bens foram realmente devolvidos ao seu devido lugar."
+      ],
+      "image": "184/part2.webp",
+      "alt": "Neemias reúne as autoridades para corrigir as cobranças injustas."
+    },
+    {
+      "heading": "Liderar sem aumentar o peso",
+      "paragraphs": [
+        "Neemias também conta como procurou agir durante seu governo. Não exigiu a provisão destinada ao governador da mesma maneira que seus antecessores, porque sabia que o povo já carregava um peso grande. Não quis usar sua posição para aumentar a dificuldade de quem estava tentando reconstruir a vida e a cidade.",
+        "Continuou ligado ao trabalho da muralha, junto de seus ajudantes. À sua mesa havia muitos convidados, incluindo moradores, autoridades e pessoas vindas de outros povos. O livro descreve uma mesa generosa, sustentada sem impor ao povo aquela cobrança. Sua liderança precisava combinar a palavra dita na assembleia com o exemplo de sua própria casa.",
+        "A história termina com Neemias pedindo a Deus que se lembre do bem feito ao povo. A reconstrução não era apenas levantar portas e torres. Também era escutar quem sofria, corrigir cobranças injustas e usar a autoridade para servir. Uma cidade mais forte precisava de pedras firmes e de relações em que os mais vulneráveis fossem levados a sério."
+      ],
+      "image": "184/part3.webp",
+      "alt": "A mesa de Neemias acolhe muitos convidados."
+    }
+  ],
+  "lesson": "Quando uma regra ou uma atitude prejudica alguém, devemos escutar e procurar corrigir o que está errado. Pedir desculpas é importante, mas devolver o que foi tomado e reparar um dano também pode ser necessário. Crianças não precisam resolver dívidas de adultos; podem buscar ajuda quando veem injustiça. Em casa e na escola, podemos aprender a usar nossas vantagens para incluir, em vez de aumentar a dificuldade dos outros.",
+  "question": "Quando alguém é prejudicado numa brincadeira, o que pode ser feito para reparar a situação?",
+  "prayer": "Deus, ajuda-nos a ouvir quem está sofrendo e a tratar as pessoas com justiça. Dá sabedoria aos adultos que cuidam das famílias e da comunidade. Ensina-nos a reconhecer nossos erros, reparar o que pudermos e repartir com generosidade aquilo que recebemos. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH05.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias escuta as famílias que precisam de ajuda e justiça.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah seated at the same level as worried ancient Judean parents with children nearby, attentive respectful listening in a simple courtyard, gentle hopeful light, no dramatic poverty stereotypes. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Moradores conversam sobre a dificuldade de conseguir alimento para suas famílias.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean mothers and fathers gathered with modest nearly empty grain baskets in a village courtyard, children safely beside parents, serious but dignified faces, soft natural light. "
+    },
+    {
+      "role": "part2",
+      "alt": "Neemias reúne as autoridades para corrigir as cobranças injustas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah addresses several well-dressed adult leaders in a public ancient courtyard assembly, calm firm gesture, ordinary families listening, no shouting violence or humiliation. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "A mesa de Neemias acolhe muitos convidados.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Long simple ancient banquet table with bread, vegetables and bowls, Nehemiah shares a meal with diverse adult guests and community members, warm welcoming lantern glow, generous but modest atmosphere. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

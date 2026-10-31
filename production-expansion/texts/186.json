@@ -1,0 +1,75 @@
+{
+  "id": 186,
+  "title": "Os Portões se Abrem Outra Vez",
+  "subtitle": "Terminar a obra e continuar cuidando",
+  "reference": "Neemias 6:15–19; 7:1–3",
+  "description": "As muralhas de Jerusalém ficam prontas em cinquenta e dois dias. Neemias então organiza as pessoas que continuarão cuidando da cidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/186.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A última etapa",
+      "paragraphs": [
+        "Depois de muitas pedras carregadas, portas preparadas e dificuldades enfrentadas, a muralha de Jerusalém ficou pronta. O livro de Neemias registra o dia e o tempo de trabalho: no vigésimo quinto dia do mês de elul, depois de cinquenta e dois dias. A obra que parecera impossível para alguns agora podia ser vista ao redor da cidade.",
+        "Os moradores tinham enfrentado zombaria, ameaças e cansaço. Também precisaram corrigir injustiças dentro da comunidade e resistir a tentativas de engano. Nenhuma dessas dificuldades tornou desnecessário o trabalho diário. A conclusão foi alcançada por pessoas que continuaram colocando mãos, atenção e responsabilidade numa tarefa que precisava de muitas contribuições.",
+        "Quando os adversários souberam que a muralha estava concluída, perderam a confiança que tinham em impedir a obra. Reconheceram que aquele trabalho havia sido realizado com a ajuda de Deus. O resultado não servia apenas para mostrar que Neemias tinha razão. Significava proteção e uma nova possibilidade de organização para os moradores de Jerusalém."
+      ],
+      "image": "186/part1.webp",
+      "alt": "Os moradores observam a muralha finalmente concluída."
+    },
+    {
+      "heading": "Nem todo problema termina junto",
+      "paragraphs": [
+        "Mesmo com a muralha pronta, Neemias ainda recebia pressões. Alguns nobres de Judá trocavam muitas cartas com Tobias, que tinha relações de parentesco com famílias da região. Falavam bem dele a Neemias e levavam a ele notícias do que Neemias dizia. Tobias também continuava enviando cartas para provocar medo.",
+        "O relato não esconde essas dificuldades depois da conclusão. Uma construção terminada não resolve automaticamente todos os conflitos entre as pessoas. A cidade estava mais protegida, mas a comunidade ainda precisava de verdade, lealdade e discernimento. Neemias teria de continuar atento, mesmo depois de alcançar aquele resultado tão importante.",
+        "Ele colocou as portas nos portões e nomeou porteiros, cantores e levitas. Havia serviços diferentes para manter a vida da cidade. O trabalho deixava de ser somente reconstruir e passava também a conservar, organizar e cuidar. As mãos que tinham levantado uma muralha agora precisavam garantir que ela cumprisse sua função."
+      ],
+      "image": "186/part2.webp",
+      "alt": "Neemias organiza as responsabilidades que continuam depois da obra."
+    },
+    {
+      "heading": "Gente em quem confiar",
+      "paragraphs": [
+        "Neemias entregou responsabilidades a Hanani, seu irmão, e a Hananias, comandante da fortaleza. O texto destaca que Hananias era um homem fiel e temente a Deus. Para cuidar de Jerusalém, não bastava parecer importante. A responsabilidade deveria ser confiada a pessoas cuja conduta inspirasse confiança e respeito.",
+        "Neemias também deu orientações sobre os horários de abrir e fechar os portões. Pediu que as portas fossem trancadas enquanto os responsáveis ainda estivessem presentes e que moradores fossem designados para vigiar, cada um em seu posto e perto de sua casa. A proteção dependia de combinar o trabalho e cumprir os cuidados necessários.",
+        "Assim, a conclusão das muralhas abriu uma nova etapa. O povo podia agradecer pelo que havia conseguido e, ao mesmo tempo, assumir o cuidado com aquilo que construíra. Jerusalém não precisava apenas de uma grande arrancada de esforço. Precisava também de gente fiel nas tarefas de cada dia, quando a novidade da obra pronta desse lugar à rotina."
+      ],
+      "image": "186/part3.webp",
+      "alt": "Porteiros e moradores cuidam dos portões conforme o combinado."
+    }
+  ],
+  "lesson": "Terminar uma tarefa é motivo de alegria, mas algumas coisas continuam precisando de cuidado. Depois de plantar, é preciso regar; depois de organizar os materiais, é preciso guardá-los bem. Podemos celebrar o resultado e combinar como conservar aquilo que foi feito. Ser responsável também aparece nas pequenas tarefas repetidas, quando ninguém está fazendo uma festa ou oferecendo um prêmio por cada cuidado.",
+  "question": "Que coisa boa que você ajudou a fazer precisa de cuidado para continuar funcionando?",
+  "prayer": "Deus, obrigado pelas tarefas que conseguimos concluir com ajuda. Ensina-nos a conservar o que foi feito e a cumprir nossos combinados com fidelidade. Abençoa as pessoas responsáveis pela segurança da comunidade e ajuda-nos a reconhecer e respeitar seu trabalho diário. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH06.htm",
+    "https://ebible.org/engwebp/NEH07.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias contempla os portões reconstruídos de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah near a completed sturdy ancient Jerusalem city gate with fresh wooden doors, grateful adults beside him and warm sunrise beyond, no construction scaffolds, richly detailed stone. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Os moradores observam a muralha finalmente concluída.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean families admire the completed city wall from a safe plaza, adult workers set tools aside and smile with relief, warm afternoon light, city hills beyond. "
+    },
+    {
+      "role": "part2",
+      "alt": "Neemias organiza as responsabilidades que continuam depois da obra.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah at a simple wooden table speaks with three trusted adult city workers, a few rolled letters nearby, calm planning and thoughtful expressions, completed stone gateway in background. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Porteiros e moradores cuidam dos portões conforme o combinado.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Two adult ancient gatekeepers carefully close a heavy wooden city gate while neighbors remain safely clear, Nehemiah observes from distance, late-day warm light, no urgency or threat. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

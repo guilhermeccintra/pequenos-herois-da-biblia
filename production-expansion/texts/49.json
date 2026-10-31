@@ -1,0 +1,71 @@
+{
+  "id": 49,
+  "title": "A Saída de Ló",
+  "subtitle": "Aceitar a mão que ajuda a sair",
+  "reference": "Gênesis 19:1–29",
+  "description": "Ló recebe dois mensageiros em Sodoma. Diante do perigo e da destruição anunciada, sua família precisa ouvir, sair e buscar proteção.",
+  "testament": "antigo",
+  "cover": "/images/covers/49.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Visitantes em uma cidade perigosa",
+      "paragraphs": [
+        "Dois mensageiros chegaram a Sodoma ao anoitecer. Ló estava à entrada da cidade e foi recebê-los. Insistiu para que passassem a noite em sua casa, onde poderiam lavar os pés e descansar. Preparou uma refeição, e eles comeram. A hospitalidade de Ló contrastava com o perigo que logo se aproximaria de sua porta.",
+        "Homens da cidade cercaram a casa e queriam fazer mal aos visitantes. Ló tentou impedir a violência, mas também fez uma proposta terrível que colocava suas filhas em risco. O relato mostra uma situação profundamente errada; não nos convida a imitar aquela decisão. Ninguém deveria ser oferecido ou ferido para proteger outra pessoa.",
+        "Os mensageiros puxaram Ló para dentro e fecharam a porta. Os homens de fora ficaram impedidos de encontrar a entrada. A violência da cidade estava diante deles. Os visitantes disseram a Ló que reunisse os seus familiares e saísse, porque a destruição daquele lugar havia sido determinada diante da gravidade de seu mal."
+      ],
+      "image": "49/part1.webp",
+      "alt": "Ló recebe dois viajantes à entrada de sua casa."
+    },
+    {
+      "heading": "Uma mão para sair do perigo",
+      "paragraphs": [
+        "Ló falou com os homens ligados à sua família, mas eles pensaram que estava brincando. A advertência não foi levada a sério. Quando amanheceu, os mensageiros insistiram para que ele partisse com a esposa e as duas filhas que estavam em casa. Era preciso deixar o lugar antes que a destruição chegasse.",
+        "Mesmo assim, Ló demorou. Então os mensageiros seguraram sua mão e as mãos de sua esposa e de suas filhas. A Bíblia liga esse gesto à misericórdia de Deus. Eles conduziram a família para fora da cidade. O cuidado não foi apenas uma mensagem distante: naquele momento, foi também a mão que ajudou a sair.",
+        "Já fora de Sodoma, receberam orientação para escapar, sem parar na planície nem olhar para trás. Ló teve medo de não alcançar a região montanhosa e pediu permissão para ir a uma cidade pequena e próxima. Seu pedido foi aceito. O lugar se chamaria Zoar, e ele deveria chegar ali sem demora."
+      ],
+      "image": "49/part2.webp",
+      "alt": "Dois mensageiros ajudam a família de Ló a sair ao amanhecer."
+    },
+    {
+      "heading": "Um caminho marcado por perda e cuidado",
+      "paragraphs": [
+        "O sol já havia nascido quando Ló chegou a Zoar. Então Sodoma e Gomorra foram destruídas. Foi um acontecimento de grande perda de vidas, contado com seriedade. Não era uma cena de diversão nem uma razão para comemorar o sofrimento dos outros. A narrativa mostrava as consequências de uma cidade profundamente marcada pela violência.",
+        "A esposa de Ló olhou para trás e se tornou uma estátua de sal. Essa parte dolorosa também faz parte do relato. Ló e suas filhas haviam recebido uma saída, mas a jornada não terminou sem perda. A história não esconde a tristeza, nem transforma o sofrimento daquela família em uma aventura sem consequências.",
+        "Na manhã seguinte, Abraão olhou para a região e viu a fumaça que subia. O texto conta que Deus se lembrou dele e retirou Ló do meio da destruição. A oração e o cuidado aparecem ligados ao resgate. Em uma história tão difícil, permanece a lembrança das mãos dos mensageiros, conduzindo pessoas para fora do perigo."
+      ],
+      "image": "49/part3.webp",
+      "alt": "Ló e suas filhas se aproximam de uma pequena cidade."
+    }
+  ],
+  "lesson": "Quando existe perigo real, ouvir uma orientação segura e aceitar ajuda pode proteger a vida. Crianças não precisam enfrentar violência nem tentar salvar alguém sozinhas. Procure um adulto de confiança e siga as orientações de proteção. A história também nos lembra de nunca tratar o sofrimento alheio como espetáculo. Podemos desejar justiça e, ao mesmo tempo, ter compaixão pelas pessoas e famílias atingidas.",
+  "question": "Quais pessoas de confiança podem ajudar você a sair de uma situação perigosa?",
+  "prayer": "Deus de misericórdia, protege quem está em perigo e acompanha quem perdeu pessoas queridas. Ajuda-nos a reconhecer orientações seguras e a aceitar ajuda. Que nunca tratemos a violência como brincadeira. Ensina nossa família a cuidar e a buscar proteção. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ló e sua família deixam a cidade acompanhados por dois mensageiros.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Lot: middle-aged olive-skinned man with dark beard and some gray, blue-green tunic tan mantle. Wife: adult olive skin, plum robe beige headscarf. Two daughters clearly adults, one sage green dress one ochre dress, modest headscarves. Two messengers in cream robes, ordinary men, no wings. Scene: Lot and his wife and two adult daughters guided safely away from ancient city by two ordinary-looking robed messengers, no wings, no destruction visible, dawn."
+    },
+    {
+      "role": "part1",
+      "alt": "Ló recebe dois viajantes à entrada de sua casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Lot: middle-aged olive-skinned man with dark beard and some gray, blue-green tunic tan mantle. Wife: adult olive skin, plum robe beige headscarf. Two daughters clearly adults, one sage green dress one ochre dress, modest headscarves. Two messengers in cream robes, ordinary men, no wings. Scene: Lot welcomes exactly two adult male travelers at modest stone house doorway at dusk, warm lamplight, no crowd or threat shown."
+    },
+    {
+      "role": "part2",
+      "alt": "Dois mensageiros ajudam a família de Ló a sair ao amanhecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Lot: middle-aged olive-skinned man with dark beard and some gray, blue-green tunic tan mantle. Wife: adult olive skin, plum robe beige headscarf. Two daughters clearly adults, one sage green dress one ochre dress, modest headscarves. Two messengers in cream robes, ordinary men, no wings. Scene: Two robed messengers gently guide Lot and his wife and two adult daughters by hands along safe street toward open gate, urgent but calm, no weapons."
+    },
+    {
+      "role": "part3",
+      "alt": "Ló e suas filhas se aproximam de uma pequena cidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Lot: middle-aged olive-skinned man with dark beard and some gray, blue-green tunic tan mantle. Wife: adult olive skin, plum robe beige headscarf. Two daughters clearly adults, one sage green dress one ochre dress, modest headscarves. Two messengers in cream robes, ordinary men, no wings. Scene: Lot and two adult daughters approach small distant town of Zoar at sunrise, front view focused on safe path, no salt figure, injury, flames or dead bodies."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+19&version=KJV"
+  ]
+}

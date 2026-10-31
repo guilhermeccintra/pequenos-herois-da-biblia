@@ -6,13 +6,15 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { isMp3 } from './generate-narration.mjs';
 
+import { STORY_COUNT, isStoryId, parseStorySelection, storyCode } from '../shared/collection.mjs';
+
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BUCKET = 'story-assets';
 const sha256 = value => createHash('sha256').update(value).digest('hex');
 class InstructionError extends Error {}
 
 export function audioObjectPath(id, digest) {
-  if (!Number.isInteger(id) || id < 1 || id > 40 || !/^[a-f0-9]{64}$/.test(digest)) throw new InstructionError('Identificação de áudio inválida.');
+  if (!isStoryId(id) || !/^[a-f0-9]{64}$/.test(digest)) throw new InstructionError('Identificação de áudio inválida.');
   return `audio/${String(id).padStart(2, '0')}/${digest}.mp3`;
 }
 
@@ -27,18 +29,22 @@ export function parseArgs(argv) {
     else if (arg === '--story' && argv[i + 1]) options.story = argv[++i];
     else throw new InstructionError('Use --dir PASTA, --story 1|all, --source human|elevenlabs e --confirm-upload.');
   }
-  if (!options.dir) throw new InstructionError('Informe --dir com a pasta dos MP3s revisados, nomeados 01.mp3 a 40.mp3.');
+  if (!options.dir) throw new InstructionError('Informe --dir com a pasta dos MP3s revisados, nomeados 01.mp3 a 365.mp3.');
   if (!['human', 'elevenlabs'].includes(options.source)) throw new InstructionError('--source deve ser human ou elevenlabs.');
-  if (options.story !== 'all' && !/^(?:[1-9]|[1-3][0-9]|40)$/.test(options.story)) throw new InstructionError('--story deve ser de 1 a 40 ou all.');
+  if (options.story !== 'all' && !parseStorySelection(options.story)) throw new InstructionError(`--story deve ser de 1 a ${STORY_COUNT} ou all.`);
   return options;
 }
 
 export async function main(argv = process.argv.slice(2), env = process.env, fetcher = fetch, stateDir = resolve(ROOT, 'content')) {
   const options = parseArgs(argv);
-  const names = (await readdir(options.dir)).filter(name => /^(?:0[1-9]|[1-3][0-9]|40)\.mp3$/.test(name)).sort();
+  const names = (await readdir(options.dir)).filter(name => {
+    if (!/^\d{2,3}\.mp3$/.test(name)) return false;
+    const id = Number(name.slice(0, -4));
+    return isStoryId(id) && name === `${storyCode(id)}.mp3`;
+  }).sort((a, b) => Number(a.slice(0, -4)) - Number(b.slice(0, -4)));
   const files = [];
   for (const name of names) {
-    const id = Number(name.slice(0, 2));
+    const id = Number(name.slice(0, -4));
     if (options.story !== 'all' && id !== Number(options.story)) continue;
     const bytes = await readFile(resolve(options.dir, name));
     if (!isMp3(bytes)) throw new InstructionError(`História ${id}: arquivo não reconhecido como MP3; revise a exportação.`);

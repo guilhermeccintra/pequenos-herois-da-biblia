@@ -1,0 +1,71 @@
+{
+  "id": 157,
+  "title": "A Mãe que Foi Buscar Ajuda",
+  "subtitle": "Perseverança num dia de dor",
+  "reference": "2 Reis 4:18–37",
+  "description": "O filho da mulher de Suném adoece de repente. Ela procura Eliseu com determinação, e o profeta volta à casa para levar aquela dor a Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/157.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um dia no campo",
+      "paragraphs": [
+        "O filho da mulher de Suném havia crescido. Certo dia, foi até o pai, que estava com os trabalhadores da colheita. De repente, começou a reclamar de uma forte dor na cabeça. O pai pediu a um servo que o levasse à mãe. O menino ficou no colo dela até o meio-dia, quando morreu.",
+        "A mãe subiu e o deitou na cama do quarto que havia preparado para Eliseu. Depois fechou a porta e saiu. Sua atitude mostra uma dor acompanhada de determinação. Ela precisava procurar ajuda e sabia aonde desejava ir. Não havia uma explicação simples para o que acontecera com o filho recebido depois de uma promessa tão importante.",
+        "Ela pediu ao marido um servo e um jumento para ir rapidamente até o homem de Deus e voltar. Ele estranhou a visita fora dos dias habituais, mas a mulher estava decidida. Preparou o animal e pediu ao servo que seguisse sem diminuir o passo, a menos que ela mandasse. Seu destino era o monte Carmelo, onde encontraria Eliseu."
+      ],
+      "image": "157/part1.webp",
+      "alt": "A mãe se prepara para viajar com um servo e um jumento, diante da casa em Suném."
+    },
+    {
+      "heading": "Uma dor que precisava ser ouvida",
+      "paragraphs": [
+        "A mulher viajou até o monte Carmelo. Eliseu a viu de longe e mandou Geazi perguntar se estava tudo bem com ela, com o marido e com o menino. Ela continuou até chegar ao profeta e se agarrou aos seus pés. Geazi tentou afastá-la, mas Eliseu pediu que a deixasse, reconhecendo sua profunda aflição.",
+        "Ela lembrou a conversa em que recebera a promessa de um filho. Não havia pedido para ser enganada com uma esperança que depois trouxesse tanta dor. Suas palavras eram difíceis, mas encontraram espaço. Eliseu não exigiu que a mãe organizasse primeiro seus sentimentos numa fala tranquila para então merecer atenção.",
+        "O profeta enviou Geazi à frente com seu bordão, orientando que o colocasse sobre o rosto do menino. A mulher, porém, afirmou que não deixaria Eliseu. Ele então se levantou e a acompanhou. Geazi fez o que recebera como orientação, mas não houve resposta da criança. Voltou pelo caminho e contou ao profeta que o menino não despertara."
+      ],
+      "image": "157/part2.webp",
+      "alt": "Eliseu escuta a mulher com atenção num caminho do monte Carmelo, reconhecendo sua preocupação."
+    },
+    {
+      "heading": "O reencontro com o filho",
+      "paragraphs": [
+        "Eliseu chegou à casa e encontrou o menino sobre sua cama. Entrou no quarto, fechou a porta e orou ao Senhor. Depois se aproximou da criança e se deitou sobre ela, colocando suas mãos junto às mãos do menino. O profeta permanecia ali, buscando a ajuda de Deus, enquanto a mãe esperava do lado de fora.",
+        "O corpo do menino se aqueceu. Depois de Eliseu continuar ali, a criança espirrou sete vezes e abriu os olhos. O profeta chamou Geazi e pediu que trouxesse a mãe. Quando ela entrou, Eliseu lhe disse que pegasse seu filho. A distância dolorosa daquele dia dava lugar a um reencontro que parecia impossível no começo da viagem.",
+        "A mulher se inclinou com gratidão, tomou o menino e saiu do quarto. Voltava a ter o filho junto de si depois da tristeza e da viagem apressada daquele dia. A cama preparada para o hóspede tinha se tornado o lugar de um milagre. Agora, mãe e filho deixavam aquele aposento para retomar juntos a vida na casa."
+      ],
+      "image": "157/part3.webp",
+      "alt": "A mãe sai do quarto de mãos dadas com o filho saudável, num momento de alegria e alívio."
+    }
+  ],
+  "lesson": "A mãe de Suném procurou ajuda com determinação, e Eliseu escutou sua dor. Quando alguém sofre, a atenção que oferecemos pode fazer diferença. Podemos ficar perto, ouvir com paciência e ajudar no que estiver ao nosso alcance. Também podemos levar a Deus nossas perguntas e nossas lágrimas. A história nos convida a valorizar a vida e a demonstrar amor com gestos concretos, respeitando o tempo e os sentimentos de cada pessoa.",
+  "question": "Como você pode mostrar que está levando a sério a dor de alguém, mesmo sem saber o que dizer?",
+  "prayer": "Deus, cuida das crianças e das famílias que enfrentam doença e medo. Dá atenção e sabedoria a quem oferece ajuda. Ensina-nos a escutar sem julgar, a buscar o cuidado necessário e a acompanhar com carinho quem vive dias de tristeza e espera. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A mãe abraça seu filho saudável no quarto de hóspedes, enquanto Eliseu observa com gratidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite mother adult olive skin teal dress cream scarf dark braid; Elisha adult receding dark hair neat beard green cloak; son healthy boy about seven dark curls cream tunic. Only safe scenes of travel prayer and healthy reunion, no death illness distress or medical action shown. Only named scene cast. Scene: A mãe abraça seu filho saudável no quarto de hóspedes, enquanto Eliseu observa com gratidão."
+    },
+    {
+      "role": "part1",
+      "alt": "A mãe se prepara para viajar com um servo e um jumento, diante da casa em Suném.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite mother adult olive skin teal dress cream scarf dark braid; Elisha adult receding dark hair neat beard green cloak; son healthy boy about seven dark curls cream tunic. Only safe scenes of travel prayer and healthy reunion, no death illness distress or medical action shown. Only named scene cast. Scene: A mãe se prepara para viajar com um servo e um jumento, diante da casa em Suném. MANDATORY SCENE CAST: Only the mother, one adult servant and a donkey outside her home. Elisha and the child are absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Eliseu escuta a mulher com atenção num caminho do monte Carmelo, reconhecendo sua preocupação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite mother adult olive skin teal dress cream scarf dark braid; Elisha adult receding dark hair neat beard green cloak; son healthy boy about seven dark curls cream tunic. Only safe scenes of travel prayer and healthy reunion, no death illness distress or medical action shown. Only named scene cast. Scene: Eliseu escuta a mulher com atenção num caminho do monte Carmelo, reconhecendo sua preocupação. MANDATORY SCENE CAST: Only the mother and Elisha. No child appears in this scene. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "A mãe sai do quarto de mãos dadas com o filho saudável, num momento de alegria e alívio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Shunammite mother adult olive skin teal dress cream scarf dark braid; Elisha adult receding dark hair neat beard green cloak; son healthy boy about seven dark curls cream tunic. Only safe scenes of travel prayer and healthy reunion, no death illness distress or medical action shown. Only named scene cast. Scene: A mãe sai do quarto de mãos dadas com o filho saudável, num momento de alegria e alívio."
+    }
+  ]
+}

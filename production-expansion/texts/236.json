@@ -1,0 +1,71 @@
+{
+  "id": 236,
+  "title": "Zacarias e a Boa Notícia",
+  "subtitle": "Uma promessa no meio da espera",
+  "reference": "Lucas 1:5–25",
+  "description": "Durante seu serviço no templo, Zacarias recebe uma notícia inesperada: Isabel terá um filho. O menino preparará o povo para receber o Senhor.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma oração antiga",
+      "paragraphs": [
+        "Zacarias era sacerdote, e Isabel, sua esposa, também vinha de uma família de sacerdotes. Os dois procuravam viver de acordo com os caminhos de Deus. Já eram idosos e não tinham filhos. Lucas conta sua tristeza sem dizer que eles valiam menos por causa disso. A fidelidade deles não dependia de terem a família que desejavam.",
+        "Certa vez, chegou o período em que o grupo de Zacarias deveria servir no templo de Jerusalém. Conforme o costume, ele foi escolhido para entrar e oferecer incenso. Do lado de fora, o povo permanecia em oração. Dentro, Zacarias realizava uma tarefa que fazia parte do cuidado espiritual de sua comunidade.",
+        "Foi ali que aconteceu algo inesperado. Um anjo apareceu à direita do altar do incenso. Zacarias ficou assustado. Aquele não era um encontro que pudesse prever ao começar seu trabalho. O mensageiro, porém, trouxe palavras para acalmar seu medo: Deus tinha ouvido sua oração. Uma notícia cheia de esperança estava a caminho."
+      ],
+      "alt": "Zacarias serve junto ao altar de incenso no templo.",
+      "image": "236/part1.webp"
+    },
+    {
+      "heading": "Um menino chamado João",
+      "paragraphs": [
+        "O anjo anunciou que Isabel teria um filho, e Zacarias deveria chamá-lo João. Seu nascimento traria alegria aos pais e a muitas outras pessoas. O menino receberia uma tarefa especial: ajudar o povo a voltar o coração para Deus. Sua vida prepararia o caminho para a chegada do Senhor.",
+        "A missão de João envolveria também relacionamentos. Ele chamaria as pessoas a abandonar escolhas erradas e a viver com sabedoria. Famílias seriam convidadas à reconciliação. O anúncio não descrevia alguém que buscaria aplausos para si. João apontaria para outro, ajudando as pessoas a se preparar para um encontro muito maior.",
+        "Zacarias pensou na própria idade e na idade de Isabel. Como poderia ter certeza de uma notícia tão surpreendente? O anjo se apresentou como Gabriel, enviado por Deus para lhe anunciar aquela alegria. Também disse que Zacarias ficaria sem falar até o cumprimento da promessa, porque não havia acreditado na mensagem recebida."
+      ],
+      "alt": "Gabriel anuncia a Zacarias que Isabel terá um filho.",
+      "image": "236/part2.webp"
+    },
+    {
+      "heading": "Esperar de outro jeito",
+      "paragraphs": [
+        "Enquanto isso, o povo esperava do lado de fora. Zacarias estava demorando mais do que imaginavam. Quando finalmente saiu, não conseguiu falar. Tentou se comunicar por gestos, e as pessoas perceberam que ele havia tido uma visão no templo. Havia muito para contar, mas naquele momento sua voz não saía.",
+        "Zacarias terminou os dias de seu serviço e voltou para casa. Depois, Isabel ficou grávida. O que parecia impossível para aquele casal começava a acontecer. Ela reconheceu o cuidado de Deus em sua vida. Sua alegria não apagava os muitos anos de espera, mas abria um novo capítulo dentro deles.",
+        "O menino ainda não havia nascido, e a promessa precisava amadurecer no tempo. Zacarias aprenderia a esperar também em silêncio. A história começara com um sacerdote cumprindo sua tarefa e um povo reunido em oração. Agora, uma casa se preparava para receber João, o filho que anunciaria a aproximação de Jesus."
+      ],
+      "alt": "Zacarias e Isabel recebem com esperança a notícia da gravidez.",
+      "image": "236/part3.webp"
+    }
+  ],
+  "lesson": "Esperar pode trazer perguntas, cansaço e sentimentos diferentes. Podemos falar com Deus sobre tudo isso e escutar quem cuida de nós. A história de Zacarias conta uma promessa específica feita à sua família; ela não significa que todo desejo terá o mesmo resultado. Também aprendemos que pessoas que não têm filhos continuam tendo valor, dignidade e muito amor para oferecer à sua comunidade.",
+  "question": "Quando uma espera fica difícil, com quem você pode conversar sobre o que sente?",
+  "prayer": "Deus, recebe nossas perguntas e nossas esperas. Ajuda-nos a ouvir com atenção, a cuidar de quem está triste e a reconhecer o valor de cada família. Dá-nos paciência para viver o dia de hoje com amor e confiança. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/236.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Zacarias e Isabel sorriem na entrada de sua casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly Jewish couple Zechariah and Elizabeth in their modest stone doorway, looking at each other with astonished tender hope, olive grove beyond. Zechariah silver beard, cream tunic, brown shawl. Elizabeth silver hair under mauve veil, sage dress. Golden late-afternoon light."
+    },
+    {
+      "role": "part1",
+      "alt": "Zacarias serve junto ao altar de incenso no templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly priest Zechariah with silver beard, white linen robe and woven sash carefully tending a small golden incense altar in the sanctuary. Gentle curling smoke, stone wall, warm lamplight, solemn medium-wide composition. No other people."
+    },
+    {
+      "role": "part2",
+      "alt": "Gabriel anuncia a Zacarias que Isabel terá um filho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Inside sanctuary, Zechariah silver beard white linen robe turns in surprised attention toward a kindly luminous messenger Gabriel in simple white robes beside incense altar. Gentle radiance without frightening effects, respectful faces, rich architectural detail."
+    },
+    {
+      "role": "part3",
+      "alt": "Zacarias e Isabel recebem com esperança a notícia da gravidez.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Elderly couple Zechariah silver beard cream tunic brown shawl and Elizabeth silver hair mauve veil sage dress sit in their modest stone courtyard, Elizabeth placing one hand gently on her early pregnant abdomen, Zechariah listening and smiling silently, potted herbs, soft sunlight. Exactly two people only. No Jesus, no additional person. Jesus is not yet born in this scene. The reference is only for rendering style, do not copy its characters."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 312,
+  "title": "Um Cesto na Muralha",
+  "subtitle": "Amigos que ajudam a encontrar saída",
+  "reference": "Atos 9:23–25",
+  "description": "Saulo enfrenta uma ameaça em Damasco. Seus amigos descobrem um jeito de protegê-lo, mostrando que aceitar ajuda também pode ser um gesto de coragem.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma mudança que incomodou",
+      "paragraphs": [
+        "Saulo tinha começado a anunciar Jesus em Damasco. Antes, perseguia os discípulos; agora falava da fé que havia tentado combater. A mudança despertava surpresa. As pessoas reconheciam o homem que chegara com outra intenção e ouviam suas palavras sobre Jesus. Ele aprendia a viver um novo caminho, acompanhado pelos discípulos da cidade.",
+        "Depois de algum tempo, certos opositores planejaram matá-lo. A discordância tinha se transformado em ameaça. Atos conta esse perigo de maneira breve, mas sua gravidade é clara. Saulo não estava diante de uma simples conversa difícil. Havia pessoas procurando uma oportunidade para tirar sua vida, e ele precisava de proteção.",
+        "A notícia do plano chegou ao conhecimento de Saulo. As portas da cidade eram vigiadas dia e noite para impedir sua saída. O caminho comum não parecia seguro. A situação exigia atenção. Continuar falando de Jesus não significava ignorar o risco ou fingir que a ameaça deixaria de existir se ele demonstrasse mais valentia."
+      ],
+      "image": "312/part1.webp",
+      "alt": "Saulo conversa seriamente com discípulos em uma casa de Damasco, enquanto eles escutam a notícia de uma ameaça."
+    },
+    {
+      "heading": "Uma saída diferente",
+      "paragraphs": [
+        "Os discípulos de Saulo participaram de sua proteção. Não deixaram que enfrentasse o problema sozinho. Pensaram em uma maneira de tirá-lo da cidade sem passar pelas portas vigiadas. A ajuda tomou uma forma simples e inesperada: um cesto. Algo usado para carregar objetos seria empregado naquela noite para preservar uma vida.",
+        "Quando escureceu, levaram Saulo até a muralha e o desceram dentro de um cesto. A saída aconteceu longe das portas vigiadas. De um lado estavam os amigos que o ajudavam; do outro, o caminho que permitiria deixar a cidade. Saulo recebeu aquele cuidado e alcançou uma passagem onde seus perseguidores não estavam esperando por ele.",
+        "Não era a partida de alguém aplaudido em uma praça. Era uma fuga discreta, durante a noite, diante de uma ameaça real. O homem que antes trazia autorizações para prender pessoas agora dependia das mãos de outros discípulos. Sua nova caminhada incluía descobrir que precisava receber cuidado, e não apenas oferecer palavras."
+      ],
+      "image": "312/part2.webp",
+      "alt": "Amigos adultos organizam um grande cesto e cordas resistentes em um aposento junto à muralha, com Saulo aguardando, sem crianças."
+    },
+    {
+      "heading": "A coragem de receber ajuda",
+      "paragraphs": [
+        "Saulo conseguiu deixar Damasco por aquela saída. A história ocupa poucos versículos, mas guarda uma cena que dificilmente seria esquecida: amigos reunidos, uma muralha e um cesto sendo baixado na escuridão. Nenhum desses discípulos é nomeado nessa passagem. Mesmo assim, sua participação foi importante para que Saulo continuasse vivo e seguisse sua missão.",
+        "O relato não transforma a fuga em vergonha. Buscar um lugar seguro era uma resposta sensata ao perigo. A confiança em Deus não exigia permanecer ao alcance de quem desejava machucá-lo. A comunidade colocou seu cuidado em prática, usando os recursos disponíveis para ajudar uma pessoa que precisava sair daquela situação.",
+        "Saulo ainda viveria muitas viagens e encontraria outros amigos pelo caminho. Antes de vários desses encontros, houve aquela noite em Damasco. O cesto não era sinal de grandeza, riqueza ou força. Tornou-se sinal de cooperação. Às vezes, o passo corajoso não é avançar sozinho, mas aceitar a mão que ajuda a encontrar uma saída segura."
+      ],
+      "image": "312/part3.webp",
+      "alt": "Saulo e dois amigos adultos se afastam da muralha por um caminho seguro ao amanhecer, com expressão de alívio."
+    }
+  ],
+  "lesson": "Os amigos de Saulo perceberam o perigo e cooperaram para ajudá-lo. Cada pessoa contribuiu para que ele encontrasse um caminho seguro. Podemos cultivar essa disposição de cuidar, prestando atenção a quem precisa e procurando ajuda responsável. Às vezes, a melhor atitude é contar o problema a alguém de confiança. A amizade se fortalece quando deixa de ser apenas uma palavra e aparece em gestos concretos de apoio e proteção.",
+  "question": "Em que situação você já percebeu que aceitar ajuda era melhor do que tentar resolver tudo sozinho?",
+  "prayer": "Deus, obrigado pelas pessoas que nos ajudam a encontrar segurança. Dá-me humildade para pedir apoio quando preciso e atenção para perceber quem está em dificuldade. Protege quem sofre ameaças e ensina-nos a cuidar uns dos outros com responsabilidade. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/312.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.9"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Saulo está protegido dentro de um grande cesto junto à base de uma muralha de Damasco à noite; amigos adultos o ajudam, em uma cena serena sem vertigem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl.  Scene: Saulo está protegido dentro de um grande cesto junto à base de uma muralha de Damasco à noite; amigos adultos o ajudam, em uma cena serena sem vertigem."
+    },
+    {
+      "role": "part1",
+      "alt": "Saulo conversa seriamente com discípulos em uma casa de Damasco, enquanto eles escutam a notícia de uma ameaça.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl.  Scene: Saulo conversa seriamente com discípulos em uma casa de Damasco, enquanto eles escutam a notícia de uma ameaça."
+    },
+    {
+      "role": "part2",
+      "alt": "Amigos adultos organizam um grande cesto e cordas resistentes em um aposento junto à muralha, com Saulo aguardando, sem crianças.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl.  Scene: Amigos adultos organizam um grande cesto e cordas resistentes em um aposento junto à muralha, com Saulo aguardando, sem crianças."
+    },
+    {
+      "role": "part3",
+      "alt": "Saulo e dois amigos adultos se afastam da muralha por um caminho seguro ao amanhecer, com expressão de alívio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Paul matches the bald seated man in the style reference: receding dark curly hair, dark beard, indigo tunic, beige shawl.  Scene: Saulo e dois amigos adultos se afastam da muralha por um caminho seguro ao amanhecer, com expressão de alívio."
+    }
+  ]
+}

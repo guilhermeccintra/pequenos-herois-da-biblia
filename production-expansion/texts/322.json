@@ -1,0 +1,71 @@
+{
+  "id": 322,
+  "title": "Uma Mensagem que Atravessa Fronteiras",
+  "subtitle": "A alegria de ouvir pela primeira vez",
+  "reference": "Atos 13:13–52",
+  "description": "Em Antioquia da Pisídia, Paulo conta a história de Jesus. A mensagem desperta perguntas, oposição e uma grande alegria entre pessoas que também desejam recebê-la.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um convite para falar",
+      "paragraphs": [
+        "Paulo e seus companheiros chegaram a Antioquia da Pisídia. Essa era outra cidade, diferente de Antioquia da Síria, de onde haviam sido enviados. No sábado, entraram na sinagoga e se sentaram. Depois da leitura da Lei e dos Profetas, os dirigentes perguntaram se tinham alguma palavra de encorajamento para o povo.",
+        "Paulo se levantou e começou a falar. Recordou a história de Israel, a saída do Egito, o caminho pelo deserto e a chegada à terra prometida. Lembrou também os juízes, Saul e Davi. Sua mensagem partia de uma história conhecida pelos ouvintes e os conduzia à promessa que Deus havia cumprido em Jesus.",
+        "Ele contou que Jesus fora rejeitado e morto, mas Deus o ressuscitara. Testemunhas o tinham visto vivo. Paulo anunciou o perdão recebido por meio dele e convidou as pessoas a crer. A boa notícia não era uma medalha para os mensageiros. Era um presente que apontava para o que Deus havia feito por meio de Jesus."
+      ],
+      "image": "322/part1.webp",
+      "alt": "Paulo se levanta para falar em uma sinagoga, com Barnabé ao lado e ouvintes atentos sentados em bancos simples."
+    },
+    {
+      "heading": "Uma cidade querendo escutar",
+      "paragraphs": [
+        "Ao saírem, os ouvintes pediram que Paulo e Barnabé voltassem a falar sobre essas coisas no sábado seguinte. Muitos os acompanharam, e os dois os encorajaram a permanecer na graça de Deus. Uma conversa havia despertado o desejo de continuar aprendendo. As pessoas não precisavam resolver todas as perguntas em um único encontro.",
+        "No sábado seguinte, quase toda a cidade se reuniu para ouvir a palavra do Senhor. Mas alguns ficaram com ciúme ao ver a multidão e começaram a contradizer Paulo de modo ofensivo. A reação não representava todos os judeus: muitos já tinham recebido a mensagem. Atos descreve uma oposição particular surgida naquele lugar.",
+        "Paulo e Barnabé responderam com firmeza. Explicaram que era necessário anunciar primeiro aos seus ouvintes judeus, mas que também levariam a palavra aos outros povos. Recordaram a missão de ser luz para as nações. A mensagem de Jesus não seria fechada porque algumas pessoas se recusavam a ouvi-la ou desejavam impedir que outros a recebessem."
+      ],
+      "image": "322/part2.webp",
+      "alt": "Pessoas de diferentes origens chegam a uma praça para ouvir Paulo e Barnabé, com expressões de curiosidade e esperança."
+    },
+    {
+      "heading": "A mensagem segue adiante",
+      "paragraphs": [
+        "Ao ouvir isso, os não judeus se alegraram e louvaram a palavra do Senhor. A boa notícia também era para eles. A mensagem se espalhou por toda a região, alcançando novos lugares e conversas. Pessoas que antes talvez se vissem à margem daquele encontro agora descobriam que podiam participar da esperança anunciada por Paulo e Barnabé.",
+        "A oposição, porém, aumentou. Alguns influenciaram pessoas importantes da cidade e promoveram perseguição contra os dois missionários, expulsando-os da região. Paulo e Barnabé seguiram para Icônio. Não permaneceram ali tentando vencer uma disputa a qualquer custo. Continuaram a missão em outro lugar, depois de testemunhar tanto acolhimento quanto rejeição.",
+        "Os discípulos que ficaram estavam cheios de alegria e do Espírito Santo. A partida dos mensageiros não significava o fim da fé daquela comunidade. Eles haviam recebido uma notícia que podia continuar sustentando sua caminhada. A história reúne uma sinagoga, uma cidade curiosa, uma oposição dolorosa e a descoberta de que a esperança em Jesus atravessa fronteiras."
+      ],
+      "image": "322/part3.webp",
+      "alt": "Paulo e Barnabé seguem por uma estrada para Icônio, enquanto discípulos da cidade se despedem com carinho e confiança."
+    }
+  ],
+  "lesson": "Compartilhar uma boa notícia não significa forçar todos a concordar. Podemos falar com clareza, ouvir perguntas e respeitar quem pensa diferente. Também devemos evitar culpar um povo inteiro pelas atitudes de algumas pessoas. Na história, houve diferentes respostas entre os ouvintes. Quando uma conversa se torna ofensiva ou perigosa, procurar apoio e se afastar pode ser uma escolha responsável, sem abandonar o respeito ou a esperança.",
+  "question": "Como você pode compartilhar algo importante para você sem pressionar a outra pessoa a concordar?",
+  "prayer": "Jesus, obrigado porque tua mensagem alcança pessoas de muitos lugares. Ensina-nos a falar com clareza e a ouvir com respeito. Ajuda-nos a rejeitar o preconceito, buscar segurança quando houver hostilidade e guardar a alegria de caminhar contigo. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/322.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.13"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Paulo e Barnabé conversam com uma multidão diversa em Antioquia da Pisídia, diante de construções antigas e colinas verdes.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo e Barnabé conversam com uma multidão diversa em Antioquia da Pisídia, diante de construções antigas e colinas verdes."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo se levanta para falar em uma sinagoga, com Barnabé ao lado e ouvintes atentos sentados em bancos simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo se levanta para falar em uma sinagoga, com Barnabé ao lado e ouvintes atentos sentados em bancos simples."
+    },
+    {
+      "role": "part2",
+      "alt": "Pessoas de diferentes origens chegam a uma praça para ouvir Paulo e Barnabé, com expressões de curiosidade e esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Pessoas de diferentes origens chegam a uma praça para ouvir Paulo e Barnabé, com expressões de curiosidade e esperança."
+    },
+    {
+      "role": "part3",
+      "alt": "Paulo e Barnabé seguem por uma estrada para Icônio, enquanto discípulos da cidade se despedem com carinho e confiança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul matches the bald seated man in the original reference: receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Paulo e Barnabé seguem por uma estrada para Icônio, enquanto discípulos da cidade se despedem com carinho e confiança."
+    }
+  ]
+}

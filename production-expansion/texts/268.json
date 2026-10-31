@@ -1,0 +1,71 @@
+{
+  "id": 268,
+  "title": "Jesus, o Bom Pastor",
+  "subtitle": "Uma voz conhecida e um cuidado que permanece",
+  "reference": "João 10:1–18",
+  "description": "Jesus usa a imagem de um pastor para explicar como conhece, conduz e protege aqueles que o seguem.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.10.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "A voz junto à entrada",
+      "paragraphs": [
+        "Jesus falou de um lugar que seus ouvintes podiam imaginar com facilidade: um cercado de ovelhas. Havia uma entrada, e o pastor chegava por ela. Quem pulava o muro para levar os animais escondido não estava ali para cuidar. A diferença aparecia na maneira de se aproximar do rebanho.",
+        "O porteiro abria a passagem para o pastor. Então sua voz alcançava as ovelhas. Ele chamava as suas pelo nome e as conduzia para fora. Não tratava cada animal como parte sem importância de uma multidão. Conhecia o rebanho que lhe pertencia, e as ovelhas reconheciam aquele chamado familiar.",
+        "Quando saíam, o pastor caminhava à frente. As ovelhas o acompanhavam porque conheciam sua voz. Um estranho não receberia a mesma confiança. A imagem mostrava uma relação construída por presença, reconhecimento e cuidado. Jesus estava falando com pessoas, mas utilizava o cotidiano dos campos para tornar visível uma verdade sobre si."
+      ],
+      "alt": "Um pastor conduz ovelhas pela entrada de um cercado.",
+      "image": "268/part1.webp"
+    },
+    {
+      "heading": "O cuidado do bom pastor",
+      "paragraphs": [
+        "Seus ouvintes não entenderam logo o significado da comparação. Jesus continuou a explicação. Apresentou-se como a porta por onde as ovelhas encontravam segurança e pastagem. Sua vinda trazia vida. Ao contrário de quem se aproximava para roubar e destruir, ele estava ali para dar, proteger e conduzir.",
+        "Depois, Jesus se identificou como o bom pastor. Explicou que o trabalhador contratado, sem verdadeiro compromisso com as ovelhas, podia fugir quando via o lobo chegar. O rebanho ficava disperso e desprotegido. O bom pastor, porém, não abandonava os animais para salvar a própria comodidade. Seu cuidado tinha um custo real.",
+        "Jesus disse que entregaria sua vida pelas ovelhas. Conhecia as suas, e elas o conheciam, assim como havia uma relação profunda entre ele e o Pai. Não se tratava apenas de conduzir alguém até um lugar agradável. Seu amor permaneceria diante do perigo e chegaria à entrega de si mesmo."
+      ],
+      "alt": "Jesus ensina sobre o cuidado do bom pastor.",
+      "image": "268/part2.webp"
+    },
+    {
+      "heading": "Um rebanho reunido",
+      "paragraphs": [
+        "Jesus também falou de outras ovelhas que precisavam ouvir sua voz. Seu cuidado alcançaria pessoas além daquele grupo. Elas seriam reunidas, formando um só rebanho sob um só pastor. A imagem abria espaço para gente que os ouvintes talvez ainda não soubessem imaginar ao seu lado, recebendo a mesma atenção.",
+        "Ele explicou que sua vida não seria simplesmente arrancada contra sua vontade. Ele a entregaria, e tinha autoridade para retomá-la. Suas palavras apontavam para o que aconteceria na cruz e para a ressurreição. O pastor da comparação era o próprio Jesus, anunciando um amor que não fugiria no momento difícil.",
+        "A voz do pastor não prometia um caminho sem nenhum obstáculo. Prometia a presença de quem conhece e ama suas ovelhas. Ao escutar os ensinamentos de Jesus, seus amigos eram convidados a reconhecer essa voz e segui-la. Havia direção, pertencimento e esperança no cuidado daquele que estava diante deles."
+      ],
+      "alt": "Jesus caminha à frente de um rebanho em uma representação de seu ensinamento.",
+      "image": "268/part3.webp"
+    }
+  ],
+  "lesson": "Ser conhecido por Jesus significa ter valor diante dele. Sua imagem de bom pastor nos convida a ouvir seus ensinamentos e confiar em seu amor. Também oferece um exemplo para quem cuida de outras pessoas: conhecer seus nomes, perceber suas necessidades e permanecer presente quando surgem dificuldades. Na família ou entre amigos, cuidado verdadeiro aparece em atitudes pacientes e responsáveis, não apenas em palavras bonitas.",
+  "question": "Como você pode mostrar cuidado por alguém conhecendo melhor o que essa pessoa precisa?",
+  "prayer": "Jesus, bom Pastor, obrigado porque conheces cada um de nós. Ajuda-me a reconhecer tua voz nos teus ensinamentos e a seguir teu caminho de amor. Ensina-me também a cuidar das pessoas com atenção, coragem e paciência, especialmente nos dias difíceis. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/268.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus caminha entre ovelhas em um campo tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta red mantle gently walking among six healthy sheep on rolling Judean green hillside, warm morning light, caring expression, visual metaphor of Good Shepherd, no staff needed, detailed wool and wildflowers."
+    },
+    {
+      "role": "part1",
+      "alt": "O pastor abre passagem para suas ovelhas.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. A DIFFERENT adult shepherd, not Jesus: elderly olive-skinned man with short GRAY hair and full GRAY beard, sage green robe and tan wool shoulder shawl, holding a wooden staff beside open wooden gate of low stone sheepfold. Six sheep recognize him and walk out at dawn. The input image is ONLY for 3D rendering style and sheep appearance. Do not copy Jesus face, dark shoulder-length hair, cream tunic or red mantle. New side composition with elderly shepherd at right and sheep passing gate at left."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus explica a seus ouvintes o cuidado do pastor.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle seated teaching four adult listeners beside low stone wall with distant pastoral hills, thoughtful caring gesture, intimate eye-level view, no sheep in foreground."
+    },
+    {
+      "role": "part3",
+      "alt": "As ovelhas seguem Jesus por um caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Visual metaphor: rear three-quarter wide view Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle leading a small flock of sheep along sunlit winding hillside path, spacious valley, hopeful golden sky, one shepherd only."
+    }
+  ]
+}

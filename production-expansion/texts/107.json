@@ -1,0 +1,71 @@
+{
+  "id": 107,
+  "title": "Raabe e o Cordão Vermelho",
+  "subtitle": "Uma casa, uma promessa",
+  "reference": "Josué 2",
+  "description": "Raabe acolhe dois mensageiros em Jericó e pede proteção para sua família. Um cordão vermelho na janela se torna o sinal de um compromisso que precisará ser cumprido.",
+  "testament": "antigo",
+  "cover": "/images/covers/107.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Visitantes em Jericó",
+      "paragraphs": [
+        "Antes de atravessar o Jordão, Josué enviou dois homens para observar a região de Jericó. Eles chegaram à casa de Raabe, uma mulher que morava junto à muralha da cidade. Aquela visita era perigosa. Os governantes de Jericó souberam da presença de estrangeiros e mandaram perguntar por eles. Raabe se viu no meio de um conflito entre povos.",
+        "Ela havia levado os homens ao terraço e os escondido entre talos de linho que estavam ali. Quando os enviados do rei chegaram, Raabe disse que os visitantes já tinham partido. Os perseguidores seguiram pelo caminho do Jordão. A porta da cidade se fechou, e os dois mensageiros permaneceram escondidos naquela casa.",
+        "Naquela noite, Raabe também pensava nos pais, nos irmãos e em todos os que amava. A cidade estava em alerta, e os visitantes ainda precisavam encontrar um caminho para sair dali. Antes que eles se deitassem, ela subiu ao terraço. Tinha algo importante para dizer, e desejava pedir proteção para sua família."
+      ],
+      "image": "107/part1.webp",
+      "alt": "Raabe conversa discretamente com os dois visitantes no terraço, perto de feixes de linho."
+    },
+    {
+      "heading": "Um pedido pela família",
+      "paragraphs": [
+        "Raabe contou que os habitantes de Jericó tinham ouvido falar do que Deus fizera por Israel. Sabiam da saída do Egito e da passagem pelo mar. Ela reconheceu o Senhor como Deus nos céus e na terra. Mesmo morando em outro povo, havia escutado aquelas notícias e formado uma convicção que agora expressava aos dois homens.",
+        "Então pediu que tratassem sua família com bondade, assim como ela os havia protegido. Desejava que seus pais, seus irmãos e todos os seus fossem preservados quando a cidade fosse tomada. O pedido não era por um prêmio para guardar sozinha. Era uma tentativa de abrir um caminho de proteção para as pessoas que amava.",
+        "Os homens deram sua palavra. Combinaram que, quando Israel entrasse na terra, cumpririam o compromisso, desde que ela não revelasse a missão deles. Uma promessa passava a ligar pessoas que haviam chegado como desconhecidas. Raabe escutou cuidadosamente as condições. Naquela casa, a esperança precisava também de um sinal que pudesse ser reconhecido do lado de fora."
+      ],
+      "image": "107/part2.webp",
+      "alt": "Raabe fala com os mensageiros sobre sua família, numa conversa séria e acolhedora à luz de uma lamparina."
+    },
+    {
+      "heading": "A janela marcada",
+      "paragraphs": [
+        "Como a casa ficava junto à muralha, Raabe ajudou os dois homens a descer por uma corda pela janela. Orientou que se escondessem nos montes durante três dias, até que os perseguidores voltassem. Depois poderiam seguir viagem. Ela conhecia a região e usou esse conhecimento para ajudar seus visitantes a sair do perigo.",
+        "Antes da despedida, eles explicaram o sinal: um cordão vermelho deveria ficar preso à janela. Raabe também precisaria reunir sua família dentro da casa. A promessa de proteção estava ligada àquele lugar. Ela concordou com o combinado, deixou os homens partir e prendeu o cordão vermelho, que passou a marcar a janela da muralha.",
+        "Os mensageiros permaneceram escondidos e, depois, voltaram a Josué. Contaram o que havia acontecido e o que tinham ouvido. Em Jericó, Raabe aguardava com uma promessa recebida e um sinal visível. O cordão não possuía poderes mágicos. Lembrava um compromisso entre pessoas, um compromisso que deveria ser honrado quando chegasse a hora de proteger sua família."
+      ],
+      "image": "107/part3.webp",
+      "alt": "Uma janela de pedra exibe o cordão vermelho, enquanto os mensageiros seguem para os montes ao longe."
+    }
+  ],
+  "lesson": "Raabe desejou proteção também para sua família. Sua história nos ajuda a perceber que pessoas de outros lugares têm medos, esperanças e gente que amam. Podemos acolher quem chega à escola, escutar sua história e cumprir os combinados que fazemos. O perigo vivido por Raabe pertence a um conflito antigo; uma criança nunca precisa enfrentar situações arriscadas sozinha. Procurar um adulto confiável é uma maneira importante de proteger a vida.",
+  "question": "Como você pode fazer uma pessoa que chegou de outro lugar se sentir acolhida e segura?",
+  "prayer": "Deus, cuida das famílias que vivem com medo e precisam de proteção. Ensina-nos a acolher quem vem de outros lugares, a cumprir nossas promessas e a buscar ajuda quando houver perigo. Que nossa casa seja um lugar de respeito e cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Raabe prende um cordão vermelho à janela de sua casa na muralha de Jericó, com sua família ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rahab is an adult Canaanite woman with warm brown skin, dark wavy hair, muted terracotta dress and cream scarf; two male Israelite messengers in simple earth-toned cloaks. Ancient stone city wall, no combat. Scene: Raabe prende um cordão vermelho à janela de sua casa na muralha de Jericó, com sua família ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Raabe conversa discretamente com os dois visitantes no terraço, perto de feixes de linho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rahab is an adult Canaanite woman with warm brown skin, dark wavy hair, muted terracotta dress and cream scarf; two male Israelite messengers in simple earth-toned cloaks. Ancient stone city wall, no combat. Scene: Raabe conversa discretamente com os dois visitantes no terraço, perto de feixes de linho."
+    },
+    {
+      "role": "part2",
+      "alt": "Raabe fala com os mensageiros sobre sua família, numa conversa séria e acolhedora à luz de uma lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rahab is an adult Canaanite woman with warm brown skin, dark wavy hair, muted terracotta dress and cream scarf; two male Israelite messengers in simple earth-toned cloaks. Ancient stone city wall, no combat. Scene: Raabe fala com os mensageiros sobre sua família, numa conversa séria e acolhedora à luz de uma lamparina."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma janela de pedra exibe o cordão vermelho, enquanto os mensageiros seguem para os montes ao longe.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rahab is an adult Canaanite woman with warm brown skin, dark wavy hair, muted terracotta dress and cream scarf; two male Israelite messengers in simple earth-toned cloaks. Ancient stone city wall, no combat. Scene: Uma janela de pedra exibe o cordão vermelho, enquanto os mensageiros seguem para os montes ao longe."
+    }
+  ]
+}

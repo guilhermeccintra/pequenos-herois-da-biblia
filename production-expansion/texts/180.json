@@ -1,0 +1,74 @@
+{
+  "id": 180,
+  "title": "Um Pedido Diante do Rei",
+  "subtitle": "Coragem para dizer o que é preciso",
+  "reference": "Neemias 2:1–10",
+  "description": "O rei percebe a tristeza de Neemias e faz uma pergunta. Com medo, oração e um pedido bem preparado, Neemias encontra uma oportunidade de ajudar Jerusalém.",
+  "testament": "antigo",
+  "cover": "/images/covers/180.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O rosto conta uma preocupação",
+      "paragraphs": [
+        "Neemias continuava trabalhando como copeiro do rei Artaxerxes. A notícia sobre Jerusalém permanecia em seu coração: muralhas derrubadas, portões queimados e moradores em dificuldade. Ele havia chorado e orado por aquela situação. Agora, no mês de nisã, estava diante do rei para cumprir sua tarefa, como fazia em outros dias.",
+        "Ao receber o vinho, o rei percebeu algo diferente no rosto de Neemias. Perguntou por que estava triste, já que não parecia doente. Concluiu que aquilo era uma tristeza do coração. Neemias ficou com muito medo. Estar perto de um rei não significava poder falar qualquer coisa com a tranquilidade de uma conversa comum.",
+        "Mesmo assim, respondeu com respeito. Desejou longa vida ao rei e explicou sua preocupação: a cidade onde estavam os túmulos de seus antepassados estava destruída, e seus portões haviam sido consumidos pelo fogo. Ele não começou acusando ninguém nem fingiu que estava tudo bem. Deu nome ao motivo de sua tristeza."
+      ],
+      "image": "180/part1.webp",
+      "alt": "O rei percebe a tristeza de Neemias durante seu trabalho."
+    },
+    {
+      "heading": "Uma oração e um pedido",
+      "paragraphs": [
+        "O rei perguntou o que Neemias desejava. Era a oportunidade que poderia abrir um caminho para ajudar. Antes de responder, Neemias orou ao Deus dos céus. O livro registra essa oração no meio da conversa, sem contar suas palavras. Depois dos muitos dias de oração, também havia lugar para voltar o coração a Deus naquele instante.",
+        "Neemias pediu que, se o rei concordasse, o enviasse a Judá para reconstruir a cidade de seus antepassados. Seu desejo se tornou um pedido claro. Não falou somente de como a situação era triste; apresentou uma tarefa da qual estava disposto a participar. Queria sair de seu lugar no palácio e trabalhar pelo bem de outras pessoas.",
+        "A rainha estava sentada ao lado do rei. Artaxerxes quis saber quanto tempo duraria a viagem e quando Neemias voltaria. Neemias indicou um prazo, e o rei concordou em enviá-lo. A coragem do pedido vinha acompanhada de preparo. A conversa incluía destino, trabalho e tempo, assuntos necessários para que a viagem pudesse acontecer."
+      ],
+      "image": "180/part2.webp",
+      "alt": "Neemias fala com coragem enquanto o rei e a rainha o escutam."
+    },
+    {
+      "heading": "Cartas para abrir caminhos",
+      "paragraphs": [
+        "Neemias fez outros pedidos importantes. Precisava de cartas para os governadores das regiões por onde passaria, garantindo sua entrada até Judá. Pediu também uma carta para Asafe, responsável pela floresta do rei, para receber madeira. Ela serviria aos portões, à muralha e à casa em que ele ficaria durante o trabalho.",
+        "O rei concedeu os pedidos, e Neemias reconheceu a boa mão de Deus sobre ele. Quando seguiu viagem, levou as cartas e contou com oficiais e cavaleiros enviados pelo rei. A ajuda recebida fez parte do caminho. Orar não o impediu de aceitar recursos, proteção e documentos que tornavam a missão possível.",
+        "Ao chegar às autoridades da região, entregou as cartas. Algumas pessoas, como Sambalate e Tobias, não ficaram contentes com a chegada de alguém interessado no bem de Israel. Ainda haveria dificuldades. Mas um passo decisivo tinha sido dado: Neemias saíra da preocupação silenciosa para uma missão concreta, com autorização e recursos para começar."
+      ],
+      "image": "180/part3.webp",
+      "alt": "Neemias inicia a viagem levando as cartas concedidas pelo rei."
+    }
+  ],
+  "lesson": "Pedir ajuda pode exigir coragem, especialmente quando estamos com medo de não ser ouvidos. Podemos nos preparar dizendo o que aconteceu, de que precisamos e quem pode ajudar. Não é necessário falar de modo perfeito. Um adulto cuidadoso pode escutar e orientar os próximos passos. Neemias também nos lembra que receber proteção e recursos não diminui a fé; a ajuda pode fazer parte da resposta.",
+  "question": "Se precisasse pedir ajuda para uma situação difícil, a qual adulto de confiança você recorreria?",
+  "prayer": "Deus, dá-nos coragem para falar quando precisamos de ajuda. Ensina-nos a explicar com respeito aquilo que nos preocupa e a escutar orientações. Obrigado pelas pessoas que oferecem proteção e apoio. Ajuda-nos a receber esse cuidado e a cuidar dos outros também. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias apresenta ao rei seu pedido para ajudar Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah stands respectfully before Artaxerxes and the queen in a Persian audience chamber, clear earnest expression and open hand, warm light, no threatening guards. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle. Artaxerxes has olive skin, dark curled beard, deep indigo robe and gold crown."
+    },
+    {
+      "role": "part1",
+      "alt": "O rei percebe a tristeza de Neemias durante seu trabalho.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah holds a serving cup before Artaxerxes at a palace table, king looks concerned and attentive, Nehemiah visibly thoughtful, medium intimate composition, carved stone background. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle. Artaxerxes has olive skin, dark curled beard, deep indigo robe and gold crown."
+    },
+    {
+      "role": "part2",
+      "alt": "Neemias fala com coragem enquanto o rei e a rainha o escutam.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah calmly explains his request to seated Artaxerxes and queen, hands gently gesturing toward a blank parchment on table, respectful serious conversation, warm luminous atmosphere. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle. Artaxerxes has olive skin, dark curled beard, deep indigo robe and gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "Neemias inicia a viagem levando as cartas concedidas pelo rei.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah on a gentle horse with a rolled sealed letter safely held, small escort of adult riders follows on an ancient road toward Judean hills, hopeful sunrise, no combat. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

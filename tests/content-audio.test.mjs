@@ -18,9 +18,9 @@ test('geração sem confirmação explícita ou sem chaves nunca chama o provedo
   await generate(['--story', '1', '--confirm-cost', '--dry-run'], voiceCredentials, network);
   await assert.rejects(generate(['--story', '1', '--confirm-cost'], {}, network), /ELEVENLABS_API_KEY/);
   assert.equal(calls, 0);
-  assert.throws(() => generationArgs(['--story', '41']), /1 a 40/);
+  assert.throws(() => generationArgs(['--story', '366']), /1 a 365/);
   assert.equal(isMp3(Buffer.from('<html>error</html>')), false);
-  assert.throws(() => audioObjectPath(41, 'a'.repeat(64)), /inválida/);
+  assert.throws(() => audioObjectPath(366, 'a'.repeat(64)), /inválida/);
 });
 
 test('retomada da geração não duplica cobrança nem sobrescreve áudio concluído', async () => {
@@ -108,4 +108,27 @@ test('importação associa MP3 privado sem alterar narrativa e retoma após arqu
     const manifest = JSON.parse(await readFile(resolve(directory, 'audio-import-manifest.json'), 'utf8'));
     assert.equal(manifest.stories['01'].source, 'human');
   } finally { await rm(directory, { recursive: true, force: true }); }
+});
+
+test('seleção e nomes de áudio aceitam IDs de três dígitos sem truncá-los', async () => {
+ assert.equal(generationArgs(['--story','365']).story,'365');
+ assert.equal(audioObjectPath(365,'a'.repeat(64)), `audio/365/${'a'.repeat(64)}.mp3`);
+ const directory=await mkdtemp(resolve(tmpdir(),'audio-three-digits-'));
+ const reads=[];
+ const network=async(input,init)=>{
+  const url=new URL(input);
+  if(url.pathname==='/storage/v1/bucket/story-assets')return jsonResponse({public:false});
+  if(url.pathname==='/rest/v1/stories'&&!init.method){
+   const id=Number(url.searchParams.get('id').slice(3));reads.push(id);
+   return jsonResponse([{id,body:{id,title:'Teste',parts:[],audio_path:null}}]);
+  }
+  if(init.method==='POST')return jsonResponse({});
+  if(init.method==='PATCH')return jsonResponse([{id:Number(url.searchParams.get('id').slice(3))}]);
+  throw new Error('Unexpected request');
+ };
+ try{
+  for(const name of ['41.mp3','100.mp3','365.mp3'])await writeFile(resolve(directory,name),syntheticHeader());
+  await importAudio(['--dir',directory,'--confirm-upload'],credentials,network,directory);
+  assert.deepEqual(reads,[41,100,365]);
+ }finally{await rm(directory,{recursive:true,force:true});}
 });

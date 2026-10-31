@@ -1,0 +1,74 @@
+{
+  "id": 187,
+  "title": "O Livro Aberto na Praça",
+  "subtitle": "Entender para viver com alegria",
+  "reference": "Neemias 8:1–12",
+  "description": "O povo se reúne para ouvir a Lei de Deus. Esdras lê, os levitas explicam e a compreensão se transforma em alegria e partilha.",
+  "testament": "antigo",
+  "cover": "/images/covers/187.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma praça cheia de atenção",
+      "paragraphs": [
+        "As muralhas de Jerusalém estavam reconstruídas, mas o povo precisava cuidar também de sua vida com Deus. No primeiro dia do sétimo mês, as pessoas se reuniram na praça diante da Porta das Águas. Pediram a Esdras, o escriba, que trouxesse o livro da Lei de Moisés, entregue pelo Senhor a Israel.",
+        "Havia homens, mulheres e todos os que já conseguiam ouvir com entendimento. Esdras levou o livro diante da assembleia e leu desde o começo da manhã até o meio-dia. O texto conta que os ouvidos do povo estavam atentos. Não era apenas o encontro com um objeto antigo, mas com palavras que davam direção à comunidade.",
+        "Uma plataforma de madeira havia sido preparada para a leitura. Esdras ficou sobre ela, acompanhado de outros homens. Quando abriu o livro diante de todos, o povo se levantou. Ele louvou o Senhor, e as pessoas responderam em adoração. A praça se tornou um lugar de escuta, respeito e encontro ao redor da Palavra."
+      ],
+      "image": "187/part1.webp",
+      "alt": "Famílias se reúnem na praça para ouvir a leitura."
+    },
+    {
+      "heading": "Palavras que se tornam claras",
+      "paragraphs": [
+        "Os levitas ajudavam o povo a compreender a Lei. A leitura era feita com clareza, e seu sentido era explicado. Essa parte do relato é importante: não bastava pronunciar as palavras enquanto as pessoas permaneciam sem entender. O ensino precisava aproximar o significado de quem estava ali, com paciência e atenção.",
+        "Ao ouvir, muitos começaram a chorar. A Palavra tocava sua consciência e sua história. Neemias, Esdras e os levitas disseram que aquele dia era santo ao Senhor e que não deveriam permanecer somente na tristeza. O encontro também tinha espaço para receber a alegria que vinha de Deus e para reconhecer a possibilidade de uma vida renovada.",
+        "Os líderes orientaram o povo a celebrar com boa comida e bebida. Mas acrescentaram um cuidado essencial: deveriam enviar porções a quem não tinha nada preparado. A festa não seria completa se algumas pessoas ficassem esquecidas. A Palavra ouvida na praça deveria alcançar também a mesa e o modo de tratar os outros."
+      ],
+      "image": "187/part2.webp",
+      "alt": "Levitas ajudam pequenos grupos a entender o que foi lido."
+    },
+    {
+      "heading": "A alegria que se reparte",
+      "paragraphs": [
+        "Neemias falou da alegria do Senhor como a força do povo. Os levitas acalmaram os que estavam tristes e os ajudaram a receber aquela orientação. Não estavam dizendo que os sentimentos não importavam. Estavam mostrando que o dia dedicado a Deus também podia ser vivido com gratidão, confiança e participação na alegria da comunidade.",
+        "Então as pessoas foram comer, beber, repartir porções e celebrar. O livro explica o motivo dessa grande alegria: haviam compreendido as palavras que lhes foram ensinadas. Entender mudou a forma como saíram daquele encontro. Não levaram apenas o som de uma leitura longa; levaram uma mensagem que podia orientar suas atitudes.",
+        "A praça voltou aos poucos às suas atividades, mas a descoberta podia continuar nas casas. Ler, explicar, compreender e repartir formavam um caminho. A comunidade que reconstruíra suas muralhas agora aprendia a fortalecer seus vínculos. Naquele dia, a Palavra não ficou presa à plataforma de madeira: seguiu com o povo até as mesas onde a alegria seria compartilhada."
+      ],
+      "image": "187/part3.webp",
+      "alt": "Moradores repartem porções de alimento para que outros participem da alegria."
+    }
+  ],
+  "lesson": "Quando não entendemos uma leitura ou uma explicação, podemos perguntar. Aprender não é fingir que já sabemos. Uma boa conversa ajuda as palavras a ganhar sentido e a virar atitudes. Depois de ouvir algo sobre bondade, por exemplo, podemos incluir alguém numa atividade ou repartir com cuidado. A alegria de aprender cresce quando alcança também as pessoas que estavam ficando de fora.",
+  "question": "Que pergunta você gostaria de fazer sobre uma história bíblica que ouviu?",
+  "prayer": "Deus, abre nosso coração para aprender com tua Palavra. Abençoa quem ensina com clareza e paciência. Dá-nos liberdade para perguntar e disposição para praticar o bem que entendemos. Que nossa alegria se transforme em partilha e acolhimento para outras pessoas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH08.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Esdras lê a Lei numa plataforma diante do povo reunido.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ezra on a modest wooden platform in ancient Jerusalem Water Gate square reads a large unlettered scroll to attentive adults and older children, morning golden light, respectful lively gathering. Ezra has warm brown skin, thoughtful dark eyes, black and gray beard, cream linen robe, deep russet mantle and tan head wrap."
+    },
+    {
+      "role": "part1",
+      "alt": "Famílias se reúnem na praça para ouvir a leitura.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean families arriving in a broad stone square by a city gate, older children beside parents, all look toward a simple wooden reading platform, sunrise, no modern objects. "
+    },
+    {
+      "role": "part2",
+      "alt": "Levitas ajudam pequenos grupos a entender o que foi lido.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: An adult Levite patiently explains an unlettered scroll to a small mixed-age group in an ancient plaza, a child raises a curious hand, warm attentive faces and soft shade. "
+    },
+    {
+      "role": "part3",
+      "alt": "Moradores repartem porções de alimento para que outros participem da alegria.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient neighbors share bowls of food and bread at a simple courtyard meal, one family offers a portion to another grateful adult, children help with small baskets, warm joyful afternoon. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 66,
+  "title": "Uma Promessa no Meio do Cansaço",
+  "subtitle": "Deus escuta até quem já não consegue responder",
+  "reference": "Êxodo 6:1–9",
+  "description": "Em meio ao trabalho cruel, Moisés leva ao povo uma promessa de libertação e pertencimento.",
+  "testament": "antigo",
+  "cover": "/images/covers/66.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras depois da decepção",
+      "paragraphs": [
+        "Moisés tinha levado a Deus sua preocupação. A conversa com o faraó não trouxera o alívio esperado, e o trabalho dos israelitas havia ficado ainda mais pesado. Era difícil anunciar liberdade enquanto as pessoas continuavam nos campos e nas construções. A primeira resistência do rei parecia ocupar todo o horizonte.",
+        "Deus respondeu que Moisés veria sua ação. O poder do faraó não seria a última palavra sobre o povo. A libertação não dependeria apenas da habilidade de Moisés para convencer um governante. O Senhor estava assumindo aquela causa e lembrando que a história de Israel não começara na escravidão do Egito.",
+        "Muito antes, Deus havia feito uma aliança com Abraão, Isaque e Jacó. Prometera a terra onde viveram como estrangeiros. Agora, ao mencionar esses nomes, mostrava que a promessa continuava. As gerações haviam mudado, as circunstâncias eram dolorosas, mas o compromisso de Deus com aquele povo não havia sido abandonado."
+      ],
+      "image": "66/part1.webp",
+      "alt": "Moisés busca direção em oração."
+    },
+    {
+      "heading": "Eu ouvi o sofrimento",
+      "paragraphs": [
+        "Deus disse que ouvira o gemido dos israelitas. Eles não eram uma multidão sem rosto, reduzida à quantidade de tijolos que conseguia produzir. Seu sofrimento era percebido. A mensagem colocava lado a lado a memória da aliança e a realidade das pessoas que estavam sendo oprimidas naquele momento.",
+        "Moisés deveria anunciar que Deus os tiraria debaixo das cargas do Egito, os libertaria da escravidão e os receberia como seu povo. A promessa falava de saída e de relacionamento. Não era somente deixar um lugar ruim; era descobrir uma vida em que pertencer a Deus valia mais do que servir ao faraó.",
+        "Havia também uma direção: a terra prometida aos antepassados. Os israelitas não receberiam apenas uma ordem para caminhar sem destino. Deus oferecia futuro a quem vivia preso ao trabalho de cada dia. Moisés tinha palavras importantes para transmitir, ainda que não pudesse colocar diante deles uma liberdade já pronta."
+      ],
+      "image": "66/part2.webp",
+      "alt": "Moisés anuncia uma esperança ao povo."
+    },
+    {
+      "heading": "Quando ouvir ficou difícil",
+      "paragraphs": [
+        "Moisés contou aos israelitas o que Deus dissera. Mas eles não conseguiram acolher a mensagem por causa da angústia e da dureza da escravidão. A Bíblia explica sua dificuldade com cuidado. Pessoas muito cansadas podem ter tão pouco espaço interior que até uma boa notícia parece distante demais para alcançar.",
+        "O cansaço ainda pesava sobre aquelas famílias, mas seu sofrimento não passara despercebido. Deus as ouvira antes de conseguirem responder com esperança. Sua promessa de libertação chegava a pessoas exaustas, que conheciam muito bem a dureza do trabalho. O Senhor estava atento àquela dor e não havia abandonado o compromisso de conduzi-las à liberdade.",
+        "A caminhada ainda exigiria tempo e muitos acontecimentos. Naquele dia, a mensagem encontrou corações feridos. Isso nos ensina a oferecer companhia, paciência e ajuda concreta a quem sofre. Às vezes, uma pessoa precisa primeiro respirar e ser cuidada para conseguir ouvir aquilo que já é verdade: ela não foi esquecida."
+      ],
+      "image": "66/part3.webp",
+      "alt": "Uma família recebe companhia em seu cansaço."
+    }
+  ],
+  "lesson": "Quem está muito cansado nem sempre consegue sorrir ou responder a uma palavra de esperança. O sofrimento dos israelitas nos ensina a ter paciência. Podemos ouvir, oferecer ajuda e permanecer por perto sem exigir uma reação imediata. Deus percebe a dor antes mesmo de encontrarmos palavras para explicá-la. Cuidar de alguém inclui respeitar seu tempo e lembrar que sua dignidade não depende de parecer forte o tempo todo.",
+  "question": "Como você pode fazer companhia a alguém triste sem exigir que essa pessoa fique alegre imediatamente?",
+  "prayer": "Senhor, tu conheces o cansaço que às vezes não sabemos explicar. Cuida de quem está angustiado e ensina-me a ouvir com paciência. Ajuda-me a oferecer presença e carinho, sem cobrar sorrisos. Renova nossa esperança, um passo de cada vez. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés fala com famílias cansadas no Egito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses speaks gently to seated adult Hebrew families in humble Egyptian courtyard, weary thoughtful faces, warm compassionate scene, no forced smiles."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés busca direção em oração.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses ALONE near rough stone wall at dawn, open hands in earnest prayer, calm warm sky, no visible deity."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés anuncia uma esperança ao povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses and Aaron address small gathering of adults near clay brick dwellings, open caring gestures, dignified listening faces."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família recebe companhia em seu cansaço.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Families in modest full ancient linen clothing. Scene: Moses kneels at eye level beside tired seated adult worker while another adult offers clay cup of water, families safely nearby, compassionate care."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+6%3A1-9&version=KJV"
+  ]
+}

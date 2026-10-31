@@ -1,0 +1,71 @@
+{
+  "id": 58,
+  "title": "Um Pastor Diante do Faraó",
+  "subtitle": "Dignidade diante de qualquer pessoa",
+  "reference": "Gênesis 46:31–34; 47:1–12",
+  "description": "José apresenta sua família ao faraó. Jacó, um pastor idoso vindo de outra terra, entra no palácio levando sua história e uma bênção.",
+  "testament": "antigo",
+  "cover": "/images/covers/58.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma família busca lugar para viver",
+      "paragraphs": [
+        "A família de Jacó havia chegado ao Egito por causa da fome em Canaã. José os recebera com alegria, mas ainda era necessário organizar onde viveriam. Eles eram pastores e tinham trazido seus rebanhos. Precisavam de uma região com alimento para os animais e espaço para que as famílias pudessem se estabelecer.",
+        "José explicou que avisaria o faraó da chegada deles. Orientou seus irmãos a responder com verdade quando fossem perguntados sobre seu trabalho. Eram criadores de animais, assim como seus antepassados. A ocupação não era bem vista por muitos egípcios, mas não deveria ser escondida para parecerem pessoas diferentes daquelas que realmente eram.",
+        "José escolheu cinco de seus irmãos e os apresentou ao faraó. O governante perguntou o que faziam, e eles explicaram que eram pastores. Contaram que a fome tinha sido muito forte em Canaã, deixando os rebanhos sem pasto. Por isso, pediam permissão para morar na região de Gósen durante sua permanência no país."
+      ],
+      "image": "58/part1.webp",
+      "alt": "José conversa com seus irmãos pastores antes da visita ao palácio."
+    },
+    {
+      "heading": "O pastor entra no palácio",
+      "paragraphs": [
+        "O faraó recebeu o pedido e disse a José que acomodasse o pai e os irmãos na melhor parte da terra, em Gósen. Também sugeriu que homens competentes entre eles cuidassem dos rebanhos reais. O trabalho que realizavam tinha utilidade. Sua experiência podia contribuir para a vida naquele novo lugar, mesmo sendo estrangeiros.",
+        "Depois, José levou seu pai à presença do faraó. Jacó era muito idoso. Não chegava com a aparência de um governante egípcio, mas com a história de um homem que vivera entre tendas, viagens e rebanhos. Ao entrar, abençoou o faraó. O visitante também tinha algo a oferecer naquele encontro.",
+        "O faraó perguntou sua idade. Jacó respondeu que tinha cento e trinta anos de peregrinação. Descreveu seus dias como poucos e difíceis, comparando-os aos anos vividos por seus antepassados. Não tentou enfeitar sua história para impressionar. Falou de uma vida marcada por caminhos, perdas e experiências que ainda carregava consigo."
+      ],
+      "image": "58/part2.webp",
+      "alt": "Jacó responde ao faraó enquanto José acompanha a conversa."
+    },
+    {
+      "heading": "Uma bênção e uma nova casa",
+      "paragraphs": [
+        "Antes de sair, Jacó abençoou novamente o faraó. O breve encontro reuniu pessoas em posições muito diferentes: um governante poderoso e um pastor estrangeiro já no fim de sua longa caminhada. A dignidade de Jacó não dependia de possuir um palácio. Ele podia estar diante do rei sem deixar de ser quem era.",
+        "José acomodou o pai e os irmãos conforme a autorização recebida. A família passou a viver numa boa região do Egito. Ele também providenciou alimento para todos, considerando o tamanho de cada casa. A acolhida não ficou limitada ao abraço da chegada. Precisava continuar em moradia, sustento e organização da vida cotidiana.",
+        "A fome ainda atingia a região, e o futuro traria outras mudanças. Naquele momento, porém, a família tinha encontrado um lugar para viver. O encontro no palácio lembrava que pessoas com roupas, trabalhos e origens diferentes podiam se tratar com respeito. Jacó havia entrado levando sua história e saído depois de oferecer uma bênção."
+      ],
+      "image": "58/part3.webp",
+      "alt": "José acompanha a família no novo lugar de moradia em Gósen."
+    }
+  ],
+  "lesson": "O trabalho, a roupa ou a origem de alguém não determinam seu valor. Podemos tratar com respeito tanto uma pessoa conhecida quanto alguém que chegou de longe. Também não precisamos inventar uma história para parecer importantes. Cada pessoa tem experiências e capacidades para compartilhar. Acolher inclui perceber necessidades concretas e ajudar, com nossa família, para que quem chega encontre companhia, orientação e condições dignas de viver.",
+  "question": "Como você pode demonstrar respeito por alguém cujo trabalho ou modo de viver é diferente do seu?",
+  "prayer": "Deus, ensina-nos a reconhecer o valor de cada pessoa. Livra-nos do desprezo pelas diferenças e ajuda-nos a falar com sinceridade. Acompanha as famílias que precisam recomeçar longe de casa. Que nossas palavras e atitudes ofereçam acolhimento e respeito. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jacó oferece uma bênção ao faraó, acompanhado por José.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph olive-brown skin short black curls clean-shaven, white Egyptian tunic turquoise sash broad gold collar. Jacob very elderly long white beard olive-gray robe faded blue mantle. Pharaoh adult brown-skinned man with ancient Egyptian blue-gold nemes headdress and linen royal attire. Scene: Very elderly Jacob respectfully raises hand in blessing before seated adult Pharaoh, Joseph stands beside his father, dignified Egyptian palace."
+    },
+    {
+      "role": "part1",
+      "alt": "José conversa com seus irmãos pastores antes da visita ao palácio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph olive-brown skin short black curls clean-shaven, white Egyptian tunic turquoise sash broad gold collar. Jacob very elderly long white beard olive-gray robe faded blue mantle. Pharaoh adult brown-skinned man with ancient Egyptian blue-gold nemes headdress and linen royal attire. Scene: Joseph in Egyptian white tunic speaks with five adult bearded brothers in earth-tone shepherd clothing near courtyard, no Jacob or Pharaoh."
+    },
+    {
+      "role": "part2",
+      "alt": "Jacó responde ao faraó enquanto José acompanha a conversa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph olive-brown skin short black curls clean-shaven, white Egyptian tunic turquoise sash broad gold collar. Jacob very elderly long white beard olive-gray robe faded blue mantle. Pharaoh adult brown-skinned man with ancient Egyptian blue-gold nemes headdress and linen royal attire. Scene: Medium three-person scene elderly Jacob with staff, Joseph and Pharaoh in elegant but warm Egyptian hall, no intimidating guards."
+    },
+    {
+      "role": "part3",
+      "alt": "José acompanha a família no novo lugar de moradia em Gósen.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph olive-brown skin short black curls clean-shaven, white Egyptian tunic turquoise sash broad gold collar. Jacob very elderly long white beard olive-gray robe faded blue mantle. Pharaoh adult brown-skinned man with ancient Egyptian blue-gold nemes headdress and linen royal attire. Scene: Joseph and elderly Jacob observe family setting up dwellings near green pasture in Goshen with sheep, welcoming practical care, no Pharaoh."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+46-48&version=KJV"
+  ]
+}

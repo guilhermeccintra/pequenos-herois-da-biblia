@@ -1,0 +1,76 @@
+{
+  "id": 214,
+  "title": "Palavras que Constroem",
+  "subtitle": "O cuidado que cabe na nossa voz",
+  "reference": "Provérbios 12:18; 16:24; 18:21",
+  "description": "A sabedoria ensina a reconhecer o efeito das palavras e a usá-las para encorajar, cuidar e reparar.",
+  "testament": "antigo",
+  "cover": "/images/covers/214.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A força que sai da boca",
+      "paragraphs": [
+        "Uma palavra ocupa pouco espaço, mas pode ficar muito tempo na memória de alguém. Provérbios presta atenção a essa força. Um de seus ensinamentos compara palavras impensadas a golpes de espada e diz que a fala sábia pode trazer cura. As imagens mostram a importância de cuidar daquilo que dizemos.",
+        "Às vezes, alguém repete uma brincadeira sobre outra pessoa sem perceber como ela se sente. Uma frase dita depressa pode aumentar a vergonha ou a tristeza. O ensino convida a prestar atenção antes de falar. Podemos observar o rosto de quem escuta e procurar uma maneira mais respeitosa de nos expressar.",
+        "Também existem palavras que ajudam a recuperar a coragem. Um agradecimento mostra que um esforço foi percebido. Um incentivo acompanha quem está aprendendo. Um pedido de desculpas reconhece uma ferida e inicia sua reparação. A fala sábia procura oferecer o que a outra pessoa precisa ouvir com verdade e cuidado."
+      ],
+      "image": "214/part1.webp",
+      "alt": "Uma criança oferece companhia a um amigo triste"
+    },
+    {
+      "heading": "Doçura para o coração",
+      "paragraphs": [
+        "Outro provérbio compara palavras agradáveis a um favo de mel. A imagem lembra um sabor doce e precioso, capaz de trazer alegria. Podemos pensar numa frase acolhedora depois de um dia difícil ou numa explicação paciente quando algo parece complicado. A bondade pode ser percebida tanto no conteúdo quanto no jeito de falar.",
+        "Para entender esse ensino, imagine uma criança aprendendo a amarrar uma pequena bolsa. Essa cena é apenas um exemplo. Ela tenta várias vezes e o nó se desfaz. Uma pessoa pode dizer que ela nunca consegue; outra pode se aproximar, mostrar o movimento e encorajá-la a tentar devagar.",
+        "A segunda resposta cria espaço para aprender. O erro continua precisando de correção, mas o coração recebe companhia para enfrentá-lo. Uma orientação gentil ajuda a criança a perceber o próximo movimento. Quando as palavras se juntam à paciência, aquilo que parecia impossível pode se transformar num aprendizado feito aos poucos."
+      ],
+      "image": "214/part2.webp",
+      "alt": "Mel dourado brilha num favo sobre uma mesa"
+    },
+    {
+      "heading": "Escolher o fruto das palavras",
+      "paragraphs": [
+        "Provérbios também fala da vida e da morte no poder da língua. É uma maneira forte de lembrar que a fala tem consequências reais. Ela pode proteger alguém ao contar a verdade, buscar ajuda para uma pessoa em perigo e impedir que uma mentira continue machucando quem foi acusado injustamente.",
+        "Por isso, vale cuidar tanto das conversas presenciais quanto das mensagens que enviamos. Antes de repetir algo, podemos perguntar se é verdadeiro e se respeita a pessoa envolvida. Antes de fazer uma brincadeira, podemos pensar em como ela será recebida. A sabedoria nos ajuda a transformar vontade de falar em responsabilidade.",
+        "Quando uma palavra nossa machuca, existe um próximo passo: reconhecer o que aconteceu, pedir desculpas e procurar reparar. Quando uma palavra boa chega até nós, podemos agradecer e guardar seu cuidado. Nossa voz participa da convivência todos os dias. Usá-la com amor é uma maneira concreta de construir amizade, confiança e esperança."
+      ],
+      "image": "214/part3.webp",
+      "alt": "Uma criança agradece a ajuda de um amigo"
+    }
+  ],
+  "lesson": "As palavras que oferecemos podem acompanhar uma pessoa por muito tempo. Podemos escolher frases verdadeiras que encorajem, ensinem e demonstrem respeito. Isso inclui reconhecer quando erramos e reparar uma fala que machucou. Hoje, pense em alguém cujo esforço merece ser notado. Um agradecimento específico ou um incentivo sincero pode mostrar que você prestou atenção e deseja o bem dessa pessoa.",
+  "question": "Que palavra de incentivo você pode oferecer hoje a alguém que está aprendendo algo?",
+  "prayer": "Deus, dá sabedoria à minha voz. Ajuda-me a pensar antes de falar e a reconhecer o efeito das minhas palavras. Ensina-me a agradecer, encorajar e pedir desculpas. Que minhas conversas levem verdade, cuidado e esperança às pessoas que me escutam. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebpb/PRO12.htm",
+    "https://ebible.org/engwebpb/PRO16.htm",
+    "https://ebible.org/engwebpb/PRO18.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma avó encoraja uma criança durante um aprendizado",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative wisdom scene: ancient Hebrew grandmother patiently helping a child tie a small woven pouch, encouraging warm smile, the child with a hopeful attentive face, rustic courtyard table, detailed linen and braided cord. "
+    },
+    {
+      "role": "part1",
+      "alt": "Uma criança oferece companhia a um amigo triste",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew child gently speaking to a downcast friend on a stone courtyard bench, respectful caring expressions, no physical injury, peaceful village garden, soft morning light. "
+    },
+    {
+      "role": "part2",
+      "alt": "Mel dourado brilha num favo sobre uma mesa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic metaphor still life: golden honeycomb and small ceramic bowl of honey on woven linen over ancient wooden table, sunlight shining through honey, small clay cup and flowers, no people or writing. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma criança agradece a ajuda de um amigo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Two ordinary ancient Hebrew children in a garden courtyard, one warmly thanking the other after learning to tie a woven pouch, both smiling with sincere joy, bag held between them, detailed natural textures. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

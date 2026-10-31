@@ -1,0 +1,74 @@
+{
+  "id": 193,
+  "title": "A Noite em que o Rei Não Dormiu",
+  "subtitle": "Uma boa ação volta a ser lembrada",
+  "reference": "Ester 6",
+  "description": "Durante uma noite sem sono, o rei ouve os registros do reino. Uma antiga atitude de Mordecai é lembrada, surpreendendo quem esperava receber a honra.",
+  "testament": "antigo",
+  "cover": "/images/covers/193.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um livro na madrugada",
+      "paragraphs": [
+        "Na noite entre os dois banquetes preparados por Ester, o rei Assuero não conseguiu dormir. Mandou trazer o livro dos registros do reino e pediu que fosse lido diante dele. Enquanto o palácio atravessava a madrugada, páginas que guardavam acontecimentos antigos começaram a ser ouvidas novamente na presença do rei.",
+        "Entre os relatos estava o aviso dado por Mordecai sobre Bigtã e Teres, os dois oficiais que haviam planejado atacar Assuero. Mordecai contara o caso a Ester, e ela o transmitira em nome dele. A investigação confirmara o perigo, e o acontecimento fora registrado. Agora essa informação retornava num momento que ninguém parecia ter preparado.",
+        "O rei perguntou que honra ou recompensa Mordecai havia recebido por sua atitude. Os servidores responderam que nada tinha sido feito por ele. A boa ação estava escrita, mas ainda não havia sido reconhecida dessa forma. Assuero decidiu cuidar disso e perguntou quem estava no pátio do palácio naquela hora."
+      ],
+      "image": "193/part1.webp",
+      "alt": "O rei escuta a leitura dos registros durante uma noite sem sono."
+    },
+    {
+      "heading": "Uma pergunta mal compreendida",
+      "paragraphs": [
+        "Hamã havia chegado ao pátio exterior com uma intenção muito diferente: queria pedir ao rei que Mordecai fosse executado. Preparara um lugar para isso, seguindo o conselho de sua esposa e de seus amigos. Mas, antes que apresentasse o pedido, foi chamado à presença do rei e ouviu uma pergunta inesperada.",
+        "Assuero quis saber o que deveria ser feito por um homem a quem o rei desejava honrar. Hamã pensou imediatamente em si mesmo. Imaginou que ninguém mereceria mais aquela homenagem. Sem perguntar quem seria o homenageado, começou a descrever uma cerimônia cheia de destaque, escolhendo aquilo que gostaria de receber.",
+        "Sugeriu roupas usadas pelo rei, um cavalo real e a participação de um dos nobres mais importantes. Esse nobre deveria vestir o homem, conduzi-lo pela praça e anunciar publicamente que assim se fazia com alguém a quem o rei desejava honrar. Hamã preparava com palavras uma cena em que esperava ocupar o centro."
+      ],
+      "image": "193/part2.webp",
+      "alt": "Hamã descreve ao rei uma homenagem que imagina receber."
+    },
+    {
+      "heading": "Uma surpresa na praça",
+      "paragraphs": [
+        "Então Assuero revelou quem receberia a homenagem: Mordecai, o judeu que se sentava à porta do rei. Ordenou a Hamã que fizesse exatamente o que havia sugerido, sem deixar nada de fora. O homem que chegara querendo prejudicar Mordecai agora precisava conduzir a honra que ele mesmo descrevera com tanto entusiasmo.",
+        "Hamã pegou as roupas e o cavalo, vestiu Mordecai e o conduziu pela praça, fazendo o anúncio ordenado. Depois, Mordecai voltou à porta do rei. Hamã, porém, foi para casa muito abatido e cobriu a cabeça. Contou à esposa e aos amigos tudo o que tinha acontecido. Seus planos haviam encontrado uma reviravolta que não esperava.",
+        "Enquanto ainda conversavam, os oficiais chegaram para levá-lo ao banquete de Ester. A história seguiria ali. Naquela manhã, porém, uma boa ação esquecida havia voltado à memória do rei. A honra não foi para quem presumiu merecê-la mais do que todos. Foi para o homem cujo aviso verdadeiro havia protegido uma vida, mesmo sem recompensa imediata."
+      ],
+      "image": "193/part3.webp",
+      "alt": "Depois da homenagem, Mordecai volta ao seu lugar junto ao portão."
+    }
+  ],
+  "lesson": "Fazer o bem não precisa depender de ganhar um prêmio. Às vezes uma ajuda passa despercebida, mas continua tendo valor. Também podemos aprender com o erro de Hamã: não somos sempre o centro das situações. Antes de imaginar que uma notícia ou um elogio é sobre nós, podemos escutar. Reconhecer uma qualidade em outra pessoa pode nos alegrar, sem diminuir aquilo que também temos de bom.",
+  "question": "Que boa atitude de outra pessoa você pode reconhecer e elogiar com sinceridade?",
+  "prayer": "Deus, ajuda-nos a fazer o bem mesmo quando ninguém aplaude. Ensina-nos a escutar antes de pensar apenas em nós mesmos. Dá-nos alegria para reconhecer as qualidades dos outros e humildade para aprender que cada pessoa tem contribuições importantes a oferecer. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Mordecai recebe uma homenagem inesperada na praça de Susã.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai in dignified blue and cream ceremonial robe rides a calm royal horse through ancient Susa square, Haman in plum robe leads the horse respectfully with subdued expression, friendly adult crowd, no humiliation spectacle. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl. Haman is a middle aged Persian official with olive skin, short dark beard and rich plum robe."
+    },
+    {
+      "role": "part1",
+      "alt": "O rei escuta a leitura dos registros durante uma noite sem sono.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ahasuerus seated awake in a quiet Persian palace chamber while an adult scribe reads an unlettered scroll, deep blue night through window and warm oil lamp, thoughtful calm faces. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown."
+    },
+    {
+      "role": "part2",
+      "alt": "Hamã descreve ao rei uma homenagem que imagina receber.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Haman gestures eagerly while speaking to Ahasuerus in a Persian audience room, king listens thoughtfully, rich plum and indigo robes, warm morning light, no exaggerated villain features. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown. Haman is a middle aged Persian official with olive skin, short dark beard and rich plum robe."
+    },
+    {
+      "role": "part3",
+      "alt": "Depois da homenagem, Mordecai volta ao seu lugar junto ao portão.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Mordecai calmly returns to an ancient palace gateway wearing his simple tan robe and brown shawl, grateful reflective expression, morning city activity behind, no royal crown. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

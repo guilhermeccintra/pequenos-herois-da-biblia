@@ -1,0 +1,71 @@
+{
+  "id": 271,
+  "title": "Sal e Luz",
+  "subtitle": "Pequenas atitudes podem fazer diferença",
+  "reference": "Mateus 5:13–16",
+  "description": "No monte, Jesus fala de sal, de uma cidade iluminada e de uma lâmpada para ensinar seus discípulos.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.5.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma palavra sobre o sal",
+      "paragraphs": [
+        "Jesus ensinava no monte, e seus discípulos estavam perto dele. Suas palavras falavam do Reino de Deus e de uma maneira de viver marcada por misericórdia, justiça e paz. Em meio ao ensino, ele escolheu objetos conhecidos para mostrar a importância da vida de quem o seguia. O primeiro foi o sal.",
+        "Ele chamou seus discípulos de sal da terra. Uma pequena quantidade de sal fazia diferença na comida. Não precisava ocupar todo o prato para cumprir sua função. A imagem ajudava a perceber que a presença dos seguidores de Jesus tinha um propósito no mundo. Seu modo de viver poderia fazer bem às pessoas ao redor.",
+        "Jesus também advertiu que o sal, se perdesse sua qualidade, deixaria de servir para aquilo. A comparação pedia coerência: não bastava receber um nome bonito e viver de qualquer maneira. Seus discípulos eram chamados a levar a sério o que aprendiam, preservando nas atitudes a bondade e a verdade que ouviam do Mestre."
+      ],
+      "alt": "Jesus fala aos discípulos no monte.",
+      "image": "271/part1.webp"
+    },
+    {
+      "heading": "Uma lâmpada bem colocada",
+      "paragraphs": [
+        "Depois, Jesus apresentou outra imagem. Seus discípulos eram a luz do mundo. Uma cidade construída no alto de um monte não conseguia ficar escondida. De longe, sua presença podia ser percebida. Assim, a maneira como os discípulos viviam também seria vista por outras pessoas, dentro e fora de suas próprias casas.",
+        "Jesus falou de uma lâmpada acesa. Ninguém a colocava debaixo de um recipiente, cobrindo a chama e impedindo que iluminasse. A lâmpada precisava ficar num suporte, em lugar adequado, para que sua claridade alcançasse todos os que estavam no ambiente. A luz recebida tinha a função de ajudar outras pessoas a enxergar.",
+        "Naquele tempo, a chama de uma pequena lâmpada de azeite podia reunir a família em torno da mesma claridade. O objeto era simples, mas útil. Jesus não pediu que seus discípulos fossem enormes estrelas distantes. Usou uma imagem doméstica, próxima, para mostrar que o bem poderia iluminar os lugares onde eles já estavam."
+      ],
+      "alt": "Uma lâmpada no suporte ilumina o interior de uma casa.",
+      "image": "271/part2.webp"
+    },
+    {
+      "heading": "O bem que aponta para Deus",
+      "paragraphs": [
+        "A orientação de Jesus era deixar a luz aparecer por meio de boas obras. As pessoas poderiam ver essas atitudes e glorificar o Pai do céu. O objetivo não era receber aplausos, juntar elogios ou se declarar melhor que os outros. A vida dos discípulos deveria apontar para a bondade de Deus.",
+        "Sal e luz funcionam entrando em contato com aquilo que precisam alcançar. As imagens convidavam os seguidores de Jesus a participar da vida ao redor com responsabilidade. O ensino no monte não ficaria guardado somente na memória. Precisaria aparecer na maneira de falar, dividir, acolher e agir quando alguém fosse tratado injustamente.",
+        "Uma lâmpada não precisa discutir para provar que está acesa; sua claridade é percebida no ambiente. Da mesma forma, o amor ensinado por Jesus poderia tornar-se visível em atitudes concretas. Naquele monte, ele ajudava seus discípulos a compreender que sua presença no mundo tinha valor e que o bem recebido era feito para ser compartilhado."
+      ],
+      "alt": "Uma pequena cidade no monte aparece iluminada ao anoitecer.",
+      "image": "271/part3.webp"
+    }
+  ],
+  "lesson": "Fazer o bem não exige sempre uma grande oportunidade. Atitudes pequenas podem melhorar o ambiente de uma casa ou de uma turma: incluir alguém, falar com respeito e colaborar numa tarefa. Jesus ensina que essas ações apontam para a bondade de Deus. Nossa luz não precisa diminuir a de ninguém. Cada pessoa pode contribuir de uma maneira própria, com humildade e atenção ao próximo.",
+  "question": "Que atitude sua pode tornar mais acolhedor um lugar onde você estará hoje?",
+  "prayer": "Pai, obrigado pelo bem que recebo de ti. Ajuda-me a compartilhá-lo nas minhas atitudes. Que minhas palavras tragam respeito e que minhas mãos estejam prontas para colaborar. Ensina-me a fazer diferença com humildade, lembrando que todas as pessoas têm valor diante de ti. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/271.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus ensina no monte sob a luz dourada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle teaching small group of adult disciples on grassy hillside, open Galilean landscape warm golden morning, foreground small clay bowl of coarse salt as symbolic object, no text."
+    },
+    {
+      "role": "part1",
+      "alt": "Os discípulos prestam atenção ao ensino de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Closer side angle Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle seated on stone speaking to three adult disciples on hillside, tiny clay dish of salt on rock, woven fabrics and wild grass detailed."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma lâmpada ilumina a casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Ancient clay oil lamp on raised wooden wall shelf illuminating modest first-century stone room, family silhouettes softly seated at table background, safe flame, golden warm light, no Jesus, focus lamp."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma cidade no monte pode ser vista de longe.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide twilight landscape small first-century hilltop town with warm oil-lamp light glowing from stone house windows, indigo sky, winding footpath in foreground, no modern buildings or electric lighting, poetic detailed 3D storybook."
+    }
+  ]
+}

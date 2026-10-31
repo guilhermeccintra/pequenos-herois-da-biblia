@@ -1,0 +1,71 @@
+{
+  "id": 52,
+  "title": "Rebeca e os Camelos Sedentos",
+  "subtitle": "A generosidade que foi além do pedido",
+  "reference": "Gênesis 24",
+  "description": "Um servo de Abraão chega a um poço depois de uma longa viagem. Rebeca oferece água e revela, em suas atitudes, uma disposição generosa.",
+  "testament": "antigo",
+  "cover": "/images/covers/52.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma oração junto ao poço",
+      "paragraphs": [
+        "Abraão já estava idoso quando confiou a um servo uma tarefa importante: viajar até a terra de seus parentes para buscar uma esposa para Isaque. O servo fez perguntas, recebeu orientações e partiu com dez camelos e presentes. A história pertence a costumes antigos, em que as famílias participavam diretamente dos acordos de casamento.",
+        "Depois da viagem, ele chegou à cidade de Naor, na Mesopotâmia. Parou junto a um poço ao entardecer, quando as mulheres costumavam sair para buscar água. Os camelos se ajoelharam. O servo então orou, pedindo a Deus direção e bondade para cumprir a responsabilidade que Abraão lhe havia confiado.",
+        "Ele apresentou um pedido específico: quando pedisse água a uma jovem, aquela que também oferecesse de beber aos camelos mostraria o sinal pelo qual procurava orientação. Antes que terminasse de orar, chegou Rebeca, com seu cântaro. Ela era filha de Betuel e fazia parte da família de Abraão. O encontro começava em uma tarefa comum."
+      ],
+      "image": "52/part1.webp",
+      "alt": "Um servo idoso faz uma oração ao lado de seus camelos."
+    },
+    {
+      "heading": "Água para todos os camelos",
+      "paragraphs": [
+        "O servo se aproximou e pediu um pouco de água. Rebeca abaixou o cântaro e o deixou beber. Depois se ofereceu para buscar água também para os camelos, até que estivessem satisfeitos. Era mais trabalho do que atender apenas ao pedido do viajante. Dez camelos precisavam de bastante água depois de uma longa viagem.",
+        "Ela esvaziou o cântaro no bebedouro e voltou ao poço para tirar mais água. O servo a observava em silêncio, procurando compreender se Deus havia conduzido seu caminho. A generosidade de Rebeca não estava somente em uma frase gentil. Ela se transformava em idas e vindas, esforço e atenção às necessidades dos animais.",
+        "Quando os camelos terminaram de beber, o servo ofereceu presentes e perguntou de quem ela era filha e se havia lugar para passar a noite. Rebeca explicou quem era sua família e disse que havia palha, alimento para os animais e espaço para hospedagem. O servo se inclinou em gratidão a Deus pela direção recebida."
+      ],
+      "image": "52/part2.webp",
+      "alt": "Rebeca despeja água no bebedouro dos camelos."
+    },
+    {
+      "heading": "Uma decisão que também foi ouvida",
+      "paragraphs": [
+        "Rebeca correu para contar em casa o que havia acontecido. Seu irmão Labão foi buscar o visitante, e a família o recebeu. Antes de comer, o servo explicou sua missão. Contou sobre Abraão, Isaque, a oração junto ao poço e o encontro com Rebeca. Os familiares reconheceram naquele caminho a ação de Deus.",
+        "Eles concordaram com o casamento. Na manhã seguinte, quando o servo desejou partir, a família pensou em esperar alguns dias. Então chamaram Rebeca e perguntaram se ela queria ir. Ela respondeu que iria. Sua resposta foi ouvida. A jovem se despediu acompanhada de sua ama e de outras servas, seguindo com a caravana.",
+        "Ao se aproximarem do destino, Rebeca viu Isaque no campo e perguntou quem era. O servo lhe explicou e depois contou a Isaque tudo o que havia feito. Rebeca se tornou sua esposa, e ele a amou. Uma viagem importante havia começado a encontrar seu desfecho junto a um poço, onde alguém oferecera mais cuidado do que lhe pediram."
+      ],
+      "image": "52/part3.webp",
+      "alt": "Rebeca se despede da família antes de seguir com a caravana."
+    }
+  ],
+  "lesson": "Generosidade é perceber necessidades e ajudar dentro do que é possível e seguro. Não precisamos fazer tudo nem aceitar pedidos de desconhecidos sem orientação. Crianças devem consultar os responsáveis antes de acompanhar alguém ou oferecer ajuda fora de casa. Na rotina, há muitos gestos seguros: dividir uma tarefa, cuidar da água dos animais com um adulto ou ajudar a receber uma visita. O cuidado aparece nas atitudes.",
+  "question": "Que tarefa segura você pode fazer hoje para aliviar um pouco o trabalho de alguém?",
+  "prayer": "Deus, abre nossos olhos para as necessidades ao redor. Ensina-nos a ajudar com generosidade e responsabilidade, ouvindo quem cuida de nós. Abençoa nossas decisões e nossa família. Que nossas palavras gentis sejam acompanhadas de atitudes de cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Rebeca oferece água aos camelos junto ao poço, enquanto um viajante agradece.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Rebekah clearly adult woman in her twenties, olive skin, dark braided hair under cream scarf, dusty rose long linen dress and teal sash. Servant elderly olive-skinned man white beard, sand robe and brown mantle. Ancient modest clothing. Scene: Adult Rebekah pours water into stone trough for camels beside well, elderly servant watches gratefully, lush Mesopotamian evening, no romance gesture."
+    },
+    {
+      "role": "part1",
+      "alt": "Um servo idoso faz uma oração ao lado de seus camelos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Rebekah clearly adult woman in her twenties, olive skin, dark braided hair under cream scarf, dusty rose long linen dress and teal sash. Servant elderly olive-skinned man white beard, sand robe and brown mantle. Ancient modest clothing. Scene: Only elderly servant in foreground quietly prays beside well, camel caravan resting in background, sunset, no woman yet."
+    },
+    {
+      "role": "part2",
+      "alt": "Rebeca despeja água no bebedouro dos camelos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Rebekah clearly adult woman in her twenties, olive skin, dark braided hair under cream scarf, dusty rose long linen dress and teal sash. Servant elderly olive-skinned man white beard, sand robe and brown mantle. Ancient modest clothing. Scene: Adult Rebekah alone foreground lifts modest clay jar pouring into trough while camels drink, servant small in distance, active caring scene."
+    },
+    {
+      "role": "part3",
+      "alt": "Rebeca se despede da família antes de seguir com a caravana.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Rebekah clearly adult woman in her twenties, olive skin, dark braided hair under cream scarf, dusty rose long linen dress and teal sash. Servant elderly olive-skinned man white beard, sand robe and brown mantle. Ancient modest clothing. Scene: Adult Rebekah respectfully says farewell to adult family at courtyard gate with mature nurse beside her, camel caravan beyond, hopeful journey."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+24&version=KJV"
+  ]
+}

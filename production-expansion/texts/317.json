@@ -1,0 +1,71 @@
+{
+  "id": 317,
+  "title": "O Novo Nome em Antioquia",
+  "subtitle": "Gente conhecida por seguir Cristo",
+  "reference": "Atos 11:19–26",
+  "description": "Uma comunidade cresce em Antioquia e recebe a visita de Barnabé. Ele encontra alegria, busca um companheiro para ensinar e participa de um novo capítulo da igreja.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A mensagem chega mais longe",
+      "paragraphs": [
+        "Alguns discípulos haviam deixado Jerusalém por causa da perseguição. Chegaram à Fenícia, a Chipre e a Antioquia, anunciando a palavra. No começo, muitos falavam somente aos judeus. Mas alguns homens vindos de Chipre e de Cirene começaram a conversar também com os gregos de Antioquia, contando a boa notícia sobre o Senhor Jesus.",
+        "A mão do Senhor estava com eles, e muita gente creu. A cidade se tornava um lugar de encontro entre pessoas de diferentes origens. O evangelho atravessava mais uma fronteira. Não era necessário ter nascido no mesmo lugar dos primeiros discípulos para ouvir e responder à mensagem que vinha mudando tantas vidas.",
+        "A notícia chegou à igreja de Jerusalém. Os discípulos enviaram Barnabé a Antioquia para acompanhar o que estava acontecendo. Sua viagem não era uma visita de quem procurava defeitos em uma novidade. Ele iria encontrar pessoas que tinham recebido Jesus e precisava conhecer de perto aquela comunidade em crescimento."
+      ],
+      "image": "317/part1.webp",
+      "alt": "Discípulos conversam com moradores gregos em uma rua de Antioquia, entre casas de pedra e colunas antigas."
+    },
+    {
+      "heading": "Barnabé vê e se alegra",
+      "paragraphs": [
+        "Quando chegou, Barnabé percebeu a graça de Deus e ficou contente. Incentivou todos a permanecerem firmes no Senhor, com o propósito de seus corações. Atos o descreve como um homem bom, cheio do Espírito Santo e de fé. Sua presença ajudava a comunidade a continuar, em vez de transformar o crescimento em competição.",
+        "Muitas pessoas se uniram ao Senhor. Havia mais gente para ensinar e acompanhar. Barnabé reconheceu que não precisava realizar esse trabalho sozinho. Foi até Tarso procurar Saulo. Depois de encontrá-lo, levou-o para Antioquia. Aquele amigo que antes ajudara Saulo a ser recebido pelos apóstolos agora o convidava a participar de uma tarefa importante.",
+        "Durante um ano inteiro, os dois se reuniram com a igreja e ensinaram muita gente. Um ano significa muitas conversas, perguntas e oportunidades de aprender. O crescimento da comunidade não dependia somente de um encontro emocionante. Precisava também de tempo, ensino e companhia para que a fé encontrasse raízes na vida cotidiana."
+      ],
+      "image": "317/part2.webp",
+      "alt": "Barnabé acolhe Saulo em um encontro amistoso junto a uma estrada perto de Tarso, ambos com pequenas bolsas de viagem."
+    },
+    {
+      "heading": "Um nome ligado a Jesus",
+      "paragraphs": [
+        "Foi em Antioquia que os discípulos foram chamados cristãos pela primeira vez. O nome estava ligado a Cristo. As pessoas começavam a reconhecer aquele grupo por sua relação com Jesus. Eles não eram conhecidos apenas por pertencer a uma cidade ou a uma família. Compartilhavam uma fé que aproximava gente de diferentes lugares.",
+        "O relato não diz que todos já viviam perfeitamente os ensinamentos de Jesus. Ser chamado cristão não significava ter terminado de aprender. A presença de Barnabé e Saulo durante tanto tempo mostrava justamente a importância de continuar crescendo. A comunidade precisava conhecer a mensagem e descobrir como colocá-la em prática nas relações de cada dia.",
+        "Antioquia se tornaria um lugar importante para novas viagens e encontros. Naquele momento, porém, vemos uma igreja sendo fortalecida por pessoas que acolhiam, ensinavam e trabalhavam juntas. O nome cristão lembrava a quem seguiam. O desafio seria fazer com que suas atitudes também mostrassem algo da bondade, da verdade e do cuidado que aprenderam com Cristo."
+      ],
+      "image": "317/part3.webp",
+      "alt": "Uma comunidade diversa de Antioquia compartilha uma refeição e conversa com Barnabé e Saulo, em um ambiente alegre de aprendizado."
+    }
+  ],
+  "lesson": "Um nome pode lembrar aquilo que é importante para nós, mas são as atitudes que mostram como vivemos. Quem segue Jesus continua aprendendo a tratar os outros com respeito, reconhecer erros e cuidar de quem precisa. Não usamos a fé para nos sentir superiores. Barnabé também ensina a dividir responsabilidades: pedir a ajuda de alguém pode tornar um trabalho melhor e permitir que mais pessoas participem.",
+  "question": "Que atitude sua pode mostrar cuidado e respeito por alguém que pensa diferente de você?",
+  "prayer": "Jesus, ajuda-nos a aprender contigo todos os dias. Que nossa fé apareça em palavras respeitosas e atitudes de cuidado. Obrigado por quem nos ensina e caminha ao nosso lado. Dá-nos humildade para pedir ajuda e alegria para trabalhar juntos. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/317.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.11"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Barnabé e Saulo ensinam um grupo diverso de adultos e crianças em um pátio de Antioquia, com rolos das Escrituras sem letras legíveis.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul has receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Barnabé e Saulo ensinam um grupo diverso de adultos e crianças em um pátio de Antioquia, com rolos das Escrituras sem letras legíveis."
+    },
+    {
+      "role": "part1",
+      "alt": "Discípulos conversam com moradores gregos em uma rua de Antioquia, entre casas de pedra e colunas antigas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul has receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Discípulos conversam com moradores gregos em uma rua de Antioquia, entre casas de pedra e colunas antigas. Elenco exato: quatro discípulos anônimos e moradores gregos. Saulo e Barnabé ainda não chegaram e não aparecem."
+    },
+    {
+      "role": "part2",
+      "alt": "Barnabé acolhe Saulo em um encontro amistoso junto a uma estrada perto de Tarso, ambos com pequenas bolsas de viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul has receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Barnabé acolhe Saulo em um encontro amistoso junto a uma estrada perto de Tarso, ambos com pequenas bolsas de viagem."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma comunidade diversa de Antioquia compartilha uma refeição e conversa com Barnabé e Saulo, em um ambiente alegre de aprendizado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Barnabas has wavy chestnut hair, thick brown beard, olive tunic and sand shawl. Paul has receding dark curly hair, dark beard, indigo tunic and beige shawl.  Scene: Uma comunidade diversa de Antioquia compartilha uma refeição e conversa com Barnabé e Saulo, em um ambiente alegre de aprendizado."
+    }
+  ]
+}

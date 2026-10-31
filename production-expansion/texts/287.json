@@ -1,0 +1,71 @@
+{
+  "id": 287,
+  "title": "Duas Orações no Templo",
+  "subtitle": "Deus recebe um coração sincero e humilde",
+  "reference": "Lucas 18:9–14",
+  "description": "Dois homens vão ao templo para orar, mas cada um chega com uma atitude muito diferente.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.18.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Dois homens no mesmo lugar",
+      "paragraphs": [
+        "Algumas pessoas confiavam muito na própria justiça e desprezavam os outros. Jesus percebeu essa atitude e contou uma parábola. Dois homens subiram ao templo para orar. Um era fariseu, dedicado às práticas religiosas. O outro era cobrador de impostos, alguém que muitos olhavam com desconfiança por causa de sua profissão e das injustiças ligadas a ela.",
+        "Os dois chegaram ao mesmo lugar, mas não apresentaram a mesma atitude. O fariseu ficou em pé e começou a agradecer a Deus. Suas palavras, porém, logo se transformaram numa comparação. Ele dizia que não era como outras pessoas que roubavam, praticavam injustiças ou traíam compromissos. Também apontou para o cobrador de impostos.",
+        "Ao mencionar aquele homem, o fariseu o colocou abaixo de si. Sua oração parecia uma maneira de confirmar a própria superioridade. Em vez de abrir o coração diante de Deus, organizava uma lista que o fazia parecer melhor. O templo recebia suas palavras, mas o próximo era tratado com desprezo dentro da própria oração."
+      ],
+      "alt": "Dois homens entram no pátio do templo para orar.",
+      "image": "287/part1.webp"
+    },
+    {
+      "heading": "Uma lista e um pedido",
+      "paragraphs": [
+        "O fariseu continuou lembrando suas práticas religiosas. Jejuava duas vezes por semana e entregava a décima parte de tudo o que recebia. Essas ações podiam expressar dedicação, mas ali eram apresentadas como motivos para se colocar acima dos outros. Ele parecia enxergar apenas o que tinha para mostrar, sem reconhecer sua própria necessidade de misericórdia.",
+        "O cobrador de impostos ficou mais distante. Nem levantava os olhos para o céu. Levou a mão ao peito e pediu que Deus tivesse misericórdia dele, um pecador. Sua oração era breve. Não trazia uma lista de qualidades nem uma comparação com alguém pior. Ele reconhecia que precisava de perdão e ajuda.",
+        "A sinceridade daquele pedido não tornava boas as injustiças que pudesse ter cometido. Reconhecer o erro era justamente o contrário de defendê-lo. O homem não escondia sua necessidade atrás da aparência de outra pessoa. Colocava-se diante de Deus com humildade, confiando na misericórdia que não podia fabricar por conta própria."
+      ],
+      "alt": "O cobrador de impostos ora com humildade, de cabeça baixa.",
+      "image": "287/part2.webp"
+    },
+    {
+      "heading": "O coração que Deus recebe",
+      "paragraphs": [
+        "Jesus disse que foi o cobrador de impostos quem voltou para casa justificado diante de Deus, e não o outro. O resultado surpreendia quem julgava apenas pelas posições sociais ou pela aparência religiosa. O coração humilde havia recebido aquilo que o orgulho não procurara de verdade: a misericórdia que restaura a relação com Deus.",
+        "Jesus concluiu que quem se exalta será humilhado, e quem se humilha será exaltado. Não ensinava as pessoas a dizer que não tinham valor. A humildade da parábola era reconhecer a verdade sobre si e depender de Deus, sem precisar diminuir o próximo. Era possível admitir erros e ainda confiar que a misericórdia estava aberta.",
+        "Os dois homens saíram do templo, mas a história deixou uma pergunta aos ouvintes. Como estavam se aproximando de Deus e olhando para os outros? A oração não precisava ser uma apresentação de méritos. Podia ser um encontro sincero, no qual alguém reconhece sua necessidade, pede perdão e recebe coragem para viver de maneira diferente."
+      ],
+      "alt": "O homem que pediu misericórdia deixa o templo em paz.",
+      "image": "287/part3.webp"
+    }
+  ],
+  "lesson": "Humildade é reconhecer a verdade sobre nós sem desprezar ninguém. Podemos agradecer por boas escolhas e ainda admitir que precisamos aprender e receber perdão. A oração não é uma competição de qualidades. Deus acolhe um coração sincero. Quando erramos, podemos falar com honestidade, procurar reparar o dano e pedir ajuda para mudar, sem usar o erro de outra pessoa como desculpa.",
+  "question": "Como você pode reconhecer um erro seu sem comparar sua atitude com a de outra pessoa?",
+  "prayer": "Deus misericordioso, ajuda-me a falar contigo com sinceridade. Obrigado pelo bem que aprendo a fazer; perdoa os erros que preciso reconhecer. Livra-me de desprezar outras pessoas para parecer melhor. Dá-me humildade para pedir ajuda e coragem para reparar o que fiz. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/287.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um homem ora humildemente no templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration adult tax collector olive skin short dark beard muted brown robe standing at distance in Jerusalem temple courtyard hand over chest head gently bowed, sincere reflective face, warm light through columns, dignified hopeful mood. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "Dois homens se aproximam do lugar de oração.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide temple courtyard two adult men separated in space: Pharisee cream robe dark blue mantle standing nearer foreground, tax collector brown robe farther back, natural sunlight pale stone columns, no villain caricature. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O cobrador de impostos pede misericórdia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close three-quarter view same adult tax collector brown robe with hand over heart eyes lowered in sincere prayer, stone temple wall softly blurred, gentle warm illumination, no tears exaggerated. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O homem retorna para casa com serenidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same tax collector brown robe walking down temple steps into sunlit Jerusalem street, thoughtful peaceful expression after prayer, modest city background, hopeful cinematic wide shot. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

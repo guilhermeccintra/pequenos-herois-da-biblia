@@ -1,0 +1,71 @@
+{
+  "id": 80,
+  "title": "Quando os Presentes Foram Suficientes",
+  "subtitle": "Generosidade também sabe reconhecer o suficiente",
+  "reference": "Êxodo 36:1–7",
+  "description": "Os artesãos percebem que já receberam os materiais necessários e Moisés interrompe a coleta.",
+  "testament": "antigo",
+  "cover": "/images/covers/80.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma obra que começou em conjunto",
+      "paragraphs": [
+        "Bezalel, Aoliabe e as pessoas habilidosas chamadas para trabalhar começaram a preparar o tabernáculo. Tinham recebido conhecimento para realizar as tarefas e disposição para participar. Agora era hora de transformar as ofertas em peças concretas. Tecidos, madeira e metais deixariam de ser apenas materiais separados para formar uma obra comum.",
+        "Moisés entregou aos trabalhadores tudo o que os israelitas haviam trazido. Cada recurso tinha uma finalidade ligada ao serviço do santuário. A confiança da comunidade precisava ser correspondida com cuidado. Quem recebia as ofertas tinha a responsabilidade de usá-las de acordo com o propósito para o qual foram dadas.",
+        "Enquanto a construção avançava, as pessoas continuavam chegando a cada manhã com contribuições voluntárias. A generosidade não havia terminado no primeiro anúncio. Havia disposição para ajudar e alegria em participar. Mas o trabalho também exigia atenção ao que já estava disponível e ao que realmente ainda seria necessário."
+      ],
+      "image": "80/part1.webp",
+      "alt": "As famílias continuam trazendo ofertas."
+    },
+    {
+      "heading": "A observação dos artesãos",
+      "paragraphs": [
+        "Os trabalhadores deixaram por um momento suas tarefas e foram falar com Moisés. Tinham percebido que o povo trazia mais do que o necessário para realizar a obra. Essa informação era importante. Eles conheciam as peças que precisavam fazer e podiam comparar a necessidade com os materiais já recebidos.",
+        "Seria possível continuar aceitando tudo sem dizer nada. Mas os artesãos escolheram informar a situação com honestidade. O objetivo não era acumular o maior número de presentes. Era preparar aquilo que Deus havia orientado. Quando o necessário estava garantido, a comunidade precisava saber que sua participação havia alcançado o propósito.",
+        "O relato não apresenta essa notícia como uma reclamação contra a generosidade. Era o reconhecimento de que ela havia produzido um bom resultado. As pessoas tinham respondido, e agora os responsáveis deveriam cuidar desse resultado com clareza. Gratidão e transparência podiam aparecer na mesma conversa com Moisés."
+      ],
+      "image": "80/part2.webp",
+      "alt": "Bezalel e Aoliabe conferem os materiais."
+    },
+    {
+      "heading": "Uma notícia diferente no acampamento",
+      "paragraphs": [
+        "Moisés mandou anunciar por todo o acampamento que homens e mulheres não precisavam preparar mais ofertas para aquela obra. A coleta deveria parar. Era uma mensagem pouco comum: havia o suficiente. A orientação respeitava tanto os recursos das famílias quanto a necessidade real do trabalho que estava sendo feito.",
+        "O povo deixou de trazer novas contribuições. Os materiais já disponíveis bastavam para a construção e ainda sobravam. Agora a atenção podia se concentrar em trabalhar bem, seguindo as orientações recebidas. A generosidade havia aberto o caminho; a responsabilidade ajudaria a conduzir a tarefa até seu término.",
+        "Essa pequena passagem guarda uma grande lição sobre confiança. Quem oferece precisa saber que sua contribuição será tratada com honestidade. Quem organiza precisa reconhecer limites e comunicar a verdade. A alegria de dar não depende de uma coleta sem fim. Também pode aparecer quando uma comunidade percebe que, trabalhando junta, conseguiu atender ao que era necessário."
+      ],
+      "image": "80/part3.webp",
+      "alt": "Moisés anuncia que a coleta pode terminar."
+    }
+  ],
+  "lesson": "Generosidade e honestidade precisam caminhar juntas. Os artesãos disseram que já havia material suficiente, e Moisés respeitou essa informação. Em uma atividade coletiva, podemos aprender a planejar, cuidar do que recebemos e explicar com clareza o que ainda falta. Também podemos reconhecer quando é hora de parar de pedir e começar a usar bem os recursos disponíveis. O suficiente merece gratidão, cuidado e responsabilidade.",
+  "question": "Como você pode ajudar um grupo a perceber o que realmente precisa, evitando pedir ou comprar além do necessário?",
+  "prayer": "Senhor, ensina-nos a compartilhar com alegria e administrar com honestidade. Ajuda-me a reconhecer o suficiente, evitar desperdícios e cuidar daquilo que recebo. Que nossas atividades sejam marcadas por confiança, gratidão e respeito aos recursos de cada pessoa. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Os artesãos mostram a Moisés que há materiais suficientes.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Bezalel and Oholiab show Moses neatly organized ample fabric rolls wood planks and metal bowls in desert workshop, relieved grateful conversation."
+    },
+    {
+      "role": "part1",
+      "alt": "As famílias continuam trazendo ofertas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Scene: Adult families bring folded cloth and modest clay oil jars to organized workshop tent in morning, joyful voluntary contribution, no money exchange."
+    },
+    {
+      "role": "part2",
+      "alt": "Bezalel e Aoliabe conferem os materiais.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Two adult artisans carefully compare prepared wooden frames with orderly supplies on woven mats, thoughtful practical inspection, no modern paper charts or numbers."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés anuncia que a coleta pode terminar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Bezalel adult olive-brown artisan around40, dark curly hair short dark beard, ochre tunic leather work apron. Oholiab adult brown-skinned artisan around45, neatly trimmed beard, muted blue tunic brown sash. Both fully clothed, kind attentive faces. Scene: Moses addresses small gathering outside workshop with open grateful hands, adults holding baskets listen calmly, sufficient organized supplies behind, no rejection or anger."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+36%3A1-7&version=KJV"
+  ]
+}

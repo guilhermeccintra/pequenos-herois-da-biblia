@@ -1,0 +1,71 @@
+{
+  "id": 65,
+  "title": "Tijolos sem Palha",
+  "subtitle": "Quando fazer o certo encontra resistência",
+  "reference": "Êxodo 5",
+  "description": "Moisés e Arão enfrentam a recusa do faraó, e o povo sofre com uma ordem ainda mais injusta.",
+  "testament": "antigo",
+  "cover": "/images/covers/65.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Diante de um rei que não queria ouvir",
+      "paragraphs": [
+        "Moisés e Arão foram falar com o faraó. Levaram o pedido para que o povo de Israel saísse e celebrasse ao Senhor no deserto. Era o começo de uma missão difícil. Eles não estavam pedindo que o rei recebesse uma homenagem maior; estavam anunciando que aquele povo pertencia a Deus.",
+        "Faraó recusou. Não quis reconhecer o Senhor nem permitir a saída dos israelitas. Para ele, o trabalho que exigia das pessoas era mais importante do que a liberdade delas. Acusou Moisés e Arão de atrapalhar os trabalhadores e tratou o pedido como se fosse apenas uma desculpa para descansar.",
+        "Naquele mesmo dia, deu uma ordem que tornaria a vida do povo ainda mais pesada. Os responsáveis pelo trabalho não forneceriam mais a palha usada na fabricação dos tijolos. Apesar disso, a quantidade exigida continuaria igual. As pessoas teriam de encontrar o material e produzir tanto quanto antes, no mesmo tempo."
+      ],
+      "image": "65/part1.webp",
+      "alt": "Moisés e Arão apresentam o pedido ao faraó."
+    },
+    {
+      "heading": "Uma cobrança impossível",
+      "paragraphs": [
+        "Os israelitas se espalharam pelos campos para recolher o que pudessem usar. A palha ajudava na preparação dos tijolos de barro, e consegui-la exigia esforço. Agora havia uma tarefa a mais, mas nenhuma redução da cobrança. O problema não era preguiça: era uma exigência injusta imposta a pessoas já cansadas.",
+        "Os encarregados hebreus, responsáveis por acompanhar o trabalho de seus próprios companheiros, sofreram punições quando a produção ficou abaixo do exigido. Foram ao faraó pedir explicações e ajuda. Mostraram que o material havia sido retirado, mas a obrigação permanecia. Esperavam que o rei reconhecesse a contradição de sua ordem.",
+        "Faraó repetiu a acusação de preguiça e recusou mudar a situação. Os encarregados saíram sabendo que não haviam sido ouvidos. A autoridade que deveria fazer justiça estava aprofundando o sofrimento. A Bíblia registra essa crueldade para que não confundamos a voz de quem manda com a voz de quem tem razão."
+      ],
+      "image": "65/part2.webp",
+      "alt": "Trabalhadores recolhem palha nos campos."
+    },
+    {
+      "heading": "Uma pergunta levada a Deus",
+      "paragraphs": [
+        "Ao sair, os encarregados encontraram Moisés e Arão. Estavam angustiados e disseram que a visita deles ao faraó havia piorado tudo. É possível compreender a dor dessas palavras: o povo esperava alívio, mas sentia um peso ainda maior. A promessa de liberdade parecia distante da realidade dos campos e dos tijolos.",
+        "Moisés voltou-se para Deus com perguntas difíceis. Queria entender por que o sofrimento aumentara e por que havia sido enviado. Ele não apresentou uma oração bonita para esconder sua preocupação. Contou o que estava vendo e reconheceu que a libertação ainda não acontecera. Sua conversa com Deus teve espaço para a aflição.",
+        "Este episódio termina antes da resposta completa. Ele nos deixa ao lado de pessoas cansadas e de um líder que ainda precisa aprender a perseverar. A resistência do faraó não tornava a escravidão correta. E as perguntas de Moisés não encerravam sua missão: seriam parte de uma caminhada em que Deus continuaria agindo."
+      ],
+      "image": "65/part3.webp",
+      "alt": "Moisés leva suas perguntas a Deus."
+    }
+  ],
+  "lesson": "Fazer o que é certo nem sempre traz um resultado fácil no mesmo dia. A recusa do faraó não significava que a liberdade fosse um pedido errado. Quando enfrentamos uma situação injusta, podemos falar com Deus de maneira sincera e procurar ajuda de pessoas responsáveis. Também precisamos ouvir quem está cansado, sem chamar sofrimento de preguiça. A história nos ensina a reconhecer a injustiça e a não desistir de buscar cuidado.",
+  "question": "Como você pode ouvir com mais atenção alguém que está cansado ou sendo cobrado de maneira injusta?",
+  "prayer": "Deus justo, ajuda-me a perceber quando alguém está carregando um peso grande demais. Ensina-me a ouvir sem julgar, pedir ajuda e falar contigo com sinceridade. Dá coragem a quem trabalha pela liberdade e pelo cuidado das pessoas que sofrem. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés e Arão conversam com trabalhadores cansados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Pharaoh adult brown skin blue-gold nemes and royal white linen. Scene: Elderly Moses and Aaron listen compassionately to tired adult brickmakers beside neat clay bricks and empty straw baskets, no injury or violence, ancient Egypt."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés e Arão apresentam o pedido ao faraó.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Pharaoh adult brown skin blue-gold nemes and royal white linen. Scene: Moses and Aaron stand together before seated Pharaoh in Egyptian palace, firm respectful conversation, no snakes or plagues."
+    },
+    {
+      "role": "part2",
+      "alt": "Trabalhadores recolhem palha nos campos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Pharaoh adult brown skin blue-gold nemes and royal white linen. Scene: Adult Hebrew workers gather sparse dry straw into baskets in field with unfinished mud bricks nearby, tired dignified faces, no children working or guards hurting people."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés leva suas perguntas a Deus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron slightly older olive-skinned man white beard, cream robe muted indigo mantle. Pharaoh adult brown skin blue-gold nemes and royal white linen. Scene: Moses ALONE seated outside modest dwelling at dusk, hands open in earnest prayer and troubled thoughtful face, no visible deity, quiet stars beginning."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+5&version=KJV"
+  ]
+}

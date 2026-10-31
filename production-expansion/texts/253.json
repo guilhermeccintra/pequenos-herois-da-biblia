@@ -1,0 +1,71 @@
+{
+  "id": 253,
+  "title": "A Mulher que Tocou o Manto",
+  "subtitle": "Vista e acolhida no meio da multidão",
+  "reference": "Marcos 5:25–34",
+  "description": "Uma mulher que sofre há muitos anos se aproxima de Jesus em meio à multidão. O encontro traz cura e uma palavra pública de acolhimento.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.5.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma longa procura por ajuda",
+      "paragraphs": [
+        "No caminho por onde Jesus passava, havia uma mulher que sofria de uma perda de sangue havia doze anos. Durante esse tempo, procurara muitos médicos e gastara tudo o que possuía. Em vez de melhorar, seu estado havia piorado. Marcos conta sua longa procura para mostrar o peso que aquela doença tinha em sua vida.",
+        "Além do sofrimento do corpo, sua condição trazia dificuldades para a convivência segundo os costumes daquele tempo. Ela precisava de cuidado e acolhimento. Ao ouvir falar de Jesus, encontrou uma nova esperança. Não se aproximava por curiosidade, como quem queria apenas acompanhar uma novidade. Carregava anos de necessidade e desejo de alívio.",
+        "A multidão se apertava ao redor de Jesus. A mulher chegou por trás e tocou seu manto, pensando que, se conseguisse tocar suas roupas, ficaria curada. Foi um gesto pequeno no meio de muitas pessoas, mas cheio de confiança. Ela não estava procurando aplausos nem um lugar de destaque. Desejava receber ajuda."
+      ],
+      "alt": "Uma mulher se aproxima de Jesus em meio à multidão.",
+      "image": "253/part1.webp"
+    },
+    {
+      "heading": "Quem tocou minhas roupas?",
+      "paragraphs": [
+        "Imediatamente, a perda de sangue cessou. A mulher percebeu em seu corpo que estava curada daquele sofrimento. Ao mesmo tempo, Jesus reconheceu que dele havia saído poder. Virou-se para a multidão e perguntou quem tinha tocado suas roupas. O encontro não ficaria escondido apenas como um contato perdido entre tantos outros.",
+        "Os discípulos estranharam a pergunta. Havia gente por todos os lados, apertando-se ao redor dele. Como perguntar quem o tocara numa situação assim? Para eles, o movimento da multidão parecia explicar tudo. Jesus, porém, continuou olhando ao redor, procurando a pessoa que havia vivido aquele encontro de uma maneira diferente.",
+        "A mulher sabia o que tinha acontecido. Aproximou-se com temor, lançou-se diante de Jesus e contou toda a verdade. Sua história, que começara num gesto discreto, ganhou voz. Ela pôde dizer o que vivia e o que havia recebido. Jesus lhe deu atenção diante das pessoas, sem tratá-la como um incômodo a ser afastado."
+      ],
+      "alt": "Jesus para e escuta a mulher com atenção e respeito.",
+      "image": "253/part2.webp"
+    },
+    {
+      "heading": "Uma palavra de paz",
+      "paragraphs": [
+        "Jesus a chamou de filha. Essa palavra de acolhimento tinha um peso especial depois de tantos anos de sofrimento e dificuldades. Disse que sua fé a havia salvado e que poderia ir em paz, livre daquele mal. O encontro terminou com uma bênção, não com uma repreensão por ter se aproximado.",
+        "O toque no manto havia levado a mulher a um encontro pessoal com Jesus. Ele a ouvira, a chamara de filha e reconhecera sua fé. A confiança que a fizera atravessar a multidão recebia agora uma resposta cheia de cuidado. Sua história podia seguir adiante com a lembrança daquela voz que lhe desejara paz.",
+        "No meio de uma multidão apressada, uma pessoa foi vista. A mulher que gastara tantos recursos procurando ajuda pôde seguir com uma palavra de paz. Seu nome não aparece no relato, mas sua experiência ficou guardada. A atenção de Jesus alcançou alguém que poderia passar despercebida entre tantas outras pessoas."
+      ],
+      "alt": "A mulher segue em paz depois de conversar com Jesus.",
+      "image": "253/part3.webp"
+    }
+  ],
+  "lesson": "Ninguém deve sentir vergonha por precisar de ajuda ou tratamento. Podemos contar a um responsável quando algo em nosso corpo preocupa e receber cuidado adequado. A história mostra uma cura específica de Jesus; não significa que uma doença persistente seja falta de fé. Também aprendemos a escutar quem sofre, respeitar sua privacidade e tratar cada pessoa com a dignidade que Jesus demonstrou naquele encontro.",
+  "question": "Como você pode ouvir com respeito alguém que está contando uma dificuldade?",
+  "prayer": "Jesus, obrigado por escutar quem sofre e por acolher cada pessoa com dignidade. Ajuda-nos a procurar cuidado quando precisamos e a respeitar a história dos outros. Que ninguém seja humilhado por estar doente, e que encontremos companhia, tratamento e paz. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/253.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus acolhe uma mulher com uma palavra de paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle listens kindly to adult woman olive skin dark hair beige veil muted teal dress, relieved grateful expression, ancient crowded street softly blurred, fully clothed modest dignified scene no blood or wounds."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma mulher se aproxima de Jesus em meio à multidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult woman beige veil muted teal dress approaches respectfully behind Jesus cream tunic terracotta mantle amid modest adult crowd on ancient stone street, reaching toward outer cloak edge, no body contact, no blood."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus para e escuta a mulher com atenção e respeito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle turns and gives full attention to adult woman beige veil teal dress speaking earnestly, disciples step aside to make room, warm compassionate faces, medium framing."
+    },
+    {
+      "role": "part3",
+      "alt": "A mulher segue em paz depois de conversar com Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult woman beige veil teal dress walking peacefully along sunlit ancient street with relieved smile, Jesus cream tunic terracotta mantle and listeners behind, sense of dignity and new hope, no medical imagery."
+    }
+  ]
+}

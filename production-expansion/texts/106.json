@@ -1,0 +1,71 @@
+{
+  "id": 106,
+  "title": "Josué Recebe uma Grande Missão",
+  "subtitle": "Coragem para continuar",
+  "reference": "Josué 1",
+  "description": "Depois da morte de Moisés, Josué precisa conduzir o povo. Uma promessa de companhia, um livro para meditar e o apoio dos companheiros o ajudam a começar.",
+  "testament": "antigo",
+  "cover": "/images/covers/106.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar vazio",
+      "paragraphs": [
+        "Moisés havia morrido. Durante muitos anos, ele conduzira os israelitas, ouvira suas dificuldades e lhes ensinara os caminhos de Deus. Agora o povo estava diante de uma nova etapa. Do outro lado do rio Jordão ficava a terra para onde caminhavam. Josué, que havia servido ao lado de Moisés, recebeu a responsabilidade de continuar aquela missão.",
+        "A tarefa não vinha acompanhada de um caminho sem dificuldades. Havia um rio para atravessar, famílias para organizar e decisões importantes pela frente. Josué conhecia a viagem do deserto, mas ainda não conhecia cada situação que encontraria. Ser o novo líder não significava ter resposta pronta para tudo nem deixar de precisar de ajuda.",
+        "Deus falou com ele. Assim como havia estado com Moisés, estaria com Josué. Essa promessa não apagava o passado nem substituía a saudade do antigo líder. Oferecia companhia para o presente. Josué podia dar o próximo passo sabendo que não começava sua caminhada sozinho."
+      ],
+      "image": "106/part1.webp",
+      "alt": "Josué está pensativo à entrada de sua tenda, diante do acampamento e do rio ao longe."
+    },
+    {
+      "heading": "Um livro para guardar no coração",
+      "paragraphs": [
+        "Deus orientou Josué a ser forte e corajoso. Essa coragem estava ligada à fidelidade: ele deveria cuidar de seguir os ensinamentos recebidos por meio de Moisés. Não bastava avançar depressa ou parecer poderoso diante de todos. Era preciso lembrar o que era certo e deixar que essa lembrança conduzisse as decisões de cada dia.",
+        "O livro da lei deveria permanecer perto de seus pensamentos e de suas palavras. Josué foi chamado a meditar nele de dia e de noite. Meditar era escutar com atenção, voltar ao ensinamento e considerar como vivê-lo. A responsabilidade de liderar começava também nesses momentos em que ninguém estava vendo grandes feitos.",
+        "Mais uma vez, Deus o encorajou. Não precisava se entregar ao desânimo, porque o Senhor estaria com ele por onde andasse naquela missão. O rio ainda estava à frente, mas Josué já tinha uma direção. Sua força não dependeria apenas de sua experiência ou da confiança que os outros depositassem nele."
+      ],
+      "image": "106/part2.webp",
+      "alt": "Josué contempla um rolo aberto sobre uma mesa simples, iluminado pela luz suave de uma lamparina."
+    },
+    {
+      "heading": "O primeiro combinado",
+      "paragraphs": [
+        "Josué chamou os oficiais do povo e pediu que percorressem o acampamento. As famílias deveriam preparar provisões, pois em poucos dias atravessariam o Jordão. Depois de ouvir, era hora de organizar. Alimento, pessoas e tarefas precisavam ser considerados. Uma grande mudança começava com orientações práticas que chegavam de tenda em tenda.",
+        "Ele também conversou com as tribos que já haviam recebido terras a leste do rio. Seus homens deveriam ajudar os outros israelitas, conforme o compromisso assumido com Moisés. Somente depois voltariam para suas famílias. Ter encontrado um lugar para descansar não era motivo para esquecer os companheiros que ainda precisavam de apoio.",
+        "Os representantes responderam que seguiriam as orientações. Desejaram que Deus estivesse com Josué como estivera com Moisés e também o encorajaram a ser forte. A missão continuava grande, mas agora havia movimento no acampamento. Um líder que escutava e um povo disposto a cooperar começavam juntos uma nova etapa."
+      ],
+      "image": "106/part3.webp",
+      "alt": "Josué conversa com os oficiais enquanto famílias preparam cestos de alimentos para a viagem."
+    }
+  ],
+  "lesson": "Começos podem trazer alegria, saudade e medo ao mesmo tempo. Josué precisou ouvir, preparar e contar com outras pessoas. Quando mudamos de turma ou recebemos uma tarefa nova, podemos fazer o mesmo: pedir orientação, organizar o necessário e aprender um passo de cada vez. Coragem não é saber tudo. É procurar fazer o bem com responsabilidade, mesmo enquanto ainda estamos aprendendo a caminhar.",
+  "question": "Qual preparação pequena pode ajudar você numa tarefa nova, e quem pode orientar esse começo?",
+  "prayer": "Deus, acompanha nossa família nos novos começos. Dá-nos coragem para aprender, atenção para ouvir bons ensinamentos e humildade para pedir ajuda. Quando sentirmos saudade ou medo, lembra-nos de que podemos conversar contigo e procurar pessoas que cuidam de nós. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Josué observa o Jordão com esperança, enquanto famílias organizam as tendas ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua is a mature olive-skinned man with dark curly hair streaked gray, short beard, olive tunic, burgundy mantle, brown belt; ancient Israelite camp beside Jordan. Scene: Josué observa o Jordão com esperança, enquanto famílias organizam as tendas ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Josué está pensativo à entrada de sua tenda, diante do acampamento e do rio ao longe.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua is a mature olive-skinned man with dark curly hair streaked gray, short beard, olive tunic, burgundy mantle, brown belt; ancient Israelite camp beside Jordan. Scene: Josué está pensativo à entrada de sua tenda, diante do acampamento e do rio ao longe."
+    },
+    {
+      "role": "part2",
+      "alt": "Josué contempla um rolo aberto sobre uma mesa simples, iluminado pela luz suave de uma lamparina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua is a mature olive-skinned man with dark curly hair streaked gray, short beard, olive tunic, burgundy mantle, brown belt; ancient Israelite camp beside Jordan. Scene: Josué contempla um rolo aberto sobre uma mesa simples, iluminado pela luz suave de uma lamparina."
+    },
+    {
+      "role": "part3",
+      "alt": "Josué conversa com os oficiais enquanto famílias preparam cestos de alimentos para a viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua is a mature olive-skinned man with dark curly hair streaked gray, short beard, olive tunic, burgundy mantle, brown belt; ancient Israelite camp beside Jordan. Scene: Josué conversa com os oficiais enquanto famílias preparam cestos de alimentos para a viagem."
+    }
+  ]
+}

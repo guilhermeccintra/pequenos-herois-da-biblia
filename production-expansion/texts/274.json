@@ -1,0 +1,71 @@
+{
+  "id": 274,
+  "title": "O Trigo e o Joio",
+  "subtitle": "Paciência para cuidar do campo até a colheita",
+  "reference": "Mateus 13:24–30, 36–43",
+  "description": "Quando plantas indesejadas aparecem no meio do trigo, o dono do campo evita uma decisão apressada.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Duas plantas no mesmo campo",
+      "paragraphs": [
+        "Jesus contou outra parábola sobre o Reino dos céus. Um homem havia semeado boa semente em seu campo. O trabalho prometia uma colheita de trigo. Entretanto, enquanto as pessoas dormiam, um inimigo veio e espalhou joio no meio da plantação. Depois foi embora, deixando um problema que não seria percebido imediatamente.",
+        "Quando as plantas cresceram e começaram a formar espigas, o joio também apareceu. Era uma erva indesejada, misturada àquilo que o dono havia plantado. Os servos perceberam a diferença e procuraram o senhor do campo. Queriam entender o que tinha acontecido. Se ele semeara boa semente, de onde viera todo aquele joio?",
+        "O dono respondeu que um inimigo havia feito aquilo. A má semente não era resultado de seu desejo para a plantação. Os servos, então, tiveram uma ideia que parecia resolver tudo depressa. Perguntaram se deveriam sair pelo campo e arrancar as plantas indesejadas. Queriam separar logo o que era bom do que prejudicava o trigo."
+      ],
+      "alt": "Os trabalhadores descobrem joio entre as espigas de trigo.",
+      "image": "274/part1.webp"
+    },
+    {
+      "heading": "Uma resposta cuidadosa",
+      "paragraphs": [
+        "O senhor do campo disse que não. Ao arrancar o joio naquele momento, os servos poderiam arrancar também o trigo. As raízes estavam misturadas, e uma ação apressada colocaria em risco aquilo que desejavam proteger. O dono não ignorava o problema. Estava considerando o campo inteiro e o cuidado necessário com a plantação.",
+        "Ele orientou que deixassem ambos crescer até a colheita. Na hora certa, os trabalhadores encarregados de colher fariam a separação. O joio seria retirado, e o trigo seria recolhido no celeiro. Haveria um momento de decisão, mas não cabia aos servos resolver tudo imediatamente, sem considerar o dano que poderiam causar.",
+        "A parábola terminava com essa espera cuidadosa. O dono não desistia de sua boa semente por causa do que o inimigo fizera. Também não confundia as duas plantas. Seu plano unia paciência e justiça. O campo continuaria sendo cuidado enquanto chegava o tempo apropriado para separar e guardar a colheita."
+      ],
+      "alt": "O dono do campo orienta os trabalhadores a esperar a colheita.",
+      "image": "274/part2.webp"
+    },
+    {
+      "heading": "O significado da colheita",
+      "paragraphs": [
+        "Depois que Jesus deixou a multidão e entrou em casa, seus discípulos pediram uma explicação sobre o joio. Ele disse que o semeador da boa semente era o Filho do Homem. O campo era o mundo. A boa semente representava os filhos do Reino, e o joio, os que pertenciam ao mal.",
+        "O inimigo era o diabo. A colheita representava o fim dos tempos, e os encarregados de colher eram os anjos. Jesus ensinava que Deus não esqueceria a justiça. O mal não permaneceria para sempre. A separação final, porém, pertencia à autoridade de Deus, e não ao impulso das pessoas de decidir o destino dos outros.",
+        "Jesus terminou falando da alegria dos justos no Reino do Pai. Seus discípulos podiam confiar que a história do mundo não estava abandonada. A parábola os ajudava a reconhecer a seriedade do mal sem transformar a impaciência em violência. O dono conhecia seu campo e não permitiria que o cuidado com o trigo fosse esquecido."
+      ],
+      "alt": "Espigas maduras são recolhidas com cuidado no tempo da colheita.",
+      "image": "274/part3.webp"
+    }
+  ],
+  "lesson": "Combater o mal não significa agir sem pensar nas consequências. A história ensina paciência e confiança na justiça de Deus. Não devemos usar a imagem do joio para rotular pessoas ou tratá-las como descartáveis. Quando vemos uma injustiça, podemos buscar ajuda responsável e proteger quem sofre. Cuidar exige firmeza, mas também atenção para não machucar outros com decisões precipitadas ou cruéis.",
+  "question": "Como você pode buscar ajuda para resolver uma injustiça sem ferir outras pessoas por impulso?",
+  "prayer": "Pai, dá-me paciência e discernimento diante do que está errado. Ajuda-me a proteger quem precisa, procurar ajuda e evitar julgamentos apressados. Que eu confie na tua justiça sem cruzar os braços diante da dor. Ensina-me a agir com firmeza e cuidado. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/274.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O dono do campo observa trigo e joio com seus trabalhadores.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene mature landowner olive skin gray beard cream robe rust sash calmly examining wheat field with two farm workers in brown and sage robes, green darnel among golden wheat, respectful concerned faces, warm morning."
+    },
+    {
+      "role": "part1",
+      "alt": "Um trabalhador percebe plantas diferentes no campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close view young adult farm worker sage robe kneeling at edge of wheat field, gently holding wheat and noticing different thin darnel heads beside it, detailed tangled stems, no uprooting."
+    },
+    {
+      "role": "part2",
+      "alt": "O proprietário pede cuidado aos trabalhadores.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Landowner gray beard cream robe rust sash raising open gentle hand to stop two workers from uprooting plants, wheat field around them, measured thoughtful expressions, eye-level composition."
+    },
+    {
+      "role": "part3",
+      "alt": "O trigo é reunido durante a colheita.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Peaceful harvest scene two adult workers gathering ripe golden wheat sheaves into woven baskets, small stone granary in distance, warm sunset, no fire no punishment no Jesus, rich cinematic 3D detail."
+    }
+  ]
+}

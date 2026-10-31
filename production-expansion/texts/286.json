@@ -1,0 +1,71 @@
+{
+  "id": 286,
+  "title": "A Viúva que Não Desistiu",
+  "subtitle": "Continuar buscando justiça e falando com Deus",
+  "reference": "Lucas 18:1–8",
+  "description": "Uma mulher insiste em pedir justiça a um juiz indiferente, e Jesus ensina sobre perseverança na oração.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.18.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma mulher pede justiça",
+      "paragraphs": [
+        "Jesus queria ensinar seus discípulos a orar sempre e a não desanimar. Para isso, contou uma parábola sobre duas pessoas de uma cidade: um juiz e uma viúva. O juiz não respeitava a Deus e não se importava com as pessoas. Tinha uma responsabilidade importante, mas não a exercia com o cuidado que deveria.",
+        "A viúva precisava de justiça contra alguém que a prejudicava. Procurou o juiz e apresentou seu pedido. Não estava buscando um favor luxuoso nem uma vantagem injusta. Queria que a situação fosse resolvida de maneira correta. Como mulher viúva naquela sociedade, podia ter poucos recursos e pouca proteção para defender seus próprios direitos.",
+        "O juiz, porém, não quis ajudá-la durante algum tempo. Seu pedido não recebeu a atenção necessária. A posição de autoridade daquele homem tornava a recusa ainda mais dolorosa: ele era justamente quem deveria ouvir e agir. A história começava com uma diferença grande de poder entre quem precisava de justiça e quem podia decidir."
+      ],
+      "alt": "Uma viúva apresenta seu pedido ao juiz.",
+      "image": "286/part1.webp"
+    },
+    {
+      "heading": "Uma voz que continua",
+      "paragraphs": [
+        "A mulher continuou procurando o juiz. Sua insistência mantinha o pedido diante dele, mesmo quando encontrava indiferença. Queria justiça naquela situação e voltava para ser ouvida. O homem poderoso podia ignorá-la por algum tempo, mas ela permanecia firme. A cada nova procura, sua necessidade tornava a aparecer diante de quem tinha a responsabilidade de atendê-la.",
+        "Finalmente, o juiz pensou consigo mesmo. Reconheceu que não respeitava a Deus nem se importava com as pessoas. Mesmo assim, decidiu resolver o caso da viúva porque ela continuava a incomodá-lo. Queria evitar que suas visitas persistentes o desgastassem. A decisão chegou por um motivo egoísta, não porque seu coração se tornara bondoso.",
+        "Jesus chamou a atenção para as palavras daquele juiz injusto. Se até ele acabava agindo diante de um pedido insistente, quanto mais Deus atenderia aos que clamavam a ele. A comparação não apresentava Deus como alguém indiferente que precisava ser vencido. Mostrava o contraste entre uma autoridade sem cuidado e o Pai que ouve seu povo."
+      ],
+      "alt": "A viúva volta com firmeza para ser ouvida.",
+      "image": "286/part2.webp"
+    },
+    {
+      "heading": "Esperar sem abandonar a fé",
+      "paragraphs": [
+        "Jesus afirmou que Deus faria justiça aos seus escolhidos, que clamavam dia e noite. A demora percebida não significava que suas vozes tivessem desaparecido. O Pai conhecia suas necessidades. A história encorajava os discípulos a permanecer em oração, mesmo quando a vida parecia marcada por respostas lentas e por dificuldades que não conseguiam resolver sozinhos.",
+        "Ao terminar, Jesus fez uma pergunta sobre a fé que encontraria quando voltasse. A atenção se deslocava para a perseverança de seus seguidores. Continuariam confiando? Manteriam o coração voltado para Deus? Orar sem desanimar não significava negar a tristeza, mas encontrar um lugar para apresentá-la e sustentar a esperança enquanto buscavam o bem.",
+        "A viúva da parábola não tinha o poder do juiz, mas sua necessidade merecia ser ouvida. Sua voz persistente ajudou os discípulos a compreender que podiam levar seus clamores a Deus. O ensino também lembrava o valor da justiça: o sofrimento de alguém não se torna pequeno porque a pessoa possui menos influência ou recursos."
+      ],
+      "alt": "A viúva sai do tribunal com esperança de justiça.",
+      "image": "286/part3.webp"
+    }
+  ],
+  "lesson": "Perseverar na oração pode caminhar junto com a busca responsável de ajuda. Quando alguém sofre uma injustiça, merece ser ouvido e protegido. A história não manda suportar violência em silêncio nem enfrentar tudo sozinho. Podemos conversar com adultos de confiança e procurar apoio. Deus não é indiferente como o juiz da parábola; seu cuidado nos encoraja a continuar buscando justiça com esperança.",
+  "question": "A quem você pode pedir ajuda quando percebe uma injustiça contra você ou outra pessoa?",
+  "prayer": "Deus, ouve quem clama por justiça e ampara quem se sente sem voz. Ajuda-me a orar com perseverança e a procurar apoio quando preciso. Dá-me coragem para ouvir quem sofre e agir com cuidado. Que a demora não apague minha esperança no teu amor. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/286.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A viúva pede justiça com firmeza e dignidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration mature widow olive skin gray-streaked hair under cream headscarf muted plum robe standing firmly before seated judge dark blue robe in first-century stone civic courtyard, dignified serious faces, warm light, no threats. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O juiz ouve com pouca atenção o pedido da viúva.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Side view same widow plum robe cream headscarf presenting request with open hands to indifferent middle-aged judge dark blue robe seated on stone bench, simple courtyard columns, respectful non-caricatured depiction. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "A viúva retorna para apresentar seu pedido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same widow plum robe cream headscarf walking purposefully up shallow stone steps toward civic courtyard gate, calm determined expression, early morning sunlight, no other people foreground. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "A mulher deixa o tribunal com esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same widow plum robe cream headscarf leaving stone courtyard into warm sunlit lane, relieved hopeful thoughtful face, hands relaxed, judge softly blurred in distant doorway, no magical effects. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

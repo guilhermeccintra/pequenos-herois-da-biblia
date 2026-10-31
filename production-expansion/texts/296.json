@@ -1,0 +1,71 @@
+{
+  "id": 296,
+  "title": "Uma Oração no Jardim",
+  "subtitle": "Jesus apresenta sua tristeza ao Pai",
+  "reference": "Mateus 26:36–46",
+  "description": "No Getsêmani, Jesus ora com sinceridade e pede aos amigos que permaneçam perto dele.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.26.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "A tristeza no jardim",
+      "paragraphs": [
+        "Depois da refeição, Jesus foi com seus discípulos a um lugar chamado Getsêmani. Pediu que se sentassem enquanto ele ia orar. Levou Pedro e os dois filhos de Zebedeu um pouco mais adiante. A noite se aproximava de acontecimentos difíceis, e Jesus não escondia dos amigos o peso que carregava no coração.",
+        "Ele começou a sentir tristeza e angústia. Disse aos três que sua alma estava profundamente triste e pediu que ficassem ali, vigilantes com ele. O Mestre que tantas vezes acolhera a dor dos outros agora mostrava a própria dor. Não fingia que tudo era fácil nem tratava a necessidade de companhia como fraqueza.",
+        "Jesus se afastou um pouco, prostrou-se e orou. Pediu ao Pai que, se fosse possível, aquele cálice passasse dele. O cálice era uma imagem do sofrimento que enfrentaria. Em seguida, entregou sua vontade à vontade do Pai. Sua oração reunia sinceridade e confiança: apresentava o que sentia sem abandonar o amor e a missão recebida."
+      ],
+      "alt": "Jesus caminha com três discípulos entre as oliveiras.",
+      "image": "296/part1.webp"
+    },
+    {
+      "heading": "Amigos cansados",
+      "paragraphs": [
+        "Quando voltou aos discípulos, Jesus os encontrou dormindo. Perguntou a Pedro se não haviam conseguido permanecer acordados com ele por uma hora. Orientou-os a vigiar e orar para não cair em tentação. O desejo podia estar pronto, mas o corpo era fraco. Aqueles amigos precisavam reconhecer seus limites e buscar ajuda em Deus.",
+        "Jesus voltou a se afastar e orou pela segunda vez. Se aquele cálice não pudesse passar sem que ele o bebesse, desejava que a vontade do Pai fosse feita. Não era uma conversa apressada, encerrada assim que a tristeza aparecia. Ele permanecia em oração, atravessando a angústia na presença daquele em quem confiava.",
+        "Ao retornar, encontrou os discípulos dormindo novamente. Seus olhos estavam pesados. A fraqueza dos amigos contrastava com a atenção de Jesus diante do que viria. Ainda assim, ele não deixou de orar. A noite no jardim mostrava que a confiança podia existir junto da dor, sem precisar transformar o sofrimento em algo leve ou agradável."
+      ],
+      "alt": "Jesus retorna e encontra os amigos adormecidos.",
+      "image": "296/part2.webp"
+    },
+    {
+      "heading": "Levantar e seguir",
+      "paragraphs": [
+        "Jesus os deixou mais uma vez e foi orar pela terceira vez, repetindo o mesmo pedido. Não havia vergonha em levar novamente sua angústia ao Pai. A oração não era uma apresentação de coragem sem sentimentos. Era uma entrega sincera, feita por quem conhecia a dificuldade do caminho e permanecia fiel ao amor que o conduzia.",
+        "Depois, voltou aos discípulos e disse que a hora havia chegado. O Filho do Homem seria entregue nas mãos de pecadores. Chamou os amigos para se levantar e seguir, pois aquele que o trairia estava perto. A cena do jardim terminava com movimento: Jesus encarava o que vinha, sustentado pela comunhão com o Pai.",
+        "Getsêmani guardou a lembrança de lágrimas possíveis, amigos cansados e uma oração verdadeira. Jesus não ensinou que pessoas fiéis nunca sentem angústia. Mostrou que a tristeza pode ser apresentada a Deus e que pedir companhia tem lugar na vida. Seu amor permaneceu firme mesmo na noite em que o caminho parecia mais pesado."
+      ],
+      "alt": "Jesus se levanta da oração e volta aos discípulos.",
+      "image": "296/part3.webp"
+    }
+  ],
+  "lesson": "Podemos falar com Deus sobre tristeza e medo sem fingir que estamos bem. Jesus também pediu a presença dos amigos. Quando a dor aperta, buscar companhia e apoio de pessoas de confiança é importante. Entregar-se ao cuidado de Deus não significa aceitar violência em silêncio. Podemos orar, pedir proteção e procurar ajuda, sabendo que nossos sentimentos merecem ser ouvidos com respeito.",
+  "question": "Quem pode ficar perto de você e ouvir com carinho quando seu coração está triste?",
+  "prayer": "Pai, recebe minhas tristezas e meus medos. Obrigado porque não preciso escondê-los de ti. Ajuda-me a procurar pessoas de confiança e a aceitar companhia quando preciso. Dá-me também sensibilidade para ouvir quem sofre e permanecer perto com carinho, respeito e cuidado. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/296.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus ora entre as oliveiras durante a noite.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle kneeling in peaceful Gethsemane olive grove at night beside low rock, sincere sorrowful prayer with gently clasped hands, moonlight and soft warm highlights, no blood no violence no soldiers, detailed cinematic 3D."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus pede companhia aos três amigos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle speaking honestly with Peter teal robe and two other adult disciples ochre and blue robes among ancient olive trees at twilight, concerned caring faces, quiet intimate composition."
+    },
+    {
+      "role": "part2",
+      "alt": "Os discípulos dormem enquanto Jesus se aproxima.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Three adult disciples resting asleep seated against olive trunks, Jesus cream tunic terracotta mantle standing nearby with compassionate serious expression, moonlit garden, peaceful non-threatening scene, no weapons."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus se levanta para continuar o caminho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle rising from prayer beside rock in olive grove, composed solemn face looking toward friends outside frame, deep blue pre-dawn light, no arrest no violence, hopeful gentle rendering."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 210,
+  "title": "A Força de uma Resposta Calma",
+  "subtitle": "Um ensinamento de Provérbios para as conversas",
+  "reference": "Provérbios 15:1–7",
+  "description": "Palavras escolhidas com cuidado podem abrir espaço para a escuta, a verdade e a reconciliação.",
+  "testament": "antigo",
+  "cover": "/images/covers/210.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras que mudam uma conversa",
+      "paragraphs": [
+        "O livro de Provérbios reúne ensinamentos curtos para ajudar as pessoas a viver com sabedoria. Um deles fala sobre a força de uma resposta calma. Palavras suaves podem diminuir a irritação, enquanto palavras duras costumam aumentar a discussão. É uma observação pequena que pode acompanhar muitas conversas do nosso dia.",
+        "Para pensar nesse ensino, imagine duas crianças disputando o mesmo lugar numa brincadeira. Essa é uma situação inventada, parecida com tantas que acontecem. Uma delas está irritada e fala alto. A outra sente vontade de responder do mesmo jeito. Por um instante, a conversa parece pronta para virar uma grande confusão.",
+        "Mas existe uma possibilidade diferente: respirar, abaixar a voz e explicar o que aconteceu. Talvez seja preciso ouvir, esperar ou pedir a ajuda de um adulto. Uma resposta cuidadosa oferece uma porta para o entendimento. Ela permite apresentar a verdade sem acrescentar insultos ao problema que já precisa ser resolvido."
+      ],
+      "image": "210/part1.webp",
+      "alt": "Duas crianças fazem uma pausa diante de um desacordo"
+    },
+    {
+      "heading": "Uma árvore de vida nas palavras",
+      "paragraphs": [
+        "Outro provérbio desse trecho compara a língua bondosa a uma árvore de vida. A imagem é cheia de alimento, sombra e acolhimento. Palavras podem animar alguém cansado, esclarecer uma dúvida e ajudar uma pessoa a tentar novamente. Quando são escolhidas com amor, fazem bem a quem as recebe.",
+        "O texto também fala da importância de aprender com uma correção. Às vezes, alguém percebe uma atitude nossa que precisa mudar. Escutar com atenção exige humildade, mas oferece a chance de crescer. A pessoa sábia procura compreender o conselho e separa aquilo que pode ajudá-la a agir melhor.",
+        "Voltando à brincadeira imaginada, as crianças poderiam descobrir que as duas entenderam a regra de maneira diferente. Depois de escutar, conseguem combinar uma solução. Uma pede desculpas pela voz alta; a outra explica seu desejo com clareza. O desacordo se transforma numa oportunidade de aprender a conversar com respeito."
+      ],
+      "image": "210/part2.webp",
+      "alt": "Uma árvore frondosa oferece sombra a uma conversa"
+    },
+    {
+      "heading": "Sabedoria que encontra os ouvidos",
+      "paragraphs": [
+        "Provérbios diz que os lábios dos sábios espalham conhecimento. Isso nos lembra que falar também é uma maneira de repartir algo bom. Podemos oferecer uma explicação, uma notícia verdadeira ou um incentivo. Antes de responder, vale perguntar ao coração qual palavra ajudará a conversa a seguir por um caminho melhor.",
+        "Em situações difíceis, falar com calma pode incluir dizer que algo machucou e pedir que pare. Respeito combina com firmeza e com a busca de ajuda quando precisamos de proteção. Uma voz cuidadosa tem espaço para a verdade. Ela pode defender uma pessoa e convidar os outros a escutá-la.",
+        "O ensino cabe em casa, na escola e entre amigos. Cada conversa oferece uma oportunidade de praticar: ouvir primeiro, pensar por um momento e responder com clareza. Quando erramos, também podemos voltar e reparar a palavra. A sabedoria cresce nas pequenas tentativas de tornar nossa voz uma companhia que ajuda."
+      ],
+      "image": "210/part3.webp",
+      "alt": "Crianças retomam uma brincadeira em amizade"
+    }
+  ],
+  "lesson": "Uma resposta calma pode abrir espaço para resolver um desacordo. Podemos falar a verdade com respeito, ouvir a outra pessoa e pedir ajuda quando necessário. Antes de responder num momento de irritação, experimente fazer uma pausa curta. Pense no que deseja explicar e escolha palavras que ajudem. Se uma palavra machucou alguém, um pedido sincero de desculpas pode iniciar a reparação.",
+  "question": "Que frase calma você poderia usar quando uma brincadeira se transforma em discussão?",
+  "prayer": "Senhor, ajuda-me a cuidar das palavras que digo. Dá-me paciência para escutar e coragem para falar a verdade com respeito. Quando eu estiver irritado, ensina-me a fazer uma pausa. Que minha voz ofereça ajuda, proteção e amizade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PRO15.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Duas crianças conversam com calma num pátio",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative imagined example for Proverbs 15, two ancient Hebrew children around age nine calmly talking beside simple wooden game pieces in village courtyard, one listening while other gently explains, warm expressive faces, no text. "
+    },
+    {
+      "role": "part1",
+      "alt": "Duas crianças fazem uma pausa diante de um desacordo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative imagined example: two ancient Hebrew children standing beside a small wooden board game on ground, mild disagreement expressed with puzzled faces and open hands, caring adult nearby at respectful distance, no aggression. "
+    },
+    {
+      "role": "part2",
+      "alt": "Uma árvore frondosa oferece sombra a uma conversa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Symbolic Proverbs scene: kind elderly Hebrew woman teaching two children beneath a flourishing shade tree, attentive faces, fruit basket and stone bench, warm sunlight, ordinary people, no named biblical character. "
+    },
+    {
+      "role": "part3",
+      "alt": "Crianças retomam uma brincadeira em amizade",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Illustrative imagined example: two ancient Hebrew children smiling as they take turns in a simple wooden game on a courtyard mat, a third child warmly included, peaceful afternoon, expressive hands and faces, no writing. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

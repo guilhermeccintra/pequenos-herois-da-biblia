@@ -1,0 +1,71 @@
+{
+  "id": 345,
+  "title": "Uma Casa de Gente",
+  "subtitle": "Perto de Deus, perto uns dos outros",
+  "reference": "Efésios 2:11–22",
+  "description": "Uma carta mostra que a fé em Jesus aproxima pessoas antes separadas. A imagem de uma casa ajuda a entender pertencimento, reconciliação e uma comunidade em construção.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/345.webp",
+  "parts": [
+    {
+      "heading": "Uma antiga distância",
+      "paragraphs": [
+        "Na carta aos efésios, os leitores foram convidados a lembrar de uma distância antiga. Muitos deles não pertenciam ao povo judeu e haviam vivido longe das alianças da promessa. O texto não apresenta essa lembrança para humilhá-los. Ele prepara uma notícia de acolhimento: por meio de Jesus, aqueles que estavam longe foram aproximados e podiam participar de uma nova comunidade.",
+        "Havia barreiras reais entre judeus e outros povos. Costumes, histórias e práticas religiosas podiam marcar quem era considerado de dentro ou de fora. A carta anunciou que Cristo é a nossa paz. Sua obra não deveria alimentar mais hostilidade entre as pessoas. Ao contrário, abria um caminho de reconciliação diante de Deus e de pertencimento compartilhado.",
+        "Para explicar essa mudança, o texto usa a imagem de um muro de separação derrubado. Não precisamos imaginar que a carta descreva uma obra de construção acontecendo naquele instante. É uma figura para falar da hostilidade que dividia grupos. O ensino aponta para algo maior do que morar perto: aprender a reconhecer como irmãos pessoas antes tratadas como estranhas."
+      ],
+      "image": "345/part1.webp",
+      "alt": "Dois grupos de famílias antigas se encontram diante de uma passagem aberta num muro baixo de pedra, sem conflito, expressões curiosas e acolhedoras, imagem simbólica de aproximação."
+    },
+    {
+      "heading": "A paz que aproxima",
+      "paragraphs": [
+        "Jesus reuniu em si aqueles que estavam separados. A carta fala de um novo povo reconciliado com Deus por meio da cruz. Pessoas com histórias e costumes diferentes podiam encontrar uma casa comum. Cada uma trazia sua caminhada, e todas recebiam o convite para viver como irmãos. A paz de Cristo abria espaço para encontros antes marcados pela distância.",
+        "A boa notícia da paz foi anunciada aos que estavam longe e aos que estavam perto. Ambos receberam acesso ao Pai pelo mesmo Espírito. Não havia duas portas, uma importante e outra inferior. A imagem de uma entrada comum ajuda a perceber a dignidade desse acolhimento. As pessoas podiam se aproximar de Deus sem transformar a origem de alguém em motivo de superioridade.",
+        "Então a carta trouxe uma declaração de pertencimento: os leitores já não eram estrangeiros sem lugar, mas membros da família de Deus. Uma família saudável não é formada por pessoas idênticas. É formada por relações de cuidado, responsabilidade e respeito. A comparação convidava a comunidade a tratar o acolhimento como uma realidade a ser vivida, e não apenas anunciada."
+      ],
+      "image": "345/part2.webp",
+      "alt": "Comunidade diversa compartilha uma mesa comprida em pátio antigo, todos com lugares dignos, crianças recebem novos amigos, tecidos naturais detalhados."
+    },
+    {
+      "heading": "Pedras de uma mesma casa",
+      "paragraphs": [
+        "Outra imagem apareceu: a de um edifício. Os apóstolos e profetas eram apresentados como fundamento, e Jesus como a pedra principal que orienta a construção. As partes deveriam se ajustar e crescer juntas. A comparação não fazia das pessoas objetos sem voz; mostrava que a comunidade tinha uma base comum e precisava aprender a construir de maneira unida.",
+        "Nesse edifício vivo, Deus habita por seu Espírito. A beleza da casa não dependia somente de paredes ou enfeites. Ela aparecia no povo reunido em Cristo. Uma reunião poderia acontecer num lugar simples e ainda carregar esse chamado à santidade e ao cuidado. O que importava era a vida compartilhada diante de Deus e a direção recebida de Jesus.",
+        "O ensino termina com uma construção que continua. Pertencer traz alegria, mas também responsabilidade: acolher, ouvir e abandonar barreiras injustas. Hoje podemos lembrar dessa casa de gente quando alguém chega a um grupo e ainda não conhece ninguém. Dar espaço, explicar uma atividade e aprender seu nome são pequenos modos de mostrar que o acolhimento precisa ganhar forma nas relações."
+      ],
+      "image": "345/part3.webp",
+      "alt": "Artesãos e famílias trabalham juntos numa casa de pedra em construção, crianças apenas observam em área segura, pedra de esquina visível, símbolo da comunidade unida."
+    }
+  ],
+  "lesson": "Pertencer é perceber que existe um lugar para nós. Podemos ajudar outras pessoas a experimentar isso quando convidamos alguém para participar, explicamos uma brincadeira ou ouvimos sua história. A fé em Jesus não deve ser usada para desprezar origens diferentes. Uma comunidade cresce quando corrige exclusões e cuida de seus membros. A imagem da casa nos lembra que ninguém constrói uma convivência acolhedora sozinho: todos precisam aprender e colaborar.",
+  "question": "Como você poderia acolher alguém que acabou de chegar a uma turma ou grupo?",
+  "prayer": "Jesus, nossa paz, ajuda-nos a derrubar o desprezo e a construir relações de respeito. Obrigado por nos acolher na família de Deus. Ensina-nos a dar espaço a quem chega, ouvir histórias diferentes e cuidar uns dos outros com humildade e alegria. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pessoas de diferentes origens do primeiro século entram juntas numa casa de pedra com porta ampla, famílias acolhem visitantes, luz dourada e plantas no pátio, símbolo de pertencimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Pessoas de diferentes origens do primeiro século entram juntas numa casa de pedra com porta ampla, famílias acolhem visitantes, luz dourada e plantas no pátio, símbolo de pertencimento."
+    },
+    {
+      "role": "part1",
+      "alt": "Dois grupos de famílias antigas se encontram diante de uma passagem aberta num muro baixo de pedra, sem conflito, expressões curiosas e acolhedoras, imagem simbólica de aproximação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Dois grupos de famílias antigas se encontram diante de uma passagem aberta num muro baixo de pedra, sem conflito, expressões curiosas e acolhedoras, imagem simbólica de aproximação."
+    },
+    {
+      "role": "part2",
+      "alt": "Comunidade diversa compartilha uma mesa comprida em pátio antigo, todos com lugares dignos, crianças recebem novos amigos, tecidos naturais detalhados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Comunidade diversa compartilha uma mesa comprida em pátio antigo, todos com lugares dignos, crianças recebem novos amigos, tecidos naturais detalhados."
+    },
+    {
+      "role": "part3",
+      "alt": "Artesãos e famílias trabalham juntos numa casa de pedra em construção, crianças apenas observam em área segura, pedra de esquina visível, símbolo da comunidade unida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Artesãos e famílias trabalham juntos numa casa de pedra em construção, crianças apenas observam em área segura, pedra de esquina visível, símbolo da comunidade unida."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/EPH.2.KJV"
+  ]
+}

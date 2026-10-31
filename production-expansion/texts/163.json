@@ -1,0 +1,71 @@
+{
+  "id": 163,
+  "title": "Olhos Abertos para a Esperança",
+  "subtitle": "Uma mesa no lugar da vingança",
+  "reference": "2 Reis 6:8–23",
+  "description": "O servo de Eliseu se assusta ao ver a cidade cercada. O profeta ora por ele e, depois de um encontro inesperado com o exército adversário, escolhe oferecer alimento em vez de vingança.",
+  "testament": "antigo",
+  "cover": "/images/covers/163.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A cidade cercada",
+      "paragraphs": [
+        "O rei da Síria fazia planos de ataque contra Israel, mas seus movimentos eram descobertos. Eliseu avisava o rei de Israel sobre os lugares de perigo. Quando o governante sírio soube disso, mandou procurar o profeta. Descobriram que estava em Dotã, e um grupo com cavalos e carros chegou durante a noite para cercar a cidade.",
+        "Na manhã seguinte, o servo de Eliseu saiu e viu o exército ao redor. Ficou apavorado e perguntou o que fariam. Seu medo vinha de uma situação visível e ameaçadora. Ele não estava inventando o perigo. O profeta, porém, o chamou a perceber que aquilo que seus olhos alcançavam não contava toda a realidade daquele momento.",
+        "Eliseu pediu que não tivesse medo e orou para que o Senhor lhe abrisse os olhos. O servo então viu o monte cheio de cavalos e carros de fogo ao redor de Eliseu. A visão foi um sinal de proteção naquela história. O medo não foi tratado com zombaria; recebeu uma resposta que ampliava a percepção do jovem sobre a presença de Deus."
+      ],
+      "image": "163/part1.webp",
+      "alt": "Eliseu e seu servo contemplam os montes com cavalos e carros luminosos numa visão de proteção."
+    },
+    {
+      "heading": "Um caminho inesperado",
+      "paragraphs": [
+        "Quando os sírios se aproximaram, Eliseu orou, e eles ficaram com dificuldade para enxergar e reconhecer o caminho. O profeta falou com os homens e os conduziu até Samaria. Passo a passo, o grupo seguiu aquele que viera procurar, sem perceber para onde estava indo. O caminho terminaria dentro da própria cidade do rei de Israel.",
+        "Ao chegarem à cidade, Eliseu orou novamente, pedindo que seus olhos fossem abertos. Os homens perceberam que estavam dentro de Samaria, diante do rei de Israel. A situação havia se invertido. O grupo que saíra para capturar o profeta agora estava vulnerável no centro do território adversário. O rei viu uma oportunidade de atacá-los.",
+        "Ele perguntou a Eliseu se deveria matar aqueles homens. A resposta do profeta mudou o rumo da cena. Não permitiu que fossem mortos. Lembrou o tratamento devido a prisioneiros e orientou que lhes dessem comida e água, para que comessem, bebessem e voltassem ao seu senhor. A vantagem recebida não precisava ser usada para aumentar a violência."
+      ],
+      "image": "163/part2.webp",
+      "alt": "Eliseu conduz os homens sírios pelo caminho até a entrada de Samaria."
+    },
+    {
+      "heading": "Uma refeição e uma despedida",
+      "paragraphs": [
+        "O rei preparou uma grande refeição. Os homens comeram e beberam, e depois foram enviados de volta. A cidade que poderiam imaginar como lugar de morte se tornou o lugar onde receberam alimento. O cuidado não negava que haviam chegado como adversários, mas interrompia a sequência de ameaça e vingança naquele encontro.",
+        "O relato diz que as incursões sírias contra Israel cessaram depois desse episódio. Isso não significa que nunca mais houve conflitos entre os povos; outras passagens mostram novas guerras. Mas aquela decisão teve um efeito de paz naquela situação. A hospitalidade oferecida aos homens vulneráveis abriu um desfecho que uma execução não teria produzido.",
+        "A história começou com um servo vendo apenas perigo e terminou com inimigos sentados para comer. Entre essas cenas, houve oração, proteção e uma escolha sobre o que fazer com a força. Eliseu não usou a vantagem para exibir crueldade. A esperança ganhou forma numa mesa preparada, lembrando que preservar a vida pode ser a decisão mais importante quando temos poder sobre alguém."
+      ],
+      "image": "163/part3.webp",
+      "alt": "Os visitantes recebem água e pão antes de partir de Samaria, num gesto de hospitalidade e paz."
+    }
+  ],
+  "lesson": "Sentir medo não é motivo de vergonha. Podemos falar sobre o que nos assusta e procurar proteção. A história também mostra que ter vantagem não nos dá direito de humilhar ou ferir. Em conflitos do dia a dia, podemos buscar soluções que preservem a dignidade de todos, com ajuda de adultos responsáveis. Oferecer paz não significa se aproximar de perigos sem cuidado; significa recusar a vingança e procurar caminhos seguros de justiça.",
+  "question": "Quando você tem vantagem numa situação, como pode usá-la para proteger em vez de humilhar?",
+  "prayer": "Deus, acolhe nossos medos e guia-nos até proteção e apoio. Ensina-nos a usar nossas forças para cuidar, nunca para humilhar. Ajuda as pessoas em conflito a encontrar caminhos de justiça e paz, e que saibamos reconhecer a humanidade de quem é diferente de nós. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Homens antes adversários compartilham uma refeição em Samaria, enquanto Eliseu observa com serenidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; young adult servant tan tunic; Syrian adult men earth and blue robes, no raised weapons. Ancient Dothan and Samaria. Vision golden distant horses/chariots as peaceful luminous protection, no deity. Only scene cast. Scene: Homens antes adversários compartilham uma refeição em Samaria, enquanto Eliseu observa com serenidade."
+    },
+    {
+      "role": "part1",
+      "alt": "Eliseu e seu servo contemplam os montes com cavalos e carros luminosos numa visão de proteção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; young adult servant tan tunic; Syrian adult men earth and blue robes, no raised weapons. Ancient Dothan and Samaria. Vision golden distant horses/chariots as peaceful luminous protection, no deity. Only scene cast. Scene: Elisha and his young adult servant stand together on a safe terrace at dawn, looking at distant hills filled with luminous golden horses and chariots in a peaceful protective vision. No flames touching people or town; elegant ethereal glow on the hills, no battle or human deity."
+    },
+    {
+      "role": "part2",
+      "alt": "Eliseu conduz os homens sírios pelo caminho até a entrada de Samaria.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; young adult servant tan tunic; Syrian adult men earth and blue robes, no raised weapons. Ancient Dothan and Samaria. Vision golden distant horses/chariots as peaceful luminous protection, no deity. Only scene cast. Scene: Elisha in green cloak walking at front on a stone path into the open gate of ancient Samaria, adult Syrian men in dusty blue and earth robes following him uncertainly, no battle. They have temporary difficulty recognizing their route, eyes naturally open, not blindfolded. No glowing horses or vision in this scene."
+    },
+    {
+      "role": "part3",
+      "alt": "Os visitantes recebem água e pão antes de partir de Samaria, num gesto de hospitalidade e paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard green cloak; young adult servant tan tunic; Syrian adult men earth and blue robes, no raised weapons. Ancient Dothan and Samaria. Vision golden distant horses/chariots as peaceful luminous protection, no deity. Only scene cast. Scene: Os visitantes recebem água e pão antes de partir de Samaria, num gesto de hospitalidade e paz."
+    }
+  ]
+}

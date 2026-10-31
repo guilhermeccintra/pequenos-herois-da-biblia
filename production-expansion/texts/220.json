@@ -1,0 +1,74 @@
+{
+  "id": 220,
+  "title": "Jeremias Recebe uma Missão",
+  "subtitle": "A coragem de quem aprende a falar",
+  "reference": "Jeremias 1",
+  "description": "Jeremias se sente jovem para sua tarefa, mas recebe a promessa da companhia de Deus e começa a escutar.",
+  "testament": "antigo",
+  "cover": "/images/covers/220.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um chamado inesperado",
+      "paragraphs": [
+        "Jeremias era filho de Hilquias e vinha de Anatote, na terra de Benjamim. Durante o reinado de Josias, recebeu uma palavra do Senhor que mudaria seu caminho. Deus lhe disse que o conhecia desde antes de seu nascimento e que o havia separado para ser profeta às nações.",
+        "Diante de uma tarefa tão grande, Jeremias apresentou sua preocupação. Ele se considerava muito jovem e dizia que ainda não sabia falar como seria necessário. Podemos perceber a insegurança de alguém que olha para uma responsabilidade e enxerga primeiro aquilo que lhe falta. Jeremias levou esse sentimento ao Senhor com sinceridade.",
+        "A resposta de Deus chamou sua atenção para a missão e para a companhia prometida. Jeremias deveria ir aonde fosse enviado e dizer aquilo que lhe fosse confiado. O Senhor estaria com ele para livrá-lo. O chamado vinha acompanhado de apoio, preparando o jovem profeta para dar os primeiros passos."
+      ],
+      "image": "220/part1.webp",
+      "alt": "Jeremias apresenta sua preocupação em oração"
+    },
+    {
+      "heading": "Um ramo de amendoeira",
+      "paragraphs": [
+        "Jeremias relata que o Senhor tocou sua boca e colocou nela suas palavras. Era um sinal de preparação para anunciar a mensagem recebida. Sua missão incluiria advertir sobre o mal e também anunciar possibilidades de reconstrução. O chamado foi descrito com imagens de arrancar e derrubar, construir e plantar.",
+        "Em seguida, Deus lhe perguntou o que estava vendo. Jeremias respondeu que via um ramo de amendoeira. O Senhor usou essa imagem para afirmar que estava atento à sua Palavra e cumpriria o que havia anunciado. Uma coisa simples diante dos olhos tornou-se parte de um aprendizado importante para o profeta.",
+        "A atenção de Jeremias fazia parte da preparação. Ele precisava escutar, observar e responder com fidelidade. O ramo lembrava que a mensagem pertencia ao Senhor e estava sob seu cuidado. O jovem que se preocupava com sua própria capacidade começava a descobrir em quem poderia apoiar sua confiança para servir."
+      ],
+      "image": "220/part2.webp",
+      "alt": "Flores de amendoeira recebem a luz da manhã"
+    },
+    {
+      "heading": "Firmeza para continuar",
+      "paragraphs": [
+        "Jeremias recebeu ainda outra visão: uma panela fervente inclinada, anunciando que dificuldades viriam do norte. A mensagem tratava das consequências das escolhas erradas do povo, que havia se afastado de Deus. O profeta teria de falar sobre assuntos difíceis e chamar a atenção para aquilo que precisava mudar.",
+        "O Senhor o preparou para encontrar resistência. Reis, autoridades, sacerdotes e pessoas do povo poderiam se opor à mensagem. Mesmo assim, Jeremias foi chamado a se levantar e anunciar o que recebera. Para falar da firmeza prometida, Deus usou imagens de cidade fortificada, coluna de ferro e muralhas de bronze.",
+        "A promessa central continuava presente: o Senhor estaria com ele. Jeremias começou sua missão com perguntas e limites, mas também com essa companhia. Sua história nos ajuda a levar nossas inseguranças a Deus e a aprender com disposição. A coragem pode crescer enquanto escutamos, recebemos orientação e damos um passo de cada vez."
+      ],
+      "image": "220/part3.webp",
+      "alt": "Jeremias caminha com firmeza perto da entrada da cidade"
+    }
+  ],
+  "lesson": "Jeremias falou com sinceridade sobre sua insegurança e recebeu uma promessa de companhia. Podemos fazer o mesmo quando uma tarefa parece difícil. Reconhecer o que ainda precisamos aprender abre espaço para orientação e ajuda. Pense num desafio adequado à sua idade e procure alguém que possa acompanhar você. A coragem cresce quando unimos confiança, preparo e disposição para tentar com cuidado.",
+  "question": "Qual tarefa nova você gostaria de aprender com a ajuda de alguém de confiança?",
+  "prayer": "Senhor, tu conheces minhas dúvidas e aquilo que ainda preciso aprender. Ajuda-me a falar contigo com sinceridade. Dá-me atenção para escutar boas orientações e coragem para começar. Que minhas palavras e atitudes sirvam ao bem das pessoas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JER01.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jeremias contempla um ramo de amendoeira em flor",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah holding a delicate almond branch with pale blossoms in ancient Judean countryside, attentive hopeful expression, soft golden light, Anatoth village in background, no visible deity or supernatural hands. Jeremiah is a young olive-skinned Hebrew adult prophet with short dark curly hair, light beard, cream tunic and simple ochre shawl. Identity reference: the man on the LEFT in 221_cover.png, rejuvenated to his early twenties with dark wavy hair and a short dark beard, retaining recognizable eyebrows, nose and face shape, cream tunic and ochre mantle; no pottery workshop."
+    },
+    {
+      "role": "part1",
+      "alt": "Jeremias apresenta sua preocupação em oração",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah seated beside a stone wall in a quiet garden, hands open in sincere prayer and thoughtful uncertain expression, almond tree nearby, warm gentle morning light, no visible deity. Jeremiah is a young olive-skinned Hebrew adult prophet with short dark curly hair, light beard, cream tunic and simple ochre shawl. Identity reference: the man on the LEFT in 221_cover.png, rejuvenated to his early twenties with dark wavy hair and a short dark beard, retaining recognizable eyebrows, nose and face shape, cream tunic and ochre mantle; no pottery workshop."
+    },
+    {
+      "role": "part2",
+      "alt": "Flores de amendoeira recebem a luz da manhã",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close view of delicate almond blossoms on a branch with Jeremiah softly visible behind observing attentively, rich bark and petal textures, luminous garden, symbolic biblical calling, no text. Jeremiah is a young olive-skinned Hebrew adult prophet with short dark curly hair, light beard, cream tunic and simple ochre shawl. Identity reference: the man on the LEFT in 221_cover.png, rejuvenated to his early twenties with dark wavy hair and a short dark beard, retaining recognizable eyebrows, nose and face shape, cream tunic and ochre mantle; no pottery workshop."
+    },
+    {
+      "role": "part3",
+      "alt": "Jeremias caminha com firmeza perto da entrada da cidade",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah walking toward an ancient Jerusalem stone gateway with gentle determination, blank scroll held at side, strong limestone walls and bronze gate details, morning light, ordinary townspeople far away, no combat. Jeremiah is a young olive-skinned Hebrew adult prophet with short dark curly hair, light beard, cream tunic and simple ochre shawl. Identity reference: the man on the LEFT in 221_cover.png, rejuvenated to his early twenties with dark wavy hair and a short dark beard, retaining recognizable eyebrows, nose and face shape, cream tunic and ochre mantle; no pottery workshop."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 234,
+  "title": "Habacuque e a Alegria da Confiança",
+  "subtitle": "Uma oração quando o caminho parece difícil",
+  "reference": "Habacuque 3:17–19",
+  "description": "O profeta imagina tempos de escassez e encontra no Senhor uma esperança capaz de sustentar seus passos.",
+  "testament": "antigo",
+  "cover": "/images/covers/234.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma canção com perguntas no coração",
+      "paragraphs": [
+        "O livro de Habacuque termina com uma oração em forma de canção. O profeta havia levado ao Senhor suas inquietações diante do sofrimento e da injustiça. Agora suas palavras guardam reverência e confiança. Ele reconhece a grandeza de Deus e prepara o coração para atravessar um tempo que exigiria esperança.",
+        "Perto do final, a oração apresenta uma paisagem difícil. Habacuque imagina a figueira sem flores e a videira sem frutos. Pensa também na oliveira que falha em produzir. Para um povo que dependia do campo, essas imagens tocavam uma preocupação profunda: o alimento e o sustento das famílias poderiam faltar.",
+        "O quadro continua com campos sem colheita e currais vazios. São imagens de escassez, escolhidas para expressar a seriedade da situação. Habacuque olha para essas possibilidades com sinceridade. Sua canção abre espaço para o temor e para a necessidade, enquanto procura uma base firme para continuar vivendo diante de Deus."
+      ],
+      "image": "234/part1.webp",
+      "alt": "Figueira e videira sem frutos ilustram a oração"
+    },
+    {
+      "heading": "Uma alegria apoiada no Senhor",
+      "paragraphs": [
+        "Depois de apresentar essa paisagem, o profeta declara que ainda encontrará alegria no Senhor, o Deus de sua salvação. A confiança nasce da relação com aquele a quem dirige a oração. Habacuque deseja guardar essa companhia mesmo quando as circunstâncias parecem difíceis e os recursos que costumava esperar não estão disponíveis.",
+        "A alegria dessa canção tem profundidade. Ela convive com a consciência da dificuldade e com o pedido de misericórdia. O profeta leva sua vida inteira ao Senhor: aquilo que o assusta, aquilo que espera e aquilo em que acredita. Sua oração mostra um coração que procura apoio para permanecer fiel ao longo do caminho.",
+        "Podemos aprender a apresentar nossos sentimentos dessa maneira. Há dias em que precisamos de consolo, de alimento, de descanso ou de alguém que escute. A confiança em Deus nos convida a pedir ajuda com sinceridade e a acolher o cuidado recebido. Também pode despertar em nós a atenção por quem atravessa uma necessidade."
+      ],
+      "image": "234/part2.webp",
+      "alt": "Habacuque ora com sinceridade junto a uma harpa"
+    },
+    {
+      "heading": "Pés firmes nas alturas",
+      "paragraphs": [
+        "Habacuque chama o Senhor de sua força. Para explicar o que essa confiança significa, usa a imagem dos pés de um animal que se move com firmeza nas montanhas. O poema fala de caminhar nas alturas, encontrando apoio onde o terreno exige equilíbrio. A beleza dessa figura encerra sua oração com esperança.",
+        "Uma caminhada difícil costuma ser feita passo a passo. O profeta guarda a confiança de que pode receber forças para seguir. Podemos lembrar dessa imagem ao enfrentar uma tarefa ou uma mudança que nos preocupa. O apoio de Deus e a companhia de pessoas cuidadosas ajudam a procurar o próximo passo possível.",
+        "A canção foi preparada para ser acompanhada por instrumentos de cordas. Assim, a confiança de Habacuque poderia encontrar outras vozes e outros corações. Hoje suas palavras continuam oferecendo companhia a quem precisa de esperança. Podemos orar com sinceridade, receber ajuda e lembrar que o Senhor acolhe também os dias em que nos sentimos frágeis."
+      ],
+      "image": "234/part3.webp",
+      "alt": "Um cervo caminha com firmeza nas montanhas"
+    }
+  ],
+  "lesson": "Habacuque apresenta dificuldades reais em sua oração e procura força no Senhor. Podemos fazer o mesmo, contando com sinceridade aquilo que nos preocupa. A confiança pode nos ajudar a pedir apoio e a acolher pessoas que desejam cuidar de nós. Pense no próximo passo possível para hoje. Às vezes, ele começa com uma conversa, um descanso ou uma pequena tarefa feita em companhia.",
+  "question": "Qual pequeno passo, com ajuda, pode tornar mais leve uma preocupação de hoje?",
+  "prayer": "Senhor, acolhe minhas preocupações e ajuda-me a encontrar esperança em tua companhia. Dá-me coragem para pedir apoio e atenção para receber cuidado. Fortalece meus passos e ensina-me a acompanhar com carinho quem também está atravessando um tempo difícil. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/HAB03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Habacuque contempla uma montanha com confiança",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Habakkuk standing on a safe broad hillside path, hand over heart and hopeful reflective expression, rugged mountains and warm sunrise beyond, a natural deer on distant ridge, poetic trust, no visible deity. Habakkuk is an olive-skinned adult Hebrew prophet with wavy dark hair, medium beard, simple cream tunic and muted green mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Figueira e videira sem frutos ilustram a oração",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustrative landscape for Habakkuk prayer: a bare-fruited fig tree and vine without grapes beside quiet empty field, a few dry leaves, solemn but gentle golden dawn, no dead animals or people. Habakkuk is an olive-skinned adult Hebrew prophet with wavy dark hair, medium beard, simple cream tunic and muted green mantle."
+    },
+    {
+      "role": "part2",
+      "alt": "Habacuque ora com sinceridade junto a uma harpa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Habakkuk seated on a stone near an olive tree with a simple wooden lyre beside him, hands open in sincere prayer, thoughtful concerned face warmed by soft light, quiet countryside. Habakkuk is an olive-skinned adult Hebrew prophet with wavy dark hair, medium beard, simple cream tunic and muted green mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Um cervo caminha com firmeza nas montanhas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic nature illustration: graceful natural deer standing securely on a broad rocky mountain ledge with room to walk, detailed fur and stone, luminous layered hills, gentle uplifting atmosphere, no people or danger. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

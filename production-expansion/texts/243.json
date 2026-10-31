@@ -1,0 +1,71 @@
+{
+  "id": 243,
+  "title": "Jesus no Deserto",
+  "subtitle": "Escolher o bem mesmo diante da tentação",
+  "reference": "Mateus 4:1–11",
+  "description": "No deserto, Jesus enfrenta tentações e responde com as Escrituras. Sua confiança no Pai não se transforma em espetáculo nem em busca de poder.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.4.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Fome e uma proposta",
+      "paragraphs": [
+        "Depois de seu batismo, Jesus foi levado pelo Espírito ao deserto. Ali enfrentaria a tentação. Mateus conta que ele jejuou durante quarenta dias e quarenta noites e, depois, sentiu fome. Naquele lugar afastado, o Filho de Deus ouviria propostas que procuravam desviá-lo da confiança no Pai e do caminho de sua missão.",
+        "O tentador se aproximou e sugeriu que, se Jesus era o Filho de Deus, mandasse as pedras se transformarem em pães. A proposta parecia ligada à fome que ele sentia. Mas também colocava sua identidade à prova, como se Jesus precisasse demonstrar quem era obedecendo ao desafio de quem o tentava.",
+        "Jesus respondeu lembrando as Escrituras. A vida humana não depende somente do pão; depende também da palavra de Deus. Mesmo sentindo fome, permaneceu atento à voz do Pai. As palavras que conhecia o orientavam naquela resposta. Sua identidade como Filho se expressava na confiança e na fidelidade, enquanto recusava seguir o desafio de quem o tentava."
+      ],
+      "alt": "Jesus permanece atento entre as pedras de um deserto tranquilo.",
+      "image": "243/part1.webp"
+    },
+    {
+      "heading": "Confiança não é um espetáculo",
+      "paragraphs": [
+        "Depois, o diabo levou Jesus à cidade santa e o colocou numa parte alta do templo. Sugeriu que se jogasse dali. Dessa vez, citou palavras das Escrituras sobre a proteção dos anjos. Usava uma promessa de cuidado como argumento para uma atitude perigosa, tentando transformar a confiança em Deus numa demonstração para provar algo.",
+        "Jesus novamente respondeu com as Escrituras: não se deve pôr o Senhor à prova. Não precisava se lançar de um lugar alto para saber que o Pai o amava. Confiar em Deus não exigia criar um perigo desnecessário. Jesus reconheceu que uma frase bíblica, quando usada para empurrar alguém a uma escolha errada, estava sendo distorcida.",
+        "A tentação mudou mais uma vez. Do alto de um monte, o diabo mostrou a Jesus os reinos do mundo e sua glória. Ofereceu tudo aquilo se Jesus se ajoelhasse e o adorasse. Era uma proposta de poder por um caminho que abandonava a fidelidade a Deus. Parecia um atalho, mas levava na direção errada."
+      ],
+      "alt": "Jesus mantém uma postura serena diante da vista do templo.",
+      "image": "243/part2.webp"
+    },
+    {
+      "heading": "Uma resposta firme",
+      "paragraphs": [
+        "Jesus mandou Satanás se afastar. Sua resposta foi clara: somente Deus deveria ser adorado e servido. Não aceitou trocar a fidelidade ao Pai por riquezas, domínio ou reconhecimento. O que parecia grandioso aos olhos do tentador não tinha mais valor do que permanecer no caminho da missão que recebera.",
+        "Então o diabo o deixou, e anjos vieram servir Jesus. O relato termina com cuidado depois da provação. Jesus havia sentido fome e enfrentado propostas difíceis, mas não se deixara conduzir por elas. As Escrituras fizeram parte de suas respostas, usadas com sentido e fidelidade, em vez de como frases soltas para justificar qualquer atitude.",
+        "No deserto, Jesus não precisou provar seu valor aceitando desafios perigosos nem conquistar o mundo pelo caminho errado. Sua força apareceu em escolhas firmes. Mais tarde, seguiria servindo pessoas e anunciando o Reino de Deus. A missão continuaria com o mesmo compromisso: amar e obedecer ao Pai, mesmo quando outro caminho parecesse mais fácil."
+      ],
+      "alt": "Jesus recebe cuidado de mensageiros celestiais após a provação.",
+      "image": "243/part3.webp"
+    }
+  ],
+  "lesson": "Nem todo desafio merece ser aceito. Se alguém pedir que você se machuque, minta ou faça algo perigoso para provar coragem, pode dizer não e procurar um adulto de confiança. Também podemos aprender a pensar no sentido do que ouvimos, mesmo quando alguém usa palavras religiosas. A fé não exige colocar nossa segurança em risco. Uma escolha firme e cuidadosa pode ser uma forma importante de coragem.",
+  "question": "Que resposta você pode dar quando alguém propõe uma brincadeira perigosa?",
+  "prayer": "Deus, ajuda-nos a reconhecer escolhas que podem ferir a nós ou aos outros. Dá-nos coragem para dizer não ao que é errado e para pedir ajuda. Ensina-nos a compreender tua palavra e a caminhar com confiança, cuidado e verdade. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/243.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus caminha com serenidade pelo deserto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus matching reference olive skin dark wavy shoulder-length hair short beard cream tunic terracotta red mantle, walking calmly among pale desert rocks under soft dawn light, thoughtful determined expression, no other figures, no bread miracle."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus permanece atento entre as pedras de um deserto tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle seated on desert rock, thoughtful calm face, ordinary stones foreground, barren beautiful wilderness and soft sky, no demon or threatening imagery."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus mantém uma postura serena diante da vista do templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle standing safely on broad stone terrace overlooking Jerusalem temple, stable pose away from edge, contemplative face, no jumping, no falling, no devil, spacious cinematic landscape."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus recebe cuidado de mensageiros celestiais após a provação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle resting on desert rock while two gentle angelic messengers in simple light robes approach with caring open hands, subtle warm radiance, no dramatic magic, peaceful recovery."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 194,
+  "title": "A Voz de Ester por Seu Povo",
+  "subtitle": "Falar até que a proteção seja possível",
+  "reference": "Ester 7–8",
+  "description": "Ester revela ao rei a ameaça que pesa sobre seu povo. Depois de denunciar o plano, continua buscando uma medida que proteja as famílias em todas as províncias.",
+  "testament": "antigo",
+  "cover": "/images/covers/194.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O pedido verdadeiro",
+      "paragraphs": [
+        "O rei Assuero e Hamã voltaram ao banquete preparado por Ester. Durante a refeição, o rei perguntou novamente qual era seu pedido. Dessa vez, ela falou de modo direto: desejava que sua vida fosse preservada e que seu povo também fosse poupado. A conversa não tratava de uma joia, de um presente ou de uma vantagem pessoal.",
+        "Ester explicou que ela e seu povo haviam sido entregues à destruição. Ao ouvir, Assuero perguntou quem havia ousado fazer aquilo. Ela identificou Hamã como o adversário responsável. O homem sentado à mesa, que parecia tão importante na corte, era também o autor de um plano que ameaçava inúmeras famílias.",
+        "Hamã ficou aterrorizado diante do rei e da rainha. Assuero saiu para o jardim, muito zangado. A verdade havia sido dita, e a posição de Hamã mudou. Ester não escondera a ligação com seu povo para conservar uma tranquilidade só para si. Usara sua voz para mostrar o perigo que alcançava outras pessoas além dos muros do palácio."
+      ],
+      "image": "194/part1.webp",
+      "alt": "O rei escuta Ester revelar a ameaça que enfrenta."
+    },
+    {
+      "heading": "O perigo ainda precisava de resposta",
+      "paragraphs": [
+        "O plano de Hamã contra Mordecai também foi descoberto. Hamã recebeu a severa punição ordenada pelo rei e perdeu o poder que usara para ameaçar aquelas famílias. Ester ainda tinha muito a pedir, mas agora sua voz havia sido ouvida. A verdade, antes escondida atrás das decisões do palácio, estava diante de Assuero.",
+        "Ester contou ao rei quem Mordecai era para ela. Assuero entregou a ele o anel que antes dera a Hamã, concedendo-lhe autoridade. Ester também o colocou à frente dos bens recebidos. Mas uma mudança de posição no palácio não bastava para proteger os judeus. A ordem enviada às províncias ainda existia.",
+        "Por isso, Ester voltou a falar com o rei. Chorando, pediu que o plano contra seu povo fosse impedido. Não conseguiria ficar tranquila vendo o sofrimento que ameaçava seus parentes. Seu cuidado persistiu depois da primeira conversa difícil. A denúncia era importante, mas precisava ser seguida por uma medida concreta de proteção."
+      ],
+      "image": "194/part2.webp",
+      "alt": "Ester e Mordecai trabalham pela proteção das famílias."
+    },
+    {
+      "heading": "Mensagens que levam esperança",
+      "paragraphs": [
+        "Segundo as regras daquele reino, uma ordem selada com o anel real não podia simplesmente ser retirada. O rei autorizou Ester e Mordecai a escrever outra mensagem em seu nome. Os escribas foram chamados, e novas cartas foram preparadas para as províncias, usando a escrita e a língua de cada povo.",
+        "As cartas permitiam que os judeus se reunissem e defendessem suas vidas no dia marcado para o ataque. Mensageiros partiram depressa em cavalos do rei, levando a nova ordem. A proteção precisava alcançar lugares distantes, onde as famílias ainda viviam com medo da primeira mensagem. Informação verdadeira e ação organizada eram necessárias para mudar aquela situação.",
+        "Quando a notícia chegou, houve alegria, alívio e celebração entre os judeus. A história ainda teria conflitos, mas agora existia uma possibilidade de defesa. Ester havia continuado a falar até que sua preocupação ganhasse uma resposta para o povo. Sua coragem não se limitou a um momento diante do rei; permaneceu no cuidado com as consequências do que fora decidido."
+      ],
+      "image": "194/part3.webp",
+      "alt": "Mensageiros levam às províncias a nova ordem do rei."
+    }
+  ],
+  "lesson": "Quando contamos uma injustiça, o cuidado não termina necessariamente na primeira conversa. Pode ser preciso procurar outra pessoa responsável e verificar se a proteção aconteceu. Crianças merecem ser ouvidas e não precisam enfrentar ameaças sozinhas. Podemos aprender com Ester a não pensar apenas em nossa própria tranquilidade. Ajudar também é lembrar de quem está longe e precisa receber a informação ou o apoio que faltava.",
+  "question": "Se você pedisse ajuda e o problema continuasse, que outro adulto de confiança poderia procurar?",
+  "prayer": "Deus, cuida das famílias que vivem com medo e das pessoas que precisam ser ouvidas. Dá sabedoria aos responsáveis por protegê-las. Ajuda-nos a falar a verdade, insistir na busca de ajuda segura e lembrar de quem ainda está esperando apoio. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://www.gutenberg.org/cache/epub/8244/pg8244-images.html"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ester apresenta ao rei um pedido de proteção para seu povo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther speaks firmly and earnestly at a formal Persian banquet table with Ahasuerus listening attentively and Haman seated farther away, dignified tension without violence, warm detailed palace setting. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown. Haman is a middle aged Persian official with olive skin, short dark beard and rich plum robe."
+    },
+    {
+      "role": "part1",
+      "alt": "O rei escuta Ester revelar a ameaça que enfrenta.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Medium close view of Esther with compassionate determined face explaining her request to Ahasuerus, modest teal and cream gown, king concerned, no aggressive gestures or physical contact. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Ahasuerus is a mature Persian king with olive skin, curled black beard, indigo and gold robe and gold crown."
+    },
+    {
+      "role": "part2",
+      "alt": "Ester e Mordecai trabalham pela proteção das famílias.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Esther and Mordecai consult an adult royal scribe at a palace table covered with rolled unlettered parchments, serious collaborative planning, gentle daylight, no Haman present. Esther is an adult young Judean woman with olive brown skin, long dark wavy hair, modest fully covering teal and cream dress and delicate gold crown. Mordecai is a mature brown skinned man with graying beard, tan robe and brown shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Mensageiros levam às províncias a nova ordem do rei.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult royal messengers ride calm strong horses along a broad ancient Persian road carrying sealed scroll cases, distant towns and hills, hopeful sunrise, no combat or racing danger. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

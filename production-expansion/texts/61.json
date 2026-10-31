@@ -1,0 +1,72 @@
+{
+  "id": 61,
+  "title": "A Esperança que Atravessou Gerações",
+  "subtitle": "Uma promessa maior que uma vida",
+  "reference": "Gênesis 50:22–26; Êxodo 13:19",
+  "description": "No fim da vida, José deixa à família uma esperança que seus descendentes levariam consigo.",
+  "testament": "antigo",
+  "cover": "/images/covers/61.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma família que continuava",
+      "paragraphs": [
+        "José viveu muitos anos no Egito. O menino vendido pelos irmãos havia envelhecido, visto a família crescer e conhecido descendentes de seus filhos. Ao seu redor existiam novas vozes, novos rostos e histórias que ainda estavam começando. Sua própria caminhada, porém, aproximava-se do fim.",
+        "Ele poderia ter falado somente do palácio, de sua autoridade ou dos celeiros que ajudara a organizar. Mas, quando reuniu os familiares para uma conversa importante, José apontou para algo maior. O Egito fora lugar de sofrimento e de acolhimento; não era o destino final da promessa de Deus.",
+        "José sabia que não conduziria pessoalmente aquela viagem. Mesmo assim, acreditava que Deus cuidaria de seu povo e o levaria à terra prometida a Abraão, Isaque e Jacó. A confiança que sustentava suas palavras não dependia de continuar vivo para assistir ao cumprimento de tudo."
+      ],
+      "image": "61/part1.webp",
+      "alt": "José olha para seus descendentes no pátio."
+    },
+    {
+      "heading": "Um pedido para o futuro",
+      "paragraphs": [
+        "José fez um pedido diferente aos descendentes de Israel. Quando Deus os tirasse do Egito, eles deveriam levar consigo seus restos mortais. Era uma maneira concreta de dizer que ele pertencia àquela família e àquela esperança, mesmo depois de sua morte. O futuro do povo não seria esquecido.",
+        "Os familiares assumiram esse compromisso. Não receberam um calendário com a data da partida nem uma descrição de cada dificuldade que encontrariam. Receberam uma promessa para guardar e uma responsabilidade para transmitir. A geração seguinte precisaria ouvir aquilo que os mais velhos já sabiam sobre a fidelidade de Deus.",
+        "José morreu aos cento e dez anos. Seu corpo foi preparado segundo os costumes do Egito e colocado num caixão. A Bíblia termina o livro de Gênesis com essa despedida. É um final triste, mas não vazio: a última palavra da história de José aponta para uma viagem ainda por acontecer."
+      ],
+      "image": "61/part2.webp",
+      "alt": "A família ouve o pedido de José."
+    },
+    {
+      "heading": "Uma lembrança que viajou",
+      "paragraphs": [
+        "Muito tempo se passou. Surgiram outras gerações e um governante que não reconhecia o bem que José fizera. Os israelitas sofreram como escravos. Durante esses anos difíceis, a promessa não deixou de existir só porque o caminho parecia fechado. A história de Deus com aquela família continuava além das páginas de Gênesis.",
+        "Quando chegou a saída do Egito, Moisés se lembrou do compromisso. Levou os restos mortais de José, como ele pedira. Entre famílias, animais e pertences de viagem, aquele cuidado ligava o presente ao passado. A liberdade que começava naquele momento também respondia à esperança de quem vivera muitas gerações antes.",
+        "José não viu cada etapa, mas confiou em quem conduzia a história. Seu pedido ensinava seus descendentes a olhar além das dificuldades do dia. Algumas sementes de fé são plantadas por uma geração e florescem diante de outra. Cuidar dessas lembranças também é uma forma de acompanhar quem virá depois."
+      ],
+      "image": "61/part3.webp",
+      "alt": "Moisés conduz uma lembrança de José na viagem."
+    }
+  ],
+  "lesson": "Nem tudo o que começamos termina diante dos nossos olhos. José ensina a confiar em Deus e a transmitir boas lembranças a quem vem depois. Podemos ouvir as histórias dos mais velhos, guardar compromissos importantes e cuidar de algo que beneficiará outras pessoas no futuro. Esperança não é adivinhar datas; é continuar fazendo o bem enquanto confiamos que nossa vida faz parte de uma história maior.",
+  "question": "Que história de fé ou cuidado de alguém mais velho você gostaria de guardar e contar a outras pessoas?",
+  "prayer": "Deus fiel, obrigado pelas pessoas que cuidaram de mim antes que eu pudesse perceber. Ajuda-me a ouvir suas histórias, cumprir bons compromissos e plantar sementes de amor para o futuro. Ensina-me a confiar em ti mesmo sem enxergar todo o caminho. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "José idoso conversa com sua família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph elderly olive-brown skin short graying curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Moses in final scene ONLY: long gray-white beard, beige robe, burnt terracotta-brown mantle, wooden staff. Scene: Elderly Joseph seated in peaceful Egyptian courtyard talking with adult relatives and younger descendants, tender generational scene."
+    },
+    {
+      "role": "part1",
+      "alt": "José olha para seus descendentes no pátio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph elderly olive-brown skin short graying curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Moses in final scene ONLY: long gray-white beard, beige robe, burnt terracotta-brown mantle, wooden staff. Scene: Elderly Joseph smiles at three generations of family in sunlit courtyard with woven baskets, emphasis on listening and care."
+    },
+    {
+      "role": "part2",
+      "alt": "A família ouve o pedido de José.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph elderly olive-brown skin short graying curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Moses in final scene ONLY: long gray-white beard, beige robe, burnt terracotta-brown mantle, wooden staff. Scene: Elderly Joseph seated upright talks earnestly to three adult bearded relatives, open attentive faces, no illness distress or coffin."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés conduz uma lembrança de José na viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph elderly olive-brown skin short graying curls clean-shaven, white Egyptian linen turquoise sash modest gold collar. Moses in final scene ONLY: long gray-white beard, beige robe, burnt terracotta-brown mantle, wooden staff. Scene: Much later elderly Moses stands near Israelite travelers carrying a small CLOSED dignified wooden chest on poles during departure from Egypt, no remains visible, Joseph is NOT present."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+50%3A22-26&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Exodus+13%3A19&version=KJV"
+  ]
+}

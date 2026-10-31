@@ -1,0 +1,71 @@
+{
+  "id": 54,
+  "title": "Jacó Chega ao Poço de Harã",
+  "subtitle": "Um encontro no fim da viagem",
+  "reference": "Gênesis 29:1–14",
+  "description": "Depois de muitos dias longe de casa, Jacó chega a um poço. Uma conversa com pastores o aproxima da família que procurava.",
+  "testament": "antigo",
+  "cover": "/images/covers/54.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Pastores junto à grande pedra",
+      "paragraphs": [
+        "Jacó havia deixado sua casa e seguia para a terra dos parentes de sua mãe. Levava consigo uma história de conflitos familiares e a lembrança de que Deus prometera acompanhá-lo. Ao chegar à região dos povos do Oriente, encontrou um poço no campo. Perto dele, três rebanhos de ovelhas estavam deitados, esperando.",
+        "Uma grande pedra cobria a abertura do poço. Naquele lugar, os pastores costumavam reunir os rebanhos antes de remover a pedra e dar água aos animais. Depois, colocavam a pedra novamente sobre a abertura. Era uma tarefa de cuidado com a água e de organização do trabalho compartilhado pelos que dependiam daquele poço.",
+        "Jacó se aproximou e perguntou aos pastores de onde eram. Eles responderam que vinham de Harã. Era justamente a região que procurava. Então perguntou se conheciam Labão, parente de sua mãe. Os homens disseram que sim. Depois de tanto caminho, aquela conversa simples começava a transformar um lugar desconhecido em uma possibilidade de encontro."
+      ],
+      "image": "54/part1.webp",
+      "alt": "Jacó conversa com três pastores ao lado de um poço coberto."
+    },
+    {
+      "heading": "Raquel se aproxima com o rebanho",
+      "paragraphs": [
+        "Jacó quis saber se Labão estava bem. Os pastores confirmaram e apontaram uma jovem que se aproximava: era Raquel, filha dele, trazendo as ovelhas da família. Jacó ainda comentou que havia bastante luz do dia e que os animais poderiam receber água e voltar a pastar. Os pastores explicaram que esperavam os outros rebanhos.",
+        "Raquel chegou enquanto conversavam. Ela cuidava das ovelhas de seu pai. Ao vê-la com o rebanho de Labão, Jacó se aproximou, removeu a pedra da abertura e deu água aos animais. O encontro entre parentes começou também com uma tarefa prática. Havia ovelhas sedentas, e Jacó participou do cuidado necessário naquele momento.",
+        "Depois, ele saudou Raquel com um beijo e chorou. Explicou que era parente de seu pai e filho de Rebeca. A longa viagem o colocara diante de alguém de sua própria família. Junto ao poço, o encontro ganhou um significado diferente: Jacó já não estava apenas entre pastores desconhecidos, mas diante de uma ligação com sua casa."
+      ],
+      "image": "54/part2.webp",
+      "alt": "Jacó ajuda a dar água ao rebanho enquanto Raquel acompanha."
+    },
+    {
+      "heading": "Um lugar para ser recebido",
+      "paragraphs": [
+        "Raquel correu para contar ao pai. Quando Labão ouviu que Jacó, filho de sua irmã, havia chegado, foi encontrá-lo. Abraçou-o, beijou-o e o levou para casa. O viajante que chegara ao poço procurando informações agora tinha uma porta aberta. Sua história podia ser contada entre pessoas ligadas à família de sua mãe.",
+        "Jacó explicou a Labão o que havia acontecido. O tio reconheceu o vínculo entre eles e o recebeu. Jacó permaneceu em sua casa durante um mês. Mais tarde, surgiriam novos acordos, trabalhos e dificuldades. A chegada não resolveu imediatamente tudo o que trazia de sua vida, mas ofereceu um lugar para começar outra etapa.",
+        "Aquele poço guardava um encontro importante. Pastores tinham respondido a perguntas, Raquel havia levado uma notícia e Labão abrira sua casa. Jacó não precisava conhecer todas as pessoas para dar o primeiro passo de uma conversa respeitosa. No fim de sua viagem, encontrou água para os rebanhos e a oportunidade de ser acolhido pela família que procurava."
+      ],
+      "image": "54/part3.webp",
+      "alt": "Labão recebe Jacó com um abraço à entrada de sua casa."
+    }
+  ],
+  "lesson": "Chegar a um lugar novo pode trazer insegurança. Fazer perguntas com respeito e procurar pessoas indicadas por nossos responsáveis ajuda a encontrar orientação. Quando alguém novo chega à escola ou à comunidade, podemos oferecer acolhimento: explicar uma atividade, mostrar um lugar ou convidar para uma conversa. Pequenas atitudes tornam um ambiente menos estranho. Ajudar numa tarefa comum também pode ser uma maneira de começar uma amizade.",
+  "question": "Como você pode ajudar uma pessoa nova a se sentir acolhida no seu grupo?",
+  "prayer": "Deus, acompanha quem está longe de casa ou começando em um lugar novo. Ensina-nos a acolher com respeito e a oferecer ajuda segura. Dá-nos coragem para fazer perguntas quando precisamos de orientação. Que nossa família e nossas amizades sejam lugares de cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jacó e Raquel se encontram junto ao poço, com as ovelhas da família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob adult olive-skinned man dark curly hair short beard, olive-gray tunic and faded blue mantle. Rachel clearly adult olive-skinned woman in twenties, dark braided hair, teal modest long dress and cream headscarf. Laban older graying beard brown robe. Scene: Adult Jacob and adult Rachel meet respectfully beside large field well with sheep, rolling Haran countryside, warm daylight."
+    },
+    {
+      "role": "part1",
+      "alt": "Jacó conversa com três pastores ao lado de um poço coberto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob adult olive-skinned man dark curly hair short beard, olive-gray tunic and faded blue mantle. Rachel clearly adult olive-skinned woman in twenties, dark braided hair, teal modest long dress and cream headscarf. Laban older graying beard brown robe. Scene: Adult Jacob asks three adult shepherds directions by well capped with large flat stone, three flocks resting, wide composition, Rachel not yet present."
+    },
+    {
+      "role": "part2",
+      "alt": "Jacó ajuda a dar água ao rebanho enquanto Raquel acompanha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob adult olive-skinned man dark curly hair short beard, olive-gray tunic and faded blue mantle. Rachel clearly adult olive-skinned woman in twenties, dark braided hair, teal modest long dress and cream headscarf. Laban older graying beard brown robe. Scene: Jacob draws water into trough while adult Rachel stands with shepherd staff beside her flock, stone removed to ground, no romantic embrace."
+    },
+    {
+      "role": "part3",
+      "alt": "Labão recebe Jacó com um abraço à entrada de sua casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob adult olive-skinned man dark curly hair short beard, olive-gray tunic and faded blue mantle. Rachel clearly adult olive-skinned woman in twenties, dark braided hair, teal modest long dress and cream headscarf. Laban older graying beard brown robe. Scene: Older Laban embraces adult nephew Jacob at modest courtyard doorway, Rachel in background announcing arrival, welcoming family atmosphere."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+29&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 109,
+  "title": "Doze Pedras para Lembrar",
+  "subtitle": "Uma história para contar aos filhos",
+  "reference": "Josué 4",
+  "description": "Depois da travessia do Jordão, doze homens carregam pedras do rio. Elas formarão uma lembrança para que as crianças possam perguntar e ouvir a história do cuidado de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/109.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma tarefa no meio do rio",
+      "paragraphs": [
+        "O povo de Israel estava terminando a travessia do Jordão. Os sacerdotes ainda permaneciam no leito seco com a arca da aliança, enquanto as últimas pessoas seguiam para a outra margem. A passagem extraordinária não deveria desaparecer da memória quando as tendas fossem armadas novamente. Deus deu a Josué uma tarefa que ajudaria as futuras gerações a lembrar.",
+        "Doze homens foram escolhidos, um de cada tribo. Eles deveriam voltar até o lugar onde os sacerdotes estavam e retirar dali doze pedras. Não seriam pedras de qualquer caminho, recolhidas por acaso depois da viagem. Viriam do meio do Jordão, do lugar que havia ficado aberto para que o povo inteiro pudesse atravessar.",
+        "Josué explicou a orientação. Cada homem levaria uma pedra sobre o ombro até o lugar onde passariam a noite. A quantidade também tinha sentido: doze pedras para as doze tribos de Israel. A lembrança não pertenceria somente à família de Josué ou a quem chegara primeiro. Seria uma memória compartilhada por todo o povo."
+      ],
+      "image": "109/part1.webp",
+      "alt": "Doze homens se aproximam do leito seco do Jordão para recolher as pedras indicadas por Josué."
+    },
+    {
+      "heading": "O peso de uma lembrança",
+      "paragraphs": [
+        "Os homens obedeceram. Entraram no leito do rio, escolheram as pedras e as carregaram conforme Josué havia indicado. Sobre os ombros, levaram objetos simples, sem brilho de ouro nem enfeites de palácio. Mas cada pedra estava ligada a uma história que nenhuma joia poderia contar por eles: Deus os havia conduzido através das águas.",
+        "Josué também levantou doze pedras no meio do Jordão, no lugar onde haviam estado os sacerdotes. Enquanto isso, a travessia chegou ao fim. Quando todos passaram e a missão foi concluída, os sacerdotes saíram do rio com a arca. Assim que alcançaram a margem, as águas voltaram ao seu curso e transbordaram como antes.",
+        "O povo acampou em Gilgal, no lado oriental de Jericó. Ali Josué ergueu as doze pedras que os homens haviam retirado do Jordão. Elas agora estavam longe da correnteza, reunidas num lugar em que poderiam ser vistas. Quem olhasse talvez percebesse apenas um conjunto de pedras. Por trás delas, porém, havia uma lembrança que precisava ganhar palavras."
+      ],
+      "image": "109/part2.webp",
+      "alt": "Um homem carrega uma pedra arredondada no ombro, acompanhado pelos outros representantes das tribos."
+    },
+    {
+      "heading": "Quando uma criança perguntasse",
+      "paragraphs": [
+        "Josué explicou o que deveriam fazer no futuro. Quando os filhos perguntassem o significado daquelas pedras, os adultos deveriam contar a história. Não bastava responder que eram antigas ou importantes. Era preciso dizer que Israel atravessara o Jordão em terra seca porque Deus havia feito as águas parar diante da arca da aliança.",
+        "A lembrança também se ligava à passagem pelo mar na saída do Egito. Gerações diferentes podiam conhecer o mesmo cuidado de Deus por meio de histórias transmitidas com atenção. Algumas crianças ainda nem haviam nascido. Mesmo assim, já havia um lugar preparado para suas perguntas e uma resposta que os adultos deveriam guardar.",
+        "Em Gilgal, as doze pedras ficaram como testemunhas daquela passagem. O povo ainda teria casas para construir, campos para cultivar e muitas histórias para viver. Mas, quando alguém parasse diante delas, poderia recordar o Jordão. Pais e filhos teriam um lugar para conversar sobre a ajuda recebida de Deus e agradecer juntos por ela."
+      ],
+      "image": "109/part3.webp",
+      "alt": "Uma criança aponta para as pedras reunidas enquanto um adulto conta a história da travessia."
+    }
+  ],
+  "lesson": "Lembrar também é uma forma de agradecer. Uma fotografia, uma carta ou um objeto simples pode nos ajudar a contar como alguém cuidou de nós. As pedras de Gilgal convidavam as crianças a perguntar, e os adultos tinham a responsabilidade de responder. Podemos guardar boas memórias sem transformar objetos em amuletos. O que importa é a história de cuidado que aprendemos a reconhecer, compartilhar e continuar em nossas próprias atitudes.",
+  "question": "Que objeto da sua casa pode abrir uma conversa sobre uma lembrança de cuidado ou gratidão?",
+  "prayer": "Deus, obrigado pelas histórias de cuidado que nossa família tem para contar. Ajuda-nos a lembrar com gratidão, a fazer perguntas e a escutar com carinho. Que as boas lembranças nos inspirem a cuidar de outras pessoas e a construir novos momentos de bondade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Josué mostra um memorial de doze pedras a famílias e crianças no acampamento de Gilgal.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua olive-skinned older man burgundy cloak olive tunic. Twelve Israelite men in varied earth-toned linen. Round natural river stones substantial enough to carry on shoulder. Landscape ancient Gilgal. Scene: Josué mostra um memorial de doze pedras a famílias e crianças no acampamento de Gilgal."
+    },
+    {
+      "role": "part1",
+      "alt": "Doze homens se aproximam do leito seco do Jordão para recolher as pedras indicadas por Josué.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua olive-skinned older man burgundy cloak olive tunic. Twelve Israelite men in varied earth-toned linen. Round natural river stones substantial enough to carry on shoulder. Landscape ancient Gilgal. Scene: Doze homens se aproximam do leito seco do Jordão para recolher as pedras indicadas por Josué."
+    },
+    {
+      "role": "part2",
+      "alt": "Um homem carrega uma pedra arredondada no ombro, acompanhado pelos outros representantes das tribos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua olive-skinned older man burgundy cloak olive tunic. Twelve Israelite men in varied earth-toned linen. Round natural river stones substantial enough to carry on shoulder. Landscape ancient Gilgal. Scene: Um homem carrega uma pedra arredondada no ombro, acompanhado pelos outros representantes das tribos."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma criança aponta para as pedras reunidas enquanto um adulto conta a história da travessia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua olive-skinned older man burgundy cloak olive tunic. Twelve Israelite men in varied earth-toned linen. Round natural river stones substantial enough to carry on shoulder. Landscape ancient Gilgal. Scene: Uma criança aponta para as pedras reunidas enquanto um adulto conta a história da travessia."
+    }
+  ]
+}

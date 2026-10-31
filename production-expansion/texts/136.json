@@ -1,0 +1,71 @@
+{
+  "id": 136,
+  "title": "Mefibosete à Mesa do Rei",
+  "subtitle": "Uma promessa que virou acolhimento",
+  "reference": "2 Samuel 9",
+  "description": "Davi se lembra de sua amizade com Jônatas e procura alguém de sua família. Mefibosete chega com receio, mas encontra lugar à mesa e a restituição de sua terra.",
+  "testament": "antigo",
+  "cover": "/images/covers/136.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma pergunta sobre a família",
+      "paragraphs": [
+        "Davi já era rei quando fez uma pergunta importante: restava alguém da família de Saul a quem pudesse demonstrar bondade por amor a Jônatas? Seu amigo havia morrido, mas a promessa de lealdade entre os dois não precisava morrer com ele. Davi procurava uma maneira concreta de continuar um compromisso feito muitos anos antes.",
+        "Chamaram Ziba, que havia servido à casa de Saul. Ele contou que ainda vivia um filho de Jônatas, chamado Mefibosete, que tinha uma deficiência nos dois pés. Davi perguntou onde ele estava. Ziba explicou que morava na casa de Maquir, em Lo-Debar. A notícia trouxe um nome e um endereço para a bondade que o rei desejava praticar.",
+        "Davi mandou buscá-lo. Para Mefibosete, ser chamado à presença do rei podia causar receio. Ele pertencia à família do governante anterior, e mudanças de poder muitas vezes eram perigosas naquele tempo. Não sabia ainda o motivo daquela convocação. A história se prepara para um encontro em que a intenção de Davi precisaria ser explicada com clareza."
+      ],
+      "image": "136/part1.webp",
+      "alt": "Davi conversa com Ziba num pátio do palácio, procurando notícias da família de Jônatas."
+    },
+    {
+      "heading": "Não precisa ter medo",
+      "paragraphs": [
+        "Mefibosete chegou e se inclinou diante de Davi. O rei o chamou pelo nome e logo lhe disse que não tivesse medo. Explicou que desejava tratá-lo com bondade por causa de Jônatas. A primeira necessidade do encontro não era uma longa cerimônia. Era permitir que aquele homem compreendesse que não estava sendo chamado para receber uma ameaça.",
+        "Davi anunciou que lhe devolveria as terras que haviam pertencido a Saul, seu avô. Também disse que ele comeria sempre à sua mesa. A promessa unia duas formas de cuidado: recuperar recursos da família e receber um lugar de convivência. Mefibosete não seria lembrado apenas de longe. Teria presença reconhecida dentro da vida do palácio.",
+        "Mefibosete respondeu com grande surpresa, falando de si de maneira diminuída. Aquelas palavras revelavam como o encontro era inesperado e importante para ele. A resposta de Davi, porém, não confirma que seu valor fosse pequeno. Ao chamá-lo pelo nome, devolver sua terra e oferecer lugar à mesa, o rei agia para que fosse tratado com dignidade e pertencimento."
+      ],
+      "image": "136/part2.webp",
+      "alt": "Davi acolhe Mefibosete pelo nome, num encontro sereno com cadeiras próximas e espaço para seus apoios."
+    },
+    {
+      "heading": "Um lugar que continuava ali",
+      "paragraphs": [
+        "Davi chamou Ziba novamente e lhe explicou a decisão. Ele, seus filhos e seus servos deveriam cultivar a terra de Mefibosete, garantindo o alimento ligado àquela propriedade. A bondade precisava de organização para continuar depois da conversa. Não bastava anunciar uma intenção generosa e deixar que os detalhes se perdessem no dia seguinte.",
+        "Ziba respondeu que faria o que o rei ordenara. Mefibosete passou a morar em Jerusalém e a comer à mesa de Davi, como um dos filhos do rei. Seu filho pequeno se chamava Mica. A família de Jônatas continuava presente, e o compromisso de amizade feito muitos anos antes agora se tornava cuidado na vida de seu filho.",
+        "Mefibosete morava em Jerusalém e continuava tendo deficiência nos pés. O acolhimento não dependia de seu corpo mudar. A mesa tinha lugar para ele como era. A promessa de amizade entre Davi e Jônatas alcançava agora outra geração, transformada em terra devolvida, sustento organizado e uma cadeira que não seria retirada quando a primeira emoção do encontro passasse."
+      ],
+      "image": "136/part3.webp",
+      "alt": "Mefibosete e seu filho Mica convivem à mesa do palácio, com expressões de pertencimento e carinho."
+    }
+  ],
+  "lesson": "Incluir alguém vai além de dizer que essa pessoa é bem-vinda. Às vezes é preciso adaptar um caminho, organizar ajuda e garantir que ela participe de verdade. Mefibosete não precisou deixar de ter deficiência para receber dignidade e lugar à mesa. Podemos perguntar o que facilita a participação de um colega e respeitar sua autonomia. Pessoas com deficiência têm desejos, talentos e histórias próprias; não devem ser tratadas como menos capazes de pertencer.",
+  "question": "O que seu grupo pode mudar para que uma pessoa com uma necessidade diferente participe com mais autonomia?",
+  "prayer": "Deus, ensina-nos a acolher cada pessoa com dignidade e respeito. Ajuda-nos a perceber barreiras, perguntar como colaborar e fazer mudanças que permitam a participação de todos. Que nossas promessas de amizade se transformem em atitudes constantes de inclusão e cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Mefibosete participa com alegria de uma refeição à mesa de Davi, sentado confortavelmente entre os convidados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Mephibosheth adult olive-skinned man dark curls short beard blue tunic, seated comfortably with wooden walking supports resting nearby, both feet disabled without injury emphasis; King David mature reddish beard cream robe burgundy mantle. Accessible ancient palace table. Only named scene cast. Scene: Mefibosete participa com alegria de uma refeição à mesa de Davi, sentado confortavelmente entre os convidados."
+    },
+    {
+      "role": "part1",
+      "alt": "Davi conversa com Ziba num pátio do palácio, procurando notícias da família de Jônatas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Mephibosheth adult olive-skinned man dark curls short beard blue tunic, seated comfortably with wooden walking supports resting nearby, both feet disabled without injury emphasis; King David mature reddish beard cream robe burgundy mantle. Accessible ancient palace table. Only named scene cast. Scene: Davi conversa com Ziba num pátio do palácio, procurando notícias da família de Jônatas. MANDATORY SCENE CAST: Only David and Ziba in the foreground. Mephibosheth is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Davi acolhe Mefibosete pelo nome, num encontro sereno com cadeiras próximas e espaço para seus apoios.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Mephibosheth adult olive-skinned man dark curls short beard blue tunic, seated comfortably with wooden walking supports resting nearby, both feet disabled without injury emphasis; King David mature reddish beard cream robe burgundy mantle. Accessible ancient palace table. Only named scene cast. Scene: Davi acolhe Mefibosete pelo nome, num encontro sereno com cadeiras próximas e espaço para seus apoios."
+    },
+    {
+      "role": "part3",
+      "alt": "Mefibosete e seu filho Mica convivem à mesa do palácio, com expressões de pertencimento e carinho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Mephibosheth adult olive-skinned man dark curls short beard blue tunic, seated comfortably with wooden walking supports resting nearby, both feet disabled without injury emphasis; King David mature reddish beard cream robe burgundy mantle. Accessible ancient palace table. Only named scene cast. Scene: Mefibosete e seu filho Mica convivem à mesa do palácio, com expressões de pertencimento e carinho."
+    }
+  ]
+}

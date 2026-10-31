@@ -1,0 +1,71 @@
+{
+  "id": 360,
+  "title": "A Sabedoria da Paz",
+  "subtitle": "O conhecimento que aprende a cuidar",
+  "reference": "Tiago 3:13–18",
+  "description": "Tiago pergunta como reconhecer uma pessoa sábia. Sua resposta aponta para atitudes humildes, misericordiosas e capazes de cultivar a paz.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/360.webp",
+  "parts": [
+    {
+      "heading": "Mais do que ter respostas",
+      "paragraphs": [
+        "Na carta de Tiago, surge uma pergunta sobre sabedoria. Quem realmente é sábio e entendido? A resposta não começa com uma lista de diplomas ou palavras difíceis. O texto convida a mostrar a sabedoria por meio de uma boa conduta, com atitudes realizadas em mansidão. O conhecimento deveria aparecer no modo de viver com as pessoas.",
+        "Saber muitas coisas pode ser útil, mas não garante que alguém as use bem. Uma resposta correta pode ser dita para ajudar ou para humilhar. A carta chama atenção para essa diferença. A sabedoria que vem de Deus não precisa transformar o outro em alguém pequeno para parecer grande. Ela procura orientar com verdade e cuidado.",
+        "A mansidão mencionada é uma forma cuidadosa de conduzir a força e o conhecimento. Uma pessoa sábia pode corrigir um erro com paciência, ouvir uma pergunta até o fim e explicar de outra maneira quando alguém precisa. Sua firmeza caminha junto com o respeito. Assim, aprender se torna um encontro em que todos têm espaço para crescer."
+      ],
+      "image": "360/part1.webp",
+      "alt": "Pessoa sábia escuta uma pergunta de jovem em pátio antigo, rolos sobre mesa e expressão humilde, luz dourada."
+    },
+    {
+      "heading": "O perigo da rivalidade",
+      "paragraphs": [
+        "Tiago alertou sobre a inveja amarga e a ambição egoísta. Quando esses sentimentos dirigem as escolhas, até uma habilidade importante pode ser usada para alimentar disputas. O desejo de ser sempre o primeiro pode ocupar o lugar do desejo de fazer o bem. A pessoa passa a medir cada encontro pelo que consegue ganhar.",
+        "A carta diz que essa maneira de agir produz confusão e práticas ruins. Podemos compreender isso numa situação de grupo. Se todos escondem informações para parecer mais importantes, a tarefa fica difícil. Se alguém ridiculariza uma pergunta, os outros podem ter medo de aprender. Esses exemplos são aplicações do ensino, mostrando como a rivalidade prejudica a convivência.",
+        "Reconhecer a inveja ou a vontade de aparecer não exige desistir de nós mesmos. Podemos falar honestamente sobre esses sentimentos e buscar outra direção. O texto pede que não mintamos contra a verdade. Admitir que precisamos mudar é um começo mais saudável do que cobrir a dificuldade com um discurso bonito sobre nossa própria sabedoria."
+      ],
+      "image": "360/part2.webp",
+      "alt": "Dois jovens reorganizam juntos uma tarefa com ajuda de adulto, materiais de madeira sobre mesa, atitude de cooperação em vez de rivalidade."
+    },
+    {
+      "heading": "Uma colheita de paz",
+      "paragraphs": [
+        "Tiago descreveu então a sabedoria que vem do alto. Ela é pura, pacífica, amável, aberta à razão, cheia de misericórdia e de bons frutos, sem parcialidade e sem fingimento. Essas qualidades formam um retrato de relações cuidadosas. A verdade não fica separada da gentileza, e a misericórdia não depende de favorecer somente amigos importantes.",
+        "Ser aberto à razão inclui ouvir e considerar uma orientação. Talvez outra pessoa tenha percebido algo que escapou aos nossos olhos. A sabedoria recebe essa contribuição com humildade e examina o que é verdadeiro. Quando percebe um erro, pode corrigi-lo; quando encontra uma necessidade, procura uma resposta generosa. O desejo de aprender ajuda a encontrar caminhos de paz.",
+        "O trecho termina com a imagem de uma colheita de justiça semeada em paz por quem promove a paz. As escolhas são como sementes na convivência. Uma pergunta respeitosa, uma decisão justa e uma ajuda sem favoritismo podem produzir bons frutos. A sabedoria se torna visível quando o conhecimento encontra humildade e trabalha para que as pessoas vivam melhor juntas."
+      ],
+      "image": "360/part3.webp",
+      "alt": "Comunidade colhe frutos num jardim antigo em paz, pessoas repartem cestos com justiça, árvores e tecidos detalhados, símbolo dos bons frutos."
+    }
+  ],
+  "lesson": "Podemos usar o que sabemos para ajudar alguém a aprender, sem fazer piadas sobre sua dificuldade. Também podemos admitir quando não sabemos uma resposta e procurar orientação. A sabedoria da paz não evita toda conversa difícil; ela procura realizá-la com verdade e respeito. Se sentimos inveja ou vontade de aparecer, podemos conversar sobre isso e escolher uma atitude de cooperação. Aprender a cuidar faz parte de aprender a ser sábio.",
+  "question": "Como você pode explicar algo que sabe de um jeito que encoraje outra pessoa?",
+  "prayer": "Deus, dá-nos uma sabedoria que cuide das pessoas. Ajuda-nos a ouvir, aprender e reconhecer nossos erros. Livra-nos da vontade de humilhar ou competir em tudo. Que nossas palavras sejam verdadeiras e gentis, e que nossas escolhas semeiem justiça, misericórdia e paz. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um ancião do primeiro século ensina crianças a plantar num jardim, todos colaboram e fazem perguntas, metáfora de sabedoria que semeia paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Um ancião do primeiro século ensina crianças a plantar num jardim, todos colaboram e fazem perguntas, metáfora de sabedoria que semeia paz."
+    },
+    {
+      "role": "part1",
+      "alt": "Pessoa sábia escuta uma pergunta de jovem em pátio antigo, rolos sobre mesa e expressão humilde, luz dourada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Pessoa sábia escuta uma pergunta de jovem em pátio antigo, rolos sobre mesa e expressão humilde, luz dourada."
+    },
+    {
+      "role": "part2",
+      "alt": "Dois jovens reorganizam juntos uma tarefa com ajuda de adulto, materiais de madeira sobre mesa, atitude de cooperação em vez de rivalidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Dois jovens reorganizam juntos uma tarefa com ajuda de adulto, materiais de madeira sobre mesa, atitude de cooperação em vez de rivalidade."
+    },
+    {
+      "role": "part3",
+      "alt": "Comunidade colhe frutos num jardim antigo em paz, pessoas repartem cestos com justiça, árvores e tecidos detalhados, símbolo dos bons frutos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Comunidade colhe frutos num jardim antigo em paz, pessoas repartem cestos com justiça, árvores e tecidos detalhados, símbolo dos bons frutos."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/JAS.3.KJV"
+  ]
+}

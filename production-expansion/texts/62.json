@@ -1,0 +1,71 @@
+{
+  "id": 62,
+  "title": "Sifrá e Puá Protegem a Vida",
+  "subtitle": "Coragem para proteger quem precisa",
+  "reference": "Êxodo 1:8–22",
+  "description": "Duas parteiras enfrentam uma ordem cruel e escolhem cuidar da vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/62.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma ordem que não era justa",
+      "paragraphs": [
+        "A família de Israel havia crescido muito no Egito. Um novo faraó, que não conhecia a história de José, ficou com medo daquele povo numeroso. Em vez de tratá-lo com justiça, decidiu dominá-lo. Os israelitas foram obrigados a trabalhar duramente nas construções e nos campos, sem liberdade para escolher sua vida.",
+        "O sofrimento não fez o povo desaparecer. Então o rei chamou duas parteiras, Sifrá e Puá. Parteiras eram mulheres que ajudavam mães no nascimento dos bebês. Seu trabalho exigia atenção, experiência e cuidado. Elas estavam presentes num momento em que uma família precisava especialmente de mãos que protegessem.",
+        "Faraó ordenou que não deixassem viver os meninos hebreus que nascessem. Era uma ordem terrível, mesmo vindo de alguém poderoso. As crianças não tinham feito mal algum. A posição de um rei não tornava justo aquilo que ele mandava, e Sifrá e Puá precisavam decidir como responder."
+      ],
+      "image": "62/part1.webp",
+      "alt": "As parteiras ouvem o faraó."
+    },
+    {
+      "heading": "Mãos que escolheram cuidar",
+      "paragraphs": [
+        "As duas parteiras respeitavam a Deus e reconheciam o valor daquelas vidas. Por isso, não cumpriram a ordem do faraó. Continuaram deixando os meninos viver. O trabalho que conheciam tão bem permaneceu ligado ao cuidado, apesar da pressão do rei. Suas mãos não seriam usadas para transformar o nascimento em sofrimento para aquelas famílias.",
+        "Quando percebeu que os meninos sobreviviam, o rei mandou chamá-las novamente. Elas precisaram encarar quem tinha poder para ameaçá-las. Disseram que as mulheres hebreias davam à luz antes de sua chegada. O relato destaca que o temor a Deus orientava suas ações, apesar da pressão de uma autoridade injusta.",
+        "Sifrá e Puá não comandavam um exército nem ocupavam o trono. Possuíam mãos preparadas para servir, nomes que a Bíblia preservou e a coragem de não transformar o cuidado em violência. No lugar em que trabalhavam, fizeram uma diferença que alcançava bebês, mães e o futuro de muitas famílias."
+      ],
+      "image": "62/part2.webp",
+      "alt": "As parteiras cuidam de uma família."
+    },
+    {
+      "heading": "Nomes lembrados por sua coragem",
+      "paragraphs": [
+        "Deus foi bondoso com as parteiras, e o povo continuou crescendo. O texto também conta que elas receberam famílias. A história não diz que todo perigo desapareceu naquele instante. Faraó insistiu em perseguir os meninos hebreus, e outras pessoas ainda precisariam agir para proteger a vida no meio daquela situação.",
+        "Mesmo assim, a maldade do rei não apaga o valor da escolha das duas mulheres. Ao lembrar seus nomes, a Bíblia mostra que pessoas sem grande poder podem fazer o que é certo. O trabalho cotidiano delas se tornou um lugar de resistência à injustiça e de cuidado por quem não podia se defender.",
+        "Crianças não precisam enfrentar situações perigosas sozinhas. Quando uma ordem pede que alguém seja machucado, humilhado ou colocado em risco, é importante procurar um adulto seguro que possa ajudar. A coragem de Sifrá e Puá nos convida a reconhecer que proteger pessoas vale mais do que obedecer cegamente à voz mais forte."
+      ],
+      "image": "62/part3.webp",
+      "alt": "Sifrá e Puá conversam à porta de uma casa."
+    }
+  ],
+  "lesson": "Uma ordem não se torna boa apenas porque vem de alguém poderoso. Sifrá e Puá escolheram proteger vidas e nos lembram de que coragem também aparece no cuidado. Se alguém mandar você machucar, humilhar ou esconder algo que coloque uma pessoa em perigo, procure um adulto de confiança. Pedir ajuda é uma atitude corajosa. Deus se importa com quem é pequeno e vulnerável, e podemos aprender a cuidar também.",
+  "question": "Que adulto de confiança você procuraria se presenciasse alguém sendo colocado em perigo?",
+  "prayer": "Senhor, obrigado pelas pessoas que protegem a vida com coragem e cuidado. Dá-me sensibilidade para perceber quem precisa de ajuda e sabedoria para procurar apoio seguro. Que minhas mãos, palavras e escolhas nunca sejam usadas para machucar quem é mais frágil. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Sifrá e Puá caminham juntas com seus materiais de cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Shiphrah mature brown-skinned woman around50, gray-streaked hair under teal scarf, cream modest dress blue shawl. Puah mature olive-skinned woman around40, dark braid under ochre scarf, rust long dress. Pharaoh brown-skinned adult man Egyptian blue-gold headdress white linen. Scene: Two mature midwives walk together through ancient Egyptian residential lane carrying clean folded linens and clay water bowl, dignified courageous expressions; no birth or medical procedure."
+    },
+    {
+      "role": "part1",
+      "alt": "As parteiras ouvem o faraó.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Shiphrah mature brown-skinned woman around50, gray-streaked hair under teal scarf, cream modest dress blue shawl. Puah mature olive-skinned woman around40, dark braid under ochre scarf, rust long dress. Pharaoh brown-skinned adult man Egyptian blue-gold headdress white linen. Scene: Two mature fully clothed midwives stand respectfully but firmly before distant seated Pharaoh in palace, serious conversation, no threatening gesture or weapons."
+    },
+    {
+      "role": "part2",
+      "alt": "As parteiras cuidam de uma família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Shiphrah mature brown-skinned woman around50, gray-streaked hair under teal scarf, cream modest dress blue shawl. Puah mature olive-skinned woman around40, dark braid under ochre scarf, rust long dress. Pharaoh brown-skinned adult man Egyptian blue-gold headdress white linen. Scene: Two adult midwives offer clean linens and water to seated fully clothed adult mother holding safely swaddled healthy baby in calm home, ordinary family care, no medical action."
+    },
+    {
+      "role": "part3",
+      "alt": "Sifrá e Puá conversam à porta de uma casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Shiphrah mature brown-skinned woman around50, gray-streaked hair under teal scarf, cream modest dress blue shawl. Puah mature olive-skinned woman around40, dark braid under ochre scarf, rust long dress. Pharaoh brown-skinned adult man Egyptian blue-gold headdress white linen. Scene: Two midwives smile warmly at family in doorway, mother holds swaddled baby, father stands beside her, hopeful sunlight, no royalty."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+1%3A8-22&version=KJV"
+  ]
+}

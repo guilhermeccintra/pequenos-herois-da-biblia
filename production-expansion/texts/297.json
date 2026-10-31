@@ -1,0 +1,71 @@
+{
+  "id": 297,
+  "title": "Pedro e o Canto do Galo",
+  "subtitle": "Quando o medo fala mais alto, ainda é possível voltar",
+  "reference": "Lucas 22:54–62",
+  "description": "No pátio da casa do sumo sacerdote, Pedro nega conhecer Jesus e percebe com tristeza o que fez.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.22.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Perto do fogo",
+      "paragraphs": [
+        "Jesus foi preso e levado à casa do sumo sacerdote. Pedro o seguiu de longe. O discípulo que antes falara com tanta confiança agora caminhava dentro de uma noite cheia de medo e incerteza. Não estava ao lado do Mestre como nas estradas da Galileia. A distância parecia oferecer alguma segurança, mas também mostrava sua aflição.",
+        "No meio do pátio, algumas pessoas acenderam uma fogueira e se sentaram juntas. Pedro se sentou entre elas. A luz do fogo iluminava os rostos enquanto a noite continuava. Uma criada o viu ali, observou-o com atenção e disse que aquele homem também estivera com Jesus. De repente, a relação que Pedro tinha com o Mestre foi mencionada em voz alta.",
+        "Pedro negou. Disse à mulher que não o conhecia. Suas palavras escondiam uma amizade de muitos caminhos, refeições e aprendizados. O medo o levou a recusar aquilo que fazia parte de sua história. A primeira negação aconteceu perto do fogo, diante de uma pessoa que o reconhecera, e abriu espaço para outras respostas difíceis."
+      ],
+      "alt": "Pedro está sentado perto de uma fogueira no pátio.",
+      "image": "297/part1.webp"
+    },
+    {
+      "heading": "Três respostas de medo",
+      "paragraphs": [
+        "Pouco depois, outra pessoa o viu e disse que ele também era um dos discípulos. Pedro respondeu novamente que não. A noite parecia apertar ao redor dele. Cada reconhecimento trazia a possibilidade de ser associado a Jesus, e ele escolhia se afastar com palavras. Suas respostas tentavam proteger a si mesmo, mas feriam a verdade.",
+        "Cerca de uma hora mais tarde, outro homem insistiu que Pedro certamente estivera com Jesus, pois também era galileu. O discípulo respondeu que não sabia do que o homem estava falando. Era a terceira vez que negava sua ligação com o Mestre. A firmeza que imaginara possuir não resistira à pressão daquele pátio.",
+        "Enquanto ainda falava, o galo cantou. O som marcou um instante que Pedro não esqueceria. Antes, Jesus havia dito que ele o negaria três vezes antes do canto do galo. A lembrança das palavras do Mestre encontrava agora as palavras que o próprio Pedro acabara de pronunciar. Ele percebeu que havia feito exatamente o que julgara impossível."
+      ],
+      "alt": "Pedro responde com medo às pessoas que o reconhecem.",
+      "image": "297/part2.webp"
+    },
+    {
+      "heading": "Um olhar e lágrimas",
+      "paragraphs": [
+        "O Senhor voltou-se e olhou para Pedro. O relato não descreve um discurso naquele momento. Havia um olhar e a lembrança do que Jesus havia dito. Pedro reconheceu sua falha. Já não podia escondê-la atrás de promessas de coragem. O canto do galo e o olhar do Mestre trouxeram à luz a verdade daquela noite.",
+        "Pedro saiu dali e chorou amargamente. Suas lágrimas mostravam a dor de perceber o que fizera. Ele amava Jesus, mas havia permitido que o medo dirigisse suas respostas. A história não transforma a negação em algo sem importância. Ao mesmo tempo, mostra um discípulo que reconhece o erro, em vez de continuar defendendo a mentira.",
+        "Aquela noite foi uma parte dolorosa da caminhada de Pedro, mas não seria toda a sua história. O amor de Jesus ainda teria palavras e cuidado para ele. O primeiro passo naquele pátio foi parar de negar a própria falha. As lágrimas abriram espaço para a verdade e para uma mudança que Pedro ainda precisaria aprender a viver."
+      ],
+      "alt": "Pedro deixa o pátio chorando e reconhecendo seu erro.",
+      "image": "297/part3.webp"
+    }
+  ],
+  "lesson": "O medo pode nos levar a dizer algo de que depois nos arrependemos. Reconhecer a verdade é o começo de uma mudança. Não precisamos fingir que o erro foi pequeno, nem acreditar que ele define toda a nossa vida. Podemos pedir perdão, procurar apoio e aprender a agir com mais coragem. Jesus conhece nossas fragilidades e nos convida a voltar ao caminho do amor.",
+  "question": "Quando você erra por medo, que passo pode dar para reconhecer a verdade e começar a reparar?",
+  "prayer": "Jesus, tu conheces meus medos e minhas falhas. Ajuda-me a não esconder a verdade quando eu errar. Dá-me coragem para pedir perdão, procurar ajuda e reparar o que for possível. Que eu aprenda contigo a recomeçar com sinceridade e a amar com mais firmeza. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/297.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro ouve o galo e percebe seu erro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Peter olive skin curly dark hair full short beard muted teal tunic brown outer shawl in first-century courtyard at dawn, sorrowful reflective face near fading small fire, rooster perched safely on distant low wall, no violence, dignified cinematic 3D."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro se aquece perto do fogo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same Peter teal tunic brown shawl seated by small courtyard fire among three adult servants, adult woman cream headscarf looking toward him with recognition, night stone architecture, anxious but gentle faces, no weapons."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro nega conhecer Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same Peter teal tunic brown shawl speaking anxiously with adult man ochre robe near courtyard fire, open defensive hands not aggressive, another adult observer behind, warm firelight deep blue night."
+    },
+    {
+      "role": "part3",
+      "alt": "Pedro sai do pátio entristecido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same Peter teal tunic brown shawl walking alone beyond courtyard gate at dawn, a few tears and bowed head, soft hopeful morning light on stone lane, no self-harm no violence, compassionate framing."
+    }
+  ]
+}

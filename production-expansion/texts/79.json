@@ -1,0 +1,71 @@
+{
+  "id": 79,
+  "title": "Duas Novas Tábuas",
+  "subtitle": "A misericórdia abre espaço para um novo compromisso",
+  "reference": "Êxodo 34",
+  "description": "Moisés sobe novamente ao Sinai e retorna com as tábuas da aliança.",
+  "testament": "antigo",
+  "cover": "/images/covers/79.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Preparar duas novas tábuas",
+      "paragraphs": [
+        "As primeiras tábuas da aliança haviam sido quebradas depois da escolha do povo pelo bezerro de ouro. Agora Deus orientou Moisés a preparar duas tábuas de pedra semelhantes às primeiras e subir novamente ao Sinai. O recomeço não apagava o erro, mas mostrava que a história ainda podia continuar.",
+        "Moisés se levantou cedo e levou as pedras ao monte, conforme recebera orientação. Dessa vez subiria sozinho; nem pessoas nem rebanhos deveriam se aproximar. A preparação mostrava a seriedade do encontro. Não era uma repetição vazia da cerimônia anterior, e sim uma nova oportunidade de ouvir e renovar o compromisso.",
+        "Uma nuvem acompanhou a presença do Senhor, e seu nome foi anunciado. Moisés ouviu sobre a misericórdia, a graça, a paciência, a bondade e a fidelidade de Deus. Depois de uma falha tão grave, essas palavras tinham grande importância. A relação não seria reconstruída apenas pelo esforço humano, mas pela disposição divina de perdoar."
+      ],
+      "image": "79/part1.webp",
+      "alt": "Moisés prepara novas tábuas de pedra."
+    },
+    {
+      "heading": "Bondade que não ignora a verdade",
+      "paragraphs": [
+        "O anúncio também lembrava que Deus não trata o mal como se fosse algo sem consequências. Misericórdia e justiça apareciam juntas. As escolhas de uma geração podem ferir outras pessoas e alcançar o futuro. Por isso, receber perdão não significa dizer que o erro não teve importância ou que não precisa ser enfrentado.",
+        "Moisés se inclinou em adoração e pediu que o Senhor acompanhasse o povo, perdoasse suas faltas e o recebesse como seu. Reconheceu a teimosia da comunidade em vez de apresentar desculpas. Sua oração unia humildade e esperança: havia um problema real, mas também havia a bondade de Deus a quem recorrer.",
+        "O Senhor renovou a aliança e deu orientações para a vida do povo. Entre elas estavam a fidelidade na adoração, a lembrança da libertação e o respeito ao descanso. O recomeço apontava para atitudes concretas. A comunidade precisaria aprender a viver o compromisso nos dias comuns, quando não houvesse uma grande reunião ao pé do monte."
+      ],
+      "image": "79/part2.webp",
+      "alt": "Moisés se inclina em adoração no monte."
+    },
+    {
+      "heading": "Um rosto marcado pelo encontro",
+      "paragraphs": [
+        "Moisés permaneceu no monte quarenta dias e quarenta noites. Quando desceu com as duas tábuas, não sabia que seu rosto brilhava por causa do encontro com Deus. Arão e os israelitas ficaram receosos de se aproximar. A aparência de Moisés mostrava que algo extraordinário havia acontecido durante aquele tempo.",
+        "Ele os chamou, e os líderes se aproximaram para ouvi-lo. Depois, o restante do povo também recebeu as orientações. Moisés não usou o brilho para se exibir ou exigir admiração. Sua tarefa continuava sendo transmitir o que havia recebido. O encontro com Deus deveria servir ao cuidado e ao ensino da comunidade.",
+        "Depois de falar, Moisés cobria o rosto com um véu, retirando-o quando entrava para conversar com o Senhor. A história termina com essa alternância entre ouvir e transmitir. Duas novas tábuas acompanhavam um novo começo, lembrando ao povo que a misericórdia convida à fidelidade, e que a esperança precisa caminhar com responsabilidade."
+      ],
+      "image": "79/part3.webp",
+      "alt": "O povo escuta Moisés depois de sua volta."
+    }
+  ],
+  "lesson": "Recomeçar não é fingir que nada aconteceu. É receber a oportunidade de agir de outra maneira. As novas tábuas lembram a misericórdia de Deus e a seriedade dos compromissos. Quando recebemos perdão, podemos agradecer e procurar reparar o que foi ferido. Também podemos oferecer espaço para que outras pessoas aprendam e mudem, sem negar a verdade. A esperança cresce quando a bondade acompanha atitudes responsáveis.",
+  "question": "Que atitude concreta pode mostrar que você deseja fazer diferente depois de pedir perdão?",
+  "prayer": "Deus de misericórdia, obrigado pelas oportunidades de recomeçar. Ajuda-me a reconhecer a verdade, receber perdão com gratidão e mudar minhas atitudes. Dá-me paciência com quem está aprendendo e responsabilidade para cuidar dos compromissos que assumo. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés desce do Sinai com duas novas tábuas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses descends rocky mountain carrying two plain stone tablets close to chest, face softly radiant with warm reflected light, hopeful clouds, no readable inscription or horns."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés prepara novas tábuas de pedra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses carefully shapes two flat stone tablets at simple ground workspace with ancient hand tools, dawn, quiet focused posture, no writing visible."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés se inclina em adoração no monte.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses ALONE kneels beside two stone tablets on rocky summit beneath luminous cloud, deep reverence, no visible deity or human-shaped light."
+    },
+    {
+      "role": "part3",
+      "alt": "O povo escuta Moisés depois de sua volta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Scene: Moses speaks gently to Aaron and attentive adults at camp edge, softly luminous face and folded light linen veil in hand, tablets nearby, no horns."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+34&version=KJV"
+  ]
+}

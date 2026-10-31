@@ -1,0 +1,75 @@
+{
+  "id": 196,
+  "title": "Jó nos Dias Difíceis",
+  "subtitle": "A dor não precisa ficar escondida",
+  "reference": "Jó 1–2",
+  "description": "Jó enfrenta perdas e uma doença dolorosa. O começo de sua história nos convida a escutar o sofrimento com cuidado, sem culpar quem está sofrendo.",
+  "testament": "antigo",
+  "cover": "/images/covers/196.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma vida que parecia segura",
+      "paragraphs": [
+        "Na terra de Uz vivia um homem chamado Jó. Ele procurava agir com honestidade, respeitava a Deus e se afastava do mal. Tinha uma família grande e muitos animais: ovelhas, camelos, bois e jumentas. Também havia trabalhadores cuidando de suas propriedades. Aos olhos de quem o conhecia, sua vida parecia cheia de recursos e possibilidades.",
+        "Jó se preocupava com seus filhos e filhas. Quando eles se reuniam para celebrar, continuava pensando em sua vida diante de Deus. O livro apresenta esse cuidado antes de contar suas dificuldades. Assim, desde o começo, sabemos algo importante: a dor que Jó enfrentaria não seria prova de que era uma pessoa sem valor ou sem fé.",
+        "A abertura do livro também apresenta uma discussão no céu, em que Satanás questiona a sinceridade de Jó. Afirma que ele só seria fiel porque recebia coisas boas. Jó não conhece essa conversa. O leitor, porém, percebe que a história vai tratar de perguntas profundas sobre confiança, sofrimento e os limites das explicações humanas."
+      ],
+      "image": "196/part1.webp",
+      "alt": "Jó contempla os rebanhos e a vida de sua família antes das dificuldades."
+    },
+    {
+      "heading": "Notícias que ferem o coração",
+      "paragraphs": [
+        "Um dia, mensageiros chegaram trazendo notícias terríveis. Rebanhos haviam sido levados ou destruídos, e trabalhadores tinham morrido em ataques e desastres. Antes que Jó conseguisse compreender uma notícia, outra chegava. Sua segurança material se desfez rapidamente. O relato mostra uma sequência de perdas que ele não tinha escolhido nem conseguido impedir.",
+        "Depois veio a notícia mais dolorosa: um vento forte havia atingido a casa onde seus filhos e filhas estavam reunidos, e eles tinham morrido. Jó ficou profundamente triste. Rasgou sua roupa e expressou o luto conforme os costumes de seu tempo. Sua fé não o transformou numa pessoa incapaz de chorar ou de sentir a ausência de quem amava.",
+        "Mesmo abalado, Jó se voltou a Deus. Reconheceu que a vida e os bens não estavam inteiramente sob seu controle. Mais tarde, também ficou doente, com grande sofrimento físico. Sua esposa estava igualmente cercada pela dor e falou de modo desesperado. Jó não abandonou sua relação com Deus, embora ainda tivesse muitas perguntas."
+      ],
+      "image": "196/part2.webp",
+      "alt": "Jó escuta uma notícia difícil e encontra tempo para chorar."
+    },
+    {
+      "heading": "Companhia no silêncio",
+      "paragraphs": [
+        "Três amigos souberam do que havia acontecido: Elifaz, Bildade e Zofar. Combinaram ir até Jó para demonstrar solidariedade e consolá-lo. Quando o viram de longe, quase não o reconheceram. A mudança em sua condição era muito grande. Eles choraram e expressaram sua tristeza diante do sofrimento de alguém que conheciam.",
+        "Depois se sentaram no chão com ele durante sete dias e sete noites. Ninguém lhe disse uma palavra, porque perceberam que sua dor era enorme. Naquele primeiro momento, não tentaram preencher tudo com explicações. Permaneceram perto. A presença não devolvia o que Jó perdera, mas mostrava que ele não estava completamente sozinho.",
+        "A história de Jó ainda teria muitas conversas e perguntas difíceis. Seu começo não oferece uma fórmula para explicar toda doença ou perda. Mostra uma pessoa justa sofrendo e amigos que chegam para estar junto. Antes de procurar respostas rápidas, somos convidados a reconhecer a dor como real e a tratar com cuidado quem precisa de consolo."
+      ],
+      "image": "196/part3.webp",
+      "alt": "Os três amigos permanecem perto de Jó sem apressar suas palavras."
+    }
+  ],
+  "lesson": "Sofrer não significa que alguém seja mau ou tenha pouca fé. Quando uma pessoa perde alguém ou fica doente, precisa de cuidado, escuta e apoio. Podemos oferecer companhia e procurar adultos ou profissionais que saibam ajudar. Não precisamos encontrar uma explicação para tudo. Também podemos contar nossa própria tristeza a alguém de confiança: chorar, sentir saudade e fazer perguntas não nos torna menos amados.",
+  "question": "O que você pode dizer ou fazer para mostrar carinho a alguém que está triste?",
+  "prayer": "Deus, acolhe as pessoas que enfrentam doença, perda e saudade. Ajuda-nos a escutar sem culpar e a oferecer companhia com respeito. Quando estivermos tristes, aproxima de nós pessoas cuidadosas e dá-nos coragem para falar sobre o que sentimos e pedir ajuda. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JOB01.htm",
+    "https://ebible.org/engwebp/JOB02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jó recebe a companhia silenciosa de três amigos num tempo de tristeza.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job seated on a simple mat in a quiet ancient courtyard with exactly three adult friends sitting nearby in compassionate silence, fully clothed, no wounds, no ashes on skin, gentle warm dusk, respectful grief. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Jó contempla os rebanhos e a vida de sua família antes das dificuldades.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job stands near a peaceful ancient farm with sheep and camels in distance, adult family members share a meal under shade, warm morning light, ordinary loving atmosphere. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Jó escuta uma notícia difícil e encontra tempo para chorar.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job seated under a tree listens to a concerned adult messenger, sorrowful but supported expression, no disaster or dead people visible, soft subdued daylight and compassionate composition. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Os três amigos permanecem perto de Jó sem apressar suas palavras.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close-medium Job and exactly three adult friends seated together on low mats at sunset, one friend quietly offers a cup of water, no wounds or spectacle, supportive gentle faces. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

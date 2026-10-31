@@ -1,0 +1,71 @@
+{
+  "id": 73,
+  "title": "Jetro Ensina a Dividir as Tarefas",
+  "subtitle": "Uma tarefa grande pede uma equipe",
+  "reference": "Êxodo 18",
+  "description": "Jetro observa o dia de Moisés e oferece um conselho que beneficia todo o povo.",
+  "testament": "antigo",
+  "cover": "/images/covers/73.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita que trouxe alegria",
+      "paragraphs": [
+        "Jetro, sogro de Moisés, ouviu o que Deus havia feito por Israel e foi encontrá-lo no deserto. Levou consigo Zípora e os filhos de Moisés. O reencontro reuniu família e lembranças de uma longa caminhada. Moisés saiu para recebê-lo, mostrou respeito e contou os acontecimentos da saída do Egito.",
+        "Jetro se alegrou com a libertação do povo. Reconheceu a grandeza do Senhor e participou de uma refeição com Arão e os líderes de Israel. Antes de oferecer qualquer conselho, ouviu a história. A visita começou com acolhimento e gratidão, criando espaço para uma conversa importante sobre a vida no acampamento.",
+        "No dia seguinte, Jetro observou Moisés trabalhando. Desde a manhã até a tarde, as pessoas ficavam diante dele para resolver questões. Havia dúvidas, desacordos e necessidades de orientação. Moisés se sentava para ouvir cada caso, enquanto uma fila de gente aguardava. A tarefa era necessária, mas sua organização cobrava um preço alto."
+      ],
+      "image": "73/part1.webp",
+      "alt": "Moisés recebe Jetro no acampamento."
+    },
+    {
+      "heading": "O conselho de quem observa",
+      "paragraphs": [
+        "Jetro perguntou por que Moisés fazia aquilo sozinho. Moisés explicou que o povo vinha buscar orientação de Deus e resolver suas questões. Ele também ensinava os caminhos e as instruções do Senhor. Sua intenção era boa, mas a boa intenção não tornava seu tempo e suas forças ilimitados.",
+        "Jetro disse que aquela forma de trabalhar acabaria cansando tanto Moisés quanto o povo. O problema não estava apenas no líder exausto. Quem passava o dia esperando também sofria com a demora. Um cuidado organizado de maneira melhor poderia beneficiar os dois lados: quem ajudava e quem precisava ser ouvido.",
+        "O conselho foi dividir as responsabilidades com pessoas capazes, que respeitassem a Deus, fossem confiáveis e não buscassem vantagem desonesta. Elas poderiam atender grupos de tamanhos diferentes e resolver as questões mais simples. Os casos difíceis chegariam a Moisés. Assim, ele continuaria ensinando e orientando sem carregar sozinho todas as decisões."
+      ],
+      "image": "73/part2.webp",
+      "alt": "Jetro observa a longa fila diante de Moisés."
+    },
+    {
+      "heading": "Escutar também é liderar",
+      "paragraphs": [
+        "Jetro apresentou o conselho reconhecendo a direção de Deus sobre aquela escolha. Não tentou tomar o lugar de Moisés nem transformar a visita numa disputa de autoridade. Sua preocupação era que o povo encontrasse paz e que o líder conseguisse cumprir sua responsabilidade sem se desgastar além do que podia suportar.",
+        "Moisés ouviu e colocou a orientação em prática. Escolheu pessoas capazes para compartilhar o trabalho. As questões comuns passaram a ser resolvidas por esses responsáveis, enquanto as mais difíceis eram levadas a ele. A mudança não diminuiu a importância de sua missão; tornou possível cuidar melhor de uma comunidade tão grande.",
+        "Depois, Jetro voltou para sua terra. Sua visita deixou mais do que uma boa lembrança de família. Trouxe uma maneira mais sábia de organizar o serviço. Moisés mostrou que um líder pode aprender com outra pessoa. Reconhecer um limite e aceitar um bom conselho também são formas de responsabilidade."
+      ],
+      "image": "73/part3.webp",
+      "alt": "Vários responsáveis passam a atender o povo."
+    }
+  ],
+  "lesson": "Fazer tudo sozinho pode cansar quem ajuda e dificultar a vida de quem espera. O conselho de Jetro nos ensina a dividir tarefas com pessoas responsáveis e a ouvir sugestões que melhoram o cuidado. Em casa ou num trabalho em grupo, cada um pode contribuir de acordo com suas possibilidades. Pedir colaboração não é falta de capacidade. É reconhecer que uma equipe bem organizada consegue servir melhor e respeitar os limites de todos.",
+  "question": "Em qual tarefa da sua casa ou de um grupo a divisão de responsabilidades poderia ajudar?",
+  "prayer": "Senhor, dá-me humildade para ouvir bons conselhos e sabedoria para dividir tarefas. Ajuda-nos a trabalhar com honestidade, responsabilidade e respeito. Que ninguém precise carregar tudo sozinho e que nossa organização torne mais fácil cuidar das pessoas que precisam de atenção. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jetro conversa com Moisés sobre dividir as tarefas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Jethro elderly brown-skinned man broad gray beard, warm ochre robe and dark rust headcloth, distinct face from Moses. Scene: Elderly Jethro and Moses converse thoughtfully beside desert tent, small groups of people receiving help in background, warm practical leadership scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés recebe Jetro no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Jethro elderly brown-skinned man broad gray beard, warm ochre robe and dark rust headcloth, distinct face from Moses. Scene: Moses warmly welcomes elderly Jethro at tent entrance with respectful embrace, adult Zipporah and family distant, friendly reunion."
+    },
+    {
+      "role": "part2",
+      "alt": "Jetro observa a longa fila diante de Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Jethro elderly brown-skinned man broad gray beard, warm ochre robe and dark rust headcloth, distinct face from Moses. Scene: Wide camp scene Moses seated listening to two adults while long orderly line waits in shade, Jethro standing thoughtfully nearby, no angry crowd."
+    },
+    {
+      "role": "part3",
+      "alt": "Vários responsáveis passam a atender o povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Jethro elderly brown-skinned man broad gray beard, warm ochre robe and dark rust headcloth, distinct face from Moses. Scene: Several small groups of adult elders calmly listen to families under separate tent shades, Moses and Jethro observe with relief, organized community care."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+18&version=KJV"
+  ]
+}

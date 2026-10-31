@@ -1,0 +1,74 @@
+{
+  "id": 173,
+  "title": "O Altar e a Primeira Festa",
+  "subtitle": "Um começo no meio das ruínas",
+  "reference": "Esdras 3:1–6",
+  "description": "O templo ainda não estava reconstruído quando o povo voltou a se reunir. Entre ruínas e receios, um altar e uma festa marcaram os primeiros passos.",
+  "testament": "antigo",
+  "cover": "/images/covers/173.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Reunidos outra vez",
+      "paragraphs": [
+        "O povo que voltara do exílio começou a morar nas cidades de Judá. Havia muito a organizar: lugares para viver, tarefas para dividir e caminhos para conhecer de novo. Jerusalém ainda carregava as marcas da destruição. O templo não estava pronto, e a vida não tinha voltado a ser como antes de um dia para o outro.",
+        "Quando chegou o sétimo mês, as pessoas se reuniram em Jerusalém. O livro de Esdras descreve a união delas como a de um só povo. Vinham de lugares diferentes, mas tinham um propósito em comum. Queriam retomar a adoração a Deus e aprender a viver novamente como uma comunidade ligada à sua história e à sua palavra.",
+        "Jesua, filho de Jozadaque, estava ali com outros sacerdotes. Zorobabel, filho de Sealtiel, também participava com seus parentes. Eles assumiram uma tarefa importante: levantar o altar do Deus de Israel. Seguiram as orientações da Lei de Moisés. Antes de erguer um grande edifício, começaram por aquilo que podiam preparar naquele momento."
+      ],
+      "image": "173/part1.webp",
+      "alt": "Jesua e Zorobabel organizam o trabalho entre as pedras de Jerusalém."
+    },
+    {
+      "heading": "Coragem para o primeiro passo",
+      "paragraphs": [
+        "O altar foi colocado sobre sua base. Ao redor, ainda faltava muita coisa para reconstruir. O livro não esconde que havia medo das populações vizinhas. Os que haviam voltado não eram pessoas sem preocupações; estavam aprendendo a viver numa situação difícil. Mesmo assim, encontraram um primeiro passo concreto que podiam dar juntos.",
+        "Começaram a oferecer a Deus os sacrifícios da manhã e da tarde, conforme a prática de Israel naquele tempo. Os sacerdotes cuidavam do altar, seguindo as orientações recebidas. A cada novo dia, a adoração reunia o povo ao redor de uma lembrança preciosa: pertenciam ao Senhor e podiam procurá-lo naquele lugar de recomeço.",
+        "O templo ainda não tinha seus alicerces lançados. Essa informação torna o começo ainda mais especial. Eles não esperaram ver todas as paredes prontas para se reunir diante de Deus. Havia uma obra grande por fazer, mas a gratidão e a oração já podiam ocupar um lugar na rotina que estava sendo reconstruída."
+      ],
+      "image": "173/part2.webp",
+      "alt": "Um altar preparado marca o primeiro passo da adoração."
+    },
+    {
+      "heading": "Uma festa no recomeço",
+      "paragraphs": [
+        "Naqueles dias, o povo celebrou a Festa das Cabanas, seguindo o que estava escrito. A festa ajudava Israel a lembrar sua história e o cuidado de Deus durante a caminhada. Mesmo depois de viver tanto tempo longe, ainda havia memórias para recuperar, ensinamentos para ouvir e motivos para se reunir como uma comunidade.",
+        "Depois da festa, a adoração continuou nos dias marcados e nas ofertas voluntárias. Não foi somente um encontro que terminou quando as pessoas voltaram para casa. Uma rotina começou a se formar. O altar levantado no meio da reconstrução indicava que o relacionamento com Deus também precisava de atenção, junto das outras tarefas necessárias.",
+        "Jerusalém não ficou pronta naquele mês. A construção enfrentaria dificuldades e demoraria. Mas o povo já havia descoberto algo sobre os recomeços: uma tarefa imensa pode começar com um passo possível. Naquele lugar ainda incompleto, pessoas se encontraram, lembraram quem eram e reservaram tempo para adorar. O primeiro começo tinha acontecido antes de a última pedra chegar."
+      ],
+      "image": "173/part3.webp",
+      "alt": "Famílias participam da festa em Jerusalém durante o recomeço."
+    }
+  ],
+  "lesson": "Às vezes esperamos que tudo esteja perfeito para começar uma coisa boa. Mas uma rotina de cuidado pode nascer de um passo pequeno: separar um momento para conversar, agradecer pela refeição ou ajudar a organizar a casa. Não precisamos realizar todas as tarefas de uma vez. Com companhia e orientação, podemos escolher um começo possível e continuar aprendendo enquanto o restante ainda está sendo preparado.",
+  "question": "Qual pequeno começo ajudaria sua família a ter um momento de gratidão juntos?",
+  "prayer": "Deus, obrigado por estar conosco também nos dias incompletos. Ajuda nossa família a encontrar tempo para agradecer e conversar contigo. Dá-nos paciência para as tarefas demoradas e coragem para começar pelo passo que podemos dar hoje, com cuidado e união. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR03.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O povo se reúne perto do altar enquanto o templo ainda espera reconstrução.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Hopeful ancient Jerusalem gathering around a simple stone altar in a ruined temple courtyard, Jeshua and Zerubbabel with families, intact distant hills, no animal sacrifice shown, warm sunrise. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban. Zerubbabel has brown skin, short black beard, teal robe and brown cloak."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesua e Zorobabel organizam o trabalho entre as pedras de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeshua and Zerubbabel discuss placement of a modest stone altar with adult workers in a ruined courtyard, families watch from a safe distance, careful hands and stone textures. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban. Zerubbabel has brown skin, short black beard, teal robe and brown cloak."
+    },
+    {
+      "role": "part2",
+      "alt": "Um altar preparado marca o primeiro passo da adoração.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Quiet morning at a newly assembled simple stone altar with faint smoke and no animals or people harmed, Jeshua leads adults in prayer with open hands, unfinished foundations clearly visible. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban."
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias participam da festa em Jerusalém durante o recomeço.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Jerusalem families share a peaceful festival meal under leafy temporary shelters near ruins, warm lantern and sunset glow, baskets of fruit and bread, grateful expressions. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

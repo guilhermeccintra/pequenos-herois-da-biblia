@@ -1,0 +1,71 @@
+{
+  "id": 278,
+  "title": "A Pérola Preciosa",
+  "subtitle": "O olhar de quem reconhece um grande valor",
+  "reference": "Mateus 13:45–46",
+  "description": "Um comerciante que procura boas pérolas encontra uma de valor excepcional e faz uma escolha decisiva.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma busca cuidadosa",
+      "paragraphs": [
+        "Jesus contou uma parábola sobre um negociante que procurava boas pérolas. Aquele homem não estava simplesmente passando por um lugar quando encontrou algo por acaso. Sua atividade envolvia buscar, observar e reconhecer valor. Ele sabia que pérolas podiam ser diferentes umas das outras e prestava atenção ao que encontrava durante sua procura.",
+        "Uma pérola era pequena o bastante para caber na mão, mas podia ter grande valor. Seu brilho não vinha do tamanho de um palácio nem do peso de um bloco de pedra. A imagem convidava os ouvintes a pensar numa beleza que precisava ser percebida com cuidado. Nem tudo que importa impressiona pela quantidade ou pelo volume.",
+        "Jesus comparou o Reino dos céus àquela busca. Seus ouvintes podiam reconhecer no comerciante a atitude de alguém que procurava algo bom de verdade. Não bastava aceitar qualquer coisa só porque estava diante dos olhos. A história começava com atenção e desejo de encontrar aquilo que merecia confiança e uma escolha importante."
+      ],
+      "alt": "Um comerciante examina pérolas com atenção.",
+      "image": "278/part1.webp"
+    },
+    {
+      "heading": "Uma pérola diferente",
+      "paragraphs": [
+        "Em sua procura, o negociante encontrou uma pérola de grande valor. A breve parábola não descrevia todas as outras que ele havia examinado. Também não dizia quantas viagens fizera ou quanto tempo demorara. O centro estava no momento em que reconheceu aquela pérola como algo especial, capaz de mudar o rumo de suas decisões.",
+        "Ele não precisava que a pérola se tornasse enorme para entender sua importância. Seu olhar atento percebeu o valor que já estava ali. A descoberta dava sentido à busca. Agora havia uma diferença entre continuar juntando possibilidades e responder ao que encontrara. O comerciante decidiu que aquela pérola valia mais que os bens que possuía.",
+        "Jesus usava essa decisão para falar do Reino. Reconhecer sua preciosidade não significava encontrar mais um objeto para guardar ao lado de muitos outros. Era perceber algo capaz de reorganizar o conjunto da vida. A presença de Deus, anunciada por Jesus, pedia uma resposta inteira de quem compreendia o bem que estava recebendo."
+      ],
+      "alt": "O comerciante observa uma pérola de grande valor na palma da mão.",
+      "image": "278/part2.webp"
+    },
+    {
+      "heading": "Uma escolha por inteiro",
+      "paragraphs": [
+        "O negociante foi, vendeu tudo o que tinha e comprou aquela pérola. A história termina sem acrescentar outra aventura. A decisão já revela o que Jesus queria ensinar: o homem reconheceu um valor tão grande que se dispôs a reorganizar seus bens por causa dele. Sua procura resultou numa resposta concreta, não apenas numa admiração passageira.",
+        "Essa comparação não ensina que alguém possa comprar o amor de Deus com dinheiro ou merecê-lo por uma troca. O Reino é mais precioso que aquilo que usamos para medir riqueza. Jesus convidava seus ouvintes a reconhecer esse valor e a deixar que ele orientasse suas escolhas, seus desejos e o modo de viver.",
+        "A pérola cabia numa mão, mas sua descoberta ocupou toda a decisão do comerciante. Assim, a parábola continuava pequena nas palavras e grande na pergunta que deixava. O que vale mais para nós? Ao contar essa história, Jesus oferecia aos ouvintes uma imagem para pensar na busca pelo bem e na alegria de reconhecer o Reino dos céus."
+      ],
+      "alt": "O comerciante guarda com cuidado a pérola que escolheu.",
+      "image": "278/part3.webp"
+    }
+  ],
+  "lesson": "Buscar o que é bom pede atenção. Nem sempre a escolha mais valiosa é a que traz mais aplausos ou objetos. A parábola convida a reconhecer o Reino de Deus como um bem incomparável e deixar que ele oriente nossas prioridades. Podemos aprender a valorizar verdade, generosidade e amizade, recusando vantagens que exigiriam ferir alguém ou abandonar aquilo em que acreditamos.",
+  "question": "Qual coisa valiosa, que não se compra com dinheiro, você quer cuidar melhor?",
+  "prayer": "Deus, ensina-me a reconhecer o que tem verdadeiro valor. Ajuda-me a buscar teu Reino com atenção e alegria. Que minhas escolhas protejam a verdade, a amizade e a generosidade, mesmo quando outras coisas parecerem mais chamativas. Guia meu coração para o bem. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/278.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um comerciante admira uma pérola preciosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable illustration mature merchant olive skin neatly trimmed dark beard deep indigo linen robe cream turban holding one luminous natural pearl in open palm, ancient market stall with cloth-lined small wooden trays, warm cinematic light, no text. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O comerciante procura boas pérolas no mercado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same merchant indigo robe cream turban carefully examining small pearls on dark woven cloth at first-century market stall, attentive face, wooden trays and pottery, medium side view, no modern jewelry boxes. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma única pérola chama a atenção do comerciante.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Extreme detailed close-up natural round pearl in open olive-skinned adult palm, indigo linen cuff, merchant delighted face softly out of focus, gentle reflected sunlight, no magical glow. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "O comerciante guarda a pérola com cuidado.",
+      "prompt": "Use case: illustration-story. New landscape 3:2 1536x1024 illustration for a family Bible storybook. Match warm highly detailed cinematic 3D rendering and the same mature merchant with neatly trimmed dark beard, indigo robe and cream turban from reference. A NEW sparse quiet stone room. He sits contentedly at a BARE rustic wooden table, placing ONE precious natural pearl into ONE small simple linen-lined wooden box. There are NO other pearls, no coins, no jewelry, no trays and no treasure anywhere in the scene: he has sold his other possessions to acquire this one pearl. Medium side angle, gentle window light and subdued stone background. Preserve his face and clothes only from reference, do not copy the crowded market stall. No text, logos or modern items."
+    }
+  ]
+}

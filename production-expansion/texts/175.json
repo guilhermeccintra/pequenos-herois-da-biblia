@@ -1,0 +1,75 @@
+{
+  "id": 175,
+  "title": "A Obra Volta a Crescer",
+  "subtitle": "Uma carta, uma busca e uma resposta",
+  "reference": "Esdras 5–6:18",
+  "description": "A construção do templo encontra novas perguntas. Uma busca nos registros do reino confirma a autorização recebida e permite que o trabalho continue.",
+  "testament": "antigo",
+  "cover": "/images/covers/175.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "As mãos voltam ao trabalho",
+      "paragraphs": [
+        "A construção do templo de Jerusalém havia enfrentado dificuldades e ficado interrompida. O tempo passava, mas a obra não estava completa. Então os profetas Ageu e Zacarias anunciaram a mensagem de Deus ao povo de Judá. Suas palavras ajudaram os moradores a olhar outra vez para a tarefa que precisavam retomar juntos.",
+        "Zorobabel e Jesua se levantaram para continuar a construção. Os profetas estavam com eles, apoiando o trabalho. As mãos voltaram a cuidar de pedras e madeira. Recomeçar depois de uma interrupção podia parecer difícil, mas o templo não seria terminado apenas com lembranças do que já tinha sido feito. Era necessário voltar à tarefa.",
+        "Foi nessa época que chegaram Tatenai, governador da região, e seus companheiros. Eles viram a obra e fizeram perguntas. Queriam saber quem havia autorizado a construção e quais eram os nomes dos responsáveis. Os líderes precisaram explicar o que estavam fazendo e apresentar a história que sustentava aquela decisão."
+      ],
+      "image": "175/part1.webp",
+      "alt": "Tatenai conversa com os responsáveis no local da construção."
+    },
+    {
+      "heading": "A procura por uma ordem antiga",
+      "paragraphs": [
+        "Os responsáveis contaram que serviam ao Deus dos céus e da terra. Explicaram que o antigo templo havia sido destruído e o povo levado para a Babilônia. Depois, o rei Ciro autorizara a reconstrução e devolvera os utensílios. A obra que Tatenai via não era uma ideia surgida sem história nem permissão.",
+        "Tatenai enviou uma carta ao rei Dario relatando o que havia visto e ouvido. Pediu que fosse feita uma busca nos arquivos do reino, para verificar se Ciro realmente havia dado aquela ordem. Enquanto a resposta era aguardada, os líderes puderam continuar trabalhando. Esdras descreve o cuidado de Deus sobre eles durante esse período.",
+        "Dario mandou procurar os registros. Um documento foi encontrado em Acmetá, na província da Média. Ali estava a ordem de Ciro sobre o templo de Jerusalém: a casa deveria ser reconstruída, e os objetos de ouro e prata deveriam voltar ao seu lugar. Uma decisão antiga, preservada por escrito, esclarecia a situação presente."
+      ],
+      "image": "175/part2.webp",
+      "alt": "Um escriba encontra o documento que confirma a autorização de Ciro."
+    },
+    {
+      "heading": "Um templo e uma celebração",
+      "paragraphs": [
+        "A resposta de Dario confirmou a continuidade da obra. Ele orientou Tatenai e seus companheiros a deixarem os responsáveis construir. Também determinou que recursos fossem fornecidos para o trabalho e para o serviço do templo. A pergunta que havia chegado ao canteiro recebeu uma resposta concreta, com instruções para não interromper a construção.",
+        "Os líderes seguiram trabalhando, encorajados pela mensagem de Ageu e Zacarias. O templo finalmente ficou pronto no sexto ano do reinado de Dario. A conclusão não apaga os anos de dificuldade que vieram antes. Mostra, porém, que a interrupção não precisou ser o fim daquela tarefa iniciada com tanta esperança.",
+        "O povo celebrou a dedicação da casa de Deus com alegria. Sacerdotes e levitas foram organizados para o serviço, conforme as orientações de sua Lei. A obra tinha sido feita com materiais, mãos e decisões, mas sua finalidade era reunir a comunidade em adoração. Depois das perguntas, das cartas e da espera, Jerusalém tinha novamente um templo concluído."
+      ],
+      "image": "175/part3.webp",
+      "alt": "Sacerdotes, levitas e famílias se reúnem para a dedicação do templo."
+    }
+  ],
+  "lesson": "Quando surge uma dúvida sobre uma tarefa, procurar informações pode ser melhor do que discutir sem ouvir. Os líderes explicaram a história da obra, e os registros ajudaram a esclarecer o que havia sido autorizado. Podemos aprender a guardar combinados importantes, pedir orientação e responder com respeito. Persistir não é ignorar perguntas; às vezes é continuar com paciência enquanto buscamos uma resposta confiável.",
+  "question": "Em que situação conferir um combinado ou pedir uma explicação pode evitar uma briga?",
+  "prayer": "Deus, dá-nos paciência quando uma tarefa encontra dificuldades. Ajuda-nos a ouvir perguntas, explicar com respeito e buscar informações verdadeiras. Obrigado pelas pessoas que encorajam o trabalho bom. Ensina nossa família a perseverar com honestidade, cuidado e disposição para aprender. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR05.htm",
+    "https://ebible.org/engwebp/EZR06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "O povo celebra o templo concluído depois de um longo trabalho.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Newly completed modest Second Temple in ancient Jerusalem, clean pale stone facade, people joyfully gathered in the courtyard, Zerubbabel and Jeshua near front, no modern architectural details, golden light. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban. Zerubbabel has brown skin, short black beard, teal robe and brown cloak."
+    },
+    {
+      "role": "part1",
+      "alt": "Tatenai conversa com os responsáveis no local da construção.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Tattenai politely questions Zerubbabel and Jeshua at an active ancient construction site, adult workers and beams in background, serious calm discussion, no threatening weapons. Jeshua has olive brown skin, long dark beard, cream linen ceremonial robe and simple white turban. Zerubbabel has brown skin, short black beard, teal robe and brown cloak. Tattenai is a middle aged Persian governor with olive skin, neat beard and dark blue robe."
+    },
+    {
+      "role": "part2",
+      "alt": "Um escriba encontra o documento que confirma a autorização de Ciro.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Persian scribe in a warm archive room carefully examines an unlettered parchment scroll among neatly stored rolls and clay jars, beam of sunlight through high window, attentive face. "
+    },
+    {
+      "role": "part3",
+      "alt": "Sacerdotes, levitas e famílias se reúnem para a dedicação do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Peaceful dedication celebration at completed ancient Second Temple, families and priests gathered with musicians, thankful faces, afternoon light, no sacrifices or blood shown. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

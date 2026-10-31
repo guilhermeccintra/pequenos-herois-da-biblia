@@ -1,0 +1,71 @@
+{
+  "id": 93,
+  "title": "Miriã, Arão e a Humildade",
+  "subtitle": "A humildade troca a disputa pelo cuidado",
+  "reference": "Números 12",
+  "description": "Miriã e Arão falam contra Moisés, e ele responde pedindo a cura de sua irmã.",
+  "testament": "antigo",
+  "cover": "/images/covers/93.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras que feriram a confiança",
+      "paragraphs": [
+        "Miriã e Arão falaram contra Moisés por causa da mulher cuxita com quem ele havia se casado. Em seguida, questionaram sua posição, lembrando que Deus também falava por meio deles. A conversa misturava crítica à família de Moisés com uma disputa sobre importância. A origem de sua esposa não justificava desprezo.",
+        "A Bíblia apresenta Moisés como alguém muito humilde. Ele não aparece tentando provar que era superior aos irmãos ou respondendo com uma competição de palavras. O Senhor ouviu o que havia sido dito e chamou os três à tenda do encontro. A situação precisava ser enfrentada com verdade.",
+        "Miriã e Arão também tinham participado de momentos importantes da história de Israel. Isso não significava que suas atitudes fossem sempre corretas. Pessoas que já fizeram muito bem ainda precisam aprender a lidar com comparação, orgulho e ressentimento. A responsabilidade recebida de Deus não dispensa ninguém de cuidar da maneira como trata os outros."
+      ],
+      "image": "93/part1.webp",
+      "alt": "Miriã e Arão conversam sobre Moisés."
+    },
+    {
+      "heading": "Um erro reconhecido",
+      "paragraphs": [
+        "Na entrada da tenda, o Senhor desceu numa coluna de nuvem e chamou Miriã e Arão. Explicou a relação especial que tinha com Moisés, um servo fiel a quem falava de maneira direta. O questionamento dos irmãos não era uma simples conversa para organizar tarefas; havia desrespeito e uma disputa que feriam a confiança.",
+        "Quando a nuvem se afastou, Miriã estava com uma doença de pele, descrita no texto como muito clara. Arão percebeu a situação e reconheceu que ambos tinham agido de maneira insensata. Pediu a Moisés que não lhes fosse atribuída aquela culpa e suplicou por sua irmã.",
+        "É uma passagem específica e difícil. Ela não autoriza dizer que toda doença acontece porque alguém fez algo errado. Aqui, a narrativa relaciona o acontecimento àquela situação concreta. O que podemos acompanhar é a mudança de Arão: em vez de continuar disputando importância, passou a reconhecer o erro e a pedir ajuda."
+      ],
+      "image": "93/part2.webp",
+      "alt": "Arão reconhece o erro diante de Moisés."
+    },
+    {
+      "heading": "Uma oração pela irmã",
+      "paragraphs": [
+        "Moisés clamou a Deus pedindo que curasse Miriã. Sua oração foi curta e direta. A pessoa que havia sido alvo das críticas agora intercedia por quem o ferira. Ele não aproveitou a fragilidade da irmã para humilhá-la nem transformou o momento numa oportunidade de mostrar que tinha razão.",
+        "Miriã permaneceu fora do acampamento por sete dias, conforme a orientação recebida. O povo não partiu durante esse tempo. Esperou até que ela pudesse ser recebida novamente. A história guarda tanto a consequência do erro quanto o cuidado de uma comunidade que não continuou a viagem deixando-a para trás.",
+        "Depois, os israelitas seguiram para outra região. Miriã voltou a caminhar com eles, e a família de Moisés carregou uma lição sobre humildade. Reconhecer uma responsabilidade diferente não diminui nosso valor. E quando uma relação é ferida, a sinceridade, a oração e o cuidado podem abrir espaço para um recomeço."
+      ],
+      "image": "93/part3.webp",
+      "alt": "Miriã volta a caminhar com a comunidade."
+    }
+  ],
+  "lesson": "Comparar posições pode nos fazer esquecer o valor das pessoas. Miriã e Arão precisaram reconhecer suas palavras, e Moisés escolheu interceder pela irmã. Podemos aprender a admitir quando ferimos alguém e a não usar a fragilidade do outro como oportunidade de vingança. Isso não apaga a necessidade de limites e reparação. A humildade ajuda a trocar a disputa por uma conversa sincera e por atitudes de cuidado.",
+  "question": "Como você pode reconhecer uma palavra injusta que disse e procurar reparar a relação?",
+  "prayer": "Deus de paz, ajuda-me a não medir meu valor pela posição de outra pessoa. Ensina-me a reconhecer palavras que ferem, pedir perdão e cuidar das relações. Dá-me humildade para ouvir e sabedoria para buscar reconciliação com respeito e sinceridade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés ora enquanto Arão se preocupa com Miriã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Miriam elderly olive-brown woman silver braid teal headscarf cream long dress terracotta sash teal shawl. Scene: Moses prays with open hands near desert tent, Aaron concerned beside him and elderly Miriam seated safely in shade, no visible lesions or medical distress, compassionate scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Miriã e Arão conversam sobre Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Miriam elderly olive-brown woman silver braid teal headscarf cream long dress terracotta sash teal shawl. Scene: Elderly Miriam and Aaron in serious private conversation near tents, thoughtful troubled faces, Moses far in background, no mocking gestures."
+    },
+    {
+      "role": "part2",
+      "alt": "Arão reconhece o erro diante de Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Miriam elderly olive-brown woman silver braid teal headscarf cream long dress terracotta sash teal shawl. Scene: Aaron speaks humbly to Moses at tent entrance with open apologetic hands, two men only, soft sober daylight."
+    },
+    {
+      "role": "part3",
+      "alt": "Miriã volta a caminhar com a comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard cream robe muted indigo mantle. Miriam elderly olive-brown woman silver braid teal headscarf cream long dress terracotta sash teal shawl. Scene: Elderly Miriam healthy and dignified rejoins waiting family caravan, Moses and Aaron welcome her warmly, hopeful morning, no disease markings."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+12&version=KJV"
+  ]
+}

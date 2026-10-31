@@ -1,0 +1,71 @@
+{
+  "id": 300,
+  "title": "Um Café da Manhã à Beira do Mar",
+  "subtitle": "Jesus oferece alimento e um recomeço a Pedro",
+  "reference": "João 21:1–19",
+  "description": "Depois de uma noite de pesca, os discípulos encontram Jesus na praia e Pedro recebe uma missão de cuidado.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.21.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma voz na praia",
+      "paragraphs": [
+        "Depois da ressurreição, sete discípulos estavam juntos perto do mar de Tiberíades. Pedro decidiu pescar, e os outros foram com ele. Trabalharam durante a noite, mas não pegaram nada. Quando a manhã começou, havia alguém na praia. Era Jesus, embora eles ainda não o reconhecessem. A voz chegou até o barco perguntando se tinham algum peixe.",
+        "Eles responderam que não. Jesus orientou que lançassem a rede do lado direito do barco. Os discípulos fizeram isso e encontraram tantos peixes que mal conseguiam puxá-la. Então o discípulo amado disse a Pedro que aquele homem era o Senhor. A descoberta transformou uma manhã de cansaço num encontro cheio de alegria.",
+        "Ao ouvir que era Jesus, Pedro vestiu sua roupa de cima e se lançou à água para chegar até ele. Os outros vieram no barco, arrastando a rede. Não estavam longe da praia. A presença do Mestre vivo os esperava na margem, depois de uma noite em que seu trabalho parecera não produzir resultado algum."
+      ],
+      "alt": "Os discípulos reconhecem Jesus na praia depois da pesca.",
+      "image": "300/part1.webp"
+    },
+    {
+      "heading": "Pão, peixe e companhia",
+      "paragraphs": [
+        "Quando chegaram à terra, encontraram uma pequena fogueira de brasas, com peixe sobre ela e pão. Jesus já havia preparado alimento. Pediu que trouxessem também alguns dos peixes recém-pescados. Pedro puxou a rede para a margem. Havia cento e cinquenta e três peixes grandes, e, apesar de tantos, a rede não se rompeu.",
+        "Jesus os convidou para comer. Nenhum deles precisava perguntar quem era, pois sabiam que estavam com o Senhor. Ele pegou o pão e o entregou aos amigos, fazendo o mesmo com o peixe. A ressurreição aparecia ali numa refeição simples, junto da água, compartilhada com pessoas cansadas e felizes por reencontrá-lo.",
+        "O evangelho registra aquele como o terceiro encontro de Jesus ressuscitado com o grupo de discípulos. Não havia um grande banquete de palácio. Havia alimento, brasas e companhia. O Mestre continuava cuidando de necessidades concretas. Depois da noite de trabalho, seus amigos recebiam um café da manhã que também aquecia a esperança."
+      ],
+      "alt": "Jesus oferece pão e peixe aos discípulos junto às brasas.",
+      "image": "300/part2.webp"
+    },
+    {
+      "heading": "Amar e cuidar",
+      "paragraphs": [
+        "Depois da refeição, Jesus perguntou a Pedro se ele o amava. Pedro respondeu que sim, lembrando que o Senhor conhecia seu amor. Jesus lhe confiou uma tarefa: cuidar de seus cordeiros. A conversa voltou ao mesmo ponto uma segunda vez, e Pedro reafirmou seu amor. Novamente recebeu o chamado para cuidar do rebanho de Jesus.",
+        "Na terceira pergunta, Pedro ficou triste. Respondeu que Jesus sabia todas as coisas e conhecia seu amor. O Senhor repetiu a missão de alimentar suas ovelhas. O discípulo que o negara três vezes recebia agora um chamado renovado. Seu amor deveria aparecer no cuidado pelas pessoas que Jesus lhe confiaria, com responsabilidade e fidelidade.",
+        "Jesus também indicou que a caminhada de Pedro teria dificuldades no futuro e o chamou a segui-lo. O recomeço não era uma promessa de vida fácil. Era uma oportunidade real de continuar junto do Mestre. Na praia, o passado doloroso não teve a última palavra. Havia pão compartilhado, amor reconhecido e uma missão de cuidado pela frente."
+      ],
+      "alt": "Jesus conversa com Pedro à beira do mar e lhe confia uma missão.",
+      "image": "300/part3.webp"
+    }
+  ],
+  "lesson": "Um erro sério não precisa encerrar toda a nossa história. Jesus ofereceu a Pedro um recomeço ligado à responsabilidade de cuidar. Pedir perdão e voltar ao caminho do bem envolve atitudes, não apenas alívio. Podemos aprender com o que aconteceu, aceitar ajuda e demonstrar amor de maneira concreta. O cuidado recebido se torna também um convite para olhar pelas necessidades de outras pessoas.",
+  "question": "Que atitude de cuidado pode mostrar que você quer recomeçar depois de um erro?",
+  "prayer": "Jesus, obrigado porque teu amor abre caminhos de recomeço. Ajuda-me a reconhecer meus erros e a aprender com eles. Que eu não fique preso à vergonha nem esqueça a responsabilidade de mudar. Ensina-me a demonstrar meu amor cuidando das pessoas que estão perto. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/300.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus oferece café da manhã aos amigos na praia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Risen Jesus cream tunic terracotta mantle beside small safe charcoal cooking fire with fish and round bread on Galilee shore at sunrise, Peter curly dark hair beard teal tunic and adult disciples nearby, warm joyful breakfast, detailed cinematic 3D."
+    },
+    {
+      "role": "part1",
+      "alt": "Os discípulos puxam a rede ao reconhecer Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide dawn view first-century wooden fishing boat close to Galilee shore, adult disciples hauling full net, Peter teal tunic standing excitedly at bow looking toward Jesus cream tunic terracotta mantle on shore, no jumping action no nudity."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus compartilha pão perto das brasas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Closer scene Jesus cream tunic terracotta mantle handing round bread to seated adult disciple, small charcoal fire with cooked fish safely in foreground, Peter teal robe and another adult nearby, sunrise sea background."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus e Pedro conversam à beira do mar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Intimate eye-level Jesus cream tunic terracotta mantle speaking gently with Peter teal tunic brown shawl on quiet lakeshore, Peter hand over heart thoughtful relieved expression, morning light, no other people foreground."
+    }
+  ]
+}

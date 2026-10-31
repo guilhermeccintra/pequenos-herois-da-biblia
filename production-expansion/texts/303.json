@@ -1,0 +1,71 @@
+{
+  "id": 303,
+  "title": "Uma Mesa para Compartilhar",
+  "subtitle": "Aprender, repartir e viver juntos",
+  "reference": "Atos 2:42–47",
+  "description": "Os primeiros seguidores de Jesus descobrem que a fé também se vive à mesa. Aprendem, oram e repartem seus recursos para que ninguém seja esquecido.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma comunidade começa",
+      "paragraphs": [
+        "Depois de Pentecostes, muitas pessoas passaram a seguir Jesus. Elas traziam experiências, perguntas e necessidades diferentes. Tornar-se uma comunidade não significava saber tudo de repente. Os novos discípulos se dedicavam ao ensino dos apóstolos. Queriam conhecer melhor a mensagem que haviam recebido e entender como ela podia orientar a vida de cada dia.",
+        "Também se reuniam para orar e partir o pão. Atos descreve pessoas que procuravam estar juntas, em vez de guardar a fé como um assunto isolado. Havia espaço para escutar e para aprender. A companhia dos outros ajudava cada um a recordar que agora fazia parte de uma família de fé.",
+        "O relato fala de admiração diante dos sinais realizados pelos apóstolos. A comunidade reconhecia o agir de Deus em seu meio. Mas sua vida não era feita apenas de acontecimentos extraordinários. O ensino, as orações e as refeições mostravam uma atenção constante. Havia coisas importantes para viver nos dias que pareciam comuns."
+      ],
+      "image": "303/part1.webp",
+      "alt": "Novos discípulos sentados em roda escutam um apóstolo com um rolo das Escrituras em uma sala de pedra."
+    },
+    {
+      "heading": "O que temos pode ajudar",
+      "paragraphs": [
+        "Os que criam permaneciam unidos e compartilhavam seus bens. Algumas pessoas vendiam propriedades e outros recursos para atender às necessidades que surgiam. A pergunta não era apenas quanto cada um possuía. Era também quem precisava de ajuda. O que uma pessoa tinha podia se tornar alimento, abrigo ou cuidado para outra.",
+        "Não se tratava de oferecer sobras sem olhar para quem as receberia. O relato diz que a distribuição acontecia conforme a necessidade de cada um. Isso exigia atenção às pessoas reais. Uma família podia precisar mais em determinado momento. Outra podia ajudar. A comunidade aprendia a transformar generosidade em cuidado concreto.",
+        "Partilhar não fazia desaparecer a responsabilidade. Era preciso perceber as necessidades e usar os recursos com atenção. Quando a Bíblia descreve aqueles primeiros cristãos, destaca uma disposição de não deixar o próximo sozinho. A fé em Jesus se tornava visível no modo como tratavam o que possuíam e as pessoas com quem conviviam."
+      ],
+      "image": "303/part2.webp",
+      "alt": "Duas famílias entregam cestos de alimento a uma viúva idosa, com gestos respeitosos, sem humilhação nem ostentação."
+    },
+    {
+      "heading": "Alegria ao redor da mesa",
+      "paragraphs": [
+        "Dia após dia, os discípulos se encontravam no templo. Também partiam o pão em suas casas e faziam refeições com alegria e simplicidade de coração. As casas se tornavam lugares de encontro. Uma mesa podia acolher mais que pratos: podia acolher uma conversa, uma oração e a presença de alguém que precisava de companhia.",
+        "Eles louvavam a Deus, e sua maneira de viver era vista pelas pessoas ao redor. O texto não diz que nunca enfrentariam dificuldades. Outros capítulos de Atos mostram problemas que precisaram resolver. Aqui, porém, vemos o começo de um aprendizado precioso: pertencer a Jesus também mudava o modo de pertencer uns aos outros.",
+        "A cada dia, o Senhor acrescentava pessoas à comunidade. Novos rostos chegavam àquela história de fé. Havia mais gente para ensinar, conhecer e acolher. A mesa compartilhada lembrava que ninguém precisava trazer uma vida perfeita para começar. Aprender, orar e repartir eram caminhos pelos quais aquela família crescia, um encontro de cada vez."
+      ],
+      "image": "303/part3.webp",
+      "alt": "Adultos e crianças agradecem antes de uma refeição comunitária em um pátio de Jerusalém iluminado por lamparinas."
+    }
+  ],
+  "lesson": "Compartilhar começa quando percebemos uma necessidade. Podemos oferecer companhia a quem está sozinho, separar com a família algo em bom estado para doação ou dividir uma tarefa em casa. Generosidade combina atenção e disposição para participar. À mesa, também podemos repartir cuidado: guardar a distração por alguns minutos e ouvir alguém pode ser um presente importante. Uma comunidade cresce quando cada pessoa encontra espaço para receber ajuda e oferecê-la.",
+  "question": "Que coisa sua família pode compartilhar esta semana: tempo, atenção, uma tarefa ou um recurso?",
+  "prayer": "Deus, obrigado pelas pessoas que nos acolhem. Ensina-nos a perceber quem precisa de companhia e ajuda. Que nossa mesa tenha gratidão, nossa conversa tenha respeito e nossas escolhas tenham generosidade. Ajuda-nos a repartir com alegria e responsabilidade o que recebemos. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/303.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.2"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma comunidade do primeiro século compartilha pão e frutas em mesas simples de um pátio acolhedor, com adultos e crianças sorrindo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Uma comunidade do primeiro século compartilha pão e frutas em mesas simples de um pátio acolhedor, com adultos e crianças sorrindo."
+    },
+    {
+      "role": "part1",
+      "alt": "Novos discípulos sentados em roda escutam um apóstolo com um rolo das Escrituras em uma sala de pedra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Novos discípulos sentados em roda escutam um apóstolo com um rolo das Escrituras em uma sala de pedra."
+    },
+    {
+      "role": "part2",
+      "alt": "Duas famílias entregam cestos de alimento a uma viúva idosa, com gestos respeitosos, sem humilhação nem ostentação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Duas famílias entregam cestos de alimento a uma viúva idosa, com gestos respeitosos, sem humilhação nem ostentação."
+    },
+    {
+      "role": "part3",
+      "alt": "Adultos e crianças agradecem antes de uma refeição comunitária em um pátio de Jerusalém iluminado por lamparinas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Scene: Adultos e crianças agradecem antes de uma refeição comunitária em um pátio de Jerusalém iluminado por lamparinas."
+    }
+  ]
+}

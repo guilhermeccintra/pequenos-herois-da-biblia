@@ -1,0 +1,72 @@
+{
+  "id": 84,
+  "title": "A Balança Justa",
+  "subtitle": "A honestidade cabe em pequenas medidas",
+  "reference": "Levítico 19:35–37; 25:14–17",
+  "description": "Nas trocas e nas compras, Deus ensina o povo a não tirar vantagem de outras pessoas.",
+  "testament": "antigo",
+  "cover": "/images/covers/84.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma medida que precisava ser confiável",
+      "paragraphs": [
+        "Deus deu a Israel orientações que alcançavam até o momento de pesar um produto. A vida em comunidade teria compras, vendas e trocas. Alguém precisaria de grãos, outra pessoa de azeite, e muitas famílias dependeriam dessas relações. Para que todos fossem tratados com justiça, as medidas precisariam ser honestas.",
+        "Moisés recebeu a instrução de que o povo não deveria cometer injustiça nas medidas de comprimento, de peso ou de quantidade. Balanças e pesos deveriam ser corretos. Um objeto pequeno, colocado num dos pratos de uma balança, poderia parecer sem importância. Mas, se fosse adulterado, prejudicaria alguém em cada negociação.",
+        "A pessoa que comprava nem sempre teria como perceber o engano. Poderia levar para casa menos alimento do que havia combinado, acreditando que recebera a quantidade certa. Por isso, a honestidade não deveria depender de ser descoberto. O respeito ao próximo precisava orientar também aquilo que somente o vendedor sabia."
+      ],
+      "image": "84/part1.webp",
+      "alt": "Moisés apresenta o ensino sobre medidas justas."
+    },
+    {
+      "heading": "Justiça dos dois lados",
+      "paragraphs": [
+        "Imagine uma cena que ilustre esse ensino: duas pessoas conferem uma porção de grãos numa balança simples. Ambas conseguem acompanhar a medida, e o acordo é explicado com clareza. Levítico não nomeia essas pessoas; oferece a orientação que torna uma troca assim possível, baseada em confiança e respeito.",
+        "Em outra parte das instruções, Deus ensina que ninguém deve explorar o vizinho ao comprar ou vender terras. O preço deveria considerar os anos de colheita que restavam até o jubileu. As condições do acordo importavam. Não seria justo esconder uma informação importante para obter uma vantagem maior.",
+        "A ordem de não prejudicar o outro era acompanhada do chamado a respeitar a Deus. A adoração não terminava quando a pessoa saía de um lugar de oração. Continuava no mercado, no campo e em qualquer conversa sobre recursos. A maneira de negociar também mostrava o valor dado à vida do próximo."
+      ],
+      "image": "84/part2.webp",
+      "alt": "O vendedor mede a quantidade diante do comprador."
+    },
+    {
+      "heading": "Confiança construída no cotidiano",
+      "paragraphs": [
+        "Uma comunidade precisa de confiança para funcionar. Quando as pessoas sabem que as medidas são corretas, podem trabalhar e trocar sem recear um engano a cada passo. A honestidade protege especialmente quem tem poucos recursos, pois uma pequena perda pode fazer grande diferença no alimento que chega à sua casa.",
+        "Essas orientações não pediam que ninguém deixasse de trabalhar ou vender. Pediam que o trabalho não fosse usado para explorar. Ganhar algo não deveria depender de fazer outra pessoa perder o que lhe era devido. A justiça precisava aparecer tanto nas grandes decisões quanto nos pequenos objetos usados todos os dias.",
+        "A balança justa se torna uma imagem fácil de guardar. Dois lados participam do acordo, e ambos merecem respeito. Para uma criança, esse aprendizado pode começar numa brincadeira, numa troca de figurinhas ou na divisão de materiais. Agir corretamente quando ninguém está conferindo também é uma forma de cuidar da confiança."
+      ],
+      "image": "84/part3.webp",
+      "alt": "Uma troca termina com confiança."
+    }
+  ],
+  "lesson": "A honestidade aparece em pequenas escolhas: explicar uma troca, devolver o que foi emprestado e dividir conforme o combinado. A balança justa nos lembra de não aproveitar uma informação ou uma vantagem para prejudicar alguém. Se percebemos que recebemos mais do que era devido, podemos falar e corrigir. A confiança se constrói quando as pessoas sabem que serão tratadas com respeito, mesmo sem precisar vigiar cada detalhe.",
+  "question": "Como você pode garantir que uma troca ou divisão numa brincadeira seja justa para todos?",
+  "prayer": "Deus justo, ensina-me a agir com honestidade nas pequenas escolhas. Ajuda-me a cumprir combinados, explicar com clareza e corrigir quando percebo um erro. Que eu nunca use uma vantagem para prejudicar alguém e que minhas atitudes construam confiança. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Duas pessoas conferem uma balança com honestidade.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Same adult seller, olive-brown skin, short dark beard, ochre robe and cream headcloth; same adult customer, deeper brown skin, gray beard and muted blue robe. Reference supplies rendering style only. Illustrative ancient marketplace: the grain seller and customer calmly inspect a simple level two-pan bronze balance on a wooden stall. One pan contains wheat, the other plain rounded stone weights. Both men see the measure clearly. Medium view with natural friendly faces, clay jars, grain baskets and woven awning. Moses is absent. No stamped writing on weights or coins."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés apresenta o ensino sobre medidas justas.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. Same adult seller, olive-brown skin, short dark beard, ochre robe and cream headcloth; same adult customer, deeper brown skin, gray beard and muted blue robe. Moses speaks to a small group of adults seated near a simple balance scale and clay grain measures in a desert encampment. The merchant and customer from reference are among the attentive listeners, no buying is happening. Moses gestures toward the level scale as a practical visual aid. New low-angle composition with fabric tents, no Egyptian buildings. Plain wooden staff, no flowering branches."
+    },
+    {
+      "role": "part2",
+      "alt": "O vendedor mede a quantidade diante do comprador.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Same adult seller, olive-brown skin, short dark beard, ochre robe and cream headcloth; same adult customer, deeper brown skin, gray beard and muted blue robe. New close-medium scene at the market stall: the seller carefully levels the top of a filled clay grain measure using a straight wooden stick while the customer watches beside him. Natural hands, clearly visible grain surface and measure rim. Two adult men only, calm attention and warm awning-filtered light. No extra arms, no writing or modern tools. Moses absent."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma troca termina com confiança.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Same adult seller, olive-brown skin, short dark beard, ochre robe and cream headcloth; same adult customer, deeper brown skin, gray beard and muted blue robe. The same seller and customer shake hands beside a tied sack of measured grain and the simple level scale in a shaded ancient courtyard. Equal respectful posture, satisfied natural smiles, a few adult neighbors in distant background. New wider composition with stone arch and potted herbs, no luxury or excessive money. Moses absent."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+19%3A35-37&version=KJV",
+    "https://www.biblegateway.com/passage/?search=Leviticus+25%3A14-17&version=KJV"
+  ]
+}

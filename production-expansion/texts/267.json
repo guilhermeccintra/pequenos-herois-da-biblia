@@ -1,0 +1,71 @@
+{
+  "id": 267,
+  "title": "A Moeda e o Peixe",
+  "subtitle": "Um pequeno sinal de cuidado em Cafarnaum",
+  "reference": "Mateus 17:24–27",
+  "description": "Uma pergunta sobre o imposto do templo leva Pedro a descobrir uma resposta surpreendente de Jesus.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.17.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma pergunta na chegada",
+      "paragraphs": [
+        "Quando Jesus e seus discípulos chegaram a Cafarnaum, alguns cobradores se aproximaram de Pedro. Eles recolhiam uma contribuição destinada ao templo. Queriam saber se o Mestre dele também pagava aquele imposto. Pedro respondeu que sim. Era uma pergunta prática, dessas que aparecem no meio das viagens e interrompem outros planos.",
+        "Depois daquela conversa, Pedro entrou na casa onde Jesus estava. Antes que explicasse o assunto, Jesus lhe fez uma pergunta. Quando os reis da terra cobravam impostos, de quem os recebiam: dos próprios filhos ou das outras pessoas? Pedro conhecia a diferença entre pertencer à família do rei e ser um dos seus súditos.",
+        "Ele respondeu que os impostos eram cobrados das outras pessoas. Jesus explicou que, nesse caso, os filhos estavam livres. A conversa apontava para algo maior que uma moeda: a relação de Jesus com seu Pai. O templo era a casa de Deus, e Jesus era o Filho."
+      ],
+      "alt": "Pedro conversa com cobradores na rua de Cafarnaum.",
+      "image": "267/part1.webp"
+    },
+    {
+      "heading": "Liberdade com consideração",
+      "paragraphs": [
+        "Jesus poderia ter encerrado o assunto ali. Entretanto, não queria que aquela cobrança se tornasse uma barreira desnecessária para as pessoas. Explicou a Pedro que pagariam a contribuição. Sua liberdade de Filho não se transformava em vontade de provocar discussões por qualquer motivo. Ele sabia quando uma questão precisava de firmeza e quando cabia consideração.",
+        "A maneira de conseguir o dinheiro, porém, seria inesperada. Jesus orientou Pedro a ir ao lago, lançar um anzol e pegar o primeiro peixe que viesse. Ao abrir a boca do peixe, encontraria uma moeda. O valor seria suficiente para pagar a contribuição dos dois, de Jesus e de Pedro.",
+        "Pedro era pescador. Conhecia redes, barcos e o movimento das águas. Agora ouvia uma orientação muito diferente de seu trabalho habitual: deveria lançar um anzol e procurar a moeda no primeiro peixe. Jesus falava com precisão sobre o que encontraria. A necessidade apresentada pelos cobradores recebia uma resposta surpreendente naquela conversa dentro de casa."
+      ],
+      "alt": "Jesus explica a Pedro como conseguir a moeda.",
+      "image": "267/part2.webp"
+    },
+    {
+      "heading": "O suficiente para os dois",
+      "paragraphs": [
+        "Jesus completou a orientação dizendo que Pedro deveria entregar a moeda pelos dois. O valor encontrado na boca do peixe seria suficiente para a contribuição de ambos. Assim, a pergunta dos cobradores levara Pedro a ouvir uma lição sobre o Filho de Deus e a receber uma tarefa concreta, ligada ao lago que conhecia tão bem.",
+        "Uma única moeda atenderia àquela necessidade. Jesus incluía Pedro em seu cuidado ao dizer que o pagamento seria pelos dois. O discípulo tinha começado a conversa respondendo aos cobradores e agora podia perceber algo maior na resposta do Mestre: sua liberdade como Filho caminhava junto com a atenção às pessoas que encontrava pelo caminho.",
+        "Pedro havia respondido depressa aos cobradores. Agora recebia uma lição tranquila dentro de casa. Podia aprender sobre a identidade do Mestre e sobre sua atenção às pessoas na mesma conversa. O Filho que conhecia sua liberdade também sabia agir com generosidade, considerando os outros e incluindo Pedro em seu cuidado."
+      ],
+      "alt": "Representação da orientação de Jesus: Pedro encontra uma moeda na boca de um peixe junto ao lago.",
+      "image": "267/part3.webp"
+    }
+  ],
+  "lesson": "Jesus uniu liberdade e consideração. Saber que temos razão não significa precisar transformar toda situação em disputa. Podemos pensar no efeito de nossas escolhas sobre os outros e cumprir responsabilidades com cuidado. A moeda para os dois também lembra a atenção pessoal de Jesus por Pedro. Confiar nele nos ajuda a agir com serenidade, sem tratar a fé como uma maneira de conseguir riquezas.",
+  "question": "Em que situação você pode abrir mão de uma discussão pequena para agir com mais consideração?",
+  "prayer": "Jesus, ensina-me a reconhecer teu cuidado nas necessidades do dia. Ajuda-me a cumprir minhas responsabilidades e a pensar nas outras pessoas antes de discutir. Dá-me sabedoria para escolher quando falar com firmeza e quando agir com tranquilidade e consideração. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/267.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro segura um peixe junto ao lago e observa uma moeda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Peter olive skin curly dark hair short beard teal tunic kneeling on Galilee rocky shore holding a small fish gently above water, small silver coin visible at its open mouth, amazed peaceful expression, fishing line and clay pot nearby, Jesus not present."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro ouve os cobradores em Cafarnaum.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Peter teal tunic speaking with two adult temple tax collectors in muted brown linen robes on a first-century Capernaum street, respectful conversation, modest stone houses, no Jesus."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus conversa com Pedro dentro de casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus with warm olive skin, shoulder-length dark wavy hair and short dark beard, cream tunic terracotta mantle seated inside simple Capernaum stone house with Peter teal tunic, open explanatory hand gesture, warm window light, only two adults."
+    },
+    {
+      "role": "part3",
+      "alt": "Pedro se ajoelha junto à água com o peixe e a moeda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Illustrative visualization of Jesus instruction: Peter teal tunic at waters edge, close side angle hands gently holding fish above shallow clear water, a single silver coin resting in his other palm, reed fishing pole beside him, gentle delighted face."
+    }
+  ]
+}

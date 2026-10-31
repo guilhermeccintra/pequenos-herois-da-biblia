@@ -1,0 +1,71 @@
+{
+  "id": 355,
+  "title": "O Caminho da Fé",
+  "subtitle": "Confiar enquanto a jornada continua",
+  "reference": "Hebreus 11:1–16",
+  "description": "O livro de Hebreus relembra pessoas que confiaram em Deus ao longo da história. A leitura mostra que a fé acompanha passos, espera e esperança, mesmo sem enxergar todo o caminho.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/355.webp",
+  "parts": [
+    {
+      "heading": "O que ainda não vemos",
+      "paragraphs": [
+        "O capítulo onze de Hebreus começa falando da fé. Ela é apresentada como confiança naquilo que se espera e convicção a respeito do que ainda não se vê. O texto não convida a acreditar em qualquer notícia sem pensar. Fala da confiança em Deus, que orientou a vida de pessoas lembradas nas histórias das Escrituras.",
+        "Para mostrar essa confiança, o capítulo reúne nomes de diferentes épocas. Não é uma nova aventura vivida por todos ao mesmo tempo. É uma lembrança de trajetórias que ajudariam os leitores a compreender a perseverança. Cada pessoa teve seu contexto, suas dificuldades e seus passos; juntas, essas memórias formam um testemunho sobre a fidelidade de Deus.",
+        "O texto começa lembrando a criação e depois menciona Abel e Enoque. A fé de cada um é reconhecida diante de Deus. Histórias diferentes aparecem lado a lado, formando uma memória de confiança. Ao recordar esses nomes, os leitores podiam perceber que sua própria caminhada fazia parte de uma história maior, atravessada pela presença e pela fidelidade do Senhor."
+      ],
+      "image": "355/part1.webp",
+      "alt": "Um leitor do primeiro século abre rolo de Escrituras diante de família atenta, pequena lamparina e atmosfera de memória e esperança."
+    },
+    {
+      "heading": "Pessoas que deram passos",
+      "paragraphs": [
+        "Noé também aparece nessa sequência. Advertido sobre o que ainda não se via, preparou a arca para preservar sua família. O capítulo usa essa lembrança para mostrar uma confiança que se transforma em ação. Não se trata apenas de concordar com uma ideia. A fé pode orientar decisões, trabalho e preparação ao longo de um caminho.",
+        "Depois vem Abraão, que respondeu ao chamado de Deus e partiu sem conhecer todos os detalhes do destino. Viveu como estrangeiro na terra da promessa, em tendas, assim como Isaque e Jacó. O texto destaca uma espera que atravessa gerações. Receber uma promessa não significava possuir imediatamente tudo o que ela anunciava.",
+        "Sara é lembrada pela confiança naquele que havia prometido. O nascimento de Isaque fazia parte dessa história de esperança. Ao reunir essas memórias, Hebreus aponta para a fidelidade de Deus. A atenção não fica somente na capacidade humana de imaginar um futuro, mas naquele que sustenta a promessa e acompanha pessoas limitadas em jornadas reais."
+      ],
+      "image": "355/part2.webp",
+      "alt": "Abraão idoso de barba branca e Sara idosa de véu claro observam horizonte junto a tenda, expressão de confiança serena, paisagem antiga detalhada."
+    },
+    {
+      "heading": "Uma esperança maior",
+      "paragraphs": [
+        "O capítulo afirma que essas pessoas morreram na fé sem receber a realização completa de tudo o que esperavam. Essa frase impede uma leitura apressada em que confiar seria conseguir imediatamente qualquer desejo. A fé delas atravessou a incompletude. Elas reconheceram a promessa de longe e viveram como peregrinas, olhando para algo maior do que o momento presente.",
+        "Hebreus fala de uma pátria melhor, celestial, e de uma cidade preparada por Deus. A imagem reúne pertencimento e esperança. O caminho ainda podia parecer provisório, como uma tenda que se monta e desmonta. Mesmo assim, a confiança não precisava desaparecer. Havia uma direção para a jornada que ia além das conquistas visíveis de cada etapa.",
+        "Essa leitura nos ensina a respeitar a espera e a continuar aprendendo. Não sabemos todos os detalhes do futuro, mas podemos dar passos responsáveis hoje. A fé não dispensa perguntas, planejamento ou ajuda. Ela nos convida a confiar em Deus enquanto escolhemos o bem, lembrando que nossa história participa de uma caminhada maior do que conseguimos enxergar por inteiro."
+      ],
+      "image": "355/part3.webp",
+      "alt": "Viajantes em trilha de colinas olham para cidade distante banhada em luz suave, imagem simbólica da esperança descrita em Hebreus, sem representar evento literal."
+    }
+  ],
+  "lesson": "Esperar pode ser difícil, especialmente quando queremos uma resposta rápida. Podemos conversar com Deus sobre isso e continuar fazendo o que cabe a nós hoje. A fé não é uma garantia de conseguir tudo do nosso jeito. Ela nos ajuda a viver com esperança e responsabilidade. As histórias lembradas em Hebreus mostram caminhos diferentes, mas uma mesma direção de confiança, aprendizado e perseverança ao longo do tempo.",
+  "question": "Qual pequeno passo responsável você pode dar enquanto espera por algo importante?",
+  "prayer": "Deus fiel, ajuda-nos a confiar em ti enquanto o caminho ainda não está completo. Dá-nos paciência para esperar, humildade para aprender e coragem para dar os passos de hoje. Que nossa esperança caminhe junto com o cuidado, a verdade e a responsabilidade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Família de viajantes antigos caminha entre tendas e colinas sob céu estrelado, direção luminosa distante, metáfora da jornada da fé, sem cidade moderna.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Família de viajantes antigos caminha entre tendas e colinas sob céu estrelado, direção luminosa distante, metáfora da jornada da fé, sem cidade moderna. Identity refinement: the anonymous family father/reader has full short curly chestnut hair, a clean-shaven elongated face, brown tunic and cream mantle; same face in these three scenes. He is not Paul and is not presented as the author of Hebrews. Preserve mother and two children; no additional cast."
+    },
+    {
+      "role": "part1",
+      "alt": "Um leitor do primeiro século abre rolo de Escrituras diante de família atenta, pequena lamparina e atmosfera de memória e esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Um leitor do primeiro século abre rolo de Escrituras diante de família atenta, pequena lamparina e atmosfera de memória e esperança. Identity refinement: the anonymous family father/reader has full short curly chestnut hair, a clean-shaven elongated face, brown tunic and cream mantle; same face in these three scenes. He is not Paul and is not presented as the author of Hebrews. Preserve mother and two children; no additional cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão idoso de barba branca e Sara idosa de véu claro observam horizonte junto a tenda, expressão de confiança serena, paisagem antiga detalhada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Abraão idoso de barba branca e Sara idosa de véu claro observam horizonte junto a tenda, expressão de confiança serena, paisagem antiga detalhada. Only Abraham and Sarah; preserve elderly identities from assets-private/05/part1.webp: white-bearded Abraham in cream tunic and blue mantle, Sarah in ochre dress and purple veil."
+    },
+    {
+      "role": "part3",
+      "alt": "Viajantes em trilha de colinas olham para cidade distante banhada em luz suave, imagem simbólica da esperança descrita em Hebreus, sem representar evento literal.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Viajantes em trilha de colinas olham para cidade distante banhada em luz suave, imagem simbólica da esperança descrita em Hebreus, sem representar evento literal. Identity refinement: the anonymous family father/reader has full short curly chestnut hair, a clean-shaven elongated face, brown tunic and cream mantle; same face in these three scenes. He is not Paul and is not presented as the author of Hebrews. Preserve mother and two children; no additional cast."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/HEB.11.KJV"
+  ]
+}

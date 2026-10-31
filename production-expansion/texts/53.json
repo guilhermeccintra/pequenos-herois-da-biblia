@@ -1,0 +1,71 @@
+{
+  "id": 53,
+  "title": "Isaque Abre Espaço para a Paz",
+  "subtitle": "Continuar sem alimentar a briga",
+  "reference": "Gênesis 26:12–33",
+  "description": "Os poços de Isaque se tornam motivo de disputa. Em vez de responder com violência, ele segue trabalhando até encontrar espaço para viver em paz.",
+  "testament": "antigo",
+  "cover": "/images/covers/53.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Rebanhos que precisavam de água",
+      "paragraphs": [
+        "Isaque vivia na região de Gerar. Plantou naquela terra e colheu muito, pois Deus o abençoava. Seus rebanhos e suas posses cresceram, e ele tinha muitos trabalhadores. Essa prosperidade provocou inveja entre os filisteus. Alguns poços que os servos de Abraão haviam cavado foram entulhados e ficaram inutilizados.",
+        "Abimeleque pediu que Isaque se afastasse, porque havia se tornado muito poderoso. Isaque partiu e acampou no vale de Gerar. Não deixou de precisar de água ao mudar de lugar. As pessoas e os animais dependiam dos poços para viver. Por isso, ele voltou a abrir os poços antigos, dando-lhes os nomes usados por seu pai.",
+        "Os servos de Isaque também cavaram no vale e encontraram uma nascente. Era uma descoberta valiosa. Porém, os pastores de Gerar discutiram com os pastores de Isaque, afirmando que aquela água lhes pertencia. O trabalho que deveria trazer alívio à comunidade se tornou motivo de mais um conflito entre os grupos."
+      ],
+      "image": "53/part1.webp",
+      "alt": "Trabalhadores de Isaque retiram terra de um poço antigo."
+    },
+    {
+      "heading": "Outro poço, outra escolha",
+      "paragraphs": [
+        "Isaque deu àquele poço um nome ligado à disputa, Eseque. Seus servos cavaram outro, mas também houve oposição. Esse recebeu o nome de Sitna, lembrando a hostilidade encontrada ali. Cada poço guardava em seu nome a memória de um problema. A água era necessária, mas a convivência continuava difícil.",
+        "Em vez de iniciar uma luta para permanecer junto daqueles poços, Isaque se afastou outra vez e cavou um novo. Dessa vez, não houve discussão. Chamou o lugar de Reobote, associado à ideia de espaço. Reconheceu que o Senhor havia aberto lugar para eles, e que poderiam prosperar naquela terra.",
+        "A paz não apareceu como ausência de trabalho. Foi preciso cavar, mudar e começar novamente. Isaque não ficou parado esperando que a água surgisse sem esforço. Ao mesmo tempo, não escolheu transformar cada dificuldade em confronto. Seu caminho reuniu persistência e a busca de um lugar onde a vida pudesse continuar."
+      ],
+      "image": "53/part2.webp",
+      "alt": "Isaque e seus companheiros caminham para outro trecho do vale."
+    },
+    {
+      "heading": "Uma mesa depois da distância",
+      "paragraphs": [
+        "Isaque seguiu para Berseba. Naquela noite, Deus reafirmou que estava com ele e que o abençoaria por causa da promessa feita a Abraão. Isaque construiu um altar, invocou o nome do Senhor e armou sua tenda. Seus servos começaram a cavar outro poço. A história da família prosseguia entre fé e trabalho.",
+        "Então Abimeleque veio visitá-lo com dois companheiros. Isaque perguntou por que o procuravam, depois de tê-lo mandado embora. Eles responderam que reconheciam a presença de Deus em sua vida e desejavam fazer um acordo de paz. A conversa não fingiu que o afastamento anterior não havia acontecido. O problema foi lembrado antes do novo compromisso.",
+        "Isaque preparou uma refeição para eles. Na manhã seguinte, fizeram o acordo, e os visitantes partiram em paz. Naquele mesmo dia, os servos trouxeram uma boa notícia: tinham encontrado água. Depois de tantos poços ligados a disputas, a narrativa terminava com uma mesa compartilhada, uma promessa de convivência e água para sustentar o novo começo."
+      ],
+      "image": "53/part3.webp",
+      "alt": "Isaque recebe Abimeleque em uma refeição de paz."
+    }
+  ],
+  "lesson": "Persistir não é repetir a mesma briga sem parar. Às vezes, precisamos procurar outra solução, reorganizar uma tarefa ou pedir ajuda para encontrar um acordo. A atitude de Isaque não significa aceitar injustiça em silêncio em qualquer situação. Ela nos ensina a considerar caminhos de paz e a continuar fazendo o que é necessário. Podemos defender nossas necessidades com firmeza, sem transformar as pessoas em inimigas.",
+  "question": "Que outra solução você poderia tentar para um problema que tem provocado discussões?",
+  "prayer": "Deus, ajuda-nos a perseverar sem alimentar brigas. Dá-nos sabedoria para buscar soluções justas e pessoas que possam nos orientar. Obrigado pela água e por tudo o que sustenta nossa vida. Ensina-nos a cuidar desses presentes e a viver em paz. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Isaque observa água encontrada em um poço, cercado por trabalhadores aliviados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Isaac mature olive-skinned man with salt-and-pepper beard and dark wavy hair, beige robe and muted green mantle. Abimelech mature dark beard gray temples, indigo robe modest headband. Workers distinct adult faces brown and ochre tunics. Scene: Mature Isaac beside newly dug stone well with clear water, three adult workers relieved, dry Gerar valley, hopeful warm light."
+    },
+    {
+      "role": "part1",
+      "alt": "Trabalhadores de Isaque retiram terra de um poço antigo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Isaac mature olive-skinned man with salt-and-pepper beard and dark wavy hair, beige robe and muted green mantle. Abimelech mature dark beard gray temples, indigo robe modest headband. Workers distinct adult faces brown and ochre tunics. Scene: Isaac supervises adult workers clearing stones and dirt from old well using wooden tools and baskets, peaceful work, no unsafe children."
+    },
+    {
+      "role": "part2",
+      "alt": "Isaque e seus companheiros caminham para outro trecho do vale.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Isaac mature olive-skinned man with salt-and-pepper beard and dark wavy hair, beige robe and muted green mantle. Abimelech mature dark beard gray temples, indigo robe modest headband. Workers distinct adult faces brown and ochre tunics. Scene: Isaac leads small adult group with sheep and bundles to open new valley, broad landscape, purposeful calm, no conflict."
+    },
+    {
+      "role": "part3",
+      "alt": "Isaque recebe Abimeleque em uma refeição de paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Isaac mature olive-skinned man with salt-and-pepper beard and dark wavy hair, beige robe and muted green mantle. Abimelech mature dark beard gray temples, indigo robe modest headband. Workers distinct adult faces brown and ochre tunics. Scene: Isaac and Abimelech with two adult companions share simple bread meal outside tent, respectful agreement, clay cups, no lavish palace."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+26&version=KJV"
+  ]
+}

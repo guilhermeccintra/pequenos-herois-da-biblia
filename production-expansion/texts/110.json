@@ -1,0 +1,71 @@
+{
+  "id": 110,
+  "title": "A Primeira Páscoa na Nova Terra",
+  "subtitle": "Do maná ao fruto da terra",
+  "reference": "Josué 5:10–12",
+  "description": "Em Gilgal, os israelitas celebram a Páscoa. Depois de tantos anos recebendo maná no deserto, provam os alimentos da terra onde começarão uma nova vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/110.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma celebração em Gilgal",
+      "paragraphs": [
+        "As tendas de Israel estavam armadas em Gilgal, nas campinas perto de Jericó. O povo havia atravessado o Jordão e agora vivia um começo diferente. Ainda havia desafios pela frente, mas também havia tempo para parar. Naquela terra nova, os israelitas se prepararam para celebrar a Páscoa na época indicada para sua comunidade.",
+        "A Páscoa lembrava a saída do Egito. Muitos dos que estavam ali haviam crescido durante a caminhada pelo deserto. Conheciam a história contada pelos mais velhos: Deus libertara seu povo de uma vida de escravidão. Agora essa memória era celebrada por uma geração que chegava à terra depois de tantos anos de viagem.",
+        "No décimo quarto dia do mês, à tarde, celebraram a Páscoa. Não precisavam estar no mesmo lugar dos primeiros acontecimentos para lembrar seu significado. A história podia acompanhá-los. Entre tendas, famílias e preparativos, a celebração fazia uma ligação entre a libertação recebida no passado e a vida que começava diante deles."
+      ],
+      "image": "110/part1.webp",
+      "alt": "Famílias organizam a celebração da Páscoa ao entardecer no acampamento de Gilgal."
+    },
+    {
+      "heading": "Um alimento diferente",
+      "paragraphs": [
+        "Durante a viagem pelo deserto, os israelitas haviam recebido maná. Esse alimento fazia parte de sua rotina havia muito tempo. As manhãs de recolher o que precisavam tinham ensinado sobre sustento e dependência de Deus. Quem crescera na caminhada talvez nem se lembrasse de uma época em que a comunidade tivesse uma rotina muito diferente daquela.",
+        "Mas agora a terra oferecia outros alimentos. No dia seguinte à Páscoa, o povo comeu do que ela produzia: pães sem fermento e grãos tostados. Eram alimentos simples, ligados à colheita da região. A mudança não precisava de uma mesa luxuosa para ser importante. Naqueles grãos havia o sinal concreto de uma nova etapa.",
+        "Depois que comeram dos produtos da terra, o maná cessou. Na manhã seguinte, aquele alimento já não apareceu como durante a caminhada pelo deserto. Havia chegado uma nova etapa: naquele ano, os israelitas comeriam o que crescia em Canaã. O povo deixava para trás uma longa rotina e aprendia a receber de outra maneira o sustento de cada dia."
+      ],
+      "image": "110/part2.webp",
+      "alt": "Mãos de adultos e crianças recebem pães sem fermento e uma tigela de grãos tostados sobre uma esteira."
+    },
+    {
+      "heading": "Aprender uma rotina nova",
+      "paragraphs": [
+        "Naquele ano, os israelitas comeram das colheitas de Canaã. A lembrança do maná continuaria fazendo parte de sua história, mas agora seus olhos também se voltavam para os campos. Havia frutos da terra para receber e, no futuro, responsabilidades para cultivar, colher e repartir. O fim de uma rotina abria espaço para aprender outra.",
+        "A Páscoa ajudava a não confundir mudança com esquecimento. Mesmo com novos alimentos, o povo podia lembrar quem o havia libertado e acompanhado. A gratidão não precisava ficar presa ao deserto. Podia estar presente diante de um pão, de uma porção de grãos e das oportunidades que surgiam depois da travessia.",
+        "Gilgal era um lugar de começo e de memória ao mesmo tempo. O rio ficara para trás, o maná deixara de cair e a terra agora sustentava a comunidade. Os israelitas ainda teriam muito a aprender. Naquela primeira Páscoa ali, porém, já podiam reconhecer uma ligação: o Deus lembrado na história da libertação também estava presente no novo capítulo de sua vida."
+      ],
+      "image": "110/part3.webp",
+      "alt": "Uma família contempla os campos da nova terra, levando cestos de alimentos perto do acampamento."
+    }
+  ],
+  "lesson": "Às vezes o cuidado chega de um jeito novo. Um bebê recebe alimento de uma maneira; ao crescer, aprende outras. Uma família muda de casa e precisa descobrir rotinas diferentes. O fim de uma etapa pode dar saudade, mas também abrir espaço para aprender. Podemos agradecer pelo que nos sustentou até aqui e receber com atenção as novas responsabilidades, lembrando de repartir o alimento e respeitar quem trabalha para que ele chegue à mesa.",
+  "question": "Que coisa você aprendeu a fazer de um jeito novo enquanto crescia, e quem ajudou nessa mudança?",
+  "prayer": "Deus, obrigado pelo alimento e por quem trabalha para prepará-lo. Acompanha nossa família nas mudanças de rotina. Ajuda-nos a agradecer pelo passado, aprender no presente e receber novas responsabilidades com cuidado. Que sempre haja espaço em nossa mesa e em nosso coração para repartir. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família celebra com pães sem fermento e grãos tostados diante de sua tenda em Gilgal.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israelite families in linen earth colors, children and adults fully clothed; Gilgal tent camp near harvest fields, simple clay bowls and unleavened flatbread, no modern utensils. Scene: Uma família celebra com pães sem fermento e grãos tostados diante de sua tenda em Gilgal."
+    },
+    {
+      "role": "part1",
+      "alt": "Famílias organizam a celebração da Páscoa ao entardecer no acampamento de Gilgal.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israelite families in linen earth colors, children and adults fully clothed; Gilgal tent camp near harvest fields, simple clay bowls and unleavened flatbread, no modern utensils. Scene: Famílias organizam a celebração da Páscoa ao entardecer no acampamento de Gilgal."
+    },
+    {
+      "role": "part2",
+      "alt": "Mãos de adultos e crianças recebem pães sem fermento e uma tigela de grãos tostados sobre uma esteira.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israelite families in linen earth colors, children and adults fully clothed; Gilgal tent camp near harvest fields, simple clay bowls and unleavened flatbread, no modern utensils. Scene: Mãos de adultos e crianças recebem pães sem fermento e uma tigela de grãos tostados sobre uma esteira."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família contempla os campos da nova terra, levando cestos de alimentos perto do acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Ancient Israelite families in linen earth colors, children and adults fully clothed; Gilgal tent camp near harvest fields, simple clay bowls and unleavened flatbread, no modern utensils. Scene: Uma família contempla os campos da nova terra, levando cestos de alimentos perto do acampamento."
+    }
+  ]
+}

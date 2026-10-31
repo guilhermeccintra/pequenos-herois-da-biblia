@@ -1,0 +1,74 @@
+{
+  "id": 228,
+  "title": "Daniel e o Sonho do Rei",
+  "subtitle": "Sabedoria recebida para proteger vidas",
+  "reference": "Daniel 2",
+  "description": "Diante de um pedido impossível, Daniel busca a ajuda de Deus com seus amigos e apresenta a resposta com humildade.",
+  "testament": "antigo",
+  "cover": "/images/covers/228.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um sonho que tirou o sono",
+      "paragraphs": [
+        "O rei Nabucodonosor teve um sonho que o deixou profundamente preocupado. Chamou seus sábios e exigiu que contassem o sonho e explicassem seu significado. Eles pediram que primeiro lhes dissesse o que havia visto, mas o rei insistiu. Queria receber uma resposta que demonstrasse conhecimento de todo o segredo.",
+        "Como os sábios não conseguiram atender ao pedido, Nabucodonosor ficou furioso e deu uma ordem que colocou suas vidas em perigo. Daniel e seus companheiros também foram incluídos. Ao saber da situação, Daniel conversou com prudência com Arioque, o comandante da guarda, e procurou compreender o motivo daquela decisão tão urgente.",
+        "Depois pediu ao rei um prazo para apresentar a interpretação. Em casa, contou tudo a Hananias, Misael e Azarias. Juntos, deveriam pedir misericórdia ao Deus do céu. A preocupação se transformou em oração compartilhada, buscando uma resposta que preservasse a vida dos amigos e também a dos outros sábios da Babilônia."
+      ],
+      "image": "228/part1.webp",
+      "alt": "O rei desperta preocupado depois de um sonho"
+    },
+    {
+      "heading": "Uma resposta recebida com gratidão",
+      "paragraphs": [
+        "Durante a noite, o mistério foi revelado a Daniel numa visão. Antes de procurar o rei, ele agradeceu a Deus. Louvou sua sabedoria e seu poder, reconhecendo que o Senhor conhece aquilo que está escondido e pode dar entendimento. A resposta recebida despertou gratidão, que encontrou voz numa oração de louvor.",
+        "Então Daniel procurou Arioque e pediu que os sábios fossem poupados. Disse que poderia apresentar ao rei o significado do sonho. O comandante o levou à presença de Nabucodonosor. Quando o rei perguntou se ele era capaz de revelar o mistério, Daniel apontou para Deus como a fonte da resposta.",
+        "Ele explicou que o conhecimento recebido tinha um propósito: ajudar o rei a compreender a mensagem. Daniel manteve a humildade diante de uma oportunidade de grande reconhecimento. Sabia que havia pedido ajuda e sido atendido. Agora desejava transmitir com fidelidade aquilo que lhe fora mostrado durante a noite."
+      ],
+      "image": "228/part2.webp",
+      "alt": "Daniel e três amigos oram juntos"
+    },
+    {
+      "heading": "Reinos que passam, um reino que permanece",
+      "paragraphs": [
+        "Daniel descreveu uma grande estátua vista no sonho. A cabeça era de ouro; o peito e os braços, de prata; a parte central, de bronze; as pernas, de ferro; os pés misturavam ferro e barro. Uma pedra atingiu a estátua, que se desfez, enquanto a pedra se tornou uma grande montanha.",
+        "A interpretação falava de reinos que surgiriam e passariam. Nabucodonosor era representado pela cabeça de ouro. A mensagem apontava também para um reino estabelecido por Deus, que permaneceria. O sonho colocava o poder humano diante de algo maior e convidava o rei a reconhecer a autoridade do Senhor sobre a história.",
+        "Nabucodonosor reconheceu a grandeza do Deus de Daniel e lhe confiou responsabilidades importantes. A pedido de Daniel, seus três amigos também receberam funções no reino. A história reúne oração, gratidão e cuidado com outras vidas. O jovem que buscou ajuda com seus companheiros soube repartir o reconhecimento e lembrar daqueles que caminharam com ele."
+      ],
+      "image": "228/part3.webp",
+      "alt": "Uma estátua simbólica aparece no sonho do rei"
+    }
+  ],
+  "lesson": "Daniel procurou ajuda, agradeceu pela resposta e usou o que recebeu para proteger outras pessoas. Podemos aprender a enfrentar um problema com oração, prudência e companhia. Quando conseguimos algo com apoio, vale reconhecer quem participou e repartir a alegria. Pense numa dificuldade que pode ser conversada com alguém de confiança. A humildade abre espaço para receber ajuda e usá-la com generosidade.",
+  "question": "Quem ajudou você numa dificuldade recente, e como pode demonstrar gratidão?",
+  "prayer": "Deus, dá-me sabedoria para enfrentar os problemas com calma e procurar ajuda. Obrigado pelas pessoas que oram e caminham comigo. Ensina-me a agradecer pelo que recebo e a usar minhas habilidades para cuidar dos outros com humildade e generosidade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/DAN02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Daniel explica ao rei a mensagem do sonho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel respectfully speaking to Nebuchadnezzar in an ancient Babylonian audience hall, calm humble expression, king listening intently on carved throne, blue glazed bricks and warm golden light, no dream statue in real room. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, deep purple robe and tall gold crown."
+    },
+    {
+      "role": "part1",
+      "alt": "O rei desperta preocupado depois de um sonho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nebuchadnezzar awake on edge of a fully covered royal bed at night, crown set aside on a small table, troubled thoughtful expression, modest purple sleeping robe, oil lamp and Babylonian stone room, no violence. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, deep purple robe and tall gold crown."
+    },
+    {
+      "role": "part2",
+      "alt": "Daniel e três amigos oram juntos",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel and exactly three young adult Judean male friends in plain cream tunics with rust, green and ochre sashes praying together in a modest Babylonian room, earnest calm expressions, safely placed oil lamp, no king or deity. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma estátua simbólica aparece no sonho do rei",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Clearly symbolic dream landscape from Daniel 2: a single monumental statue with gold head, silver torso and arms, bronze midsection, iron legs and feet mixed iron and clay, distant mountain under luminous sky, no people, no words, no graphic destruction. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

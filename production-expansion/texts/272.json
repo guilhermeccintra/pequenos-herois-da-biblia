@@ -1,0 +1,71 @@
+{
+  "id": 272,
+  "title": "Duas Casas e a Chuva",
+  "subtitle": "Ouvir e praticar dá firmeza à vida",
+  "reference": "Mateus 7:24–29",
+  "description": "Jesus conta sobre dois construtores e mostra o que acontece quando a chuva revela a base de cada casa.",
+  "sources": [
+    "https://www.bible.com/bible/1/MAT.7.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "A escolha da base",
+      "paragraphs": [
+        "Jesus chegou ao fim de um longo ensino. Havia falado sobre oração, confiança em Deus e a maneira de tratar as pessoas. Seus ouvintes tinham recebido muitas palavras importantes. Agora ele contou uma pequena história para mostrar o que fazer com tudo aquilo. A história começava com um homem decidido a construir uma casa.",
+        "Esse homem escolheu uma base firme: a rocha. As paredes seriam levantadas sobre algo capaz de sustentá-las. Uma casa não precisava apenas de uma aparência bonita quando o sol brilhava. Precisava permanecer de pé quando o tempo mudasse. A decisão mais importante estava debaixo da construção, onde nem sempre os olhos prestavam atenção.",
+        "Jesus comparou esse construtor prudente à pessoa que escutava suas palavras e as praticava. Ouvir era o começo, mas não encerrava o trabalho. O ensino precisava chegar às escolhas da vida. Assim como a casa se apoiava na rocha, as atitudes podiam encontrar firmeza naquilo que Jesus havia ensinado aos seus ouvintes."
+      ],
+      "alt": "Um construtor ergue a casa sobre rocha firme.",
+      "image": "272/part1.webp"
+    },
+    {
+      "heading": "Quando o tempo mudou",
+      "paragraphs": [
+        "Então veio a chuva. A água aumentou, os ventos sopraram e atingiram a casa. A história não dizia que o homem prudente receberia um céu sempre tranquilo. A mesma construção bem preparada precisou enfrentar mau tempo. Sua base, porém, continuou firme. A casa não caiu, porque estava fundada sobre a rocha.",
+        "Jesus apresentou um segundo construtor. Ele também levantou uma casa, mas a fez sobre a areia. Num dia calmo, talvez a diferença entre as construções não chamasse tanta atenção. Havia paredes, abrigo e espaço para morar. Entretanto, a areia não oferecia a mesma segurança quando a água e o vento chegassem.",
+        "A chuva caiu, as águas cresceram e os ventos bateram naquela segunda casa. Ela caiu, e sua queda foi grande. O problema apareceu no fundamento. Jesus comparou esse construtor à pessoa que ouvia suas palavras, mas não as colocava em prática. A lembrança do ensino, sozinha, não produzia a firmeza de uma vida vivida segundo ele."
+      ],
+      "alt": "A chuva atinge as duas casas e revela a diferença das bases.",
+      "image": "272/part2.webp"
+    },
+    {
+      "heading": "Depois de ouvir",
+      "paragraphs": [
+        "Os ouvintes ficaram admirados com o modo como Jesus ensinava. Ele falava com autoridade. A história dos construtores era curta, mas deixava uma pergunta que cada pessoa precisava levar consigo: o que faria depois de escutar? Seria possível gostar das palavras do Mestre e ainda assim evitar as mudanças que elas pediam.",
+        "Praticar podia significar tratar alguém com a mesma consideração que desejava receber. Podia envolver orar com sinceridade, procurar a paz ou abandonar uma atitude injusta. Cada escolha ajudava a mostrar sobre qual base a pessoa desejava construir. O importante não era decorar a comparação, mas permitir que o ensino alcançasse a vida real.",
+        "A imagem da casa firme ficou como um convite ao fim daquele ensino. Os ouvintes podiam levar consigo a lembrança da rocha, da chuva e das paredes que permaneciam de pé. Cada palavra recebida de Jesus pedia lugar nas escolhas seguintes. O caminho continuava depois da escuta, quando chegava a hora de praticar o que haviam aprendido."
+      ],
+      "alt": "A casa sobre a rocha permanece firme depois da chuva.",
+      "image": "272/part3.webp"
+    }
+  ],
+  "lesson": "Aprender uma coisa boa é diferente de colocá-la em prática. Podemos ouvir sobre honestidade e escolher dizer a verdade; aprender sobre amor e ajudar alguém de fato. Esses passos dão firmeza à vida. Dificuldades não provam que uma pessoa construiu errado ou que Deus a abandonou. A história nos convida a cuidar de nossas escolhas e buscar apoio para continuar fazendo o bem.",
+  "question": "Qual ensinamento que você já conhece precisa sair da lembrança e virar uma atitude hoje?",
+  "prayer": "Jesus, ajuda-me a praticar o que aprendo contigo. Que eu construa minhas escolhas sobre teu amor e tua verdade. Nos dias difíceis, dá-me coragem para procurar ajuda e continuar fazendo o bem. Ensina-me a transformar boas intenções em atitudes firmes e cuidadosas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/272.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma casa permanece firme sobre uma grande rocha.",
+      "prompt": "Use case: illustration-story. New standalone highly detailed warm cinematic 3D Bible storybook illustration for ages 6–12. Landscape 3:2 1536x1024. Natural warm lighting, beautiful expressive faces and tactile linen, stone and plants. No text, logo, border, modern objects or collage. Reference is ONLY for rendering style, not for weather or unwanted objects. One sturdy modest first-century stone house built on broad solid bedrock above a rain-swollen stream, clouds clearing to bright golden sunshine. Hero view of the firm foundation and intact house. NO PEOPLE at all. No Jesus, no builder. Only architecture, water, rock and vegetation."
+    },
+    {
+      "role": "part1",
+      "alt": "O construtor trabalha sobre a base de rocha.",
+      "prompt": "Use case: illustration-story. New standalone highly detailed warm cinematic 3D Bible storybook illustration for ages 6–12. Landscape 3:2 1536x1024. Natural warm lighting, beautiful expressive faces and tactile linen, stone and plants. No text, logo, border, modern objects or collage. Reference is ONLY for rendering style, not for weather or unwanted objects. One ordinary middle-aged Galilean builder with close-cropped curly black hair and short thick beard wearing an OCHRE knee-length work tunic and beige linen headwrap carefully sets a stone block on broad exposed bedrock. Wooden tools and wicker basket nearby, early stage of house construction, sunny dry day. No Jesus, no long hair, no cream robe and no red mantle. Character is an ordinary artisan from a parable."
+    },
+    {
+      "role": "part2",
+      "alt": "A chuva mostra a diferença entre as casas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide continuous single landscape not collage: strong rain and wind over two modest unoccupied stone houses, one firm on rock foreground left, distant second on sandy bank partially collapsed, no people injury or peril, family-friendly non-graphic."
+    },
+    {
+      "role": "part3",
+      "alt": "A casa segura aparece depois da tempestade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. New low camera close view sturdy stone house on rock after rain, water droplets and wet stone path, soft morning sunlight breaking clouds, peaceful resilient mood, no human figures."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 146,
+  "title": "Elias e os Corvos",
+  "subtitle": "Cuidado num lugar escondido",
+  "reference": "1 Reis 17:1–6",
+  "description": "Depois de falar ao rei Acabe, Elias segue para junto de um riacho. Ali recebe água e alimento de um jeito inesperado, enquanto aprende a viver um dia de cada vez.",
+  "testament": "antigo",
+  "cover": "/images/covers/146.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma palavra ao rei",
+      "paragraphs": [
+        "Elias era um profeta de Tisbe, na região de Gileade. Apresentou-se ao rei Acabe com uma mensagem séria: não haveria orvalho nem chuva durante os anos seguintes, a não ser conforme a palavra anunciada por ele. A seca atingiria a terra num tempo em que o rei e o povo haviam se afastado do Senhor.",
+        "Falar assim diante de um governante não era uma tarefa confortável. Elias não tinha um palácio nem um exército para garantir sua segurança. Sua responsabilidade era transmitir a mensagem recebida. Depois desse encontro, Deus lhe deu uma nova orientação, agora sobre seu próprio caminho. O profeta deveria sair dali e procurar um lugar mais afastado.",
+        "O destino era o ribeiro de Querite, a leste do Jordão. Ali poderia beber da água corrente. Deus também anunciou que os corvos levariam alimento até ele. O cuidado prometido não vinha na forma de uma mesa preparada numa cidade. Estava ligado a um lugar simples, onde Elias precisaria receber o necessário de uma maneira inesperada."
+      ],
+      "image": "146/part1.webp",
+      "alt": "Elias conversa seriamente com Acabe num pátio do palácio, mantendo uma distância respeitosa."
+    },
+    {
+      "heading": "À beira do riacho",
+      "paragraphs": [
+        "Elias fez o que o Senhor havia orientado e passou a viver junto ao ribeiro. A água estava ali para beber, e o lugar oferecia um afastamento da presença do rei. Ali, longe da movimentação do palácio, ele encontrava água entre as pedras. O riacho fazia parte de seus dias, enquanto aguardava o alimento que Deus havia prometido enviar.",
+        "Os corvos chegavam com pão e carne pela manhã e pela tarde. Elias bebia do riacho. Quando um novo dia começava, as aves voltavam. À tarde, traziam alimento outra vez. Assim, Elias recebia o que precisava em diferentes momentos do dia. O alimento acompanhava a rotina enquanto o profeta permanecia no lugar indicado.",
+        "Corvos não costumam ser lembrados como animais que repartem comida com pessoas. Por isso, sua presença torna a história ainda mais surpreendente. O cuidado de Deus chegava por um caminho que Elias não organizara sozinho. Ele não precisava controlar a origem de cada pedaço de pão para reconhecer que estava sendo sustentado naquele período de espera."
+      ],
+      "image": "146/part2.webp",
+      "alt": "Elias descansa junto ao ribeiro de Querite enquanto um corvo traz pão, com água limpa entre as pedras."
+    },
+    {
+      "heading": "O necessário para aquele dia",
+      "paragraphs": [
+        "A seca continuava fora daquele lugar. Enquanto a terra enfrentava a falta de chuva, Elias vivia uma rotina simples, recebendo alimento e bebendo da água do ribeiro. Pela manhã e pela tarde, havia alimento para receber. Elias ainda teria novos caminhos pela frente, mas naquele momento sua tarefa era permanecer onde Deus o havia colocado.",
+        "O tempo junto a Querite não seria toda a vida do profeta. Mais tarde, o riacho secaria, e ele receberia outra orientação. Mas, antes desse novo caminho, houve dias em que permanecer e receber era sua tarefa. Nem todo momento importante de uma história acontece diante de uma multidão ou num encontro com um rei.",
+        "Assim se passaram os dias junto a Querite. A água corria pelo leito, os corvos chegavam com alimento e Elias permanecia onde o Senhor o mandara ficar. Longe do palácio, sua vida dependia daquele cuidado diário. A palavra recebida continuava se cumprindo, tanto na comida trazida pelas aves quanto na água que encontrava para beber."
+      ],
+      "image": "146/part3.webp",
+      "alt": "Dois corvos se aproximam do riacho com pequenos pedaços de alimento enquanto Elias os observa com gratidão."
+    }
+  ],
+  "lesson": "Elias precisava de alimento, água e um lugar para descansar. Deus cuidou dele durante aqueles dias difíceis, de uma maneira que Elias não poderia preparar sozinho. Também recebemos cuidado por meio de pessoas, refeições e pequenos gestos cotidianos. Podemos agradecer antes de comer, valorizar quem trabalha para nos alimentar e compartilhar o que temos. Quando percebemos nossas necessidades, aprendemos também a olhar com carinho para as necessidades de quem está perto.",
+  "question": "Que cuidado do dia a dia você costuma receber sem perceber, e como pode agradecer por ele?",
+  "prayer": "Deus, obrigado pelo alimento, pela água e pelas pessoas que cuidam de nossas necessidades. Ajuda-nos a receber com gratidão e a usar sem desperdício. Cuida de quem enfrenta fome ou falta de água e mostra-nos maneiras responsáveis de colaborar com essas pessoas. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Elias recebe um pedaço de pão trazido por um corvo perto de um riacho entre pedras e árvores.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive-skinned man long dark curly hair thick beard rough brown mantle over tan tunic, leather belt. Clear small brook rocky green ravine, black ravens carrying small bread pieces. Only Elijah and birds if scene names them, no other reference cast. Scene: Elias recebe um pedaço de pão trazido por um corvo perto de um riacho entre pedras e árvores."
+    },
+    {
+      "role": "part1",
+      "alt": "Elias conversa seriamente com Acabe num pátio do palácio, mantendo uma distância respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive-skinned man long dark curly hair thick beard rough brown mantle over tan tunic, leather belt. Clear small brook rocky green ravine, black ravens carrying small bread pieces. Only Elijah and birds if scene names them, no other reference cast. Scene: Elias conversa seriamente com Acabe num pátio do palácio, mantendo uma distância respeitosa. MANDATORY SCENE CAST: Only Elijah and Ahab, with palace attendants if needed. No ravens. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Elias descansa junto ao ribeiro de Querite enquanto um corvo traz pão, com água limpa entre as pedras.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive-skinned man long dark curly hair thick beard rough brown mantle over tan tunic, leather belt. Clear small brook rocky green ravine, black ravens carrying small bread pieces. Only Elijah and birds if scene names them, no other reference cast. Scene: Elias descansa junto ao ribeiro de Querite, com água limpa correndo entre pedras e vegetação. MANDATORY SCENE CAST: Only Elijah by the brook. Ahab is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Dois corvos se aproximam do riacho com pequenos pedaços de alimento enquanto Elias os observa com gratidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive-skinned man long dark curly hair thick beard rough brown mantle over tan tunic, leather belt. Clear small brook rocky green ravine, black ravens carrying small bread pieces. Only Elijah and birds if scene names them, no other reference cast. Scene: Dois corvos se aproximam do riacho com pequenos pedaços de alimento enquanto Elias os observa com gratidão."
+    }
+  ]
+}

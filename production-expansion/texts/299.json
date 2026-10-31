@@ -1,0 +1,71 @@
+{
+  "id": 299,
+  "title": "Tomé e as Marcas de Jesus",
+  "subtitle": "Um encontro que transforma a dúvida em confiança",
+  "reference": "João 20:24–29",
+  "description": "Tomé não estava com os amigos quando Jesus apareceu, mas recebe depois um encontro cheio de paz.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.20.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma notícia difícil de aceitar",
+      "paragraphs": [
+        "Tomé, um dos doze discípulos, não estava com os outros quando Jesus ressuscitado apareceu a eles. Depois, seus amigos lhe contaram que tinham visto o Senhor. Era uma notícia extraordinária. Jesus, que havia morrido, estava vivo. Para quem o amava e conhecia o peso daqueles dias, ouvir isso podia trazer alegria e muitas perguntas.",
+        "Tomé respondeu que precisava ver as marcas dos cravos nas mãos de Jesus e a marca em seu lado para acreditar. Sua fala era firme. Ele não conseguia aceitar apenas o relato dos companheiros. A morte do Mestre tinha sido real, e a notícia da ressurreição parecia ir além do que estava preparado para compreender.",
+        "Os amigos haviam recebido uma experiência que Tomé ainda não tivera. A diferença não foi resolvida imediatamente. Ele permaneceu entre os discípulos, levando consigo sua dificuldade. A história não mostra que suas perguntas o tornassem invisível para Jesus. Haveria um encontro em que o próprio Senhor se aproximaria dessa necessidade com palavras dirigidas especialmente a ele."
+      ],
+      "alt": "Tomé ouve dos amigos que Jesus está vivo.",
+      "image": "299/part1.webp"
+    },
+    {
+      "heading": "Paz no meio dos amigos",
+      "paragraphs": [
+        "Oito dias depois, os discípulos estavam novamente dentro de casa, e dessa vez Tomé estava com eles. As portas estavam fechadas. Jesus veio, colocou-se no meio do grupo e lhes desejou paz. Sua presença alcançava os amigos reunidos e retomava a alegria do encontro com aquele que a morte não havia conseguido reter.",
+        "Então Jesus falou diretamente com Tomé. Convidou-o a observar suas mãos e aproximar a mão de seu lado. Conhecia aquilo que o discípulo havia dito. Não respondeu com uma humilhação diante dos outros. Ofereceu-lhe o encontro de que precisava e o chamou a deixar a incredulidade, acolhendo com fé a realidade de sua presença.",
+        "As marcas mostravam que aquele era o mesmo Jesus que havia sofrido e morrido. A ressurreição não apagava sua história nem a transformava numa lembrança sem corpo. Tomé estava diante do Senhor vivo. A distância entre a notícia ouvida e o encontro pessoal chegava ao fim naquela casa, no meio dos amigos."
+      ],
+      "alt": "Jesus se aproxima de Tomé com uma saudação de paz.",
+      "image": "299/part2.webp"
+    },
+    {
+      "heading": "A resposta de Tomé",
+      "paragraphs": [
+        "Tomé respondeu reconhecendo Jesus como seu Senhor e seu Deus. Sua declaração foi breve e profunda. O discípulo que antes exigira provas agora confessava sua fé diante daquele que o chamara pelo caminho da paz. O relato não diz que ele realmente tocou as marcas; registra o convite de Jesus e a resposta de confiança.",
+        "Jesus observou que Tomé havia crido porque o vira e declarou felizes os que creriam sem ter visto. Suas palavras alcançavam pessoas que conheceriam a ressurreição pelo testemunho dos discípulos. A fé continuaria sendo compartilhada além daquela casa e daquele momento, chegando a quem não caminhara pelas estradas da Galileia com ele.",
+        "Tomé não precisou esconder sua dificuldade para ser encontrado. Jesus a conheceu e o chamou a confiar. A história guarda tanto a sinceridade da dúvida quanto a resposta da fé. Para os amigos reunidos, a paz do Senhor vivo era uma realidade. Para os que viriam depois, suas palavras abriam um caminho de confiança no testemunho recebido."
+      ],
+      "alt": "Tomé reconhece Jesus ressuscitado com alegria e reverência.",
+      "image": "299/part3.webp"
+    }
+  ],
+  "lesson": "Perguntas e dúvidas podem ser apresentadas com sinceridade. Podemos procurar compreensão, ler os relatos bíblicos e conversar com pessoas de confiança. Jesus encontrou Tomé sem tratá-lo como alguém sem valor. Também o convidou a dar um passo de fé. Ao ouvir dúvidas de outras pessoas, podemos responder sempre com respeito, oferecendo companhia e atenção em vez de vergonha ou desprezo.",
+  "question": "Que pergunta sobre a fé você gostaria de conversar com alguém que possa ouvir com respeito?",
+  "prayer": "Jesus, obrigado porque conheces minhas perguntas. Ajuda-me a buscar compreensão com sinceridade e a confiar no teu amor. Dá-me pessoas que saibam ouvir e ensina-me a respeitar as dúvidas dos outros. Que tua paz acompanhe meu aprendizado e fortaleça minha fé. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/299.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus acolhe Tomé num encontro de paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Risen Jesus cream tunic terracotta mantle gently showing open palms with only subtle small healed marks to Thomas adult olive skin short dark curls trimmed beard muted green robe, warm peaceful stone room, respectful wonder, no blood no open wounds."
+    },
+    {
+      "role": "part1",
+      "alt": "Tomé escuta o relato dos amigos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Thomas green robe listening thoughtfully to two joyful adult disciples in ochre and blue robes inside simple stone room, hands expressing questions, warm lamplight, Jesus not present."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus fala diretamente com Tomé.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle standing at eye level with Thomas green robe, gentle invitation with one open palm subtle healed mark, adult disciples blurred background, calm welcoming face, no graphic injury no touching wounds."
+    },
+    {
+      "role": "part3",
+      "alt": "Tomé reconhece o Senhor com fé.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close emotional portrait Thomas green robe hand over heart looking toward Jesus cream tunic terracotta mantle with relieved reverent joy, soft morning light in stone room, peaceful respectful scene no wounds focus."
+    }
+  ]
+}

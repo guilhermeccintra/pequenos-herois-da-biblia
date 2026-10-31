@@ -1,0 +1,71 @@
+{
+  "id": 133,
+  "title": "Abigail Leva a Paz",
+  "subtitle": "A coragem de interromper a raiva",
+  "reference": "1 Samuel 25:2–35",
+  "description": "Uma resposta grosseira provoca a ira de Davi. Abigail ouve o que aconteceu, prepara alimentos e sai para impedir que a situação termine numa tragédia.",
+  "testament": "antigo",
+  "cover": "/images/covers/133.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma resposta que feriu",
+      "paragraphs": [
+        "Nabal era um homem muito rico, dono de grandes rebanhos. Sua esposa, Abigail, era sensata, enquanto ele costumava agir com dureza. Na época da tosquia das ovelhas, Davi enviou mensageiros para cumprimentá-lo e pedir alimento para seus homens. Eles haviam convivido com os pastores de Nabal sem prejudicá-los e os tinham protegido no campo.",
+        "Os mensageiros apresentaram o pedido com respeito, mas Nabal respondeu de maneira ofensiva. Questionou quem era Davi e recusou repartir seus mantimentos. Quando os homens voltaram e contaram a resposta, Davi ficou tomado pela raiva. Decidiu partir com seus companheiros para atacar a casa de Nabal. Uma ofensa começava a se transformar numa ameaça contra muitas vidas.",
+        "Um dos servos percebeu o perigo e procurou Abigail. Explicou o que havia acontecido e contou que os homens de Davi tinham sido uma proteção para os pastores. Pediu que ela considerasse o que fazer. Naquela casa, alguém teve coragem de levar a notícia a uma pessoa capaz de escutar, em vez de esperar em silêncio que a tragédia chegasse."
+      ],
+      "image": "133/part1.webp",
+      "alt": "Um servo conta a Abigail o que aconteceu, enquanto ela escuta atentamente no pátio da casa."
+    },
+    {
+      "heading": "Uma decisão cuidadosa",
+      "paragraphs": [
+        "Abigail agiu depressa. Preparou pães, vinho, alimento já pronto, grãos tostados, passas e pastas de figos. Colocou tudo sobre jumentos e mandou os servos seguirem adiante. Depois foi atrás deles. Não discutiu primeiro com Nabal, que não tinha disposição para ouvir. Seu objetivo imediato era alcançar Davi e proteger as pessoas ameaçadas.",
+        "Enquanto descia por um caminho entre os montes, encontrou Davi e seus homens. Ele vinha alimentando o pensamento de que seu cuidado fora pago com desprezo. Abigail desceu do jumento e se aproximou com respeito. Pediu que ele a escutasse. Sua coragem não estava numa arma, mas na disposição de apresentar palavras que pudessem interromper a decisão tomada no calor da ira.",
+        "Ela reconheceu a dureza de Nabal e pediu que Davi recebesse os alimentos levados para seus companheiros. Mas não se limitou a entregar comida. Falou do futuro dele e do peso que teria carregar a culpa por derramar sangue sem necessidade. Convidou-o a pensar além daquele instante, quando a raiva fazia parecer urgente uma resposta que não poderia ser desfeita."
+      ],
+      "image": "133/part2.webp",
+      "alt": "Abigail e os servos organizam cestos de pães, passas e figos sobre jumentos para a viagem."
+    },
+    {
+      "heading": "Parar antes de ferir",
+      "paragraphs": [
+        "Davi ouviu. Reconheceu que Deus havia enviado Abigail ao seu encontro e elogiou seu bom senso. Admitiu que ela o impedira de derramar sangue e de buscar vingança com as próprias mãos. Essa mudança exigiu humildade. Ele já vinha com homens e um plano, mas não precisava continuar apenas para não parecer que estava voltando atrás.",
+        "Davi recebeu os alimentos e disse a Abigail que voltasse em paz. Prometeu atender ao seu pedido. As pessoas da casa de Nabal não seriam atacadas por aquela ofensa. O encontro no caminho havia mudado a história antes que a violência acontecesse. Uma conversa sensata, ouvida no momento certo, preservou vidas que nada tinham feito para merecer aquela ameaça.",
+        "Abigail não tornou a grosseria de Nabal uma atitude boa, nem disse que Davi não tinha motivo para se sentir ferido. Mostrou que sentir raiva não dava permissão para destruir. Sua intervenção lembra uma coragem que muitas vezes passa despercebida: levar a sério o perigo, buscar uma solução concreta e ajudar alguém a parar antes de causar um dano irreparável."
+      ],
+      "image": "133/part3.webp",
+      "alt": "Davi recebe os alimentos e agradece a Abigail, enquanto seus companheiros permanecem tranquilos ao fundo."
+    }
+  ],
+  "lesson": "Abigail percebeu que palavras cuidadosas podiam mudar o rumo daquele dia. Davi também fez uma escolha importante: aceitou escutar e abandonou uma decisão ruim. Quando estamos irritados, podemos fazer uma pausa, ouvir um conselho e reconhecer que precisamos mudar. Nas discussões do dia a dia, uma resposta gentil pode abrir espaço para a paz. Ter coragem também é admitir um erro antes que ele cresça e agradecer a quem nos ajudou a percebê-lo.",
+  "question": "Que pausa ou ajuda pode impedir você de tomar uma decisão ruim quando estiver com muita raiva?",
+  "prayer": "Deus, ajuda-nos a perceber quando a raiva começa a comandar nossas escolhas. Dá-nos coragem para parar, ouvir bons conselhos e mudar de direção. Protege quem vive conflitos perigosos e guia essas pessoas até ajuda segura. Ensina-nos a construir a paz com atitudes responsáveis. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abigail oferece alimentos a Davi num caminho entre colinas, numa conversa que traz serenidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Abigail adult olive-skinned woman long dark braid cream veil muted teal dress brown shawl, confident peaceful expression; David young adult reddish curls sand tunic green sash. Donkeys with baskets of bread figs raisins. No weapons or threats. Only scene named cast. Scene: Abigail oferece alimentos a Davi num caminho entre colinas, numa conversa que traz serenidade."
+    },
+    {
+      "role": "part1",
+      "alt": "Um servo conta a Abigail o que aconteceu, enquanto ela escuta atentamente no pátio da casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Abigail adult olive-skinned woman long dark braid cream veil muted teal dress brown shawl, confident peaceful expression; David young adult reddish curls sand tunic green sash. Donkeys with baskets of bread figs raisins. No weapons or threats. Only scene named cast. Scene: Um servo conta a Abigail o que aconteceu, enquanto ela escuta atentamente no pátio da casa. MANDATORY SCENE CAST: Only Abigail and one adult servant. David is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Abigail e os servos organizam cestos de pães, passas e figos sobre jumentos para a viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Abigail adult olive-skinned woman long dark braid cream veil muted teal dress brown shawl, confident peaceful expression; David young adult reddish curls sand tunic green sash. Donkeys with baskets of bread figs raisins. No weapons or threats. Only scene named cast. Scene: Abigail e os servos organizam cestos de pães, passas e figos sobre jumentos para a viagem. MANDATORY SCENE CAST: Only Abigail and adult household servants, with pack donkeys. David is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Davi recebe os alimentos e agradece a Abigail, enquanto seus companheiros permanecem tranquilos ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Abigail adult olive-skinned woman long dark braid cream veil muted teal dress brown shawl, confident peaceful expression; David young adult reddish curls sand tunic green sash. Donkeys with baskets of bread figs raisins. No weapons or threats. Only scene named cast. Scene: Davi recebe os alimentos e agradece a Abigail, enquanto seus companheiros permanecem tranquilos ao fundo."
+    }
+  ]
+}

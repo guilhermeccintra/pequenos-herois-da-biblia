@@ -1,0 +1,71 @@
+{
+  "id": 259,
+  "title": "Marta e Maria Recebem Jesus",
+  "subtitle": "Um lugar para escutar no meio das tarefas",
+  "reference": "Lucas 10:38–42",
+  "description": "Marta recebe Jesus em casa e se ocupa com o serviço. Maria se senta para ouvi-lo, e o encontro convida a família a pensar sobre atenção e prioridades.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.10.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma casa aberta",
+      "paragraphs": [
+        "Jesus e seus discípulos seguiam pelo caminho quando ele entrou numa aldeia. Uma mulher chamada Marta o recebeu em sua casa. A hospitalidade tinha importância naquele mundo de viagens a pé. Abrir a casa envolvia oferecer espaço, atenção e o cuidado necessário para acolher quem chegava. Marta participou desse encontro com sua disposição de receber.",
+        "Ela tinha uma irmã chamada Maria. Enquanto Jesus estava ali, Maria se sentou aos seus pés para ouvir o que ele ensinava. Essa era a posição de alguém que aprende com um mestre. Maria não apareceu apenas como uma pessoa passando pela sala. Estava interessada em suas palavras e escolheu dedicar atenção àquele momento.",
+        "Na mesma casa, as duas irmãs viviam o encontro de maneiras diferentes. Marta estava envolvida com muitas tarefas, e Maria escutava Jesus. A quantidade de preocupações começou a ocupar Marta por inteiro. Enquanto procurava cuidar do serviço, ela via a irmã sentada aos pés do Mestre. A inquietação cresceu até se transformar numa pergunta dirigida a ele."
+      ],
+      "alt": "Marta recebe Jesus em casa enquanto Maria se aproxima para escutar.",
+      "image": "259/part1.webp"
+    },
+    {
+      "heading": "Uma preocupação ganha voz",
+      "paragraphs": [
+        "Marta se aproximou de Jesus e perguntou se ele não se importava por sua irmã deixá-la servir sozinha. Pediu que mandasse Maria ajudá-la. Sua pergunta revelou o peso que sentia. Não estava apenas organizando uma tarefa; parecia carregar a sensação de que sua necessidade não era percebida por quem estava ao redor.",
+        "Jesus respondeu chamando seu nome duas vezes: Marta, Marta. Suas palavras dirigiam atenção a ela, à pessoa por trás do serviço. Disse que estava preocupada e inquieta com muitas coisas. Antes de resolver a situação como uma disputa entre irmãs, Jesus a convidou a perceber o que acontecia em seu próprio coração.",
+        "Ele afirmou que uma coisa era necessária e que Maria havia escolhido a boa parte, que não lhe seria tirada. Maria tinha lugar como aprendiz. Não precisava ser afastada da escuta para corresponder à expectativa de que deveria estar sempre ocupada em outra tarefa. A presença de Jesus oferecia ensino também a ela."
+      ],
+      "alt": "Marta conta a Jesus sua preocupação enquanto Maria escuta.",
+      "image": "259/part2.webp"
+    },
+    {
+      "heading": "A atenção que faz parte do acolhimento",
+      "paragraphs": [
+        "A resposta de Jesus oferecia a Marta um caminho de atenção no meio de suas preocupações. Maria havia escolhido escutar, e esse lugar seria preservado. As palavras do Mestre chegavam às duas irmãs naquela casa. Acolhê-lo envolvia também abrir espaço para o que dizia, deixando que sua presença orientasse o coração em meio às tarefas.",
+        "O serviço continua sendo uma forma importante de amor. Em muitas outras passagens, Jesus ensina a cuidar e servir. Aqui, porém, vemos que a preocupação pode crescer tanto que nos faz perder a atenção à pessoa que desejamos receber. A mesa pode estar sendo preparada enquanto o coração fica cansado, ressentido e distante do encontro.",
+        "Marta foi ouvida, e Maria foi reconhecida como discípula. A casa se tornou um lugar de aprendizado para ambas. Ao ler, podemos perceber que tarefas e escuta precisam de cuidado. Há momentos de colaborar, momentos de parar e momentos de conversar sobre o peso que carregamos, para que o serviço também tenha espaço para alegria e presença."
+      ],
+      "alt": "Jesus conversa com as duas irmãs num ambiente de acolhimento.",
+      "image": "259/part3.webp"
+    }
+  ],
+  "lesson": "Ajudar em casa é importante, e ninguém deve ficar sobrecarregado sozinho. Também precisamos de tempo para ouvir, descansar e estar com as pessoas. Podemos conversar com carinho sobre a divisão das tarefas, sem transformar tudo em acusação. A história convida a perceber quando a preocupação ocupa espaço demais e a lembrar que nossa presença atenta também é uma forma valiosa de cuidado e amor.",
+  "question": "Que tarefa vocês podem dividir para ter depois um momento tranquilo de conversa em família?",
+  "prayer": "Jesus, ajuda-nos a servir com alegria e a escutar com atenção. Ensina nossa família a dividir as tarefas e a perceber quando alguém está cansado. Que encontremos tempo para tua palavra, para o descanso e para estar perto uns dos outros. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/259.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus conversa com Marta e Maria em uma casa acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle seated in modest Bethany house with adult sisters Martha dark hair cream headscarf rust dress holding bread basket and Mary dark hair blue shawl sage dress seated listening, warm welcoming scene no conflict."
+    },
+    {
+      "role": "part1",
+      "alt": "Marta recebe Jesus em casa enquanto Maria se aproxima para escutar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult Martha cream headscarf rust dress welcomes Jesus cream tunic terracotta mantle through stone doorway, sister Mary blue shawl sage dress nearby, clay dishes and bread on low table, afternoon light."
+    },
+    {
+      "role": "part2",
+      "alt": "Marta conta a Jesus sua preocupação enquanto Maria escuta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Martha cream headscarf rust dress speaks earnestly to seated Jesus cream tunic terracotta mantle, Mary blue shawl sage dress seated a little away listening, concerned but kind faces, no angry caricature."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus conversa com as duas irmãs num ambiente de acolhimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle gently explains to Martha cream headscarf rust dress standing attentive and Mary blue shawl sage dress seated on woven mat, calm stone room with low table, warm light."
+    }
+  ]
+}

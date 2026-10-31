@@ -1,0 +1,71 @@
+{
+  "id": 153,
+  "title": "A Despedida de Elias",
+  "subtitle": "Continuar sem esquecer quem ensinou",
+  "reference": "2 Reis 2:1–18",
+  "description": "Eliseu acompanha Elias numa última viagem. Depois de uma despedida extraordinária, recebe o manto do mestre e precisa dar os primeiros passos de uma nova responsabilidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/153.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Ficar perto até o fim",
+      "paragraphs": [
+        "Elias e Eliseu saíram de Gilgal. O tempo da despedida de Elias se aproximava, e a viagem os levaria por diferentes lugares. Em cada etapa, Elias dizia a Eliseu que ficasse, mas ele insistia em acompanhá-lo. Desejava permanecer perto de seu mestre. A relação construída no serviço agora atravessava um momento de mudança difícil.",
+        "Em Betel e depois em Jericó, grupos de profetas falaram com Eliseu sobre o que aconteceria. Ele respondeu que já sabia e pediu silêncio. A notícia não era algo que pudesse receber como uma informação qualquer. Saber que uma despedida se aproxima não faz com que o coração esteja pronto para todas as palavras a respeito dela.",
+        "Os dois seguiram até o Jordão, enquanto cinquenta homens do grupo de profetas observaram de longe. Elias tomou seu manto, dobrou-o e tocou as águas. Elas se dividiram, e os dois atravessaram em terreno seco. O caminho compartilhado chegava a um lugar separado da multidão, onde poderiam conversar sobre a responsabilidade que continuaria depois."
+      ],
+      "image": "153/part1.webp",
+      "alt": "Elias e Eliseu caminham lado a lado por uma trilha entre Betel e Jericó, conversando com calma."
+    },
+    {
+      "heading": "Um pedido para continuar o serviço",
+      "paragraphs": [
+        "Elias perguntou o que Eliseu desejava receber antes da despedida. Ele pediu uma porção dobrada de seu espírito. A expressão lembra a parte do herdeiro principal naquele contexto, indicando o desejo de continuar a missão. Não era simplesmente uma competição para ser duas vezes mais famoso ou realizar mais feitos que o mestre.",
+        "Elias disse que o pedido era difícil e que Eliseu o receberia se o visse sendo levado. Os dois continuaram caminhando e conversando. De repente, um carro de fogo com cavalos de fogo apareceu e os separou. Então Elias subiu ao céu num redemoinho, enquanto Eliseu observava aquele momento extraordinário da despedida de seu mestre.",
+        "Eliseu viu e clamou por seu mestre, reconhecendo a importância de Elias para Israel. Depois, não o viu mais. Tomou suas próprias roupas e as rasgou, num sinal de tristeza. O acontecimento extraordinário não eliminou a dor da separação. O discípulo continuava sendo uma pessoa que perdia a companhia de alguém com quem havia caminhado e aprendido."
+      ],
+      "image": "153/part2.webp",
+      "alt": "Eliseu observa ao longe uma luz dourada no céu e um redemoinho luminoso, sem figura humana em perigo e sem carro sendo montado."
+    },
+    {
+      "heading": "O manto e a outra margem",
+      "paragraphs": [
+        "O manto de Elias havia caído no chão. Eliseu o recolheu e voltou para a margem do Jordão, por onde os dois tinham passado pouco antes. Agora carregava sozinho a roupa que conhecia tão bem. Diante do rio, lembrou o Senhor a quem seu mestre servira e se preparou para dar o próximo passo de sua missão.",
+        "Ele tocou as águas com o manto, e o rio se dividiu. Atravessou novamente. Os profetas que observavam reconheceram que o espírito de Elias repousava sobre Eliseu. A missão continuaria, embora a pessoa que a conduzisse fosse outra. O discípulo teria de aprender a exercer sua responsabilidade sem poder procurar o mestre da mesma maneira de antes.",
+        "Alguns homens insistiram em procurar Elias, e uma busca de três dias não o encontrou. Eliseu permaneceu em Jericó. A despedida era real, e o caminho precisava seguir. O manto carregado não apagava a saudade, mas lembrava o aprendizado recebido. Honrar alguém que nos ensinou também pode significar continuar fazendo o bem com aquilo que aprendemos em sua companhia."
+      ],
+      "image": "153/part3.webp",
+      "alt": "Eliseu atravessa sozinho o leito seco do Jordão com o manto nas mãos, enquanto profetas aguardam na margem."
+    }
+  ],
+  "lesson": "Despedidas podem trazer tristeza mesmo quando sabemos que uma nova etapa é necessária. Eliseu não precisou esconder sua dor para continuar. Podemos guardar lembranças de quem nos ensinou e conversar sobre a saudade com pessoas confiáveis. Também podemos honrar esse cuidado vivendo o que aprendemos de bom. Um objeto de lembrança não tem poderes mágicos; seu valor está na história, no carinho e nas atitudes que nos ajuda a recordar.",
+  "question": "Que ensinamento de uma pessoa importante você gostaria de continuar praticando, mesmo quando ela não estiver por perto?",
+  "prayer": "Deus, acompanha quem vive despedidas e sente saudade. Obrigado pelas pessoas que nos ensinaram com carinho. Ajuda-nos a guardar boas lembranças, falar sobre a tristeza e continuar praticando o bem que aprendemos. Dá-nos companhia e coragem para cada nova etapa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Eliseu segura o manto de Elias à margem do Jordão, com expressão de saudade e responsabilidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin long dark hair thick beard rough brown mantle tan tunic; Elisha younger olive skin short dark hair neat beard cream tunic green belt. Jordan dry crossing and peaceful hill trail. Only named scene cast; no one riding flaming chariot, no danger to people. Scene: Eliseu segura o manto de Elias à margem do Jordão, com expressão de saudade e responsabilidade."
+    },
+    {
+      "role": "part1",
+      "alt": "Elias e Eliseu caminham lado a lado por uma trilha entre Betel e Jericó, conversando com calma.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin long dark hair thick beard rough brown mantle tan tunic; Elisha younger olive skin short dark hair neat beard cream tunic green belt. Jordan dry crossing and peaceful hill trail. Only named scene cast; no one riding flaming chariot, no danger to people. Scene: Elias e Eliseu caminham lado a lado por uma trilha entre Betel e Jericó, conversando com calma."
+    },
+    {
+      "role": "part2",
+      "alt": "Eliseu observa ao longe uma luz dourada no céu e um redemoinho luminoso, sem figura humana em perigo e sem carro sendo montado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin long dark hair thick beard rough brown mantle tan tunic; Elisha younger olive skin short dark hair neat beard cream tunic green belt. Jordan dry crossing and peaceful hill trail. Only named scene cast; no one riding flaming chariot, no danger to people. Scene: Eliseu observa ao longe uma luz dourada no céu e um redemoinho luminoso, sem figura humana em perigo e sem carro sendo montado. MANDATORY SCENE CAST: Only Elisha stands safely on the ground. Elijah is not visibly depicted. No person riding a chariot or suspended in the sky. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Eliseu atravessa sozinho o leito seco do Jordão com o manto nas mãos, enquanto profetas aguardam na margem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin long dark hair thick beard rough brown mantle tan tunic; Elisha younger olive skin short dark hair neat beard cream tunic green belt. Jordan dry crossing and peaceful hill trail. Only named scene cast; no one riding flaming chariot, no danger to people. Scene: Eliseu atravessa sozinho o leito seco do Jordão com o manto nas mãos, enquanto profetas aguardam na margem. MANDATORY SCENE CAST: Elisha alone crosses the completely dry riverbed. Elijah is absent. Prophets may stand far away on the bank. No one stands in water. Reference provides rendering style only; do not copy its complete cast."
+    }
+  ]
+}

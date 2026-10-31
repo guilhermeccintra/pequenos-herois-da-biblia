@@ -1,0 +1,74 @@
+{
+  "id": 230,
+  "title": "O Rei e a Árvore do Sonho",
+  "subtitle": "A descoberta da humildade",
+  "reference": "Daniel 4",
+  "description": "Um sonho sobre uma grande árvore leva Nabucodonosor a aprender que poder e grandeza precisam de humildade.",
+  "testament": "antigo",
+  "cover": "/images/covers/230.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma árvore que alcançava o céu",
+      "paragraphs": [
+        "O rei Nabucodonosor vivia tranquilo em seu palácio quando teve um sonho que o assustou. Procurou seus sábios para compreender o significado, mas eles não souberam explicar. Depois chamou Daniel e contou o que havia visto. O sonho começava com uma árvore enorme, forte e visível de lugares muito distantes.",
+        "Suas folhas eram bonitas e seus frutos abundantes. Animais encontravam sombra debaixo dela, e pássaros faziam morada em seus ramos. A árvore parecia oferecer alimento e abrigo a muitos seres vivos. Era uma imagem de grandeza e influência, ocupando o centro da paisagem que o rei contemplava durante o sono.",
+        "Então um mensageiro celestial anunciou que a árvore seria cortada. Seus galhos e frutos seriam espalhados, mas o tronco e as raízes permaneceriam no chão, presos por uma faixa de ferro e bronze. O anúncio falava também de um período de grande humilhação, até que fosse reconhecida a autoridade do Altíssimo."
+      ],
+      "image": "230/part1.webp",
+      "alt": "O rei conta seu sonho a Daniel"
+    },
+    {
+      "heading": "Um conselho importante",
+      "paragraphs": [
+        "Daniel ficou preocupado ao compreender a mensagem. Depois explicou ao rei que a árvore representava sua própria grandeza. Nabucodonosor havia crescido em poder e influência, mas passaria por um tempo em que perderia sua posição e viveria afastado das pessoas. Precisaria aprender que o Senhor governa acima dos reinos humanos.",
+        "O tronco preservado indicava que seu reino poderia ser restaurado. Daniel então ofereceu um conselho sincero: o rei deveria abandonar seus erros, praticar a justiça e tratar os pobres com misericórdia. A interpretação do sonho vinha acompanhada de um convite concreto para mudar a maneira de usar o poder.",
+        "Passaram-se doze meses. Certo dia, Nabucodonosor caminhava pelo palácio e falou com orgulho sobre a grande Babilônia que atribuía à sua própria força e glória. Enquanto ainda se exaltava, ouviu o anúncio de que perderia o reino. O tempo de humilhação descrito no sonho chegara à sua vida."
+      ],
+      "image": "230/part2.webp",
+      "alt": "Daniel oferece um conselho sincero ao rei"
+    },
+    {
+      "heading": "Olhos levantados para o céu",
+      "paragraphs": [
+        "O relato conta que Nabucodonosor viveu afastado das pessoas, sem o discernimento que antes possuía. Permaneceu exposto ao tempo e passou a se alimentar como os animais do campo. O rei poderoso conheceu uma fragilidade profunda. Sua história mostrava o contraste entre a grandeza de suas palavras e os limites de sua condição humana.",
+        "Ao final daquele período, ele levantou os olhos para o céu e recuperou seu entendimento. Então louvou ao Altíssimo, reconhecendo a permanência de seu reino e a justiça de seus caminhos. Os conselheiros voltaram a procurá-lo, e sua posição foi restaurada. O rei tinha uma experiência importante para recordar e contar.",
+        "Nabucodonosor terminou seu relato reconhecendo que Deus pode humilhar quem vive no orgulho. A história nos convida a valorizar a humildade enquanto temos oportunidades de aprender. Podemos agradecer pelo que recebemos, ouvir conselhos e usar nossas capacidades para cuidar de outras pessoas. A grandeza encontra um caminho melhor quando anda junto com a misericórdia."
+      ],
+      "image": "230/part3.webp",
+      "alt": "O rei reconhece a grandeza de Deus com humildade"
+    }
+  ],
+  "lesson": "Daniel aconselhou o rei a praticar justiça e cuidar dos pobres. Esse convite continua nos ajudando a pensar em como usamos nossas capacidades. Podemos reconhecer nossas conquistas com gratidão, ouvir quem oferece um conselho e lembrar das pessoas que contribuíram. A humildade abre espaço para aprender e repartir. Hoje, escolha uma habilidade sua e pense em como usá-la para ajudar alguém.",
+  "question": "Qual capacidade sua pode ser usada para cuidar de outra pessoa com humildade?",
+  "prayer": "Senhor, ajuda-me a reconhecer com gratidão tudo o que recebo. Ensina-me a ouvir conselhos e a tratar as pessoas com respeito. Que minhas capacidades sejam usadas para ajudar, e que meu coração cresça em humildade, justiça e misericórdia. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/DAN04.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma grande árvore abriga aves e animais no sonho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Clearly symbolic dream from Daniel 4: magnificent enormous fruit tree rising over ancient landscape, lush leaves, birds nesting in branches and deer and sheep resting in its shade, abundant fruit, cinematic golden light, no people. Daniel is an adult olive-skinned Judean man with short dark curls, neatly trimmed beard, cream tunic and blue sash."
+    },
+    {
+      "role": "part1",
+      "alt": "O rei conta seu sonho a Daniel",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nebuchadnezzar seated thoughtfully in Babylonian palace speaking with Daniel, king concerned and Daniel listening with compassion, carved stone columns and blue glazed bricks, warm morning light, no dream tree in real room. Daniel is an adult olive-skinned Judean man with short dark curls, neatly trimmed beard, cream tunic and blue sash. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, deep purple robe and tall gold crown."
+    },
+    {
+      "role": "part2",
+      "alt": "Daniel oferece um conselho sincero ao rei",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel calmly advising Nebuchadnezzar in an ancient palace courtyard, open respectful gesture, king listening with serious expression, distant city view, detailed linen and royal textiles, no additional main characters. Daniel is an adult olive-skinned Judean man with short dark curls, neatly trimmed beard, cream tunic and blue sash. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, deep purple robe and tall gold crown."
+    },
+    {
+      "role": "part3",
+      "alt": "O rei reconhece a grandeza de Deus com humildade",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nebuchadnezzar after restoration standing on a palace terrace, head gently lifted toward open sky and one hand over heart, crown respectfully placed on a table beside him, humble grateful expression, Babylon beyond, no visible deity or illness caricature. Nebuchadnezzar is a middle-aged brown-skinned Babylonian king with squared dark beard, deep purple robe and tall gold crown."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

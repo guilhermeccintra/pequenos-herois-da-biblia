@@ -1,0 +1,75 @@
+{
+  "id": 198,
+  "title": "Jó e as Maravilhas da Criação",
+  "subtitle": "Um mundo maior do que nossas respostas",
+  "reference": "Jó 38–39",
+  "description": "Depois de muitas perguntas, Jó ouve Deus falar sobre a criação. Mares, estrelas e animais revelam um cuidado e uma sabedoria maiores do que ele podia compreender.",
+  "testament": "antigo",
+  "cover": "/images/covers/198.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma resposta cheia de perguntas",
+      "paragraphs": [
+        "Jó havia sofrido muito e conversado longamente com seus amigos. Queria compreender o que acontecera e apresentar suas perguntas a Deus. Quando o Senhor finalmente respondeu, falou do meio de um redemoinho. Não entregou uma lista simples explicando cada perda. Em vez disso, convidou Jó a olhar para um mundo muito maior do que sua própria compreensão.",
+        "As primeiras perguntas falavam dos fundamentos da terra. Onde Jó estava quando ela foi formada? Quem havia determinado suas medidas? A linguagem do livro é poética, como a descrição de uma grande construção. Não se trata de uma aula com desenhos de engenharia, mas de um convite para reconhecer a grandeza do Criador e os limites de uma pessoa.",
+        "Deus também falou do mar, das nuvens e dos limites colocados às águas. A criação tinha dimensões que Jó não havia estabelecido e não podia controlar. Suas perguntas eram sinceras, mas seu conhecimento não abrangia tudo. A resposta começava abrindo uma janela para além do lugar estreito em que sua dor o havia deixado."
+      ],
+      "image": "198/part1.webp",
+      "alt": "A luz da manhã se espalha sobre o mar e a terra."
+    },
+    {
+      "heading": "Chuva onde ninguém mora",
+      "paragraphs": [
+        "O Senhor perguntou sobre a manhã, as profundezas do mar, a luz e a escuridão. Falou da neve, da chuva, do gelo e das estrelas. Jó conhecia algumas dessas coisas como observador, mas não era quem as governava. O mundo seguia cheio de movimentos e relações que ultrapassavam aquilo que ele conseguia enxergar.",
+        "Uma das imagens é especialmente bonita: a chuva cai também numa terra onde ninguém mora, fazendo brotar a vegetação no deserto. O cuidado de Deus não se limita aos lugares que as pessoas consideram úteis ou importantes. Há vida crescendo longe das cidades e dos caminhos humanos, mesmo onde quase ninguém para para olhar.",
+        "As perguntas alcançaram as constelações e as nuvens. Jó contemplava a imensidão do céu, onde estrelas seguiam seus caminhos. A chuva, os relâmpagos e os movimentos da criação despertavam admiração. A cada imagem, ele percebia mais uma parte do mundo sustentado pelo Senhor, muito além dos lugares que seus olhos tinham aprendido a conhecer."
+      ],
+      "image": "198/part2.webp",
+      "alt": "A chuva faz nascer pequenas plantas numa região deserta."
+    },
+    {
+      "heading": "Animais fora de nosso alcance",
+      "paragraphs": [
+        "Depois, a fala se volta aos animais. Quem cuida dos filhotes dos corvos? Quem acompanha o nascimento das cabras montesas e das corças? Deus chama a atenção para vidas que acontecem longe das casas. Os filhotes crescem e seguem seus caminhos sem depender de Jó para cada movimento ou cada alimento.",
+        "O jumento selvagem vive livre no deserto. O boi selvagem não se apresenta como um animal domesticado para servir no campo. Há aves, cavalos e águias, cada um com características próprias. O livro usa essas imagens para mostrar a variedade da criação. Nem tudo existe apenas para obedecer aos planos e às necessidades humanas.",
+        "Jó escutava uma resposta que ampliava seu olhar. Sua dor não era tratada como pequena, mas suas explicações eram chamadas a reconhecer seus limites. Havia um Criador atento a um mundo inteiro, incluindo lugares e criaturas que Jó mal conhecia. Antes de responder novamente, ele precisava aprender a ouvir com a humildade de quem contempla algo maior do que consegue explicar."
+      ],
+      "image": "198/part3.webp",
+      "alt": "Cabras montesas e aves vivem em lugares que Jó não controla."
+    }
+  ],
+  "lesson": "Podemos fazer perguntas difíceis e admitir que ainda não sabemos as respostas. Observar a natureza ajuda a despertar curiosidade e respeito: há vida mesmo onde ninguém está olhando. Aprender não exige fingir que entendemos tudo. Podemos pesquisar com bons professores, cuidar dos animais e reconhecer nossos limites. A admiração pelo mundo também pode nos lembrar de tratar com cuidado aquilo que não está sob nosso controle.",
+  "question": "Que detalhe da natureza desperta em você uma pergunta ou uma vontade de aprender mais?",
+  "prayer": "Deus Criador, obrigado pela variedade da vida e pelas maravilhas que ainda estamos conhecendo. Dá-nos curiosidade para aprender e humildade para reconhecer nossos limites. Ajuda-nos a cuidar dos animais, das plantas e dos lugares que precisam de proteção, perto ou longe de nós. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JOB38.htm",
+    "https://ebible.org/engwebp/JOB39.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jó contempla a grandeza da criação com um olhar atento.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Job standing safely on a broad grassy hillside gazes at an expansive natural landscape with distant sea, mountains and dramatic but gentle clouds, no visible deity, awe and warm light. Job is a mature man from ancient Uz with warm brown skin, kind deep-set eyes, curly gray hair and full gray beard, plain sand-colored linen robe and faded brown shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "A luz da manhã se espalha sobre o mar e a terra.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Majestic child-friendly cinematic 3D natural seacoast at sunrise, gentle waves between rocky shores and clouds glowing above, no people or deity, richly detailed water and vegetation. "
+    },
+    {
+      "role": "part2",
+      "alt": "A chuva faz nascer pequenas plantas numa região deserta.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Soft rain falls over an uninhabited rocky desert valley with tiny green shoots and wildflowers emerging, sunlight breaks through clouds, rich macro foreground and broad distant landscape. "
+    },
+    {
+      "role": "part3",
+      "alt": "Cabras montesas e aves vivem em lugares que Jó não controla.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Peaceful mountain landscape with a mother mountain goat and young on a broad safe ledge, an eagle soaring far above and green valley below, richly detailed natural textures, no predation. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

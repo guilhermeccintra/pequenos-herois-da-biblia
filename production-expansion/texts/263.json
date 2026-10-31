@@ -1,0 +1,71 @@
+{
+  "id": 263,
+  "title": "Um Novo Começo em Betesda",
+  "subtitle": "Visto no lugar da longa espera",
+  "reference": "João 5:1–15",
+  "description": "Junto ao tanque de Betesda, Jesus encontra um homem que vive há muitos anos com uma enfermidade. O encontro muda seu caminho e provoca perguntas.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.5.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Perto do tanque",
+      "paragraphs": [
+        "Havia em Jerusalém, perto da Porta das Ovelhas, um tanque chamado Betesda, cercado por cinco pórticos. Muitas pessoas doentes permaneciam ali. Algumas tinham dificuldade para enxergar ou se mover. Aquele lugar reunia longas esperas e necessidades diferentes. Entre elas estava um homem que vivia com uma enfermidade havia trinta e oito anos.",
+        "Jesus o viu deitado e soube que estava naquela condição havia muito tempo. Aproximou-se e perguntou se queria ser curado. A pergunta abriu espaço para o homem contar sua dificuldade. Jesus não passou por ele como se fosse apenas mais um entre tantos. Dirigiu atenção àquela história particular, marcada por anos de espera.",
+        "O homem respondeu que não tinha ninguém para colocá-lo no tanque quando a água se movia. Enquanto tentava chegar, outra pessoa entrava antes. Sua resposta revelava também solidão e falta de ajuda. Era alguém que permanecia perto de uma esperança, mas não conseguia alcançar o que buscava pelos meios que conhecia naquele lugar."
+      ],
+      "alt": "Jesus conversa com um homem junto aos pórticos de Betesda.",
+      "image": "263/part1.webp"
+    },
+    {
+      "heading": "Levantar e caminhar",
+      "paragraphs": [
+        "Jesus lhe disse que se levantasse, pegasse sua esteira e andasse. Não o mandou esperar mais uma vez pela movimentação da água. Sua palavra trouxe uma orientação diferente de tudo o que o homem havia descrito. A possibilidade de mudança estava ligada à autoridade de Jesus, presente ali diante dele.",
+        "Imediatamente, o homem ficou curado, pegou sua esteira e começou a andar. Depois de tantos anos, podia se mover de outra maneira. O encontro acontecera num sábado. Alguns líderes, ao vê-lo carregando a esteira, disseram que não lhe era permitido fazer aquilo naquele dia. A alegria da mudança encontrou uma discussão sobre regras.",
+        "O homem respondeu que aquele que o curara havia mandado que carregasse a esteira e andasse. Perguntaram quem era essa pessoa. Ele ainda não sabia dizer, pois Jesus se afastara no meio da multidão. Tinha recebido um cuidado extraordinário antes mesmo de compreender plenamente quem havia se aproximado dele junto ao tanque."
+      ],
+      "alt": "O homem se levanta e pega sua esteira depois de ouvir Jesus.",
+      "image": "263/part2.webp"
+    },
+    {
+      "heading": "Um encontro no templo",
+      "paragraphs": [
+        "Mais tarde, Jesus o encontrou no templo. Falou sobre a cura que recebera e o chamou a abandonar o pecado. Suas palavras mostravam que uma vida transformada envolvia também as escolhas do coração. O encontro não terminava apenas com a capacidade de caminhar. Havia um convite para viver de maneira diferente diante de Deus.",
+        "Junto ao tanque, Jesus o encontrara deitado; no templo, falava com ele sobre o caminho que teria pela frente. O homem podia carregar a esteira que antes o sustentava. Agora recebia também uma orientação para suas escolhas. A atenção de Jesus alcançava sua vida inteira, convidando-o a acolher com responsabilidade o novo começo que recebera.",
+        "O homem foi contar aos líderes que Jesus era quem o havia curado. Agora conhecia o nome de quem o vira em meio à longa espera. Betesda continuava sendo um lugar de muitas necessidades, mas aquela vida havia sido alcançada. Jesus tinha percebido uma pessoa sem ajuda e lhe oferecido um novo começo, acompanhado de responsabilidade e esperança."
+      ],
+      "alt": "Jesus encontra novamente o homem e conversa com ele no templo.",
+      "image": "263/part3.webp"
+    }
+  ],
+  "lesson": "Quem espera por cuidado pode precisar também de companhia e de ajuda para chegar aos lugares. Podemos perceber se alguém ficou sozinho e avisar um responsável que possa ajudar. Não devemos culpar uma pessoa por sua doença nem oferecer tratamentos sem orientação. A história de Betesda convida a enxergar quem está à margem e a unir atenção, respeito e atitudes concretas para tornar o cuidado mais acessível.",
+  "question": "Quem pode estar precisando de companhia ou de ajuda para participar de uma atividade perto de você?",
+  "prayer": "Jesus, ensina-nos a perceber quem espera por cuidado e se sente sozinho. Ajuda-nos a oferecer companhia com respeito e a buscar ajuda responsável. Que nossas escolhas abram caminhos de acolhimento, e que ninguém seja tratado como invisível em nossa comunidade. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/263.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um homem carrega sua esteira após encontrar Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man olive skin graying dark beard simple ochre robe carrying rolled woven mat stands gratefully beside Jesus cream tunic terracotta mantle near Bethesda stone colonnades and pool, warm hopeful light, dignified."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus conversa com um homem junto aos pórticos de Betesda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle sits at respectful eye level beside adult man graying beard ochre robe resting on woven mat under Bethesda stone portico, calm pool behind, few waiting adults, gentle attentive scene."
+    },
+    {
+      "role": "part2",
+      "alt": "O homem se levanta e pega sua esteira depois de ouvir Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man graying beard ochre robe rising confidently and rolling woven mat beside Bethesda pool, Jesus cream tunic terracotta mantle nearby, surprised respectful witnesses, warm daylight, no medical procedure."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus encontra novamente o homem e conversa com ele no templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle and adult man graying beard ochre robe converse thoughtfully in Jerusalem temple courtyard, man holds rolled mat, peaceful respectful faces, detailed stone columns and soft light."
+    }
+  ]
+}

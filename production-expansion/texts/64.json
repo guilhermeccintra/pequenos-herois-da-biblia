@@ -1,0 +1,71 @@
+{
+  "id": 64,
+  "title": "Moisés Ajuda Junto ao Poço",
+  "subtitle": "A bondade encontra lugar num recomeço",
+  "reference": "Êxodo 2:15–22",
+  "description": "Longe do Egito, Moisés ajuda sete irmãs junto a um poço e encontra acolhimento.",
+  "testament": "antigo",
+  "cover": "/images/covers/64.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Longe de tudo que conhecia",
+      "paragraphs": [
+        "Moisés havia deixado o Egito e chegado à terra de Midiã. Sua saída aconteceu depois de uma atitude violenta que trouxe consequências graves. Agora, longe da vida que conhecia, ele estava diante de um futuro incerto. A Bíblia o apresenta sentado junto a um poço, sem saber ainda como seria aquele recomeço.",
+        "Poços eram lugares importantes numa região onde pessoas e animais precisavam de água. Ali chegavam viajantes, trabalhadores e rebanhos. Não eram apenas pontos de descanso: muitas tarefas essenciais aconteciam ao redor deles. Para alguém que acabara de chegar a uma terra desconhecida, observar esse movimento era também encontrar a vida cotidiana do lugar.",
+        "Sete irmãs, filhas de um sacerdote de Midiã, vieram buscar água para o rebanho do pai. Elas retiraram água e encheram os bebedouros. O trabalho exigia esforço, e os animais dependiam dele. Moisés estava perto o suficiente para perceber o que aconteceria quando outros pastores chegaram ao poço."
+      ],
+      "image": "64/part1.webp",
+      "alt": "Moisés descansa junto a um poço."
+    },
+    {
+      "heading": "Ajuda que foi até o fim",
+      "paragraphs": [
+        "Os pastores tentaram afastar as irmãs. Elas já haviam feito o trabalho de buscar água, mas estavam sendo impedidas de usá-la para seu rebanho. Moisés se levantou e as ajudou. O viajante que descansava junto ao poço se tornou um defensor daquelas mulheres e também deu água aos animais que elas conduziam.",
+        "Sua ajuda não ficou apenas numa palavra de protesto. Havia uma tarefa concreta para terminar, e ele participou dela. Depois de tanto deslocamento e incerteza, Moisés encontrou uma necessidade bem diante de si. Naquele momento, não precisava conhecer todo o seu futuro para agir com atenção e cuidado.",
+        "As irmãs voltaram para casa mais cedo do que o pai esperava. Ele perguntou por que tinham terminado tão depressa. Elas contaram que um homem vindo do Egito as ajudara contra os pastores e ainda dera água ao rebanho. A surpresa do pai mostrava como aquela ajuda havia mudado o dia da família."
+      ],
+      "image": "64/part2.webp",
+      "alt": "Moisés e as irmãs terminam de dar água aos animais."
+    },
+    {
+      "heading": "Uma mesa no lugar do isolamento",
+      "paragraphs": [
+        "O pai perguntou onde estava aquele homem e mandou convidá-lo para comer. A hospitalidade respondeu à ajuda recebida. Moisés, que havia chegado como estrangeiro, encontrou uma mesa e pessoas dispostas a acolhê-lo. O cuidado começou junto a um poço e abriu caminho para um lugar onde ele poderia permanecer.",
+        "Moisés aceitou morar com aquela família. Mais tarde, casou-se com Zípora, uma das filhas, e teve um filho chamado Gérson. O nome lembrava sua experiência de viver como estrangeiro. Mesmo acolhido, ele carregava a memória de ter deixado sua terra e de precisar aprender a viver em outro lugar.",
+        "A história de Moisés ainda teria muitas páginas. Por enquanto, vemos um homem recomeçando, sete mulheres ajudadas e uma família que oferece hospitalidade. Ninguém precisa fingir que o passado não existiu para aprender uma nova maneira de agir. Em meio às mudanças, fazer o bem que está ao alcance pode ser um passo importante."
+      ],
+      "image": "64/part3.webp",
+      "alt": "A família recebe Moisés para uma refeição."
+    }
+  ],
+  "lesson": "Um recomeço pode começar com uma necessidade simples: água para um rebanho, ajuda numa tarefa ou lugar à mesa. Moisés percebeu uma injustiça e participou da solução. A família também fez sua parte ao acolhê-lo. Podemos aprender a ajudar sem esperar recompensa e a agradecer de maneira concreta quando recebemos cuidado. Nossas dificuldades não nos impedem de prestar atenção às dificuldades de outras pessoas.",
+  "question": "Você se lembra de alguém que tornou um dia difícil mais leve com uma ajuda prática?",
+  "prayer": "Senhor, acompanha quem está recomeçando longe de casa ou enfrentando mudanças. Ensina-me a perceber necessidades e ajudar com respeito. Dá-me humildade para receber cuidado e gratidão para reconhecer quem caminha comigo. Que eu escolha atitudes de paz a cada novo dia. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés ajuda a dar água ao rebanho em Midiã.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses here middle-aged olive-brown man, dark curly hair and full dark beard with a few gray strands, beige robe burnt terracotta-brown mantle, wooden staff. Midianite sisters all adult women in modest full earth-tone dresses and headscarves. Father elderly gray beard sand robe. Scene: Adult Moses helps pour water into stone trough for sheep while adult Midianite sisters stand nearby with clay jars, warm open desert valley, no confrontation."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés descansa junto a um poço.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses here middle-aged olive-brown man, dark curly hair and full dark beard with a few gray strands, beige robe burnt terracotta-brown mantle, wooden staff. Midianite sisters all adult women in modest full earth-tone dresses and headscarves. Father elderly gray beard sand robe. Scene: Moses ALONE seated beside ancient stone well with travel bundle, contemplative tired but hopeful expression, Midian desert, no burning bush."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés e as irmãs terminam de dar água aos animais.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses here middle-aged olive-brown man, dark curly hair and full dark beard with a few gray strands, beige robe burnt terracotta-brown mantle, wooden staff. Midianite sisters all adult women in modest full earth-tone dresses and headscarves. Father elderly gray beard sand robe. Scene: Adult Moses pulls a water bucket while three clearly adult sisters fill trough, remaining four adult sisters distant with sheep, practical teamwork, no weapons."
+    },
+    {
+      "role": "part3",
+      "alt": "A família recebe Moisés para uma refeição.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses here middle-aged olive-brown man, dark curly hair and full dark beard with a few gray strands, beige robe burnt terracotta-brown mantle, wooden staff. Midianite sisters all adult women in modest full earth-tone dresses and headscarves. Father elderly gray beard sand robe. Scene: Older bearded Midianite father welcomes adult Moses to outdoor meal with adult daughters, bread and clay cups, warm hospitable tent scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+2%3A15-22&version=KJV"
+  ]
+}

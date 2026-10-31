@@ -1,0 +1,71 @@
+{
+  "id": 99,
+  "title": "Bênçãos no Lugar de Maldições",
+  "subtitle": "A verdade não pode ser comprada por uma recompensa",
+  "reference": "Números 23–24",
+  "description": "Balaque quer ouvir palavras contra Israel, mas Balaão precisa anunciar as bênçãos que recebe de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/99.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um rei queria controlar a resposta",
+      "paragraphs": [
+        "Balaque, rei de Moabe, estava preocupado com a presença dos israelitas. Chamou Balaão esperando que ele pronunciasse uma maldição contra aquele povo. O rei acreditava que isso poderia ajudá-lo a vencer. Havia preparado uma recepção importante e esperava receber exatamente a resposta que desejava ouvir.",
+        "Balaão pediu que fossem preparados sete altares e as ofertas correspondentes. Depois, afastou-se para buscar uma palavra. Quando voltou, encontrou Balaque e os líderes de Moabe aguardando. O cenário havia sido organizado pelo rei, mas o que seria dito não estava sob seu controle.",
+        "A mensagem de Balaão não condenou Israel. Ele explicou que não poderia amaldiçoar quem Deus não havia amaldiçoado. Falou do povo como uma comunidade numerosa, colocada à parte. Balaque ficou contrariado: havia chamado aquele homem para falar contra seus inimigos e, em vez disso, estava ouvindo uma bênção."
+      ],
+      "image": "99/part1.webp",
+      "alt": "Balaque recebe Balaão perto de um mirante."
+    },
+    {
+      "heading": "Mudar o lugar não mudava a verdade",
+      "paragraphs": [
+        "Balaque levou Balaão a outro lugar, de onde podia ver apenas uma parte dos israelitas. Talvez uma paisagem diferente produzisse a resposta que o rei esperava. Novamente foram preparados altares e ofertas. Mas a segunda mensagem continuou afirmando o cuidado de Deus por Israel, sem entregar a maldição desejada.",
+        "Balaão disse que Deus não é como alguém que mente ou muda de palavra por interesse. Ele havia recebido uma bênção e não poderia transformá-la no contrário. Balaque pediu que, então, não abençoasse nem amaldiçoasse. Era difícil aceitar uma resposta verdadeira quando ela contrariava um plano tão importante para ele.",
+        "Ainda assim, o rei tentou novamente e levou Balaão ao alto de outra região. Dessa vez, Balaão percebeu que o Senhor queria abençoar Israel e não procurou presságios como antes. Olhou para o deserto, onde as tribos estavam acampadas. O Espírito de Deus veio sobre ele, e uma nova mensagem começou."
+      ],
+      "image": "99/part2.webp",
+      "alt": "O rei leva Balaão para observar o povo de outro lugar."
+    },
+    {
+      "heading": "Tendas vistas com outros olhos",
+      "paragraphs": [
+        "Balaão descreveu a beleza das tendas de Israel, comparando aquele povo a jardins, vales e árvores junto às águas. A comunidade que Balaque via apenas como ameaça aparecia agora numa imagem de vida e crescimento. Pela terceira vez, o rei ouviu palavras muito diferentes das que havia tentado conseguir.",
+        "Irritado, Balaque bateu as mãos e mandou Balaão ir embora. Disse que pretendia honrá-lo, mas que isso não aconteceria. Balaão lembrou que já havia avisado: mesmo diante de uma casa cheia de prata e ouro, não poderia substituir a palavra do Senhor por uma mensagem inventada para agradar ao rei.",
+        "Balaão ainda anunciou palavras sobre o futuro antes de partir, e Balaque também seguiu seu caminho. O episódio mostra que riqueza, insistência e mudança de cenário não tornam a vontade de alguém dona da verdade. O que era para ser uma sequência de maldições se transformou em bênçãos que o rei não conseguiu comprar nem impedir."
+      ],
+      "image": "99/part3.webp",
+      "alt": "Balaão fala com firmeza enquanto o rei se despede."
+    }
+  ],
+  "lesson": "Às vezes, alguém insiste para ouvir apenas aquilo que deseja. Balaque tentou mudar o lugar e usou a promessa de recompensa, mas não conseguiu comprar a mensagem. Podemos aprender a valorizar a verdade, mesmo quando ela contraria nossos planos. Também precisamos ter coragem para não inventar uma resposta em troca de vantagem. Ouvir com humildade e falar com honestidade ajudam a proteger a confiança nas relações.",
+  "question": "Como você pode responder com honestidade quando alguém insiste para ouvir uma resposta diferente da verdade?",
+  "prayer": "Deus de verdade, ajuda-me a não trocar a honestidade por uma vantagem. Ensina-me a ouvir quando uma resposta contraria meus planos e a falar com coragem e respeito. Que minhas palavras sirvam ao bem e não sejam usadas para prejudicar alguém. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Balaão anuncia uma bênção diante de Balaque.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam stands on rocky Moab overlook speaking calmly with open hand toward vast orderly Israelite tents below; Balak listens with disappointed expression in indigo robe bronze headband, lush distant valley, no altar violence."
+    },
+    {
+      "role": "part1",
+      "alt": "Balaque recebe Balaão perto de um mirante.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balak gestures toward distant Israelite encampment from hilltop while Balaam listens seriously; two adult royal attendants behind, ancient Moab landscape."
+    },
+    {
+      "role": "part2",
+      "alt": "O rei leva Balaão para observar o povo de outro lugar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam and Balak walking along terraced hill toward a different overlook with partial view of distant tents, thoughtful expressions, warm afternoon, no donkey or angel."
+    },
+    {
+      "role": "part3",
+      "alt": "Balaão fala com firmeza enquanto o rei se despede.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Balaam mature olive-brown man gray beard, brown robe, dusty plum mantle, cream headcloth; gray donkey with white muzzle and simple woven saddle blanket. Balak mature brown-skinned man trimmed black beard, indigo royal robe, bronze headband. Scene: Balaam in brown robe plum mantle speaks respectfully with open empty hands; Balak stands displeased near rocky hilltop path, tents and green valley distant, no gold exchange."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+23-24&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 60,
+  "title": "José Escolhe Consolar",
+  "subtitle": "O perdão que se transforma em cuidado",
+  "reference": "Gênesis 50:15–21",
+  "description": "Depois da morte de Jacó, os irmãos de José sentem medo do passado. José responde com verdade, consolo e a decisão de continuar cuidando da família.",
+  "testament": "antigo",
+  "cover": "/images/covers/60.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um medo que voltou",
+      "paragraphs": [
+        "Jacó morreu depois de viver seus últimos anos no Egito. José e os irmãos o sepultaram em Canaã, conforme o pedido que havia feito, e depois voltaram. A família estava de luto. Além da tristeza pela perda do pai, os irmãos de José começaram a sentir um medo que tinha raízes em acontecimentos muito antigos.",
+        "Anos antes, haviam vendido José e enganado o pai sobre seu destino. Depois, quando se reencontraram no Egito, José os acolhera e providenciara o sustento da família. Mesmo assim, eles se perguntavam se aquele cuidado existia apenas por causa de Jacó. Agora que o pai morrera, temiam que José desejasse se vingar.",
+        "O passado continuava pesando na consciência deles. Não podiam desfazer o que haviam feito, mas precisavam lidar com a verdade. A morte do pai mostrou que a confiança entre irmãos ainda carregava fragilidade. José tinha autoridade no Egito, e eles sabiam quanto mal poderiam sofrer se ele decidisse usar seu poder contra a família."
+      ],
+      "image": "60/part1.webp",
+      "alt": "Os irmãos de José conversam preocupados em um pátio."
+    },
+    {
+      "heading": "Palavras que trouxeram lágrimas",
+      "paragraphs": [
+        "Os irmãos enviaram uma mensagem a José. Disseram que, antes de morrer, o pai havia pedido que ele perdoasse a maldade cometida contra ele. Também se apresentaram como servos do Deus de seu pai e pediram perdão. Ao ouvir aquelas palavras, José chorou. A conversa tocava lembranças e relações que não eram simples.",
+        "Depois, os próprios irmãos foram até ele e se prostraram, oferecendo-se como seus servos. O medo os colocava diante de José como pessoas sem segurança sobre o que viria. Ele, porém, pediu que não tivessem medo e perguntou se estaria no lugar de Deus. Não assumiria para si o direito de conduzir aquela história pela vingança.",
+        "José falou com clareza: eles haviam planejado o mal contra ele. Não chamou crueldade de bondade, nem fingiu que a venda e a separação não tinham sido graves. Ao mesmo tempo, reconheceu que Deus havia conduzido sua história de modo a preservar muitas vidas. O cuidado de Deus não tornava correta a intenção dos irmãos."
+      ],
+      "image": "60/part2.webp",
+      "alt": "José escuta a mensagem dos irmãos com emoção."
+    },
+    {
+      "heading": "Uma resposta que podia ser vivida",
+      "paragraphs": [
+        "A fome mostrara como o trabalho de José no Egito havia servido para sustentar muita gente. Ele podia reconhecer esse resultado sem negar o sofrimento vivido. A história não precisava terminar repetindo a violência. Diante dos irmãos assustados, José escolheu falar de um futuro em que o cuidado continuaria fazendo parte da relação.",
+        "Ele disse que os sustentaria, juntamente com seus filhos. Era uma promessa concreta: a família não seria abandonada. O perdão aparecia ligado ao pão, à segurança e à responsabilidade. José não usaria a falta do pai como ocasião para retirar o apoio que oferecera. Suas palavras procuravam desfazer o medo que os paralisava.",
+        "A Bíblia conta que ele os consolou e lhes falou ao coração. Não foi apenas uma resposta curta, dada de longe. Houve atenção à aflição dos irmãos. A família seguiria carregando a memória do passado, mas também a experiência de uma escolha diferente. José havia recebido poder, e decidiu utilizá-lo para sustentar vidas em vez de prolongar a vingança."
+      ],
+      "image": "60/part3.webp",
+      "alt": "José entrega alimento para o sustento das famílias de seus irmãos."
+    }
+  ],
+  "lesson": "Perdoar não significa dizer que uma injustiça foi certa. Também não exige voltar a uma situação perigosa ou confiar imediatamente em quem machucou. Podemos buscar ajuda, proteção e tempo para cuidar das feridas. Na história de José, a decisão de não se vingar veio acompanhada de verdade e consolo. Em conflitos do dia a dia, assumir o erro, pedir perdão e mudar as atitudes ajuda a reconstruir a confiança.",
+  "question": "Que atitude concreta pode mostrar que um pedido de desculpas é sincero?",
+  "prayer": "Deus, ajuda-nos a reconhecer nossos erros e a reparar o que for possível. Cuida de quem foi machucado e oferece caminhos seguros de cura. Ensina-nos a abandonar a vingança e a construir relações com verdade, responsabilidade e respeito. Dá-nos sabedoria para recomeçar. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "José consola seus irmãos em uma conversa serena.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curly hair clean-shaven with subtle age lines, white Egyptian tunic turquoise sash gold collar. Brothers older olive-skinned bearded men in varied earth-tone shepherd robes and headcloths, distinct faces. Scene: Mature Joseph speaks kindly to older bearded brothers in quiet Egyptian hall, open hands and relieved faces, no kneeling domination."
+    },
+    {
+      "role": "part1",
+      "alt": "Os irmãos de José conversam preocupados em um pátio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curly hair clean-shaven with subtle age lines, white Egyptian tunic turquoise sash gold collar. Brothers older olive-skinned bearded men in varied earth-tone shepherd robes and headcloths, distinct faces. Scene: Four older adult bearded brothers in earth-tone shepherd robes speak worriedly in quiet courtyard, Joseph absent, no funeral or body."
+    },
+    {
+      "role": "part2",
+      "alt": "José escuta a mensagem dos irmãos com emoção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curly hair clean-shaven with subtle age lines, white Egyptian tunic turquoise sash gold collar. Brothers older olive-skinned bearded men in varied earth-tone shepherd robes and headcloths, distinct faces. Scene: Joseph alone foreground listening to older messenger, gentle tears and thoughtful face, Egyptian column background, two people only."
+    },
+    {
+      "role": "part3",
+      "alt": "José entrega alimento para o sustento das famílias de seus irmãos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Joseph mature olive-brown skin short dark curly hair clean-shaven with subtle age lines, white Egyptian tunic turquoise sash gold collar. Brothers older olive-skinned bearded men in varied earth-tone shepherd robes and headcloths, distinct faces. Scene: Joseph and adult brothers organize baskets of grain and bread for families in courtyard, caring cooperative scene, children safe beside adults, no throne."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+50&version=KJV"
+  ]
+}

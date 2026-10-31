@@ -1,0 +1,71 @@
+{
+  "id": 282,
+  "title": "O Convite para o Banquete",
+  "subtitle": "Há lugar à mesa para quem costuma ficar de fora",
+  "reference": "Lucas 14:15–24",
+  "description": "Quando os primeiros convidados recusam o jantar, o dono da casa abre as portas para pessoas inesperadas.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.14.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Tudo estava preparado",
+      "paragraphs": [
+        "Durante uma refeição, alguém falou a Jesus sobre a alegria de comer no Reino de Deus. Ele respondeu contando a história de um homem que preparou um grande jantar e convidou muitas pessoas. O convite anunciava um encontro importante. Havia uma mesa a ser compartilhada e um anfitrião disposto a receber seus convidados.",
+        "Quando chegou a hora da refeição, o homem enviou seu servo para avisar que tudo estava pronto. Não era mais um plano distante. O momento de ir havia chegado. Entretanto, os convidados começaram a apresentar desculpas. Um disse que comprara um campo e precisava vê-lo. Pediu que sua ausência fosse aceita.",
+        "Outro havia comprado cinco juntas de bois e queria experimentá-las. Também pediu desculpas. Um terceiro disse que acabara de se casar e, por isso, não iria. Cada um colocou outra coisa à frente do convite. A mesa estava preparada, mas aqueles que tinham sido chamados escolheram ficar longe dela, ocupados com seus próprios assuntos."
+      ],
+      "alt": "O servo avisa aos convidados que o jantar está pronto.",
+      "image": "282/part1.webp"
+    },
+    {
+      "heading": "Novos lugares à mesa",
+      "paragraphs": [
+        "O servo voltou e contou ao dono da casa o que havia acontecido. O anfitrião ficou indignado. Não pretendia deixar o jantar preparado sem ninguém para compartilhá-lo. Ordenou que o servo fosse depressa pelas ruas e vielas da cidade e trouxesse pessoas pobres e pessoas com diferentes deficiências para participar da refeição.",
+        "Naquela sociedade, essas pessoas muitas vezes eram deixadas de lado. Podiam não ter prestígio, recursos ou condições de retribuir um convite. Mesmo assim, o dono queria recebê-las. A mesa se abria para quem talvez não esperasse ser chamado. A dignidade de cada convidado não dependia da quantidade de bens que possuía.",
+        "O servo cumpriu a ordem e voltou com uma nova informação: ainda havia lugar. O convite tinha alcançado muita gente, mas a casa comportava mais pessoas. O dono, então, mandou que ele saísse também pelos caminhos e junto às cercas, chamando outros para entrar. Seu desejo era ver a casa cheia."
+      ],
+      "alt": "Pessoas antes esquecidas são acolhidas para a refeição.",
+      "image": "282/part2.webp"
+    },
+    {
+      "heading": "Responder ao convite",
+      "paragraphs": [
+        "O anfitrião insistia na hospitalidade. A ordem de trazer pessoas de fora mostrava a amplitude do convite; não dava licença para violência ou para obrigar alguém a crer. A imagem central era uma casa aberta, onde havia espaço para receber quem ainda não tinha chegado. A alegria preparada não precisava ficar restrita a um pequeno grupo.",
+        "Ao mesmo tempo, a história levava a sério a resposta dos primeiros convidados. Eles haviam recusado participar e não provariam daquele jantar. Ter recebido um convite não era o mesmo que aceitá-lo. Seus campos, negócios e planos tinham ocupado todo o espaço, impedindo que reconhecessem o valor daquilo que lhes era oferecido.",
+        "Jesus convidava seus ouvintes a pensar no Reino de Deus como uma mesa generosa e numa resposta que não devia ser adiada sem atenção. Também os ajudava a enxergar pessoas normalmente esquecidas. O banquete da parábola revelava um anfitrião que desejava compartilhar sua alegria e uma casa onde o lugar de honra podia alcançar quem ninguém esperava."
+      ],
+      "alt": "A mesa do banquete reúne convidados diferentes com alegria.",
+      "image": "282/part3.webp"
+    }
+  ],
+  "lesson": "Deus nos convida a participar de seu amor e a acolher outras pessoas. Podemos ficar tão ocupados com nossos interesses que deixamos de perceber esse chamado. A parábola também lembra que dignidade não depende de riqueza, prestígio ou condição física. Em nossas mesas e brincadeiras, podemos abrir espaço para quem costuma ficar de fora, perguntando do que precisa para participar com conforto e respeito.",
+  "question": "Quem você pode convidar para participar de uma atividade, cuidando para que se sinta incluído?",
+  "prayer": "Pai, obrigado porque teu amor abre espaço para pessoas diferentes. Ajuda-me a responder ao teu convite e a perceber quem fica de fora. Ensina-me a acolher com respeito, ouvir necessidades e compartilhar a alegria sem exigir que todos sejam iguais a mim. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/282.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pessoas diferentes compartilham o banquete.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene inclusive first-century banquet in warm stone courtyard, hospitable gray-bearded owner cream robe welcoming diverse adult guests in humble linen clothes, one adult using wooden walking crutch, low table bread fruit clay bowls, dignified joyful community. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "O servo leva o convite a um homem ocupado com o campo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult servant olive skin short beard muted green tunic respectfully inviting adult farmer ochre robe near field boundary, farmer gesturing toward land apologetically, afternoon sun, no written invitations. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part2",
+      "alt": "O anfitrião acolhe novos convidados na porta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Gray-bearded host cream robe opening courtyard gate warmly for modestly dressed adult woman and adult man with wooden crutch, servant green tunic beside them, equal dignity friendly eye contact, no caricature. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "A mesa preparada recebe muitos convidados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide overhead three-quarter view long low banquet table in first-century courtyard with adult guests of different ages sharing bread and fruit, warm lamps and twilight, empty cushion being offered to arriving guest, no modern objects. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    }
+  ]
+}

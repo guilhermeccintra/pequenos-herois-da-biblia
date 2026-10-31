@@ -1,0 +1,71 @@
+{
+  "id": 356,
+  "title": "A Corrida da Perseverança",
+  "subtitle": "Um passo de cada vez, olhando para Jesus",
+  "reference": "Hebreus 12:1–3",
+  "description": "Depois de recordar testemunhas da fé, Hebreus compara a vida a uma corrida. O ensino convida a deixar pesos desnecessários e a continuar com os olhos voltados para Jesus.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/356.webp",
+  "parts": [
+    {
+      "heading": "Uma grande lembrança ao redor",
+      "paragraphs": [
+        "Depois de lembrar muitas pessoas que viveram pela fé, o livro de Hebreus apresenta uma nova imagem: uma corrida. Os leitores são descritos como cercados por uma grande nuvem de testemunhas. Essa figura se liga às histórias contadas antes. A lembrança de tantas trajetórias podia encorajar quem ainda estava percorrendo seu próprio caminho.",
+        "Não era uma competição para descobrir quem valia mais. O texto falava da perseverança na vida de fé. Cada corredor precisava continuar a jornada colocada diante de si. A imagem ajuda a perceber que existem começo, direção e continuidade. Um passo isolado importa, mas também importa a maneira como seguimos depois dele, aprendendo durante o percurso.",
+        "As testemunhas lembradas não tinham vivido todas as mesmas experiências. Algumas esperaram, outras partiram, outras enfrentaram grandes dificuldades. Essa variedade mostrava que confiar em Deus pode acompanhar situações diferentes. Ao recordar suas histórias, os leitores não precisavam copiar cada detalhe. Podiam reconhecer que outras pessoas já haviam caminhado com esperança antes deles."
+      ],
+      "image": "356/part1.webp",
+      "alt": "Família ouve leitura de histórias antigas em pátio, rostos atentos e rolos sobre mesa, memória de testemunhas da fé."
+    },
+    {
+      "heading": "Deixar o que atrapalha",
+      "paragraphs": [
+        "A orientação seguinte era deixar de lado os pesos que atrapalhavam e o pecado que facilmente prendia. Um corredor não leva objetos desnecessários em cada mão. Na comparação de Hebreus, a vida também pede atenção ao que dificulta o caminho. Há atitudes que precisam ser reconhecidas e abandonadas para que a caminhada encontre outra direção.",
+        "Mentir para esconder um erro, alimentar uma crueldade ou insistir em prejudicar alguém são exemplos de escolhas que nos prendem. Esses exemplos são aplicações do ensino para o cotidiano. Deixar esse peso envolve mais do que desejar que ele desapareça. Pode exigir contar a verdade, pedir perdão, reparar o possível e aceitar orientação para mudar.",
+        "A corrida deveria ser feita com perseverança. A imagem aponta para a disposição de continuar na direção do bem, passo depois de passo. Há momentos em que avançamos com facilidade e outros em que precisamos renovar o ânimo. Uma palavra de encorajamento, uma pausa e a companhia de alguém podem ajudar a retomar o caminho com esperança e atenção."
+      ],
+      "image": "356/part2.webp",
+      "alt": "Um jovem retira pedras pesadas de uma bolsa antes de continuar trilha, adulto orienta com cuidado, imagem simbólica de deixar pesos, sem perigo."
+    },
+    {
+      "heading": "Olhar para quem nos guia",
+      "paragraphs": [
+        "O centro do ensino é olhar para Jesus, apresentado como aquele que inicia e completa a fé. A atenção dos leitores não deveria ficar presa somente às próprias dificuldades. Jesus havia enfrentado oposição e a cruz, mantendo diante de si a alegria que viria. Seu caminho oferecia uma referência de fidelidade e esperança para a comunidade.",
+        "Hebreus convida a considerar o que Jesus suportou, para que os leitores não desanimassem por dentro. Não é um convite a procurar sofrimento ou permanecer em perigo. É uma lembrança de que a oposição não teve a última palavra sobre ele. A fé encontra sua direção naquele que atravessou a dor e está junto de Deus.",
+        "A corrida continua com passos possíveis. Podemos aprender com quem veio antes, abandonar atitudes que fazem mal e buscar o exemplo de Jesus. Alguns dias serão mais leves; outros pedirão apoio. A perseverança não exige que sejamos rápidos o tempo todo. Ela nos chama a permanecer no caminho do amor, da verdade e da esperança, um dia de cada vez."
+      ],
+      "image": "356/part3.webp",
+      "alt": "Jesus caminha à frente de pequeno grupo por caminho tranquilo entre oliveiras, pessoas acompanham em ritmos diferentes, luz esperançosa."
+    }
+  ],
+  "lesson": "Quando uma tarefa parece longa, podemos dividi-la em pequenos passos e pedir ajuda. Também podemos perceber atitudes que atrapalham nosso crescimento, como esconder erros ou desistir antes de tentar. A corrida de Hebreus é uma comparação sobre perseverança, não uma disputa de valor. Descansar e receber apoio fazem parte de uma caminhada saudável. Olhar para Jesus nos ajuda a escolher a direção do bem e a recomeçar.",
+  "question": "Qual peso você poderia deixar de carregar ao contar a verdade ou pedir ajuda?",
+  "prayer": "Jesus, guia nossos passos quando o caminho parece longo. Ajuda-nos a abandonar atitudes que fazem mal, receber orientação e recomeçar com esperança. Dá-nos perseverança para praticar o bem e sabedoria para descansar e pedir ajuda quando nossas forças ficarem pequenas. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jovem viajante do primeiro século percorre caminho entre colinas com adulto ao lado, bolsa pesada deixada num banco seguro, horizonte luminoso, metáfora de perseverança sem competição.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Jovem viajante do primeiro século percorre caminho entre colinas com adulto ao lado, bolsa pesada deixada num banco seguro, horizonte luminoso, metáfora de perseverança sem competição."
+    },
+    {
+      "role": "part1",
+      "alt": "Família ouve leitura de histórias antigas em pátio, rostos atentos e rolos sobre mesa, memória de testemunhas da fé.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Família ouve leitura de histórias antigas em pátio, rostos atentos e rolos sobre mesa, memória de testemunhas da fé."
+    },
+    {
+      "role": "part2",
+      "alt": "Um jovem retira pedras pesadas de uma bolsa antes de continuar trilha, adulto orienta com cuidado, imagem simbólica de deixar pesos, sem perigo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Um jovem retira pedras pesadas de uma bolsa antes de continuar trilha, adulto orienta com cuidado, imagem simbólica de deixar pesos, sem perigo."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus caminha à frente de pequeno grupo por caminho tranquilo entre oliveiras, pessoas acompanham em ritmos diferentes, luz esperançosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or depiction of God the Father. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Jesus caminha à frente de pequeno grupo por caminho tranquilo entre oliveiras, pessoas acompanham em ritmos diferentes, luz esperançosa."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/HEB.12.KJV"
+  ]
+}

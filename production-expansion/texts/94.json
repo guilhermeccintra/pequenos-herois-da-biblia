@@ -1,0 +1,71 @@
+{
+  "id": 94,
+  "title": "Doze Espias e um Cacho de Uvas",
+  "subtitle": "A mesma terra, duas maneiras de olhar",
+  "reference": "Números 13–14",
+  "description": "Doze homens conhecem Canaã, mas Josué e Calebe respondem ao desafio com confiança.",
+  "testament": "antigo",
+  "cover": "/images/covers/94.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Observar antes de avançar",
+      "paragraphs": [
+        "Deus orientou Moisés a enviar representantes para conhecer a terra de Canaã. Seria escolhido um homem de cada tribo, doze ao todo. Entre eles estavam Josué e Calebe. A missão exigia atenção: deveriam observar a terra, suas cidades, seus habitantes e aquilo que crescia nos campos.",
+        "Moisés pediu que percebessem se a terra era fértil, se havia árvores e como eram as cidades. Também deveriam trazer frutos. Era tempo das primeiras uvas. Conhecer a realidade fazia parte da preparação; confiar em Deus não significava fechar os olhos para as condições do lugar em que o povo esperava viver.",
+        "Os homens percorreram a região durante quarenta dias. No vale de Escol, cortaram um ramo com um cacho de uvas que dois deles carregaram numa vara. Levaram também romãs e figos. Os frutos seriam uma maneira concreta de mostrar à comunidade a riqueza da terra que haviam visitado."
+      ],
+      "image": "94/part1.webp",
+      "alt": "Moisés orienta os representantes antes da viagem."
+    },
+    {
+      "heading": "Um relatório cheio de medo",
+      "paragraphs": [
+        "Ao voltar, os representantes se apresentaram a Moisés, Arão e ao povo. Mostraram os frutos e confirmaram que a terra era boa. Mas também falaram de cidades fortificadas e de habitantes fortes. Os desafios eram reais. A diferença surgiria na maneira como responderiam a essas informações.",
+        "Calebe tentou acalmar a comunidade e afirmou que poderiam avançar. Outros representantes insistiram que não seriam capazes. Seu relato se tornou cada vez mais assustador, até compararem a si mesmos a pequenos gafanhotos diante dos habitantes. O medo passou a ocupar mais espaço do que a memória da ajuda de Deus.",
+        "Durante a noite, o povo chorou e falou em voltar ao Egito. Josué e Calebe reafirmaram a qualidade da terra e lembraram que o Senhor poderia conduzi-los. Não diziam que o caminho seria fácil. Pediam que a comunidade não transformasse a dificuldade numa razão para abandonar a confiança e a direção recebidas."
+      ],
+      "image": "94/part2.webp",
+      "alt": "Os homens mostram os frutos ao povo."
+    },
+    {
+      "heading": "Escolhas que mudaram o caminho",
+      "paragraphs": [
+        "A comunidade não acolheu a palavra dos dois e chegou a ameaçá-los. Moisés intercedeu pelo povo, pedindo misericórdia. Deus anunciou que aquela geração que recusara confiar não entraria na terra, com a exceção de Josué e Calebe. Os filhos que temiam perder chegariam a conhecê-la depois de uma longa caminhada.",
+        "A jornada pelo deserto se estenderia por quarenta anos. Quando ouviram isso, alguns tentaram avançar por conta própria, apesar do aviso de Moisés de que não deveriam ir. A tentativa terminou mal. A coragem necessária não era agir de qualquer maneira para compensar o erro, mas ouvir a direção de Deus com responsabilidade.",
+        "O grande cacho de uvas havia mostrado uma terra fértil; o medo havia contado outra história sobre o futuro. Josué e Calebe nos lembram de que observar os desafios e confiar podem caminhar juntos. Uma decisão sábia não nasce de negar os riscos nem de permitir que o medo fale sozinho."
+      ],
+      "image": "94/part3.webp",
+      "alt": "Josué e Calebe encorajam a comunidade."
+    }
+  ],
+  "lesson": "Coragem não é fingir que uma dificuldade não existe. Josué e Calebe viram os mesmos desafios que os outros, mas lembraram também do cuidado de Deus. Podemos aprender a buscar informações, ouvir orientação e conversar sobre nossos medos antes de decidir. Agir por impulso depois de um erro também não resolve tudo. A confiança responsável dá espaço à verdade, à preparação e à ajuda de pessoas sábias.",
+  "question": "Qual desafio você pode olhar com mais equilíbrio, lembrando tanto das dificuldades quanto das ajudas disponíveis?",
+  "prayer": "Senhor, ajuda-me a enxergar os desafios com clareza, sem deixar o medo decidir tudo. Dá-me coragem para ouvir bons conselhos, preparar meus passos e confiar em teu cuidado. Ensina-me a agir com responsabilidade, sem desistir nem correr por impulso. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Dois exploradores carregam um grande cacho de uvas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Scene: Two adult Israelite explorers carry large natural grape cluster suspended from wooden pole between shoulders, Joshua and Caleb lead group through fertile valley, figs pomegranates, no giants or battle."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés orienta os representantes antes da viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Scene: Moses speaks to twelve adult tribal representatives at desert camp edge, travel staffs and bundles, Joshua and Caleb visible attentive, no map."
+    },
+    {
+      "role": "part2",
+      "alt": "Os homens mostram os frutos ao povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Scene: Explorers present large grape cluster and baskets of figs pomegranates to Moses and gathered families, some concerned faces, desert tents, no aggressive crowd."
+    },
+    {
+      "role": "part3",
+      "alt": "Josué e Calebe encorajam a comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Joshua adult olive-brown man dark curls short dark beard teal tunic brown cloak; Caleb adult olive-skinned man curly dark hair thick beard rust tunic ochre mantle. Scene: Joshua and Caleb stand together speaking earnestly with open hands to listening adults, Moses nearby, hopeful firm expressions, no stones or weapons."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+13-14&version=KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 239,
+  "title": "Simeão e a Promessa",
+  "subtitle": "Uma esperança recebida nos braços",
+  "reference": "Lucas 2:22–35",
+  "description": "Maria e José levam Jesus ao templo. Guiado pelo Espírito Santo, Simeão reconhece no menino a salvação que esperava e agradece a Deus.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.2.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma família chega ao templo",
+      "paragraphs": [
+        "Maria e José levaram o pequeno Jesus a Jerusalém para apresentá-lo ao Senhor. Seguiam as orientações da Lei para aquele momento da vida de sua família. A oferta mencionada por Lucas era um par de rolas ou dois pombinhos. Era assim que chegavam ao templo, com o bebê e sua disposição de obedecer.",
+        "Na mesma cidade vivia Simeão. Era um homem justo e dedicado a Deus, que esperava a consolação de Israel. Essa expressão falava da esperança de que Deus viesse socorrer seu povo. Simeão não conhecia apenas histórias antigas; vivia atento ao que o Senhor ainda faria, sustentando sua esperança no presente.",
+        "O Espírito Santo havia lhe revelado que ele veria o Cristo do Senhor antes de morrer. Simeão guardava essa promessa enquanto continuava sua vida em Jerusalém. Deus lhe dera uma esperança preciosa. A salvação que seu povo aguardava também fazia parte de sua espera pessoal, e ele permanecia atento à direção do Espírito."
+      ],
+      "alt": "Maria e José entram no pátio do templo levando Jesus bebê.",
+      "image": "239/part1.webp"
+    },
+    {
+      "heading": "O encontro esperado",
+      "paragraphs": [
+        "Movido pelo Espírito, Simeão foi ao templo. Foi ali que encontrou Maria, José e o menino. Não havia um exército acompanhando a família, nem um trono preparado no meio do pátio. A promessa chegou diante dele na forma de uma criança pequena, levada ao templo pelos cuidados de seus pais.",
+        "Simeão recebeu Jesus nos braços e louvou a Deus. Reconheceu que seus olhos estavam vendo a salvação preparada pelo Senhor. A espera encontrou seu momento de alegria. Aqueles braços seguravam um bebê, mas as palavras de Simeão apontavam para a missão que ele cumpriria em favor de muitos.",
+        "Em seu louvor, Simeão falou de luz para outros povos e de glória para Israel. A esperança não ficava fechada dentro de um único grupo. Deus estava preparando salvação diante de todos os povos. Maria e José ficaram admirados com o que ouviam sobre Jesus. Havia ainda muito para compreender e guardar no coração."
+      ],
+      "alt": "Simeão segura Jesus com reverência enquanto Maria e José observam.",
+      "image": "239/part2.webp"
+    },
+    {
+      "heading": "Alegria e palavras sérias",
+      "paragraphs": [
+        "Simeão abençoou a família e falou especialmente com Maria. Disse que Jesus revelaria o que havia no coração de muitas pessoas. Alguns o receberiam; outros se oporiam a ele. Sua presença não deixaria tudo como estava. O encontro cheio de gratidão também trouxe palavras sérias sobre os desafios que viriam.",
+        "Simeão disse a Maria que ela mesma conheceria uma dor profunda, comparando esse sofrimento a uma espada atravessando sua alma. As palavras anunciavam um caminho de amor que também teria tristeza. A mãe de Jesus ouvia uma bênção e uma notícia difícil no mesmo encontro. Sua vida estaria ligada de perto à missão daquele menino.",
+        "Por enquanto, Jesus continuava pequeno, seguro nos cuidados de sua família. Simeão podia descansar na promessa cumprida. A cena do templo reuniu a espera de um homem e o começo da vida de um menino. Deus estava agindo, e aquele encontro ensinava as pessoas a reconhecer sua salvação de um jeito inesperado."
+      ],
+      "alt": "Simeão abençoa Maria e José em um encontro sereno no templo.",
+      "image": "239/part3.webp"
+    }
+  ],
+  "lesson": "Nem sempre algo importante chega fazendo barulho. Simeão reconheceu uma grande esperança em uma criança pequena. Podemos aprender a prestar atenção às pessoas e aos cuidados que passam despercebidos. A história também não esconde que amar pode trazer preocupações e tristeza. Quando esses sentimentos aparecem, podemos conversar com um adulto de confiança, receber consolo e continuar cuidando uns dos outros com paciência.",
+  "question": "Que cuidado pequeno, recebido hoje, merece sua atenção e seu agradecimento?",
+  "prayer": "Deus, ajuda-nos a reconhecer teu cuidado nos encontros simples. Obrigado pelas pessoas que nos acolhem e protegem. Quando ficarmos tristes ou preocupados, aproxima-nos de quem pode nos ajudar. Ensina nossa família a esperar com confiança e a cuidar com amor. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/239.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Simeão segura Jesus diante de Maria e José.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Simeon mature Jewish man with salt-and-pepper beard and warm brown robe gently cradles baby Jesus wrapped in cream, Mary dark hair cream veil blue dress and Joseph dark beard tan tunic watch with wonder, temple courtyard golden light."
+    },
+    {
+      "role": "part1",
+      "alt": "Maria e José entram no pátio do templo levando Jesus bebê.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Mary dark hair cream veil blue dress carries newborn Jesus safely, Joseph dark beard tan tunic carries small woven basket, entering spacious Jerusalem temple courtyard with pale stone columns, morning light, no grand procession."
+    },
+    {
+      "role": "part2",
+      "alt": "Simeão segura Jesus com reverência enquanto Maria e José observam.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close-medium view Simeon salt-and-pepper beard brown robe gazes gratefully at baby Jesus in his arms, Mary cream veil blue dress and Joseph tan tunic stand close with tender attentive faces, temple columns blurred."
+    },
+    {
+      "role": "part3",
+      "alt": "Simeão abençoa Maria e José em um encontro sereno no templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Simeon salt-and-pepper beard brown robe raises one open hand in gentle blessing toward Mary cream veil blue dress holding infant and Joseph tan tunic, thoughtful peaceful expressions, temple courtyard, warm afternoon, no weapons."
+    }
+  ]
+}

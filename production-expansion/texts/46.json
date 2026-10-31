@@ -1,0 +1,71 @@
+{
+  "id": 46,
+  "title": "Melquisedeque e a Bênção da Gratidão",
+  "subtitle": "Reconhecer de onde vem o bem",
+  "reference": "Gênesis 14:17–24",
+  "description": "Depois do resgate de Ló, Abraão encontra Melquisedeque. Pão, bênção e uma escolha generosa marcam seu retorno.",
+  "testament": "antigo",
+  "cover": "/images/covers/46.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um encontro no retorno",
+      "paragraphs": [
+        "Abraão voltava de uma viagem difícil. Havia reunido seus homens e aliados para resgatar Ló, levado prisioneiro numa guerra. O resgate fora bem-sucedido: o sobrinho e outras pessoas estavam novamente em liberdade, e os bens tomados haviam sido recuperados. No caminho de volta, Abraão encontrou governantes que tinham notícias daquela vitória.",
+        "O rei de Sodoma foi recebê-lo no vale de Savé, chamado também vale do Rei. Mas outro homem entrou na história: Melquisedeque, rei de Salém. Além de governar sua cidade, ele era sacerdote do Deus Altíssimo. A Bíblia apresenta seu nome e sua função, sem contar toda a trajetória de sua vida.",
+        "Melquisedeque trouxe pão e vinho. Depois do esforço e da viagem, aquele encontro tinha algo de acolhimento. Abraão não estava diante de mais uma batalha. Agora havia alimento e palavras que apontavam para Deus. O retorno dos que haviam sido resgatados também era uma oportunidade para reconhecer o cuidado recebido durante o caminho."
+      ],
+      "image": "46/part1.webp",
+      "alt": "Abraão encontra Melquisedeque no caminho de volta."
+    },
+    {
+      "heading": "Uma bênção que ensina a agradecer",
+      "paragraphs": [
+        "Melquisedeque abençoou Abraão em nome do Deus Altíssimo, Criador dos céus e da terra. Não começou dizendo que Abraão era o maior ou que nunca precisaria de ninguém. Suas palavras ligaram a vida daquele homem a alguém muito maior: o Deus a quem pertenciam o céu acima e a terra por onde caminhavam.",
+        "Depois, Melquisedeque bendisse a Deus pela vitória. Reconheceu que os inimigos haviam sido entregues nas mãos de Abraão. Aquele reconhecimento não apagava a preparação dos homens nem o esforço dos aliados. Ensinava a olhar além do próprio mérito. Era possível realizar uma tarefa corajosa e continuar sendo uma pessoa que sabe agradecer.",
+        "Abraão lhe deu a décima parte de tudo. O gesto aparece no relato como uma resposta àquele encontro e à bênção. Ele não voltou simplesmente juntando riquezas para si. Parou, ouviu e ofereceu. Entre as pessoas que tinham retornado e os bens recuperados, a gratidão encontrou um lugar concreto em sua decisão."
+      ],
+      "image": "46/part2.webp",
+      "alt": "Melquisedeque abençoa Abraão diante de uma mesa simples."
+    },
+    {
+      "heading": "Uma riqueza que não seria tomada",
+      "paragraphs": [
+        "O rei de Sodoma fez uma proposta a Abraão: ele poderia ficar com os bens, desde que devolvesse as pessoas. Abraão recusou tomar para si aquela riqueza. Explicou que havia feito um compromisso diante do Senhor, o Deus Altíssimo, Criador dos céus e da terra. A linguagem lembrava a bênção que acabara de receber.",
+        "Ele não queria que o rei dissesse depois que o havia enriquecido. Não tomaria nem um objeto pequeno como um fio ou uma tira de sandália. Havia ido socorrer pessoas, e não enriquecer à custa da dificuldade delas. O resgate não seria usado como uma maneira de tornar os outros dependentes de sua vantagem.",
+        "Abraão, porém, fez uma distinção justa. Os alimentos que seus homens haviam consumido durante a viagem seriam considerados, e seus aliados poderiam receber a parte que lhes cabia. Sua escolha pessoal não apagava os direitos dos companheiros. Assim, o encontro reuniu gratidão, generosidade e respeito: três atitudes que davam sentido à vitória e ao caminho de volta."
+      ],
+      "image": "46/part3.webp",
+      "alt": "Abraão conversa com o rei e seus companheiros sobre os bens recuperados."
+    }
+  ],
+  "lesson": "Quando conseguimos realizar algo difícil, podemos agradecer a Deus e reconhecer quem participou. Um resultado bom raramente acontece sem cuidado, aprendizado ou ajuda. Também podemos escolher não usar a fragilidade de outra pessoa para tirar vantagem. Generosidade inclui respeitar os direitos de quem trabalhou conosco. A atitude de Abraão nos convida a perguntar o que é justo, mesmo quando poderíamos ficar com mais coisas.",
+  "question": "Quem ajudou você em uma conquista recente e merece ouvir seu agradecimento?",
+  "prayer": "Deus Altíssimo, obrigado pelas pessoas que nos ajudam e pelas oportunidades de fazer o bem. Ensina-nos a agradecer sem orgulho e a repartir com justiça. Que nossas conquistas nunca sejam motivo para diminuir os outros. Cuida de nosso coração. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Melquisedeque acolhe Abraão com pão e uma bênção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive skin, white beard, cream robe and terracotta mantle. Melchizedek: mature olive-skinned man, graying beard, deep indigo mantle, cream priestly robe and modest woven headpiece, no European medieval crown. Scene: Melchizedek welcomes Abraham with a tray of bread beside a simple table, clay cup and wine jug, dignified warm encounter, no text."
+    },
+    {
+      "role": "part1",
+      "alt": "Abraão encontra Melquisedeque no caminho de volta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive skin, white beard, cream robe and terracotta mantle. Melchizedek: mature olive-skinned man, graying beard, deep indigo mantle, cream priestly robe and modest woven headpiece, no European medieval crown. Scene: Wide scene of returning caravan meeting Melchizedek at a peaceful valley entrance, Abraham steps forward, ancient setting."
+    },
+    {
+      "role": "part2",
+      "alt": "Melquisedeque abençoa Abraão diante de uma mesa simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive skin, white beard, cream robe and terracotta mantle. Melchizedek: mature olive-skinned man, graying beard, deep indigo mantle, cream priestly robe and modest woven headpiece, no European medieval crown. Scene: Melchizedek raises an open hand in blessing while Abraham respectfully bows his head, bread and clay vessels on modest table, medium composition."
+    },
+    {
+      "role": "part3",
+      "alt": "Abraão conversa com o rei e seus companheiros sobre os bens recuperados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive skin, white beard, cream robe and terracotta mantle. Melchizedek: mature olive-skinned man, graying beard, deep indigo mantle, cream priestly robe and modest woven headpiece, no European medieval crown. Scene: Abraham with open peaceful palm declines an offer of bundled goods from a dignified local ruler, three adult allies listen, no money glamour."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+14&version=KJV"
+  ]
+}

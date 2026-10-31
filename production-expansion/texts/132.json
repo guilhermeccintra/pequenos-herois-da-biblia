@@ -1,0 +1,71 @@
+{
+  "id": 132,
+  "title": "Davi Escolhe Poupar",
+  "subtitle": "Uma oportunidade de abandonar a vingança",
+  "reference": "1 Samuel 24",
+  "description": "Saul entra numa caverna sem saber que Davi está escondido ali. Davi precisa decidir o que fazer quando tem nas mãos a chance de ferir quem o persegue.",
+  "testament": "antigo",
+  "cover": "/images/covers/132.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um esconderijo em En-Gedi",
+      "paragraphs": [
+        "Davi e seus homens se escondiam na região de En-Gedi. Saul os perseguia com um grande grupo, tratando Davi como inimigo. A vida entre rochas e cavernas não era uma aventura confortável. Eles procuravam abrigo porque havia perigo. Enquanto isso, o rei continuava buscando o homem que havia servido em sua própria casa.",
+        "Perto de currais de ovelhas, Saul entrou numa caverna para ficar sozinho por um momento. Não sabia que Davi e seus companheiros estavam nas partes mais profundas daquele lugar. A escuridão escondia os homens, e o rei estava vulnerável. De repente, surgiu uma oportunidade que os companheiros de Davi interpretaram como uma chance de acabar com a perseguição.",
+        "Eles lembraram Davi de uma promessa e o encorajaram a agir contra Saul. Mas ter uma oportunidade não significa que qualquer ação seja correta. Davi precisaria decidir por si mesmo, sem simplesmente seguir a pressão dos que estavam ao redor. O perigo vivido não apagava a responsabilidade pelo que faria naquele instante."
+      ],
+      "image": "132/part1.webp",
+      "alt": "Davi e seus companheiros descansam na parte segura de uma caverna ampla, com luz na entrada."
+    },
+    {
+      "heading": "Um pedaço da capa",
+      "paragraphs": [
+        "Davi se aproximou sem ser percebido e cortou uma ponta da capa de Saul. Depois, porém, ficou incomodado com o que havia feito. Mesmo sem ferir o rei, reconheceu que estava diante de uma pessoa que não queria atacar. Sua consciência o levou a parar antes de transformar a situação numa vingança maior.",
+        "Ele disse aos homens que não levantaria a mão contra Saul, o ungido do Senhor. Impediu também que os companheiros o atacassem. O rei saiu da caverna sem saber o que acontecera. Davi havia escolhido não usar sua posição de vantagem para tirar a vida de quem o perseguia. Essa decisão não tornava a perseguição justa nem segura.",
+        "Quando Saul já estava afastado, Davi saiu e o chamou. Curvou-se com respeito e perguntou por que ele ouvia quem dizia que Davi queria prejudicá-lo. Apresentou o que havia ocorrido naquela caverna. O rei estivera ao seu alcance, e ele o poupara. A conversa buscava mostrar a diferença entre a acusação recebida e a atitude realmente tomada."
+      ],
+      "image": "132/part2.webp",
+      "alt": "Davi segura um pedaço de tecido e faz um gesto para que seus companheiros permaneçam calmos."
+    },
+    {
+      "heading": "O que a capa mostrava",
+      "paragraphs": [
+        "Davi ergueu o pedaço da capa como prova. Se tivesse desejado matar Saul, poderia ter tentado fazê-lo, mas escolhera outra coisa. Pediu que o Senhor julgasse entre os dois e afirmou que não usaria a própria mão para se vingar. Sua defesa não consistia em fingir que nada estava acontecendo. Ele nomeou a injustiça e recusou responder com o mesmo mal.",
+        "Saul reconheceu a voz de Davi e chorou. Admitiu que Davi o tratara bem enquanto ele lhe fizera mal. Também reconheceu que o jovem ainda seria rei e pediu que preservasse sua família. Davi prometeu. Naquele encontro, a verdade pôde ser dita, e o gesto de poupar trouxe uma pausa à hostilidade.",
+        "Depois, Saul voltou para casa. Davi e seus homens, porém, seguiram para um lugar seguro. A reconciliação das palavras não obrigava Davi a abandonar toda proteção. Ele havia renunciado à vingança sem negar o perigo. A história mostra que bondade e limites podem caminhar juntos, especialmente quando alguém já demonstrou atitudes que ameaçam a vida."
+      ],
+      "image": "132/part3.webp",
+      "alt": "Davi e seus homens seguem para um abrigo seguro enquanto Saul toma outro caminho ao longe."
+    }
+  ],
+  "lesson": "Davi teve uma oportunidade de revidar, mas escolheu não deixar que a raiva decidisse por ele. Essa escolha nos convida a parar antes de responder a uma ofensa. Podemos respirar, conversar com alguém de confiança e procurar uma solução justa. Não precisamos repetir palavras que machucam só porque as ouvimos primeiro. Deus pode nos ajudar a agir com domínio próprio e a buscar paz, mantendo o cuidado com nossa vida e com os outros.",
+  "question": "Como você pode responder a uma provocação sem se vingar e, ao mesmo tempo, proteger seus limites?",
+  "prayer": "Deus, ajuda-nos a abandonar a vingança e a buscar caminhos de justiça e proteção. Quando estivermos magoados, guia-nos até pessoas confiáveis. Dá-nos coragem para dizer a verdade, respeitar limites e nos afastar de situações perigosas sem responder ao mal com mais violência. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi mostra a Saul um pequeno pedaço de tecido à distância, diante das rochas de En-Gedi.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls sand tunic green sash brown cloak; Saul tall mature man dark beard ochre royal cloak. Rocky En-Gedi canyon, peaceful distant conversation; no blades, no threatening gestures, fully clothed. Only characters stated in scene. Scene: Davi mostra a Saul um pequeno pedaço de tecido à distância, diante das rochas de En-Gedi."
+    },
+    {
+      "role": "part1",
+      "alt": "Davi e seus companheiros descansam na parte segura de uma caverna ampla, com luz na entrada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls sand tunic green sash brown cloak; Saul tall mature man dark beard ochre royal cloak. Rocky En-Gedi canyon, peaceful distant conversation; no blades, no threatening gestures, fully clothed. Only characters stated in scene. Scene: Davi e seus companheiros descansam na parte segura de uma caverna ampla, com luz na entrada. MANDATORY SCENE CAST: Only David and his adult companions inside the cave. Saul is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Davi segura um pedaço de tecido e faz um gesto para que seus companheiros permaneçam calmos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls sand tunic green sash brown cloak; Saul tall mature man dark beard ochre royal cloak. Rocky En-Gedi canyon, peaceful distant conversation; no blades, no threatening gestures, fully clothed. Only characters stated in scene. Scene: Davi segura um pedaço de tecido e faz um gesto para que seus companheiros permaneçam calmos. MANDATORY SCENE CAST: Only David and his adult companions. Saul is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Davi e seus homens seguem para um abrigo seguro enquanto Saul toma outro caminho ao longe.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David young adult olive skin reddish curls sand tunic green sash brown cloak; Saul tall mature man dark beard ochre royal cloak. Rocky En-Gedi canyon, peaceful distant conversation; no blades, no threatening gestures, fully clothed. Only characters stated in scene. Scene: Davi e seus homens seguem para um abrigo seguro enquanto Saul toma outro caminho ao longe."
+    }
+  ]
+}

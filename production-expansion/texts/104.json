@@ -1,0 +1,71 @@
+{
+  "id": 104,
+  "title": "Não Esqueçam o Caminho",
+  "subtitle": "A gratidão ajuda a lembrar de quem caminhou conosco",
+  "reference": "Deuteronômio 8",
+  "description": "Moisés recorda o cuidado no deserto e prepara o povo para receber uma terra boa sem esquecer de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/104.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Olhar para trás antes de seguir",
+      "paragraphs": [
+        "Moisés pediu aos israelitas que lembrassem de todo o caminho pelo qual o Senhor os havia conduzido durante quarenta anos no deserto. A memória daquela jornada guardava dificuldades, escolhas e cuidados. Antes de viver uma nova etapa, o povo precisava reconhecer o que havia aprendido e quem o havia sustentado.",
+        "Houvera fome, e Deus dera o maná, um alimento que as gerações anteriores não conheciam. A experiência ensinara que a vida depende de mais do que o pão: depende também da palavra do Senhor. As necessidades do corpo importavam, mas o povo precisava de direção para saber como caminhar e viver.",
+        "Moisés lembrou que suas roupas haviam sido preservadas e seus pés não tinham inchado durante aquela longa viagem. O cuidado de Deus aparecia em coisas muito próximas da vida cotidiana. Às vezes, algo que nos sustenta por bastante tempo acaba parecendo comum demais para receber nossa atenção e nossa gratidão."
+      ],
+      "image": "104/part1.webp",
+      "alt": "Moisés recorda o cuidado durante o caminho no deserto."
+    },
+    {
+      "heading": "Uma terra cheia de possibilidades",
+      "paragraphs": [
+        "O Senhor os conduziria a uma terra boa, com cursos de água, fontes e nascentes entre vales e montanhas. Moisés falou de trigo, cevada, uvas, figos, romãs, azeite e mel. Depois de tantos dias de deserto, aquela descrição apresentava um lugar onde seria possível plantar, construir e alimentar as famílias.",
+        "Quando comessem e ficassem satisfeitos, deveriam agradecer ao Senhor pela boa terra recebida. A gratidão não precisaria esperar uma situação extraordinária. Uma refeição terminada seria uma oportunidade de lembrar que a vida e seus recursos não eram algo que as pessoas produziam inteiramente sozinhas, sem depender de ninguém.",
+        "Mas havia um perigo também na abundância. Casas confortáveis, rebanhos maiores e bens acumulados poderiam fazer o coração se encher de orgulho. Moisés não queria que o povo, depois de receber tanto, tratasse o Senhor como alguém dispensável. A facilidade também poderia se tornar um momento de esquecimento."
+      ],
+      "image": "104/part2.webp",
+      "alt": "Uma família agradece pelo alimento recebido."
+    },
+    {
+      "heading": "Não foi apenas a força das mãos",
+      "paragraphs": [
+        "Moisés advertiu que não deveriam atribuir tudo apenas à própria força e habilidade. Era Deus quem lhes dava capacidade para trabalhar e produzir, mantendo sua aliança. Reconhecer isso não diminuía o valor do esforço; ajudava a enxergá-lo dentro de uma história maior, feita também de oportunidades, cuidado e apoio recebido.",
+        "O povo precisava lembrar da saída da escravidão, da água no deserto e do alimento que sustentara a caminhada. Se abandonasse o Senhor para seguir outros deuses, encontraria consequências graves. A nova terra não era um convite para esquecer o compromisso, mas um lugar onde continuariam precisando de fidelidade e humildade.",
+        "A fala de Moisés unia memória, gratidão e responsabilidade. Lembrar o caminho ajudaria Israel a usar bem o que recebesse. Para nós, essa história não promete riqueza a quem tem fé. Ela convida a reconhecer o cuidado presente na vida e a não deixar que uma conquista apague a lembrança de quem nos ajudou a chegar."
+      ],
+      "image": "104/part3.webp",
+      "alt": "Pessoas compartilham o fruto do seu trabalho."
+    }
+  ],
+  "lesson": "Uma conquista costuma reunir esforço e ajuda recebida. Moisés pediu ao povo que não esquecesse o cuidado de Deus quando a vida ficasse mais confortável. Podemos agradecer por uma refeição, por quem nos ensinou e pelas oportunidades que tivemos. A gratidão não diminui nosso trabalho; torna nossa visão mais completa. Lembrar de quem caminhou conosco também nos ajuda a compartilhar e a tratar com respeito quem ainda enfrenta dificuldades.",
+  "question": "Quem ajudou você a alcançar algo importante e merece receber um agradecimento seu?",
+  "prayer": "Senhor, obrigado pelo cuidado que sustenta minha vida e pelas pessoas que me ajudam a crescer. Não deixes que minhas conquistas me tornem orgulhoso ou esquecido. Ensina-me a agradecer, compartilhar e usar com responsabilidade aquilo que recebo a cada dia. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés fala de uma terra boa às famílias de Israel.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative family mother olive skin dark hair cream dress teal shawl; father brown beard rust tunic; two children modest sage and ochre clothing. Scene: Moses addresses family group on rocky rise overlooking lush distant valley with streams and cultivated fields, warm hopeful morning, basket of figs grapes pomegranates as thematic foreground, no magic objects."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés recorda o cuidado durante o caminho no deserto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative family mother olive skin dark hair cream dress teal shawl; father brown beard rust tunic; two children modest sage and ochre clothing. Scene: Moses seated among adult elders beside desert tents with simple woven baskets and clay water jars, thoughtful shared memories, no future farms in foreground."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família agradece pelo alimento recebido.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative family mother olive skin dark hair cream dress teal shawl; father brown beard rust tunic; two children modest sage and ochre clothing. Scene: Illustrative ancient Hebrew family of parents and two children seated around low table outdoors with bread olives figs and clay jug, grateful quiet expressions, modest stone courtyard, no Moses."
+    },
+    {
+      "role": "part3",
+      "alt": "Pessoas compartilham o fruto do seu trabalho.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Illustrative family mother olive skin dark hair cream dress teal shawl; father brown beard rust tunic; two children modest sage and ochre clothing. Scene: Illustrative ancient Hebrew adults share baskets of grain figs and olives with neighbors at stone courtyard doorway, humble smiles, natural rich materials, no royalty or Moses."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Deuteronomy+8&version=KJV"
+  ]
+}

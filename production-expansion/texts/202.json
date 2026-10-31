@@ -1,0 +1,74 @@
+{
+  "id": 202,
+  "title": "A Árvore Junto às Águas",
+  "subtitle": "Um salmo sobre raízes e escolhas",
+  "reference": "Salmo 1",
+  "description": "Uma árvore bem cuidada ajuda a compreender a vida de quem aprende a seguir o caminho de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/202.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Dois caminhos diante dos olhos",
+      "paragraphs": [
+        "O primeiro salmo abre o livro com uma pergunta que pode acompanhar qualquer pessoa: que caminho vale a pena seguir? O poema fala de escolhas, de conselhos e da companhia que aceitamos. Algumas vozes convidam à maldade e à zombaria. Outras ajudam a aprender o que é verdadeiro e justo.",
+        "A pessoa apresentada pelo salmo encontra alegria no ensino do Senhor. Ela volta a pensar nesse ensino durante o dia e durante a noite. É como alguém que guarda uma orientação importante e se lembra dela quando chega a hora de decidir. A Palavra começa a participar dos pequenos passos.",
+        "Esse cuidado com as escolhas também envolve a maneira de tratar os outros. Entrar numa roda de zombaria pode parecer fácil, principalmente quando todos estão rindo. O salmo convida a escolher uma direção diferente: escutar a sabedoria de Deus e cultivar um coração que respeita as pessoas ao redor."
+      ],
+      "image": "202/part1.webp",
+      "alt": "Dois caminhos atravessam uma paisagem de colinas"
+    },
+    {
+      "heading": "Uma árvore bem plantada",
+      "paragraphs": [
+        "Para mostrar essa vida, o poeta desenha uma paisagem com palavras. Há uma árvore plantada junto a correntes de água. Suas raízes encontram alimento onde estão firmes. A água ajuda a sustentar o tronco, os ramos e as folhas. A imagem transmite vida, cuidado e continuidade, mesmo quando o tempo muda.",
+        "No momento certo, a árvore oferece fruto. O poema presta atenção à estação: crescer tem seu ritmo. Primeiro há raízes que ninguém vê, depois ramos e folhas, e então chega o fruto. Assim também o aprendizado do bem vai aparecendo em atitudes, conforme o coração é alimentado e exercitado.",
+        "Quem escuta a Palavra pode cultivar raízes de confiança. Quem pratica a verdade fortalece o hábito de ser honesto. Quem aprende a repartir oferece um fruto de generosidade. São comparações que ajudam a imaginar a mensagem do salmo e a reconhecer como as escolhas de cada dia formam nossa vida."
+      ],
+      "image": "202/part2.webp",
+      "alt": "Raízes firmes alcançam a margem úmida do riacho"
+    },
+    {
+      "heading": "Raízes que dão firmeza",
+      "paragraphs": [
+        "O salmo apresenta outra imagem: a palha leve que o vento leva embora. Durante o trabalho com os cereais, a parte sem peso podia ser separada do grão e carregada pelo ar. O poeta usa essa figura para mostrar a falta de firmeza de um caminho construído sobre a maldade.",
+        "A diferença entre as duas imagens é grande. A árvore está ligada à fonte que a alimenta; a palha solta acompanha qualquer sopro. O poema termina lembrando que o Senhor conhece o caminho dos justos. Diante dele, nossas atitudes têm importância, e o cuidado com o bem encontra sentido.",
+        "Uma criança também pode crescer como a árvore dessa canção: escutando, perguntando e praticando um pouquinho a cada dia. Há momentos de aprender e momentos de tentar novamente. Com raízes de confiança em Deus, o coração pode oferecer frutos que alimentam a convivência: amizade, paciência, coragem e alegria de fazer o bem."
+      ],
+      "image": "202/part3.webp",
+      "alt": "Espigas de trigo e palha leve ao vento"
+    }
+  ],
+  "lesson": "Boas escolhas crescem quando recebem atenção. Assim como uma árvore precisa de água, nosso coração precisa de ensino, cuidado e oportunidades de praticar. O Salmo 1 nos ajuda a perceber quais conselhos merecem ser guardados. Escolha hoje uma orientação de Deus para lembrar durante o dia. Aos poucos, ela poderá aparecer em atitudes que tragam alegria e cuidado para outras pessoas.",
+  "question": "Que atitude boa você deseja cultivar como um fruto em sua vida?",
+  "prayer": "Deus, ajuda-me a criar raízes no teu amor e a aprender com tua Palavra. Dá-me sabedoria para escolher bons conselhos e coragem para deixar a zombaria. Que minhas atitudes ofereçam frutos de bondade, verdade e amizade todos os dias. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA001.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Árvore frondosa com frutos junto a um riacho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Psalm 1: magnificent healthy fruit tree beside a clear flowing stream in ancient Judean countryside, visible roots near bank, rich leaves, small fruit, warm dawn, beautifully detailed bark and grasses. No people. "
+    },
+    {
+      "role": "part1",
+      "alt": "Dois caminhos atravessam uma paisagem de colinas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic symbolic landscape: two modest footpaths diverge in Judean countryside, one approaches a thriving streamside tree, the other crosses dry loose ground. Warm thoughtful light, no signs, no people, no lettering. "
+    },
+    {
+      "role": "part2",
+      "alt": "Raízes firmes alcançam a margem úmida do riacho",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Intimate low viewpoint on thick natural tree roots holding a moist riverbank, sparkling clear flowing water, lush leaves overhead and ripe figs on low branch, textured stones and moss. No people. "
+    },
+    {
+      "role": "part3",
+      "alt": "Espigas de trigo e palha leve ao vento",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic contrast from Psalm 1 in a single coherent landscape: a small ancient threshing floor with golden grain in a basket and a little chaff blowing gently away, healthy streamside tree in distance. No people, no supernatural effects. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

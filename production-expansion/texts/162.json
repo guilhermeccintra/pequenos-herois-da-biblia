@@ -1,0 +1,71 @@
+{
+  "id": 162,
+  "title": "O Machado Emprestado",
+  "subtitle": "Cuidar do que pertence ao outro",
+  "reference": "2 Reis 6:1–7",
+  "description": "Um grupo precisa ampliar o lugar onde vive e aprende. Durante o trabalho, a lâmina de um machado cai no Jordão, e seu dono lembra com aflição que a ferramenta era emprestada.",
+  "testament": "antigo",
+  "cover": "/images/covers/162.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um lugar pequeno para o grupo",
+      "paragraphs": [
+        "Os discípulos dos profetas disseram a Eliseu que o lugar onde se reuniam com ele estava pequeno. A comunidade precisava de mais espaço. Propuseram ir ao Jordão, onde cada homem poderia conseguir madeira para construir um lugar adequado. A ideia não era esperar que uma única pessoa resolvesse tudo. Cada participante contribuiria com uma parte do trabalho.",
+        "Eliseu concordou. Um dos homens, porém, pediu que ele os acompanhasse, e o profeta aceitou. A presença de quem os orientava era importante para o grupo. Eles partiram juntos para a região do rio, levando o necessário para cortar madeira. A mudança começava com uma conversa sobre a necessidade e com disposição de cooperar.",
+        "Ao chegar, os homens começaram a cortar árvores. O som das ferramentas acompanhava o trabalho à beira do rio. Cada tronco reunido faria parte do novo lugar onde poderiam aprender juntos. Eliseu estava por perto, e o grupo seguia com a disposição de transformar aquela ideia numa casa maior para a comunidade."
+      ],
+      "image": "162/part1.webp",
+      "alt": "Eliseu conversa com um grupo de adultos diante de uma pequena casa, planejando a ampliação do espaço."
+    },
+    {
+      "heading": "A ferramenta cai na água",
+      "paragraphs": [
+        "Enquanto um dos homens cortava uma árvore, a parte de ferro de seu machado se soltou e caiu na água. Ele reagiu com aflição e chamou Eliseu. Explicou que a ferramenta era emprestada. Sua preocupação não era apenas ter interrompido o trabalho. Havia outra pessoa que confiara nele para usar e devolver aquele objeto.",
+        "Uma ferramenta de ferro tinha valor e não seria fácil substituí-la. O homem não tentou esconder o que acontecera nem colocar a culpa em alguém que não estava ali. Contou o problema imediatamente. Um acidente já havia ocorrido; escondê-lo só acrescentaria outra dificuldade. Sua sinceridade permitiu que Eliseu soubesse o que era necessário considerar.",
+        "O profeta perguntou onde o ferro havia caído. O homem mostrou o lugar. Antes de agir, Eliseu ouviu e observou a informação concreta. A pergunta era simples, mas importante. Quando algo dá errado, explicar com clareza o que aconteceu pode ajudar mais que continuar repetindo apenas o tamanho da aflição."
+      ],
+      "image": "162/part2.webp",
+      "alt": "Um trabalhador mostra a Eliseu o lugar onde a ferramenta caiu, permanecendo na margem segura."
+    },
+    {
+      "heading": "O que foi perdido é recuperado",
+      "paragraphs": [
+        "Eliseu cortou um pedaço de madeira e o lançou no lugar indicado. Então aconteceu uma surpresa: o ferro flutuou! A ferramenta pesada, que parecia perdida no fundo do rio, apareceu sobre a água. O homem que acabara de pedir ajuda podia vê-la novamente. Deus havia cuidado de sua aflição de uma maneira que ninguém ali esperava.",
+        "O profeta disse ao homem que pegasse a ferramenta. Ele estendeu a mão e a recuperou. O objeto emprestado podia voltar ao seu dono, e a preocupação que interrompera o trabalho encontrou uma resposta. A narrativa é pequena, mas trata com seriedade uma perda que parecia comum diante de outras histórias mais grandiosas.",
+        "O grupo havia saído para construir um lugar maior. No meio da tarefa coletiva, a aflição de um único homem também foi percebida. O cuidado não precisava escolher entre a comunidade e a pessoa. A ferramenta recuperada lembrava que responsabilidade inclui o que usamos, a confiança de quem empresta e a coragem de falar quando não conseguimos resolver um problema sozinhos."
+      ],
+      "image": "162/part3.webp",
+      "alt": "O grupo observa com alívio a ferramenta recuperada, perto de troncos organizados para a construção."
+    }
+  ],
+  "lesson": "Quando usamos algo emprestado, cuidamos também da confiança de quem nos entregou o objeto. Se houver um acidente, podemos contar a verdade e procurar uma forma responsável de reparar. Não devemos entrar em rios ou usar ferramentas perigosas para recuperar coisas por conta própria. A segurança vem antes do objeto. Chamar um adulto e explicar o que aconteceu é uma atitude honesta, mesmo quando temos medo de que alguém fique aborrecido.",
+  "question": "Como você pode demonstrar cuidado antes de pedir algo emprestado e depois de devolvê-lo?",
+  "prayer": "Deus, ensina-nos a cuidar do que recebemos emprestado e a respeitar a confiança das pessoas. Quando acontecer um erro ou acidente, dá-nos coragem para contar a verdade e pedir ajuda. Ajuda-nos a procurar reparação sem colocar nossa segurança ou a de outros em risco. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um adulto recupera a lâmina de um machado junto à margem segura do rio, com Eliseu ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard cream tunic green cloak; adult workers earth linen. Jordan bank, wooden handles iron axe head, all tools handled safely, no children, no dangerous cutting. Only scene named people. Scene: Um adulto recupera a lâmina de um machado junto à margem segura do rio, com Eliseu ao lado."
+    },
+    {
+      "role": "part1",
+      "alt": "Eliseu conversa com um grupo de adultos diante de uma pequena casa, planejando a ampliação do espaço.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard cream tunic green cloak; adult workers earth linen. Jordan bank, wooden handles iron axe head, all tools handled safely, no children, no dangerous cutting. Only scene named people. Scene: Eliseu conversa com um grupo de adultos diante de uma pequena casa, planejando a ampliação do espaço."
+    },
+    {
+      "role": "part2",
+      "alt": "Um trabalhador mostra a Eliseu o lugar onde a ferramenta caiu, permanecendo na margem segura.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard cream tunic green cloak; adult workers earth linen. Jordan bank, wooden handles iron axe head, all tools handled safely, no children, no dangerous cutting. Only scene named people. Scene: Um trabalhador mostra a Eliseu o lugar onde a ferramenta caiu, permanecendo na margem segura."
+    },
+    {
+      "role": "part3",
+      "alt": "O grupo observa com alívio a ferramenta recuperada, perto de troncos organizados para a construção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elisha adult olive skin receding dark hair neat beard cream tunic green cloak; adult workers earth linen. Jordan bank, wooden handles iron axe head, all tools handled safely, no children, no dangerous cutting. Only scene named people. Scene: O grupo observa com alívio a ferramenta recuperada, perto de troncos organizados para a construção."
+    }
+  ]
+}

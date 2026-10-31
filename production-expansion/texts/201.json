@@ -1,0 +1,74 @@
+{
+  "id": 201,
+  "title": "O Céu Conta uma História",
+  "subtitle": "Um poema sobre a criação e a Palavra de Deus",
+  "reference": "Salmo 19",
+  "description": "O céu, o sol e as palavras de Deus convidam o coração a admirar, aprender e agradecer.",
+  "testament": "antigo",
+  "cover": "/images/covers/201.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma mensagem sem voz",
+      "paragraphs": [
+        "O Salmo 19 começa com um convite para olhar para cima. Davi escreveu um poema sobre os céus, que mostram a grandeza do Criador. A imensidão azul durante o dia e o brilho distante das estrelas à noite anunciam uma beleza que os olhos podem perceber antes mesmo de alguém explicar.",
+        "Um dia entrega essa mensagem ao dia seguinte. Uma noite a oferece à próxima noite. Na linguagem do poema, a criação parece contar uma história sem precisar de boca ou de voz. Pessoas de lugares diferentes podem levantar a cabeça e encontrar o mesmo céu cheio de motivos para se admirar.",
+        "Davi escolheu a imagem do sol para continuar sua canção. Comparou sua chegada à alegria de um noivo e à disposição de um corredor que começa o percurso. A luz se espalha e o calor alcança a terra. Cada manhã oferece outra oportunidade de reconhecer os presentes recebidos do Senhor."
+      ],
+      "image": "201/part1.webp",
+      "alt": "O sol ilumina as colinas e os campos ao amanhecer"
+    },
+    {
+      "heading": "Uma luz para o coração",
+      "paragraphs": [
+        "Depois de falar da luz que alcança o mundo, o salmo apresenta o ensino de Deus, que ilumina o coração. Suas orientações dão sabedoria a quem está aprendendo. A pessoa que escuta encontra direção para decidir, coragem para corrigir uma atitude e alegria para descobrir um caminho mais justo.",
+        "Para mostrar como esse ensino é precioso, Davi o comparou ao ouro. Para mostrar como pode alegrar a vida, comparou-o ao mel. Ouro e mel eram coisas muito desejadas. Mesmo assim, aprender a viver com verdade, bondade e respeito era um tesouro ainda maior para quem cantava aquele salmo.",
+        "O poema aproxima duas formas de atenção: observar a criação e escutar a Palavra. A primeira ajuda a perceber a grandeza de Deus. A segunda ajuda a responder com a própria vida. Assim, o encanto diante de uma manhã bonita pode continuar numa palavra honesta ou numa atitude cuidadosa."
+      ],
+      "image": "201/part2.webp",
+      "alt": "Um pergaminho, mel e pequenos objetos de ouro sobre uma mesa"
+    },
+    {
+      "heading": "As palavras que oferecemos",
+      "paragraphs": [
+        "A canção termina de um jeito muito pessoal. Depois de olhar para o céu e reconhecer o valor do ensino de Deus, Davi olha para dentro de si. Ele sabe que precisa de ajuda para perceber seus erros. Por isso pede perdão e proteção contra escolhas erradas feitas com insistência.",
+        "O pedido alcança tanto as palavras que saem da boca quanto os pensamentos guardados no coração. Davi deseja que tudo isso agrade ao Senhor. Deus é chamado de rocha e libertador: alguém em quem o poeta pode se apoiar enquanto aprende a viver de maneira mais verdadeira e fiel.",
+        "Podemos acompanhar o movimento desse poema: olhar ao redor com admiração, abrir os ouvidos para aprender e conversar com Deus sobre nossa vida. Uma estrela pequenina aos nossos olhos, um ensinamento lembrado e uma oração sincera podem fazer parte do mesmo dia. O coração também tem algo bonito para oferecer."
+      ],
+      "image": "201/part3.webp",
+      "alt": "Davi ora com serenidade ao lado da harpa"
+    }
+  ],
+  "lesson": "O Salmo 19 nos convida a admirar a criação e a aprender com a Palavra de Deus. A beleza que vemos pode despertar gratidão; o ensino que ouvimos pode orientar nossas escolhas. Hoje, observe algo bonito com atenção e pense em uma atitude que combine com essa gratidão. Você pode agradecer pelo céu e também cuidar das palavras que oferece às pessoas.",
+  "question": "Que beleza da criação você percebeu hoje, e que palavra bondosa deseja oferecer a alguém?",
+  "prayer": "Senhor, obrigado pelo céu, pela luz e por tantas coisas bonitas que posso observar. Abre meu coração para aprender contigo. Ajuda-me a reconhecer meus erros e a oferecer palavras e pensamentos cheios de verdade, gratidão e bondade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA019.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Céu estrelado acima das colinas e de um poeta com sua harpa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Psalm 19: David with a simple wooden lyre seated on a Judean hillside beneath a magnificent star-filled twilight sky, tiny wildflowers, immense luminous heavens, wonder and calm. David is an olive-skinned adult Hebrew poet with dark curly hair, short beard, cream tunic and muted blue shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "O sol ilumina as colinas e os campos ao amanhecer",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic landscape of Psalm 19 with sunrise spreading warm light across Judean hills, flowering meadow, olive grove and a winding stream, dew sparkling on grasses. No people, no human-shaped sun. "
+    },
+    {
+      "role": "part2",
+      "alt": "Um pergaminho, mel e pequenos objetos de ouro sobre uma mesa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close still life illustrating Psalm 19 metaphors: blank parchment scroll, ceramic bowl of honey with honeycomb, a few small ancient gold pieces on a rustic table, sunlight entering a stone room. No people, no writing. "
+    },
+    {
+      "role": "part3",
+      "alt": "Davi ora com serenidade ao lado da harpa",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David seated peacefully on a broad stone beneath an olive tree, hands folded in prayer, simple lyre beside him, dawn sky and layered hills, reflective intimate composition. David is an olive-skinned adult Hebrew poet with dark curly hair, short beard, cream tunic and muted blue shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

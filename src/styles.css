@@ -514,8 +514,8 @@ input {
   font-weight: 800;
 }
 .hero-bottom {
-  display: flex;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   padding: 26px 4px;
   border-top: 1px solid #bfd5d8;
   gap: 30px;
@@ -2428,6 +2428,7 @@ body[data-reader-night="true"] .reader-page .family-note {
     width: 100px;
   }
   .hero-bottom {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     padding: 24px 0;
     align-items: flex-start;
     gap: 12px;
@@ -3099,3 +3100,6 @@ body[data-reader-night="true"] .reader-page .family-note {
 .faq-grid .text-link {
   max-width: 100%;
 }
+
+.library-more { display: flex; justify-content: center; margin: 32px 0; }
+.library-more[hidden] { display: none; }

@@ -1,0 +1,71 @@
+{
+  "id": 129,
+  "title": "Deus Vê o Coração",
+  "subtitle": "O pastor que ainda estava no campo",
+  "reference": "1 Samuel 16:1–13",
+  "description": "Samuel visita a família de Jessé e percebe que a aparência não decide tudo. O filho mais novo ainda está cuidando das ovelhas quando chega a hora de ser chamado.",
+  "testament": "antigo",
+  "cover": "/images/covers/129.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita a Belém",
+      "paragraphs": [
+        "Samuel estava triste com o caminho que Saul havia tomado como rei. Deus, porém, o orientou a seguir para Belém, à casa de Jessé. Entre os filhos daquele homem havia alguém escolhido para uma nova responsabilidade. Samuel levou um chifre com azeite, usado para a unção, e partiu conforme a orientação recebida.",
+        "Ao chegar, os anciãos da cidade ficaram receosos e perguntaram se sua visita era de paz. Samuel respondeu que sim e os convidou para a celebração de sacrifício. Também preparou Jessé e seus filhos para participar. O encontro não começou com uma competição pública entre irmãos. Havia uma escolha que Samuel ainda precisaria compreender.",
+        "Quando viu Eliabe, um dos filhos de Jessé, Samuel pensou que estivesse diante do escolhido. Sua aparência e sua altura chamaram atenção. Era fácil imaginar que alguém com aquela presença teria sido separado para governar. Mas Deus mostrou que o profeta não deveria decidir com base no que parecia mais impressionante aos olhos."
+      ],
+      "image": "129/part1.webp",
+      "alt": "Samuel chega à casa de Jessé em Belém com um pequeno chifre de azeite preso à cintura."
+    },
+    {
+      "heading": "O que os olhos não alcançam",
+      "paragraphs": [
+        "A orientação foi clara: as pessoas costumam olhar para a aparência, mas o Senhor vê o coração. Isso não significava que uma boa aparência fosse um defeito. Significava que ela não bastava para avaliar uma pessoa. O que alguém deseja, como age e a disposição que carrega não podem ser medidos apenas pela altura ou pela roupa.",
+        "Jessé apresentou outros filhos. Abinadabe passou, depois Samá, e assim foram sendo considerados os que estavam ali. Samuel não recebeu a confirmação esperada. Sete filhos passaram diante dele, mas o escolhido ainda não havia aparecido. A primeira impressão precisou dar lugar à paciência. O profeta não podia encerrar a busca só porque já tinha visto muita gente.",
+        "Samuel então perguntou se aqueles eram todos os filhos. Jessé explicou que faltava o mais novo, que estava cuidando das ovelhas. Ele não tinha sido incluído no encontro da mesma forma que os irmãos. Samuel pediu que o chamassem e disse que não se assentariam antes de sua chegada. O menino que permanecera no campo também precisava ser considerado."
+      ],
+      "image": "129/part2.webp",
+      "alt": "Os filhos mais velhos de Jessé aguardam respeitosamente enquanto Samuel pergunta pelo irmão mais novo."
+    },
+    {
+      "heading": "O chamado chega ao pastor",
+      "paragraphs": [
+        "Mandaram buscar Davi, que ainda estava cuidando do rebanho. Quando chegou, Samuel viu um jovem de aparência agradável e olhos bonitos. Os irmãos e Jessé estavam ali, aguardando. Então o Senhor indicou ao profeta que se levantasse para ungi-lo: aquele era o escolhido. O filho mais novo tinha sido chamado dos campos para uma tarefa que ainda conheceria.",
+        "Samuel tomou o chifre com azeite e ungiu Davi diante de seus irmãos. A partir daquele dia, o Espírito do Senhor agiu poderosamente nele. O gesto marcava uma responsabilidade futura, mas Davi não começou a reinar imediatamente. Ainda haveria muitos acontecimentos, aprendizados, perigos e escolhas antes que ocupasse o lugar de rei.",
+        "Depois, Samuel voltou para Ramá. A família havia presenciado algo inesperado: o filho que estava longe, cuidando das ovelhas, fora chamado. A cena permanece como um convite para olhar além do que primeiro impressiona. Pessoas que parecem pequenas ou ficam fora do centro também têm valor e podem carregar dons que ainda não tiveram oportunidade de mostrar."
+      ],
+      "image": "129/part3.webp",
+      "alt": "Samuel derrama uma pequena quantidade de azeite sobre a cabeça de Davi, num gesto sereno diante da família."
+    }
+  ],
+  "lesson": "Não conhecemos o valor de alguém só pela aparência, pelas roupas ou pela popularidade. Davi estava no campo quando a família recebeu Samuel, mas não deixou de ser visto por Deus. Podemos prestar atenção em colegas que quase nunca são escolhidos e abrir espaço para suas ideias. Também podemos cuidar do próprio coração por meio de atitudes: ser honestos, aprender a ouvir, reconhecer erros e tratar as pessoas com respeito.",
+  "question": "Quem costuma ficar fora das escolhas do seu grupo, e como você pode ajudar a incluir essa pessoa?",
+  "prayer": "Deus, ensina-nos a olhar para as pessoas com respeito, sem decidir seu valor pela aparência. Ajuda-nos a incluir quem fica de lado e a reconhecer os dons de cada um. Cuida de nosso coração, para que cresçamos em honestidade, bondade e disposição para aprender. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Samuel acolhe Davi no pátio da família, enquanto Jessé e os irmãos observam com surpresa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent boy olive skin reddish-brown curls gentle brown eyes simple sand tunic green sash; Samuel elderly white-gray beard cream robe brown mantle; Jesse older dark-gray beard muted blue robe. Ancient Bethlehem family courtyard. Only named scene cast. Scene: Samuel acolhe Davi no pátio da família, enquanto Jessé e os irmãos observam com surpresa."
+    },
+    {
+      "role": "part1",
+      "alt": "Samuel chega à casa de Jessé em Belém com um pequeno chifre de azeite preso à cintura.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required cast and scene: Only elderly Samuel, white beard cream robe brown mantle, arriving on foot at Jesse's rustic stone house in Bethlehem. A small horn of olive oil hangs from Samuel's belt. Jesse, an older man with a graying beard and blue-gray robe, opens the doorway to welcome him. David is away in the fields and is NOT present. No children, teenagers, kings or other characters. Landscape courtyard with stone doorway and olive tree."
+    },
+    {
+      "role": "part2",
+      "alt": "Os filhos mais velhos de Jessé aguardam respeitosamente enquanto Samuel pergunta pelo irmão mais novo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required scene and cast: Only elderly Samuel with white beard cream robe brown mantle, Jesse with gray beard blue-gray robe, and Jesse's seven older adult sons in earth-toned tunics. Samuel asks Jesse a question in the courtyard. David is still away tending sheep and MUST NOT appear, no children or teenagers anywhere in the image. Show the seven older brothers respectfully awaiting the answer."
+    },
+    {
+      "role": "part3",
+      "alt": "Samuel derrama uma pequena quantidade de azeite sobre a cabeça de Davi, num gesto sereno diante da família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adolescent boy olive skin reddish-brown curls gentle brown eyes simple sand tunic green sash; Samuel elderly white-gray beard cream robe brown mantle; Jesse older dark-gray beard muted blue robe. Ancient Bethlehem family courtyard. Only named scene cast. Scene: Samuel derrama uma pequena quantidade de azeite sobre a cabeça de Davi, num gesto sereno diante da família."
+    }
+  ]
+}

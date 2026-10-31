@@ -1,0 +1,71 @@
+{
+  "id": 145,
+  "title": "Roboão e os Dois Conselhos",
+  "subtitle": "Ouvir não é procurar só quem concorda",
+  "reference": "1 Reis 12:1–24",
+  "description": "O povo pede alívio, e Roboão consulta dois grupos de conselheiros. A escolha que faz mostra como a dureza de um líder pode dividir uma comunidade.",
+  "testament": "antigo",
+  "cover": "/images/covers/145.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um pedido do povo",
+      "paragraphs": [
+        "Depois da morte de Salomão, seu filho Roboão foi a Siquém, onde Israel se reuniu para fazê-lo rei. A comunidade tinha um pedido importante. Durante o reinado anterior, carregara trabalhos e exigências pesadas. Agora seus representantes pediam que o novo governante aliviasse esse peso. Se fossem tratados com mais cuidado, estariam dispostos a servi-lo.",
+        "Entre os que apresentaram o pedido estava Jeroboão, que voltara do Egito ao saber da mudança. Roboão não respondeu imediatamente. Pediu que o povo retornasse depois de três dias. Esse tempo poderia ser uma oportunidade para ouvir, considerar a situação e avaliar as consequências de sua decisão. Um começo de reinado também era uma chance de corrigir o que estava ferindo a comunidade.",
+        "Roboão procurou primeiro os anciãos que haviam servido a Salomão. Perguntou como deveria responder. Eles aconselharam uma atitude de serviço: se tratasse o povo com bondade e desse uma boa resposta, conquistaria sua lealdade. O conselho não diminuía a responsabilidade do rei. Mostrava que liderar podia começar por atender uma necessidade real."
+      ],
+      "image": "145/part1.webp",
+      "alt": "Famílias e trabalhadores apresentam seu pedido ao novo rei em Siquém, numa assembleia respeitosa."
+    },
+    {
+      "heading": "O conselho que agradava ao orgulho",
+      "paragraphs": [
+        "Roboão não acolheu a orientação dos mais velhos. Procurou também os homens que haviam crescido com ele e agora o serviam. Eles sugeriram uma resposta muito diferente. O rei deveria afirmar que seria ainda mais duro que seu pai, usando palavras que transmitissem força e medo. O sofrimento apresentado pelo povo se tornaria ocasião para demonstrar superioridade.",
+        "Os dois conselhos não eram apenas estilos diferentes de falar. Apontavam para maneiras opostas de governar. Um começava pelo serviço e pela escuta; o outro pelo orgulho e pela ameaça. Roboão precisava decidir se desejava compreender as pessoas ou apenas provar que ninguém poderia questionar sua autoridade naquele novo reinado.",
+        "Quando os representantes voltaram no terceiro dia, ele respondeu com dureza. Abandonou o conselho dos anciãos e seguiu a orientação dos companheiros mais jovens. Disse que aumentaria o peso sobre o povo. A espera, que poderia ter servido à sabedoria, terminou reforçando uma decisão que não levava a sério a dor apresentada."
+      ],
+      "image": "145/part2.webp",
+      "alt": "Roboão conversa com conselheiros idosos sentados em semicírculo, num momento de orientação."
+    },
+    {
+      "heading": "Uma comunidade dividida",
+      "paragraphs": [
+        "Os israelitas perceberam que o rei não os havia escutado. Rejeitaram sua liderança e voltaram para suas casas. A divisão se tornou profunda: as tribos do norte seguiram Jeroboão, enquanto Roboão permaneceu governando em Judá. Uma resposta ameaçadora ajudou a romper a unidade que o novo rei desejava comandar.",
+        "A situação ficou perigosa. Houve violência, e Roboão precisou fugir para Jerusalém. Depois reuniu homens para tentar recuperar as tribos pela força. Mas a palavra do Senhor veio por meio do profeta Semaías, orientando que não lutassem contra seus irmãos e que voltassem para casa. Eles ouviram essa orientação e abandonaram aquela campanha.",
+        "A história mostra consequências que não puderam ser apagadas por uma frase posterior. Roboão havia recebido a oportunidade de escutar e escolhera intimidar. Nem todo conselho que agrada ao nosso orgulho nos ajuda a cuidar melhor. Um líder pode perder a confiança das pessoas justamente quando pensa que está demonstrando poder. Ouvir com seriedade exige espaço para mudar de direção."
+      ],
+      "image": "145/part3.webp",
+      "alt": "O povo deixa a assembleia por caminhos diferentes, enquanto Roboão permanece pensativo ao fundo."
+    }
+  ],
+  "lesson": "Consultar pessoas não ajuda muito quando só aceitamos quem concorda com o que já queremos fazer. Podemos ouvir opiniões diferentes e perguntar quais consequências nossa decisão terá para os outros. A dureza de Roboão mostra que mandar pelo medo pode destruir confiança. Em casa ou num grupo, liderança não é ameaçar. É escutar necessidades, explicar limites com respeito e procurar soluções justas, especialmente quando alguém diz que está sobrecarregado.",
+  "question": "Como você percebe a diferença entre um conselho que ajuda e outro que apenas alimenta seu orgulho?",
+  "prayer": "Deus, dá-nos humildade para ouvir conselhos difíceis e atenção às necessidades das pessoas. Quando tivermos alguma responsabilidade, ensina-nos a servir com justiça e respeito. Ajuda-nos a mudar de direção antes que o orgulho machuque nossas relações e a escolher palavras que construam confiança. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Roboão escuta representantes do povo num pátio, diante de rostos que demonstram cansaço e esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rehoboam adult olive skin dark beard burgundy royal robe simple gold circlet; elderly advisors gray beards earth robes; younger adult advisors blue and ochre robes. Ancient council courtyard, no threats or violence depicted. Only scene named cast. Scene: Roboão escuta representantes do povo num pátio, diante de rostos que demonstram cansaço e esperança."
+    },
+    {
+      "role": "part1",
+      "alt": "Famílias e trabalhadores apresentam seu pedido ao novo rei em Siquém, numa assembleia respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rehoboam adult olive skin dark beard burgundy royal robe simple gold circlet; elderly advisors gray beards earth robes; younger adult advisors blue and ochre robes. Ancient council courtyard, no threats or violence depicted. Only scene named cast. Scene: Famílias e trabalhadores apresentam seu pedido ao novo rei em Siquém, numa assembleia respeitosa."
+    },
+    {
+      "role": "part2",
+      "alt": "Roboão conversa com conselheiros idosos sentados em semicírculo, num momento de orientação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rehoboam adult olive skin dark beard burgundy royal robe simple gold circlet; elderly advisors gray beards earth robes; younger adult advisors blue and ochre robes. Ancient council courtyard, no threats or violence depicted. Only scene named cast. Scene: Roboão conversa com conselheiros idosos sentados em semicírculo, num momento de orientação."
+    },
+    {
+      "role": "part3",
+      "alt": "O povo deixa a assembleia por caminhos diferentes, enquanto Roboão permanece pensativo ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Rehoboam adult olive skin dark beard burgundy royal robe simple gold circlet; elderly advisors gray beards earth robes; younger adult advisors blue and ochre robes. Ancient council courtyard, no threats or violence depicted. Only scene named cast. Scene: O povo deixa a assembleia por caminhos diferentes, enquanto Roboão permanece pensativo ao fundo."
+    }
+  ]
+}

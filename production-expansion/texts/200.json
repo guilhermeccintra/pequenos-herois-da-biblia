@@ -1,0 +1,74 @@
+{
+  "id": 200,
+  "title": "O Pastor que Cuida",
+  "subtitle": "Uma caminhada pelo Salmo 23",
+  "reference": "Salmo 23",
+  "description": "Um salmo de Davi descreve o cuidado de Deus com imagens de pastos, caminhos e uma mesa acolhedora. É uma oração para lembrar que não caminhamos sozinhos.",
+  "testament": "antigo",
+  "cover": "/images/covers/200.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Descanso junto às águas",
+      "paragraphs": [
+        "O Salmo 23 é um poema de confiança atribuído a Davi. Não conta uma aventura com começo e fim como a história de uma viagem. Usa imagens conhecidas do campo para falar do relacionamento com Deus. A primeira é a de um pastor: alguém que acompanha o rebanho e presta atenção às suas necessidades.",
+        "Quando o salmista chama o Senhor de seu pastor, expressa confiança no cuidado recebido. A imagem seguinte mostra pastos verdes e águas tranquilas. Podemos imaginar o rebanho encontrando alimento e um lugar para descansar. O poema fala de vida renovada, como quando o cansaço encontra uma pausa e o coração recebe fôlego para continuar.",
+        "Deus também é apresentado como aquele que conduz por caminhos justos. O cuidado não se limita a oferecer descanso; inclui direção. Uma ovelha pode precisar de ajuda para encontrar um caminho seguro, e uma pessoa também precisa aprender a escolher. No salmo, confiar é reconhecer que não precisamos inventar sozinhos toda a direção de nossa vida."
+      ],
+      "image": "200/part1.webp",
+      "alt": "Ovelhas descansam perto de águas tranquilas."
+    },
+    {
+      "heading": "Companhia no vale",
+      "paragraphs": [
+        "O cenário do poema muda. Em vez dos pastos tranquilos, aparece um vale de sombra profunda. O salmo não finge que todos os caminhos são fáceis ou ensolarados. A confiança continua existindo quando a paisagem se torna assustadora. É nesse trecho que o salmista fala diretamente com Deus, afirmando a importância de sua presença.",
+        "A vara e o cajado do pastor aparecem como sinais de proteção e orientação. São imagens do trabalho de cuidar de um rebanho naquele tempo. O centro da passagem não é a força de uma pessoa que nunca sente medo, mas a companhia que permite atravessar a dificuldade sem se considerar completamente abandonada.",
+        "O vale faz parte da viagem cantada no salmo, assim como os pastos verdes e as águas tranquilas. Em cada trecho, a presença do pastor acompanha o rebanho. A canção guarda essa confiança com delicadeza: mesmo quando a paisagem muda e o caminho fica difícil, o cuidado continua próximo, oferecendo direção para o passo seguinte."
+      ],
+      "image": "200/part2.webp",
+      "alt": "Um pastor acompanha o rebanho por um vale de sombras."
+    },
+    {
+      "heading": "Uma mesa e um lugar de acolhimento",
+      "paragraphs": [
+        "Na parte final, a imagem muda outra vez. O salmista descreve uma mesa preparada, mesmo diante de adversários. Agora vemos o cuidado de um anfitrião que recebe alguém com generosidade. Há óleo sobre a cabeça e uma taça que transborda, sinais de honra e abundância na linguagem daquele poema.",
+        "A bondade e a misericórdia acompanham os dias do salmista. Ele termina expressando o desejo de permanecer na casa do Senhor. O caminho que passou por pastos e por um vale encontra uma imagem de acolhimento. A oração reúne alimento, descanso, direção, proteção e companhia, mostrando diferentes faces do cuidado em que confia.",
+        "Quando uma família lê o Salmo 23, pode percorrer essas imagens devagar. Talvez hoje alguém precise lembrar do descanso; outra pessoa, da companhia no vale; outra, de uma mesa que acolhe. O poema não exige que todos sintam a mesma coisa. Oferece palavras e imagens para colocar a vida diante de Deus e renovar a confiança em seu cuidado."
+      ],
+      "image": "200/part3.webp",
+      "alt": "Uma mesa preparada simboliza acolhimento e generosidade."
+    }
+  ],
+  "lesson": "Precisamos de descanso, orientação e companhia, especialmente nos dias difíceis. Podemos lembrar do cuidado de Deus sem deixar de pedir ajuda às pessoas. Também podemos participar desse cuidado: oferecer uma pausa, ouvir uma preocupação ou acolher alguém numa atividade. O Salmo 23 nos convida à confiança e à atenção às necessidades reais, tanto as nossas quanto as de quem caminha ao nosso lado.",
+  "question": "Hoje você precisa mais de descanso, de orientação ou de alguém que o escute?",
+  "prayer": "Deus, nosso Pastor, obrigado pelo cuidado que nos sustenta. Guia nossas escolhas e ajuda-nos a descansar. Nos momentos de medo, aproxima de nós companhia e proteção. Ensina-nos também a acolher outras pessoas com paciência, generosidade e atenção ao que elas precisam. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA023.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um pastor acompanha o rebanho num campo tranquilo, imagem do cuidado descrito no salmo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Symbolic Psalm23 landscape: an ordinary adult human shepherd in cream linen and brown cloak gently leads a small sheep flock beside still clear water and green pastures, golden morning light, no divine figure. A human shepherd in the landscape represents the poem metaphor and must not be presented as a visible deity. Shepherd: adult brown skinned man with short dark beard, cream linen tunic and earthy brown cloak, wooden staff."
+    },
+    {
+      "role": "part1",
+      "alt": "Ovelhas descansam perto de águas tranquilas.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Peaceful sheep flock rests in lush green pasture beside a calm stream, wildflowers, olive tree shade and distant hills, rich detailed cinematic 3D nature, no people needed. A human shepherd in the landscape represents the poem metaphor and must not be presented as a visible deity."
+    },
+    {
+      "role": "part2",
+      "alt": "Um pastor acompanha o rebanho por um vale de sombras.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary adult human shepherd with wooden staff guides sheep on a wide safe path through a shaded rocky valley toward gentle light, no perilous cliff, no monsters or divine figure, reassuring mood. A human shepherd in the landscape represents the poem metaphor and must not be presented as a visible deity. Shepherd: adult brown skinned man with short dark beard, cream linen tunic and earthy brown cloak, wooden staff. COMPOSITION PRIORITY: A different location from reference. The flock is inside a narrow, deep, SHADOWED ROCKY VALLEY. Tall dark rock walls on both sides dominate the image. Cool blue and violet shade covers shepherd and sheep. Only a small warm opening is visible far ahead. No open green meadow, no waterfalls, no sunlit foreground, no olive tree canopy. Gentle reassuring mood within the shadowed valley."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma mesa preparada simboliza acolhimento e generosidade.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Symbolic welcoming ancient table in a warm courtyard with bread, fruit, a clay cup filled to brim and small oil jar, inviting empty seats, soft golden light, no enemy or deity visible. A human shepherd in the landscape represents the poem metaphor and must not be presented as a visible deity."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 166,
+  "title": "Ezequias Convida para a Páscoa",
+  "subtitle": "Um convite que atravessou fronteiras",
+  "reference": "2 Crônicas 30",
+  "description": "Ezequias envia cartas para reunir o povo em Jerusalém. Nem todos aceitam, mas quem chega participa de uma celebração que abre espaço para recomeço, aprendizado e alegria.",
+  "testament": "antigo",
+  "cover": "/images/covers/166.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Cartas para muitas cidades",
+      "paragraphs": [
+        "O rei Ezequias desejava reunir o povo para celebrar a Páscoa em Jerusalém. Essa festa lembrava a libertação do Egito e a aliança de Deus com Israel. Havia muito tempo que não era celebrada daquela maneira pela comunidade. O rei, os líderes e a assembleia conversaram sobre como preparar um encontro que alcançasse mais pessoas.",
+        "Decidiram celebrá-la no segundo mês, porque não tinham conseguido reunir o povo e preparar sacerdotes suficientes na época habitual. A mudança foi feita dentro das orientações disponíveis para aquela situação. O objetivo não era abandonar o significado da festa, mas criar condições para que a comunidade pudesse participar com responsabilidade.",
+        "Ezequias enviou mensageiros com cartas por Judá e Israel, incluindo regiões de Efraim e Manassés. O convite chamava o povo a voltar ao Senhor. Não ficava limitado às pessoas que moravam perto do palácio. A mensagem atravessava cidades e diferenças antigas, procurando reunir uma comunidade que havia vivido afastamento, sofrimento e divisão."
+      ],
+      "image": "166/part1.webp",
+      "alt": "Mensageiros recebem cartas de Ezequias para levar convites às cidades, num pátio do palácio."
+    },
+    {
+      "heading": "Respostas diferentes pelo caminho",
+      "paragraphs": [
+        "Os mensageiros viajaram de cidade em cidade. Algumas pessoas riram deles e zombaram do convite. Nem toda tentativa de aproximação recebe a resposta que esperamos. Os portadores da mensagem continuaram seu caminho, sem conseguir controlar a escolha de cada grupo. O convite precisava ser oferecido, mas a reação pertencia a quem o recebia.",
+        "Outros, porém, se humilharam e foram a Jerusalém. Pessoas de Aser, Manassés e Zebulom responderam, e em Judá houve disposição comum para seguir a orientação. Uma grande assembleia se reuniu na cidade. O encontro não exigia que todos tivessem a mesma história recente. Havia espaço para pessoas que chegavam de lugares diferentes com vontade de recomeçar.",
+        "A preparação incluiu retirar objetos de culto que não correspondiam ao compromisso com o Senhor. Sacerdotes e levitas organizaram o serviço. A celebração exigia trabalho e atenção, não apenas entusiasmo. Quando tanta gente se reúne, alguém precisa cuidar das tarefas para que o encontro tenha sentido e as pessoas possam participar."
+      ],
+      "image": "166/part2.webp",
+      "alt": "Viajantes chegam a Jerusalém com pequenas bagagens e são recebidos por moradores da cidade."
+    },
+    {
+      "heading": "Uma alegria que continuou",
+      "paragraphs": [
+        "Muitos participantes não haviam cumprido toda a preparação ritual esperada. Ezequias orou por aqueles que tinham disposto o coração a buscar a Deus, pedindo perdão. O Senhor ouviu sua oração. O episódio mostra uma preocupação com as pessoas que chegavam, e não apenas com a aparência perfeita de uma cerimônia.",
+        "Durante sete dias, o povo celebrou a festa dos pães sem fermento com grande alegria. Os levitas ensinavam e serviam, e Ezequias os encorajou. A comunidade gostou tanto de permanecer reunida que decidiu continuar por mais sete dias. O rei e os líderes contribuíram com recursos para sustentar a celebração prolongada.",
+        "Houve alegria entre moradores de Judá, pessoas vindas de Israel e estrangeiros que viviam ali ou tinham chegado de outras regiões. Os sacerdotes abençoaram o povo, e suas orações foram ouvidas. O convite que alguns haviam desprezado encontrou resposta em muitos corações. A Páscoa se tornou um tempo de memória, aprendizado e encontro para pessoas que aceitaram voltar e caminhar juntas."
+      ],
+      "image": "166/part3.webp",
+      "alt": "Adultos e crianças compartilham pães sem fermento numa mesa comunitária, acompanhados por músicos ao fundo."
+    }
+  ],
+  "lesson": "Convidar alguém exige aceitar que a resposta pode ser diferente do que esperamos. Podemos continuar acolhedores sem pressionar ou ridicularizar quem não participa. Ezequias também cuidou de quem chegou ainda aprendendo. Em nossa casa ou comunidade, podemos explicar os combinados com paciência e abrir espaço para visitantes. A alegria de um encontro cresce quando há organização, ensino respeitoso e atenção às pessoas, não apenas à aparência de que tudo saiu perfeito.",
+  "question": "Como você pode ajudar alguém que está participando de uma atividade pela primeira vez a se sentir à vontade?",
+  "prayer": "Deus, ensina-nos a fazer convites com carinho e a respeitar as respostas. Ajuda nossa comunidade a acolher quem chega, explicar com paciência e cuidar dos detalhes que permitem a participação. Que nossos encontros tragam aprendizado, gratidão e alegria compartilhada. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Chronicles"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias de diferentes regiões se reúnem com alegria em Jerusalém para uma celebração acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard deep blue royal robe simple circlet; messengers earth cloaks carrying rolled letters no legible text; diverse ancient Israel families and peaceful Jerusalem courtyard. Only scene specified people, no copied reference cast. Scene: Famílias de diferentes regiões se reúnem com alegria em Jerusalém para uma celebração acolhedora."
+    },
+    {
+      "role": "part1",
+      "alt": "Mensageiros recebem cartas de Ezequias para levar convites às cidades, num pátio do palácio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard deep blue royal robe simple circlet; messengers earth cloaks carrying rolled letters no legible text; diverse ancient Israel families and peaceful Jerusalem courtyard. Only scene specified people, no copied reference cast. Scene: Mensageiros recebem cartas de Ezequias para levar convites às cidades, num pátio do palácio."
+    },
+    {
+      "role": "part2",
+      "alt": "Viajantes chegam a Jerusalém com pequenas bagagens e são recebidos por moradores da cidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard deep blue royal robe simple circlet; messengers earth cloaks carrying rolled letters no legible text; diverse ancient Israel families and peaceful Jerusalem courtyard. Only scene specified people, no copied reference cast. Scene: Viajantes chegam a Jerusalém com pequenas bagagens e são recebidos por moradores da cidade."
+    },
+    {
+      "role": "part3",
+      "alt": "Adultos e crianças compartilham pães sem fermento numa mesa comunitária, acompanhados por músicos ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Hezekiah adult olive skin dark beard deep blue royal robe simple circlet; messengers earth cloaks carrying rolled letters no legible text; diverse ancient Israel families and peaceful Jerusalem courtyard. Only scene specified people, no copied reference cast. Scene: Adultos e crianças compartilham pães sem fermento numa mesa comunitária, acompanhados por músicos ao fundo."
+    }
+  ]
+}

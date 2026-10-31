@@ -1,0 +1,71 @@
+{
+  "id": 56,
+  "title": "Jacó Volta a Betel",
+  "subtitle": "Voltar ao lugar da promessa",
+  "reference": "Gênesis 35:1–15",
+  "description": "Deus orienta Jacó a voltar a Betel. A família prepara a viagem, deixa para trás outros deuses e recorda o cuidado recebido.",
+  "testament": "antigo",
+  "cover": "/images/covers/56.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um convite para voltar",
+      "paragraphs": [
+        "Muitos anos antes, Jacó havia dormido ao ar livre durante uma viagem difícil. Naquele lugar, sonhara com uma ligação entre a terra e o céu e recebera a promessa de que Deus o acompanharia. Chamou o lugar de Betel. Agora, depois de formar uma grande família e enfrentar outros conflitos, recebeu uma nova orientação.",
+        "Deus lhe disse que subisse a Betel, morasse ali e construísse um altar. Era o lugar onde se revelara quando Jacó fugia de Esaú. A lembrança não apagava os acontecimentos difíceis de sua vida. Ajudava-o a reconhecer que sua caminhada tinha sido acompanhada por Deus, desde os dias em que se sentira sozinho na estrada.",
+        "Jacó reuniu sua família e todos os que estavam com ele. Pediu que retirassem os deuses estrangeiros, se purificassem e trocassem de roupa. A viagem seria também uma mudança de direção no coração. Eles não iriam apenas mover suas tendas para outro lugar; precisavam considerar a quem estavam entregando sua confiança e sua adoração."
+      ],
+      "image": "56/part1.webp",
+      "alt": "Jacó conversa com sua família antes da viagem."
+    },
+    {
+      "heading": "Preparar a casa e o caminho",
+      "paragraphs": [
+        "Jacó explicou que construiria um altar ao Deus que lhe respondera na aflição e o acompanhara por onde passara. Ele podia olhar para trás e reconhecer esse cuidado. Ao falar com os seus, compartilhou uma memória importante. A fé da família não seria sustentada apenas por objetos levados nas bagagens, mas pela lembrança daquele encontro.",
+        "As pessoas lhe entregaram os deuses estrangeiros que possuíam e os brincos que estavam usando. Jacó escondeu tudo debaixo de uma árvore perto de Siquém. O gesto fazia parte daquela decisão de abandonar práticas de adoração que os afastavam de Deus. O relato descreve uma escolha específica daquela família, e não uma regra sobre todo tipo de enfeite.",
+        "Então partiram. Deus fez com que as cidades ao redor temessem persegui-los, e a família seguiu pelo caminho. Jacó não viajava sozinho como na primeira passagem por Betel. Ia acompanhado de muitas pessoas, com responsabilidades e lembranças acumuladas. A promessa antiga continuava presente enquanto seus passos o levavam de volta."
+      ],
+      "image": "56/part2.webp",
+      "alt": "Uma caravana atravessa as colinas em direção a Betel."
+    },
+    {
+      "heading": "A promessa é reafirmada",
+      "paragraphs": [
+        "Jacó chegou a Luz, que também era chamada Betel, na terra de Canaã. Construiu um altar e deu ao lugar um nome que lembrava o Deus que ali se revelara. Durante esse período, Débora, que havia cuidado de Rebeca, morreu e foi sepultada perto dali. A narrativa guarda também essa lembrança de luto no meio do retorno.",
+        "Deus voltou a abençoar Jacó e reafirmou seu nome Israel. Disse que dele viriam uma nação, muitos povos e reis. A terra prometida a Abraão e Isaque seria dada a seus descendentes. A história de sua família fazia parte de um caminho maior, que atravessava gerações e não terminaria com sua própria vida.",
+        "Jacó levantou uma coluna de pedra no lugar onde Deus havia falado com ele e derramou sobre ela uma oferta e azeite. Reafirmou o nome Betel. A pedra ajudaria a recordar o encontro. Voltar àquele lugar significava reconhecer o cuidado recebido, renovar a confiança e continuar a caminhada com a promessa novamente diante de si."
+      ],
+      "image": "56/part3.webp",
+      "alt": "Jacó derrama azeite sobre uma pedra erguida como lembrança."
+    }
+  ],
+  "lesson": "Recordar um cuidado recebido pode nos ajudar a agradecer e a escolher melhor. Em família, podemos conversar sobre momentos em que fomos ajudados e sobre hábitos que precisam mudar. Recomeçar não é fingir que o passado não existiu. É reconhecer o que aconteceu e dar passos diferentes. Uma lembrança, uma oração ou uma conversa sincera pode nos ajudar a renovar o compromisso de viver com fé e respeito.",
+  "question": "Que lembrança de cuidado da sua família ajuda você a sentir gratidão?",
+  "prayer": "Deus, obrigado por nos acompanhares ao longo do caminho. Ajuda-nos a lembrar do bem recebido e a reconhecer o que precisa mudar. Consola nossas tristezas e fortalece nossa confiança. Que nossa família aprenda a recomeçar com sinceridade, gratidão e cuidado. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jacó e sua família chegam a Betel, diante de uma paisagem aberta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob mature olive-skinned man with dark wavy hair showing gray, full salt-and-pepper beard, olive-gray tunic and faded blue mantle consistent with earlier Jacob design. Family in modest earth-tone ancient linen. Scene: Mature Jacob with family caravan arrives at Bethel, simple stone memorial visible on hill, hopeful travel scene, no visible deity."
+    },
+    {
+      "role": "part1",
+      "alt": "Jacó conversa com sua família antes da viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob mature olive-skinned man with dark wavy hair showing gray, full salt-and-pepper beard, olive-gray tunic and faded blue mantle consistent with earlier Jacob design. Family in modest earth-tone ancient linen. Scene: Mature Jacob addresses adults and children gathered safely near tents, attentive family circle, no idol display emphasized."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma caravana atravessa as colinas em direção a Betel.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob mature olive-skinned man with dark wavy hair showing gray, full salt-and-pepper beard, olive-gray tunic and faded blue mantle consistent with earlier Jacob design. Family in modest earth-tone ancient linen. Scene: Wide side view of Jacob family caravan with donkeys and sheep on winding hill path, natural morning light, distinct travel scene."
+    },
+    {
+      "role": "part3",
+      "alt": "Jacó derrama azeite sobre uma pedra erguida como lembrança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Jacob mature olive-skinned man with dark wavy hair showing gray, full salt-and-pepper beard, olive-gray tunic and faded blue mantle consistent with earlier Jacob design. Family in modest earth-tone ancient linen. Scene: Jacob alone pours oil carefully from small clay flask onto upright plain stone memorial, rustic altar nearby, reverent warm light, no other person."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+35&version=KJV"
+  ]
+}

@@ -4,6 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { PGlite } from '@electric-sql/pglite';
 
 const sql = await readFile(new URL('../supabase/migrations/202610300001_initial.sql', import.meta.url), 'utf8').catch(() => '');
+const expansionSql = await readFile(new URL('../supabase/migrations/202610300002_expand_365.sql', import.meta.url), 'utf8');
 const alice = '11111111-1111-4111-8111-111111111111';
 const bob = '22222222-2222-4222-8222-222222222222';
 
@@ -102,4 +103,20 @@ test('checkout reservation survives retries, then rotates after a completed requ
     assert.equal(body.title, 'Texto corrigido');
     assert.equal(body.audio_path, 'audio/01/hash.mp3');
   } finally { await db.close(); }
+});
+
+test('expansão aceita o dia 365, preserva conteúdo e progresso e pode ser reaplicada', async () => {
+ const db=await database();
+ try{
+  await db.exec(`set role authenticated; set request.jwt.claim.sub = '${alice}'; insert into public.reading_progress(user_id,story_id,part,favorite) values('${alice}',1,2,true); reset role;`);
+  await assert.rejects(db.query('select public.import_story($1,$2)',[365,{id:365,parts:[],audio_path:null}]),/check constraint/);
+  await db.exec(expansionSql);await db.exec(expansionSql);
+  await db.exec('set role service_role');
+  for(const id of [41,100,365])await db.query('select public.import_story($1,$2)',[id,{id,parts:[],audio_path:null}]);
+  await assert.rejects(db.query('select public.import_story($1,$2)',[366,{id:366,parts:[]}]),/check constraint/);
+  assert.deepEqual((await db.query('select part,favorite from public.reading_progress')).rows,[{part:2,favorite:true}]);
+  assert.equal((await db.query('select count(*)::int as count from public.stories')).rows[0].count,4);
+  await db.exec('set role anon');
+  await assert.rejects(db.exec('select body from public.stories where id=365'),/permission denied/);
+ }finally{await db.close();}
 });

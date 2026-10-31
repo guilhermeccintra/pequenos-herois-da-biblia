@@ -1,0 +1,71 @@
+{
+  "id": 77,
+  "title": "O Bezerro de Ouro",
+  "subtitle": "A pressa não pode decidir em nosso lugar",
+  "reference": "Êxodo 32",
+  "description": "Durante a ausência de Moisés, o povo faz uma escolha grave e precisa enfrentar suas consequências.",
+  "testament": "antigo",
+  "cover": "/images/covers/77.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma espera que ficou difícil",
+      "paragraphs": [
+        "Moisés permanecia no monte Sinai, e o povo não sabia quando ele voltaria. A espera trouxe insegurança. Em vez de recordar a aliança que acabara de assumir, a comunidade procurou Arão e pediu uma imagem que pudesse seguir. Queria uma resposta visível e imediata para o medo de continuar sem seu líder.",
+        "Arão pediu os objetos de ouro que as pessoas usavam. Recebeu o material e fez a imagem de um bezerro. Então o povo passou a atribuir àquela figura a libertação do Egito. Era uma troca muito séria: um objeto feito por mãos humanas recebia o lugar do Deus que os havia conduzido.",
+        "Arão construiu um altar diante da imagem e anunciou uma festa. A celebração não tornava a escolha correta. O povo havia ouvido que não deveria substituir o Senhor por imagens para adorar. Mesmo assim, a pressão do grupo e a dificuldade de esperar falaram mais alto do que o compromisso assumido."
+      ],
+      "image": "77/part1.webp",
+      "alt": "Arão ouve a insistência de um grupo."
+    },
+    {
+      "heading": "A aliança ferida",
+      "paragraphs": [
+        "No monte, Deus mostrou a Moisés o que estava acontecendo. Moisés pediu misericórdia pelo povo e lembrou as promessas feitas aos antepassados. Não tratou a desobediência como algo sem importância, mas também não desistiu de interceder por aquelas pessoas. Sua oração buscava um caminho diante de uma ruptura grave.",
+        "Quando desceu com as tábuas da aliança, Moisés ouviu o barulho do acampamento e viu o bezerro. Ficou profundamente indignado e quebrou as tábuas ao pé do monte. O gesto mostrava, de maneira dolorosa, que o compromisso havia sido quebrado pelo povo antes mesmo de as pedras se partirem.",
+        "Moisés destruiu a imagem e perguntou a Arão o que havia acontecido. Arão tentou explicar sua participação apontando para a insistência do povo. Mas a pressão dos outros não apagava sua responsabilidade. Ele havia sido chamado a orientar a comunidade e participara da escolha que agora precisava ser reconhecida como errada."
+      ],
+      "image": "77/part2.webp",
+      "alt": "Moisés conversa com Arão sobre a escolha feita."
+    },
+    {
+      "heading": "Reconhecer para recomeçar",
+      "paragraphs": [
+        "Aquele dia teve consequências muito tristes, incluindo mortes, e o relato também menciona uma praga. É uma passagem difícil, que mostra a gravidade da ruptura dentro daquela história. Ela não nos dá permissão para ferir quem pensa diferente. Sua lembrança nos chama a tratar escolhas e responsabilidades com seriedade.",
+        "No dia seguinte, Moisés disse ao povo que seu pecado era grave e voltou a pedir perdão a Deus. Não procurou um jeito de chamar o bezerro de boa ideia. Reconheceu o erro e buscou misericórdia. A oração sincera começava por dizer a verdade sobre aquilo que havia acontecido.",
+        "A caminhada de Israel ainda continuaria, mas não como se nada tivesse ocorrido. Seria necessário aprender novamente sobre fidelidade e confiança. A história nos lembra que a ansiedade não precisa mandar em nossas decisões. Quando erramos, o caminho de volta começa com honestidade, responsabilidade e disposição para mudar de atitude."
+      ],
+      "image": "77/part3.webp",
+      "alt": "Moisés ora pedindo misericórdia."
+    }
+  ],
+  "lesson": "A pressão de um grupo e a pressa de resolver uma preocupação podem nos levar a escolhas ruins. Arão e o povo precisavam reconhecer o que fizeram, sem esconder a responsabilidade atrás de desculpas. Podemos aprender a parar, pedir orientação e lembrar nossos compromissos antes de agir. Quando erramos, dizer a verdade e procurar reparar o dano são passos importantes. Pedir perdão inclui desejar uma mudança real nas atitudes.",
+  "question": "O que pode ajudar você a parar e pensar quando um grupo insiste numa escolha que parece errada?",
+  "prayer": "Deus misericordioso, ajuda-me a não deixar a pressa ou a pressão dos outros decidirem por mim. Dá-me coragem para escolher o bem, reconhecer meus erros e pedir perdão. Ensina-me a reparar o que puder e a recomeçar com responsabilidade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Moisés percebe o bezerro de ouro no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Scene: Moses holding two stone tablets at edge of desert camp looks gravely toward small golden calf statue in distance, concerned adults, fully clothed, no violence or destruction."
+    },
+    {
+      "role": "part1",
+      "alt": "Arão ouve a insistência de um grupo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Scene: Aaron listens uneasily to small group of fully clothed adult Israelites near tent, gold jewelry resting in bowl, anxious discussion, no statue yet."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés conversa com Arão sobre a escolha feita.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Scene: Moses and Aaron in serious remorseful conversation beside tent, broken stone tablet fragments resting on ground, no readable writing, no injury or crowd violence."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés ora pedindo misericórdia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Scene: Moses ALONE kneels on quiet rocky slope at dawn with hands open in earnest prayer, camp distant, no visible deity, sober hopeful light."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+32&version=KJV"
+  ]
+}

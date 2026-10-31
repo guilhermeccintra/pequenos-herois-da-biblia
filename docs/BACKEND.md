@@ -4,7 +4,7 @@ As funções `api/*.js` executam em Node.js na Vercel. O frontend usa Supabase A
 
 ## Preparação
 
-1. Crie um projeto Supabase. Execute `supabase/migrations/202610300001_initial.sql` no SQL Editor como proprietário do projeto. A migração pode ser executada novamente e não apaga os dados.
+1. Crie um projeto Supabase. Execute `supabase/migrations/202610300001_initial.sql` no SQL Editor como proprietário do projeto. Depois execute `supabase/migrations/202610300002_expand_365.sql`. Ambas podem ser executadas novamente sem apagar dados. Em uma instalação existente, aplique a migração de expansão para aceitar as histórias 41–365.
 2. Configure Supabase Auth com confirmação de email, Site URL e URLs de redirecionamento da aplicação. Configure SMTP próprio para emails de confirmação e recuperação antes de uso real.
 3. Preencha as variáveis do `.env.example`. Somente `VITE_SUPABASE_URL` e `VITE_SUPABASE_ANON_KEY` entram no frontend. `SUPABASE_SERVICE_ROLE_KEY`, segredos Stripe e credenciais de narração permanecem no servidor/ambiente local e nunca recebem prefixo `VITE_`.
 4. Instale as dependências com `npm ci`. Valide o acervo com `node scripts/import-content.mjs --dry-run`. Importe com `node --env-file=.env.local scripts/import-content.mjs`.
@@ -69,7 +69,7 @@ node scripts/import-content.mjs --dry-run
 node --env-file=.env.local scripts/import-content.mjs
 ```
 
-O importador valida as 40 histórias, os 160 WebPs, IDs, campos, caminhos e cabeçalhos WebP antes do primeiro upload. Envia apenas para um bucket existente e privado, com quatro uploads simultâneos e `upsert`. Depois grava as histórias pela RPC `import_story`. Em uma falha parcial, corrigir a causa e executar novamente é suficiente; IDs e paths são estáveis. Uma reimportação preserva atomicamente o `audio_path` já registrado pelo fluxo de narração, inclusive se o JSON local continuar com `null`.
+O importador valida as 365 histórias, os 1.460 WebPs, IDs, campos, caminhos e cabeçalhos WebP antes do primeiro upload. Envia apenas para um bucket existente e privado, com quatro uploads simultâneos e `upsert`. Depois grava as histórias pela RPC `import_story`. Em uma falha parcial, corrigir a causa e executar novamente é suficiente; IDs e paths são estáveis. Uma reimportação preserva atomicamente o `audio_path` já registrado pelo fluxo de narração, inclusive se o JSON local continuar com `null`.
 
 `--content arquivo.json` e `--assets pasta` permitem indicar caminhos alternativos. MP3s são publicados pelos scripts de áudio do projeto; este importador não gera ou envia narração. Os artefatos pagos pertencem ao repositório **privado** entregue e não devem ser publicados como arquivos estáticos.
 

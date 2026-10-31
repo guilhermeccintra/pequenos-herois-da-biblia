@@ -1,0 +1,74 @@
+{
+  "id": 227,
+  "title": "Daniel e os Amigos à Mesa",
+  "subtitle": "Fidelidade, respeito e disposição para aprender",
+  "reference": "Daniel 1",
+  "description": "Longe de casa, quatro jovens procuram guardar sua fé e encontram uma maneira respeitosa de apresentar suas escolhas.",
+  "testament": "antigo",
+  "cover": "/images/covers/227.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um começo longe de casa",
+      "paragraphs": [
+        "Daniel, Hananias, Misael e Azarias eram jovens de Judá levados para a Babilônia. Ali foram escolhidos para receber preparo e servir no palácio. Precisariam aprender a língua e os conhecimentos daquele reino. Era uma mudança enorme, cheia de costumes diferentes e de lembranças da terra que haviam deixado.",
+        "Os quatro também receberam outros nomes. Hananias passou a ser chamado Sadraque; Misael, Mesaque; Azarias, Abede-Nego. Daniel recebeu o nome Beltessazar. No meio de tantas novidades, eles continuavam carregando sua história e sua fé. A amizade entre os jovens oferecia companhia para enfrentar a vida naquele lugar desconhecido.",
+        "O rei determinou que recebessem diariamente alimentos e vinho de sua própria mesa durante o período de preparo. Daniel, porém, decidiu guardar sua fidelidade a Deus também nessa escolha. Procurou o responsável pelos jovens e pediu, com respeito, que pudesse receber uma alimentação diferente da porção oferecida pelo palácio."
+      ],
+      "image": "227/part1.webp",
+      "alt": "Quatro jovens chegam a um lugar de aprendizado"
+    },
+    {
+      "heading": "Um pedido feito com cuidado",
+      "paragraphs": [
+        "Deus fez com que Daniel encontrasse bondade e compreensão diante do responsável. Mesmo assim, o homem tinha medo da reação do rei. Se os jovens parecessem menos saudáveis que os demais, ele poderia ser responsabilizado. Daniel escutou essa preocupação e procurou uma maneira de apresentar seu pedido com atenção.",
+        "Ele propôs ao encarregado uma experiência de dez dias. Nesse período, os quatro receberiam legumes e água. Depois, o homem poderia observar como estavam e decidir o que fazer. A proposta foi aceita. Daniel demonstrava firmeza em sua decisão e, ao mesmo tempo, respeito pela pessoa que precisava cuidar deles.",
+        "Ao final dos dez dias, os quatro apresentavam boa aparência, melhor que a dos jovens que recebiam a comida da mesa real. O encarregado então continuou oferecendo a alimentação solicitada. O relato destaca o cuidado de Deus naquela situação e a maneira sábia como Daniel havia apresentado sua escolha de fidelidade."
+      ],
+      "image": "227/part2.webp",
+      "alt": "Daniel apresenta seu pedido ao encarregado"
+    },
+    {
+      "heading": "Aprender e servir com sabedoria",
+      "paragraphs": [
+        "O tempo de preparação continuou. Os quatro jovens receberam de Deus conhecimento e habilidade para aprender. Daniel também recebeu entendimento de visões e sonhos. A fé caminhava junto com a dedicação ao estudo. Eles prestavam atenção ao que precisavam conhecer e se preparavam para as responsabilidades que poderiam receber no reino.",
+        "Quando chegou o momento marcado, foram apresentados a Nabucodonosor. O rei conversou com os jovens e percebeu sua sabedoria e compreensão. Daniel e seus amigos passaram a servir diante dele. A história mostra como uma vida de confiança em Deus pode incluir aprendizado, responsabilidade e respeito no trato com outras pessoas.",
+        "A experiência à mesa foi uma das primeiras escolhas registradas no livro de Daniel. Longe de casa, os amigos encontraram uma maneira de continuar fiéis e de aprender com disposição. Podemos guardar esse exemplo ao enfrentar situações novas: conversar com respeito, pedir orientação e cuidar dos valores que desejamos praticar em nossa vida."
+      ],
+      "image": "227/part3.webp",
+      "alt": "Quatro amigos estudam com dedicação"
+    }
+  ],
+  "lesson": "Daniel apresentou sua escolha com firmeza e respeito, escutando também a preocupação de quem cuidava dele. Podemos aprender a conversar assim quando algo importante está em jogo. Explique o que pensa, ouça a outra pessoa e procure orientação de um adulto de confiança. A história também valoriza o estudo e a responsabilidade: aprender com dedicação pode caminhar junto com a fé e a amizade.",
+  "question": "Como você pode explicar uma escolha importante com respeito e disposição para escutar?",
+  "prayer": "Senhor, ajuda-me a guardar minha fé e a conversar com respeito. Dá-me atenção para escutar as pessoas e sabedoria para pedir orientação. Acompanha meu aprendizado e minhas amizades, para que eu cresça em responsabilidade, bondade e confiança em ti. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/DAN01.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Daniel e três amigos compartilham uma refeição simples",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel, Hananiah, Mishael and Azariah, exactly four young adult friends, seated at an ancient Babylonian table with vegetables, lentils and clay cups of water, warm thoughtful smiles, richly detailed palace courtyard setting. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash. Hananiah is a young adult brown-skinned Judean man with short black hair and rust sash. Mishael is a young adult olive-skinned Judean man with wavy dark hair and green sash. Azariah is a young adult brown-skinned Judean man with tightly curled hair and ochre sash."
+    },
+    {
+      "role": "part1",
+      "alt": "Quatro jovens chegam a um lugar de aprendizado",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel, Hananiah, Mishael and Azariah, exactly four young adult Judean friends entering a Babylonian learning courtyard with clay tablets and blank scrolls, attentive curious faces, distant blue glazed brick columns, no text. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash. Hananiah is a young adult brown-skinned Judean man with short black hair and rust sash. Mishael is a young adult olive-skinned Judean man with wavy dark hair and green sash. Azariah is a young adult brown-skinned Judean man with tightly curled hair and ochre sash."
+    },
+    {
+      "role": "part2",
+      "alt": "Daniel apresenta seu pedido ao encarregado",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel respectfully speaking to one middle-aged Babylonian steward in a palace courtyard, calm open hands, a bowl of vegetables and water jug on table, steward listening thoughtfully, only two main figures. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash."
+    },
+    {
+      "role": "part3",
+      "alt": "Quatro amigos estudam com dedicação",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Daniel, Hananiah, Mishael and Azariah, exactly four young adult friends studying blank parchment scrolls and unmarked clay tablets at a low table, attentive cooperative expressions, warm window light, no visible letters. Daniel is a young adult olive-skinned Judean man with short dark curls, clean-shaven face, cream tunic and blue sash. Hananiah is a young adult brown-skinned Judean man with short black hair and rust sash. Mishael is a young adult olive-skinned Judean man with wavy dark hair and green sash. Azariah is a young adult brown-skinned Judean man with tightly curled hair and ochre sash."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

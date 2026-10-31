@@ -1,0 +1,74 @@
+{
+  "id": 204,
+  "title": "Uma Canção Antes de Dormir",
+  "subtitle": "A confiança da oração no fim do dia",
+  "reference": "Salmo 4",
+  "description": "Uma oração acolhe as preocupações e conduz o coração ao descanso, à confiança e à alegria.",
+  "testament": "antigo",
+  "cover": "/images/covers/204.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma oração no aperto",
+      "paragraphs": [
+        "O Salmo 4 é uma oração de Davi preparada para ser cantada com instrumentos de cordas. Ele começa pedindo que Deus o escute. Há preocupação em suas palavras, mas também a lembrança de um alívio recebido antes. O poeta leva sua aflição a alguém em quem aprendeu a confiar.",
+        "Na canção aparecem pessoas que valorizam a mentira e procuram aquilo que não merece tanta importância. Davi deseja que reconheçam o cuidado do Senhor por quem lhe é fiel. A oração reúne sentimentos difíceis e esperança: mesmo cercado de problemas, o poeta continua procurando uma direção boa para o coração.",
+        "Esse começo nos mostra que a conversa com Deus pode receber o dia como ele realmente foi. Uma alegria cabe na oração, e uma preocupação também. O salmista pede misericórdia e escuta. Suas palavras abrem espaço para respirar, lembrar o cuidado do Senhor e organizar aquilo que está sentindo."
+      ],
+      "image": "204/part1.webp",
+      "alt": "Davi apresenta sua oração junto à janela"
+    },
+    {
+      "heading": "Silêncio para escutar por dentro",
+      "paragraphs": [
+        "No meio do salmo, surge um convite para aquietar o coração. A pessoa pode pensar em sua própria vida enquanto está deitada e fazer silêncio. Nesse espaço tranquilo, consegue reconhecer sentimentos e examinar atitudes. O fim do dia se torna uma oportunidade de perceber o que precisa ser agradecido ou corrigido.",
+        "Davi liga essa atenção à confiança no Senhor e à prática do que é justo. A paz procurada alcança também as escolhas. Depois de uma discussão, por exemplo, podemos perceber que uma palavra machucou alguém. Guardar essa descoberta pode preparar um pedido de desculpas e uma atitude mais cuidadosa no dia seguinte.",
+        "O poema também registra uma pergunta de muitas pessoas: onde encontrar o bem que tanto desejam? A resposta de Davi se transforma em oração. Ele pede que o Senhor faça brilhar sobre o povo sua presença bondosa, descrita pela imagem da luz de um rosto voltado com atenção para alguém."
+      ],
+      "image": "204/part2.webp",
+      "alt": "Davi pensa com calma no final do dia"
+    },
+    {
+      "heading": "Alegria que acompanha o descanso",
+      "paragraphs": [
+        "A alegria do salmista é comparada à felicidade de uma grande colheita. Naquele tempo, ter bastante alimento guardado era motivo de celebração. Davi reconhece em seu coração uma alegria ainda maior, ligada à confiança em Deus. Essa presença querida o acompanha tanto nos dias de abundância quanto nas horas preocupadas.",
+        "A canção chega ao descanso. O poeta expressa o desejo de se deitar e dormir em paz, apoiado no cuidado do Senhor. Depois de apresentar suas aflições e examinar o coração, encontra uma maneira de entregar o dia. As cordas podem silenciar, e a confiança continua presente na oração.",
+        "Podemos terminar o nosso dia com um movimento parecido: contar o que aconteceu, agradecer por um cuidado e pedir ajuda para o que ainda pesa. Quando uma preocupação parece grande demais, conversar com um adulto de confiança também traz companhia. Aos poucos, o coração encontra espaço para acolher o descanso."
+      ],
+      "image": "204/part3.webp",
+      "alt": "Davi descansa numa casa simples e acolhedora"
+    }
+  ],
+  "lesson": "O Salmo 4 oferece uma companhia para o fim do dia. Podemos apresentar a Deus nossos sentimentos, reconhecer uma atitude que precisa mudar e agradecer por algo bom. Uma oração simples pode fazer parte desse descanso. Se você estiver preocupado, compartilhe também com alguém que cuida de você. Receber ajuda, escuta e carinho é uma forma preciosa de ser acompanhado.",
+  "question": "Que coisa do seu dia você deseja contar a Deus antes de dormir?",
+  "prayer": "Senhor, aqui está o meu dia, com suas alegrias e preocupações. Obrigado por me ouvir. Ajuda-me a perceber o que preciso corrigir e a receber o cuidado de quem está perto. Acalma meu coração e acompanha meu descanso. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA004.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma casa antiga iluminada por uma lamparina ao anoitecer",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Cozy ancient Hebrew stone bedroom at twilight, simple woven bed and folded linen blanket, clay oil lamp, open window toward deep blue sky and one star, wooden lyre nearby. Psalm 4 poetic illustration, no people. "
+    },
+    {
+      "role": "part1",
+      "alt": "Davi apresenta sua oração junto à janela",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David seated beside open window in an ancient stone room, quiet earnest prayer, wooden lyre resting beside him, warm oil lamp glow and twilight outside, expression of concern softening into trust. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream linen tunic and muted blue shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Davi pensa com calma no final do dia",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David sitting on edge of a simple woven bed, contemplative hand resting over heart, clay oil lamp illuminating gentle face, rustic stone room, night sky through window, peaceful personal reflection. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream linen tunic and muted blue shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Davi descansa numa casa simples e acolhedora",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: David sleeping peacefully on a simple woven bed beneath a natural linen blanket, ancient clay lamp safely on distant stone shelf, quiet moonlit window, reassuring intimate atmosphere, no modern items. David is an olive-skinned Hebrew poet with dark curly hair, short beard, cream linen tunic and muted blue shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

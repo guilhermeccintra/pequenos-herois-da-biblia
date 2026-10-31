@@ -1,0 +1,71 @@
+{
+  "id": 137,
+  "title": "Natã e a Pequena Ovelha",
+  "subtitle": "Uma história que revelou um erro",
+  "reference": "2 Samuel 12:1–13",
+  "description": "O profeta Natã conta a Davi uma história sobre um homem rico e uma família pobre. O rei se indigna, até perceber que precisa olhar para suas próprias atitudes.",
+  "testament": "antigo",
+  "cover": "/images/covers/137.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita necessária",
+      "paragraphs": [
+        "Davi havia cometido erros muito graves. Usara sua posição para tomar a esposa de Urias e depois organizara uma situação que levou Urias à morte. O fato de ser rei não tornava suas escolhas corretas nem apagava o sofrimento causado. Deus enviou o profeta Natã para confrontá-lo. Alguém precisava dizer a verdade diante do poder.",
+        "Natã chegou e começou a contar uma história. Numa cidade viviam dois homens, um rico e outro pobre. O rico tinha muitos rebanhos. O pobre possuía apenas uma pequena ovelha, que havia comprado e criado junto de seus filhos. Ela comia perto dele e era tratada com carinho, como parte da vida da família.",
+        "A diferença entre os dois não estava escondida. Um tinha animais em abundância; o outro tinha uma única ovelha, ligada ao afeto de sua casa. Natã descrevia a cena de um jeito que Davi podia compreender. Antes de ouvir uma acusação direta, o rei seria convidado a reconhecer uma injustiça numa história que parecia acontecer longe dele."
+      ],
+      "image": "137/part1.webp",
+      "alt": "Uma família pobre cuida com carinho de uma pequena ovelha branca no pátio de sua casa."
+    },
+    {
+      "heading": "A escolha do homem rico",
+      "paragraphs": [
+        "Um viajante chegou à casa do homem rico. Para preparar a refeição do visitante, o anfitrião não quis usar nenhum animal de seu próprio rebanho. Em vez disso, tomou a pequena ovelha do pobre. Quem tinha muito tirou de quem quase nada possuía, sem considerar o vínculo e a dor daquela família.",
+        "Ao ouvir, Davi ficou indignado. Disse que o homem havia agido sem compaixão e deveria reparar o prejuízo. Sua reação mostrava que sabia reconhecer a injustiça quando ela aparecia na vida de outra pessoa. O rei não precisou de uma explicação complicada para perceber que poder e riqueza tinham sido usados para ferir alguém vulnerável.",
+        "Então Natã revelou o sentido da história: Davi era o homem que precisava ser confrontado. O profeta recordou o cuidado recebido por ele e mostrou a gravidade de suas escolhas contra Urias e sua família. A pequena ovelha não era apenas uma história triste. Era um espelho colocado diante do rei para que enxergasse o que tentara deixar escondido."
+      ],
+      "image": "137/part2.webp",
+      "alt": "Natã fala seriamente com Davi, que começa a refletir sobre a mensagem ouvida."
+    },
+    {
+      "heading": "Reconhecer sem fugir",
+      "paragraphs": [
+        "Natã anunciou que as atitudes de Davi trariam consequências dolorosas para sua casa. O poder não o protegeria da responsabilidade. A mensagem não permitia que o rei se apresentasse como alguém acima do bem e do mal. O sofrimento provocado em outras pessoas precisava ser reconhecido, e sua posição tornava ainda mais grave o uso injusto que fizera dela.",
+        "Davi respondeu que havia pecado contra o Senhor. Não acusou a pequena ovelha da história, não discutiu a habilidade do profeta e não fingiu que o assunto era sobre outra pessoa. Naquele momento, reconheceu seu erro. Natã lhe falou do perdão de Deus, mas isso não transformava o passado em algo sem consequências.",
+        "A conversa com Natã terminou com Davi diante de uma verdade que já não podia esconder. O rei havia reconhecido seu pecado e ouvido a palavra do profeta. A história daquela pequena ovelha o fizera enxergar a dor causada por suas próprias escolhas. Agora ele teria de lidar com as consequências e voltar seu coração ao Senhor."
+      ],
+      "image": "137/part3.webp",
+      "alt": "Davi está sentado com expressão de arrependimento enquanto Natã permanece ao seu lado numa conversa franca."
+    }
+  ],
+  "lesson": "É mais fácil perceber o erro de outra pessoa do que admitir o nosso. A história de Natã ajudou Davi a reconhecer uma injustiça que ele mesmo havia cometido. Quando erramos, podemos contar a verdade, pedir desculpas e procurar reparar o dano com orientação adequada. Perdão não elimina limites nem a necessidade de proteção. Ninguém, mesmo sendo muito importante ou querido, tem permissão para usar sua posição para machucar outras pessoas.",
+  "question": "Quando você percebe que fez algo errado, qual atitude concreta pode acompanhar seu pedido de desculpas?",
+  "prayer": "Deus, ajuda-nos a reconhecer nossos erros sem colocar a culpa em outras pessoas. Dá-nos coragem para dizer a verdade e disposição para reparar o que for possível. Protege quem foi ferido e ensina-nos a usar qualquer responsabilidade com justiça, respeito e compaixão. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Natã conta uma história a Davi numa sala simples do palácio, enquanto o rei escuta com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Nathan mature olive-skinned prophet gray beard brown cloak cream tunic; King David mature reddish beard burgundy royal mantle. Fable poor family with beloved small white lamb, rich flock distant. No violence, no implied harm to lamb in images. Only scene named cast. Scene: Natã conta uma história a Davi numa sala simples do palácio, enquanto o rei escuta com atenção."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma família pobre cuida com carinho de uma pequena ovelha branca no pátio de sua casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Nathan mature olive-skinned prophet gray beard brown cloak cream tunic; King David mature reddish beard burgundy royal mantle. Fable poor family with beloved small white lamb, rich flock distant. No violence, no implied harm to lamb in images. Only scene named cast. Scene: Uma família pobre cuida com carinho de uma pequena ovelha branca no pátio de sua casa. MANDATORY SCENE CAST: This image depicts only the fictional poor family and their one pet lamb from Nathan's parable. Neither Nathan nor King David is present. No royal clothing. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Natã fala seriamente com Davi, que começa a refletir sobre a mensagem ouvida.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required scene and cast: Exactly two men inside a quiet palace chamber: Nathan, mature olive-skinned man with gray-streaked dark beard and brown mantle over cream robe, speaks seriously to King David, copper curly hair and beard, burgundy royal robe and simple gold circlet. David listens, beginning to recognize the truth. No sheep, lamb, poor family, children, other adults, flashbacks or scenes outside a window. Keep the two men as the sole cast, with a simple stone interior behind them."
+    },
+    {
+      "role": "part3",
+      "alt": "Davi está sentado com expressão de arrependimento enquanto Natã permanece ao seu lado numa conversa franca.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Nathan mature olive-skinned prophet gray beard brown cloak cream tunic; King David mature reddish beard burgundy royal mantle. Fable poor family with beloved small white lamb, rich flock distant. No violence, no implied harm to lamb in images. Only scene named cast. Scene: Davi está sentado com expressão de arrependimento enquanto Natã permanece ao seu lado numa conversa franca."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 362,
+  "title": "Amar com Atitudes",
+  "subtitle": "Um coração aberto para o próximo",
+  "reference": "1 João 3:16–24",
+  "description": "A primeira carta de João liga o amor de Jesus ao cuidado concreto com as pessoas. O ensino convida a unir palavras, verdade e atitudes de generosidade.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/362.webp",
+  "parts": [
+    {
+      "heading": "Como conhecemos o amor",
+      "paragraphs": [
+        "A primeira carta de João apresenta o amor olhando para Jesus. Ele entregou sua vida por nós, e essa entrega revela a profundidade do cuidado de Deus. O texto convida os leitores a responder com amor pelos irmãos. Não se trata apenas de admirar uma história bonita, mas de permitir que ela oriente a maneira de viver com os outros.",
+        "Ao olhar para Jesus, os leitores eram convidados a sair do egoísmo e a levar a vida do próximo a sério. Esse aprendizado pode começar em gestos pequenos: perceber quem está sozinho, repartir algo útil ou escutar com atenção. Uma família que pratica esse cuidado ajuda suas crianças a descobrir que o amor se torna visível no modo de tratar as pessoas.",
+        "A carta então apresenta uma situação concreta. Alguém possui recursos e vê um irmão passando necessidade, mas fecha o coração. O texto pergunta como o amor de Deus permanece nessa atitude. A pergunta não procura uma frase esperta como resposta. Convida a perceber que existe uma diferença entre dizer que amamos e ignorar deliberadamente quem precisa."
+      ],
+      "image": "362/part1.webp",
+      "alt": "Um ancião de barba branca lê uma carta sobre amor a um grupo pequeno, luz de janela e rostos atentos, cena artística de ensino."
+    },
+    {
+      "heading": "Abrir o coração",
+      "paragraphs": [
+        "Abrir o coração envolve atenção. Às vezes, passamos perto de uma dificuldade sem conhecê-la; em outras ocasiões, percebemos e preferimos não pensar nela. A carta desafia essa indiferença. Quando temos condições de ajudar, vale procurar uma maneira responsável de participar. A necessidade do outro não é menos real só porque não atrapalha nossa rotina.",
+        "O texto orienta a amar com ações e em verdade, e não somente com palavras. Palavras também importam: podem consolar, orientar e pedir ajuda. O problema aparece quando elas servem de substituto para toda responsabilidade. Uma promessa de cuidado precisa buscar coerência. Se dissemos que ajudaríamos numa tarefa, por exemplo, devemos cumprir ou explicar honestamente o que mudou.",
+        "Amar em verdade também significa respeitar a pessoa que recebe ajuda. Podemos ouvir o que ela tem a dizer e perguntar do que precisa. Sua voz importa tanto quanto nossa vontade de participar. Quando o cuidado nasce dessa atenção, o encontro preserva a dignidade de todos e se torna uma oportunidade de construir amizade, confiança e apoio mútuo."
+      ],
+      "image": "362/part2.webp",
+      "alt": "Uma jovem percebe um cesto vazio e conversa respeitosamente com vizinha antes de oferecer alimentos, pátio antigo detalhado."
+    },
+    {
+      "heading": "Confiança diante de Deus",
+      "paragraphs": [
+        "A carta fala ainda do coração diante de Deus. Às vezes, podemos nos sentir acusados por dentro e inseguros sobre nossa própria vida. O texto lembra que Deus é maior do que o nosso coração e conhece todas as coisas. Essa lembrança convida à confiança, não a uma tentativa de esconder erros ou fabricar uma aparência perfeita.",
+        "A confiança diante de Deus caminha com o desejo de guardar seus mandamentos e fazer o que lhe agrada. O trecho resume esse chamado em crer no nome de Jesus Cristo e amar uns aos outros. Fé e amor aparecem ligados. A relação com Deus não deve afastar nossa atenção das pessoas, mas orientar a maneira como nos aproximamos delas.",
+        "A presença do Espírito acompanha essa vida. O amor pode crescer em atitudes pequenas e consistentes: repartir, escutar, cumprir um combinado e buscar ajuda para quem sofre. Não precisamos esperar uma oportunidade grandiosa para começar. O coração aberto se revela quando a verdade aprendida encontra mãos disponíveis e quando o próximo deixa de ser apenas assunto de uma conversa."
+      ],
+      "image": "362/part3.webp",
+      "alt": "Crianças e adultos cumprem juntos uma tarefa de cuidado em jardim comunitário, regam plantas e repartem água, imagem de amor em ações."
+    }
+  ],
+  "lesson": "Podemos escolher um gesto de cuidado e realizá-lo de verdade. Talvez seja cumprir um combinado, ouvir alguém ou participar de uma ajuda organizada pela família. É importante respeitar quem recebe e não esperar elogios. Quando falhamos, podemos reconhecer o erro e recomeçar. O amor de Deus não nos convida a uma aparência perfeita, mas a uma vida em que fé, palavras e atitudes aprendem a caminhar juntas.",
+  "question": "Qual gesto de cuidado você pode realizar hoje para dar verdade a uma palavra de carinho?",
+  "prayer": "Jesus, obrigado por nos mostrar o amor de Deus. Ajuda-nos a abrir o coração para as necessidades das pessoas e a agir com responsabilidade. Que nossas palavras sejam verdadeiras e nossas mãos estejam dispostas a cuidar, respeitando a dignidade e os limites de cada um. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família do primeiro século oferece refeição a vizinha e criança com respeito, todos sentados juntos, coração aberto representado por gestos e não por símbolos desenhados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma família do primeiro século oferece refeição a vizinha e criança com respeito, todos sentados juntos, coração aberto representado por gestos e não por símbolos desenhados."
+    },
+    {
+      "role": "part1",
+      "alt": "Um ancião de barba branca lê uma carta sobre amor a um grupo pequeno, luz de janela e rostos atentos, cena artística de ensino.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Um ancião de barba branca lê uma carta sobre amor a um grupo pequeno, luz de janela e rostos atentos, cena artística de ensino."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma jovem percebe um cesto vazio e conversa respeitosamente com vizinha antes de oferecer alimentos, pátio antigo detalhado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma jovem percebe um cesto vazio e conversa respeitosamente com vizinha antes de oferecer alimentos, pátio antigo detalhado."
+    },
+    {
+      "role": "part3",
+      "alt": "Crianças e adultos cumprem juntos uma tarefa de cuidado em jardim comunitário, regam plantas e repartem água, imagem de amor em ações.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Crianças e adultos cumprem juntos uma tarefa de cuidado em jardim comunitário, regam plantas e repartem água, imagem de amor em ações."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/1JN.3.KJV"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 330,
+  "title": "Paulo Conversa em Atenas",
+  "subtitle": "Uma conversa na cidade das perguntas",
+  "reference": "Atos 17:16–34",
+  "description": "Em Atenas, Paulo observa, escuta e apresenta o Deus que criou todas as coisas.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Entre ruas e conversas",
+      "paragraphs": [
+        "Enquanto esperava seus companheiros em Atenas, Paulo caminhou por uma cidade cheia de imagens e altares. As pessoas ali discutiam ideias e gostavam de conhecer novidades. Ao observar tantos objetos de adoração, ele ficou profundamente incomodado. Desejava que os moradores conhecessem o Deus vivo, que não cabe numa estátua feita por mãos humanas.",
+        "Paulo conversava na sinagoga e também na praça, onde encontrava pessoas todos os dias. Não ficou apenas olhando a cidade de longe. Falava, ouvia respostas e explicava a mensagem de Jesus e da ressurreição. Alguns filósofos começaram a discutir com ele. Uns estranharam suas palavras; outros pensaram que estivesse apresentando divindades desconhecidas.",
+        "Os ouvintes o levaram ao Areópago e pediram que explicasse aquela novidade. Paulo estava diante de pessoas com conhecimentos e costumes diferentes dos seus. Precisava falar de modo que pudessem acompanhar. Ele não começou contando quanto havia viajado. Começou por algo que tinha observado nas ruas por onde todos eles passavam."
+      ],
+      "image": "330/part1.webp",
+      "alt": "Paulo observa uma praça de Atenas com um pequeno altar de pedra sem inscrições legíveis, entre moradores que conversam e colunas antigas."
+    },
+    {
+      "heading": "O Criador não cabe num altar",
+      "paragraphs": [
+        "Paulo mencionou um altar dedicado a um deus que os moradores diziam não conhecer. A partir daquela observação, anunciou o Deus que fez o mundo e tudo o que existe. Esse Deus é Senhor do céu e da terra. Nenhuma construção pode contê-lo, e ele não depende dos presentes humanos para continuar existindo.",
+        "É Deus quem dá vida, respiração e tudo o que precisamos para viver. Paulo explicou que todos os povos têm uma origem comum e que o Criador deseja ser buscado. Por isso, nenhuma nação pode se considerar mais humana que outra. Pessoas diferentes continuam recebendo do mesmo Deus o dom precioso da vida.",
+        "Para ajudar os ouvintes a compreender, Paulo também lembrou palavras de poetas conhecidos por eles. Se a nossa vida vem de Deus, não faz sentido imaginar que ele seja semelhante a um objeto de ouro ou pedra. A conversa usava uma ponte familiar, mas conduzia a uma descoberta maior sobre quem Deus é."
+      ],
+      "image": "330/part2.webp",
+      "alt": "Paulo fala com mãos abertas a um círculo de ouvintes adultos no Areópago, sob céu claro, com gestos de reflexão e escuta."
+    },
+    {
+      "heading": "Respostas diferentes à mesma notícia",
+      "paragraphs": [
+        "Paulo não falou apenas sobre o começo do mundo. Chamou as pessoas a mudar de direção e explicou que Deus julgará o mundo com justiça por meio de alguém que escolheu. A ressurreição de Jesus confirmava essa mensagem. O anúncio chegava, assim, ao centro da esperança que o apóstolo levava às cidades.",
+        "Quando ouviram falar da ressurreição dos mortos, algumas pessoas zombaram. Outras disseram que desejavam ouvir mais em outra ocasião. Nem todos responderam da mesma maneira. Paulo saiu daquela reunião sem obrigar ninguém a concordar com ele. Sua tarefa era apresentar a mensagem com clareza, e cada ouvinte precisava lidar com o que escutara.",
+        "Algumas pessoas se juntaram a Paulo e creram. Entre elas estavam Dionísio, que fazia parte do Areópago, uma mulher chamada Dâmaris e outros moradores. No meio de tantas perguntas, surgiram novos caminhos de fé. A história mostra uma conversa que começou pela observação atenta e chegou ao anúncio de Jesus, sem esconder as diferenças."
+      ],
+      "image": "330/part3.webp",
+      "alt": "Paulo conversa amistosamente com Dionísio, homem de meia-idade em manto cinza, e Dâmaris, mulher adulta em vestido verde, ao fim da reunião; apenas esses três no primeiro plano."
+    }
+  ],
+  "lesson": "Paulo prestou atenção ao lugar e às pessoas antes de explicar sua fé. Podemos aprender a conversar assim: escutar, procurar palavras compreensíveis e tratar os outros com respeito. Falar sobre aquilo em que cremos não exige humilhar quem pensa diferente. Também podemos lembrar que todos recebem de Deus a vida e merecem dignidade. Uma boa conversa pode começar com uma observação simples e abrir espaço para perguntas importantes.",
+  "question": "Como você poderia explicar algo importante para você a uma pessoa que ainda não conhece esse assunto?",
+  "prayer": "Criador de todas as coisas, obrigado pela vida e pelo mundo que nos cerca. Ensina-me a ouvir as pessoas com respeito e falar da minha fé com clareza. Que minhas palavras aproximem, acolham perguntas e expressem teu amor por gente de todos os lugares. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/330.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.17"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Paulo conversa com pensadores atenienses em um terraço de pedra do Areópago, com colunas e a cidade grega ao fundo, sem estátuas em destaque.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Scene: Paulo conversa com pensadores atenienses em um terraço de pedra do Areópago, com colunas e a cidade grega ao fundo, sem estátuas em destaque."
+    },
+    {
+      "role": "part1",
+      "alt": "Paulo observa uma praça de Atenas com um pequeno altar de pedra sem inscrições legíveis, entre moradores que conversam e colunas antigas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Scene: Paulo observa uma praça de Atenas com um pequeno altar de pedra sem inscrições legíveis, entre moradores que conversam e colunas antigas. Exact cast: Paul observing architecture and anonymous Athenian passersby. No familiar companions from other stories."
+    },
+    {
+      "role": "part2",
+      "alt": "Paulo fala com mãos abertas a um círculo de ouvintes adultos no Areópago, sob céu claro, com gestos de reflexão e escuta.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Scene: Paulo fala com mãos abertas a um círculo de ouvintes adultos no Areópago, sob céu claro, com gestos de reflexão e escuta."
+    },
+    {
+      "role": "part3",
+      "alt": "Paulo conversa amistosamente com Dionísio, homem de meia-idade em manto cinza, e Dâmaris, mulher adulta em vestido verde, ao fim da reunião; apenas esses três no primeiro plano.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence.  Paul is a middle-aged olive-skinned man with a high receding hairline, curly dark hair at sides, short dark beard, indigo tunic and cream shawl, recognizable as the man on the RIGHT in the reference. Do not copy the other man from the reference into unrelated scenes.  Scene: Paulo conversa amistosamente com Dionísio, homem de meia-idade em manto cinza, e Dâmaris, mulher adulta em vestido verde, ao fim da reunião; apenas esses três no primeiro plano."
+    }
+  ]
+}

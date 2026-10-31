@@ -1,0 +1,74 @@
+{
+  "id": 181,
+  "title": "A Volta Noturna de Neemias",
+  "subtitle": "Olhar com atenção antes de começar",
+  "reference": "Neemias 2:11–20",
+  "description": "Neemias chega a Jerusalém e examina as muralhas durante a noite. Antes de convidar o povo para reconstruir, procura conhecer de perto a tarefa.",
+  "testament": "antigo",
+  "cover": "/images/covers/181.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Três dias em Jerusalém",
+      "paragraphs": [
+        "Neemias havia deixado o palácio de Susã e chegado a Jerusalém. Levava a autorização do rei e a disposição de ajudar na reconstrução. As notícias que ouvira eram verdadeiras: a cidade estava marcada pela destruição, com muralhas quebradas e portões queimados. Agora ele podia conhecer de perto o lugar pelo qual havia orado.",
+        "Depois de passar três dias na cidade, Neemias saiu à noite com poucos homens. Ainda não havia contado a todos o que Deus colocara em seu coração para fazer por Jerusalém. Antes de apresentar um plano, queria observar. O grupo era pequeno, e o único animal que levavam era aquele em que Neemias estava montado.",
+        "A visita não começou com uma grande cerimônia nem com promessas feitas diante de uma multidão. Começou com olhos atentos a uma realidade difícil. Ao acompanhar o trecho da muralha, Neemias podia perceber o tamanho dos danos e as condições do caminho. A missão que trouxera precisava encontrar os detalhes do lugar."
+      ],
+      "image": "181/part1.webp",
+      "alt": "Neemias chega a uma cidade que ainda precisa de reconstrução."
+    },
+    {
+      "heading": "Pedras no caminho",
+      "paragraphs": [
+        "Ele saiu pela Porta do Vale e seguiu em direção à Fonte do Dragão e à Porta do Monturo. Examinou as muralhas derrubadas e os portões atingidos pelo fogo. O livro registra os lugares por onde passou, mostrando que aquela observação foi concreta. Não bastava saber que havia ruínas; era necessário ver onde estavam e como afetavam a cidade.",
+        "Depois continuou até a Porta da Fonte e o tanque do rei. Ali havia tantos obstáculos que o animal não conseguiu passar. Neemias precisou seguir examinando por outro trecho, junto ao vale, e depois voltou pela Porta do Vale. A própria dificuldade de circular mostrava quanto trabalho seria necessário para recuperar aquele espaço.",
+        "Os líderes ainda não sabiam por onde ele havia ido nem o que estava fazendo. Neemias não tinha apresentado a proposta aos sacerdotes, nobres, autoridades ou trabalhadores. A volta noturna lhe permitiu conhecer a tarefa antes de chamar os outros. Escutar relatos havia sido importante; observar a situação de perto também fazia parte do cuidado."
+      ],
+      "image": "181/part2.webp",
+      "alt": "Um trecho bloqueado mostra a Neemias a dificuldade do trabalho."
+    },
+    {
+      "heading": "Um convite para construir",
+      "paragraphs": [
+        "Quando falou ao povo, Neemias descreveu uma situação que todos podiam reconhecer: Jerusalém estava destruída, e seus portões, queimados. Então fez um convite para reconstruir a muralha e tirar a cidade daquela condição de vergonha. Não se colocou como alguém que faria tudo sozinho. Usou palavras que reuniam a comunidade numa tarefa comum.",
+        "Contou também sobre a boa mão de Deus sobre ele e sobre o que o rei havia dito. A autorização e a ajuda recebida eram motivos de encorajamento. As pessoas responderam com disposição: levantariam as mãos para construir. Uma cidade cheia de pedras caídas começava a se tornar um lugar de trabalho compartilhado.",
+        "Sambalate, Tobias e Gesém zombaram do plano e fizeram acusações. Neemias respondeu afirmando sua confiança em Deus e a decisão de começar a obra. A observação noturna não havia resolvido todos os desafios, mas preparara um passo importante. Agora ele conhecia o terreno, e o povo conhecia o convite: olhar para a necessidade e trabalhar juntos por um novo começo."
+      ],
+      "image": "181/part3.webp",
+      "alt": "Neemias convida os moradores a reconstruir a muralha juntos."
+    }
+  ],
+  "lesson": "Antes de começar uma tarefa, vale a pena observar e entender do que ela precisa. Arrumar um quarto, organizar um trabalho de escola ou ajudar num projeto fica mais fácil quando vemos os materiais, os obstáculos e as pessoas envolvidas. Perguntar e olhar com atenção não é perder tempo. É uma forma de cuidar para que o plano seja possível e a ajuda seja realmente útil.",
+  "question": "Que tarefa você poderia observar melhor antes de decidir como começar?",
+  "prayer": "Deus, ajuda-nos a olhar com atenção para as necessidades ao nosso redor. Dá-nos paciência para entender antes de prometer e humildade para trabalhar com outras pessoas. Que nossos planos se transformem em atitudes possíveis, cuidadosas e úteis para quem precisa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias examina as muralhas de Jerusalém durante a noite.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah riding a calm small donkey beside broken ancient Jerusalem walls at moonlit dusk, two adult companions carry a small lantern, detailed rubble and quiet attentive faces, safe child-friendly mood. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Neemias chega a uma cidade que ainda precisa de reconstrução.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah stands with two companions near a broken ancient Jerusalem gateway, looking carefully at fallen stones and burned wooden door remains, warm afternoon light, hopeful thoughtful expression. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part2",
+      "alt": "Um trecho bloqueado mostra a Neemias a dificuldade do trabalho.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah has dismounted beside his calm donkey at a rubble-blocked narrow path near an ancient pool, companions hold lantern safely, blue moonlight and golden glow, no dangerous action. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part3",
+      "alt": "Neemias convida os moradores a reconstruir a muralha juntos.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah addresses a diverse gathering of adult Judean neighbors near a broken wall, several respond with willing open hands, morning golden light and tools set safely on ground. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 89,
+  "title": "Palavras de Paz para o Caminho",
+  "subtitle": "Palavras que lembram proteção, bondade e paz",
+  "reference": "Números 6:22–27",
+  "description": "Deus ensina Arão e seus filhos a abençoar o povo durante sua caminhada.",
+  "testament": "antigo",
+  "cover": "/images/covers/89.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma mensagem para ser transmitida",
+      "paragraphs": [
+        "O povo de Israel estava aprendendo a viver em comunidade durante a caminhada pelo deserto. Havia orientações sobre tarefas, encontros e responsabilidades. No meio dessas instruções, Deus entregou a Moisés palavras especiais para Arão e seus filhos: eles deveriam abençoar os israelitas de uma maneira que lembrasse seu cuidado.",
+        "A bênção não começava com uma conquista do povo nem com uma lista de coisas que cada pessoa precisava mostrar. Começava com o Senhor. Arão e seus filhos seriam os mensageiros, mas o cuidado anunciado vinha de Deus. Sua responsabilidade era transmitir essas palavras com reverência, reconhecendo que não eram donos da bênção.",
+        "Arão e seus filhos receberiam palavras que levavam o cuidado de Deus até a comunidade. A bênção não dependeria de uma frase inventada para impressionar os ouvintes. O próprio Senhor havia indicado o que deveriam anunciar. As famílias poderiam escutar aquela promessa de proteção e paz, reconhecendo que eram lembradas por seu Deus."
+      ],
+      "image": "89/part1.webp",
+      "alt": "Moisés transmite a orientação a Arão e seus filhos."
+    },
+    {
+      "heading": "Ser guardado e receber bondade",
+      "paragraphs": [
+        "A primeira parte pedia que o Senhor abençoasse e guardasse a pessoa. Eram palavras de proteção e cuidado. Quem atravessava um caminho desconhecido precisava lembrar que sua vida tinha valor. A bênção não transformava a jornada numa estrada sem dificuldades, mas colocava cada pessoa diante da atenção de Deus.",
+        "Depois vinha a imagem do rosto de Deus brilhando com bondade sobre o povo. É uma linguagem de acolhimento, como quando percebemos que somos recebidos com alegria e atenção. A passagem também pede graça: uma bondade que não precisa ser comprada nem conquistada por uma disputa com os outros.",
+        "A bênção continuava pedindo que o Senhor voltasse seu rosto para a pessoa e lhe desse paz. Não era uma palavra para afastar os problemas dos outros enquanto cada um cuidava apenas de si. A paz alcançava a vida inteira e convidava a comunidade a desejar o bem de quem caminhava ao seu lado."
+      ],
+      "image": "89/part2.webp",
+      "alt": "Uma família escuta a bênção com atenção."
+    },
+    {
+      "heading": "Um povo lembrado pelo nome de Deus",
+      "paragraphs": [
+        "Ao terminar a orientação, Deus disse que os sacerdotes colocariam seu nome sobre os israelitas e que ele os abençoaria. A expressão falava de pertencimento. O povo não era definido somente pelo deserto que atravessava, pelas tarefas que realizava ou pelas dificuldades que precisava enfrentar. Sua história estava ligada ao Senhor.",
+        "Arão e seus filhos deveriam usar a voz para transmitir proteção, graça e paz. Essa responsabilidade mostra o valor das palavras. Uma comunidade ouve muitas cobranças e preocupações no cotidiano; também precisa receber lembranças de cuidado. A bênção ajudava a manter essa verdade presente no meio de uma caminhada longa.",
+        "Hoje, ao conhecer essa passagem, podemos aprender a desejar o bem de maneira sincera. Uma oração por alguém pode acompanhar um gesto de atenção e respeito. Não controlamos o futuro de outra pessoa com nossas palavras, mas podemos colocá-la diante de Deus e ajudá-la a lembrar que sua vida merece cuidado e paz."
+      ],
+      "image": "89/part3.webp",
+      "alt": "As famílias seguem pelo acampamento em paz."
+    }
+  ],
+  "lesson": "Palavras podem ferir, mas também podem lembrar alguém de que é amado e merece cuidado. A bênção ensinada a Arão reúne proteção, bondade e paz. Podemos orar pelas pessoas e escolher palavras que encorajem sem prometer resultados que não controlamos. O desejo de bem se torna mais completo quando vem acompanhado de atenção, respeito e ajuda possível. Abençoar também nos convida a ser pessoas que promovem a paz.",
+  "question": "Quem você gostaria de incluir hoje numa oração por proteção, bondade e paz?",
+  "prayer": "Senhor, guarda as pessoas que amamos e acolhe quem se sente sozinho. Que tua bondade nos acompanhe e tua paz oriente nossas escolhas. Ensina-me a usar palavras que encorajem e atitudes que ofereçam cuidado a quem caminha comigo. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Arão pronuncia palavras de bênção sobre as famílias.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Aaron in high-priest robes raises open hands gently toward attentive Hebrew families at tabernacle courtyard, peaceful warm light and reassuring expressions, no visible deity."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés transmite a orientação a Arão e seus filhos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron elderly olive-skinned man white beard, white linen turban, long blue priestly robe, embroidered gold-blue ephod and square breastpiece with twelve small colorful stones. Scene: Moses speaks calmly with Aaron and two adult sons in white linen beside tabernacle entrance, thoughtful respectful instruction."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família escuta a bênção com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity.  EXACT CAST AND SCENE: Foreground EXACTfivepersonfamily: father brownrobeheadcloth,motherrustscarf,daughtercream/rustshawl,soncream/beige fromcover,plus distinctelderlygrandmothergreybraidgreyshawl. Aaron fromcover is SMALLOUTOFFOCUS background only raisinghands. No Moses. Listenwithreassurance. Scene framing:  Close family group of adult parents elderly grandparent and children listening peacefully at desert gathering, faces softly lit, Aaron blurred in background. References supply style and indicated identities ONLY; never copy the whole cast. No extra named figures. Create NEW composition distinct from cover. Detailedcinematicwarm3D,1536x1024landscape,nolettering.",
+      "references": [
+        "production-expansion/art/89_cover.png"
+      ]
+    },
+    {
+      "role": "part3",
+      "alt": "As famílias seguem pelo acampamento em paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity.  EXACT CAST AND SCENE: Only anonymousfamilies, including samefourparentschildren fromcover andelderlygrandmothergreyshawl. Aaron andMoses ABSENT. Adultsgentlysupportelderasallwalkthroughtentsaftergathering, eveningpeace. Scene framing:  Hebrew families walk together through orderly desert tents after gathering, adults support elderly relative and children beside parents, warm hopeful evening, no visible deity. References supply style and indicated identities ONLY; never copy the whole cast. No extra named figures. Create NEW composition distinct from cover. Detailedcinematicwarm3D,1536x1024landscape,nolettering.",
+      "references": [
+        "production-expansion/art/89_cover.png"
+      ]
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+6%3A22-27&version=KJV"
+  ]
+}

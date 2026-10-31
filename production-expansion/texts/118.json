@@ -1,0 +1,71 @@
+{
+  "id": 118,
+  "title": "O Cântico de Débora",
+  "subtitle": "Dar nome à ajuda recebida",
+  "reference": "Juízes 5:1–15,31",
+  "description": "Depois de um tempo de opressão, Débora e Baraque cantam. O cântico recorda a dor do povo e reconhece as pessoas que se dispuseram a ajudar.",
+  "testament": "antigo",
+  "cover": "/images/covers/118.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quando a voz vira canto",
+      "paragraphs": [
+        "Depois da derrota do poder que oprimia Israel, Débora e Baraque cantaram. Suas palavras recordavam o medo que o povo havia vivido e celebravam a ajuda do Senhor. O cântico também lembrava os líderes e as pessoas que tinham se apresentado para ajudar. Agora, o que viveram juntos seria contado por meio de uma canção.",
+        "O começo do cântico chama atenção para os líderes e para o povo que se ofereceu voluntariamente. Havia valor naquela disposição de participar. A libertação não seria lembrada apenas pelo nome de um comandante. A voz da canção dava espaço aos que deixaram seus lugares e assumiram responsabilidades, cada um dentro das condições daquele tempo.",
+        "Débora também convocou governantes a ouvir. O cântico falava do Senhor, o Deus de Israel, com imagens fortes da natureza. Terra tremendo, céus derramando água e montanhas se movendo expressavam a grandeza de Deus em linguagem de poesia. Ouvir esses versos é perceber que uma canção pode contar a história de modo diferente de uma conversa comum."
+      ],
+      "image": "118/part1.webp",
+      "alt": "Débora inicia um cântico ao lado de Baraque, enquanto a comunidade escuta com atenção."
+    },
+    {
+      "heading": "Lembrar o que foi difícil",
+      "paragraphs": [
+        "A canção recorda dias em que os caminhos estavam abandonados. Viajantes procuravam trilhas secundárias, e a vida nas aldeias sofria. Essas imagens ajudam a entender a opressão: ela não afetava apenas quem estava numa batalha. Atingia pessoas que precisavam viajar, trabalhar e viver suas tarefas diárias com segurança.",
+        "Nesse cenário, Débora se apresenta como uma mãe em Israel. A expressão comunica cuidado e responsabilidade pelo povo. Sua liderança não ficava restrita a uma ordem militar. Ela havia escutado a comunidade e contribuído para que uma resposta surgisse. O cântico permite lembrar tanto o medo vivido quanto a presença de quem ajudou a abrir outro caminho.",
+        "A voz da canção se volta para pessoas de diferentes condições: quem andava em animais de montaria, quem se sentava sobre mantas e quem caminhava a pé. Todos eram convidados a contar os feitos de Deus. A memória não deveria ficar guardada somente entre os mais importantes. Precisava circular nos lugares onde a vida voltava a acontecer."
+      ],
+      "image": "118/part2.webp",
+      "alt": "Um caminho de aldeia volta a receber viajantes e famílias, em uma cena tranquila de reencontro."
+    },
+    {
+      "heading": "Reconhecer quem se ofereceu",
+      "paragraphs": [
+        "Débora menciona tribos e líderes que participaram. Também fala dos que permaneceram distantes, pensando em suas próprias atividades enquanto outros enfrentavam a crise. O cântico faz perguntas sobre essa diferença. Numa comunidade, a disposição de ajudar não é um detalhe. Quando alguém sofre, as escolhas de quem está ao redor também têm consequências.",
+        "O cântico atravessava os lugares e os acontecimentos daquela luta. Lembrava o ribeiro de Quisom, a força dos inimigos e a ajuda recebida do Senhor. Débora e Baraque davam voz ao que o povo tinha vivido. A canção reunia a lembrança de um tempo difícil e a gratidão por já não estarem debaixo do mesmo domínio.",
+        "Depois daquela vitória, a terra teve descanso durante quarenta anos. Depois de caminhos inseguros e aldeias ameaçadas, descanso era uma notícia importante. O cântico preservava a memória para que o povo não tratasse a paz como algo sem valor. Cantar também podia ser um modo de agradecer, lembrar os que ajudaram e ensinar aos filhos o peso de viver em segurança."
+      ],
+      "image": "118/part3.webp",
+      "alt": "Crianças e adultos agradecem juntos numa roda, com uma lira e um pequeno tambor ao entardecer."
+    }
+  ],
+  "lesson": "A gratidão fica mais bonita quando reconhece pessoas concretas. Podemos agradecer a quem prepara uma refeição, explica uma tarefa ou nos acompanha num dia difícil. Débora deu lugar no cântico à ajuda recebida e ao sofrimento que o povo vivera. Nós também podemos contar boas histórias sem apagar as dificuldades. Uma canção, um desenho ou uma conversa pode lembrar o valor da cooperação e da paz, sem transformar violência em diversão.",
+  "question": "Quem ajudou você nesta semana, e como pode agradecer citando uma atitude concreta dessa pessoa?",
+  "prayer": "Deus, obrigado pelas pessoas que oferecem tempo e cuidado à nossa vida. Ajuda-nos a perceber sua ajuda e a agradecer com sinceridade. Que nossas músicas e nossas palavras guardem boas lembranças, consolem quem sofre e nos ensinem a valorizar a paz. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Débora e Baraque cantam diante de famílias reunidas numa aldeia em paz, com expressões de gratidão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman cream headscarf purple robe teal shawl; Barak short beard blue cloak. Ancient village families gathered peacefully, simple hand drum and lyre only, warm celebratory evening. Scene: Débora e Baraque cantam diante de famílias reunidas numa aldeia em paz, com expressões de gratidão."
+    },
+    {
+      "role": "part1",
+      "alt": "Débora inicia um cântico ao lado de Baraque, enquanto a comunidade escuta com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman cream headscarf purple robe teal shawl; Barak short beard blue cloak. Ancient village families gathered peacefully, simple hand drum and lyre only, warm celebratory evening. Scene: Débora inicia um cântico ao lado de Baraque, enquanto a comunidade escuta com atenção."
+    },
+    {
+      "role": "part2",
+      "alt": "Um caminho de aldeia volta a receber viajantes e famílias, em uma cena tranquila de reencontro.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman cream headscarf purple robe teal shawl; Barak short beard blue cloak. Ancient village families gathered peacefully, simple hand drum and lyre only, warm celebratory evening. Scene: Um caminho de aldeia volta a receber viajantes e famílias, em uma cena tranquila de reencontro."
+    },
+    {
+      "role": "part3",
+      "alt": "Crianças e adultos agradecem juntos numa roda, com uma lira e um pequeno tambor ao entardecer.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Deborah middle-aged olive-skinned woman cream headscarf purple robe teal shawl; Barak short beard blue cloak. Ancient village families gathered peacefully, simple hand drum and lyre only, warm celebratory evening. Scene: Crianças e adultos agradecem juntos numa roda, com uma lira e um pequeno tambor ao entardecer."
+    }
+  ]
+}

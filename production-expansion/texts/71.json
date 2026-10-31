@@ -1,0 +1,71 @@
+{
+  "id": 71,
+  "title": "Água em Refidim",
+  "subtitle": "Uma necessidade real, uma resposta de cuidado",
+  "reference": "Êxodo 17:1–7",
+  "description": "Em Refidim, a falta de água se torna uma oportunidade de reconhecer a presença de Deus.",
+  "testament": "antigo",
+  "cover": "/images/covers/71.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um acampamento sem água",
+      "paragraphs": [
+        "O povo de Israel continuou atravessando o deserto, mudando de acampamento conforme a orientação do Senhor. Quando chegou a Refidim, encontrou um problema urgente: não havia água para beber. As famílias já conheciam o cuidado de Deus, mas a sede daquele dia era real e precisava de uma resposta.",
+        "Os israelitas discutiram com Moisés, exigindo água. A preocupação cresceu e se misturou à acusação de que ele os havia tirado do Egito para morrer no deserto. Crianças, adultos e rebanhos estavam envolvidos naquela necessidade. O medo transformava o passado de escravidão numa comparação confusa com a dificuldade presente.",
+        "Moisés perguntou por que brigavam com ele e colocavam o Senhor à prova. A questão não era proibir que falassem da sede. Era a maneira como a necessidade se transformava em desconfiança sobre todo o caminho. O povo começava a perguntar se Deus realmente estava entre eles, apesar de tudo o que já vivera."
+      ],
+      "image": "71/part1.webp",
+      "alt": "O povo chega a Refidim e procura água."
+    },
+    {
+      "heading": "Um pedido no meio da pressão",
+      "paragraphs": [
+        "Moisés clamou ao Senhor. Disse que não sabia o que fazer com o povo e temia que a tensão aumentasse ainda mais. Não tentou fingir que conduzir aquela multidão era simples. A oração permitiu que ele apresentasse sua própria aflição, além da sede das pessoas pelas quais era responsável.",
+        "Deus lhe deu uma orientação concreta. Deveria passar adiante do povo, levar alguns dos líderes de Israel e carregar o cajado que usara junto ao rio. A resposta não seria escondida num canto distante. Haveria testemunhas capazes de contar ao restante da comunidade o que aconteceria diante delas.",
+        "O Senhor indicou uma rocha em Horebe e disse que Moisés a atingisse com o cajado. Da rocha sairia água para o povo beber. Moisés fez isso diante dos líderes. A Bíblia apresenta o acontecimento como provisão de Deus, não como uma habilidade que qualquer pessoa poderia repetir batendo em pedras."
+      ],
+      "image": "71/part2.webp",
+      "alt": "Moisés caminha com os líderes até a rocha."
+    },
+    {
+      "heading": "Uma pergunta que ficou na memória",
+      "paragraphs": [
+        "A água respondeu à necessidade do acampamento. O povo não foi deixado sem socorro porque havia demonstrado medo e irritação. Ao mesmo tempo, a história guardou uma lembrança séria sobre a discussão. O lugar recebeu nomes ligados à briga e à atitude de colocar Deus à prova naquele momento difícil.",
+        "Esses nomes lembrariam a pergunta que havia surgido entre os israelitas: o Senhor estava com eles ou não? A água que receberam ajudava a responder. A presença de Deus não significava que nunca encontrariam dificuldades. Significava que não estavam sozinhos enquanto aprendiam a atravessá-las e a pedir o cuidado de que precisavam.",
+        "Refidim mostra pessoas com sede, um líder sob pressão e um Deus que oferece provisão. Também nos convida a pensar em como falamos quando estamos frustrados. Podemos dizer que precisamos de ajuda sem transformar quem está perto em inimigo. A necessidade merece atenção, e nossas palavras podem abrir espaço para encontrar uma solução juntos."
+      ],
+      "image": "71/part3.webp",
+      "alt": "As famílias recebem água para beber."
+    }
+  ],
+  "lesson": "Quando sentimos falta de algo importante, o medo pode tornar nossas palavras duras. Em Refidim, a sede precisava ser atendida, mas as acusações aumentavam a tensão. Podemos aprender a explicar nossa necessidade e pedir ajuda com clareza. Também podemos ouvir quem está aflito e buscar uma resposta concreta. Confiar em Deus não significa negar os problemas; significa lembrar que podemos enfrentá-los com oração, cuidado e companhia.",
+  "question": "Como você poderia trocar uma acusação por um pedido claro de ajuda quando estiver frustrado?",
+  "prayer": "Senhor, ajuda-me a reconhecer minhas necessidades e expressá-las com respeito. Cuida de quem não tem água e fortalece quem busca soluções. Quando eu estiver frustrado, ensina-me a pedir ajuda, ouvir outras pessoas e lembrar que não preciso caminhar sozinho. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Água corre da rocha diante de Moisés e dos líderes.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses and three elderly Israelite leaders stand amazed beside large desert rock with fresh water flowing into shallow stream, staff lowered, warm hopeful light, no crowd pressing."
+    },
+    {
+      "role": "part1",
+      "alt": "O povo chega a Refidim e procura água.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Hebrew adult families with travel bundles and empty clay jars look across dry rocky campsite, Moses listens, concerned but dignified expressions."
+    },
+    {
+      "role": "part2",
+      "alt": "Moisés caminha com os líderes até a rocha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Moses carrying wooden staff walks ahead with three elderly leaders toward large natural rock in open desert, wide purposeful composition, no water yet."
+    },
+    {
+      "role": "part3",
+      "alt": "As famílias recebem água para beber.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Scene: Adult parents fill clay vessels from clear shallow stream beside rock while children sit safely with cups, Moses distant, grateful calm camp scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+17%3A1-7&version=KJV"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 149,
+  "title": "Elias no Monte Carmelo",
+  "subtitle": "Uma escolha diante de todo o povo",
+  "reference": "1 Reis 18:17–46",
+  "description": "Elias reúne o povo no Carmelo e chama todos a decidir em quem confiar. Depois de uma oração simples e de uma resposta extraordinária, uma pequena nuvem anuncia chuva.",
+  "testament": "antigo",
+  "cover": "/images/covers/149.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma pergunta para o povo",
+      "paragraphs": [
+        "A seca já durava muito tempo quando Elias voltou a encontrar Acabe. O rei o acusou de trazer problemas a Israel. Elias respondeu que o afastamento do Senhor e o culto a Baal estavam no centro da crise. Pediu que o povo e os profetas de Baal fossem reunidos no monte Carmelo para um encontro decisivo.",
+        "Diante da assembleia, Elias perguntou até quando ficariam divididos entre dois caminhos. Se o Senhor era Deus, deveriam segui-lo; se Baal, que o seguissem. O povo permaneceu em silêncio. A pergunta exigia mais que uma resposta conveniente. Chamava a comunidade a reconhecer a direção de sua confiança e a responsabilidade por suas escolhas.",
+        "Elias propôs que preparassem dois sacrifícios: um pelos profetas de Baal e outro por ele. Ninguém deveria acender o fogo. Cada lado invocaria seu Deus, e aquele que respondesse com fogo seria reconhecido. O povo concordou. Os profetas de Baal começaram primeiro, enquanto Elias e a multidão aguardavam diante dos altares no monte."
+      ],
+      "image": "149/part1.webp",
+      "alt": "Elias fala ao povo reunido num espaço aberto do monte, com expressão firme e respeitosa."
+    },
+    {
+      "heading": "O altar e a oração",
+      "paragraphs": [
+        "Os profetas de Baal chamaram por ele durante muitas horas, mas não houve resposta. O dia avançava, e continuavam sem ser ouvidos. Então Elias chamou o povo para perto. Diante de todos, restaurou o altar do Senhor com doze pedras, lembrando as tribos de Israel. Organizou a lenha e preparou o sacrifício sobre aquele altar reconstruído.",
+        "Ele fez uma vala ao redor e pediu que derramassem água sobre o altar e a oferta. O gesto foi repetido até que tudo ficasse encharcado. A água escorreu pelas pedras e encheu a vala. O povo acompanhava cada preparação, enquanto o altar reconstruído permanecia diante deles, pronto para o momento em que Elias faria sua oração.",
+        "Na hora da oferta, Elias orou. Pediu que se soubesse que o Senhor era Deus em Israel e que o coração do povo voltasse para ele. Então caiu fogo do Senhor, consumindo a oferta e o altar. As pessoas se prostraram e reconheceram o Senhor. A resposta extraordinária foi atribuída a Deus, não à habilidade do profeta de produzir um espetáculo."
+      ],
+      "image": "149/part2.webp",
+      "alt": "Elias ora junto a um altar de pedras molhado, sem fogo visível e sem animais retratados."
+    },
+    {
+      "heading": "Uma nuvem pequena",
+      "paragraphs": [
+        "Depois daquele encontro, os profetas de Baal foram mortos. Elias anunciou a Acabe que a chuva viria e subiu ao alto do Carmelo. Ali se inclinou para orar, com o rosto entre os joelhos. Pediu ao servo que olhasse na direção do mar. Depois de tanta seca, os dois esperavam o primeiro sinal de mudança no céu.",
+        "O servo voltou dizendo que não havia nada. Elias o enviou novamente. Na sétima vez, apareceu uma nuvem pequena, parecida com a mão de um homem, subindo do mar. Era um sinal discreto depois de uma longa espera. Elias mandou avisar Acabe para preparar a viagem antes que a chuva o impedisse de seguir.",
+        "O céu escureceu com nuvens e vento, e caiu uma grande chuva. Acabe partiu em seu carro na direção de Jezreel. A mão do Senhor veio sobre Elias, que prendeu sua roupa para correr e seguiu à frente do rei até a entrada da cidade. Enquanto os viajantes avançavam, a terra que sofrera com a seca recebia água novamente."
+      ],
+      "image": "149/part3.webp",
+      "alt": "Elias corre por uma estrada ampla na direção de Jezreel enquanto a chuva cai sobre campos e árvores; ao longe, atrás dele, o carro de Acabe segue pela mesma estrada."
+    }
+  ],
+  "lesson": "A fé não precisa de ameaças ou desafios perigosos para ser vivida. O episódio do Carmelo pertence à história antiga e não autoriza agressão contra quem acredita de outra maneira. Podemos cultivar convicções com respeito e coerência. Elias também perseverou em oração enquanto o servo ainda não via a nuvem. Esperar pode exigir paciência, mas nunca nos dispensa de cuidados responsáveis com a vida e com as necessidades das pessoas.",
+  "question": "Como você pode viver aquilo em que acredita com firmeza e, ao mesmo tempo, respeitar quem pensa diferente?",
+  "prayer": "Deus, ajuda-nos a viver nossa fé com sinceridade e respeito. Livra-nos de usar teu nome para ameaçar ou machucar. Dá-nos paciência na espera e atenção às necessidades do mundo. Obrigado pela água que sustenta a vida e pelas oportunidades de recomeçar. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Elias e seu servo observam uma pequena nuvem acima do mar a partir do monte Carmelo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin dark thick beard brown mantle tan tunic; adult servant earth robe; Mount Carmel coastal hills, ancient stone altar, distant crowd kept safely away. No visible deity, no violence, no burning animals. Only named scene cast. Scene: Elias e seu servo observam uma pequena nuvem acima do mar a partir do monte Carmelo. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part1",
+      "alt": "Elias fala ao povo reunido num espaço aberto do monte, com expressão firme e respeitosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin dark thick beard brown mantle tan tunic; adult servant earth robe; Mount Carmel coastal hills, ancient stone altar, distant crowd kept safely away. No visible deity, no violence, no burning animals. Only named scene cast. Scene: Elias fala ao povo reunido num espaço aberto do monte, com expressão firme e respeitosa. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part2",
+      "alt": "Elias ora junto a um altar de pedras molhado, sem fogo visível e sem animais retratados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin dark thick beard brown mantle tan tunic; adult servant earth robe; Mount Carmel coastal hills, ancient stone altar, distant crowd kept safely away. No visible deity, no violence, no burning animals. Only named scene cast. Scene: Elias ora junto a um altar de pedras molhado, sem fogo visível e sem animais retratados. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    },
+    {
+      "role": "part3",
+      "alt": "Elias corre por uma estrada ampla na direção de Jezreel enquanto a chuva cai sobre campos e árvores; ao longe, atrás dele, o carro de Acabe segue pela mesma estrada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah adult olive skin dark thick beard brown mantle tan tunic; adult servant earth robe; Mount Carmel coastal hills, ancient stone altar, distant crowd kept safely away. No visible deity, no violence, no burning animals. Only named scene cast. Scene: Elias corre por uma estrada ampla na direção de Jezreel enquanto a chuva cai sobre campos e árvores; ao longe, atrás dele, o carro de Acabe segue pela mesma estrada. MANDATORY SCENE CAST: Elijah running alone in the foreground, Ahab in a distant ancient two-wheeled chariot behind. No servant beside Elijah. Moderate rain, hopeful energetic mood, sturdy safe road, no flooding or peril. Ahab is distant and small in frame, in red and gold royal mantle. REFERENCE USAGE: first reference supplies 3D rendering style only; second reference supplies ONLY Elijah identity: dark shoulder-length wavy hair, thick dark beard, olive skin, rough brown mantle over beige tunic. Do NOT copy the raven, brook, composition or full cast. Render ONLY the people and setting stated in this scene. No ravens in this new story.",
+      "references": [
+        "assets-private/14/part1.webp",
+        "production-expansion/art/146_cover.png"
+      ]
+    }
+  ]
+}

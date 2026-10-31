@@ -3,6 +3,7 @@ import { readFile, realpath } from 'node:fs/promises';
 import { resolve, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createClient } from '@supabase/supabase-js';
+import { STORY_COUNT, isStoryId } from '../shared/collection.mjs';
 import { safeAssetPath } from '../server/rules.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
@@ -19,13 +20,13 @@ function options(args) {
 
 export async function prepareImport({ content, assets }) {
   const stories = JSON.parse(await readFile(content, 'utf8'));
-  if (!Array.isArray(stories) || stories.length !== 40 || new Set(stories.map((story) => story.id)).size !== 40) {
-    throw new Error('O conteúdo deve conter exatamente 40 histórias com IDs únicos de 1 a 40.');
+  if (!Array.isArray(stories) || stories.length !== STORY_COUNT || new Set(stories.map((story) => story.id)).size !== STORY_COUNT) {
+    throw new Error(`O conteúdo deve conter exatamente ${STORY_COUNT} histórias com IDs únicos de 1 a ${STORY_COUNT}.`);
   }
   const base = await realpath(assets);
   const images = [];
   for (const story of stories) {
-    if (!Number.isInteger(story.id) || story.id < 1 || story.id > 40 ||
+    if (!isStoryId(story.id) ||
       !Array.isArray(story.parts) || story.parts.length !== 3 ||
       !['antigo', 'novo'].includes(story.testament)) throw new Error(`Estrutura inválida na história ${story.id}.`);
     for (const field of ['title', 'subtitle', 'reference', 'description', 'lesson', 'question', 'prayer']) {

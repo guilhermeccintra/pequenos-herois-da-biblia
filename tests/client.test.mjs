@@ -12,8 +12,15 @@ test('favoritos não inclui os livros apenas concluídos',()=>{
  assert.deepEqual(filterStories(stories,{favorites:true,progress}).map(s=>s.id),[30]);
 });
 test('progresso descarta IDs desconhecidos e valores inválidos de armazenamento',()=>{
- assert.deepEqual(cleanProgress({1:{part:999,completed:'false',favorite:true},41:{part:1},2:null}),{1:{story_id:1,part:3,completed:false,favorite:true}});
+ assert.deepEqual(cleanProgress({1:{part:999,completed:'false',favorite:true},366:{part:1},2:null}),{1:{story_id:1,part:3,completed:false,favorite:true}});
 });
 test('progresso remoto mais recente substitui o estado local da mesma conta',()=>{
  assert.equal(mergeProgress({1:{part:2,favorite:true}},[{story_id:1,part:0,favorite:false,completed:false}])[1].favorite,false);
+});
+
+test('progresso preserva os novos IDs inclusive 100 e 365',()=>{
+ const result=cleanProgress({41:{part:1},100:{favorite:true},365:{part:3,completed:true},366:{part:1}});
+ assert.deepEqual(Object.keys(result),['41','100','365']);
+ assert.equal(result[365].completed,true);
+ assert.equal(result[100].favorite,true);
 });

@@ -33,17 +33,18 @@ function webpSize(buffer) {
   throw new Error('WebP sem dimensões reconhecidas.');
 }
 
-test('40 histórias completas obedecem ao contrato e conservam palavras, capítulos e reflexão das fontes', () => {
-  assert.equal(stories.length, 40);
-  assert.equal(manifest.length, 40);
-  assert.deepEqual(stories.map(story => story.id), Array.from({ length: 40 }, (_, i) => i + 1));
+test('365 histórias completas obedecem ao contrato e conservam palavras, capítulos e reflexão das fontes', () => {
+  assert.equal(stories.length, 365);
+  assert.equal(manifest.length, 365);
+  assert.deepEqual(stories.map(story => story.id), Array.from({ length: 365 }, (_, i) => i + 1));
   for (const story of stories) {
     const expected = manifest.find(item => item.id === story.id);
     assert.equal(digest(JSON.stringify(narrative(story))), expected.narrative_sha256, `História ${story.id}: narrativa alterada`);
     assert.equal(countWords(story.parts.flatMap(part => part.paragraphs).join(' ')), expected.narrative_words);
     assert.deepEqual(story.parts.map(part => countWords(part.paragraphs.join(' '))), expected.part_words);
     assert.equal(story.parts.length, 3);
-    assert.equal(story.testament, story.id <= 20 ? 'antigo' : 'novo');
+    assert.ok(['antigo','novo'].includes(story.testament));
+    if (story.id <= 40) assert.equal(story.testament, story.id <= 20 ? 'antigo' : 'novo');
     assert.equal(story.duration, '4–7 min');
     assert.equal(story.audio_path, null, 'Não entregar áudio inexistente');
     assert.equal(story.cover, `/images/covers/${String(story.id).padStart(2, '0')}.webp`);
@@ -58,7 +59,7 @@ test('40 histórias completas obedecem ao contrato e conservam palavras, capítu
 
 test('catálogo público usa somente metadados; somente a história 1 é uma amostra completa', async () => {
   const allowed = ['id', 'title', 'subtitle', 'reference', 'description', 'testament', 'cover', 'duration'].sort();
-  assert.equal(catalog.length, 40);
+  assert.equal(catalog.length, 365);
   for (const item of catalog) {
     assert.deepEqual(Object.keys(item).sort(), allowed);
     const full = stories.find(story => story.id === item.id);
@@ -79,11 +80,11 @@ test('catálogo público usa somente metadados; somente a história 1 é uma amo
   }
 });
 
-test('160 imagens privadas e 46 públicas têm paths, dimensões e orçamento corretos', async () => {
+test('1460 imagens privadas e 371 públicas têm paths, dimensões e orçamento corretos', async () => {
   const privateImages = (await walk(resolve(root, 'assets-private'))).filter(path => path.endsWith('.webp'));
   const publicImages = (await walk(resolve(root, 'public/images'))).filter(path => path.endsWith('.webp'));
-  assert.equal(privateImages.length, 160);
-  assert.equal(publicImages.length, 46);
+  assert.equal(privateImages.length, 1460);
+  assert.equal(publicImages.length, 371);
   for (const story of stories) {
     const code = String(story.id).padStart(2, '0');
     const cover = await readFile(resolve(root, `public${story.cover}`));
@@ -111,6 +112,34 @@ test('roteiros de narração preservam conteúdo, títulos, capítulos, lição,
     for (const part of story.parts) {
       assert.ok(text.includes(part.heading));
       for (const paragraph of part.paragraphs) assert.ok(text.includes(paragraph));
+    }
+  }
+});
+
+test('expansão contém narrativas, reflexões e orações completas e distintas', () => {
+  const additions = stories.filter(s => s.id > 40);
+  assert.equal(additions.length, 325);
+  for (const key of ['title', 'lesson', 'question', 'prayer']) {
+    assert.equal(new Set(stories.map(s => s[key].trim().toLocaleLowerCase('pt-BR'))).size, 365, `Campo repetido: ${key}`);
+  }
+  for (const story of additions) {
+    const words=countWords(story.parts.flatMap(p=>p.paragraphs).join(' '));
+    assert.ok(words>=420 && words<=650, `História ${story.id}: extensão narrativa ${words}`);
+    assert.ok(countWords(story.lesson)>=55, `História ${story.id}: reflexão incompleta`);
+    assert.ok(countWords(story.prayer)>=30, `História ${story.id}: oração incompleta`);
+    assert.ok(story.parts.every(p=>p.paragraphs.length===3));
+  }
+});
+
+test('as novas ilustrações são arquivos distintos, sem capas ou cenas antigas recicladas', async () => {
+  const seen = new Map();
+  for (const story of stories) {
+    const code=String(story.id).padStart(2,'0');
+    for (const role of ['cover','part1','part2','part3']) {
+      const path=`assets-private/${code}/${role}.webp`;
+      const hash=digest(await readFile(resolve(root,path)));
+      assert.ok(!seen.has(hash), `Imagem duplicada: ${path} e ${seen.get(hash)}`);
+      seen.set(hash,path);
     }
   }
 });

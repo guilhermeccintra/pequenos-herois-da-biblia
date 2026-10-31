@@ -1,0 +1,71 @@
+{
+  "id": 141,
+  "title": "Duas Mães Diante do Rei",
+  "subtitle": "Escutar para proteger a vida",
+  "reference": "1 Reis 3:16–28",
+  "description": "Duas mulheres chegam a Salomão com relatos diferentes sobre um bebê. O rei precisa encontrar a verdade e proteger a criança no centro daquela disputa.",
+  "testament": "antigo",
+  "cover": "/images/covers/141.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Duas histórias diferentes",
+      "paragraphs": [
+        "Duas mulheres chegaram à presença de Salomão. Elas moravam na mesma casa e tinham tido filhos com poucos dias de diferença. Não havia outra pessoa vivendo com elas naquele momento. Agora, porém, um dos bebês havia morrido, e as duas afirmavam ser a mãe da criança que continuava viva. O rei precisava ouvir uma situação dolorosa e difícil.",
+        "A primeira mulher contou que a outra havia trocado os bebês durante a noite, enquanto ela dormia. Ao acordar e olhar com atenção, percebeu que a criança morta não era seu filho. A segunda mulher negou essa versão. Disse que o bebê vivo era seu e que o morto pertencia à outra. Cada uma insistia em sua história.",
+        "Salomão escutou as duas falas. Não havia uma testemunha pronta para resolver a questão, e a posição social das mulheres não tornava sua dor menos importante. O bebê precisava de proteção, e a verdade precisava ser procurada. Uma decisão apressada poderia entregar a criança à pessoa errada e aprofundar o sofrimento de quem já estava desesperada."
+      ],
+      "image": "141/part1.webp",
+      "alt": "Duas mulheres apresentam suas versões a Salomão numa sala do palácio, com um bebê seguro nos braços de uma delas."
+    },
+    {
+      "heading": "Uma proposta assustadora",
+      "paragraphs": [
+        "O rei repetiu o que cada mulher afirmava, mostrando que havia compreendido o centro da disputa. Depois fez uma proposta dura: dividir a criança entre as duas. A Bíblia conta esse anúncio como parte de uma prova para revelar suas reações. O bebê não foi ferido. A cena deve ser lida com cuidado, porque uma ameaça à vida de uma criança é sempre séria.",
+        "A verdadeira mãe reagiu imediatamente. Seu amor pelo filho falou mais alto que o desejo de vencer a discussão. Pediu que a criança fosse entregue à outra mulher, desde que permanecesse viva. Estava disposta a abrir mão de ficar com o bebê para impedir que ele sofresse. Sua resposta colocou a proteção da criança acima de sua própria vantagem.",
+        "A outra mulher aceitou a ideia de que nenhuma das duas ficasse com o menino. As reações foram muito diferentes. Salomão observou que uma delas buscava preservar a vida mesmo à custa de uma perda pessoal. O cuidado verdadeiro se tornara visível numa atitude, e não apenas na repetição das palavras de que o bebê lhe pertencia."
+      ],
+      "image": "141/part2.webp",
+      "alt": "Uma mãe faz um gesto de proteção ao filho enquanto Salomão observa sua preocupação com atenção."
+    },
+    {
+      "heading": "A criança é protegida",
+      "paragraphs": [
+        "Salomão ordenou que o bebê fosse entregue à mulher que havia pedido para poupá-lo. Identificou-a como a mãe e deixou claro que a criança não deveria ser ferida. O momento de tensão terminou com proteção. A decisão não tratou o bebê como um objeto que pudesse ser repartido, mas como uma vida cuja segurança precisava estar em primeiro lugar.",
+        "A notícia do julgamento se espalhou por Israel. As pessoas contavam como o rei tinha descoberto a verdade entre duas versões tão diferentes. Todos reconheceram que a sabedoria de Deus estava com Salomão para fazer justiça. A audiência havia terminado, e o bebê estava protegido nos braços da mãe que preferira abrir mão dele a vê-lo ferido.",
+        "No centro daquela audiência não estava apenas a fama de um rei sábio. Havia uma criança viva e uma mãe que desejava protegê-la. A história nos convida a perceber que cuidado não é posse. Amar alguém pode exigir pensar primeiro em sua segurança, mesmo quando nossos sentimentos estão feridos e desejamos muito que todos reconheçam que temos razão."
+      ],
+      "image": "141/part3.webp",
+      "alt": "Salomão indica que a criança permaneça com sua mãe, que a acolhe com carinho e alívio."
+    }
+  ],
+  "lesson": "Salomão pediu sabedoria para cuidar das pessoas, e esse julgamento mostrou sua atenção a quem mais precisava de proteção. O amor verdadeiro procura o bem do outro, mesmo quando isso exige abrir mão de vencer uma disputa. Em nossas conversas, podemos escutar com calma e perguntar como nossas escolhas afetam alguém. Na família e entre amigos, ser justo significa cuidar das pessoas e procurar a verdade, sem transformar tudo numa competição.",
+  "question": "Numa discussão, como você pode lembrar que cuidar das pessoas é mais importante que vencer?",
+  "prayer": "Deus, dá sabedoria a quem precisa tomar decisões difíceis e proteger crianças. Ajuda-nos a escutar com atenção e a colocar a segurança das pessoas acima do orgulho. Que nosso amor apareça em atitudes de cuidado, respeito e responsabilidade, especialmente quando estivermos em desacordo. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma mãe segura seu bebê em segurança diante de Salomão, num momento de alívio após a decisão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curls neat beard blue royal robe simple gold circlet; two adult women one terracotta dress cream veil other green dress tan veil; infant safely swaddled held securely by caring mother. No blades, weapons, threats, distressing danger, dead infant or violence. Only scene named cast. Scene: Uma mãe segura seu bebê em segurança diante de Salomão, num momento de alívio após a decisão."
+    },
+    {
+      "role": "part1",
+      "alt": "Duas mulheres apresentam suas versões a Salomão numa sala do palácio, com um bebê seguro nos braços de uma delas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curls neat beard blue royal robe simple gold circlet; two adult women one terracotta dress cream veil other green dress tan veil; infant safely swaddled held securely by caring mother. No blades, weapons, threats, distressing danger, dead infant or violence. Only scene named cast. Scene: Duas mulheres apresentam suas versões a Salomão numa sala do palácio, com um bebê seguro nos braços de uma delas."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma mãe faz um gesto de proteção ao filho enquanto Salomão observa sua preocupação com atenção.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curls neat beard blue royal robe simple gold circlet; two adult women one terracotta dress cream veil other green dress tan veil; infant safely swaddled held securely by caring mother. No blades, weapons, threats, distressing danger, dead infant or violence. Only scene named cast. Scene: Uma mãe faz um gesto de proteção ao filho enquanto Salomão observa sua preocupação com atenção."
+    },
+    {
+      "role": "part3",
+      "alt": "Salomão indica que a criança permaneça com sua mãe, que a acolhe com carinho e alívio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon young adult olive skin dark curls neat beard blue royal robe simple gold circlet; two adult women one terracotta dress cream veil other green dress tan veil; infant safely swaddled held securely by caring mother. No blades, weapons, threats, distressing danger, dead infant or violence. Only scene named cast. Scene: Salomão indica que a criança permaneça com sua mãe, que a acolhe com carinho e alívio. The true caring mother is the woman in the TERRACOTTA dress and CREAM veil. She securely holds the one infant. The other woman wears GREEN and TAN. Keep these identities consistent."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 266,
+  "title": "Uma Luz no Alto do Monte",
+  "subtitle": "Escutar o Filho amado",
+  "reference": "Lucas 9:28–36",
+  "description": "Jesus sobe ao monte para orar com três discípulos. Ali, eles veem sua glória e recebem um convite para escutar sua voz.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.9.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma subida para orar",
+      "paragraphs": [
+        "Jesus chamou Pedro, João e Tiago e subiu com eles a um monte para orar. Os três o acompanhavam em muitos caminhos, mas aquele encontro lhes mostraria algo que ainda não tinham visto daquele modo. A subida os afastou por um tempo da multidão e das tarefas que costumavam preencher os dias de viagem.",
+        "Enquanto Jesus orava, a aparência de seu rosto mudou, e suas roupas ficaram brancas e brilhantes. Uma glória extraordinária se revelou diante dos discípulos. Eles estavam no alto do monte com o Mestre que acompanhavam pelas estradas, mas agora sua presença se mostrava de um modo novo, cheio de luz e de grandeza.",
+        "Dois homens apareceram conversando com ele: Moisés e Elias. Eram figuras importantes das Escrituras, ligadas à Lei e aos profetas. Apareceram em glória e falaram sobre a partida de Jesus, que se cumpriria em Jerusalém. O encontro luminoso estava ligado à missão que o levaria à entrega, à morte e à vitória da ressurreição."
+      ],
+      "alt": "Jesus ora no alto do monte enquanto três discípulos o acompanham.",
+      "image": "266/part1.webp"
+    },
+    {
+      "heading": "Um momento difícil de compreender",
+      "paragraphs": [
+        "Pedro e seus companheiros estavam dominados pelo sono, mas, ao despertarem plenamente, viram a glória de Jesus e os dois homens com ele. A cena os surpreendeu. Aqueles que conheciam o cansaço das caminhadas e as necessidades da rotina agora testemunhavam uma revelação que ultrapassava sua experiência comum com o Mestre.",
+        "Quando Moisés e Elias iam se afastando, Pedro disse que era bom estarem ali. Sugeriu fazer três tendas: uma para Jesus, uma para Moisés e outra para Elias. Lucas explica que ele não sabia bem o que dizia. Diante de algo extraordinário, Pedro tentou responder com uma ideia concreta, como se pudesse organizar e prolongar aquele momento.",
+        "Enquanto falava, uma nuvem os envolveu, e eles ficaram com medo ao entrar nela. O encontro não cabia no plano que Pedro acabara de apresentar. Os discípulos precisavam receber o que Deus estava mostrando, em vez de controlar a experiência. Havia ainda uma palavra a ouvir no meio daquela presença que os cercava."
+      ],
+      "alt": "Os discípulos observam Jesus em glória com Moisés e Elias.",
+      "image": "266/part2.webp"
+    },
+    {
+      "heading": "Uma voz para escutar",
+      "paragraphs": [
+        "Da nuvem veio uma voz, declarando que Jesus era o Filho escolhido e ordenando que o escutassem. A atenção dos discípulos foi dirigida a ele. Moisés e Elias tinham lugar importante na história de Deus com seu povo, mas agora a voz do Pai apontava para o Filho que estava diante deles.",
+        "Quando a voz terminou, Jesus estava sozinho. Os discípulos guardaram silêncio e, naqueles dias, não contaram a ninguém o que tinham visto. A experiência precisava ser compreendida dentro do caminho que ainda viveriam. O monte não seria o fim de sua jornada com Jesus. Haveria descida, serviço, perguntas e acontecimentos difíceis pela frente.",
+        "A luz daquele encontro os ajudaria a lembrar quem os conduzia. Jesus não era apenas alguém que conhecia histórias sobre Deus. Era o Filho a quem deveriam escutar. A cena extraordinária deixou uma orientação simples e profunda: prestar atenção à sua voz e acompanhá-lo também quando o caminho saísse do monte e voltasse à vida de cada dia."
+      ],
+      "alt": "Jesus permanece com os discípulos depois do momento de revelação.",
+      "image": "266/part3.webp"
+    }
+  ],
+  "lesson": "Momentos especiais podem nos encorajar, mas a escuta continua na rotina. Podemos conhecer melhor as palavras de Jesus lendo uma passagem com a família, fazendo perguntas e pensando numa atitude para viver naquele dia. Não precisamos compreender tudo imediatamente. Os discípulos também aprenderam aos poucos. Escutar com atenção inclui guardar tempo, respeitar o silêncio e permitir que o que aprendemos transforme nossas escolhas.",
+  "question": "Que ensinamento de Jesus você gostaria de lembrar durante uma tarefa comum do seu dia?",
+  "prayer": "Deus, ajuda-nos a escutar Jesus com atenção. Que os momentos de oração e leitura fortaleçam nosso coração para a vida de cada dia. Dá-nos paciência para aprender e coragem para transformar o que ouvimos em cuidado, verdade e amor. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/266.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus em luz serena no alto do monte diante de três discípulos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus same face as reference cream robes glowing softly terracotta mantle illuminated stands on mountain with Peter James John at respectful distance, luminous peaceful clouds, warm awe not frightening, no text, rich detailed 3D storybook."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus ora no alto do monte enquanto três discípulos o acompanham.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle praying quietly on mountain stone, three adult disciples nearby resting and watching, dawn sky and distant hills, peaceful contemplative scene before bright transformation."
+    },
+    {
+      "role": "part2",
+      "alt": "Os discípulos observam Jesus em glória com Moisés e Elias.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus in softly radiant white-cream robes with two dignified elderly biblical men Moses gray beard simple brown robe and Elijah gray beard rustic mantle, three disciples watch in awe foreground, mountaintop cloud, gentle beautiful light no scary effects."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus permanece com os discípulos depois do momento de revelação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle stands alone with Peter James John on quiet mountaintop after luminous cloud thins, disciples thoughtful attentive faces, warm dawn, no Moses or Elijah now, calm contemplative composition."
+    }
+  ]
+}

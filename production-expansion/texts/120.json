@@ -1,0 +1,71 @@
+{
+  "id": 120,
+  "title": "Mica e os Ídolos de Prata",
+  "subtitle": "Nem tudo que parece religioso faz bem",
+  "reference": "Juízes 17–18",
+  "description": "Mica reúne objetos religiosos em sua casa e pensa que eles garantirão sua segurança. Quando viajantes levam tudo embora, ele precisa encarar a fragilidade dessa confiança.",
+  "testament": "antigo",
+  "cover": "/images/covers/120.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Objetos numa casa",
+      "paragraphs": [
+        "Um homem chamado Mica vivia na região montanhosa de Efraim. Ele havia pegado uma grande quantia de prata de sua mãe e depois confessou o que fizera. A mãe recebeu a prata de volta e decidiu dedicar parte dela a um objeto de culto. Um artesão fez imagens de metal, que foram colocadas na casa de Mica.",
+        "Ele também tinha um lugar de culto particular, outros objetos religiosos e imagens domésticas. Chegou a escolher um de seus filhos como sacerdote. Eram dias em que cada pessoa fazia o que parecia certo aos próprios olhos, escolhendo caminhos sem escutar a orientação do Senhor. Mica reunia coisas que pareciam sagradas, mas isso não significava que estava seguindo a orientação de Deus.",
+        "Naquela casa, a prata recuperada não levou apenas a uma conversa sobre honestidade. Transformou-se em objetos nos quais a família passou a confiar. A história começa mostrando como uma pessoa pode misturar palavras sobre Deus com decisões que não correspondem ao que ele ensinou. Aparência religiosa e fidelidade não são automaticamente a mesma coisa."
+      ],
+      "image": "120/part1.webp",
+      "alt": "Mica conversa com sua mãe ao lado de peças de prata sobre uma mesa simples."
+    },
+    {
+      "heading": "Um sacerdote contratado",
+      "paragraphs": [
+        "Certo dia, um jovem levita de Belém de Judá chegou à região procurando um lugar para morar. Mica o recebeu e lhe ofereceu alimento, roupas e pagamento para que fosse seu sacerdote. O levita aceitou e ficou vivendo ali. Mica passou a tratá-lo como um de seus filhos e acreditou que agora tudo estaria melhor assegurado.",
+        "Ele pensava que o Senhor lhe faria bem porque tinha um levita como sacerdote. Sua confiança parecia se apoiar numa combinação de objetos, posição religiosa e pagamento. Seus preparativos, porém, não o haviam levado a escutar e obedecer ao Senhor. Mica queria ter por perto sinais que lhe dessem certeza de proteção, como se pudesse organizar a bênção de Deus dentro de sua própria casa.",
+        "Depois, homens da tribo de Dã passaram pela região enquanto procuravam um lugar para habitar. Reconheceram a voz do levita, conversaram com ele e descobriram o que havia na casa. Pediram que consultasse a Deus sobre sua viagem. Mais tarde, essa visita teria consequências que Mica não imaginava ao receber o jovem sacerdote."
+      ],
+      "image": "120/part2.webp",
+      "alt": "Um jovem levita chega à casa de Mica e conversa com ele na entrada, com sacola de viagem."
+    },
+    {
+      "heading": "O que podia ser levado embora",
+      "paragraphs": [
+        "Um grupo maior de danitas voltou pelo caminho. Eles entraram na casa e levaram as imagens e os objetos de culto. Também convidaram o levita a ir com eles. Ofereceram uma posição mais ampla: em vez de servir a uma só família, ele serviria a uma tribo. O jovem aceitou e acompanhou os homens, levando consigo o que pertencia ao culto particular de Mica.",
+        "Quando percebeu o que acontecera, Mica reuniu vizinhos e foi atrás deles. Reclamou que haviam levado os deuses que fizera e seu sacerdote. Os homens responderam com ameaça. Ao ver que eram mais fortes, Mica voltou para casa. Aquilo em que colocara sua segurança tinha sido carregado por outras pessoas, e ele não conseguia recuperá-lo.",
+        "Os danitas continuaram sua viagem e instalaram as imagens no lugar onde passaram a viver. O caminho deles espalhara confusão, violência e escolhas que desrespeitavam a vontade de Deus. A pergunta de Mica sobre o que lhe restava revela a fragilidade de confiar em coisas fabricadas. Objetos podem ser roubados; a relação com Deus não é uma coleção que alguém compra e guarda."
+      ],
+      "image": "120/part3.webp",
+      "alt": "Mica retorna sozinho para casa por uma estrada, enquanto os danitas se afastam ao longe levando os objetos."
+    }
+  ],
+  "lesson": "Um objeto pode lembrar nossa fé, mas não compra proteção nem substitui atitudes honestas. Mica pensou que imagens e um sacerdote contratado garantiriam que tudo desse certo. Podemos aprender a não confundir aparência com cuidado verdadeiro. Uma pessoa responsável não usa religião para ameaçar, vender segurança mágica ou exigir obediência cega. Nossa confiança em Deus pode caminhar com perguntas, aprendizado, respeito e ajuda de adultos confiáveis.",
+  "question": "Qual é a diferença entre um objeto que ajuda a lembrar algo importante e acreditar que ele tem poder para controlar a vida?",
+  "prayer": "Deus, ajuda-nos a confiar em ti com sinceridade e a viver nossa fé com honestidade. Dá-nos discernimento para não confundir aparência com bondade nem objetos com proteção mágica. Ensina-nos a fazer perguntas, respeitar as pessoas e procurar orientação confiável. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Judges"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Mica observa com tristeza uma prateleira vazia em sua casa, percebendo que seus objetos foram levados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Micah middle-aged olive-skinned man dark beard rust-colored robe, small ancient stone house with modest silver figurines on shelf, young Levite beige robe blue sash. No occult glow, no magic, no threatening scene. Scene: Mica observa com tristeza uma prateleira vazia em sua casa, percebendo que seus objetos foram levados."
+    },
+    {
+      "role": "part1",
+      "alt": "Mica conversa com sua mãe ao lado de peças de prata sobre uma mesa simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Micah middle-aged olive-skinned man dark beard rust-colored robe, small ancient stone house with modest silver figurines on shelf, young Levite beige robe blue sash. No occult glow, no magic, no threatening scene. Scene: Mica conversa com sua mãe ao lado de peças de prata sobre uma mesa simples."
+    },
+    {
+      "role": "part2",
+      "alt": "Um jovem levita chega à casa de Mica e conversa com ele na entrada, com sacola de viagem.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Micah middle-aged olive-skinned man dark beard rust-colored robe, small ancient stone house with modest silver figurines on shelf, young Levite beige robe blue sash. No occult glow, no magic, no threatening scene. Scene: Um jovem levita chega à casa de Mica e conversa com ele na entrada, com sacola de viagem."
+    },
+    {
+      "role": "part3",
+      "alt": "Mica retorna sozinho para casa por uma estrada, enquanto os danitas se afastam ao longe levando os objetos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Scene and required cast: Only Micah is in foreground, olive skin dark beard rust robe, walking back toward his modest stone house. In far distance a group of travelers heads away. The household shrine has been emptied: absolutely no idols, figurines, silver statues or priest remain in or near the house. Do not copy objects or characters from reference. Wide scene of the road and sorrowful return."
+    }
+  ]
+}

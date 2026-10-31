@@ -1,0 +1,71 @@
+{
+  "id": 260,
+  "title": "Jesus Chora por Lázaro",
+  "subtitle": "Amizade, lágrimas e uma voz de vida",
+  "reference": "João 11:1–44",
+  "description": "Marta e Maria chamam Jesus quando Lázaro adoece. Ao chegar a Betânia, Jesus acolhe a dor das irmãs e revela sua autoridade diante da morte.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.11.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma mensagem de Betânia",
+      "paragraphs": [
+        "Lázaro, de Betânia, estava doente. Suas irmãs, Marta e Maria, enviaram uma mensagem a Jesus dizendo que seu amigo amado precisava de cuidado. Jesus amava aquela família. Ao receber a notícia, falou que aquele acontecimento revelaria a glória de Deus. Ainda permaneceu dois dias no lugar onde estava antes de iniciar a viagem.",
+        "Quando decidiu voltar à Judeia, os discípulos lembraram que havia pessoas querendo feri-lo ali. Mesmo assim, Jesus seguiu. Falou de Lázaro como alguém que dormia, mas depois explicou claramente que ele havia morrido. A viagem levaria os discípulos a um encontro difícil, em que aprenderiam algo importante sobre quem era seu Mestre.",
+        "Ao chegar, Jesus soube que Lázaro estava no túmulo havia quatro dias. Muitas pessoas tinham ido consolar Marta e Maria. A casa estava marcada pelo luto. Marta ouviu que Jesus se aproximava e foi encontrá-lo, enquanto Maria permaneceu em casa. Havia tristeza, perguntas e esperança misturadas no coração daquela família."
+      ],
+      "alt": "Marta encontra Jesus no caminho de Betânia.",
+      "image": "260/part1.webp"
+    },
+    {
+      "heading": "Uma amizade que também chora",
+      "paragraphs": [
+        "Marta disse que, se Jesus estivesse ali, seu irmão não teria morrido. Ainda assim, expressou confiança em Deus. Jesus falou da ressurreição e declarou que ele mesmo era a ressurreição e a vida. Marta respondeu afirmando sua fé: cria que ele era o Cristo, o Filho de Deus que devia vir ao mundo.",
+        "Depois, Marta chamou Maria, que saiu depressa para encontrar Jesus. As pessoas que estavam com ela a seguiram. Maria caiu aos pés dele e também falou da tristeza de não tê-lo por perto antes da morte do irmão. Jesus viu seu choro e o choro dos que a acompanhavam. Ficou profundamente comovido.",
+        "Perguntou onde haviam colocado Lázaro e chorou. Algumas pessoas reconheceram nisso o amor que tinha pelo amigo. Jesus não tratou as lágrimas como algo vergonhoso. Sua presença junto à família incluiu sentir a dor daquele momento. Mesmo sabendo o que faria, não ficou distante do sofrimento de quem amava."
+      ],
+      "alt": "Jesus acolhe Maria e compartilha a tristeza da família.",
+      "image": "260/part2.webp"
+    },
+    {
+      "heading": "Lázaro, venha para fora",
+      "paragraphs": [
+        "Jesus foi até o túmulo, uma gruta fechada por uma pedra, e mandou que a removessem. Marta lembrou que o irmão estava morto havia quatro dias. Jesus a convidou a confiar na glória de Deus que veria. Tiraram a pedra, e ele agradeceu ao Pai, explicando que falava para ajudar as pessoas presentes a crer.",
+        "Então chamou Lázaro em voz alta, mandando que saísse. O homem veio para fora, ainda envolvido nas faixas usadas no sepultamento. Jesus orientou que o desatassem e o deixassem ir. Aquele sinal extraordinário devolveu Lázaro à convivência de suas irmãs e mostrou a autoridade de Jesus sobre a morte.",
+        "A história reúne lágrimas verdadeiras e uma esperança maior que elas. Jesus não envergonhou Marta e Maria por sofrerem. Aproximou-se, ouviu, chorou e agiu. O sinal em Betânia foi único e importante para revelar quem ele era. Ao guardar essa passagem, podemos também guardar seu cuidado: a dor de uma família querida tinha lugar em seu coração."
+      ],
+      "alt": "Lázaro volta a estar com suas irmãs diante de Jesus.",
+      "image": "260/part3.webp"
+    }
+  ],
+  "lesson": "Chorar não é falta de fé. Jesus chorou ao lado de pessoas que amava. Quando sentimos tristeza, podemos conversar, receber um abraço se desejarmos e procurar companhia de confiança. A ressurreição de Lázaro é um sinal específico do evangelho, não uma cobrança sobre quem vive uma perda. Podemos oferecer cuidado sem exigir que alguém pare de sentir saudade ou encontre logo uma explicação para tudo.",
+  "question": "O que costuma ajudar você a se sentir acolhido quando está triste?",
+  "prayer": "Jesus, obrigado por estar perto de quem chora. Acolhe nossas tristezas e nossas perguntas. Ajuda-nos a oferecer companhia sem apressar o sofrimento dos outros. Que nossa família encontre consolo, cuidado e esperança, e aprenda contigo a amar com presença e delicadeza. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/260.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Lázaro e suas irmãs se reencontram ao lado de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Healthy adult Lazarus dark curly hair beard cream tunic embraces adult sisters Martha rust dress cream headscarf and Mary sage dress blue shawl, Jesus cream tunic terracotta mantle nearby, Bethany garden, tender joyful reunion, no burial wrappings or corpse."
+    },
+    {
+      "role": "part1",
+      "alt": "Marta encontra Jesus no caminho de Betânia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Martha adult cream headscarf rust dress speaks with tearful earnest expression to Jesus cream tunic terracotta mantle on Bethany path, disciples behind at distance, compassionate quiet mood, no funeral imagery."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus acolhe Maria e compartilha a tristeza da família.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle with gentle visible tears stands beside grieving adult Mary blue shawl sage dress and Martha cream headscarf rust dress, supportive friends in background, dignified compassionate scene, no dead person."
+    },
+    {
+      "role": "part3",
+      "alt": "Lázaro volta a estar com suas irmãs diante de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Living healthy Lazarus dark curly hair beard cream tunic stands outside ancient rock tomb entrance with loose white linen bands being removed by adult helpers, sisters relieved nearby and Jesus terracotta mantle, no gore no corpse no frightening mummy, respectful warm daylight."
+    }
+  ]
+}

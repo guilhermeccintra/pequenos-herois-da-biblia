@@ -1,0 +1,75 @@
+{
+  "id": 235,
+  "title": "Ageu e a Coragem de Recomeçar",
+  "subtitle": "Uma mensagem para quem precisava voltar ao trabalho",
+  "reference": "Ageu 1–2:9",
+  "description": "O povo recebe um convite para cuidar de suas prioridades e retomar a construção com confiança na presença do Senhor.",
+  "testament": "antigo",
+  "cover": "/images/covers/235.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um trabalho deixado para depois",
+      "paragraphs": [
+        "Os exilados haviam voltado para Judá, mas o templo do Senhor continuava sem ser concluído. Enquanto cuidavam de suas próprias casas, muitas pessoas diziam que ainda não era o momento de reconstruí-lo. Foi nesse tempo, durante o reinado de Dario, que Ageu recebeu uma mensagem para anunciar à comunidade.",
+        "O profeta falou a Zorobabel, governador de Judá, e a Josué, o sumo sacerdote, além de todo o povo. Convidou-os a considerar seus caminhos. Era preciso prestar atenção às prioridades e ao trabalho que havia sido deixado de lado. A casa do Senhor esperava enquanto cada pessoa se ocupava de seus próprios interesses.",
+        "A mensagem também chamou a atenção para as dificuldades que enfrentavam: muito esforço e pouco resultado, necessidades que continuavam sem resposta. Ageu convidava o povo a olhar para sua relação com Deus e a reorganizar a vida. Havia uma responsabilidade compartilhada que precisava voltar a receber tempo, cuidado e disposição."
+      ],
+      "image": "235/part1.webp",
+      "alt": "Ageu conversa sobre as prioridades da comunidade"
+    },
+    {
+      "heading": "Mãos que voltam a trabalhar",
+      "paragraphs": [
+        "A orientação foi concreta: buscar madeira e retomar a construção. Zorobabel, Josué e o restante do povo escutaram a mensagem e responderam com reverência. A mudança começou no coração e alcançou as mãos. O trabalho que parecia sempre adiado encontrou pessoas dispostas a reunir esforços e participar novamente.",
+        "Ageu transmitiu então uma promessa simples e preciosa: o Senhor estava com eles. Essa companhia deu sentido ao recomeço. Deus despertou a disposição dos líderes e da comunidade, e todos voltaram a trabalhar na casa do Senhor. A obra ganhou movimento por meio de pessoas que aceitaram ouvir e agir.",
+        "Recomeçar exigia tarefas reais, materiais e cooperação. A promessa de presença acompanhava esse esforço. Podemos imaginar a importância de saber que o trabalho tinha valor e que a comunidade caminhava reunida. Cada parte realizada participava de um compromisso maior, sustentado pela confiança e pela disposição de servir juntos."
+      ],
+      "image": "235/part2.webp",
+      "alt": "Trabalhadores retomam a construção com disposição"
+    },
+    {
+      "heading": "Coragem para valorizar o começo",
+      "paragraphs": [
+        "Mais tarde, outra mensagem chegou por meio de Ageu. Algumas pessoas haviam conhecido a antiga grandeza do templo e olhavam para a construção presente com tristeza ou desânimo. A comparação tornava difícil perceber o valor do que estava sendo feito. O Senhor conhecia essa preocupação e dirigiu palavras de encorajamento ao povo.",
+        "Zorobabel, Josué e toda a comunidade foram chamados a ter coragem e continuar o trabalho. A razão permanecia a mesma: Deus estava com eles, e seu Espírito continuava entre o povo. A mensagem recordava a aliança e anunciava um futuro de glória e paz para aquele lugar, além do que os olhos enxergavam.",
+        "A história de Ageu nos convida a cuidar do que é importante e a valorizar um recomeço. Uma tarefa pode parecer pequena perto de uma lembrança grandiosa, mas ainda merece atenção. Podemos ouvir uma orientação, reunir ajuda e começar pelo que está ao nosso alcance. A confiança em Deus acompanha os passos dados com disposição e responsabilidade."
+      ],
+      "image": "235/part3.webp",
+      "alt": "Ageu oferece coragem a trabalhadores e idosos"
+    }
+  ],
+  "lesson": "Ageu ajudou o povo a perceber uma responsabilidade esquecida e a retomar o trabalho com coragem. Também mostrou o valor de um começo que parecia pequeno. Podemos aprender a cuidar de nossas prioridades e a reconhecer cada esforço. Pense numa tarefa importante que ficou para depois. Com orientação e ajuda, escolha um primeiro passo possível e celebre a disposição de começar novamente.",
+  "question": "Que tarefa importante você pode retomar hoje com um pequeno primeiro passo?",
+  "prayer": "Senhor, ajuda-me a cuidar do que é importante e a ouvir boas orientações. Dá-me coragem para recomeçar uma tarefa e paciência para valorizar cada passo. Obrigado por tua companhia e pelas pessoas com quem posso aprender, cooperar e servir. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/HAG01.htm",
+    "https://ebible.org/engwebp/HAG02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Ageu encoraja o povo junto à obra do templo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Haggai speaking with warm conviction to ancient Judean workers beside modest unfinished temple stonework, Zerubbabel and Joshua listening attentively, timber beams and simple tools, hopeful golden morning light, no visible deity. Haggai is an elderly olive-skinned Hebrew prophet with gray curly hair, full gray beard, cream tunic and brown mantle. Zerubbabel is a middle-aged olive-skinned Judean governor with short dark beard, blue robe and simple belt. Joshua is a middle-aged olive-skinned high priest with dark beard, white linen robe and plain white headwrap."
+    },
+    {
+      "role": "part1",
+      "alt": "Ageu conversa sobre as prioridades da comunidade",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Haggai addressing Zerubbabel and Joshua in a simple Jerusalem courtyard, unfinished temple foundations visible beyond, thoughtful attentive expressions, blank scroll in prophet hand, warm light. Haggai is an elderly olive-skinned Hebrew prophet with gray curly hair, full gray beard, cream tunic and brown mantle. Zerubbabel is a middle-aged olive-skinned Judean governor with short dark beard, blue robe and simple belt. Joshua is a middle-aged olive-skinned high priest with dark beard, white linen robe and plain white headwrap."
+    },
+    {
+      "role": "part2",
+      "alt": "Trabalhadores retomam a construção com disposição",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Judean adult workers cooperatively carrying a timber beam and arranging stone blocks at a modest temple construction site, safe grounded positions, women organizing light baskets of supplies, warm energetic atmosphere, no named prophet. "
+    },
+    {
+      "role": "part3",
+      "alt": "Ageu oferece coragem a trabalhadores e idosos",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Haggai gently encouraging a small group of older Judeans and adult workers looking at modest rebuilt temple walls, faces shifting from concern to hope, wooden scaffolding at safe distance, radiant sunset, detailed linen and stone. Haggai is an elderly olive-skinned Hebrew prophet with gray curly hair, full gray beard, cream tunic and brown mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

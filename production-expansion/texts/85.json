@@ -1,0 +1,71 @@
+{
+  "id": 85,
+  "title": "Um Lugar para Quem Chega de Longe",
+  "subtitle": "Lembrar a própria história ajuda a acolher",
+  "reference": "Levítico 19:33–34",
+  "description": "Deus orienta Israel a tratar o estrangeiro com amor e respeito.",
+  "testament": "antigo",
+  "cover": "/images/covers/85.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma instrução para quem recebia alguém",
+      "paragraphs": [
+        "O povo de Israel conhecia a experiência de viver numa terra que não era a sua. Seus antepassados haviam chegado ao Egito em busca de alimento, e gerações depois sofreram como estrangeiros escravizados. Agora, preparando uma vida diferente, precisariam lembrar dessa história ao receber pessoas vindas de outros lugares.",
+        "Deus deu a Moisés uma orientação direta: o estrangeiro que morasse entre eles não deveria ser maltratado. A diferença de origem não tornava ninguém menos digno de respeito. Quem chegava de longe podia não conhecer os costumes, ter poucos conhecidos ou precisar aprender como a comunidade organizava sua vida.",
+        "Essa pessoa não deveria ser tratada como alguém que só merecia tolerância à distância. O ensino era mais profundo: o estrangeiro deveria receber consideração semelhante à de quem nascera ali. A comunidade era chamada a enxergar uma pessoa inteira, com necessidades, sentimentos e uma história, e não apenas alguém de fora."
+      ],
+      "image": "85/part1.webp",
+      "alt": "Moisés recorda a experiência de viver como estrangeiro."
+    },
+    {
+      "heading": "Amar como a si mesmo",
+      "paragraphs": [
+        "A orientação continuava com um chamado ao amor. Israel deveria amar o estrangeiro como a si mesmo. Isso exigia mais do que evitar uma ofensa. Convidava cada pessoa a pensar no cuidado que desejaria receber se estivesse longe de casa, tentando compreender um lugar novo e encontrar meios de viver.",
+        "Uma família que chegasse de longe precisaria encontrar mais do que um pedaço de chão. Precisaria de água, orientação e espaço para começar uma nova rotina. O ensino de Deus colocava essa responsabilidade diante de quem já conhecia o lugar. Os moradores poderiam tornar a chegada menos difícil, acolhendo os estrangeiros com respeito.",
+        "Acolher não exigia apagar todas as diferenças. Pessoas podem ter sotaques, costumes e lembranças distintas e ainda assim participar de uma vida em comum. O amor pedido por Deus não dependia de transformar o visitante numa cópia dos moradores. Dependia de reconhecer sua dignidade e tratar suas necessidades com seriedade."
+      ],
+      "image": "85/part2.webp",
+      "alt": "Uma família que chega recebe orientação."
+    },
+    {
+      "heading": "A memória que protege o outro",
+      "paragraphs": [
+        "Deus lembrou aos israelitas que eles também haviam sido estrangeiros no Egito. A memória tinha uma função: impedir que repetissem contra outros o desprezo que haviam conhecido. O sofrimento passado não deveria se transformar numa desculpa para endurecer. Poderia ensinar sensibilidade para perceber a insegurança de quem chegava depois.",
+        "A instrução terminava lembrando quem era o Senhor. O cuidado com o estrangeiro fazia parte da fidelidade a Deus. Não era um favor reservado aos visitantes considerados úteis ou importantes. A comunidade precisava organizar seus relacionamentos de maneira que a origem de alguém não se tornasse motivo de humilhação ou injustiça.",
+        "Essa pequena passagem abre uma pergunta grande para quem a escuta: como tornar um lugar mais acolhedor? Uma explicação paciente, um convite para participar ou a recusa de uma piada cruel podem fazer diferença. Lembrar como é sentir-se perdido ajuda a oferecer ao outro o respeito que também desejamos para nós."
+      ],
+      "image": "85/part3.webp",
+      "alt": "Crianças e adultos compartilham uma mesa."
+    }
+  ],
+  "lesson": "Chegar a um lugar novo pode trazer insegurança. O ensino de Levítico nos convida a acolher sem zombar do sotaque, dos costumes ou das dúvidas de alguém. Podemos explicar como uma atividade funciona, convidar para brincar e procurar um adulto quando percebemos uma exclusão. Acolher não é exigir que todos sejam iguais; é oferecer respeito e participação. Nossa própria lembrança de precisar de ajuda pode nos tornar mais atentos.",
+  "question": "Como você pode ajudar uma pessoa nova a se sentir incluída na escola ou em outro grupo?",
+  "prayer": "Senhor, cuida de quem está longe de casa ou começando num lugar novo. Ajuda-me a acolher com respeito, explicar com paciência e incluir quem se sente sozinho. Que eu aprenda com as diferenças e nunca use a origem de alguém para humilhá-lo. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família recebe viajantes com água e acolhimento.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. Reference supplies rendering style only. Illustrative welcome at an ancient Israelite village doorway: the host mother offers a clay cup of water to an adult traveler, a gray-streaked short-bearded man in muted blue robe. His wife has a brown scarf and sage dress; their school-age child stays beside her carrying a small bundle. Host father smiles beside mother, host child near the doorway. Travel bundles on ground. Respectful equal faces and warm afternoon light. Moses absent, no reference house or lake copied."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés recorda a experiência de viver como estrangeiro.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Moses must match the elderly man with long wavy gray hair, long gray-white beard, beige woven tunic, burnt terracotta mantle and plain wooden staff in the reference. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. New desert encampment scene: Moses thoughtfully teaches a small group of seated adult families about remembering life as foreigners. Plain cloth travel bundles and a water jar sit beside the listeners. The host family adults from the reference listen among the group. Compassionate attentive faces, new over-the-shoulder framing behind listeners toward Moses. Plain tents, no Egyptian buildings, no symbolic flashback or writing."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma família que chega recebe orientação.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. On a shaded ancient village path the same ochre-clothed host father kindly points toward a nearby simple stone home, explaining the way to the same gray-streaked bearded traveler in muted blue robe. The traveler listens, his sage-clothed wife in brown scarf and their child beside him with small bundles. A practical welcome, warm smiles, natural gestures. The host mother may stand in her doorway farther away. No official documents, no modern items, Moses absent."
+    },
+    {
+      "role": "part3",
+      "alt": "Crianças e adultos compartilham uma mesa.",
+      "prompt": "Use case: illustration-story. New independent illustration for Pequenos Heróis, a family Bible storybook. Richly detailed warm cinematic 3D rendering, friendly expressive faces, realistic woven linen, natural stone, wood, pottery and plants, atmospheric depth, sophisticated lighting. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting. All people fully clothed. No text, lettering, logos, watermark, border, collage, modern objects or visible deity. Create a new composition rather than copying reference poses or scenery. Maintain the same unnamed host family throughout this story: olive-brown adult father with short dark beard and ochre tunic, mother with dark braid, cream headscarf and teal long dress, school-age children wearing cream and rust tunics. The same two families now share bread, grapes and figs at one low outdoor table in a modest stone courtyard. The hosts wear ochre and teal; the visiting parents wear muted blue and sage with brown scarf. Children sit safely beside their parents, everyone included at the same height, shared gentle laughter and warm lamplight at early evening. Distinct new composition, no traveler standing apart, no extra main characters, Moses absent."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=KJV"
+  ]
+}

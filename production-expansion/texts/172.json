@@ -1,0 +1,75 @@
+{
+  "id": 172,
+  "title": "Presentes para o Recomeço",
+  "subtitle": "Cada ajuda tem seu lugar",
+  "reference": "Esdras 1:5–11; 2:68–70",
+  "description": "Vizinhos, líderes e famílias ajudam na volta a Jerusalém. Recursos diferentes se juntam para transformar a esperança de reconstrução em trabalho possível.",
+  "testament": "antigo",
+  "cover": "/images/covers/172.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Quem fica também participa",
+      "paragraphs": [
+        "A autorização para voltar a Jerusalém havia chegado. Algumas famílias se preparavam para deixar a Babilônia e reconstruir o templo. Havia sacerdotes, levitas e líderes do povo entre os que partiriam. Mas uma viagem longa e uma obra importante não se fazem apenas com vontade. Seriam necessários recursos, animais, utensílios e muitas mãos dispostas a ajudar.",
+        "Os vizinhos não ficaram apenas olhando os preparativos. O livro de Esdras conta que fortaleceram os viajantes com presentes: objetos de prata e ouro, bens, animais e outras coisas de valor. Também houve ofertas entregues por vontade própria. Quem não seguiria pela estrada podia, ainda assim, fazer parte daquela história de retorno.",
+        "A ajuda tinha formas diferentes. Um animal podia carregar o necessário durante a viagem; um recurso entregue podia servir à futura construção. O texto não transforma tudo numa competição para descobrir quem ofereceu mais. Mostra pessoas reunindo o que tinham para apoiar uma tarefa que ultrapassava as forças de uma família sozinha."
+      ],
+      "image": "172/part1.webp",
+      "alt": "Vizinhos oferecem mantimentos e um animal para ajudar os viajantes."
+    },
+    {
+      "heading": "Objetos que guardavam uma história",
+      "paragraphs": [
+        "Além das ofertas dos vizinhos, havia algo a ser devolvido. Quando Jerusalém fora conquistada, muitos utensílios do templo tinham sido levados para a Babilônia. O rei Ciro ordenou que esses objetos fossem retirados do lugar onde estavam guardados e entregues aos responsáveis pelo retorno. Aquilo que fora levado agora seguiria no caminho de volta.",
+        "O tesoureiro Mitredate fez a entrega a Sesbazar, um líder de Judá. Os objetos foram contados: bacias, taças e outros utensílios de ouro e prata. Esdras dedica espaço a essa lista. Contar, registrar e guardar com cuidado também fazia parte da tarefa. A confiança recebida pedia responsabilidade com cada coisa entregue.",
+        "Os utensílios acompanhariam o povo até Jerusalém. Ninguém deveria tratá-los como um tesouro pessoal para guardar escondido. Eles tinham um destino ligado à vida da comunidade e à reconstrução do templo. A generosidade de uns precisava encontrar o cuidado de outros, para que a ajuda chegasse ao lugar certo e cumprisse seu propósito."
+      ],
+      "image": "172/part2.webp",
+      "alt": "Mitredate entrega os utensílios contados a Sesbazar."
+    },
+    {
+      "heading": "Dar conforme a possibilidade",
+      "paragraphs": [
+        "Quando chegaram ao lugar do templo em Jerusalém, alguns chefes de família ofereceram recursos para reconstruí-lo. A casa de Deus ainda precisava ser levantada novamente. Diante daquela tarefa, eles entregaram ofertas voluntárias. O livro faz uma observação importante: deram de acordo com suas possibilidades, reunindo ouro, prata e roupas para os sacerdotes.",
+        "Nem todas as famílias tinham os mesmos recursos. A reconstrução, porém, não dependia de todos oferecerem exatamente a mesma coisa. Dependia de pessoas dispostas a contribuir e de um trabalho organizado que recebesse essa ajuda. O retorno envolvia quem doava, quem transportava, quem registrava e quem serviria quando o templo estivesse pronto.",
+        "Depois, os sacerdotes, levitas, cantores, porteiros e outras famílias foram morar em suas cidades. A vida precisava ser reorganizada passo a passo. As ofertas não ergueram o templo num instante, mas tornaram a reconstrução possível. Naquela história, a esperança veio acompanhada de mãos abertas para dar e mãos cuidadosas para administrar o que recebiam."
+      ],
+      "image": "172/part3.webp",
+      "alt": "Famílias contribuem para a obra diante das ruínas do templo."
+    }
+  ],
+  "lesson": "Ajudar não significa oferecer o que não temos ou ficar sem aquilo de que precisamos. Podemos contribuir de acordo com nossas possibilidades, junto de um adulto responsável. Tempo, atenção e cuidado também têm valor. Quando recebemos algo para uma tarefa coletiva, precisamos usar com honestidade e explicar seu destino. Generosidade e responsabilidade caminham juntas: a ajuda merece chegar a quem precisa dela.",
+  "question": "Que tipo de ajuda você consegue oferecer sem precisar comprar nada?",
+  "prayer": "Deus, ensina-nos a compartilhar com alegria e responsabilidade. Ajuda-nos a perceber o que está ao nosso alcance e a cuidar bem daquilo que outras pessoas nos confiam. Que nossa ajuda encontre um bom destino e fortaleça quem precisa de apoio. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/EZR01.htm",
+    "https://ebible.org/engwebp/EZR02.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pessoas entregam ofertas que ajudarão na reconstrução de Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient community gathered around neatly arranged baskets of provisions and wrapped bronze and golden vessels, grateful travelers accepting help, warm Persian courtyard, richly detailed cloth. "
+    },
+    {
+      "role": "part1",
+      "alt": "Vizinhos oferecem mantimentos e um animal para ajudar os viajantes.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: A woman passes a basket of bread to a traveling family while another neighbor guides a calm packed donkey, children observe beside their parents, ancient city courtyard. "
+    },
+    {
+      "role": "part2",
+      "alt": "Mitredate entrega os utensílios contados a Sesbazar.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Persian treasurer Mithredath and Judean leader Sheshbazzar carefully count gold and silver bowls on a wooden table inside a storeroom, an assistant holds an unlettered scroll, respectful expressions. Sheshbazzar has brown skin, short graying beard, clay-red robe and cream mantle. Mithredath has olive skin, neat black beard and indigo tunic."
+    },
+    {
+      "role": "part3",
+      "alt": "Famílias contribuem para a obra diante das ruínas do templo.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: At the ancient Jerusalem temple foundation ruins, adults place modest gifts into a common collection beside larger wrapped offerings, hopeful faces, stone blocks and hills, soft late-afternoon light. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

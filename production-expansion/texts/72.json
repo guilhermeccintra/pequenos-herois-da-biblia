@@ -1,0 +1,71 @@
+{
+  "id": 72,
+  "title": "Arão e Hur Sustentam as Mãos",
+  "subtitle": "Até quem lidera precisa ser sustentado",
+  "reference": "Êxodo 17:8–16",
+  "description": "Arão e Hur percebem o cansaço de Moisés e encontram uma forma de ajudá-lo.",
+  "testament": "antigo",
+  "cover": "/images/covers/72.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma dificuldade inesperada",
+      "paragraphs": [
+        "Em Refidim, os israelitas enfrentaram um ataque dos amalequitas. O povo que acabara de sair da escravidão precisava se defender. Moisés chamou Josué e lhe deu a responsabilidade de escolher homens e sair ao encontro do perigo. Era uma tarefa séria, que não poderia ser tratada como brincadeira ou motivo de orgulho.",
+        "Moisés disse que ficaria no alto de uma colina com o cajado de Deus nas mãos. Josué fez o que havia sido orientado. Enquanto um grupo se preparava para proteger o povo, Moisés subiu acompanhado de Arão e Hur. A história passa a mostrar pessoas em lugares diferentes, participando da mesma necessidade.",
+        "Do alto, Moisés manteve as mãos erguidas. O relato conta que, enquanto ele as sustentava, Israel levava vantagem; quando as abaixava, os amalequitas avançavam. A cena apontava para a dependência de Deus. A proteção do povo não seria explicada apenas pela força dos que estavam diante do perigo."
+      ],
+      "image": "72/part1.webp",
+      "alt": "Moisés orienta Josué antes de subir a colina."
+    },
+    {
+      "heading": "Mãos pesadas, amigos atentos",
+      "paragraphs": [
+        "Com o passar do tempo, os braços de Moisés ficaram cansados. Ele era um líder experiente, mas seu corpo tinha limites. Ter uma missão importante não fazia seus músculos deixarem de sentir o peso. Arão e Hur estavam perto e perceberam que ele precisava de apoio para continuar naquela posição.",
+        "Primeiro, colocaram uma pedra para que Moisés se sentasse. Depois, ficaram um de cada lado e sustentaram suas mãos. A ajuda foi simples e concreta. Não precisaram fazer um discurso sobre como ele deveria ser mais forte. Viram a necessidade, aproximaram-se e dividiram com ele o esforço que já não conseguia carregar sozinho.",
+        "Assim, as mãos de Moisés permaneceram firmes até o pôr do sol. O texto registra o tempo porque aquele cuidado exigiu perseverança. Arão e Hur não ofereceram apenas um gesto rápido antes de ir embora. Permaneceram ao lado dele enquanto era necessário, formando uma pequena equipe no alto da colina."
+      ],
+      "image": "72/part2.webp",
+      "alt": "Os amigos percebem o cansaço de Moisés."
+    },
+    {
+      "heading": "Uma vitória lembrada em conjunto",
+      "paragraphs": [
+        "Josué e os homens de Israel conseguiram deter os amalequitas. Depois, Deus orientou Moisés a registrar o acontecimento e transmiti-lo a Josué. A memória daquela proteção seria importante para o futuro. O povo precisava lembrar o que vivera e reconhecer que havia sido sustentado numa situação de grande perigo.",
+        "Moisés construiu um altar e lhe deu um nome que reconhecia o Senhor como sua bandeira. A gratidão era dirigida a Deus. Ao mesmo tempo, a narrativa preservava as ações de Josué, Arão e Hur. Cada um havia participado de maneira diferente, e nenhuma dessas tarefas precisava apagar as outras.",
+        "Na imagem de duas pessoas sustentando braços cansados, encontramos uma lição que vai além daquela batalha. Ajudar pode ser perceber um limite antes que alguém desista. Quem recebe apoio não perde seu valor. E quem ajuda não precisa aparecer no centro para fazer uma diferença importante na vida de alguém."
+      ],
+      "image": "72/part3.webp",
+      "alt": "Moisés agradece junto a um altar simples."
+    }
+  ],
+  "lesson": "Arão e Hur não criticaram o cansaço de Moisés: ofereceram apoio. Podemos fazer algo parecido quando dividimos uma tarefa, levamos água, escutamos ou chamamos outra pessoa para ajudar. Também precisamos aceitar cuidado quando nossas forças acabam. Ninguém foi feito para carregar todas as responsabilidades sozinho. A amizade se torna concreta quando percebemos uma necessidade e permanecemos por perto, respeitando os limites de quem está ao nosso lado.",
+  "question": "Quem está carregando uma tarefa difícil perto de você, e qual pequena parte você pode ajudar a fazer?",
+  "prayer": "Deus, obrigado pelos amigos que sustentam nossas mãos cansadas. Ensina-me a perceber quem precisa de apoio e a ajudar com constância. Dá-me humildade para reconhecer meus limites e receber cuidado. Que nossas tarefas sejam acompanhadas de amizade, paciência e paz. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Arão e Hur sustentam os braços de Moisés na colina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Hur elderly olive-skinned man short gray beard ochre robe brown headcloth. Joshua adult olive-brown man dark curls short dark beard olive-green tunic and burgundy-rust mantle. Scene: Moses seated on broad stone on hill, Aaron on one side and Hur on other gently support his raised forearms, sunset, emotional teamwork, valley distant without combat detail."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés orienta Josué antes de subir a colina.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Hur elderly olive-skinned man short gray beard ochre robe brown headcloth. Joshua adult olive-brown man dark curls short dark beard olive-green tunic and burgundy-rust mantle. Scene: Moses calmly speaks to adult Joshua at camp edge, Aaron and Hur nearby, serious protective responsibility, no weapons foreground or battle."
+    },
+    {
+      "role": "part2",
+      "alt": "Os amigos percebem o cansaço de Moisés.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Hur elderly olive-skinned man short gray beard ochre robe brown headcloth. Joshua adult olive-brown man dark curls short dark beard olive-green tunic and burgundy-rust mantle. Scene: Moses seated tired but safe on broad stone, Aaron and Hur arrange supportive positions at his sides, clear natural hands and elbows, warm late afternoon."
+    },
+    {
+      "role": "part3",
+      "alt": "Moisés agradece junto a um altar simples.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Aaron older olive-skinned white beard cream robe muted indigo mantle. Other adults wear modest earth-tone ancient robes. Hur elderly olive-skinned man short gray beard ochre robe brown headcloth. Joshua adult olive-brown man dark curls short dark beard olive-green tunic and burgundy-rust mantle. Scene: Moses Aaron Hur and Joshua gathered peacefully beside small rustic stone altar after sunset, gratitude and relief, no blood or weapons."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+17%3A8-16&version=KJV"
+  ]
+}

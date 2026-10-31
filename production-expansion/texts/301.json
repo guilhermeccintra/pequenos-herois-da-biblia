@@ -1,0 +1,71 @@
+{
+  "id": 301,
+  "title": "O Dia de Pentecostes",
+  "subtitle": "Uma mensagem em muitas línguas",
+  "reference": "Atos 2:1–13",
+  "description": "A promessa de Jesus alcança seus amigos reunidos. Pessoas de muitos lugares escutam a mesma boa notícia, cada uma em sua própria língua.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Juntos na espera",
+      "paragraphs": [
+        "Os amigos de Jesus estavam reunidos quando chegou a festa de Pentecostes. Jerusalém recebia visitantes de muitos lugares. Alguns tinham viajado por caminhos longos para participar daquela celebração. Dentro da cidade, diferentes sotaques se encontravam. Havia gente que conhecia as mesmas promessas de Deus, mas usava palavras diferentes para conversar em casa.",
+        "Jesus havia prometido o Espírito Santo aos discípulos. Esperar não significava ter todas as respostas sobre o que aconteceria depois. Eles permaneciam juntos, guardando aquela promessa. Sua missão seria falar de Jesus muito além das ruas que já conheciam, e para essa tarefa precisavam da ajuda que ele anunciara.",
+        "De repente, um som vindo do céu encheu a casa. Parecia o barulho de um vento muito forte, tomando todo o lugar onde os discípulos estavam sentados. Ouvia-se algo poderoso e surpreendente. A espera tinha chegado a um momento novo, e aquele dia de festa ficaria marcado para sempre na memória dos amigos de Jesus."
+      ],
+      "image": "301/part1.webp",
+      "alt": "Um grupo de discípulos adultos, homens e mulheres, aguarda em uma sala simples de pedra iluminada pela manhã em Jerusalém."
+    },
+    {
+      "heading": "Palavras que alcançam",
+      "paragraphs": [
+        "Os discípulos viram algo semelhante a línguas de fogo, que se repartiram e pousaram sobre cada um. Todos ficaram cheios do Espírito Santo. Começaram a falar em outras línguas, conforme o Espírito lhes permitia. Não estavam mostrando uma habilidade que tinham treinado para impressionar a cidade; recebiam um presente de Deus.",
+        "Ao ouvir o som, uma multidão se aproximou. Então aconteceu outra surpresa: cada visitante ouvia os discípulos falar em sua própria língua. Aquelas pessoas reconheciam palavras familiares, palavras que lembravam suas casas e seus caminhos. A notícia sobre as grandes obras de Deus chegava de um jeito que podiam compreender.",
+        "Os ouvintes sabiam que os discípulos eram galileus. Como conseguiam falar para pessoas vindas de tantos lugares diferentes? O livro de Atos menciona regiões próximas e distantes, incluindo visitantes de Roma. Ninguém precisava pertencer à mesma cidade para ouvir. A diversidade da multidão tornava ainda mais impressionante o que acontecia."
+      ],
+      "image": "301/part2.webp",
+      "alt": "Pequenas luzes em forma de chamas repousam acima dos discípulos, sem tocar nem queimar cabelos ou roupas, enquanto olham admirados."
+    },
+    {
+      "heading": "A pergunta da multidão",
+      "paragraphs": [
+        "Muitos ficaram admirados e perguntaram uns aos outros o que aquilo significava. Nem todos reagiram da mesma maneira. Algumas pessoas fizeram comentários de zombaria. Uma mesma cena pode encontrar curiosidade em uns e desprezo em outros. A pergunta sincera, porém, abria espaço para escutar a explicação que viria a seguir.",
+        "Pedro se levantaria com os outros apóstolos para falar à multidão. Antes desse discurso, o próprio acontecimento já mostrava algo importante: a promessa de Jesus não era um assunto escondido para poucos. O Espírito Santo preparava seus amigos para comunicar a boa notícia a pessoas de muitas origens e costumes.",
+        "Naquele dia, não desapareceram todas as diferenças entre os visitantes. Cada pessoa continuava trazendo sua história e sua língua. Mas essas diferenças não impediram que ouvissem sobre Deus. A missão dos discípulos começava com uma ponte de compreensão. A mensagem podia atravessar fronteiras, encontrar novos ouvidos e convidar muita gente a descobrir Jesus."
+      ],
+      "image": "301/part3.webp",
+      "alt": "Visitantes de diferentes regiões escutam os discípulos em uma rua de Jerusalém, com expressões de surpresa e compreensão."
+    }
+  ],
+  "lesson": "Entender alguém começa por dar atenção às palavras dessa pessoa. Podemos acolher quem tem outro sotaque, aprende de outro jeito ou ainda não conhece a nossa língua. Não precisamos rir de uma dificuldade de comunicação. Podemos repetir com calma, usar gestos respeitosos e pedir ajuda. Pentecostes nos lembra que a boa notícia de Jesus alcança pessoas diferentes, e que nenhuma língua torna uma família mais importante que outra.",
+  "question": "Como você pode ajudar uma pessoa que está com dificuldade para entender uma conversa?",
+  "prayer": "Espírito Santo, obrigado por aproximar pessoas de tantos lugares. Ensina-me a ouvir com atenção e a falar com respeito. Ajuda nossa família a acolher quem é diferente de nós e a compartilhar a mensagem de Jesus com bondade e clareza. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/301.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.2"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Os discípulos reunidos em uma casa de Jerusalém, com pequenas luzes semelhantes a chamas sobre suas cabeças, celebram com admiração e serenidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Other men and women are distinct adults. Light symbols are gentle, never dangerous fire.  Scene: Os discípulos reunidos em uma casa de Jerusalém, com pequenas luzes semelhantes a chamas sobre suas cabeças, celebram com admiração e serenidade."
+    },
+    {
+      "role": "part1",
+      "alt": "Um grupo de discípulos adultos, homens e mulheres, aguarda em uma sala simples de pedra iluminada pela manhã em Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Other men and women are distinct adults. Light symbols are gentle, never dangerous fire.  Scene: Um grupo de discípulos adultos, homens e mulheres, aguarda em uma sala simples de pedra iluminada pela manhã em Jerusalém."
+    },
+    {
+      "role": "part2",
+      "alt": "Pequenas luzes em forma de chamas repousam acima dos discípulos, sem tocar nem queimar cabelos ou roupas, enquanto olham admirados.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Other men and women are distinct adults. Light symbols are gentle, never dangerous fire.  Scene: Pequenas luzes em forma de chamas repousam acima dos discípulos, sem tocar nem queimar cabelos ou roupas, enquanto olham admirados."
+    },
+    {
+      "role": "part3",
+      "alt": "Visitantes de diferentes regiões escutam os discípulos em uma rua de Jerusalém, com expressões de surpresa e compreensão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. Other men and women are distinct adults. Light symbols are gentle, never dangerous fire.  Scene: Visitantes de diferentes regiões escutam os discípulos em uma rua de Jerusalém, com expressões de surpresa e compreensão."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 47,
+  "title": "Três Visitantes à Porta da Tenda",
+  "subtitle": "Hospitalidade e uma notícia surpreendente",
+  "reference": "Gênesis 18:1–15",
+  "description": "Abraão recebe três visitantes junto à sua tenda. Enquanto oferece descanso e alimento, Sara escuta uma notícia que parece impossível.",
+  "testament": "antigo",
+  "cover": "/images/covers/47.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Visitantes no calor do dia",
+      "paragraphs": [
+        "Abraão estava sentado à entrada de sua tenda, perto dos carvalhos de Manre. Era a hora quente do dia. Quando levantou os olhos, percebeu três homens próximos. A narrativa apresenta esse encontro como uma visita do Senhor. Abraão se levantou e foi recebê-los, oferecendo uma hospitalidade que começava com atenção à presença deles.",
+        "Ele pediu que não seguissem viagem sem parar. Havia água para lavar os pés e uma árvore sob a qual poderiam descansar. Também providenciaria alimento antes que continuassem o caminho. Para pessoas que viajavam por estradas empoeiradas, um pouco de sombra, água e comida eram formas importantes de acolhimento.",
+        "Os visitantes aceitaram. Abraão correu até a tenda e pediu a Sara que preparasse pães com boa farinha. Depois escolheu um bezerro e o entregou a um servo para ser preparado. A casa se movimentou para receber aqueles viajantes. O cuidado aparecia em tarefas diferentes, realizadas por mais de uma pessoa."
+      ],
+      "image": "47/part1.webp",
+      "alt": "Sara prepara pães enquanto Abraão organiza a hospitalidade."
+    },
+    {
+      "heading": "Uma promessa ouvida da tenda",
+      "paragraphs": [
+        "Quando a refeição ficou pronta, Abraão colocou diante dos visitantes coalhada, leite e o alimento preparado. Permaneceu perto deles, sob a árvore, enquanto comiam. A cena começara com uma chegada inesperada e agora se tornava um encontro ao redor da comida. Os visitantes, então, perguntaram onde estava Sara, sua esposa.",
+        "Abraão respondeu que ela estava na tenda. Veio a notícia: no tempo anunciado, quando o visitante voltasse, Sara teria um filho. Ela ouvia a conversa por trás, à entrada da tenda. Abraão e Sara já eram muito idosos. Aos olhos humanos, o tempo em que ela poderia ter um bebê havia passado.",
+        "Sara riu por dentro. Aquela notícia parecia difícil demais de acreditar. Seu riso não era a alegria de quem já segurava uma criança; vinha do espanto diante de algo que parecia impossível. Depois de uma espera tão longa, ouvir sobre um filho colocava novamente diante dela uma esperança que parecia distante."
+      ],
+      "image": "47/part2.webp",
+      "alt": "Abraão serve uma refeição aos três visitantes sob a árvore."
+    },
+    {
+      "heading": "Nada difícil demais para Deus",
+      "paragraphs": [
+        "O Senhor perguntou a Abraão por que Sara havia rido e duvidado de que teria um filho naquela idade. A conversa alcançou o que ela pensara em silêncio. Veio então uma pergunta sobre o poder de Deus: haveria algo difícil demais para ele? A promessa foi repetida, com o tempo da visita futura.",
+        "Sara ficou com medo e negou que tivesse rido. A resposta foi simples e verdadeira: ela havia rido, sim. O relato não esconde sua reação. Também não termina retirando a promessa por causa dela. Sara continuava diante de uma palavra de Deus que era maior do que aquilo que conseguia compreender naquele instante.",
+        "Os visitantes se prepararam para seguir viagem, e a história continuaria. Sob a árvore de Manre, uma família tinha oferecido alimento e recebido uma notícia extraordinária. O filho ainda não havia nascido. A esperança permanecia na forma de uma promessa, que Sara e Abraão precisariam carregar enquanto aguardavam o tempo de seu cumprimento."
+      ],
+      "image": "47/part3.webp",
+      "alt": "Sara escuta da entrada da tenda, com surpresa no rosto."
+    }
+  ],
+  "lesson": "Acolher alguém começa com perceber sua presença e suas necessidades. Podemos convidar um colega para participar de uma atividade, oferecer um lugar à mesa ou ajudar a preparar uma visita em família. Também podemos ser sinceros com Deus sobre nossas dúvidas. A história de Sara mostra uma pessoa surpreendida por uma promessa específica de Deus; não significa que todos os nossos desejos acontecerão exatamente como imaginamos.",
+  "question": "Que gesto simples pode fazer uma pessoa se sentir bem recebida na sua casa ou na escola?",
+  "prayer": "Deus, ensina-nos a receber as pessoas com atenção e carinho. Ajuda-nos a compartilhar o que temos e a participar do cuidado em família. Quando alguma coisa for difícil de compreender, que possamos conversar contigo com sinceridade e confiança. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Abraão recebe três viajantes à sombra de uma grande árvore.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man white beard cream robe terracotta mantle. Sarah: elderly olive-skinned woman with silver-dark hair under muted blue headscarf, cream dress and rose shawl. Three visitors adult men in modest neutral ancient robes, no visible divine anatomy. Scene: Abraham hospitably welcomes exactly three adult male travelers beneath a large oak near a tent, warm afternoon, no wings or halos."
+    },
+    {
+      "role": "part1",
+      "alt": "Sara prepara pães enquanto Abraão organiza a hospitalidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man white beard cream robe terracotta mantle. Sarah: elderly olive-skinned woman with silver-dark hair under muted blue headscarf, cream dress and rose shawl. Three visitors adult men in modest neutral ancient robes, no visible divine anatomy. Scene: Elderly Sarah kneads dough at low table beside tent, Abraham speaks kindly nearby, flour and simple pottery, no modern kitchen."
+    },
+    {
+      "role": "part2",
+      "alt": "Abraão serve uma refeição aos três visitantes sob a árvore.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man white beard cream robe terracotta mantle. Sarah: elderly olive-skinned woman with silver-dark hair under muted blue headscarf, cream dress and rose shawl. Three visitors adult men in modest neutral ancient robes, no visible divine anatomy. Scene: Three travelers seated under oak around low meal setting as Abraham serves bread and clay bowls, precisely three visitors, peaceful."
+    },
+    {
+      "role": "part3",
+      "alt": "Sara escuta da entrada da tenda, com surpresa no rosto.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Abraham: elderly olive-skinned man white beard cream robe terracotta mantle. Sarah: elderly olive-skinned woman with silver-dark hair under muted blue headscarf, cream dress and rose shawl. Three visitors adult men in modest neutral ancient robes, no visible divine anatomy. Scene: Elderly Sarah at tent doorway hears conversation outside, gently surprised expression, visitors softly out of focus, hopeful natural light."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Genesis+18&version=KJV"
+  ]
+}

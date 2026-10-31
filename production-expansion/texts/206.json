@@ -1,0 +1,74 @@
+{
+  "id": 206,
+  "title": "Uma Lâmpada para o Caminho",
+  "subtitle": "A Palavra que ilumina cada passo",
+  "reference": "Salmo 119:97–112",
+  "description": "Um poeta encontra alegria e direção nos ensinamentos de Deus, comparados a uma luz no caminho.",
+  "testament": "antigo",
+  "cover": "/images/covers/206.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um tesouro para lembrar",
+      "paragraphs": [
+        "O Salmo 119 é uma longa canção de amor pela Palavra de Deus. Em uma de suas partes, o poeta conta que gosta de pensar nos ensinamentos do Senhor durante todo o dia. Ele os guarda perto do coração, como alguém que leva consigo um presente muito querido e valioso.",
+        "Quanto mais presta atenção, mais aprende a compreender a vida. A sabedoria aparece no modo de escolher, de perceber um engano e de reconhecer uma atitude justa. O salmista celebra esse aprendizado com entusiasmo. Descobre que o ensino de Deus pode acompanhar seus pensamentos muito depois de terminar uma leitura.",
+        "Para explicar sua alegria, ele escolhe uma comparação deliciosa: as palavras de Deus são mais doces que o mel. O sabor agradável ajuda a imaginar o prazer de compreender algo bom. A canção convida quem escuta a procurar esse tesouro com curiosidade, atenção e vontade de colocá-lo em prática."
+      ],
+      "image": "206/part1.webp",
+      "alt": "Pergaminho e mel numa mesa iluminada"
+    },
+    {
+      "heading": "Uma pequena luz adiante",
+      "paragraphs": [
+        "Então surge uma imagem que atravessou muitos séculos: a Palavra é comparada a uma lâmpada diante dos pés e a uma luz no caminho. Podemos imaginar uma lamparina antiga, com uma chama pequena iluminando o chão. A pessoa enxerga as pedras próximas e consegue escolher onde apoiar o próximo passo.",
+        "Assim acontece quando um ensinamento ajuda numa decisão. Ao lembrar o valor da verdade, alguém encontra coragem para contar o que fez. Ao recordar o cuidado com o próximo, percebe uma pessoa que precisa de companhia. A orientação recebida se transforma numa luz prática, bem perto da vida cotidiana.",
+        "O poeta deseja seguir essa direção com firmeza. Ele fala de seu compromisso com os caminhos justos de Deus. Sua canção tem a alegria de quem encontrou algo precioso e a seriedade de quem quer aprender a viver melhor. Cada passo oferece uma nova oportunidade de exercitar aquilo que ouviu."
+      ],
+      "image": "206/part2.webp",
+      "alt": "Um viajante adulto caminha com uma pequena lamparina"
+    },
+    {
+      "heading": "Luz também nas dificuldades",
+      "paragraphs": [
+        "Nos mesmos versos, o salmista apresenta suas aflições. Há perigos, dificuldades e pessoas que lhe desejam mal. Ele pede ao Senhor que renove sua vida e continue a ensiná-lo. A oração mantém o coração ligado à fonte de esperança enquanto o caminho exige atenção, coragem e perseverança para continuar.",
+        "A Palavra é chamada de herança: um bem recebido para guardar com carinho e transmitir adiante. Ela também é a alegria do coração do poeta. Essa alegria o ajuda a perseverar. Mesmo quando tem muito a aprender, ele oferece sua disposição e pede que Deus acolha suas palavras de louvor.",
+        "A imagem da lamparina pode nos acompanhar hoje. Antes de uma escolha, podemos parar, lembrar um ensinamento e pedir ajuda para compreendê-lo. Uma conversa com quem cuida de nós também pode esclarecer o caminho. O próximo passo talvez seja pequeno, mas pode carregar a luz da verdade, da bondade e da confiança."
+      ],
+      "image": "206/part3.webp",
+      "alt": "Uma família aprende à luz da lamparina"
+    }
+  ],
+  "lesson": "Aprender a Palavra de Deus fica ainda mais bonito quando descobrimos como praticá-la. Uma orientação sobre verdade pode ajudar numa conversa; uma orientação sobre amor pode mudar uma brincadeira. Escolha um ensinamento simples e pense no próximo passo que ele ilumina. Você pode pedir ajuda para entender e tentar novamente quando precisar. A sabedoria cresce junto com essa disposição de aprender.",
+  "question": "Qual ensinamento de Deus pode iluminar uma escolha que você precisa fazer?",
+  "prayer": "Senhor, abre meus olhos para compreender tua Palavra e meu coração para gostar de aprender. Ilumina minhas escolhas de hoje. Ajuda-me a falar a verdade, a cuidar das pessoas e a pedir orientação quando eu ainda não souber o caminho. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA119.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma lamparina ilumina um caminho de pedras",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic Psalm 119 illustration: ancient clay oil lamp resting safely on flat stone beside winding footpath at blue twilight, warm flame illuminating nearby stones and wildflowers, ancient Judean village far away, no people. "
+    },
+    {
+      "role": "part1",
+      "alt": "Pergaminho e mel numa mesa iluminada",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Richly detailed still life of blank parchment scroll beside honeycomb in a small earthen bowl, soft sunlight through ancient stone window, linen cloth and wooden reading stand, poetic atmosphere, no people, no writing. "
+    },
+    {
+      "role": "part2",
+      "alt": "Um viajante adulto caminha com uma pequena lamparina",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew adult traveler in cream tunic and green shawl carefully walking a stony path at dusk while holding a small clay oil lamp on a handled tray, warm light on next few steps, no other people. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família aprende à luz da lamparina",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family with two children and grandmother gathered around a blank parchment scroll on low table, a safely placed oil lamp illuminates warm attentive faces, cozy stone home, no letters. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

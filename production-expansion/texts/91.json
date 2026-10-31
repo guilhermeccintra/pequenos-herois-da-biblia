@@ -1,0 +1,71 @@
+{
+  "id": 91,
+  "title": "O Chamado das Trombetas",
+  "subtitle": "Um som claro ajuda todos a caminhar juntos",
+  "reference": "Números 10:1–10",
+  "description": "Duas trombetas de prata organizam os encontros, as partidas e as celebrações de Israel.",
+  "testament": "antigo",
+  "cover": "/images/covers/91.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Duas trombetas para uma comunidade",
+      "paragraphs": [
+        "O acampamento de Israel reunia muitas famílias. Para chamar as pessoas ou iniciar uma viagem, não bastaria falar diante de uma única tenda. Deus orientou Moisés a fazer duas trombetas de prata, trabalhadas a partir do metal. Seu som teria uma função importante na organização da vida em comunidade.",
+        "As trombetas seriam usadas para reunir o povo e para avisar quando os grupos deveriam partir. Não eram apenas instrumentos bonitos. A comunicação precisava alcançar pessoas espalhadas pelo acampamento e transmitir uma mensagem compreensível. Ouvir o mesmo sinal ajudaria cada família a saber como participar do que acontecia ao redor.",
+        "Os filhos de Arão, os sacerdotes, ficariam responsáveis por tocá-las. A tarefa exigia atenção: sons diferentes indicariam situações diferentes. Quem transmitia o sinal precisava fazê-lo corretamente, e quem ouvia precisava aprender seu significado. A organização dependia de cuidado dos dois lados, para que uma comunidade tão grande pudesse agir em conjunto."
+      ],
+      "image": "91/part1.webp",
+      "alt": "Moisés apresenta os instrumentos aos sacerdotes."
+    },
+    {
+      "heading": "Nem todo toque dizia a mesma coisa",
+      "paragraphs": [
+        "Quando as duas trombetas fossem tocadas para convocação, toda a comunidade deveria se reunir à entrada da tenda do encontro. Se apenas uma fosse tocada, o chamado seria para os líderes. Essa diferença evitava que todas as pessoas precisassem sair a cada aviso, mesmo quando a reunião tinha outro propósito.",
+        "Para as partidas, haveria toques de aviso específicos. Os grupos acampados a leste começariam primeiro, e depois os que estavam ao sul, conforme a ordem indicada. A viagem não seria uma corrida em que cada família tentasse se adiantar. Havia uma sequência para tornar possível o movimento do povo.",
+        "O som usado para reunir a comunidade seria diferente do sinal de partida. A distinção era importante, pois preparar uma conversa e desmontar uma tenda são tarefas bem diferentes. A clareza da mensagem ajudava as pessoas a usar suas forças de maneira adequada e a evitar confusão num momento de mudança."
+      ],
+      "image": "91/part2.webp",
+      "alt": "As famílias atendem ao chamado para se reunir."
+    },
+    {
+      "heading": "Som de pedido e de alegria",
+      "paragraphs": [
+        "As trombetas também seriam usadas quando o povo enfrentasse opressão e precisasse pedir socorro a Deus. O aviso lembraria que Israel não deveria confiar apenas em sua própria força. A mesma comunidade que organizava suas tarefas precisava reconhecer sua necessidade de proteção e direção nos momentos de perigo.",
+        "Além disso, os instrumentos acompanhariam dias de alegria, festas e o começo dos meses. O som poderia reunir o povo para celebrar e recordar sua relação com o Senhor. Assim, as trombetas participariam de situações variadas: encontro, viagem, pedido de ajuda e gratidão. A vida inteira encontrava espaço diante de Deus.",
+        "Essa orientação mostra que comunicação e cuidado caminham juntos. Um aviso bem dado pode proteger, organizar e incluir. Um som reconhecido permite que muitas pessoas respondam sem depender de adivinhar. No acampamento de Israel, duas trombetas de prata ajudariam famílias diferentes a lembrar que faziam parte da mesma caminhada."
+      ],
+      "image": "91/part3.webp",
+      "alt": "O som acompanha uma celebração do povo."
+    }
+  ],
+  "lesson": "Comunicar com clareza é uma forma de cuidar. As trombetas ajudavam o povo a entender quando reunir, partir ou celebrar. Em casa e na escola, podemos ouvir os avisos, explicar o que precisamos e confirmar se todos compreenderam um combinado. Também é importante respeitar sinais de segurança e procurar orientação quando houver dúvida. Uma boa comunicação ajuda o grupo a agir junto, sem deixar alguém perdido ou desinformado.",
+  "question": "Que combinado do seu grupo poderia ser explicado de maneira mais clara para todos?",
+  "prayer": "Senhor, ensina-me a ouvir com atenção e a falar com clareza. Ajuda-nos a organizar os combinados de modo que todos compreendam e participem. Que nossas palavras e avisos tragam cuidado, segurança e alegria à vida em comunidade. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Dois sacerdotes tocam trombetas de prata no acampamento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Exactly two adult priests in white linen robes and turbans blow long straight silver ancient trumpets outside tabernacle, families listen at distance, clear morning light, no modern valves."
+    },
+    {
+      "role": "part1",
+      "alt": "Moisés apresenta os instrumentos aos sacerdotes.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Moses shows two long straight silver trumpets resting on folded linen to two adult priests in white robes, careful instruction beside tent."
+    },
+    {
+      "role": "part2",
+      "alt": "As famílias atendem ao chamado para se reunir.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Hebrew families walk calmly toward tabernacle courtyard while two white-robed priests with straight silver trumpets stand nearby, organized peaceful gathering."
+    },
+    {
+      "role": "part3",
+      "alt": "O som acompanha uma celebração do povo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Moses elderly olive-brown man long wavy gray hair and long gray-white beard, beige robe burnt terracotta-brown mantle, wooden staff. Scene: Two white-robed priests play long silver trumpets as families celebrate reverently in desert camp with simple food baskets, warm joyful light, no sacrifice visible."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Numbers+10%3A1-10&version=KJV"
+  ]
+}

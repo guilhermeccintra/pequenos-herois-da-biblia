@@ -1,0 +1,71 @@
+{
+  "id": 108,
+  "title": "A Travessia do Jordão",
+  "subtitle": "O caminho que se abriu",
+  "reference": "Josué 3",
+  "description": "O Jordão está cheio, e o povo precisa atravessar. Os sacerdotes avançam com a arca, e famílias inteiras descobrem um caminho onde antes só havia água.",
+  "testament": "antigo",
+  "cover": "/images/covers/108.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um rio pela frente",
+      "paragraphs": [
+        "Os israelitas chegaram às margens do Jordão e passaram ali alguns dias antes de atravessar. Era época de colheita, quando o rio transbordava pelas margens. Do lado onde estavam havia tendas, famílias e animais. Do outro, a terra para onde seguiam. Não parecia uma passagem simples, sobretudo para um povo inteiro com crianças e pertences.",
+        "Os oficiais percorreram o acampamento com uma orientação: quando os sacerdotes levantassem a arca da aliança, o povo deveria seguir atrás, guardando a distância indicada. Todos precisavam prestar atenção ao caminho, pois nunca haviam passado por ali. A arca iria à frente, lembrando a aliança do Senhor com Israel e sua presença naquela jornada.",
+        "A distância permitiria que o povo percebesse por onde seguir, pois ainda não havia passado por aquele caminho. Josué pediu que todos se preparassem para o que Deus faria. A espera nas margens não duraria para sempre. Ainda assim, preparar-se exigia atenção, e a multidão precisava ouvir a mesma orientação antes de começar a se mover."
+      ],
+      "image": "108/part1.webp",
+      "alt": "Josué e famílias observam o Jordão cheio a partir de uma margem segura, com tendas atrás deles."
+    },
+    {
+      "heading": "Os pés na margem",
+      "paragraphs": [
+        "Deus disse a Josué que o honraria diante dos israelitas, mostrando que estava com ele como estivera com Moisés. Josué então reuniu o povo para ouvir as palavras do Senhor. O que aconteceria no rio seria um sinal de que o Deus vivo estava entre eles. O novo líder não deveria receber sozinho o crédito pela travessia.",
+        "Os sacerdotes receberam uma instrução especial. Deveriam levar a arca até a beira do Jordão e permanecer ali. Eles partiram à frente. Enquanto os carregadores se aproximavam, a água ainda corria. O povo acompanhava de longe o movimento dos homens e o contorno da arca levada com cuidado sobre seus ombros.",
+        "Assim que os pés dos sacerdotes tocaram a água, as águas que vinham de cima pararam, formando uma barreira longe dali, perto da cidade de Adã. As águas que desciam para o mar da Arabá seguiram seu curso. Entre as margens, apareceu uma passagem. O rio cheio, que parecia impedir a viagem, agora deixava um caminho aberto."
+      ],
+      "image": "108/part2.webp",
+      "alt": "Os sacerdotes chegam cuidadosamente à margem com a arca sobre varais, antes da passagem se abrir."
+    },
+    {
+      "heading": "Até a última família",
+      "paragraphs": [
+        "Os sacerdotes avançaram até o meio do Jordão e permaneceram firmes em terreno seco, segurando a arca da aliança. Sua tarefa era continuar ali enquanto o povo passava. Não atravessariam primeiro para descansar do outro lado. O serviço deles fazia parte do cuidado necessário para que todos completassem a passagem em segurança.",
+        "Os israelitas atravessaram diante de Jericó. Famílias inteiras passaram pelo caminho aberto: pessoas mais velhas, jovens e crianças com seus pertences. Do outro lado, o acampamento começava a tomar uma nova forma. Enquanto ainda havia gente atravessando, os sacerdotes permaneciam no meio do Jordão. Eles esperaram até que todo o povo chegasse à margem.",
+        "Ao final, todos haviam chegado à outra margem. O Jordão não fora vencido pela construção de uma ponte nem pela força de Josué. O povo reconhecia a ação de Deus naquela passagem. A longa viagem ganhava uma nova paisagem. Agora havia uma terra diante deles e, atrás, a lembrança de um caminho que se abrira onde antes parecia impossível seguir."
+      ],
+      "image": "108/part3.webp",
+      "alt": "Uma família chega à outra margem do Jordão; atrás dela outros israelitas completam a travessia."
+    }
+  ],
+  "lesson": "A travessia mostra pessoas que precisam caminhar juntas. Algumas levam a arca; outras escutam, organizam suas famílias e seguem a orientação. Cada tarefa ajuda o povo a chegar ao outro lado. Em nossas atividades, também podemos colaborar de maneiras diferentes: esperar quem anda mais devagar, compartilhar o que sabemos e prestar atenção aos responsáveis. Deus nos ensina a confiar nele e a perceber quem está caminhando ao nosso lado.",
+  "question": "Em qual atividade você pode esperar ou ajudar alguém para que o grupo chegue junto?",
+  "prayer": "Deus, obrigado pelas pessoas que nos orientam e acompanham. Ajuda-nos a escutar com atenção e a cuidar de quem caminha ao nosso lado. Dá-nos paciência para esperar, disposição para ajudar e sabedoria para respeitar os cuidados que protegem nossa vida. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/Joshua"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Famílias atravessam o leito seco do Jordão, enquanto os sacerdotes permanecem ao centro com a arca.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua mature olive skin dark gray-streaked curls short beard olive tunic burgundy cloak. Priests white linen garments and cream headwraps carrying covered covenant ark on poles. Israelite families simple clothes. Scene: Famílias atravessam o leito seco do Jordão, enquanto os sacerdotes permanecem ao centro com a arca. Critical biblical accuracy: ALL people and priests stand on COMPLETELY DRY riverbed ground. No shallow water, puddles, wet ankles or wading. The priests carrying the ark are STATIONARY in the middle distance while families walk past on dry ground. Wide dry river channel with tall banks; water held far upstream is outside this frame."
+    },
+    {
+      "role": "part1",
+      "alt": "Josué e famílias observam o Jordão cheio a partir de uma margem segura, com tendas atrás deles.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua mature olive skin dark gray-streaked curls short beard olive tunic burgundy cloak. Priests white linen garments and cream headwraps carrying covered covenant ark on poles. Israelite families simple clothes. Scene: Josué e famílias observam o Jordão cheio a partir de uma margem segura, com tendas atrás deles."
+    },
+    {
+      "role": "part2",
+      "alt": "Os sacerdotes chegam cuidadosamente à margem com a arca sobre varais, antes da passagem se abrir.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua mature olive skin dark gray-streaked curls short beard olive tunic burgundy cloak. Priests white linen garments and cream headwraps carrying covered covenant ark on poles. Israelite families simple clothes. Scene: Os sacerdotes chegam cuidadosamente à margem com a arca sobre varais, antes da passagem se abrir."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família chega à outra margem do Jordão; atrás dela outros israelitas completam a travessia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Joshua mature olive skin dark gray-streaked curls short beard olive tunic burgundy cloak. Priests white linen garments and cream headwraps carrying covered covenant ark on poles. Israelite families simple clothes. Scene: Uma família chega à outra margem do Jordão; atrás dela outros israelitas completam a travessia. Critical biblical accuracy: ALL people and priests stand on COMPLETELY DRY riverbed ground. No shallow water, puddles, wet ankles or wading. The priests carrying the ark are STATIONARY in the middle distance while families walk past on dry ground. Wide dry river channel with tall banks; water held far upstream is outside this frame."
+    }
+  ]
+}

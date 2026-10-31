@@ -1,0 +1,71 @@
+{
+  "id": 135,
+  "title": "Davi Celebra com Alegria",
+  "subtitle": "Gratidão que se reparte",
+  "reference": "2 Samuel 6:12–23",
+  "description": "A arca da aliança chega a Jerusalém, e Davi celebra diante do povo. A alegria também se transforma em alimento repartido para que todos voltem para casa lembrando aquele dia.",
+  "testament": "antigo",
+  "cover": "/images/covers/135.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma chegada esperada",
+      "paragraphs": [
+        "A arca da aliança havia ficado por um tempo na casa de Obede-Edom. Davi soube que aquela família recebera bênçãos enquanto cuidava dela e decidiu levá-la para Jerusalém. Uma tentativa anterior terminara de maneira dolorosa, por isso aquela chegada não poderia ser tratada como uma festa sem atenção. A arca lembrava a aliança com Deus e exigia respeito.",
+        "Davi foi buscá-la com alegria. Os carregadores avançaram, e houve ofertas conforme o culto daquele tempo. O povo acompanhava a caminhada ao som de aclamações e trombetas. Não era a chegada de um troféu que pertencia ao rei. Era um momento em que a comunidade reconhecia a presença de sua história de fé no centro da cidade.",
+        "O rei vestia uma roupa de linho própria daquela celebração e dançava diante do Senhor com entusiasmo. Sua posição não o impediu de demonstrar gratidão com o corpo e a voz. Davi não precisava permanecer distante de todos para lembrar que era rei. Naquele momento, participava da alegria do povo que caminhava pelas ruas."
+      ],
+      "image": "135/part1.webp",
+      "alt": "Carregadores levam a arca com cuidado por uma rua antiga, acompanhados pelo povo em celebração."
+    },
+    {
+      "heading": "A alegria vista da janela",
+      "paragraphs": [
+        "Mical, filha de Saul e esposa de Davi, observou a cena pela janela. Ao ver o rei dançando, o desprezou em seu coração. Sua reação mostra que nem todos enxergavam aquela celebração da mesma maneira. O gesto que Davi vivia como gratidão parecia, para ela, inadequado à dignidade de um governante.",
+        "A arca foi colocada na tenda que Davi havia preparado. Depois das ofertas, ele abençoou o povo em nome do Senhor. A celebração não ficou somente no caminho ou nos sons da chegada. Havia um lugar preparado, uma comunidade reunida e palavras de bênção para acompanhar aquele encontro. A organização também fazia parte do cuidado com a ocasião.",
+        "Então Davi distribuiu alimento a todos os israelitas presentes, homens e mulheres. Cada pessoa recebeu sua porção. Aquela partilha permitia que a alegria da celebração alcançasse também a mesa de cada família e a volta para casa. Uma celebração pública podia deixar uma lembrança concreta de cuidado, e não apenas a imagem de quem estava no centro."
+      ],
+      "image": "135/part2.webp",
+      "alt": "Davi participa de uma dança respeitosa, totalmente vestido em túnica de linho, ao som de músicos da comunidade."
+    },
+    {
+      "heading": "Alegria e responsabilidade",
+      "paragraphs": [
+        "Depois, cada um voltou para sua casa, e Davi também foi abençoar sua família. Mical saiu ao seu encontro e criticou sua maneira de celebrar. Davi respondeu que havia dançado diante do Senhor. Para ele, a gratidão a Deus era mais importante que preservar uma aparência de superioridade diante das pessoas que o observavam.",
+        "Davi respondeu que sua alegria era diante do Senhor, que o escolhera para liderar Israel. Ele estava disposto a se humilhar na presença de Deus, mesmo que sua dança não parecesse adequada a Mical. A conversa deixou clara a distância entre os dois. Para o rei, a chegada da arca era motivo de celebrar com todo o povo.",
+        "O que a chegada da arca deixa em destaque é a disposição de Davi de agradecer sem se colocar acima da comunidade. Dançou, abençoou e repartiu alimento. A alegria ganhou mais de uma forma. Para as pessoas que voltavam pelas ruas de Jerusalém, aquele dia podia ser lembrado tanto pelo som das trombetas quanto pela porção recebida para levar consigo."
+      ],
+      "image": "135/part3.webp",
+      "alt": "Adultos distribuem pães e frutas a homens, mulheres e crianças depois da celebração em Jerusalém."
+    }
+  ],
+  "lesson": "A gratidão pode aparecer em música, movimento, silêncio ou palavras. Não precisamos sentir vergonha de uma alegria respeitosa, nem obrigar todos a demonstrá-la do mesmo jeito. Davi também repartiu alimento, mostrando que celebrar pode incluir cuidado concreto. Numa festa ou encontro, podemos pensar em quem ficou de fora, ajudar na organização e dividir o que temos. A alegria se torna mais acolhedora quando respeita diferenças e abre espaço para outras pessoas.",
+  "question": "Como você pode fazer uma celebração ficar mais acolhedora para quem participa de um jeito diferente do seu?",
+  "prayer": "Deus, obrigado pelos momentos de alegria e pelas pessoas com quem podemos compartilhá-los. Ensina-nos a agradecer com sinceridade, respeitar diferentes maneiras de celebrar e repartir o que recebemos. Que nossas festas tenham cuidado, inclusão e espaço para quem precisa se sentir acolhido. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Davi celebra com alegria numa rua de Jerusalém enquanto famílias acompanham a chegada da arca.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adult olive skin reddish-brown curls short beard wearing fully covering cream linen ceremonial robe, no nudity, dancing respectfully. Ancient Jerusalem street, ark carried on poles, diverse families, baskets of bread and fruit. Only stated cast. Scene: Davi celebra com alegria numa rua de Jerusalém enquanto famílias acompanham a chegada da arca."
+    },
+    {
+      "role": "part1",
+      "alt": "Carregadores levam a arca com cuidado por uma rua antiga, acompanhados pelo povo em celebração.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adult olive skin reddish-brown curls short beard wearing fully covering cream linen ceremonial robe, no nudity, dancing respectfully. Ancient Jerusalem street, ark carried on poles, diverse families, baskets of bread and fruit. Only stated cast. Scene: Carregadores levam a arca com cuidado por uma rua antiga, acompanhados pelo povo em celebração."
+    },
+    {
+      "role": "part2",
+      "alt": "Davi participa de uma dança respeitosa, totalmente vestido em túnica de linho, ao som de músicos da comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adult olive skin reddish-brown curls short beard wearing fully covering cream linen ceremonial robe, no nudity, dancing respectfully. Ancient Jerusalem street, ark carried on poles, diverse families, baskets of bread and fruit. Only stated cast. Scene: Davi participa de uma dança respeitosa, totalmente vestido em túnica de linho, ao som de músicos da comunidade."
+    },
+    {
+      "role": "part3",
+      "alt": "Adultos distribuem pães e frutas a homens, mulheres e crianças depois da celebração em Jerusalém.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: David adult olive skin reddish-brown curls short beard wearing fully covering cream linen ceremonial robe, no nudity, dancing respectfully. Ancient Jerusalem street, ark carried on poles, diverse families, baskets of bread and fruit. Only stated cast. Scene: Adultos distribuem pães e frutas a homens, mulheres e crianças depois da celebração em Jerusalém."
+    }
+  ]
+}

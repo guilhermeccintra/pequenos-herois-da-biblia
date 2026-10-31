@@ -1,0 +1,71 @@
+{
+  "id": 261,
+  "title": "O Perfume de Maria",
+  "subtitle": "Um gesto de amor em Betânia",
+  "reference": "João 12:1–8",
+  "description": "Durante uma refeição, Maria oferece a Jesus um perfume precioso. O gesto revela devoção e provoca uma conversa sobre amor, aparência e cuidado.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.12.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma refeição entre amigos",
+      "paragraphs": [
+        "Faltavam seis dias para a Páscoa quando Jesus chegou a Betânia. Era o lugar onde vivia Lázaro, a quem ele havia trazido de volta à vida. Prepararam uma refeição em sua honra. Marta servia, e Lázaro estava entre os que se sentavam à mesa com Jesus. A casa reunia pessoas marcadas por um acontecimento extraordinário.",
+        "Maria também estava ali. Trouxe uma quantidade de perfume de nardo puro, muito valioso. Não era um objeto escolhido por acaso entre as coisas da casa. Seu valor tornou o gesto especialmente significativo. Ela se aproximou de Jesus e derramou o perfume sobre seus pés, enxugando-os com os próprios cabelos.",
+        "O cheiro do perfume se espalhou por toda a casa. João guarda esse detalhe, que nos ajuda a perceber como o gesto alcançou o ambiente. As pessoas à mesa podiam notar o que estava acontecendo. Maria oferecia uma expressão de amor e honra que envolvia algo precioso para ela, num momento em que Jesus se aproximava dos últimos dias de sua missão."
+      ],
+      "alt": "Maria traz um frasco de perfume durante uma refeição em Betânia.",
+      "image": "261/part1.webp"
+    },
+    {
+      "heading": "Uma crítica que parecia generosa",
+      "paragraphs": [
+        "Judas Iscariotes, um dos discípulos, criticou o gesto. Perguntou por que o perfume não havia sido vendido e o dinheiro dado aos pobres. Mencionou uma quantia alta, equivalente a muitos dias de trabalho. À primeira vista, suas palavras pareciam mostrar grande preocupação com quem precisava de ajuda. Era uma pergunta que podia soar convincente.",
+        "João, porém, explica que Judas não falou assim por cuidado com os pobres. Ele guardava a bolsa de dinheiro do grupo e tirava dela para si. O comentário, portanto, escondia uma intenção diferente da aparência. A história nos ajuda a perceber que palavras generosas precisam ser acompanhadas de atitudes honestas para mostrar o que realmente significam.",
+        "Maria havia se expressado por meio de um gesto concreto. Judas respondeu com uma crítica cuja motivação não era sincera. Jesus interveio para defendê-la. Não deixou que o valor financeiro do perfume fosse a única medida usada para compreender o encontro. Havia um significado naquele cuidado que os presentes precisavam considerar."
+      ],
+      "alt": "Jesus escuta uma crítica enquanto Maria permanece perto da mesa.",
+      "image": "261/part2.webp"
+    },
+    {
+      "heading": "Um cuidado no tempo certo",
+      "paragraphs": [
+        "Jesus disse que deixassem Maria em paz e relacionou seu gesto ao dia de seu sepultamento. Suas palavras apontavam para a morte que se aproximava. O perfume fazia parte de um momento que não se repetiria da mesma forma. Aquele cuidado tinha lugar na história de sua entrega e seria lembrado junto dela.",
+        "Jesus afirmou que os pobres continuariam com eles, mas que ele não estaria sempre presente daquela maneira. Isso não cancelava a responsabilidade de ajudar quem precisava. Em muitos ensinamentos, Jesus chamou seus seguidores à generosidade. Ali, ele reconhecia também a oportunidade particular de receber o gesto de Maria antes dos acontecimentos que viriam.",
+        "A refeição em Betânia ficou marcada pelo aroma do perfume e pela defesa de um amor sincero. Maria não recebeu uma ordem para transformar seu gesto numa competição de presentes caros. Sua história mostra que o cuidado pode ter um significado que ultrapassa o preço. Judas, por outro lado, lembrou como uma aparência generosa pode esconder escolhas que precisam ser corrigidas."
+      ],
+      "alt": "Jesus acolhe o gesto de Maria diante dos amigos reunidos.",
+      "image": "261/part3.webp"
+    }
+  ],
+  "lesson": "Um gesto de carinho não precisa ser caro para ter valor. Podemos oferecer tempo, atenção, uma ajuda ou palavras sinceras. O que importa é a honestidade do cuidado e a necessidade de quem o recebe. A história também convida a conferir se nossas palavras combinam com nossas atitudes. Falar em ajudar enquanto usamos algo dos outros para nós mesmos não é generosidade; precisamos agir com verdade.",
+  "question": "Que gesto simples pode demonstrar carinho por alguém sem depender de comprar um presente?",
+  "prayer": "Jesus, ensina-nos a cuidar com sinceridade. Que nossas palavras de generosidade sejam acompanhadas de atitudes honestas. Ajuda-nos a perceber o tempo de oferecer carinho, companhia e ajuda, e a valorizar os gestos de amor que recebemos das pessoas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/261.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Maria oferece um frasco precioso num gesto de carinho a Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult Mary of Bethany dark hair blue shawl sage dress holds small alabaster perfume jar respectfully near seated Jesus cream tunic terracotta mantle at low dinner table, Martha rust dress and Lazarus cream tunic in background, warm dignified family scene."
+    },
+    {
+      "role": "part1",
+      "alt": "Maria traz um frasco de perfume durante uma refeição em Betânia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wide ancient Bethany dining room, adult Mary blue shawl sage dress approaches low table carrying small perfume jar, Jesus cream tunic terracotta mantle seated with Lazarus and friends, Martha serving bread, warm lamplight, no sensual framing."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus escuta uma crítica enquanto Maria permanece perto da mesa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. At low dinner table Jesus cream tunic terracotta mantle listens calmly to adult disciple Judas dark brown robe gesturing in question, Mary blue shawl sage dress with perfume jar nearby, respectful serious faces, no villain caricature."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus acolhe o gesto de Maria diante dos amigos reunidos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle speaks kindly in defense of adult Mary blue shawl sage dress seated respectfully beside table with perfume jar, other adult friends listen, warm modest room, focus on faces and hands, no foot closeup."
+    }
+  ]
+}

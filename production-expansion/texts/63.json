@@ -1,0 +1,71 @@
+{
+  "id": 63,
+  "title": "Um Cesto Entre os Juncos",
+  "subtitle": "Um bebê cercado por escolhas de cuidado",
+  "reference": "Êxodo 2:1–10",
+  "description": "A mãe de Moisés, sua irmã e a filha do faraó ajudam a preservar uma pequena vida.",
+  "testament": "antigo",
+  "cover": "/images/covers/63.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um cesto preparado com amor",
+      "paragraphs": [
+        "No Egito, uma família hebreia vivia sob uma ameaça cruel contra seus meninos. Quando nasceu um filho, sua mãe o protegeu durante três meses. O pequeno dependia inteiramente do cuidado de outras pessoas. Enquanto a ordem do faraó colocava tantas vidas em perigo, aquela família procurava preservar a criança que havia chegado à sua casa.",
+        "Chegou o momento em que escondê-lo em casa já não era possível. Sua mãe preparou um cesto de junco e o revestiu para impedir a entrada de água. Depois acomodou o menino e colocou o cesto entre os juncos, junto à margem do rio. Não era uma viagem solitária por águas desconhecidas.",
+        "A irmã do bebê ficou a certa distância, observando o que aconteceria. A mãe havia preparado o cesto com cuidado, e agora a menina acompanhava a situação. O relato não esconde a fragilidade daquela família. Diante de uma injustiça enorme, pessoas comuns faziam o que podiam para preservar uma vida preciosa."
+      ],
+      "image": "63/part1.webp",
+      "alt": "A mãe prepara o cesto com a filha ao lado."
+    },
+    {
+      "heading": "Uma princesa escuta o choro",
+      "paragraphs": [
+        "A filha do faraó desceu ao rio acompanhada de suas servas. Entre os juncos, viu o cesto e mandou uma delas buscá-lo. Quando o abriu, encontrou o bebê chorando. Reconheceu que era um menino hebreu, justamente um daqueles que a ordem do rei colocava em perigo naquele tempo.",
+        "A princesa sentiu compaixão. Poderia ter ignorado o choro ou tratado a criança apenas como parte de um povo rejeitado. Em vez disso, enxergou um bebê que precisava de proteção. A filha do homem que ameaçava aquelas crianças escolheu acolher uma delas, mostrando que era possível responder de outra maneira.",
+        "A irmã do menino se aproximou e ofereceu ajuda. Perguntou se deveria chamar uma mulher hebreia para cuidar dele. A princesa concordou, e a menina foi buscar a própria mãe do bebê. Sua atenção e sua iniciativa abriram uma oportunidade que ela não teria encontrado se estivesse indiferente ao que acontecia."
+      ],
+      "image": "63/part2.webp",
+      "alt": "A princesa e a irmã do bebê conversam."
+    },
+    {
+      "heading": "Cuidado que abriu um caminho",
+      "paragraphs": [
+        "A princesa entregou a criança à mulher e pediu que a criasse por algum tempo, oferecendo pagamento pelo trabalho. Assim, a mãe pôde cuidar do próprio filho com proteção. O perigo imposto pelo faraó continuava sendo injusto, mas naquela casa havia espaço para respirar e amparar o pequeno menino.",
+        "Quando ele cresceu, sua mãe o levou à filha do faraó, que o recebeu como filho. Ela lhe deu o nome de Moisés, relacionado ao fato de ter sido retirado da água. O bebê dos juncos cresceria e, muitos anos depois, participaria da libertação de seu povo.",
+        "Naquele primeiro capítulo de sua vida, Moisés não segurava um cajado nem falava diante de multidões. Era uma criança cuidada por outras pessoas. Uma mãe preparou um cesto, uma irmã observou e falou, uma serva buscou e uma princesa acolheu. Gestos diferentes se encontraram para proteger alguém que ainda não podia agradecer."
+      ],
+      "image": "63/part3.webp",
+      "alt": "A mãe recebe o bebê de volta para cuidar dele."
+    }
+  ],
+  "lesson": "O começo da vida de Moisés mostra como o cuidado pode reunir pessoas diferentes. Nem todos fizeram a mesma coisa: alguém preparou, alguém observou, alguém buscou e alguém acolheu. Também podemos participar do bem com gestos adequados à nossa idade e às nossas possibilidades. Perceber uma necessidade e chamar quem pode ajudar já tem valor. Toda criança merece proteção, carinho e adultos responsáveis por sua segurança.",
+  "question": "Qual pequeno gesto de atenção você pode fazer hoje para ajudar alguém da sua família?",
+  "prayer": "Deus de amor, obrigado por cada pessoa que cuida das crianças. Ensina-me a prestar atenção, oferecer ajuda possível e chamar um adulto quando for necessário. Que nossa casa seja um lugar de proteção, acolhimento e carinho para quem precisa. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A princesa encontra o bebê no cesto entre os juncos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Mother adult olive-brown woman dark hair cream scarf, muted plum long dress. Sister school-age girl dark braid ochre full tunic. Princess clearly adult brown-skinned woman black braided hair, modest full white linen gown with turquoise shawl and gold collar. Baby safely swaddled cream linen. Scene: Fully clothed adult Egyptian princess kneels safely on dry riverbank beside opened reed basket with safely swaddled baby, adult attendant nearby, sister watching from reeds, calm shallow water. Only the princess, one adult attendant, infant and sister; mother is absent from this scene."
+    },
+    {
+      "role": "part1",
+      "alt": "A mãe prepara o cesto com a filha ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: adult Hebrew mother age35 olive-brown skin dark hair cream scarf modest long plum dress. Scene: Mother ALONE lines EMPTY woven reed basket with soft linen inside modest home. No other people or baby in scene."
+    },
+    {
+      "role": "part2",
+      "alt": "A princesa e a irmã do bebê conversam.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Mother adult olive-brown woman dark hair cream scarf, muted plum long dress. Sister school-age girl dark braid ochre full tunic. Princess clearly adult brown-skinned woman black braided hair, modest full white linen gown with turquoise shawl and gold collar. Baby safely swaddled cream linen. Scene: Adult princess seated on dry bank with swaddled baby safely in arms speaks kindly with clothed young girl standing nearby, adult attendant beside them, no bathing."
+    },
+    {
+      "role": "part3",
+      "alt": "A mãe recebe o bebê de volta para cuidar dele.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series, ages 6–12. Input image is a STYLE reference, not an edit target. Match highly detailed warm cinematic 3D storybook rendering, friendly expressive faces, realistic woven linen, rich natural materials, golden lighting and atmospheric depth. Landscape 3:2, 1536x1024. Biblical ancient Near Eastern setting, fully clothed characters. No text, lettering, watermark, collage, modern objects, graphic violence or visible deity. Character continuity: Mother adult olive-brown woman dark hair cream scarf, muted plum long dress. Sister school-age girl dark braid ochre full tunic. Princess clearly adult brown-skinned woman black braided hair, modest full white linen gown with turquoise shawl and gold collar. Baby safely swaddled cream linen. Scene: Adult mother gently receives swaddled baby from fully clothed adult princess at home doorway, young daughter smiles beside mother, reassuring supportive family scene."
+    }
+  ],
+  "sources": [
+    "https://www.biblegateway.com/passage/?search=Exodus+2%3A1-10&version=KJV"
+  ]
+}

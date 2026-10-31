@@ -1,0 +1,71 @@
+{
+  "id": 143,
+  "title": "A Oração no Templo",
+  "subtitle": "Uma casa aberta para o encontro",
+  "reference": "1 Reis 8:1–61",
+  "description": "O templo está pronto, e Salomão reúne o povo para sua dedicação. Sua oração lembra que Deus é maior que qualquer edifício e pede atenção também para quem vem de longe.",
+  "testament": "antigo",
+  "cover": "/images/covers/143.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "A arca chega ao seu lugar",
+      "paragraphs": [
+        "O templo havia sido construído em Jerusalém, e Salomão reuniu os líderes e o povo para sua dedicação. Os sacerdotes levaram a arca da aliança até o lugar preparado dentro da casa. Na arca estavam as tábuas ligadas ao compromisso de Deus com Israel. A chegada reunia a memória da caminhada antiga e o começo de uma nova etapa.",
+        "Quando os sacerdotes saíram do lugar santo, uma nuvem encheu a casa do Senhor. A glória de Deus enchia o lugar com sua presença. Os sacerdotes não puderam continuar o serviço naquele momento. A cena lembrava que o templo não era apenas uma obra humana sobre a qual o rei pudesse exercer controle.",
+        "Salomão voltou-se para a assembleia e abençoou o povo. Recordou o desejo de Davi de construir aquela casa e a maneira como a promessa se cumprira em seu reinado. Não apresentou tudo como uma conquista isolada de sua habilidade. Havia uma história anterior, pessoas que prepararam o caminho e um cuidado de Deus que precisava ser reconhecido."
+      ],
+      "image": "143/part1.webp",
+      "alt": "Sacerdotes levam a arca com cuidado para a entrada do templo, enquanto a comunidade acompanha em silêncio."
+    },
+    {
+      "heading": "Deus é maior que a casa",
+      "paragraphs": [
+        "Diante do altar, Salomão estendeu as mãos para o céu e orou. Reconheceu que não havia outro Deus como o Senhor, fiel à aliança e à bondade. Ao mesmo tempo, fez uma pergunta cheia de humildade: poderia Deus realmente habitar numa casa construída na terra? Nem os céus mais altos poderiam contê-lo, muito menos aquele edifício.",
+        "O pedido, portanto, não era para prender Deus entre paredes. Salomão desejava que o Senhor escutasse as orações feitas em direção àquele lugar. Falou de perdão, justiça e cuidado nas diferentes situações que o povo viveria. A casa serviria como um ponto de encontro e lembrança, mas a grandeza de Deus ultrapassava tudo o que os olhos viam.",
+        "Salomão também reconheceu que as pessoas errariam. Sua oração não imaginava uma comunidade perfeita, incapaz de fazer mal. Pedia que, quando o povo se arrependesse e voltasse ao Senhor, encontrasse misericórdia. A vida de fé precisaria de verdade sobre os próprios erros, e não apenas de cerimônias bonitas que escondessem o que acontecia no cotidiano."
+      ],
+      "image": "143/part2.webp",
+      "alt": "Salomão contempla o céu aberto acima do templo, lembrando que Deus é maior que o edifício."
+    },
+    {
+      "heading": "Quem viesse de longe",
+      "paragraphs": [
+        "Na oração, Salomão lembrou também do estrangeiro que não pertencia a Israel. Alguém poderia ouvir falar do grande nome de Deus e viajar de uma terra distante para orar. O rei pediu que essa pessoa também fosse ouvida, para que todos os povos conhecessem o Senhor. O encontro com Deus não deveria ser tratado como privilégio de uma família fechada em si mesma.",
+        "Depois de orar, Salomão se levantou e abençoou a assembleia com voz forte. Agradeceu pelo descanso concedido e pediu que Deus estivesse com o povo, inclinando seu coração para seguir seus caminhos. O templo estava pronto, mas as pessoas continuariam precisando de orientação. A dedicação de um edifício não encerrava o aprendizado da comunidade.",
+        "A celebração se prolongou, e o povo voltou para casa alegre pelo bem recebido. A oração de Salomão deixou uma imagem maior que as paredes do templo: um Deus que não cabe num prédio, um povo que precisa de perdão e um lugar de oração que lembra também de quem chega de longe. A beleza da casa apontava para esse encontro."
+      ],
+      "image": "143/part3.webp",
+      "alt": "Uma família vinda de longe é recebida com respeito por moradores no pátio externo do templo."
+    }
+  ],
+  "lesson": "Um lugar de oração pode ajudar a reunir e lembrar, mas Deus não fica preso a um edifício. Podemos falar com ele em diferentes momentos e lugares. A oração de Salomão também incluiu o estrangeiro. Nossa comunidade pode aprender a receber quem chega com outro jeito de falar ou outra história. Acolher não exige que todos sejam iguais; exige respeito, atenção e disposição de abrir espaço para que cada pessoa seja ouvida.",
+  "question": "Como vocês podem acolher alguém que visita sua comunidade ou sua casa pela primeira vez?",
+  "prayer": "Deus, obrigado porque podemos falar contigo em tantos lugares. Ajuda-nos a orar com sinceridade, reconhecer nossos erros e receber teu cuidado. Ensina nossa comunidade a acolher quem vem de longe, respeitar diferentes histórias e abrir espaço para que ninguém se sinta esquecido. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Salomão ora diante do povo no pátio do templo, com as mãos abertas e uma expressão de humildade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon olive-skinned young adult dark curls blue ceremonial robe simple crown; ancient Jerusalem temple courtyard and diverse families, gentle luminous cloud in background but no deity figure. Only cast scene names, no copied reference people. Scene: Salomão ora diante do povo no pátio do templo, com as mãos abertas e uma expressão de humildade. If temple visible, show ancient Israelite rectangular limestone sanctuary, cedar roof and tall bronze pillars by entrance, ancient Near Eastern architecture, no Greek pediment, no cathedral, no modern dome. Match fine detailed warm 3D style."
+    },
+    {
+      "role": "part1",
+      "alt": "Sacerdotes levam a arca com cuidado para a entrada do templo, enquanto a comunidade acompanha em silêncio.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon olive-skinned young adult dark curls blue ceremonial robe simple crown; ancient Jerusalem temple courtyard and diverse families, gentle luminous cloud in background but no deity figure. Only cast scene names, no copied reference people. Scene: Sacerdotes levam a arca com cuidado para a entrada do templo, enquanto a comunidade acompanha em silêncio. If temple visible, show ancient Israelite rectangular limestone sanctuary, cedar roof and tall bronze pillars by entrance, ancient Near Eastern architecture, no Greek pediment, no cathedral, no modern dome. Match fine detailed warm 3D style."
+    },
+    {
+      "role": "part2",
+      "alt": "Salomão contempla o céu aberto acima do templo, lembrando que Deus é maior que o edifício.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon olive-skinned young adult dark curls blue ceremonial robe simple crown; ancient Jerusalem temple courtyard and diverse families, gentle luminous cloud in background but no deity figure. Only cast scene names, no copied reference people. Scene: Salomão contempla o céu aberto acima do templo, lembrando que Deus é maior que o edifício. If temple visible, show ancient Israelite rectangular limestone sanctuary, cedar roof and tall bronze pillars by entrance, ancient Near Eastern architecture, no Greek pediment, no cathedral, no modern dome. Match fine detailed warm 3D style."
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família vinda de longe é recebida com respeito por moradores no pátio externo do templo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Solomon olive-skinned young adult dark curls blue ceremonial robe simple crown; ancient Jerusalem temple courtyard and diverse families, gentle luminous cloud in background but no deity figure. Only cast scene names, no copied reference people. Scene: Uma família vinda de longe é recebida com respeito por moradores no pátio externo do templo. MANDATORY SCENE CAST: Only a visiting family and local adult hosts in the exterior courtyard. Solomon is absent. Reference provides rendering style only; do not copy its complete cast. If temple visible, show ancient Israelite rectangular limestone sanctuary, cedar roof and tall bronze pillars by entrance, ancient Near Eastern architecture, no Greek pediment, no cathedral, no modern dome. Match fine detailed warm 3D style."
+    }
+  ]
+}

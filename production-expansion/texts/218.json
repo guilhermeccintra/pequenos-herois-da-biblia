@@ -1,0 +1,75 @@
+{
+  "id": 218,
+  "title": "O Menino e a Esperança de Paz",
+  "subtitle": "As promessas anunciadas por Isaías",
+  "reference": "Isaías 9:1–7; 11:1–9",
+  "description": "A promessa de um governante justo e as imagens de uma criação em paz acendem a esperança do povo.",
+  "testament": "antigo",
+  "cover": "/images/covers/218.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma luz para quem esperava",
+      "paragraphs": [
+        "Isaías anunciou esperança a um povo que conhecia dias de medo e aflição. Suas palavras descrevem pessoas caminhando na escuridão e recebendo uma grande luz. A imagem lembra a alegria de enxergar novamente um caminho. O profeta fala de alívio, de liberdade e de uma felicidade parecida com a chegada da colheita.",
+        "No centro dessa promessa aparece um menino. Um filho seria dado ao povo, e o governo estaria sobre seus ombros. Entre os nomes anunciados estão Conselheiro Maravilhoso e Príncipe da Paz. A esperança de um futuro diferente é apresentada por meio de uma criança, trazendo surpresa e ternura à mensagem.",
+        "O governo prometido estaria ligado à casa de Davi e seria sustentado pela justiça. A paz teria espaço para crescer. Os cristãos reconhecem nessa promessa o anúncio de Jesus, cuja vida revela o amor de Deus. Ao ler Isaías, encontram palavras antigas que ajudam a celebrar a esperança de sua chegada."
+      ],
+      "image": "218/part1.webp",
+      "alt": "Isaías anuncia esperança a famílias reunidas"
+    },
+    {
+      "heading": "Um ramo que volta a crescer",
+      "paragraphs": [
+        "Em outro trecho, Isaías usa a imagem de uma árvore cortada da qual nasce um ramo novo. O tronco é ligado à família de Jessé, o pai de Davi. Mesmo onde parecia haver apenas o que restou, poderia surgir vida. Um broto pequeno anunciava a continuidade de uma promessa maior.",
+        "Sobre o governante prometido repousaria o Espírito do Senhor, trazendo sabedoria, entendimento, conselho e força. Suas decisões seriam guiadas pela justiça. Ele olharia com cuidado para os pobres e os humildes, reconhecendo aquilo que uma aparência ou um boato poderia esconder. A fidelidade faria parte de seu modo de governar.",
+        "Essa descrição mostra que a paz desejada tem raízes profundas. Ela cresce quando a justiça protege as pessoas e a verdade orienta as decisões. Isaías oferece ao povo uma esperança de liderança cuidadosa, capaz de defender quem precisa. O ramo novo carrega a promessa de frutos diferentes para toda a comunidade."
+      ],
+      "image": "218/part2.webp",
+      "alt": "Um broto verde nasce de um tronco antigo"
+    },
+    {
+      "heading": "Uma paisagem de paz",
+      "paragraphs": [
+        "A profecia então apresenta uma paisagem surpreendente. O lobo vive perto do cordeiro; o leopardo descansa junto ao cabrito; animais antes ameaçadores convivem com tranquilidade. Uma criança aparece conduzindo esse grupo. São imagens proféticas que fazem a esperança de paz ganhar formas, movimentos e rostos que podemos imaginar.",
+        "O anúncio aponta para um tempo em que a violência deixará de ferir o monte santo do Senhor. A terra será cheia do conhecimento de Deus, comparado às águas que cobrem o mar. A mensagem reúne justiça entre as pessoas e harmonia na criação, abrindo um horizonte de grande confiança.",
+        "Podemos guardar essas imagens no coração e aprender a procurar a paz em nossas atitudes. Acolher uma pessoa, agir com justiça e cuidar de uma relação são respostas pequenas a uma esperança imensa. A luz, o menino e o ramo novo continuam convidando quem lê a confiar no Deus que promete renovação."
+      ],
+      "image": "218/part3.webp",
+      "alt": "Animais descansam juntos numa paisagem de paz"
+    }
+  ],
+  "lesson": "Isaías anuncia uma esperança de paz sustentada pela justiça e pelo conhecimento de Deus. Os cristãos veem em Jesus o cumprimento dessa promessa. Podemos responder a essa esperança com atitudes que acolhem e protegem: incluir alguém, falar a verdade e procurar uma solução justa para um desacordo. Cada gesto de cuidado ajuda nosso coração a aprender o caminho da paz que o Senhor ensina.",
+  "question": "Que atitude justa e acolhedora você pode escolher para promover a paz hoje?",
+  "prayer": "Senhor, obrigado pela esperança de paz anunciada por teus profetas e revelada em Jesus. Ensina-me a cuidar das pessoas com justiça e carinho. Que minhas escolhas acolham quem precisa e ajudem a construir uma convivência mais tranquila, verdadeira e bondosa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/ISA09.htm",
+    "https://ebible.org/engwebp/ISA11.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma criança e animais tranquilos ilustram a esperança de Isaías",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Clearly poetic prophetic vision from Isaiah 11: a small ancient Hebrew child in cream linen standing peacefully in a lush meadow at a respectful distance from a calm wolf, lamb, leopard and young goat, no aggression, dreamy warm light, symbolic peace."
+    },
+    {
+      "role": "part1",
+      "alt": "Isaías anuncia esperança a famílias reunidas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Isaiah speaking hope to ancient Hebrew families with children in a Jerusalem courtyard as dawn light breaks over the city, attentive faces moving from worry toward hope, blank scroll, no visible deity. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Um broto verde nasce de um tronco antigo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic symbolic close-up of a vibrant green shoot growing from a cut ancient tree stump with strong roots, rich bark texture, dew, golden sunlight and soft Judean hills beyond, no people. "
+    },
+    {
+      "role": "part3",
+      "alt": "Animais descansam juntos numa paisagem de paz",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic prophetic vision of Isaiah 11: wolf and lamb resting together, leopard beside young goat, calf and young lion calm in a green meadow with flowing stream, warm luminous mountains, no people, no hunting or aggression."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

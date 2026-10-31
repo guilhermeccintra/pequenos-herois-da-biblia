@@ -1,0 +1,71 @@
+{
+  "id": 151,
+  "title": "Eliseu Deixa os Bois",
+  "subtitle": "Um chamado no meio do trabalho",
+  "reference": "1 Reis 19:19–21",
+  "description": "Eliseu está arando quando Elias passa e lança seu manto sobre ele. O encontro abre um novo caminho de serviço, com despedida, partilha e aprendizado.",
+  "testament": "antigo",
+  "cover": "/images/covers/151.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "O trabalho seguia no campo",
+      "paragraphs": [
+        "Depois do encontro no monte Horebe, Elias recebeu a orientação de chamar Eliseu para continuar o serviço profético. O Senhor lhe indicou o filho de Safate, de Abel-Meolá. Elias partiu e o encontrou trabalhando. Eliseu não estava num palácio esperando uma oportunidade importante. Estava no campo, acompanhando uma tarefa que fazia parte da vida de sua família.",
+        "Havia doze juntas de bois arando, e Eliseu estava com a última. O trabalho exigia atenção aos animais, ao instrumento e ao caminho aberto na terra. A cena mostra alguém ocupado, inserido numa comunidade e numa rotina. O chamado não chegaria a uma pessoa sem história, mas a um homem que já tinha relações e responsabilidades.",
+        "Elias passou por ele e lançou seu manto sobre seus ombros. Era um gesto de significado naquele encontro, indicando o chamado para acompanhá-lo. O profeta não fez ali um longo discurso registrado pela Bíblia. O manto e a presença de Elias comunicaram a mudança que começava. Eliseu percebeu que não se tratava apenas de um visitante atravessando o campo."
+      ],
+      "image": "151/part1.webp",
+      "alt": "Eliseu conduz com cuidado uma junta de bois num campo, usando um arado de madeira antigo."
+    },
+    {
+      "heading": "Uma despedida importante",
+      "paragraphs": [
+        "Eliseu deixou os bois e correu atrás de Elias. Pediu permissão para se despedir de seu pai e de sua mãe; depois o seguiria. A nova tarefa não apagava automaticamente os laços familiares. Antes de partir, desejava reconhecer aquelas pessoas e o lugar de onde vinha. Uma despedida podia fazer parte de um começo responsável.",
+        "Elias respondeu permitindo que voltasse e lembrando o gesto que fizera. A decisão de acompanhar precisaria ser assumida por Eliseu. O encontro não era uma distração passageira do trabalho. Havia um chamado para uma vida de serviço, e o homem que o recebera deveria considerar o que isso significava para seu caminho.",
+        "Eliseu voltou para se despedir e preparou uma refeição. Usou a madeira dos instrumentos de trabalho para cozinhar a carne dos bois e a repartiu com o povo. A atividade que havia ocupado seus dias chegava ao fim. Antes de acompanhar Elias, ele compartilhava com sua comunidade aquele momento de despedida e de novo começo."
+      ],
+      "image": "151/part2.webp",
+      "alt": "Eliseu se despede de seus pais diante da casa da família, num encontro respeitoso e afetuoso."
+    },
+    {
+      "heading": "Servir antes de conduzir",
+      "paragraphs": [
+        "Eliseu deu o alimento ao povo, e todos comeram. Seu começo não aparece como uma festa em que guardou tudo para si. Houve partilha antes da viagem. A mudança individual tocava a comunidade, e a refeição permitia que o encerramento daquela etapa fosse vivido junto de outras pessoas. O campo não seria simplesmente esquecido como se nunca tivesse feito parte de sua história.",
+        "Depois, Eliseu se levantou, seguiu Elias e passou a servi-lo. A Bíblia encerra esse pequeno episódio com uma tarefa humilde. O homem chamado para continuar a obra de um grande profeta começava acompanhando e aprendendo. Não precisava assumir imediatamente todas as decisões nem provar que já sabia fazer o que Elias fazia.",
+        "Muitos acontecimentos viriam depois: viagens, perguntas, sinais e momentos de despedida. Mas o início estava ali, num campo arado e num manto colocado sobre os ombros. Eliseu respondeu com disposição, cuidou de sua despedida e aceitou aprender servindo. Uma nova responsabilidade podia começar longe dos aplausos, na atenção aos passos de alguém que o orientaria pelo caminho."
+      ],
+      "image": "151/part3.webp",
+      "alt": "Elias e Eliseu seguem juntos por uma estrada rural depois de uma refeição compartilhada com a comunidade."
+    }
+  ],
+  "lesson": "Aprender uma tarefa nova costuma começar por acompanhar alguém e ajudar nas partes simples. Eliseu não se tornou experiente de uma vez. Podemos valorizar esse tempo de aprendizado sem achar que servir é menos importante que liderar. Mudanças também pedem conversa e cuidado com responsabilidades anteriores. Uma criança nunca precisa abandonar casa ou família por um chamado de outra pessoa; decisões importantes devem ser acompanhadas por adultos responsáveis e respeitar sua proteção.",
+  "question": "Que habilidade você gostaria de aprender acompanhando alguém experiente, e como poderia ajudar durante esse aprendizado?",
+  "prayer": "Deus, dá-nos disposição para aprender e humildade para começar pelas tarefas simples. Ajuda-nos a fazer mudanças com responsabilidade, cuidar de nossas relações e ouvir boas orientações. Que nossos dons cresçam por meio do serviço, da paciência e do respeito pelas pessoas que nos ensinam. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Elias coloca seu manto sobre os ombros de Eliseu num campo arado, enquanto os bois descansam ao fundo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin thick dark beard brown rough mantle tan tunic; Elisha young adult olive skin short dark hair neat beard cream tunic muted green belt. Ancient plowed field oxen wooden plow, peaceful farewell meal. Only scene-specific cast. Scene: Elias coloca seu manto sobre os ombros de Eliseu num campo arado, enquanto os bois descansam ao fundo."
+    },
+    {
+      "role": "part1",
+      "alt": "Eliseu conduz com cuidado uma junta de bois num campo, usando um arado de madeira antigo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin thick dark beard brown rough mantle tan tunic; Elisha young adult olive skin short dark hair neat beard cream tunic muted green belt. Ancient plowed field oxen wooden plow, peaceful farewell meal. Only scene-specific cast. Scene: Eliseu conduz com cuidado uma junta de bois num campo, usando um arado de madeira antigo. MANDATORY SCENE CAST: Only adult Elisha with the oxen. Elijah is not yet present. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Eliseu se despede de seus pais diante da casa da família, num encontro respeitoso e afetuoso.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin thick dark beard brown rough mantle tan tunic; Elisha young adult olive skin short dark hair neat beard cream tunic muted green belt. Ancient plowed field oxen wooden plow, peaceful farewell meal. Only scene-specific cast. Scene: Eliseu se despede de seus pais diante da casa da família, num encontro respeitoso e afetuoso. MANDATORY SCENE CAST: Only adult Elisha and his elderly parents. Elijah is absent. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Elias e Eliseu seguem juntos por uma estrada rural depois de uma refeição compartilhada com a comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Elijah mature olive skin thick dark beard brown rough mantle tan tunic; Elisha young adult olive skin short dark hair neat beard cream tunic muted green belt. Ancient plowed field oxen wooden plow, peaceful farewell meal. Only scene-specific cast. Scene: Elias e Eliseu seguem juntos por uma estrada rural depois de uma refeição compartilhada com a comunidade."
+    }
+  ]
+}

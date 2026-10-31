@@ -1,0 +1,71 @@
+{
+  "id": 289,
+  "title": "A Moeda Encontrada",
+  "subtitle": "A alegria de recuperar o que tinha valor",
+  "reference": "Lucas 15:8–10",
+  "description": "Uma mulher procura cuidadosamente uma moeda perdida e reúne as amigas para compartilhar sua alegria.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.15.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma moeda fazia falta",
+      "paragraphs": [
+        "Jesus recebia pessoas que muitos preferiam manter à distância. Cobradores de impostos e outras pessoas consideradas pecadoras se aproximavam para ouvi-lo. Alguns líderes reclamavam porque ele as acolhia e comia com elas. Em resposta, Jesus contou histórias sobre o que se perde, o cuidado de procurar e a alegria de encontrar novamente.",
+        "Numa dessas parábolas, uma mulher tinha dez moedas de prata e perdeu uma. Ela ainda possuía nove, mas isso não tornava a moeda perdida sem importância. A falta era percebida. A mulher não decidiu que seria inútil procurar algo pequeno só porque outras moedas permaneciam guardadas. Aquela também tinha valor para ela.",
+        "Jesus descreveu uma busca dentro de casa. A moeda não gritava pedindo ajuda e não indicava onde estava. Era preciso atenção para encontrá-la. A mulher assumiu a tarefa com cuidado. A história colocava no centro um objeto pequeno, lembrando aos ouvintes que algo perdido não deixa de ser precioso apenas porque saiu de vista."
+      ],
+      "alt": "Uma mulher percebe que uma de suas moedas está faltando.",
+      "image": "289/part1.webp"
+    },
+    {
+      "heading": "Luz e uma busca cuidadosa",
+      "paragraphs": [
+        "A mulher acendeu uma lâmpada. A luz ajudaria a enxergar os lugares onde a moeda poderia ter caído. Depois, varreu a casa e procurou com cuidado até encontrá-la. Jesus reuniu três atitudes simples: iluminar, limpar e buscar. A vontade de recuperar a moeda aparecia no trabalho paciente que ela realizava.",
+        "Uma moeda pequena pode ficar escondida num canto ou entre coisas que os olhos não percebem logo. A mulher não se limitou a dar uma olhada rápida e desistir. Sua procura continuou até que encontrou o que faltava. A parábola não se demorava nos detalhes da casa, mas destacava a atenção e a persistência daquela busca.",
+        "Quando a moeda apareceu, o problema não terminou apenas com um suspiro silencioso. A mulher ficou alegre. O que tinha valor estava novamente com ela. Sua alegria correspondia ao cuidado da procura. A mesma pessoa que não havia desprezado a falta agora reconhecia o significado de ter encontrado aquilo que perdera dentro de casa."
+      ],
+      "alt": "A mulher procura a moeda com uma lâmpada e uma vassoura.",
+      "image": "289/part2.webp"
+    },
+    {
+      "heading": "Uma alegria compartilhada",
+      "paragraphs": [
+        "A mulher chamou suas amigas e vizinhas para se alegrarem com ela. Contou que havia encontrado a moeda perdida. Não guardou a satisfação como se fosse um assunto sem importância para mais ninguém. A descoberta virou motivo de encontro. O cuidado que começara numa busca solitária terminou numa alegria dividida com outras pessoas.",
+        "Jesus explicou que também há alegria diante dos anjos de Deus por uma pessoa que se arrepende. A comparação respondia às reclamações sobre seu acolhimento. Quando alguém volta para Deus, não é motivo para desprezo ou desconfiança permanente. É uma ocasião de alegria. Aqueles que se aproximavam de Jesus precisavam encontrar espaço para ouvir e mudar.",
+        "A moeda da parábola não tinha menos valor enquanto estava perdida. A busca mostrava justamente o contrário. Da mesma forma, Jesus ensinava seus ouvintes a olhar para as pessoas com cuidado. A história convidava a participar da alegria de Deus, acolhendo quem procura um novo caminho e lembrando que ninguém deve ser tratado como uma perda sem importância."
+      ],
+      "alt": "A mulher compartilha com as amigas a alegria de encontrar a moeda.",
+      "image": "289/part3.webp"
+    }
+  ],
+  "lesson": "Cada pessoa tem valor e merece cuidado, mesmo quando erra ou se afasta. Jesus mostra alegria quando alguém reconhece sua necessidade e volta para Deus. Podemos participar dessa alegria acolhendo um pedido sincero de desculpas e apoiando mudanças boas. Isso não apaga responsabilidades nem exige ignorar limites de segurança. Significa não prender alguém para sempre ao erro e reconhecer com esperança os passos de recomeço.",
+  "question": "Como você pode apoiar com respeito alguém que está tentando corrigir um erro?",
+  "prayer": "Deus, obrigado porque cada pessoa tem valor para ti. Ajuda-me a reconhecer meus erros e a buscar um novo caminho. Ensina-me a acolher mudanças sinceras nos outros, com sabedoria e cuidado. Que eu participe da tua alegria quando alguém encontra esperança para recomeçar. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/289.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma mulher encontra a moeda que procurava.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Parable scene adult woman olive skin dark braid under cream headscarf muted teal dress kneeling in simple first-century stone room holding up one small silver coin with delighted smile, clay oil lamp and reed broom nearby, warm detailed 3D. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part1",
+      "alt": "A mulher percebe que falta uma moeda.",
+      "prompt": "Use case: illustration-story. New landscape 3:2, 1536x1024, richly detailed warm cinematic 3D Bible storybook illustration. Reference supplies the identity of one adult woman wearing a teal linen long dress and cream headscarf, dark braid and warm brown eyes. A new medium overhead angle: she sits at a low wooden table inside her modest stone home. On the otherwise bare tabletop lie exactly NINE small silver coins, arranged in THREE clearly separated rows of THREE coins, all nine fully visible. She counts them with one hand beside the coins, a puzzled thoughtful expression because one coin is missing. Simple pottery and a woven basket in the background, soft window lighting, anatomically natural hands. No other people, no additional coins anywhere, no letters, logos or modern items."
+    },
+    {
+      "role": "part2",
+      "alt": "A mulher ilumina o chão durante a procura.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Same woman teal dress cream headscarf kneeling with small clay oil lamp safely on stone floor beside her, reed broom in hand searching under low bench, warm light revealing one tiny silver coin near edge, careful focused face. Identity clarification: this scene does NOT contain Jesus. Any reference portrait is for 3D visual rendering quality ONLY, never copy its face, hair, red mantle or cream robe onto another character. Follow the explicitly described character appearance and clothing. If the scene contains only plants or objects, render NO people."
+    },
+    {
+      "role": "part3",
+      "alt": "A mulher celebra a descoberta com as amigas.",
+      "prompt": "Use case: illustration-story. Landscape 3:2, 1536x1024, richly detailed warm cinematic 3D Bible storybook artwork. Preserve the adult woman in the reference: teal woven long dress, cream headscarf, dark braid, warm brown eyes. A different scene outside her modest stone house: she stands at the doorway showing the small silver coin she found on her open palm to two adult women neighbors, one wearing a plum robe and cream scarf, the other an ochre robe and brown scarf. Three fully clothed adult women with happy, natural expressions and friendly gestures. Gentle afternoon light, terracotta pot, textured doorway and stone lane. Focus on their shared joy about a recovered coin. No children, text, logos, additional people, or modern objects."
+    }
+  ]
+}

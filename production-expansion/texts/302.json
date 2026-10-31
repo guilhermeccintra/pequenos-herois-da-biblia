@@ -1,0 +1,71 @@
+{
+  "id": 302,
+  "title": "Pedro Conta a Boa Notícia",
+  "subtitle": "A pergunta que abriu um novo começo",
+  "reference": "Atos 2:14–41",
+  "description": "Diante de uma multidão admirada, Pedro explica quem é Jesus. Sua mensagem convida os ouvintes a mudar de direção e começar uma vida de fé.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Pedro toma a palavra",
+      "paragraphs": [
+        "Jerusalém estava cheia de visitantes, e muita gente tentava entender o que tinha acontecido com os discípulos. Pessoas de diferentes lugares haviam ouvido as grandes obras de Deus em suas próprias línguas. Alguns se admiravam; outros zombavam. Pedro se levantou com os onze apóstolos e pediu que todos escutassem sua explicação.",
+        "Ele começou desfazendo a zombaria: os discípulos não estavam embriagados. Era de manhã, e o acontecimento tinha outro significado. Pedro lembrou as palavras do profeta Joel sobre Deus derramar seu Espírito. A promessa incluía homens e mulheres, jovens e idosos. O agir de Deus não ficava reservado a quem parecia mais importante.",
+        "Aquela lembrança ajudava a multidão a ligar o que via às Escrituras que conhecia. Pedro não pediu que as pessoas acreditassem apenas porque ele falava alto. Apontou para uma promessa antiga. O dia surpreendente de Pentecostes fazia parte de uma história de cuidado e esperança que vinha sendo anunciada havia muito tempo."
+      ],
+      "image": "302/part1.webp",
+      "alt": "Pedro se levanta ao lado dos outros apóstolos, enquanto visitantes fazem uma pausa para escutar."
+    },
+    {
+      "heading": "O centro da notícia",
+      "paragraphs": [
+        "Depois, Pedro falou de Jesus de Nazaré. Recordou os sinais realizados por meio dele e a morte que havia sofrido. A multidão conhecia os acontecimentos de Jerusalém, e agora precisava compreender seu significado. A notícia principal, contudo, não terminava na cruz: Deus havia ressuscitado Jesus, vencendo o poder da morte.",
+        "Pedro lembrou também palavras de Davi que apontavam para essa esperança. Explicou que os apóstolos eram testemunhas da ressurreição. Eles não anunciavam apenas uma ideia bonita. Haviam conhecido Jesus vivo depois de sua morte. O Espírito que a multidão agora percebia tinha relação com a promessa daquele mesmo Jesus.",
+        "Ao concluir, Pedro afirmou que Deus havia feito Jesus Senhor e Cristo. Sua mensagem convidava os ouvintes a reconhecer quem Jesus era. Os discípulos não estavam procurando aplausos para si. Toda aquela explicação conduzia a outra pessoa: Jesus, cuja vida, morte e ressurreição mudavam a maneira de compreender o futuro."
+      ],
+      "image": "302/part2.webp",
+      "alt": "Pedro aponta para um rolo das Escrituras aberto sobre uma pequena mesa, explicando sua mensagem a ouvintes atentos."
+    },
+    {
+      "heading": "O que podemos fazer?",
+      "paragraphs": [
+        "A mensagem tocou profundamente muitos ouvintes. Eles perguntaram a Pedro e aos outros apóstolos o que deveriam fazer. A pergunta não era uma brincadeira nem uma disputa para vencer. Era o começo de uma resposta sincera. Perceber uma verdade importante podia levar aquelas pessoas a escolher uma direção diferente para a própria vida.",
+        "Pedro as convidou ao arrependimento e ao batismo em nome de Jesus Cristo. Falou do perdão e do presente do Espírito Santo. A promessa alcançava os que estavam ali, seus filhos e pessoas que viviam longe, todos a quem Deus chamasse. Havia lugar para novos começos e para uma esperança que se espalharia.",
+        "Naquele dia, cerca de três mil pessoas acolheram a mensagem e foram batizadas. Um grupo pequeno de discípulos se tornou uma comunidade muito maior. Aprenderiam a viver juntos, a ouvir o ensino dos apóstolos e a cuidar uns dos outros. A boa notícia não terminava na pergunta da multidão: começava a ganhar espaço na vida cotidiana."
+      ],
+      "image": "302/part3.webp",
+      "alt": "Novos discípulos e famílias se acolhem com alegria junto a um reservatório de água em Jerusalém, depois do batismo."
+    }
+  ],
+  "lesson": "Uma pergunta sincera pode abrir caminho para aprender. Quando descobrimos que erramos, podemos ouvir, reconhecer o problema e escolher uma atitude melhor. Isso é diferente de sentir vergonha para sempre. O arrependimento aponta para mudança. Crianças também podem conversar com um adulto confiável sobre fé, dúvidas e decisões. Ninguém precisa fingir que entendeu tudo para pertencer a uma família que aprende e cresce junta.",
+  "question": "Que pergunta sobre Jesus você gostaria de conversar com um adulto da sua confiança?",
+  "prayer": "Jesus, obrigado por nos chamar para um novo começo. Ajuda-me a ouvir com atenção, fazer perguntas sinceras e reconhecer meus erros. Ensina nossa família a viver tua mensagem com amor, recebendo teu perdão e aprendendo a cuidar melhor das pessoas. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/302.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.2"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro, de túnica ferrugem e manto creme, fala a uma multidão atenta em um pátio de Jerusalém sob luz dourada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, a short beard, rust tunic, cream shawl, expressive kind face. No readable writing on scrolls.  Scene: Pedro, de túnica ferrugem e manto creme, fala a uma multidão atenta em um pátio de Jerusalém sob luz dourada."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro se levanta ao lado dos outros apóstolos, enquanto visitantes fazem uma pausa para escutar.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, a short beard, rust tunic, cream shawl, expressive kind face. No readable writing on scrolls.  Scene: Pedro se levanta ao lado dos outros apóstolos, enquanto visitantes fazem uma pausa para escutar."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro aponta para um rolo das Escrituras aberto sobre uma pequena mesa, explicando sua mensagem a ouvintes atentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, a short beard, rust tunic, cream shawl, expressive kind face. No readable writing on scrolls.  Scene: Pedro aponta para um rolo das Escrituras aberto sobre uma pequena mesa, explicando sua mensagem a ouvintes atentos."
+    },
+    {
+      "role": "part3",
+      "alt": "Novos discípulos e famílias se acolhem com alegria junto a um reservatório de água em Jerusalém, depois do batismo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, a short beard, rust tunic, cream shawl, expressive kind face. No readable writing on scrolls.  Scene: Novos discípulos e famílias se acolhem com alegria junto a um reservatório de água em Jerusalém, depois do batismo."
+    }
+  ]
+}

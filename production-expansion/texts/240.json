@@ -1,0 +1,71 @@
+{
+  "id": 240,
+  "title": "A Mulher que Voltou a se Endireitar",
+  "subtitle": "Cuidado que devolve liberdade",
+  "reference": "Lucas 13:10–17",
+  "description": "Durante um ensino na sinagoga, Jesus vê uma mulher que há muitos anos não consegue se endireitar. Seu cuidado desperta gratidão e uma conversa importante.",
+  "sources": [
+    "https://www.bible.com/bible/1/LUK.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Alguém que Jesus percebeu",
+      "paragraphs": [
+        "Era sábado, e Jesus ensinava numa sinagoga. Entre as pessoas presentes estava uma mulher que havia dezoito anos vivia encurvada. Ela não conseguia se endireitar. Lucas apresenta uma dificuldade que fazia parte de sua vida há muito tempo, mas não reduz sua história a isso: Jesus a viu como uma pessoa digna de atenção.",
+        "Ela estava ali, na sinagoga, entre as pessoas que se reuniam para ouvir as Escrituras. Seu corpo permanecia encurvado, como acontecia havia tantos anos. Jesus ensinava naquele lugar e a viu. No meio da comunidade reunida, sua presença recebeu a atenção do Mestre. O encontro daquele sábado traria uma mudança que ela ainda não conhecia.",
+        "Jesus a viu e a chamou. Antes de qualquer discussão sobre regras, dirigiu-se a ela. Disse que estava livre de sua enfermidade e colocou as mãos sobre ela. O gesto não foi uma apresentação para divertir a multidão. Era cuidado oferecido a uma mulher que carregava uma dificuldade havia muitos anos."
+      ],
+      "alt": "Jesus percebe uma mulher encurvada entre as pessoas da sinagoga.",
+      "image": "240/part1.webp"
+    },
+    {
+      "heading": "Uma nova postura e uma voz de gratidão",
+      "paragraphs": [
+        "Na mesma hora, a mulher conseguiu se endireitar. Começou a glorificar a Deus. O que durante dezoito anos havia limitado seu movimento não a prendia mais daquele jeito. Sua resposta foi gratidão. A sinagoga, onde as pessoas estavam reunidas para aprender, tornou-se também o lugar de celebrar seu alívio.",
+        "O dirigente da sinagoga, porém, ficou indignado porque Jesus havia realizado a cura no sábado. Falou à multidão que existiam seis dias para trabalhar e que as pessoas deveriam procurar cura nesses dias. Em sua maneira de entender, aquele cuidado deveria esperar. A alegria da mulher encontrou uma reação difícil dentro da comunidade.",
+        "Jesus respondeu mostrando uma contradição. As pessoas soltavam seus animais para levá-los a beber água mesmo no sábado. Reconheciam a necessidade de cuidar de um boi ou de um jumento. Por que, então, uma mulher não deveria receber libertação de um sofrimento tão antigo? A pergunta aproximava a regra da vida real."
+      ],
+      "alt": "A mulher se endireita e agradece a Deus diante de Jesus.",
+      "image": "240/part2.webp"
+    },
+    {
+      "heading": "Uma filha de Abraão",
+      "paragraphs": [
+        "Jesus chamou aquela mulher de filha de Abraão. Era uma forma importante de reconhecer que ela pertencia ao povo da promessa. Não estava do lado de fora do cuidado de Deus. Não deveria ser tratada como um problema que atrapalhava o dia de descanso. Sua dignidade tinha lugar naquela conversa.",
+        "Jesus descreveu seus dezoito anos de sofrimento como uma prisão da qual ela precisava ser solta. Seu argumento não diminuía o sábado. Mostrava que fazer o bem combinava com o propósito de um dia dedicado a Deus. O cuidado oferecido não era um obstáculo à fé; revelava a misericórdia que a fé deveria expressar.",
+        "Os adversários de Jesus ficaram envergonhados, e o povo se alegrou com as coisas maravilhosas que ele fazia. A mulher podia agora se endireitar e louvar. Mais do que uma disputa vencida, havia uma pessoa atendida. Ao acompanhar essa história, nosso olhar também é convidado a começar por quem precisa de cuidado."
+      ],
+      "alt": "Jesus conversa com a comunidade enquanto a mulher participa de pé.",
+      "image": "240/part3.webp"
+    }
+  ],
+  "lesson": "Uma pessoa com deficiência ou uma doença merece respeito, participação e cuidado em todos os dias. Podemos observar se os lugares e as brincadeiras incluem todos, oferecer ajuda sem impor e perguntar do que alguém precisa. A cura dessa mulher é um sinal específico do ministério de Jesus; ninguém deve ser culpado por continuar doente. Nossa tarefa é acolher e cuidar, com atenção às necessidades reais.",
+  "question": "Como você pode ajudar a tornar uma brincadeira ou atividade mais acolhedora para todos?",
+  "prayer": "Jesus, ensina-nos a perceber as pessoas e a tratá-las com dignidade. Ajuda-nos a incluir quem encontra dificuldades e a oferecer ajuda com respeito. Que nossa fé apareça em gestos de cuidado, sem julgamentos, e que ninguém se sinta esquecido entre nós. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/240.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "A mulher agradece a Jesus em uma sinagoga acolhedora.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic dusty terracotta red mantle smiles respectfully at a middle-aged Jewish woman with olive skin gray-brown hair plum veil olive dress standing upright with grateful hands, modest first-century synagogue stone benches, kind witnesses."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus percebe uma mulher encurvada entre as pessoas da sinagoga.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. BEFORE the healing. The woman in the plum veil and olive-green dress from reference is STANDING with a clearly bent back and torso leaning forward about forty-five degrees; she cannot straighten upright. Show her full body in side profile, dignified face gently turned toward Jesus. Jesus in cream tunic and terracotta mantle sits on a stone bench at left looking toward her with concern. Two seated adult synagogue listeners behind. Keep exactly the same middle-aged woman identity, not a caricature. A new wide composition, not two people sitting upright. Do not depict the healed upright posture in this scene."
+    },
+    {
+      "role": "part2",
+      "alt": "A mulher se endireita e agradece a Deus diante de Jesus.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Middle-aged woman olive dress plum veil now standing upright with relieved grateful expression, Jesus cream tunic dusty terracotta red mantle beside her, people on stone benches watch in wonder, no exaggerated magical effects."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus conversa com a comunidade enquanto a mulher participa de pé.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic dusty terracotta red mantle calmly addresses synagogue community with open explanatory hand, healed woman olive dress plum veil standing included among listeners, one elder listening thoughtfully, dignified and warm atmosphere."
+    }
+  ]
+}

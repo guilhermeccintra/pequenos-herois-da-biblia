@@ -1,0 +1,71 @@
+{
+  "id": 358,
+  "title": "Ouvir Antes de Falar",
+  "subtitle": "Uma pausa que muda a conversa",
+  "reference": "Tiago 1:19–27",
+  "description": "Tiago ensina a ouvir com atenção, cuidar das palavras e colocar a fé em prática. Um espelho ajuda a compreender a diferença entre escutar um ensino e vivê-lo.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/358.webp",
+  "parts": [
+    {
+      "heading": "A pressa de responder",
+      "paragraphs": [
+        "Na carta de Tiago, os leitores recebem uma orientação simples de ouvir e difícil de praticar: estar prontos para escutar, sem pressa para falar e para se entregar à ira. Uma conversa pode mudar quando alguém realmente ouve. Antes de preparar uma resposta, é preciso perceber o que a outra pessoa está tentando dizer.",
+        "Escutar não é apenas ficar em silêncio enquanto esperamos nossa vez. É prestar atenção, fazer perguntas quando necessário e evitar concluir tudo antes de conhecer a situação. Às vezes, uma frase parece ofensiva porque foi compreendida pela metade. Em outras ocasiões, existe um problema real. Ouvir ajuda a distinguir essas situações e a escolher uma resposta responsável.",
+        "Tiago explicou que a ira humana não produz a justiça de Deus. Ao sentir raiva, podemos fazer uma pausa para compreender o que aconteceu e escolher como responder. Conversar com calma e buscar ajuda podem abrir um caminho melhor. O ensino convida a cuidar das palavras e das atitudes, para que a força de uma emoção encontre uma direção respeitosa."
+      ],
+      "image": "358/part1.webp",
+      "alt": "Dois jovens antigos conversam sentados à sombra, um escuta com expressão atenta e mãos tranquilas, ambiente seguro e sem conflito."
+    },
+    {
+      "heading": "Um espelho para lembrar",
+      "paragraphs": [
+        "A carta convida a receber a Palavra com humildade e a abandonar atitudes más. Aprender exige reconhecer que podemos precisar de orientação. Se chegamos a toda conversa convencidos de que já sabemos tudo, fica difícil escutar. A humildade abre espaço para compreender melhor, rever uma conclusão e aceitar que outra pessoa percebeu algo que nos escapou.",
+        "Mas Tiago não queria apenas ouvintes atentos. Ele pediu que os leitores praticassem a Palavra. Escutar um ensino sem permitir que ele transforme nenhuma atitude seria uma forma de enganar a si mesmo. É possível saber dizer que a honestidade é importante e continuar mentindo por conveniência. O aprendizado precisa encontrar um caminho até as escolhas.",
+        "Para explicar, Tiago usou a imagem de alguém que olha o próprio rosto num espelho e logo esquece o que viu. O espelho oferece uma informação, mas ela se perde quando a pessoa vai embora sem atenção. Da mesma forma, podemos ouvir algo verdadeiro e esquecer rapidamente sua importância quando surge a oportunidade de praticá-lo."
+      ],
+      "image": "358/part2.webp",
+      "alt": "Uma criança observa o rosto num pequeno espelho de bronze com adulto por perto, luz de janela, metáfora visual do ensino de Tiago."
+    },
+    {
+      "heading": "A palavra encontra a vida",
+      "paragraphs": [
+        "O texto apresenta outro caminho: observar com cuidado a lei da liberdade e perseverar nela. O leitor não deveria ser alguém que escuta e esquece, mas alguém que age. A liberdade mencionada não é permissão para fazer qualquer coisa. Ela se liga a uma vida orientada pelo ensino de Deus, que chama ao amor e à responsabilidade.",
+        "Tiago voltou então às palavras. Quem se considera religioso, mas não cuida da própria língua, está se enganando. O modo de falar revela algo importante sobre a convivência. A carta também citou o cuidado com órfãos e viúvas em suas dificuldades, lembrando pessoas que podiam estar especialmente vulneráveis. A fé deveria produzir atenção a quem precisava.",
+        "Ouvir, falar e agir se encontram nesse ensino. Uma pausa antes da resposta pode abrir espaço para a gentileza; uma verdade aprendida pode se tornar ajuda concreta. Não precisamos acertar todas as conversas de uma vez. Podemos reconhecer quando interrompemos, pedir desculpas e tentar ouvir melhor. O espelho da Palavra convida a lembrar e a praticar."
+      ],
+      "image": "358/part3.webp",
+      "alt": "Família ajuda uma viúva idosa a organizar mantimentos em casa antiga, gestos respeitosos e dignos, imagem de ouvir transformado em ação."
+    }
+  ],
+  "lesson": "Quando uma conversa fica difícil, podemos respirar, ouvir até o fim e pedir ajuda se necessário. Isso não significa aceitar insultos em silêncio. Podemos estabelecer limites e procurar um adulto confiável. A carta de Tiago nos lembra que aprender uma atitude boa é apenas o começo; precisamos praticá-la. Hoje, podemos escolher uma conversa para escutar com mais atenção e uma oportunidade de transformar uma palavra de cuidado em ação.",
+  "question": "Em qual conversa você poderia fazer uma pausa e ouvir melhor antes de responder?",
+  "prayer": "Deus, ajuda-me a ouvir com atenção e a cuidar das minhas palavras. Quando eu sentir raiva, ensina-me a buscar uma resposta segura e respeitosa. Que o que aprendemos contigo não fique apenas na memória, mas se transforme em cuidado e atitudes verdadeiras. Amém.",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Um menino e uma menina do primeiro século conversam com adulto atento em pátio, todos escutam sem interromper, espelho antigo de metal repousa sobre mesa ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Um menino e uma menina do primeiro século conversam com adulto atento em pátio, todos escutam sem interromper, espelho antigo de metal repousa sobre mesa ao lado."
+    },
+    {
+      "role": "part1",
+      "alt": "Dois jovens antigos conversam sentados à sombra, um escuta com expressão atenta e mãos tranquilas, ambiente seguro e sem conflito.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Dois jovens antigos conversam sentados à sombra, um escuta com expressão atenta e mãos tranquilas, ambiente seguro e sem conflito."
+    },
+    {
+      "role": "part2",
+      "alt": "Uma criança observa o rosto num pequeno espelho de bronze com adulto por perto, luz de janela, metáfora visual do ensino de Tiago.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Uma criança observa o rosto num pequeno espelho de bronze com adulto por perto, luz de janela, metáfora visual do ensino de Tiago."
+    },
+    {
+      "role": "part3",
+      "alt": "Família ajuda uma viúva idosa a organizar mantimentos em casa antiga, gestos respeitosos e dignos, imagem de ouvir transformado em ação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible series for ages 6–12. Match the reference’s highly detailed cinematic 3D storybook style, expressive warm faces, rich woven linen and wood textures, delicate golden light, depth and natural colors. Landscape 3:2, 1536x1024. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Fully clothed people. This is an artistic illustration of an epistle teaching, not documentation of an extra Biblical event.  Scene: Família ajuda uma viúva idosa a organizar mantimentos em casa antiga, gestos respeitosos e dignos, imagem de ouvir transformado em ação."
+    }
+  ],
+  "sources": [
+    "https://www.bible.com/bible/1/JAS.1.KJV"
+  ]
+}

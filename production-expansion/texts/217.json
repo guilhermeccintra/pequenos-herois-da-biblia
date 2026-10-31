@@ -1,0 +1,74 @@
+{
+  "id": 217,
+  "title": "Isaías e o Chamado no Templo",
+  "subtitle": "Um coração disposto a responder",
+  "reference": "Isaías 6",
+  "description": "Numa visão cheia de reverência, Isaías recebe perdão e se oferece para levar a mensagem do Senhor.",
+  "testament": "antigo",
+  "cover": "/images/covers/217.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visão de grandeza",
+      "paragraphs": [
+        "No ano em que o rei Uzias morreu, Isaías recebeu uma visão que marcou sua vida. Ele viu o Senhor num trono alto, e a grandeza de sua presença enchia o templo. Era uma experiência de profunda reverência. Tudo ao redor parecia anunciar que Isaías estava diante de uma santidade imensa.",
+        "Na visão havia seres celestiais chamados serafins. Cada um tinha seis asas, usadas para cobrir o rosto, cobrir os pés e voar. Eles proclamavam a santidade do Senhor e a glória que enchia toda a terra. O anúncio ecoava, os umbrais estremeciam e uma nuvem de fumaça preenchia o lugar.",
+        "Isaías percebeu a distância entre aquela santidade e suas próprias falhas. Reconheceu que seus lábios eram impuros e que vivia entre um povo que também precisava de transformação. Diante da visão, seu coração se encheu de temor. Ele apresentou com sinceridade aquilo que descobria a respeito de si mesmo."
+      ],
+      "image": "217/part1.webp",
+      "alt": "Serafins aparecem na visão de Isaías"
+    },
+    {
+      "heading": "Perdão para um novo começo",
+      "paragraphs": [
+        "Então um dos serafins voou até Isaías. Trazia uma brasa retirada do altar com uma tenaz. Na visão, tocou os lábios do profeta e anunciou que sua culpa havia sido afastada e seu pecado perdoado. Aquele sinal de purificação trouxe uma resposta à preocupação que Isaías acabara de confessar.",
+        "O encontro passou pela verdade e pelo perdão. Isaías reconheceu sua necessidade, e a mensagem recebida abriu diante dele um novo começo. Seus lábios, antes lembrados com vergonha, fariam parte de uma missão. O profeta seria chamado a falar ao povo aquilo que o Senhor lhe confiaria.",
+        "Esse momento ajuda a perceber como a disposição de servir pode nascer da humildade. Isaías precisou receber antes de oferecer. O perdão alcançou sua vida e preparou seu coração para escutar. No meio da grandeza da visão, houve um cuidado dirigido pessoalmente a ele, com sua fragilidade e sua história."
+      ],
+      "image": "217/part2.webp",
+      "alt": "Isaías recebe com serenidade o sinal de purificação"
+    },
+    {
+      "heading": "Um sim cheio de disposição",
+      "paragraphs": [
+        "Isaías ouviu então a voz do Senhor perguntando quem seria enviado. O profeta respondeu oferecendo sua própria vida para a missão. Seu coração, que havia tremido diante da santidade, agora estava disposto a servir. A resposta foi simples e corajosa: ele estava ali e aceitava ser enviado para falar.",
+        "A tarefa seria difícil. O povo nem sempre escutaria com atenção, e a mensagem incluía advertências sobre as consequências de suas escolhas. Isaías perguntou por quanto tempo isso aconteceria. A resposta descreveu dias duros e terminou com a imagem de um tronco que permanece, guardando uma semente de esperança.",
+        "O chamado no templo acompanharia o caminho do profeta. Ele teria palavras importantes para anunciar, mesmo diante de resistência. Sua história nos convida a ouvir com humildade, receber o perdão e oferecer disposição para fazer o bem. Um coração atento pode responder ao cuidado de Deus com um passo corajoso de serviço."
+      ],
+      "image": "217/part3.webp",
+      "alt": "Isaías se levanta com disposição para sua missão"
+    }
+  ],
+  "lesson": "Isaías reconheceu suas falhas, recebeu perdão e se dispôs a servir. Podemos aprender com essa abertura do coração. Quando percebemos um erro, temos a oportunidade de confessar, reparar e recomeçar. Quando alguém precisa de ajuda, podemos oferecer aquilo que está ao nosso alcance. A disposição para o bem cresce quando escutamos com humildade e confiamos diariamente no cuidado de Deus.",
+  "question": "Que pequena oportunidade de servir você pode acolher com disposição hoje?",
+  "prayer": "Senhor, ensina-me a reconhecer meus erros e a receber teu perdão com gratidão. Prepara minhas palavras para levar verdade e bondade. Dá-me um coração atento e disposto a ajudar, para que eu responda ao teu cuidado com coragem e amor. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/ISA06.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Isaías contempla uma luz intensa no templo de sua visão",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Isaiah kneeling in a majestic ancient temple vision, columns fading into soft luminous mist, radiant light beyond frame suggesting holy presence without depicting God or a human-shaped deity, reverent hopeful expression, warm cinematic atmosphere. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    },
+    {
+      "role": "part1",
+      "alt": "Serafins aparecem na visão de Isaías",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Isaiah seen from behind in ancient temple vision, two graceful luminous seraphim high above with six feathered wings each, two covering faces, two covering lower bodies, two extended, soft sacred radiance, no visible God, no terrifying imagery. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    },
+    {
+      "role": "part2",
+      "alt": "Isaías recebe com serenidade o sinal de purificação",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Symbolic gentle vision scene: Isaiah kneeling with relieved expression as one six-winged seraph hovers nearby holding long small tongs with a softly glowing ember above an altar, ember not touching skin, no burns or injury, warm mist, no visible deity. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    },
+    {
+      "role": "part3",
+      "alt": "Isaías se levanta com disposição para sua missão",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Isaiah standing at ancient temple threshold with open willing hands and resolute gentle face, soft radiant morning light behind him, Jerusalem distant beyond doorway, blank scroll at side, no deity or text. Isaiah is a middle-aged olive-skinned Hebrew prophet with wavy dark hair, full beard streaked gray, cream tunic and deep green shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

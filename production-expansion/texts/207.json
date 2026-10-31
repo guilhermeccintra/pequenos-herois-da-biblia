@@ -1,0 +1,74 @@
+{
+  "id": 207,
+  "title": "O Socorro Vem do Senhor",
+  "subtitle": "Uma canção para quem caminha",
+  "reference": "Salmo 121",
+  "description": "Ao olhar para os montes, o salmista se lembra de quem criou o céu e a terra e confia em seu cuidado.",
+  "testament": "antigo",
+  "cover": "/images/covers/207.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Olhos voltados para os montes",
+      "paragraphs": [
+        "O Salmo 121 pertence a um grupo chamado Cânticos de Romagem. Suas palavras acompanham a ideia de caminhar e procurar a presença de Deus. O poema começa com alguém levantando os olhos para os montes. Diante daquela paisagem, surge uma pergunta importante: de onde virá a ajuda de que precisa?",
+        "A resposta é firme e cheia de confiança: o socorro vem do Senhor, que fez o céu e a terra. Os montes podem parecer imensos, mas o olhar do salmista vai além deles. Ele se lembra do Criador e encontra nessa lembrança uma companhia para enfrentar o caminho que está diante de si.",
+        "Podemos imaginar o valor dessas palavras para uma pessoa em viagem. Há trechos conhecidos, curvas novas e momentos de cansaço. A canção reúne a grandeza do mundo e a necessidade de um viajante. Quem criou tantas maravilhas também pode ouvir uma oração pequena, feita enquanto alguém dá o próximo passo."
+      ],
+      "image": "207/part1.webp",
+      "alt": "Montanhas se erguem sob um céu luminoso"
+    },
+    {
+      "heading": "Um cuidado que permanece",
+      "paragraphs": [
+        "O salmo apresenta Deus como aquele que guarda Israel. Sua atenção permanece acordada. Enquanto as pessoas precisam dormir e recuperar as forças, o cuidado do Senhor continua. Essa imagem oferece descanso ao coração de quem canta, lembrando que a confiança pode acompanhar tanto as horas movimentadas quanto o silêncio da noite.",
+        "Outra comparação aparece logo depois: o Senhor é como sombra perto do viajante. Quem já caminhou sob um sol forte conhece o alívio de encontrar abrigo. O poema usa essa experiência simples para falar de proximidade. A proteção desejada é apresentada como companhia atenta, junto de quem percorre a estrada.",
+        "O dia e a noite entram na canção por meio das imagens do sol e da lua. Juntos, eles lembram a passagem do tempo. Em cada parte desse tempo, o salmista entrega sua vida a Deus. A oração envolve o corpo cansado, os pensamentos preocupados e a esperança de continuar."
+      ],
+      "image": "207/part2.webp",
+      "alt": "Viajantes descansam sob a sombra de uma árvore"
+    },
+    {
+      "heading": "Na saída e na chegada",
+      "paragraphs": [
+        "A última parte do salmo fala de sair e de entrar. São dois movimentos comuns que podem representar toda uma vida: partir para uma tarefa, voltar para casa, começar uma etapa e encontrar um lugar para descansar. O poeta deseja que o cuidado do Senhor acompanhe cada um desses momentos.",
+        "Essa confiança nos encoraja a buscar ajuda e a cuidar do caminho. Viajar acompanhado, escutar uma orientação e receber apoio também podem fazer parte da experiência de ser guardado. Quando os passos ficam difíceis, podemos apresentar a preocupação em oração e procurar as mãos que estão disponíveis para nos ajudar.",
+        "A canção termina com um horizonte amplo: o cuidado é desejado para agora e para sempre. Sua mensagem pode seguir conosco ao sair de casa, chegar à escola ou enfrentar uma mudança. Levantar os olhos, lembrar o Criador e pedir companhia são pequenos gestos que dão voz à esperança do coração."
+      ],
+      "image": "207/part3.webp",
+      "alt": "Uma família chega a uma casa acolhedora ao anoitecer"
+    }
+  ],
+  "lesson": "O Salmo 121 nos ensina a procurar o Senhor quando precisamos de ajuda. Podemos confiar nele durante uma viagem e também numa mudança pequena do dia. Essa confiança combina com receber orientação, caminhar acompanhado e cuidar uns dos outros. Antes de sair para uma atividade, faça uma oração simples e agradeça pelas pessoas que ajudam a tornar seu caminho mais seguro.",
+  "question": "Quem acompanha você nos caminhos do dia, e como pode agradecer por esse cuidado?",
+  "prayer": "Senhor, acompanha minha saída e minha chegada. Obrigado pelas pessoas que cuidam de mim e me ajudam a caminhar. Dá-me atenção para escutar boas orientações e coragem para pedir ajuda. Que eu também seja uma companhia cuidadosa para alguém. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/PSA121.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma família de viajantes contempla as montanhas",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Poetic illustration of Psalm 121: ordinary ancient Hebrew family with two children pausing on a safe broad trail, looking toward magnificent Judean mountains at sunrise, staffs and travel bundles, warm hopeful faces, no visible deity. "
+    },
+    {
+      "role": "part1",
+      "alt": "Montanhas se erguem sob um céu luminoso",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Wide poetic landscape of layered Judean mountains beneath immense radiant dawn sky, narrow distant winding road and olive trees, rich stone and grass details, no people. "
+    },
+    {
+      "role": "part2",
+      "alt": "Viajantes descansam sob a sombra de uma árvore",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family of four resting in cool shade beneath a large olive tree beside a broad travel path, drinking water from clay cups, bright sunlit hills beyond, caring restful atmosphere. "
+    },
+    {
+      "role": "part3",
+      "alt": "Uma família chega a uma casa acolhedora ao anoitecer",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ordinary ancient Hebrew family with two children arriving at a stone home doorway at dusk, grandmother welcoming them warmly, small travel bundles, lamp glowing inside, deep blue sky, no modern objects. "
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

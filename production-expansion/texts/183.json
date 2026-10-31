@@ -1,0 +1,74 @@
+{
+  "id": 183,
+  "title": "Trabalho e Atenção",
+  "subtitle": "Cuidar uns dos outros durante a obra",
+  "reference": "Neemias 4",
+  "description": "A reconstrução das muralhas enfrenta zombaria e ameaças. Neemias reúne oração, organização e proteção para que o povo continue trabalhando.",
+  "testament": "antigo",
+  "cover": "/images/covers/183.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Palavras que tentam desanimar",
+      "paragraphs": [
+        "As muralhas de Jerusalém começavam a crescer, e isso deixou Sambalate muito zangado. Ele zombou dos trabalhadores diante de outras pessoas. Perguntou se conseguiriam transformar montes de pedras queimadas numa construção de verdade. Tobias também fez uma provocação: disse que até uma raposa poderia derrubar o muro que estavam levantando.",
+        "Aquelas palavras tentavam fazer o povo se sentir fraco e incapaz. Neemias levou a situação a Deus em oração. Enquanto enfrentavam o desprezo, os moradores continuaram trabalhando, e os trechos da muralha se uniram até a metade da altura. O relato destaca a disposição do povo para a tarefa. A zombaria não decidiu o resultado daquele esforço.",
+        "Quando os adversários perceberam que as brechas estavam sendo fechadas, a oposição ficou mais séria. Combinaram atacar Jerusalém e causar confusão. Agora não se tratava apenas de comentários desagradáveis. Havia uma ameaça à segurança da comunidade, e o trabalho precisava ser acompanhado de medidas que protegessem as pessoas."
+      ],
+      "image": "183/part1.webp",
+      "alt": "Os trabalhadores continuam erguendo a muralha apesar das provocações."
+    },
+    {
+      "heading": "Oração e proteção",
+      "paragraphs": [
+        "Neemias conta que o povo orou a Deus e colocou guardas de dia e de noite. As duas atitudes aparecem juntas. Eles não fingiram que o perigo não existia, nem acharam que a oração tornava desnecessário prestar atenção. O cuidado com a cidade precisava incluir os que carregavam materiais, os construtores e suas famílias.",
+        "Os trabalhadores também estavam cansados. Havia muito entulho, e carregar peso era uma tarefa difícil. Chegaram avisos de moradores próximos sobre o risco de ataque. Neemias organizou pessoas nos pontos mais baixos e abertos da muralha. Pediu que se lembrassem do Senhor e da importância de proteger irmãos, filhos, filhas, esposas e casas.",
+        "Quando os inimigos souberam que seu plano havia sido descoberto, o ataque planejado não aconteceu daquela forma. Os trabalhadores voltaram às suas tarefas. Mesmo assim, a vigilância continuou. Parte dos homens trabalhava, enquanto outra parte fazia a guarda. Era uma situação de perigo própria daquele tempo, que exigia proteção organizada pelos adultos."
+      ],
+      "image": "183/part2.webp",
+      "alt": "Parte dos adultos trabalha enquanto outros vigiam a cidade."
+    },
+    {
+      "heading": "Um som para reunir",
+      "paragraphs": [
+        "A obra se espalhava por uma área grande. Os grupos ficavam distantes uns dos outros, e Neemias percebeu que precisavam de um modo de se reunir rapidamente. O homem responsável pela trombeta permaneceu perto dele. Se o instrumento soasse, todos deveriam ir ao lugar de onde vinha o som. A comunicação fazia parte da segurança.",
+        "Os dias eram longos, do começo da manhã até o aparecimento das estrelas. Neemias orientou que trabalhadores e ajudantes permanecessem em Jerusalém, contribuindo para a vigilância à noite e para a obra durante o dia. O relato mostra o esforço da comunidade num período difícil, sem apresentar a ameaça como uma brincadeira ou uma aventura sem consequências.",
+        "A muralha continuou crescendo porque o povo encontrou formas de trabalhar e cuidar uns dos outros. Houve oração, coragem, cansaço, avisos e organização. A confiança em Deus não apagou a necessidade de proteção. Naquela etapa, perseverar significava manter a tarefa em andamento enquanto pessoas responsáveis prestavam atenção ao bem de toda a comunidade."
+      ],
+      "image": "183/part3.webp",
+      "alt": "O homem da trombeta permanece ao lado de Neemias para avisar os grupos."
+    }
+  ],
+  "lesson": "Diante de zombaria ou ameaça, não precisamos enfrentar tudo sozinhos. Podemos contar a um adulto de confiança e buscar proteção. Coragem não exige entrar em brigas ou se aproximar de um perigo. Também podemos combinar maneiras de pedir ajuda e prestar atenção às orientações de segurança. Numa tarefa difícil, cuidar das pessoas vale tanto quanto terminar o trabalho que começamos juntos.",
+  "question": "Que combinado ajuda você e sua família a pedir ajuda quando acontece algum problema?",
+  "prayer": "Deus, protege quem está enfrentando ameaças e dificuldades. Dá-nos coragem para pedir ajuda e sabedoria para seguir orientações seguras. Abençoa as pessoas que cuidam da comunidade. Ensina-nos a trabalhar juntos sem esquecer o descanso, o respeito e a proteção de cada pessoa. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/NEH04.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Neemias organiza a comunicação e o cuidado durante a reconstrução.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah beside an adult trumpet bearer overlooks ancient wall workers and peaceful guards, no fighting, warm morning light, organized safe construction and watchful concern. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    },
+    {
+      "role": "part1",
+      "alt": "Os trabalhadores continuam erguendo a muralha apesar das provocações.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Adult ancient Judean workers carefully place stone blocks in half-height wall, two distant disapproving onlookers stand far away, focus on determined constructive teamwork, no conflict or violence. "
+    },
+    {
+      "role": "part2",
+      "alt": "Parte dos adultos trabalha enquanto outros vigiam a cidade.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Ancient Jerusalem construction area where adult builders work and a few adult guards stand watch at a distance with lowered sheathed equipment, calm protective posture, no weapons near children. "
+    },
+    {
+      "role": "part3",
+      "alt": "O homem da trombeta permanece ao lado de Neemias para avisar os grupos.",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Nehemiah speaks with an adult trumpet bearer holding a long ancient horn beside a wall walkway, distant workers visible in separated groups, attentive expressions, sunset light. Nehemiah has olive brown skin, expressive dark eyes, neatly trimmed black beard, ivory tunic and muted burgundy mantle."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

@@ -1,3 +1,5 @@
+> Registro histórico do planejamento da edição original. A edição atual contém 365 histórias; consulte `docs/AMPLIACAO-365.md` para escopo e verificação da ampliação.
+
 # Pequenos Heróis — projeto
 O objetivo é vender acesso a uma biblioteca bíblica infantil ilustrada e proporcionar leitura em família dentro do aplicativo. A coleção existente contém40histórias e160ilustrações. Pais/responsáveis administram contas e assinatura. Escolhas do implementador: marca inicial Pequenos Heróis, frontend HTML/CSS/JS com Vite, backend Vercel Functions, Supabase e Stripe. O conteúdo pago fica no banco/Storage privado; uma história é amostra aberta.
 

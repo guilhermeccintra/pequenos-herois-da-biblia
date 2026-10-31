@@ -1,3 +1,4 @@
+import { LIBRARY_PAGE_SIZE } from "../shared/collection.mjs";
 import "./styles.css";
 import { createAccountRefresher } from "./account-state.js";
 import { icon, brand } from "./icons.js";
@@ -45,6 +46,7 @@ const state = {
 let renderVersion = 0,
   toastTimer,
   authBusy = false,
+  visibleStories = LIBRARY_PAGE_SIZE,
   filters = { query: "", testament: "todos", favorites: false };
 function toast(message) {
   const el = document.querySelector("#toast");
@@ -66,7 +68,7 @@ function shell(content) {
     content +
     footer() +
     (demo
-      ? '<div class="demo-bar">Prévia local · 40 histórias abertas para testar · Nenhuma cobrança real</div>'
+      ? `<div class="demo-bar">Prévia local · ${state.catalog.length} histórias abertas para testar · Nenhuma cobrança real</div>`
       : "");
 }
 function navigate(url) {
@@ -98,6 +100,7 @@ async function render() {
     document.title = "Pequenos Heróis — Histórias que ficam. Fé que cresce.";
   } else if (route === "/biblioteca") {
     filters = { query: "", testament: "todos", favorites: false };
+    visibleStories = LIBRARY_PAGE_SIZE;
     content = library(state);
     document.title = "Biblioteca de histórias — Pequenos Heróis";
   } else if (/^\/historia\/\d+$/.test(route)) {
@@ -160,7 +163,8 @@ async function render() {
 function notFound() {
   return '<main id="main" class="error-page container" tabindex="-1"><h1>Essa página saiu para uma aventura.</h1><p>Encontre sua próxima história na biblioteca.</p><a class="button primary" href="/biblioteca" data-link>Abrir biblioteca</a></main>';
 }
-function updateGrid() {
+function updateGrid({ reset = true } = {}) {
+  if (reset) visibleStories = LIBRARY_PAGE_SIZE;
   const stories = filterStories(state.catalog, {
     ...filters,
     progress: state.progress,
@@ -168,8 +172,10 @@ function updateGrid() {
   document.querySelector("#results-count").textContent =
     `${stories.length} ${stories.length === 1 ? "história encontrada" : "histórias encontradas"}`;
   document.querySelector("#story-grid").innerHTML = stories.length
-    ? stories.map((s) => storyCard(s, state)).join("")
+    ? stories.slice(0, visibleStories).map((s) => storyCard(s, state)).join("")
     : `<div class="empty-state">${icon(filters.favorites ? "heart" : "search")}<h2>${filters.favorites ? "Suas favoritas vão morar aqui." : "Nenhuma história encontrada."}</h2><p>${filters.favorites ? "Toque no coração de uma história para guardar para depois." : "Tente outro nome ou remova os filtros."}</p><button id="clear-filters" class="button outline">Ver todas as histórias</button></div>`;
+  const more = document.querySelector("#library-more");
+  if (more) more.hidden = stories.length <= visibleStories;
 }
 async function persist(storyId) {
   try {
@@ -464,6 +470,13 @@ document.addEventListener("click", async (event) => {
     return updateGrid();
   }
   switch (button.id) {
+    case "load-more-stories": {
+      const firstNew = visibleStories;
+      visibleStories += LIBRARY_PAGE_SIZE;
+      updateGrid({ reset: false });
+      document.querySelectorAll("#story-grid .story-image")[firstNew]?.focus({ preventScroll: true });
+      break;
+    }
     case "reload-app":
       location.reload();
       break;

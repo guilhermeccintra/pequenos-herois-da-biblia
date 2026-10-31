@@ -1,0 +1,71 @@
+{
+  "id": 164,
+  "title": "Boas Notícias Precisam Ser Repartidas",
+  "subtitle": "Quatro homens pensam na cidade",
+  "reference": "2 Reis 7:1–16",
+  "description": "Quatro homens encontram alimento num acampamento abandonado. Primeiro pensam em guardar tudo, mas percebem que a cidade faminta precisa saber da descoberta.",
+  "testament": "antigo",
+  "cover": "/images/covers/164.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Fome dentro e fora das muralhas",
+      "paragraphs": [
+        "Samaria estava cercada pelos sírios e enfrentava uma fome terrível. Eliseu anunciou que, no dia seguinte, haveria alimento em abundância à porta da cidade. A promessa parecia impossível diante da situação. Um oficial duvidou. Enquanto a comunidade tentava sobreviver, quatro homens com uma doença de pele viviam à entrada, afastados conforme os costumes daquele tempo.",
+        "Eles conversaram sobre suas possibilidades. Se entrassem na cidade, encontrariam fome; se permanecessem ali, também não teriam alimento. Decidiram ir até o acampamento sírio. Talvez recebessem alguma ajuda. Olharam para o caminho que saía das muralhas e partiram juntos. Não sabiam o que encontrariam, mas já não podiam ficar esperando que a comida aparecesse à porta.",
+        "Ao entardecer, os quatro se aproximaram do acampamento. Para sua surpresa, não havia ninguém. O Senhor fizera os sírios ouvir um grande barulho de carros, cavalos e exército. Eles pensaram que forças aliadas de Israel chegavam para atacá-los e fugiram, deixando tendas, animais, alimentos e objetos para trás. O lugar temido estava vazio."
+      ],
+      "image": "164/part1.webp",
+      "alt": "Os quatro conversam perto da porta da cidade ao entardecer, decidindo procurar ajuda."
+    },
+    {
+      "heading": "Comer e esconder",
+      "paragraphs": [
+        "Os quatro homens entraram numa tenda, comeram e beberam. Depois de tanta necessidade, encontraram alimento ao alcance das mãos. Também pegaram prata, ouro e roupas e foram esconder. Voltaram a outra tenda e fizeram o mesmo. A descoberta, no começo, foi tratada como uma oportunidade para guardar recursos que poderiam garantir seu próprio futuro.",
+        "Mas então pararam para pensar. Disseram uns aos outros que não estavam agindo bem. Aquele era um dia de boas notícias, e permaneciam calados enquanto a cidade continuava sofrendo. Se esperassem até a manhã, teriam deixado pessoas sem saber que havia comida disponível. A alegria descoberta precisava alcançar quem ainda estava atrás das muralhas.",
+        "Decidiram voltar e avisar. A mudança não exigiu que negassem sua própria fome ou deixassem de comer. Exigiu que reconhecessem a necessidade dos outros. Pessoas tratadas como marginais pela comunidade agora tinham uma informação capaz de ajudar toda a cidade. Sua voz precisava atravessar a porta e chegar aos responsáveis pela segurança de Samaria."
+      ],
+      "image": "164/part2.webp",
+      "alt": "Os homens encontram tendas vazias com cestos de alimento e água, em um acampamento tranquilo."
+    },
+    {
+      "heading": "A notícia é verificada",
+      "paragraphs": [
+        "Eles chamaram os porteiros e contaram o que haviam visto: o acampamento vazio, os animais presos e as tendas como antes. A notícia chegou ao palácio durante a noite. O rei desconfiou que fosse uma armadilha. Imaginou que os sírios estivessem escondidos, esperando que os moradores saíssem para então tomar a cidade.",
+        "Um dos servos sugeriu enviar alguns homens para verificar. Eles seguiram o caminho deixado pelos sírios e encontraram roupas e objetos abandonados na fuga. Voltaram com a confirmação. A informação trazida pelos quatro homens foi levada a sério e também conferida antes de uma decisão coletiva. Cuidado e esperança puderam caminhar juntos.",
+        "O povo saiu e encontrou alimento no acampamento. A abundância anunciada por Eliseu se tornou realidade. A história guarda a importância de quatro pessoas que poderiam ter continuado escondendo sua descoberta, mas escolheram compartilhar a notícia. O cuidado com a cidade começou quando disseram a si mesmas que não era certo permanecer em silêncio diante de uma possibilidade de sustento para todos."
+      ],
+      "image": "164/part3.webp",
+      "alt": "Moradores compartilham alimento depois de verificar a notícia, numa cena de alívio e cooperação."
+    }
+  ],
+  "lesson": "Uma boa descoberta pode ajudar outras pessoas quando é compartilhada com responsabilidade. Os quatro homens primeiro guardaram coisas para si, mas depois pensaram na cidade. Podemos avisar sobre uma oportunidade de ajuda, dividir informações úteis e incluir quem precisa. Também é importante verificar notícias antes de espalhá-las. Pessoas que costumam ser deixadas de lado têm voz e contribuição; sua dignidade não depende da posição que ocupam na comunidade.",
+  "question": "Que informação útil você pode compartilhar para ajudar alguém, depois de conferir se ela é verdadeira?",
+  "prayer": "Deus, ajuda-nos a pensar em quem ainda precisa receber boas notícias e apoio. Ensina-nos a repartir informações com responsabilidade, verificar o que ouvimos e respeitar as pessoas que costumam ser excluídas. Que nossa alegria nos torne mais atentos às necessidades dos outros. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/2_Kings"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Quatro homens avisam aos porteiros de Samaria sobre o alimento encontrado, com expressões de esperança.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Four adult men diverse olive/brown skin, simple worn but clean earth robes, respectful dignified faces, no visible disease or distressing symptoms. Ancient empty camp food baskets clay water jars and city gate at twilight. Only scene cast. Scene: Quatro homens avisam aos porteiros de Samaria sobre o alimento encontrado, com expressões de esperança."
+    },
+    {
+      "role": "part1",
+      "alt": "Os quatro conversam perto da porta da cidade ao entardecer, decidindo procurar ajuda.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Four adult men diverse olive/brown skin, simple worn but clean earth robes, respectful dignified faces, no visible disease or distressing symptoms. Ancient empty camp food baskets clay water jars and city gate at twilight. Only scene cast. Scene: Os quatro conversam perto da porta da cidade ao entardecer, decidindo procurar ajuda. MANDATORY SCENE CAST: Exactly four adult men near the closed city gate. No king, no prophet, no children. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part2",
+      "alt": "Os homens encontram tendas vazias com cestos de alimento e água, em um acampamento tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Four adult men diverse olive/brown skin, simple worn but clean earth robes, respectful dignified faces, no visible disease or distressing symptoms. Ancient empty camp food baskets clay water jars and city gate at twilight. Only scene cast. Scene: Os homens encontram tendas vazias com cestos de alimento e água, em um acampamento tranquilo. MANDATORY SCENE CAST: Exactly four adult men in an otherwise deserted camp. No soldiers, no king, no prophet, no other people. Reference provides rendering style only; do not copy its complete cast."
+    },
+    {
+      "role": "part3",
+      "alt": "Moradores compartilham alimento depois de verificar a notícia, numa cena de alívio e cooperação.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Four adult men diverse olive/brown skin, simple worn but clean earth robes, respectful dignified faces, no visible disease or distressing symptoms. Ancient empty camp food baskets clay water jars and city gate at twilight. Only scene cast. Scene: Moradores compartilham alimento depois de verificar a notícia, numa cena de alívio e cooperação."
+    }
+  ]
+}

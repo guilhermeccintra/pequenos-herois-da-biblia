@@ -1,0 +1,71 @@
+{
+  "id": 265,
+  "title": "A Coragem de uma Mãe",
+  "subtitle": "Um pedido que atravessa diferenças",
+  "reference": "Marcos 7:24–30",
+  "description": "Uma mulher de outra região procura Jesus para pedir ajuda por sua filha. Sua resposta confiante abre um encontro de cuidado que supera fronteiras.",
+  "sources": [
+    "https://www.bible.com/bible/1/MRK.7.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma mãe procura Jesus",
+      "paragraphs": [
+        "Jesus foi para a região de Tiro e entrou numa casa. Desejava que ninguém soubesse de sua presença, mas não conseguiu permanecer escondido. Uma mulher ouviu falar dele e se aproximou. Sua filha pequena sofria sob o poder de um espírito mau, e ela procurava ajuda para a criança que amava.",
+        "A mulher era grega, de origem siro-fenícia. Não pertencia ao povo de Israel, para o qual Jesus dirigia primeiramente sua missão. Essa diferença fazia parte do encontro e seria importante na conversa. Ainda assim, ela veio, lançou-se aos pés dele e pediu que libertasse sua filha. Sua necessidade atravessava a distância entre os povos.",
+        "A mãe se lançou aos pés de Jesus e pediu ajuda para sua filha. Havia deixado a menina em casa e procurado aquele de quem ouvira falar. Sua necessidade a levara até ali, diante do Mestre. O pedido carregava a urgência de quem ama e deseja ver alguém querido livre do sofrimento que estava enfrentando."
+      ],
+      "alt": "Uma mãe se aproxima de Jesus para pedir ajuda por sua filha.",
+      "image": "265/part1.webp"
+    },
+    {
+      "heading": "Uma resposta cheia de confiança",
+      "paragraphs": [
+        "Jesus respondeu com uma comparação sobre uma mesa de família. Disse que primeiro os filhos deveriam ser alimentados, pois não era adequado tirar o pão deles para dá-lo aos cachorrinhos. A imagem falava da ordem de sua missão, que começava por Israel. Era uma resposta difícil, e a mulher continuou a conversa a partir dela.",
+        "Ela concordou com a imagem, mas acrescentou que os cachorrinhos debaixo da mesa também comem as migalhas que caem das crianças. Sua resposta não exigia retirar o cuidado de ninguém. Mostrava confiança de que havia, na generosidade de Jesus, o suficiente para alcançar sua filha. Mesmo o que parecia pequeno em suas mãos poderia fazer diferença.",
+        "Jesus reconheceu sua resposta e disse que ela poderia voltar para casa, porque o espírito mau já havia saído da menina. A conversa terminou com uma palavra de libertação. A mãe estrangeira foi ouvida, e o cuidado alcançou sua família. A diferença de origem não impediu que sua confiança recebesse uma resposta."
+      ],
+      "alt": "A mulher responde a Jesus com confiança e humildade.",
+      "image": "265/part2.webp"
+    },
+    {
+      "heading": "A volta para casa",
+      "paragraphs": [
+        "A mulher saiu e voltou para casa. Encontrou a filha deitada na cama, livre do espírito mau. O que Jesus havia dito se confirmava naquele lugar, mesmo sem ter ido fisicamente até a menina. A mãe pôde reencontrá-la em paz. Seu pedido havia sido feito numa casa, e a resposta alcançara outra.",
+        "O relato não transforma a mulher numa pessoa que venceu uma disputa para provar superioridade. Mostra sua confiança na misericórdia de Jesus e sua persistência em favor da filha. A imagem das migalhas expressou a esperança de receber cuidado sem negar o lugar dos outros. A generosidade que buscava não precisava ser pequena só porque vinha de fora.",
+        "Essa história pode trazer perguntas, e vale conversá-las em família com respeito. O resultado do encontro é claro: uma mãe estrangeira foi recebida, sua filha foi libertada e a palavra de Jesus trouxe paz à casa. Nenhum povo deve usar essa passagem para humilhar outro. A misericórdia atravessou a fronteira que parecia separar aquelas vidas."
+      ],
+      "alt": "A mãe reencontra a filha em paz dentro de casa.",
+      "image": "265/part3.webp"
+    }
+  ],
+  "lesson": "Quando alguém de outro lugar pede ajuda, sua necessidade merece respeito. Não devemos usar diferenças de origem, língua ou costumes para humilhar. A mulher da história procurou cuidado por sua filha e respondeu com confiança. Podemos aprender a pedir ajuda com clareza e a acolher quem chega à nossa comunidade, lembrando que o amor não diminui quando alcança mais pessoas e mais famílias.",
+  "question": "Que atitude pode ajudar uma família de outro lugar a se sentir acolhida perto de você?",
+  "prayer": "Jesus, ajuda-nos a receber com respeito quem vem de outros lugares. Cuida das famílias que procuram ajuda para seus filhos. Que nossa comunidade tenha espaço para acolher, ouvir e oferecer apoio, sem desprezar ninguém por sua origem ou por suas diferenças. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/265.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Uma mãe abraça sua filha em um reencontro tranquilo.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Wholesome first-century family reunion: one adult Syrophoenician mother with olive skin, dark hair under ochre veil and deep teal modest linen dress sits beside her seven-year-old daughter with dark curls and modest cream dress. Both smile joyfully at each other beside a low wooden table in a sunlit ancient home. Mother rests her hand gently on the child’s shoulder. Two fully clothed people, everyday peaceful family scene, no supernatural or frightening imagery, no Jesus in this illustration."
+    },
+    {
+      "role": "part1",
+      "alt": "Uma mãe se aproxima de Jesus para pedir ajuda por sua filha.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult woman ochre veil deep teal dress earnestly asks Jesus with warm olive skin, shoulder-length wavy dark hair and short dark beard, cream tunic and terracotta mantle for help in modest stone house near Tyre, compassionate respectful faces, no child visible, no demons."
+    },
+    {
+      "role": "part2",
+      "alt": "A mulher responde a Jesus com confiança e humildade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult woman ochre veil deep teal dress calmly speaks with open hand to Jesus with warm olive skin, shoulder-length wavy dark hair and short dark beard, cream tunic and terracotta mantle beside low table with bread, Jesus listens attentively, dignified conversation, no animals needed."
+    },
+    {
+      "role": "part3",
+      "alt": "A mãe reencontra a filha em paz dentro de casa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Mother ochre veil deep teal dress sits beside healthy daughter seven dark curls modest cream dress resting comfortably on bed, both smiling with relief, warm sunlight through window, safe family scene no illness depiction."
+    }
+  ]
+}

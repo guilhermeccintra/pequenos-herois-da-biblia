@@ -1,0 +1,74 @@
+{
+  "id": 221,
+  "title": "Jeremias na Casa do Oleiro",
+  "subtitle": "O barro e a oportunidade de mudar",
+  "reference": "Jeremias 18:1–12",
+  "description": "Ao observar um oleiro refazer seu vaso, Jeremias recebe uma mensagem sobre escuta, mudança e recomeço.",
+  "testament": "antigo",
+  "cover": "/images/covers/221.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma visita para aprender",
+      "paragraphs": [
+        "Um dia, o Senhor deu a Jeremias uma orientação diferente: ele deveria descer até a casa de um oleiro. Ali receberia uma mensagem. O profeta foi ao lugar indicado e encontrou o artesão trabalhando. O barro estava sobre a roda, e as mãos do homem davam forma àquilo que seria um vaso.",
+        "O trabalho exigia atenção. A roda girava enquanto o oleiro ajustava a massa e acompanhava o formato que surgia. Jeremias observava uma tarefa comum, realizada por alguém que conhecia seu ofício. Nessa oficina, entre barro e movimento, o profeta aprenderia algo importante para transmitir ao povo de Judá.",
+        "A visita mostra uma maneira bonita de prestar atenção à vida. Jeremias tinha sido chamado a escutar a palavra do Senhor, mas também precisou olhar com cuidado. O ensinamento chegaria por meio de algo que podia ser visto. Um trabalho cotidiano se tornaria uma imagem capaz de alcançar a compreensão de muitas pessoas."
+      ],
+      "image": "221/part1.webp",
+      "alt": "Jeremias chega à oficina do oleiro"
+    },
+    {
+      "heading": "O vaso é refeito",
+      "paragraphs": [
+        "Enquanto o oleiro trabalhava, o vaso que estava formando se estragou em suas mãos. O artesão então tornou a trabalhar o mesmo barro. Fez dele outro vaso, dando a forma que lhe pareceu adequada. Jeremias acompanhou essa mudança: a dificuldade no primeiro formato abriu espaço para um novo trabalho.",
+        "Foi nesse momento que o Senhor explicou a imagem. O povo de Israel estava em suas mãos como o barro nas mãos do oleiro. A mensagem falava de nações e de escolhas. Deus chamava o povo a abandonar a maldade, ouvir sua orientação e permitir que o caminho fosse transformado.",
+        "O Senhor explicou que o arrependimento fazia diferença. Quando um povo deixava o mal, havia oportunidade de afastar a calamidade anunciada. As atitudes importavam diante dele. A imagem do barro convidava a uma resposta viva: reconhecer o erro, mudar a direção e acolher a possibilidade de um recomeço."
+      ],
+      "image": "221/part2.webp",
+      "alt": "Mãos do oleiro refazem um vaso de barro"
+    },
+    {
+      "heading": "Um convite para voltar",
+      "paragraphs": [
+        "Jeremias deveria levar essa mensagem aos habitantes de Judá e Jerusalém. O chamado era urgente: cada pessoa precisava deixar seu mau caminho e melhorar suas ações. A oficina do oleiro havia oferecido uma figura clara, mas agora o aprendizado deveria chegar à vida, às relações e às decisões da comunidade.",
+        "Algumas pessoas insistiriam em seguir apenas seus próprios planos. O texto mostra a tristeza dessa resistência. Quando o coração se fecha para aprender, a oportunidade de mudança é desperdiçada. O profeta precisava anunciar a verdade e continuar convidando o povo a escutar o Senhor com seriedade e disposição.",
+        "Podemos guardar a imagem do vaso refeito como um convite à humildade. Ao perceber um erro, podemos parar, pedir perdão e aprender outra maneira de agir. A mudança costuma envolver passos concretos e ajuda. Jeremias saiu de uma oficina com uma mensagem para o coração: escutar a Deus pode abrir caminho para recomeçar."
+      ],
+      "image": "221/part3.webp",
+      "alt": "Jeremias compartilha a mensagem com o povo"
+    }
+  ],
+  "lesson": "Recomeçar pode incluir reconhecer um erro e aceitar uma orientação que transforma nossas atitudes. A visita de Jeremias ao oleiro mostra a importância de responder ao chamado de Deus com disposição. Pense em algo que você deseja fazer melhor. Um pedido de desculpas, uma conversa sincera ou uma nova tentativa pode ser o primeiro passo. Um coração que aprende mantém espaço para a mudança.",
+  "question": "Que atitude você gostaria de refazer com mais cuidado, como um vaso que recebe uma nova forma?",
+  "prayer": "Senhor, ajuda-me a ter um coração disposto a aprender. Quando eu errar, dá-me humildade para reconhecer e coragem para mudar. Ensina-me a receber bons conselhos e a reparar minhas atitudes, confiando que posso recomeçar com teu cuidado. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://ebible.org/engwebp/JER18.htm"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jeremias observa o oleiro trabalhando com o barro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah attentively watching Potter reshape a clay vessel on an ancient potter wheel in a rustic stone workshop, warm window light, shelves of simple jars, detailed wet clay and linen, no modern tools. Jeremiah is an olive-skinned adult Hebrew prophet with dark curly hair, short beard, cream tunic and ochre shawl. Potter is a middle-aged olive-skinned artisan with short graying hair, brown beard, rolled cream sleeves and clay-stained apron."
+    },
+    {
+      "role": "part1",
+      "alt": "Jeremias chega à oficina do oleiro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah standing at the open doorway of a modest ancient pottery workshop, Potter at his wheel in the interior, earthen jars and clay bowls on wooden shelves, warm inviting daylight. Jeremiah is an olive-skinned adult Hebrew prophet with dark curly hair, short beard, cream tunic and ochre shawl. Potter is a middle-aged olive-skinned artisan with short graying hair, brown beard, rolled cream sleeves and clay-stained apron."
+    },
+    {
+      "role": "part2",
+      "alt": "Mãos do oleiro refazem um vaso de barro",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Close view of Potter hands gently gathering misshapen wet clay and shaping a new vessel on an ancient wheel, clay texture and concentric grooves, warm light, no broken sharp pottery or modern machine. Potter is a middle-aged olive-skinned artisan with short graying hair, brown beard, rolled cream sleeves and clay-stained apron."
+    },
+    {
+      "role": "part3",
+      "alt": "Jeremias compartilha a mensagem com o povo",
+      "prompt": "Use case: illustration-story. New standalone landscape 3:2 illustration, 1536x1024, for the Pequenos Heróis children Bible series. Input image is STYLE REFERENCE ONLY. Match the same richly detailed cinematic 3D storybook rendering: warm believable faces, woven linen, natural textures, golden light, soft depth, ancient Near East setting, child friendly ages 6–12. No words, letters, logos, borders, panels, collage, watermark, or modern objects. No visible deity, no graphic violence. Scene: Jeremiah speaking thoughtfully to ordinary ancient Hebrew adults gathered in a village courtyard, one simple clay vessel on a low table as visual reminder, attentive and questioning faces, warm afternoon light. Jeremiah is an olive-skinned adult Hebrew prophet with dark curly hair, short beard, cream tunic and ochre shawl."
+    }
+  ],
+  "source_notes": [
+    "Texto bíblico em domínio público, World English Bible; adaptação infantil original em português."
+  ]
+}

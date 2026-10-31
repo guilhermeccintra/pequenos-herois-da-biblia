@@ -1,0 +1,71 @@
+{
+  "id": 295,
+  "title": "Jesus Lava os Pés dos Amigos",
+  "subtitle": "O Mestre mostra a grandeza de servir",
+  "reference": "João 13:1–17",
+  "description": "Durante uma refeição com os discípulos, Jesus pega uma toalha e transforma um gesto simples em exemplo de amor.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.13.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma toalha e uma bacia",
+      "paragraphs": [
+        "Jesus estava reunido com seus discípulos para uma refeição. Sabia que se aproximava a hora de voltar para o Pai. Tinha amado os seus durante toda a caminhada e continuava a amá-los até o fim. Naquela noite, mostraria esse amor por meio de um gesto que surpreenderia os amigos sentados com ele.",
+        "Jesus se levantou da mesa, deixou de lado sua roupa exterior e amarrou uma toalha à cintura. Depois colocou água numa bacia. Começou a lavar os pés dos discípulos e a enxugá-los com a toalha. Os caminhos poeirentos deixavam os pés sujos, e esse cuidado fazia parte da hospitalidade, geralmente realizado por quem servia a casa.",
+        "O Mestre estava assumindo uma tarefa humilde. Suas mãos, que haviam cuidado de tantas pessoas, agora se ocupavam dos pés de seus amigos. Não era uma encenação para parecer menor do que era. Jesus sabia de onde viera e para onde ia. Justamente com essa consciência, escolhia servir e tornar visível a profundidade de seu amor."
+      ],
+      "alt": "Jesus prepara uma bacia de água e uma toalha.",
+      "image": "295/part1.webp"
+    },
+    {
+      "heading": "A surpresa de Pedro",
+      "paragraphs": [
+        "Quando chegou a Simão Pedro, o discípulo reagiu espantado. Como poderia o Senhor lavar seus pés? Jesus explicou que Pedro ainda não compreendia o que estava acontecendo, mas entenderia depois. O gesto tinha um significado maior do que retirar a poeira. Apontava para o cuidado que o próprio Jesus oferecia aos que pertenciam a ele.",
+        "Pedro insistiu que Jesus nunca lavaria seus pés. Então ouviu que, se não aceitasse esse cuidado, não teria parte com ele. Sua resposta mudou depressa. Pediu que Jesus lavasse também suas mãos e sua cabeça. Queria permanecer junto do Mestre e, como em outras ocasiões, falou com intensidade antes de compreender tudo.",
+        "Jesus respondeu que quem já havia se banhado precisava apenas lavar os pés. Também mencionou que nem todos ali estavam limpos, pois sabia quem o trairia. A noite continha sentimentos e decisões difíceis. Mesmo assim, o serviço continuava mostrando o coração de Jesus: ele não precisava deixar de ser Senhor para se aproximar com humildade."
+      ],
+      "alt": "Pedro se surpreende quando Jesus se aproxima para lavar seus pés.",
+      "image": "295/part2.webp"
+    },
+    {
+      "heading": "Um exemplo para continuar",
+      "paragraphs": [
+        "Depois de lavar os pés dos discípulos, Jesus vestiu novamente sua roupa exterior e voltou à mesa. Perguntou se eles compreendiam o que havia feito. Eles o chamavam de Mestre e Senhor, e estavam certos. Se ele, sendo quem era, havia lavado seus pés, eles também deveriam servir uns aos outros com a mesma disposição.",
+        "Jesus lhes dera um exemplo. A grandeza de sua posição não o afastara das necessidades concretas dos amigos. Seus discípulos não deveriam usar importância, conhecimento ou liderança como desculpa para evitar tarefas de cuidado. Nenhum servo era maior que seu senhor, e eles eram chamados a seguir o caminho que haviam visto nele.",
+        "Jesus afirmou que seriam felizes se, conhecendo essas coisas, as praticassem. Entender o gesto era apenas o começo. A toalha e a bacia precisavam continuar como lembrança de uma atitude. Onde houvesse alguém precisando de atenção, seus amigos poderiam responder com humildade. O amor aprendido naquela mesa teria muitas oportunidades de se tornar serviço nos dias seguintes."
+      ],
+      "alt": "Jesus explica à mesa o exemplo de serviço que deu aos amigos.",
+      "image": "295/part3.webp"
+    }
+  ],
+  "lesson": "Servir não diminui nossa dignidade. Jesus mostra que o cuidado pode aparecer em tarefas simples, feitas com respeito e sem buscar destaque. Podemos colaborar em casa, ajudar alguém a organizar materiais ou perceber uma necessidade antes de ser lembrados. Também precisamos aprender a receber ajuda. A amizade cresce quando ninguém precisa fingir que consegue tudo sozinho e todos podem oferecer e aceitar cuidado.",
+  "question": "Que tarefa simples você pode fazer hoje para aliviar o trabalho de outra pessoa?",
+  "prayer": "Jesus, obrigado pelo exemplo de serviço e amor. Ajuda-me a perceber as necessidades das pessoas e a colaborar com humildade. Ensina-me a cuidar sem querer aplausos e a receber ajuda sem vergonha. Que minhas mãos estejam dispostas a transformar o carinho em atitudes. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/295.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus lava os pés de Pedro com cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus same olive face dark wavy hair beard wearing modest cream tunic with white towel tied at waist, terracotta mantle folded on bench, kneeling washing feet of adult Peter curly dark hair beard muted teal robe over shallow clay basin, dignified upper room warm oil lamps, no nudity."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus prepara a água para servir seus amigos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic towel at waist pouring water from pottery jug into shallow basin beside low supper table, terracotta mantle folded neatly, adult disciples seated background, modest clothing, warm first-century upper room."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro conversa com Jesus durante o gesto de cuidado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Close eye-level Peter teal robe seated with surprised gentle expression and one hand toward chest, Jesus cream tunic towel at waist kneeling beside basin speaking calmly, focus faces not feet, warm lamplight."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus explica seu exemplo aos discípulos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus wearing cream tunic terracotta mantle again seated at low table with adult disciples, towel and empty basin beside wall, open teaching gesture, intimate warm upper room, no text."
+    }
+  ]
+}

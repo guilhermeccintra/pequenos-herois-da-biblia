@@ -1,0 +1,71 @@
+{
+  "id": 309,
+  "title": "Estêvão e a Coragem de Amar",
+  "subtitle": "Firmeza sem abandonar o amor",
+  "reference": "Atos 6:8–15; 7:54–60",
+  "description": "Estêvão serve à comunidade e fala sobre Jesus. Quando enfrenta uma grande injustiça, sua história convida a lembrar a coragem, a verdade e o cuidado por quem sofre.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Um homem que servia",
+      "paragraphs": [
+        "Estêvão era um dos sete homens escolhidos para ajudar no cuidado da comunidade. Atos o descreve como alguém cheio de fé e do Espírito Santo. Seu serviço não ficava separado de sua confiança em Jesus. Ele participava da vida dos discípulos, anunciava a mensagem e realizava sinais entre o povo pela graça de Deus.",
+        "Algumas pessoas começaram a discutir com ele, mas não conseguiam responder à sabedoria com que falava. Em vez de aceitar uma conversa honesta, passaram a agir contra Estêvão. Convenceram outros a apresentar acusações falsas. A diferença entre discordar e fazer uma injustiça apareceu claramente: não queriam apenas questionar suas ideias, queriam prejudicá-lo.",
+        "Estêvão foi levado diante do conselho. Testemunhas disseram coisas contra ele, e os líderes o observaram atentamente. O relato compara seu rosto ao de um anjo. A imagem comunica a serenidade daquele homem diante de uma situação grave. Sua confiança não tornava falsas acusações menos erradas, mas o acompanhava enquanto precisava responder."
+      ],
+      "image": "309/part1.webp",
+      "alt": "Estêvão ajuda a entregar um cesto de pão a uma viúva em um pátio acolhedor da comunidade."
+    },
+    {
+      "heading": "Uma história de fé",
+      "paragraphs": [
+        "Diante do conselho, Estêvão falou da história do povo de Deus. Lembrou Abraão, José, Moisés e outros acontecimentos conhecidos por seus ouvintes. Sua longa resposta mostrou que a presença de Deus não estava presa a um único lugar. Deus havia acompanhado seu povo em viagens, no Egito e no caminho pelo deserto.",
+        "Estêvão também chamou atenção para a resistência humana aos mensageiros de Deus. Suas palavras foram firmes e incomodaram os líderes. Eles ficaram furiosos. A história não apresenta esse momento como uma discussão comum entre amigos. Estêvão estava diante de pessoas que tinham poder e estavam se deixando conduzir pela raiva.",
+        "Cheio do Espírito Santo, ele olhou para o céu e viu a glória de Deus e Jesus à sua direita. Contou o que via. Essa visão trouxe esperança em meio à ameaça. O centro de sua confiança continuava sendo Jesus. Mesmo naquela hora difícil, Estêvão não estava reduzido à violência que os outros queriam praticar."
+      ],
+      "image": "309/part2.webp",
+      "alt": "Estêvão fala diante de um conselho de homens sentados em uma sala antiga, com postura firme e respeitosa, sem armas."
+    },
+    {
+      "heading": "Uma oração de amor",
+      "paragraphs": [
+        "A multidão o levou para fora da cidade e o atacou. Estêvão morreu por causa daquela violência. Foi uma perda dolorosa para os amigos e para toda a comunidade. O homem que havia servido às mesas e anunciado Jesus com coragem chegou ao fim da vida cercado de hostilidade, mas ainda voltado para seu Senhor.",
+        "Enquanto sofria, Estêvão orou a Jesus, entregando-lhe seu espírito. Pediu também que o pecado de seus agressores não fosse colocado sobre eles. Suas últimas palavras expressaram confiança e desejo de perdão. Ele não chamou a maldade de bondade; mostrou que a crueldade dos outros não tinha apagado seu amor.",
+        "Os discípulos sofreram com sua morte, e a comunidade enfrentaria perseguição. A lembrança de Estêvão permaneceu ligada à fé, ao serviço e à coragem. Seu nome guardava a história de alguém que ajudava os necessitados e confiava em Jesus. Mesmo nos momentos mais dolorosos, ele havia encontrado palavras para entregar sua vida a Deus e orar por outros."
+      ],
+      "image": "309/part3.webp",
+      "alt": "Amigos de Estêvão se consolam em uma casa com lamparina, lembrando sua vida com carinho, sem corpo nem violência."
+    }
+  ],
+  "lesson": "A violência nunca se torna certa porque alguém diz defender uma ideia ou religião. A história de Estêvão pode trazer tristeza, e podemos conversar sobre esse sentimento. Perdoar não significa aceitar novas agressões, esconder um crime ou deixar de procurar proteção. Para uma criança, a atitude segura é afastar-se do perigo quando possível e contar a um adulto confiável. Podemos desejar o bem e, ao mesmo tempo, pedir justiça e cuidado.",
+  "question": "Que sentimentos essa história desperta, e com quem você pode conversar sobre eles?",
+  "prayer": "Jesus, cuida de todas as pessoas que sofrem violência. Acolhe quem está triste e dá coragem a quem busca proteção e justiça. Ensina-nos a falar com verdade, rejeitar a crueldade e cultivar um amor que não abandona o cuidado. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/309.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.7"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Estêvão olha com serenidade para uma luz suave no céu, em um jardim de pedras fora de Jerusalém, sem agressores nem violência.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Stephen is a young adult with olive skin, dark curly hair, short neat beard, cream tunic and muted blue shawl.  Scene: Estêvão olha com serenidade para uma luz suave no céu, em um jardim de pedras fora de Jerusalém, sem agressores nem violência."
+    },
+    {
+      "role": "part1",
+      "alt": "Estêvão ajuda a entregar um cesto de pão a uma viúva em um pátio acolhedor da comunidade.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Stephen is a young adult with olive skin, dark curly hair, short neat beard, cream tunic and muted blue shawl.  Scene: Estêvão ajuda a entregar um cesto de pão a uma viúva em um pátio acolhedor da comunidade."
+    },
+    {
+      "role": "part2",
+      "alt": "Estêvão fala diante de um conselho de homens sentados em uma sala antiga, com postura firme e respeitosa, sem armas.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Stephen is a young adult with olive skin, dark curly hair, short neat beard, cream tunic and muted blue shawl.  Scene: Estêvão fala diante de um conselho de homens sentados em uma sala antiga, com postura firme e respeitosa, sem armas."
+    },
+    {
+      "role": "part3",
+      "alt": "Amigos de Estêvão se consolam em uma casa com lamparina, lembrando sua vida com carinho, sem corpo nem violência.",
+      "prompt": "New independent illustration. Match warm richly detailed cinematic 3D storybook visual style only. Landscape 3:2 1536x1024. Ancient Jerusalem courtyard evening. EXACT CAST: three elderly olive-skinned women in beige, olive and muted mauve shawls, and one elderly white-bearded man in brown, comforting each other after the loss of their friend Stephen. Four people only, each distinct, dignified gentle sadness and mutual care, no young men, no blue shawls, no Stephen, no body, no violence. Woven fabrics, warm stone, olive tree, soft lanterns, expressive faces, no text, no modern objects."
+    }
+  ]
+}

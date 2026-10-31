@@ -1,0 +1,71 @@
+{
+  "id": 127,
+  "title": "Saul Entre as Bagagens",
+  "subtitle": "Quando a responsabilidade assusta",
+  "reference": "1 Samuel 10:17–27",
+  "description": "O povo se reúne para conhecer seu rei, mas Saul não aparece. Ele está escondido entre as bagagens, mostrando que uma grande responsabilidade pode vir acompanhada de receio.",
+  "testament": "antigo",
+  "cover": "/images/covers/127.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma reunião para escolher o rei",
+      "paragraphs": [
+        "Samuel convocou o povo de Israel para se reunir diante do Senhor em Mispa. A comunidade havia pedido um rei, desejando uma organização parecida com a dos povos vizinhos. Antes da escolha pública, Samuel lembrou que Deus os havia libertado do Egito e de outros opressores. O desejo por um governante não deveria apagar essa memória.",
+        "Ele também mostrou a seriedade do pedido. Um rei não resolveria todos os problemas apenas por usar um título. A história de Israel continuaria envolvendo escolhas, responsabilidade e confiança em Deus. A assembleia reunida precisava ouvir isso antes de conhecer o nome do homem que ocuparia a nova posição. A expectativa não substituía o discernimento.",
+        "As tribos foram apresentadas, e a escolha recaiu sobre Benjamim. Depois, dentro dela, sobre a família indicada e finalmente sobre Saul, filho de Quis. O jovem já havia encontrado Samuel e recebido uma orientação particular. Agora, porém, a responsabilidade se tornava pública. Muitas pessoas aguardavam para ver o homem que havia sido escolhido."
+      ],
+      "image": "127/part1.webp",
+      "alt": "Samuel fala ao povo reunido em Mispa, com famílias e representantes atentos."
+    },
+    {
+      "heading": "Onde estava Saul?",
+      "paragraphs": [
+        "Quando procuraram Saul, não o encontraram. O nome estava definido, mas o homem não aparecia no meio da assembleia. A comunidade consultou o Senhor e recebeu uma indicação surpreendente: ele estava escondido entre as bagagens. O futuro rei, que se destacava pela altura, havia procurado um lugar onde pudesse ficar fora da vista de todos.",
+        "Saul estava escondido entre as bagagens. Ao redor da reunião, havia cestos, feixes e pertences trazidos pelas pessoas que tinham vindo a Mispa. Ali, atrás daquilo tudo, encontrava-se justamente o homem procurado. A assembleia aguardava o nome escolhido, enquanto ele permanecia longe do centro, sem se apresentar diante de Samuel e do povo.",
+        "Alguns homens correram até o lugar indicado e o trouxeram para o meio do povo. Saul era mais alto que os outros, destacando-se dos ombros para cima. Aquilo que dificultava passar despercebido agora chamava atenção. Samuel o apresentou à comunidade, mostrando o homem escolhido. O esconderijo não seria o lugar onde sua história como rei continuaria."
+      ],
+      "image": "127/part2.webp",
+      "alt": "Saul está agachado atrás de feixes e cestos, com expressão apreensiva, sem situação perigosa."
+    },
+    {
+      "heading": "Um título e muitos desafios",
+      "paragraphs": [
+        "O povo aclamou Saul como rei. Houve entusiasmo, mas a reunião não terminou apenas com gritos de celebração. Samuel explicou os direitos e deveres ligados à realeza, escreveu-os num livro e o colocou diante do Senhor. O cargo precisava de orientação. A vontade de uma multidão não tornava um governante livre de limites e responsabilidades.",
+        "Depois, Samuel despediu o povo. Saul voltou para sua casa em Gibeá, acompanhado por homens cujo coração Deus havia tocado. Também houve pessoas que o desprezaram, perguntando como poderia ajudá-las. Nem todos reagiram da mesma maneira ao novo rei. A aclamação pública não significava que todos os conflitos ou dúvidas tinham desaparecido.",
+        "Saul permaneceu calado diante dessas críticas naquele momento. Sua história ainda teria escolhas boas e erros graves. A cena das bagagens guarda apenas um começo, com suas inseguranças e possibilidades. Ser escolhido não o tornava perfeito. O que faria com a responsabilidade, como ouviria e como trataria as pessoas precisaria ser mostrado ao longo do caminho."
+      ],
+      "image": "127/part3.webp",
+      "alt": "Samuel apresenta Saul ao povo e segura um rolo que representa as responsabilidades do novo rei."
+    }
+  ],
+  "lesson": "Uma tarefa nova pode assustar, mesmo quando outras pessoas acreditam em nós. Podemos dizer que estamos com medo, pedir orientação e começar com passos possíveis. Esconder a dificuldade nem sempre ajuda quem quer nos apoiar. Ao mesmo tempo, ter um cargo não torna ninguém melhor que os outros ou acima dos combinados. Um bom responsável aprende a ouvir, aceita limites e reconhece quando precisa de ajuda para fazer bem sua parte.",
+  "question": "Que responsabilidade já pareceu grande demais para você, e que apoio tornaria mais fácil começar?",
+  "prayer": "Deus, ajuda-nos a falar sobre nossos receios sem vergonha. Dá-nos pessoas que orientem com paciência e coragem para começar as tarefas possíveis. Quando recebermos uma responsabilidade, ensina-nos a escutar, respeitar limites e lembrar que ninguém precisa parecer perfeito para aprender. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Saul aparece timidamente ao lado de cestos e bagagens enquanto Samuel o acolhe diante da assembleia.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Saul very tall young adult olive skin dark curls short beard cream tunic ochre cloak; Samuel elderly gray beard brown mantle. Ancient public assembly, piles of cloth bundles and baskets. Only characters specified by scene. Scene: Saul aparece timidamente ao lado de cestos e bagagens enquanto Samuel o acolhe diante da assembleia."
+    },
+    {
+      "role": "part1",
+      "alt": "Samuel fala ao povo reunido em Mispa, com famílias e representantes atentos.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Required scene and cast: Only elderly Samuel with gray beard, cream robe and brown mantle addressing a gathered crowd of ordinary ancient Israelite families in Mizpah. Saul is absent from the platform and cannot be seen anywhere in the image. No tall man in an ochre cloak. Samuel alone is the foreground speaker; listeners sit facing him. Luggage baskets along the edge of the assembly."
+    },
+    {
+      "role": "part2",
+      "alt": "Saul está agachado atrás de feixes e cestos, com expressão apreensiva, sem situação perigosa.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Saul very tall young adult olive skin dark curls short beard cream tunic ochre cloak; Samuel elderly gray beard brown mantle. Ancient public assembly, piles of cloth bundles and baskets. Only characters specified by scene. Scene: Saul está agachado atrás de feixes e cestos, com expressão apreensiva, sem situação perigosa."
+    },
+    {
+      "role": "part3",
+      "alt": "Samuel apresenta Saul ao povo e segura um rolo que representa as responsabilidades do novo rei.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Saul very tall young adult olive skin dark curls short beard cream tunic ochre cloak; Samuel elderly gray beard brown mantle. Ancient public assembly, piles of cloth bundles and baskets. Only characters specified by scene. Scene: Samuel apresenta Saul ao povo e segura um rolo que representa as responsabilidades do novo rei."
+    }
+  ]
+}

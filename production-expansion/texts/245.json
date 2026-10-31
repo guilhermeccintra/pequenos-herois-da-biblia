@@ -1,0 +1,71 @@
+{
+  "id": 245,
+  "title": "Filipe e Natanael",
+  "subtitle": "Um convite para olhar mais de perto",
+  "reference": "João 1:43–51",
+  "description": "Filipe convida Natanael a conhecer Jesus. Uma dúvida sobre Nazaré dá lugar à surpresa de ser conhecido antes mesmo de chegar.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.1.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma descoberta na Galileia",
+      "paragraphs": [
+        "Jesus decidiu partir para a Galileia e encontrou Filipe. Seu convite foi direto: Filipe deveria segui-lo. Aquele encontro abria uma nova etapa. O evangelho conta que Filipe era de Betsaida, a mesma cidade de André e Pedro. Pessoas de caminhos próximos começavam a se reunir ao redor de Jesus.",
+        "Filipe procurou Natanael e compartilhou sua descoberta. Disse que havia encontrado aquele sobre quem Moisés, na Lei, e os profetas tinham escrito: Jesus de Nazaré, conhecido como filho de José. Filipe relacionava o encontro às promessas das Escrituras. Para ele, não era apenas a notícia de um professor interessante que passava pela região.",
+        "Natanael reagiu com uma pergunta desconfiada sobre Nazaré. Poderia vir algo bom de lá? Sua dúvida mostrava uma ideia pronta sobre aquele lugar. Filipe não respondeu com uma briga. Convidou-o a ir e ver. Era uma maneira de dizer que valia a pena conhecer a pessoa antes de ficar preso ao que imaginava."
+      ],
+      "alt": "Filipe convida Natanael a conhecer Jesus perto de uma figueira.",
+      "image": "245/part1.webp"
+    },
+    {
+      "heading": "Ser conhecido antes de chegar",
+      "paragraphs": [
+        "Natanael aceitou o convite e se aproximou. Ao vê-lo, Jesus falou de sua sinceridade, descrevendo-o como um israelita em quem não havia falsidade. Natanael ficou surpreso. Como Jesus poderia conhecê-lo? A conversa começava de um jeito muito diferente do que ele talvez esperasse ao sair para conferir a notícia de Filipe.",
+        "Jesus respondeu que o tinha visto debaixo da figueira antes de Filipe chamá-lo. Natanael acabara de chegar, mas descobria que já era conhecido. Aquele detalhe anterior ao encontro o surpreendeu. O convite de Filipe o levara até Jesus, e as palavras que ouvia agora lhe mostravam alguém muito maior do que esperava encontrar naquele caminho.",
+        "A surpresa mudou sua resposta. Natanael chamou Jesus de Mestre, Filho de Deus e Rei de Israel. A pergunta desconfiada sobre uma cidade deu lugar a uma declaração de fé. Ele havia ido conferir por si mesmo e descobrira que Jesus já o conhecia. O encontro abriu espaço para muito mais do que sua primeira impressão permitia."
+      ],
+      "alt": "Jesus conversa com Natanael enquanto Filipe observa atentamente.",
+      "image": "245/part2.webp"
+    },
+    {
+      "heading": "Há mais para descobrir",
+      "paragraphs": [
+        "Jesus perguntou se Natanael acreditava por causa do que lhe dissera sobre a figueira. Depois anunciou que ele veria coisas maiores. Aquela descoberta era importante, mas não seria a última. Seguir Jesus significava entrar num caminho em que novas experiências ajudariam os discípulos a compreender melhor quem ele era.",
+        "Jesus também falou do céu aberto e de anjos subindo e descendo sobre o Filho do Homem. A imagem lembrava o encontro de Jacó com Deus, contado em Gênesis. Agora, apontava para Jesus como o centro desse encontro entre o céu e a terra. Havia profundidade em suas palavras, algo que os discípulos continuariam aprendendo.",
+        "Filipe tinha feito um convite simples, e Natanael aceitara sair de sua primeira impressão. Nenhum dos dois conhecia ainda tudo o que aconteceria. A caminhada começava com descoberta, pergunta e confiança. De perto, Natanael encontrou alguém que não cabia nas ideias que tinha sobre Nazaré. Seu mundo ficou maior quando decidiu ir e ver."
+      ],
+      "alt": "Filipe e Natanael caminham com Jesus por uma estrada ensolarada.",
+      "image": "245/part3.webp"
+    }
+  ],
+  "lesson": "Uma ideia pronta sobre um lugar ou uma pessoa pode nos impedir de conhecer algo bom. Antes de repetir um julgamento, podemos fazer perguntas e escutar com respeito. Filipe não humilhou Natanael por sua dúvida; ofereceu um convite. Também podemos conversar sem brigar, reconhecer quando nossa primeira impressão estava errada e dar espaço para aprender. Conhecer alguém exige atenção, tempo e disposição para ouvir.",
+  "question": "Você já mudou de opinião sobre alguém depois de conhecê-lo melhor? O que ajudou nessa mudança?",
+  "prayer": "Jesus, ajuda-nos a olhar para as pessoas sem desprezo ou ideias prontas. Ensina-nos a perguntar, escutar e reconhecer quando precisamos mudar de opinião. Que nossos convites sejam gentis e nossas conversas abram espaço para amizade, respeito e novas descobertas. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/245.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus recebe Filipe e Natanael perto de uma figueira.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle greets Philip dark short hair neat beard blue-gray tunic and Nathanael curly black hair short beard olive-green robe, large fig tree nearby, hopeful expressions, Galilean stone path."
+    },
+    {
+      "role": "part1",
+      "alt": "Filipe convida Natanael a conhecer Jesus perto de uma figueira.",
+      "prompt": "Use case: illustration-story. New standalone illustration in the same highly detailed warm cinematic 3D Bible storybook style for ages 6–12. Landscape 3:2 1536x1024, gentle expressive faces, richly textured linen and stone, natural warm lighting, historically plausible first-century setting. No text, logo, border, collage or modern objects. ONLY TWO ADULT MEN: Philip is the short dark-haired man in the BLUE-GRAY tunic from the middle of the reference, with short neat beard. Nathanael is the curly black-haired man in the OLIVE-GREEN robe from right of reference. Philip stands inviting Nathanael who sits beneath a fig tree. The long-haired man in the red mantle (Jesus) MUST BE ABSENT. Preserve Philip short hair, do not give Philip Jesus long hair or facial identity. New close side composition focused on these two disciples."
+    },
+    {
+      "role": "part2",
+      "alt": "Jesus conversa com Natanael enquanto Filipe observa atentamente.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta red mantle speaks kindly to surprised Nathanael olive-green robe, Philip blue-gray tunic listening beside them, medium portrait framing in ancient garden, detailed fig leaves softly blurred."
+    },
+    {
+      "role": "part3",
+      "alt": "Filipe e Natanael caminham com Jesus por uma estrada ensolarada.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle walks with Philip blue-gray tunic and Nathanael olive-green robe on Galilean hillside path, three conversing friends, fig tree behind, broad warm sky, no literal heavenly vision."
+    }
+  ]
+}

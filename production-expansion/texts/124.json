@@ -1,0 +1,71 @@
+{
+  "id": 124,
+  "title": "A Arca Volta para Casa",
+  "subtitle": "Alegria no caminho dos campos",
+  "reference": "1 Samuel 6:1–18",
+  "description": "Depois de meses entre os filisteus, a arca é colocada num carro puxado por duas vacas. Os trabalhadores de Bete-Semes veem chegar uma lembrança importante da aliança de Israel.",
+  "testament": "antigo",
+  "cover": "/images/covers/124.webp",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma decisão entre os filisteus",
+      "paragraphs": [
+        "A arca da aliança havia sido levada pelos filisteus numa guerra contra Israel. Durante sete meses, permaneceu em suas cidades. Aquele período foi marcado por sofrimento, e os governantes perceberam que não poderiam tratar a arca como um troféu comum. Ela estava ligada ao Deus de Israel, e sua presença não tinha trazido a vantagem que esperavam.",
+        "Os filisteus chamaram seus sacerdotes e adivinhadores para perguntar como devolver a arca. Receberam a orientação de enviá-la com uma oferta de reparação. Prepararam objetos de ouro que lembravam as dificuldades sofridas e os colocaram numa caixa. A arca não seguiria sozinha: aqueles presentes também seriam postos no carro que estava sendo preparado.",
+        "Prepararam objetos de ouro que representavam as aflições sofridas e lembraram a história do Egito, onde a resistência ao Deus de Israel trouxera consequências. Os governantes precisavam decidir o que fazer com algo que não controlavam. Por fim, concordaram em preparar uma maneira de enviar a arca de volta e observar o caminho que ela tomaria."
+      ],
+      "image": "124/part1.webp",
+      "alt": "Adultos filisteus preparam um carro novo com a arca e uma pequena caixa ao lado."
+    },
+    {
+      "heading": "Duas vacas e um carro novo",
+      "paragraphs": [
+        "Construíram um carro novo e escolheram duas vacas que tinham crias e nunca haviam levado jugo. Os bezerros ficaram guardados em casa. Colocaram a arca no carro e os objetos de ouro numa caixa ao lado. Depois soltaram os animais. Se seguissem para Bete-Semes, entenderiam que as dificuldades estavam ligadas à ação do Deus de Israel.",
+        "As vacas seguiram diretamente pelo caminho de Bete-Semes, mugindo enquanto andavam. Não se desviaram para um lado nem para o outro. Os governantes filisteus acompanharam de longe até a fronteira. A narrativa chama atenção para esse percurso inesperado: mesmo separadas de suas crias, as vacas continuaram na direção da cidade israelita.",
+        "Naqueles dias, os moradores de Bete-Semes colhiam trigo no vale. Trabalhavam no campo quando levantaram os olhos e viram a arca chegando. A visão trouxe alegria. Um objeto que lembrava sua aliança com Deus, perdido durante uma guerra dolorosa, voltava pelo caminho dos campos. O trabalho da colheita foi interrompido por aquela chegada surpreendente."
+      ],
+      "image": "124/part2.webp",
+      "alt": "Duas vacas puxam o carro com a arca sozinhas pelo caminho em direção a Bete-Semes."
+    },
+    {
+      "heading": "A chegada ao campo de Josué",
+      "paragraphs": [
+        "O carro entrou no campo de um homem chamado Josué, de Bete-Semes, e parou perto de uma grande pedra. Não se trata do antigo líder Josué, mas de outro homem com o mesmo nome. Os levitas retiraram a arca e a caixa com os objetos de ouro e as colocaram sobre a pedra, diante das pessoas reunidas ali.",
+        "Os moradores usaram a madeira do carro e ofereceram sacrifícios ao Senhor naquele dia. A notícia da chegada reuniu pessoas no campo, perto da grande pedra. A arca, que passara tanto tempo longe, estava novamente entre os israelitas. Os governantes filisteus observaram o que aconteceu e depois voltaram para suas cidades, levando a notícia do percurso.",
+        "Os cinco governantes filisteus viram o que aconteceu e voltaram para Ecrom. O campo ficou ligado à lembrança daquela devolução. A passagem mostra um povo que precisou devolver o que havia tomado e outro que recebeu com alegria uma parte importante de sua história. No caminho entre duas comunidades, a arca deixou de ser tratada apenas como prêmio de guerra."
+      ],
+      "image": "124/part3.webp",
+      "alt": "Trabalhadores de Bete-Semes param a colheita e observam com alegria a chegada da arca perto de uma grande pedra."
+    }
+  ],
+  "lesson": "Devolver o que não nos pertence é uma atitude importante, mesmo quando já passou algum tempo. Podemos reconhecer um erro, devolver um objeto e procurar reparar o prejuízo com ajuda de um adulto. A arca tinha um significado especial na história de Israel; não era uma garantia mágica de vitória. Também aprendemos a tratar com respeito os objetos importantes para outras pessoas, perguntando antes de tocar e cuidando do que recebemos emprestado.",
+  "question": "Como você pode agir quando percebe que ficou com algo que pertence a outra pessoa?",
+  "prayer": "Deus, ajuda-nos a reconhecer nossos erros e a devolver o que não nos pertence. Ensina-nos a cuidar do que recebemos emprestado e a respeitar aquilo que é importante para outras pessoas. Dá-nos coragem para reparar danos e alegria em agir com honestidade. Amém.",
+  "audio_path": null,
+  "sources": [
+    "https://en.wikisource.org/wiki/Bible_(King_James)/1_Samuel"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Duas vacas puxam um carro com a arca por um caminho entre campos de trigo, recebidas por moradores alegres.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Two healthy brown cows yoked to new wooden cart, golden covenant ark and small wooden chest, ancient wheat fields Beth-shemesh. Farmers in linen, Levites cream robes. No sacrifices or injury depicted. Scene: Duas vacas puxam um carro com a arca por um caminho entre campos de trigo, recebidas por moradores alegres."
+    },
+    {
+      "role": "part1",
+      "alt": "Adultos filisteus preparam um carro novo com a arca e uma pequena caixa ao lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Two healthy brown cows yoked to new wooden cart, golden covenant ark and small wooden chest, ancient wheat fields Beth-shemesh. Farmers in linen, Levites cream robes. No sacrifices or injury depicted. Scene: Adultos filisteus preparam um carro novo com a arca e uma pequena caixa ao lado."
+    },
+    {
+      "role": "part2",
+      "alt": "Duas vacas puxam o carro com a arca sozinhas pelo caminho em direção a Bete-Semes.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Scene and required cast: Exactly two healthy brown cows pull a wooden cart carrying the golden Ark along a straight ancient dirt road through wheat fields toward distant Beth Shemesh. Absolutely no human drivers, riders, pedestrians, priests, handlers or crowds in this image. The cows travel unled and without anyone guiding them. No reins held by a human. Quiet wide countryside with distant town. Ark with cherubim and carrying poles, no text."
+    },
+    {
+      "role": "part3",
+      "alt": "Trabalhadores de Bete-Semes param a colheita e observam com alegria a chegada da arca perto de uma grande pedra.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis children aged 6–12. Reference image is STYLE ONLY. Match its warm detailed cinematic 3D storybook rendering, expressive human faces, tactile linen, realistic ancient landscapes, rich fine detail and soft golden light. Landscape 3:2, 1536x1024 minimum. No text, letters, watermark, frame, collage, modern objects, graphic violence or visible deity. Character continuity: Two healthy brown cows yoked to new wooden cart, golden covenant ark and small wooden chest, ancient wheat fields Beth-shemesh. Farmers in linen, Levites cream robes. No sacrifices or injury depicted. Scene: Trabalhadores de Bete-Semes param a colheita e observam com alegria a chegada da arca perto de uma grande pedra."
+    }
+  ]
+}

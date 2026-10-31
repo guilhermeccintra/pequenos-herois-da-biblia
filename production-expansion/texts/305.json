@@ -1,0 +1,71 @@
+{
+  "id": 305,
+  "title": "Coragem para Dizer a Verdade",
+  "subtitle": "Uma resposta dada com firmeza",
+  "reference": "Atos 4:1–22",
+  "description": "Pedro e João são questionados depois de ajudar um homem. Mesmo diante de ameaças, explicam com clareza por que anunciam Jesus.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "parts": [
+    {
+      "heading": "Uma noite de espera",
+      "paragraphs": [
+        "Depois que um homem voltou a andar junto à Porta Formosa, Pedro e João falaram ao povo. A notícia sobre Jesus despertava interesse, mas também oposição. Algumas autoridades não gostavam de ouvir os apóstolos anunciar a ressurreição. Enquanto eles ainda ensinavam, os guardas chegaram e os prenderam. Como já era tarde, ficaram detidos até o dia seguinte.",
+        "A prisão não apagou a mensagem que as pessoas tinham ouvido. Muitos creram em Jesus. Para Pedro e João, porém, aquela noite significava esperar sem saber exatamente como seria o encontro com os líderes. Tinham ajudado um homem e contado uma boa notícia. Agora precisariam responder a perguntas diante de gente poderosa.",
+        "Na manhã seguinte, reuniram-se autoridades, anciãos e mestres da lei. Pedro e João foram colocados diante deles. A pergunta tratava do poder e do nome pelo qual haviam agido. Era uma oportunidade para explicar o acontecimento, mas também uma situação de pressão. A resposta dos dois seria ouvida com muita atenção."
+      ],
+      "image": "305/part1.webp",
+      "alt": "Pedro e João aguardam juntos em um aposento simples com porta de madeira, iluminado por uma lamparina, sem sofrimento gráfico."
+    },
+    {
+      "heading": "O nome de Jesus",
+      "paragraphs": [
+        "Cheio do Espírito Santo, Pedro respondeu. Lembrou que estavam sendo interrogados por causa do bem feito a um homem que precisava de ajuda. Explicou que ele estava ali, curado, em nome de Jesus Cristo de Nazaré. Falou da morte e da ressurreição de Jesus e mostrou que sua confiança estava nele.",
+        "Os líderes perceberam a coragem de Pedro e João. Sabiam que eles não tinham a formação dos mestres reconhecidos, mas notaram que haviam convivido com Jesus. O homem que fora curado estava junto deles. Sua presença tornava impossível negar que algo extraordinário tinha acontecido. A discussão não era somente sobre palavras.",
+        "As autoridades mandaram os dois sair por um momento e conversaram entre si. O sinal era conhecido pelos habitantes de Jerusalém. Ainda assim, decidiram tentar impedir que a mensagem continuasse se espalhando. Chamaram Pedro e João de volta e lhes ordenaram que não falassem nem ensinassem mais em nome de Jesus."
+      ],
+      "image": "305/part2.webp",
+      "alt": "Pedro explica sua mensagem diante de líderes sentados; João e o homem que foi curado estão ao seu lado."
+    },
+    {
+      "heading": "O que vimos e ouvimos",
+      "paragraphs": [
+        "Pedro e João responderam que os líderes deveriam considerar o que era justo diante de Deus: obedecer àquela ordem ou ao chamado que tinham recebido. Explicaram que não podiam deixar de falar sobre o que haviam visto e ouvido. Não estavam inventando uma história para provocar discussão. Anunciavam sua experiência com Jesus.",
+        "Depois de novas ameaças, foram soltos. As autoridades tinham dificuldade para castigá-los porque o povo louvava a Deus pelo que havia acontecido. Pedro e João deixaram aquela reunião livres, mas sabiam que haveria oposição. A coragem demonstrada não significava que o perigo fosse imaginário. Significava permanecerem fiéis enquanto enfrentavam uma pressão real.",
+        "O relato mostra dois homens que falaram com firmeza sem abandonar a verdade. Eles não prometeram vencer todas as discussões nem usaram violência para defender a mensagem. Voltariam aos amigos e contariam o que havia ocorrido. A fé era vivida em comunidade, onde poderiam receber apoio e buscar juntos a ajuda de Deus."
+      ],
+      "image": "305/part3.webp",
+      "alt": "Pedro e João saem juntos para uma rua ensolarada de Jerusalém, onde amigos se aproximam para recebê-los."
+    }
+  ],
+  "lesson": "Falar a verdade pode exigir coragem, especialmente quando temos receio da resposta. Pedro e João se apoiaram naquilo que conheciam de Jesus e depois procuraram seus amigos. Também podemos buscar companhia e orientação para uma conversa difícil. Uma palavra respeitosa, um pedido de ajuda e a disposição para contar o que aconteceu são passos importantes. A coragem cresce quando a verdade encontra apoio, cuidado e pessoas dispostas a ouvir.",
+  "question": "Quem são os adultos de confiança a quem você pode recorrer quando se sentir pressionado ou ameaçado?",
+  "prayer": "Deus, ajuda-me a falar a verdade com respeito. Dá-me coragem para reconhecer quando preciso de proteção e procurar pessoas confiáveis. Cuida de quem sofre ameaças por sua fé e ensina-nos a responder às dificuldades sem violência, com firmeza e amor. Amém.",
+  "audio_path": null,
+  "cover": "/images/covers/305.webp",
+  "sources": [
+    "https://www.sbb.org.br/biblia/ARC/ACT.4"
+  ],
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Pedro e João conversam com firmeza diante de anciãos em uma sala de pedra, sem armas visíveis nem agressão.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro e João conversam com firmeza diante de anciãos em uma sala de pedra, sem armas visíveis nem agressão."
+    },
+    {
+      "role": "part1",
+      "alt": "Pedro e João aguardam juntos em um aposento simples com porta de madeira, iluminado por uma lamparina, sem sofrimento gráfico.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro e João aguardam juntos em um aposento simples com porta de madeira, iluminado por uma lamparina, sem sofrimento gráfico."
+    },
+    {
+      "role": "part2",
+      "alt": "Pedro explica sua mensagem diante de líderes sentados; João e o homem que foi curado estão ao seu lado.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro explica sua mensagem diante de líderes sentados; João e o homem que foi curado estão ao seu lado."
+    },
+    {
+      "role": "part3",
+      "alt": "Pedro e João saem juntos para uma rua ensolarada de Jerusalém, onde amigos se aproximam para recebê-los.",
+      "prompt": "Use case: illustration-story. New standalone illustration for the Pequenos Heróis children’s Bible series. Input image is a STYLE REFERENCE ONLY. Match its richly detailed cinematic 3D storybook art, friendly expressive faces, believable woven linen, ancient stone and wood, warm luminous natural light, fine foliage, sophisticated depth. Landscape 3:2, 1536x1024. First century biblical Mediterranean people with brown/olive skin, period clothing. One coherent scene, no text, no letters, no border, no collage, no watermark, no modern objects. Family friendly ages 6–12, no graphic violence. Peter has curly dark hair streaked grey, short beard, rust tunic and cream shawl. John is a younger adult with dark wavy hair, short beard, blue tunic.  Scene: Pedro e João saem juntos para uma rua ensolarada de Jerusalém, onde amigos se aproximam para recebê-los."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 256,
+  "title": "O Homem que Passou a Enxergar",
+  "subtitle": "Uma história contada com coragem",
+  "reference": "João 9:1–41",
+  "description": "Jesus encontra um homem cego desde o nascimento e rejeita a ideia de culpá-lo por isso. Depois da cura, o homem aprende a falar com coragem sobre o que viveu.",
+  "sources": [
+    "https://www.bible.com/bible/1/JHN.9.KJV"
+  ],
+  "parts": [
+    {
+      "heading": "Uma pergunta que precisava mudar",
+      "paragraphs": [
+        "Ao passar, Jesus viu um homem cego desde o nascimento. Os discípulos perguntaram quem havia pecado para que ele nascesse assim: o próprio homem ou seus pais. A pergunta procurava um culpado pela deficiência. Jesus rejeitou essa explicação. Não deveriam olhar para aquela vida como um castigo que precisava ser atribuído a alguém.",
+        "Jesus apontou para a obra de Deus que seria revelada naquele encontro e falou de si como a luz do mundo. Seu olhar se dirigia ao cuidado e à ação. Enquanto os discípulos discutiam uma causa, havia uma pessoa diante deles. A conversa precisava sair da procura por culpa e se aproximar de quem estava ali.",
+        "Jesus fez barro com terra e saliva, colocou-o sobre os olhos do homem e mandou que fosse lavar-se no tanque de Siloé. Ele foi, lavou-se e voltou enxergando. A orientação recebida o levara até a água, e uma mudança extraordinária acontecera. O homem que nunca tinha visto agora encontrava o mundo de uma maneira inteiramente nova."
+      ],
+      "alt": "Jesus se aproxima de um homem cego desde o nascimento.",
+      "image": "256/part1.webp"
+    },
+    {
+      "heading": "Uma resposta que ninguém podia apagar",
+      "paragraphs": [
+        "Os vizinhos ficaram admirados. Alguns reconheciam o homem; outros achavam que era apenas alguém parecido. Ele afirmou que era a mesma pessoa e contou o que Jesus havia feito. Quando perguntaram onde Jesus estava, respondeu que não sabia. Sua história era honesta: dizia o que conhecia e não fingia ter respostas para tudo.",
+        "Levaram-no aos fariseus, e surgiram discussões porque a cura acontecera no sábado. Alguns criticavam Jesus; outros perguntavam como alguém distante de Deus poderia realizar aquele sinal. Chamaram também os pais do homem. Eles confirmaram que era seu filho e que nascera cego, mas, com medo das consequências, disseram que perguntassem a ele mesmo.",
+        "O homem foi interrogado novamente. Não aceitou negar o que tinha vivido. Disse que uma coisa sabia: antes era cego e agora enxergava. Continuou respondendo, mesmo quando o trataram com desprezo. A conversa terminou com sua expulsão. Ter recebido a cura não o livrou de enfrentar a rejeição de quem se recusava a ouvi-lo."
+      ],
+      "alt": "O homem conta sua experiência a pessoas que o interrogam.",
+      "image": "256/part2.webp"
+    },
+    {
+      "heading": "Jesus o encontra outra vez",
+      "paragraphs": [
+        "Jesus soube que o haviam expulsado e foi encontrá-lo. O homem não ficou esquecido depois de enfrentar aquelas perguntas. Jesus lhe falou sobre a fé no Filho do Homem. Ele perguntou quem era, para que pudesse crer. Queria conhecer melhor aquele a quem sua experiência apontava, além de defender o que tinha acontecido.",
+        "Jesus explicou que era ele, a pessoa que falava com o homem. Então o homem declarou sua fé e o adorou. Seu caminho havia começado com uma cura e continuava com um encontro de confiança. Passar a enxergar era extraordinário, mas conhecer Jesus trazia outra descoberta para sua vida.",
+        "Ao final, Jesus falou sobre enxergar e não enxergar, usando a imagem para tratar da disposição de reconhecer a verdade. Algumas pessoas, certas de saber tudo, tinham fechado o coração ao que estava diante delas. O homem, por sua vez, aprendera ao longo do caminho. Sua história convida a escutar com humildade, em vez de transformar uma certeza antiga numa barreira contra o cuidado."
+      ],
+      "alt": "Jesus encontra novamente o homem e conversa com ele em paz.",
+      "image": "256/part3.webp"
+    }
+  ],
+  "lesson": "Deficiência e doença não tornam uma pessoa culpada nem diminuem seu valor. Jesus rejeitou a pergunta que buscava culpar aquele homem ou seus pais. Podemos aprender também a contar a verdade com clareza, dizendo o que sabemos e admitindo o que não sabemos. Se alguém nos humilhar por isso, é importante procurar um adulto de confiança e uma comunidade que ofereça respeito e apoio.",
+  "question": "Como você pode responder com respeito quando escuta alguém culpando uma pessoa por sua deficiência?",
+  "prayer": "Jesus, livra-nos de julgamentos que ferem as pessoas. Ensina-nos a ouvir suas histórias e a reconhecer sua dignidade. Dá-nos coragem para falar a verdade com humildade e para procurar ajuda quando houver humilhação. Que nosso olhar aprenda contigo a cuidar. Amém.",
+  "testament": "novo",
+  "duration": "4–7 min",
+  "cover": "/images/covers/256.webp",
+  "audio_path": null,
+  "art": [
+    {
+      "role": "cover",
+      "alt": "Jesus conversa com o homem que agora enxerga.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle warmly speaks to adult man olive skin short curly hair beard simple sand robe and teal sash, expressive clear eyes and grateful face, stone courtyard near Jerusalem, warm natural light."
+    },
+    {
+      "role": "part1",
+      "alt": "Jesus se aproxima de um homem cego desde o nascimento.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle crouches respectfully to converse at equal level with seated adult man sand robe teal sash, disciples listen behind, ancient Jerusalem street, no mud on eyes or medical procedure shown."
+    },
+    {
+      "role": "part2",
+      "alt": "O homem conta sua experiência a pessoas que o interrogam.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Adult man sand robe teal sash speaks honestly with open hands before several thoughtful elders on stone benches, serious respectful debate no intimidation or violence, historic interior with soft light."
+    },
+    {
+      "role": "part3",
+      "alt": "Jesus encontra novamente o homem e conversa com ele em paz.",
+      "prompt": "Use case: illustration-story. New standalone illustration for Pequenos Heróis, a children’s Bible storybook for ages 6–12. Reference image is STYLE ONLY. Highly detailed cinematic 3D storybook rendering, warm gentle lighting, expressive friendly faces, lifelike woven linen, natural detailed stone and plants, sophisticated depth and composition, historically plausible first-century Judea or Galilee. Landscape 3:2 at least1536x1024. No words, lettering, captions, logos, watermark, border, collage, or modern objects. Respectful, peaceful and family friendly. Only depict characters explicitly named in the scene. Jesus cream tunic terracotta mantle meets adult man sand robe teal sash in quiet olive-shaded courtyard, both standing close in attentive conversation, relieved hopeful expression, no crowd."
+    }
+  ]
+}
