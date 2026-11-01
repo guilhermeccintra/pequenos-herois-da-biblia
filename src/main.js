@@ -333,7 +333,7 @@ function safeRedirect(url) {
   const parsed = new URL(url);
   if (
     parsed.protocol !== "https:" ||
-    !["checkout.stripe.com", "billing.stripe.com"].includes(parsed.hostname)
+    !["go.perfectpay.com.br", "app.perfectpay.com.br"].includes(parsed.hostname)
   )
     throw new Error("O endereço de pagamento não é válido.");
   location.assign(parsed.href);

@@ -17,3 +17,7 @@ __pycache__/
 qa/
 content/.audio-import.lock
 **/.generation.lock
+
+.env
+.env.*
+!.env.example

@@ -8,6 +8,13 @@ function checked(result) {
 export function createRepository(client) {
   const rpc = async (name, parameters) => checked(await client.rpc(name, parameters));
   return {
+    async findVerifiedUserByEmail(email) {
+      // SQL SECURITY DEFINER function is service-role-only; avoids scanning Auth users in JS.
+      return rpc('find_verified_billing_user', { p_email: email });
+    },
+    applyPerfectPayEvent(userId,event) {
+      return rpc('apply_perfectpay_event', {p_user_id:userId,p_sale_code:event.code,p_plan:event.plan,p_kind:event.kind,p_event_at:event.at,p_status:event.status});
+    },
     async getSubscription(userId) {
       return checked(await client.from('subscriptions').select('*').eq('user_id', userId).maybeSingle());
     },
