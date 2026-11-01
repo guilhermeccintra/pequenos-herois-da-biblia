@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import * as rules from '../server/rules.mjs';
 const now = Date.parse('2026-10-30T12:00:00Z');
 const prices = { monthly: 'price_monthly', annual: 'price_annual' };
-const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 2990, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
+const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 4700, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
 const active = { id: 'sub_current', customer: 'cus_owner', created: 1793304000, status: 'active', cancel_at_period_end: false, items: { data: [{ quantity: 1, current_period_end: 1796040000, price }], has_more: false } };
 
 test('reading requires a paid active plan with a strictly future, valid end date', () => {

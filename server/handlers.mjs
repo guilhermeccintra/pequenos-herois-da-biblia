@@ -1,5 +1,5 @@
 import { parseStorySelection } from "../shared/collection.mjs";
-import { perfectPayCheckout, perfectPayWebhook } from './perfectpay.mjs';
+import { createCheckout, processWebhook } from './billing.mjs';
 import { readJson, readRawBody, requireUser, route } from './http.mjs';
 import { HttpError, hasAccess, mediaLifetime, parsePlan, safeAssetPath } from './rules.mjs';
 
@@ -36,20 +36,26 @@ export function createHandlers(deps) {
     checkout: route('POST', async (req) => {
       const user = await requireUser(req, authenticate);
       const plan = parsePlan(await readJson(req));
-      return perfectPayCheckout(user, plan, deps);
+      return createCheckout(user, plan, deps);
     }),
     portal: route('POST', async (req) => {
       const user = await requireUser(req, authenticate);
       const subscription = await repo.getSubscription(user.id);
-      if (!subscription || subscription.status === 'none') throw new HttpError(404, 'NO_BILLING_ACCOUNT', 'Você ainda não possui uma assinatura para gerenciar.');
-      return { url: 'https://app.perfectpay.com.br/' };
+      if (!subscription?.stripe_customer_id) throw new HttpError(404, 'NO_BILLING_ACCOUNT', 'Você ainda não possui uma assinatura para gerenciar.');
+      const session = await deps.stripe.billingPortal.sessions.create({
+        customer: subscription.stripe_customer_id,
+        return_url: `${deps.config.appUrl}/conta`,
+      });
+      return { url: session.url };
     }),
     webhook: route('POST', async (req) => {
-      const rawBody = await readRawBody(req, 64 * 1024);
-      let payload;
-      try { payload = JSON.parse(rawBody.toString('utf8')); }
-      catch { throw new HttpError(400,'INVALID_JSON','JSON inválido.'); }
-      return perfectPayWebhook(payload, deps);
+      const signature = req.headers['stripe-signature'];
+      if (typeof signature !== 'string') throw new HttpError(400, 'INVALID_SIGNATURE', 'Assinatura de webhook inválida.');
+      const rawBody = await readRawBody(req);
+      let event;
+      try { event = deps.stripe.webhooks.constructEvent(rawBody, signature, deps.config.webhookSecret); }
+      catch { throw new HttpError(400, 'INVALID_SIGNATURE', 'Assinatura de webhook inválida.'); }
+      return processWebhook(event, deps);
     }),
   };
 }

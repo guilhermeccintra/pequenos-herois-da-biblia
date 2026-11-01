@@ -1,4 +1,5 @@
 import { createClient } from '@supabase/supabase-js';
+import Stripe from 'stripe';
 import { createHandlers } from './handlers.mjs';
 import { errorResponse } from './http.mjs';
 import { createRepository } from './repository.mjs';
@@ -20,6 +21,7 @@ function appUrl() {
 }
 
 let supabase;
+let stripe;
 function runtime(name) {
   supabase ??= createClient(required('SUPABASE_URL'), required('SUPABASE_SERVICE_ROLE_KEY'), {
     auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false },
@@ -37,7 +39,22 @@ function runtime(name) {
     },
     config: {},
   };
-  if (name === 'webhook') deps.config.perfectPayToken = required('PERFECTPAY_WEBHOOK_TOKEN');
+  if (['checkout', 'portal', 'webhook'].includes(name)) {
+    stripe ??= new Stripe(required('STRIPE_SECRET_KEY'), {
+      maxNetworkRetries: 1, timeout: 15_000,
+    });
+    deps.stripe = stripe;
+    if (name !== 'webhook') deps.config.appUrl = appUrl();
+    if (name !== 'portal') {
+      const monthly = required('STRIPE_PRICE_MONTHLY');
+      const annual = required('STRIPE_PRICE_ANNUAL');
+      if (!/^price_[a-zA-Z0-9_]+$/.test(monthly) || !/^price_[a-zA-Z0-9_]+$/.test(annual) || monthly === annual) {
+        throw new HttpError(503, 'PRICE_CONFIGURATION', 'O pagamento está temporariamente indisponível. Tente novamente mais tarde.');
+      }
+      deps.config.prices = { monthly, annual };
+    }
+    if (name === 'webhook') deps.config.webhookSecret = required('STRIPE_WEBHOOK_SECRET');
+  }
   return deps;
 }
 
