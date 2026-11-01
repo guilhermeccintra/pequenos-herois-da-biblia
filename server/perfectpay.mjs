@@ -8,14 +8,16 @@ export function authenticatePostback(payload, secret) {
 }
 export function parsePerfectPayEvent(payload) {
   const plan = Object.keys(CODES).find(k=>CODES[k]===payload?.plan?.code);
-  const email = payload?.customer?.email?.trim().toLowerCase();
+  const email = typeof payload?.customer?.email === 'string' ? payload.customer.email.trim().toLowerCase() : null;
   const code = payload?.code;
   const status = payload?.sale_status_enum;
   if (!plan || typeof email !== 'string' || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || typeof code !== 'string' || !/^[a-zA-Z0-9_-]{5,100}$/.test(code) || !Number.isInteger(status)) throw new HttpError(422,'INVALID_SALE','Venda inválida ou plano não reconhecido.');
   // Perfect Pay reports approved=2 and completed=10; authorized=8 is NOT settled.
-  const kind = [2,10].includes(status)?'paid':[6,7,9].includes(status)?'reversed':'ignored';
-  const date = payload.date_approved || payload.date_created;
-  const stamp = typeof date==='string' ? Date.parse(date.replace(' ','T') + (/[zZ]|[+-]\d\d:?\d\d$/.test(date)?'':'-03:00')) : NaN;
+  // Status 6 (cancellation) must not revoke an already-paid period.
+  // Confirm the provider's live status mapping before enabling reversals.
+  const kind = [2,10].includes(status)?'paid':[7,9].includes(status)?'reversed':'ignored';
+  const date = kind === 'paid' ? payload.date_approved : (payload.date_updated || payload.date_created);
+  const stamp = typeof date==='string' && /^\d{4}-\d\d-\d\d[T ]\d\d:\d\d:\d\d(?:\.\d+)?(?:Z|[+-]\d\d:?\d\d)?$/.test(date) ? Date.parse(date.replace(' ','T') + (/[zZ]|[+-]\d\d:?\d\d$/.test(date)?'':'-03:00')) : NaN;
   if (kind!=='ignored' && !Number.isFinite(stamp)) throw new HttpError(422,'INVALID_DATE','Data da venda ausente ou inválida.');
   return {plan,email,code,status,kind,at:Number.isFinite(stamp)?new Date(stamp).toISOString():null};
 }
@@ -29,6 +31,7 @@ export async function perfectPayCheckout(user,plan,{repo}) {
   if (!user.email || !user.email_confirmed_at) throw new HttpError(403,'EMAIL_NOT_VERIFIED','Confirme seu e-mail antes de assinar.');
   const row=await repo.getSubscription(user.id);
   if (hasAccess(row)) throw new HttpError(409,'SUBSCRIPTION_EXISTS','Você já possui acesso ativo.');
+  if (!Object.hasOwn(CHECKOUTS,plan)) throw new HttpError(400,'INVALID_PLAN','Plano inválido.');
   return {url:CHECKOUTS[plan]};
 }
 export async function perfectPayWebhook(payload,{repo,config}) {
