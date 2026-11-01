@@ -1,6 +1,6 @@
 /** Server-owned commercial and access rules. Never import this module into the client. */
 export const PLANS = Object.freeze({
-  monthly: Object.freeze({ amount: 4700, interval: 'month' }),
+  monthly: Object.freeze({ amount: 2990, interval: 'month' }),
   annual: Object.freeze({ amount: 19700, interval: 'year' }),
 });
 
