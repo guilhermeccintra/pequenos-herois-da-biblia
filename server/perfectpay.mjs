@@ -1,7 +1,7 @@
 import { timingSafeEqual } from 'node:crypto';
 import { HttpError, hasAccess } from './rules.mjs';
 export const CHECKOUTS = Object.freeze({monthly:'https://go.perfectpay.com.br/PPU38CQHE7N',annual:'https://go.perfectpay.com.br/PPU38CQHE7P'});
-export const CODES = Object.freeze({monthly:'PPU38CQHE7N',annual:'PPU38CQHE7P'});
+export const CODES = Object.freeze({monthly:'PPLQQQT3S',annual:'PPLQQQT3U'});
 export function authenticatePostback(payload, secret) {
   const received = payload?.token;
   if (typeof received !== 'string' || typeof secret !== 'string' || !secret || Buffer.byteLength(received)!==Buffer.byteLength(secret) || !timingSafeEqual(Buffer.from(received),Buffer.from(secret))) throw new HttpError(401,'INVALID_WEBHOOK_TOKEN','Webhook não autorizado.');
