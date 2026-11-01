@@ -155,7 +155,6 @@ export async function createCheckout(user, plan, deps) {
       mode: 'subscription',
       client_reference_id: user.id,
       line_items: [{ price: price.id, quantity: 1 }],
-      payment_method_types: ['card'],
       allow_promotion_codes: false,
       adaptive_pricing: { enabled: false },
       automatic_tax: { enabled: false },
