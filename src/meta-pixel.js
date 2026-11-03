@@ -77,5 +77,10 @@ export function createMetaPixelTracker({ win, doc, pixelId = META_PIXEL_ID, thre
   win.addEventListener('keydown', onKeydown);
   win.addEventListener('scroll', onScroll, { passive: true });
 
-  return { syncRoute };
+  function initiateCheckout(plan) {
+    if (!eligible() || !['monthly', 'annual'].includes(plan)) return;
+    win.fbq('track', 'InitiateCheckout', { content_ids: [plan] });
+  }
+
+  return { syncRoute, initiateCheckout };
 }

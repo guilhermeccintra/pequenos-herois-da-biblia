@@ -91,3 +91,18 @@ test('keyboard scrolling excludes typing in form fields', () => {
   win.scrollY = 145; fire('scroll');
   assert.equal(calls().filter((call) => call[1] === 'ViewContent').length, 1);
 });
+
+test('plan clicks track only the selected plan on public sales pages', () => {
+  for (const [path, plan] of [['/', 'monthly'], ['/planos', 'annual']]) {
+    const { tracker, win, calls } = fixture(path);
+    tracker.syncRoute();
+    tracker.initiateCheckout('invalid');
+    tracker.initiateCheckout(plan);
+    win.location.pathname = '/cadastro';
+    tracker.syncRoute();
+    tracker.initiateCheckout(plan);
+    assert.deepEqual(calls().filter(call => call[1] === 'InitiateCheckout'), [
+      ['track', 'InitiateCheckout', { content_ids: [plan] }],
+    ]);
+  }
+});

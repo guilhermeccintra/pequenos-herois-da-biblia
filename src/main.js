@@ -331,7 +331,8 @@ async function openStripeCheckout(plan) {
   safeRedirect(url);
 }
 async function startCheckout(plan, button) {
-  if (!["annual", "monthly"].includes(plan)) return;
+  if (!["annual", "monthly"].includes(plan) || button?.disabled) return;
+  metaPixel.initiateCheckout(plan);
   if (!state.session) {
     navigate(`/cadastro?plano=${plan}`);
     return;
