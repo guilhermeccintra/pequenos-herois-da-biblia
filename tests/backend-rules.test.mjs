@@ -62,6 +62,25 @@ test('a mismatched Stripe price or multiple subscription items cannot grant acce
   ]) assert.equal(rules.hasAccess(rules.selectSubscription([{ ...active, items }], prices, now), now), false);
 });
 
+test('legacy monthly subscriptions remain recognized without enabling the old price for new checkouts', () => {
+  const legacy = { ...price, id: 'price_1UWoyACdgeVwNcuus4xyAppm', unit_amount: 2990 };
+  const item = { ...active.items.data[0], price: legacy };
+  const previous = { ...active, id: 'sub_legacy', items: { data: [item], has_more: false } };
+  const snapshot = rules.selectSubscription([previous], prices, now);
+  assert.equal(snapshot.plan, 'monthly');
+  assert.equal(snapshot.status, 'active');
+  assert.equal(rules.hasAccess(snapshot, now), true);
+  assert.equal(rules.blocksNewSubscription(snapshot), true);
+  assert.throws(() => rules.validatePrice(legacy, 'monthly', prices), (error) => error.code === 'PRICE_CONFIGURATION');
+  for (const invalid of [
+    { unit_amount: 3790 }, { unit_amount: 1 }, { currency: 'usd' },
+    { recurring: { interval: 'year', interval_count: 1, usage_type: 'licensed' } },
+  ]) {
+    const bad = { ...previous, items: { data: [{ ...item, price: { ...legacy, ...invalid } }], has_more: false } };
+    assert.equal(rules.hasAccess(rules.selectSubscription([bad], prices, now), now), false);
+  }
+});
+
 test('media URLs expire no later than the entitlement and reject traversal', () => {
   assert.equal(typeof rules.mediaLifetime, 'function', 'signed-media expiry gate is missing');
   assert.equal(rules.mediaLifetime({ status: 'active', plan: 'monthly', current_period_end: '2026-10-30T12:00:45Z' }, now), 45);

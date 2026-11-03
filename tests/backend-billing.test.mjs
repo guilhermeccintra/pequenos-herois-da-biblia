@@ -105,6 +105,20 @@ test('checkout refuses an active Stripe subscription even if local webhook state
   assert.equal(deps.state.locked, false);
 });
 
+test('previously paid monthly subscribers cannot be charged a second subscription after the price ID changes', async () => {
+  const legacyPrice = { ...price, id: 'price_1UWoyACdgeVwNcuus4xyAppm', unit_amount: 2990 };
+  const oldSubscription = {
+    ...sub, id: 'sub_legacy', items: {
+      data: [{ ...sub.items.data[0], price: legacyPrice }], has_more: false,
+    },
+  };
+  const deps = fixture({ current: [oldSubscription] });
+  await assert.rejects(billing.createCheckout(user, 'monthly', deps), (error) => error.code === 'SUBSCRIPTION_EXISTS');
+  assert.equal(deps.state.created.length, 0);
+  assert.equal(deps.state.row.status, 'active');
+  assert.equal(deps.state.row.plan, 'monthly');
+});
+
 test('checkout reuses one customer, fixed server price, persistent idempotency key and an open session', async () => {
   assert.equal(typeof billing.createCheckout, 'function', 'checkout service is missing');
   const deps = fixture();

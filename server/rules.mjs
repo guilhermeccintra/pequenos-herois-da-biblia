@@ -4,6 +4,10 @@ export const PLANS = Object.freeze({
   annual: Object.freeze({ amount: 19700, interval: 'year' }),
 });
 
+// Keep previously purchased monthly subscriptions valid when the checkout price changes.
+// This ID is accepted for existing Stripe subscriptions only, never for new checkouts.
+const LEGACY_MONTHLY_PRICE = Object.freeze({ id: 'price_1UWoyACdgeVwNcuus4xyAppm', amount: 2990, interval: 'month' });
+
 export class HttpError extends Error {
   constructor(status, code, message) {
     super(message);
@@ -26,14 +30,17 @@ export function parsePlan(body) {
   return body.plan;
 }
 
+function matchesPrice(price, expected, expectedId, requireActive) {
+  return Boolean(expected && price && price.id === expectedId &&
+    (!requireActive || price.active === true) && price.type === 'recurring' &&
+    price.currency === 'brl' && price.unit_amount === expected.amount &&
+    price.billing_scheme === 'per_unit' && !price.transform_quantity &&
+    price.recurring?.interval === expected.interval && price.recurring?.interval_count === 1 &&
+    (!price.recurring?.usage_type || price.recurring.usage_type === 'licensed'));
+}
+
 export function validatePrice(price, plan, priceIds, { requireActive = true } = {}) {
-  const expected = PLANS[plan];
-  if (!expected || !price || price.id !== priceIds[plan] ||
-      (requireActive && price.active !== true) || price.type !== 'recurring' ||
-      price.currency !== 'brl' || price.unit_amount !== expected.amount ||
-      price.billing_scheme !== 'per_unit' || price.transform_quantity ||
-      price.recurring?.interval !== expected.interval || price.recurring?.interval_count !== 1 ||
-      (price.recurring?.usage_type && price.recurring.usage_type !== 'licensed')) {
+  if (!matchesPrice(price, PLANS[plan], priceIds[plan], requireActive)) {
     throw new HttpError(503, 'PRICE_CONFIGURATION', 'O pagamento está temporariamente indisponível. Tente novamente mais tarde.');
   }
   return true;
@@ -41,12 +48,18 @@ export function validatePrice(price, plan, priceIds, { requireActive = true } = 
 
 function subscriptionState(subscription, priceIds) {
   const item = subscription.items?.data?.[0];
-  const plan = Object.keys(PLANS).find((key) => priceIds[key] === item?.price?.id) ?? null;
+  const legacyMonthly = item?.price?.id === LEGACY_MONTHLY_PRICE.id;
+  const plan = legacyMonthly ? 'monthly' :
+    Object.keys(PLANS).find((key) => priceIds[key] === item?.price?.id) ?? null;
   const end = item?.current_period_end;
   let valid = subscription.items?.data?.length === 1 && !subscription.items?.has_more &&
     item.quantity === 1 && Number.isSafeInteger(end) && end > 0;
-  try { validatePrice(item?.price, plan, priceIds, { requireActive: false }); }
-  catch { valid = false; }
+  if (legacyMonthly) {
+    valid = valid && matchesPrice(item?.price, LEGACY_MONTHLY_PRICE, LEGACY_MONTHLY_PRICE.id, false);
+  } else {
+    try { validatePrice(item?.price, plan, priceIds, { requireActive: false }); }
+    catch { valid = false; }
+  }
   return {
     stripe_subscription_id: subscription.id,
     status: valid ? (subscription.pause_collection ? 'paused' : subscription.status) : 'invalid_price',
@@ -60,7 +73,8 @@ export function selectSubscription(subscriptions, priceIds, now = Date.now()) {
   // Read CURRENT Stripe objects after obtaining the per-account lock. Event payloads
   // are only notifications, never the source of an entitlement snapshot.
   const candidates = subscriptions
-    .filter((sub) => sub.items?.data?.some((item) => Object.values(priceIds).includes(item.price?.id)))
+    .filter((sub) => sub.items?.data?.some((item) =>
+      Object.values(priceIds).includes(item.price?.id) || item.price?.id === LEGACY_MONTHLY_PRICE.id))
     .map((sub) => ({ ...subscriptionState(sub, priceIds), created: sub.created ?? 0 }));
   const blocking = new Set(['active', 'trialing', 'past_due', 'unpaid', 'paused', 'incomplete', 'invalid_price']);
   candidates.sort((a, b) => Number(hasAccess(b, now)) - Number(hasAccess(a, now)) ||

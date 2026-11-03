@@ -90,7 +90,7 @@ Esta é a integração de pagamento escolhida nesta versão. O Checkout aceita c
 
 1. Comece em **modo de teste**.
 2. Crie o produto e dois preços recorrentes em BRL: **R$ 37,90 / 1 mês** e **R$ 197 / 1 ano**. Quantidade fixa 1, sem trial nem cobrança medida.
-3. Copie cada `price_...` para `STRIPE_PRICE_MONTHLY` e `STRIPE_PRICE_ANNUAL`.
+3. Copie cada `price_...` para `STRIPE_PRICE_MONTHLY` e `STRIPE_PRICE_ANNUAL`. Para novas compras mensais, atualize o ID de `STRIPE_PRICE_MONTHLY` no ambiente da Vercel e faça novo deploy. Esse é um ID de preço, não um link `buy.stripe.com`: o botão da landing cria uma sessão Stripe Checkout via `/api/checkout`. Assinaturas antigas no preço mensal anterior continuam reconhecidas pelo backend; alterar o preço de assinaturas já existentes requer uma migração separada no Stripe.
 4. Copie a chave secreta de teste para `STRIPE_SECRET_KEY`.
 5. Ative o Customer Portal para atualização do pagamento e cancelamento. Se habilitar troca de plano, restrinja aos dois preços e decida conscientemente a configuração de prorrata.
 6. Após o primeiro deploy Vercel, crie uma destinação webhook **snapshot** em `https://SEU_DOMINIO/api/webhook`. A lista exata de eventos está em `docs/BACKEND.md`.
