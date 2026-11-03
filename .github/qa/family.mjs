@@ -3,8 +3,9 @@ import binary from '@sparticuz/chromium';
 import assert from 'node:assert/strict';
 const browser = await chromium.launch({executablePath: await binary.executablePath(), args:binary.args});
 try {
+  const page = await browser.newPage();
   for (const width of [320, 390, 768, 1440]) {
-    const page = await browser.newPage({viewport:{width,height:900}});
+    await page.setViewportSize({width,height:900});
     await page.route(/facebook|google-analytics|googletagmanager/, r => r.abort());
     await page.goto('http://127.0.0.1:4173');
     await page.locator('.age-note').waitFor();
@@ -24,7 +25,7 @@ try {
     assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
     await page.locator('.hero-actions .button').click();
     assert.equal(new URL(page.url()).hash,'#planos');
-    await page.close();
+
     console.log('Responsive layout, hero CTA and FAQ passed at '+width+' px');
   }
 } finally {await browser.close();}
