@@ -187,3 +187,16 @@ Pixel 1816678829421239 instalado no módulo src/meta-pixel.js. PageView é envia
 InitiateCheckout e Purchase não são enviados pelo aplicativo; devem ser configurados separadamente na Stripe. O Pixel não inicia em acessos diretos às histórias, biblioteca, cadastro, conta ou demais páginas restritas. A configuração automática de eventos foi desativada. A CSP mantém scripts inline bloqueados e limita o acesso externo aos domínios necessários da Meta.
 
 A imagem noscript do snippet original não foi incluída porque index.html também serve as páginas infantis e enviaria PageView nelas sem JavaScript. A página de privacidade informa o rastreamento nas páginas comerciais. Revise os requisitos de consentimento e as restrições da Meta para dados de menores de 13 anos antes de anunciar.
+
+
+## Google Analytics 4 — funil de vendas e Stripe
+
+O fluxo comercial utiliza a propriedade GA4 **G-EXNJ4MGX7V**. O módulo `src/analytics.js` carrega `gtag.js` exclusivamente nas páginas `/`, `/planos`, `/entrar` e `/cadastro`; envia um `page_view` por navegação (inclusive SPA, sem duplo disparo), `view_item` após 40px de rolagem real na oferta e `begin_checkout` ao receber uma sessão Stripe válida. Não faz rastreamento nas histórias, biblioteca nem conta.
+
+Antes do redirecionamento, o checkout autenticado pode receber somente os identificadores técnicos GA4 `client_id` e `session_id`, validados pelo servidor e armazenados nos metadados da sessão e da assinatura da Stripe. Nenhuma informação pessoal, valor ou ID de transação é enviado pelo navegador no pedido de checkout.
+
+Após o primeiro pagamento, o webhook Stripe `invoice.paid` (primeira fatura com `billing_reason=subscription_create`, `status=paid` e valor positivo) envia `purchase` via Measurement Protocol, com o valor real pago, BRL, identificador da fatura como `transaction_id` e IDs da sessão GA4, se disponíveis. Renovações não são contadas como novas compras neste fluxo. A atribuição só é possível para sessões Stripe criadas com os novos metadados GA4; eventos anteriores não são recriados. A segurança da assinatura e a liberação de acesso não dependem da disponibilidade do GA4.
+
+**Ação obrigatória:** crie uma chave do Measurement Protocol no GA4: Administrador > Fluxos de dados > selecione o fluxo G-EXNJ4MGX7V > Chaves secretas da API do Measurement Protocol > Criar. No projeto Vercel, configure a variável `GA4_API_SECRET` com o valor privado da chave para o ambiente **Production**, sem prefixo `VITE_`, e faça novo deploy de produção. A chave não é a mesma que o Measurement ID e não deve ser commitada ou colada em arquivos públicos.
+
+A CSP do site libera `www.googletagmanager.com`, `www.google-analytics.com` e `region1.google-analytics.com`. A página da Stripe é hospedada em domínio próprio e não recebe scripts do site; as compras são observadas pelo webhook autenticado. Se a chave não estiver configurada, `purchase` não será enviado ao GA4. Após configurar, teste uma nova assinatura paga compatível com o ambiente de produção e confira o GA4 em Tempo real / Monetização. Para debugar localmente, não envie conversões falsas ao fluxo de produção.
