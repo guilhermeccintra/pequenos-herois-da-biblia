@@ -9,6 +9,7 @@ import { reader } from "./reader.js";
 import { authView, accountView } from "./auth.js";
 import { legalPage } from "./legal.js";
 import { createMetaPixelTracker } from "./meta-pixel.js";
+import { createGa4Tracker } from "./analytics.js";
 import {
   demo,
   configured,
@@ -22,6 +23,7 @@ import {
 } from "./services.js";
 const app = document.querySelector("#app");
 const metaPixel = createMetaPixelTracker({ win: window, doc: document });
+const ga4 = createGa4Tracker({ win: window, doc: document });
 metaPixel.syncRoute();
 const readSetting = (key, fallback) => {
   try {
@@ -151,6 +153,7 @@ async function render() {
   } else content = notFound();
   if (version !== renderVersion) return;
   shell(content);
+  ga4.trackRoute();
   bindPage();
   document.querySelector("#main")?.focus({ preventScroll: true });
   const hash = route === "/planos" ? "planos" : location.hash.slice(1);
@@ -318,6 +321,15 @@ function bindPage() {
   document.querySelector("#auth-form")?.addEventListener("submit", submitAuth);
   bindReader();
 }
+async function openStripeCheckout(plan) {
+  const analytics = await ga4.checkoutAttribution();
+  const { url } = await api("checkout", {
+    method: "POST",
+    body: { plan, ...(analytics ? { analytics } : {}) },
+  });
+  await ga4.beginCheckout(plan);
+  safeRedirect(url);
+}
 async function startCheckout(plan, button) {
   if (!["annual", "monthly"].includes(plan)) return;
   if (!state.session) {
@@ -329,8 +341,7 @@ async function startCheckout(plan, button) {
     return;
   }
   await busy(button, async () => {
-    const { url } = await api("checkout", { method: "POST", body: { plan } });
-    safeRedirect(url);
+    await openStripeCheckout(plan);
   });
 }
 function safeRedirect(url) {
@@ -422,8 +433,7 @@ async function submitAuth(event) {
     state.session = result.data.session;
     await refreshAccount();
     if (["annual", "monthly"].includes(plan) && !state.hasAccess && !demo) {
-      const { url } = await api("checkout", { method: "POST", body: { plan } });
-      safeRedirect(url);
+      await openStripeCheckout(plan);
     } else navigate("/biblioteca");
   } catch (err) {
     const known = {
