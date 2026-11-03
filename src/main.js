@@ -8,6 +8,7 @@ import { library, storyCard, paywall } from "./library.js";
 import { reader } from "./reader.js";
 import { authView, accountView } from "./auth.js";
 import { legalPage } from "./legal.js";
+import { createMetaPixelTracker } from "./meta-pixel.js";
 import {
   demo,
   configured,
@@ -20,6 +21,8 @@ import {
   waitForProgress,
 } from "./services.js";
 const app = document.querySelector("#app");
+const metaPixel = createMetaPixelTracker({ win: window, doc: document });
+metaPixel.syncRoute();
 const readSetting = (key, fallback) => {
   try {
     return localStorage.getItem(key) ?? fallback;
@@ -86,6 +89,7 @@ const refreshAccount = createAccountRefresher(state, {
   demo,
 });
 async function render() {
+  metaPixel.syncRoute();
   const version = ++renderVersion;
   const route = location.pathname.replace(/\/$/, "") || "/";
   state.story = null;
