@@ -5,7 +5,10 @@ import { createMetaPixelTracker, META_PIXEL_ID } from '../src/meta-pixel.js';
 function fixture(pathname = '/') {
   const events = new Map();
   const scripts = [];
+  const requests = [];
   const win = {
+    crypto: { randomUUID: () => 'test-' + requests.length },
+    async fetch(url, options) { requests.push({ url, ...options }); },
     location: { pathname },
     scrollY: 0,
     addEventListener(name, callback) {
@@ -21,7 +24,7 @@ function fixture(pathname = '/') {
     for (const callback of events.get(name) || []) callback(event);
   };
   const calls = () => win.fbq?.queue || [];
-  return { win, doc, scripts, fire, calls, tracker: createMetaPixelTracker({ win, doc }) };
+  return { win, doc, scripts, fire, calls, requests, tracker: createMetaPixelTracker({ win, doc }) };
 }
 
 test('initial PageView loads the correct Pixel once on the sales landing page', () => {
@@ -33,7 +36,7 @@ test('initial PageView loads the correct Pixel once on the sales landing page', 
   assert.deepEqual(calls(), [
     ['set', 'autoConfig', false, META_PIXEL_ID],
     ['init', META_PIXEL_ID],
-    ['track', 'PageView'],
+    ['track', 'PageView', {}, { eventID: 'test-0' }],
   ]);
 });
 
@@ -102,7 +105,28 @@ test('plan clicks track only the selected plan on public sales pages', () => {
     tracker.syncRoute();
     tracker.initiateCheckout(plan);
     assert.deepEqual(calls().filter(call => call[1] === 'InitiateCheckout'), [
-      ['track', 'InitiateCheckout', { content_ids: [plan] }],
+      ['track', 'InitiateCheckout', { content_ids: [plan] }, { eventID: 'test-1' }],
     ]);
   }
+});
+
+test('browser and API copies share a distinct ID for every event', () => {
+  const { tracker, win, fire, calls, requests } = fixture('/planos');
+  tracker.syncRoute();
+  fire('wheel'); win.scrollY = 80; fire('scroll');
+  tracker.initiateCheckout('annual');
+  win.location.pathname = '/biblioteca';
+  tracker.syncRoute();
+  tracker.initiateCheckout('monthly');
+  assert.equal(requests.length, 3);
+  const browser = calls().filter(([op]) => op === 'track');
+  requests.forEach((request, i) => {
+    const { name, id, path } = JSON.parse(request.body);
+    assert.equal(request.url, '/api/meta-events');
+    assert.equal(request.keepalive, true);
+    assert.equal(path, '/planos');
+    assert.equal(name, browser[i][1]);
+    assert.equal(id, browser[i][3].eventID);
+  });
+  assert.equal(new Set(browser.map(call => call[3].eventID)).size, 3);
 });

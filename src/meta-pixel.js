@@ -41,6 +41,17 @@ export function createMetaPixelTracker({ win, doc, pixelId = META_PIXEL_ID, thre
     return SALES_PATHS.has(activePath);
   }
 
+  function track(name, plan) {
+    const id = win.crypto.randomUUID();
+    const data = plan ? { content_ids: [plan] } : {};
+    // Keep the request alive when the plan button navigates to registration or Stripe.
+    win.fetch('/api/meta-events', {
+      method: 'POST', keepalive: true, headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, id, path: activePath, plan }),
+    }).catch(() => {});
+    win.fbq('track', name, data, { eventID: id });
+  }
+
   function syncRoute() {
     const path = normalizedPath(win.location.pathname);
     if (path === activePath) return;
@@ -49,7 +60,7 @@ export function createMetaPixelTracker({ win, doc, pixelId = META_PIXEL_ID, thre
     viewedContent = false;
     if (!eligible()) return;
     bootstrap();
-    win.fbq('track', 'PageView');
+    track('PageView');
   }
 
   function onScrollIntent() {
@@ -69,7 +80,7 @@ export function createMetaPixelTracker({ win, doc, pixelId = META_PIXEL_ID, thre
     if (!eligible() || viewedContent || scrollOrigin === null) return;
     if (Math.abs(win.scrollY - scrollOrigin) < threshold) return;
     viewedContent = true;
-    win.fbq('track', 'ViewContent');
+    track('ViewContent');
   }
 
   win.addEventListener('wheel', onScrollIntent, { passive: true });
@@ -79,7 +90,7 @@ export function createMetaPixelTracker({ win, doc, pixelId = META_PIXEL_ID, thre
 
   function initiateCheckout(plan) {
     if (!eligible() || !['monthly', 'annual'].includes(plan)) return;
-    win.fbq('track', 'InitiateCheckout', { content_ids: [plan] });
+    track('InitiateCheckout', plan);
   }
 
   return { syncRoute, initiateCheckout };
