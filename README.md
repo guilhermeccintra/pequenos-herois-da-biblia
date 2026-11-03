@@ -178,3 +178,12 @@ Não há mensalidade de hospedagem, banco, e-mail, voz ou taxas de pagamento inc
 ## Acesso gratuito do responsável
 
 `COMPLIMENTARY_ACCESS_EMAIL` (variável apenas de servidor) libera acesso completo à conta com e-mail verificado pelo Supabase Auth. A autorização é conferida no servidor tanto em `/api/account` quanto em `/api/story`, sem criar assinatura na Stripe, sem alterar os planos pagos e sem expor o e-mail na interface pública. O caminho `/api/checkout` rejeita novas compras dessa conta. Para revogar, remova a variável na Vercel e faça novo deploy. O acesso gratuito não depende de qualquer status de assinatura no banco.
+
+
+## Meta Pixel — páginas comerciais
+
+Pixel 1816678829421239 instalado no módulo src/meta-pixel.js. PageView é enviado ao entrar nas páginas públicas / e /planos (inclusive na navegação interna), sem duplicação por novas renderizações. ViewContent é enviado uma vez por visita à rota após rolagem real de 40 pixels com mouse, toque ou teclado. Rolagens automáticas não ativam ViewContent.
+
+InitiateCheckout e Purchase não são enviados pelo aplicativo; devem ser configurados separadamente na Stripe. O Pixel não inicia em acessos diretos às histórias, biblioteca, cadastro, conta ou demais páginas restritas. A configuração automática de eventos foi desativada. A CSP mantém scripts inline bloqueados e limita o acesso externo aos domínios necessários da Meta.
+
+A imagem noscript do snippet original não foi incluída porque index.html também serve as páginas infantis e enviaria PageView nelas sem JavaScript. A página de privacidade informa o rastreamento nas páginas comerciais. Revise os requisitos de consentimento e as restrições da Meta para dados de menores de 13 anos antes de anunciar.
