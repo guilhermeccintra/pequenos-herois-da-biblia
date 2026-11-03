@@ -5,8 +5,8 @@ const APP = 'pequenos-herois';
 const CLIENT_ID = /^\d{1,20}\.\d{1,20}$/;
 const SESSION_ID = /^\d{1,20}$/;
 const PLANS = {
-  monthly: { item_id: 'pequenos_herois_mensal', item_name: 'Pequenos Heróis — mensal' },
-  annual: { item_id: 'pequenos_herois_anual', item_name: 'Pequenos Heróis — anual' },
+  monthly: { item_id: 'pequenos_herois', item_name: 'Pequenos Heróis — biblioteca de histórias', item_variant: 'mensal' },
+  annual: { item_id: 'pequenos_herois', item_name: 'Pequenos Heróis — biblioteca de histórias', item_variant: 'anual' },
 };
 
 function subscriptionId(invoice) {
