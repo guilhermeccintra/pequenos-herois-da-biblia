@@ -3,8 +3,8 @@ export const GA4_ID = 'G-EXNJ4MGX7V';
 const PAGE_PATHS = new Set(['/', '/planos', '/entrar', '/cadastro']);
 const OFFER_PATHS = new Set(['/', '/planos']);
 export const GA4_OFFERS = Object.freeze({
-  monthly: Object.freeze({ item_id: 'pequenos_herois_mensal', item_name: 'Pequenos Heróis — mensal', price: 37.9 }),
-  annual: Object.freeze({ item_id: 'pequenos_herois_anual', item_name: 'Pequenos Heróis — anual', price: 197 }),
+  monthly: Object.freeze({ item_id: 'pequenos_herois', item_name: 'Pequenos Heróis — biblioteca de histórias', item_variant: 'mensal', price: 37.9 }),
+  annual: Object.freeze({ item_id: 'pequenos_herois', item_name: 'Pequenos Heróis — biblioteca de histórias', item_variant: 'anual', price: 197 }),
 });
 
 function pathOf(location) {
