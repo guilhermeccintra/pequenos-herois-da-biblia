@@ -1,7 +1,7 @@
 import { parseStorySelection } from "../shared/collection.mjs";
 import { createCheckout, processWebhook } from './billing.mjs';
 import { readJson, readRawBody, requireUser, route } from './http.mjs';
-import { HttpError, hasAccess, hasComplimentaryAccess, mediaLifetime, parsePlan, safeAssetPath } from './rules.mjs';
+import { HttpError, hasAccess, hasComplimentaryAccess, mediaLifetime, parseCheckoutRequest, safeAssetPath } from './rules.mjs';
 
 export function createHandlers(deps) {
   const { repo, authenticate, now = Date.now } = deps;
@@ -37,9 +37,9 @@ export function createHandlers(deps) {
     }),
     checkout: route('POST', async (req) => {
       const user = await requireUser(req, authenticate);
-      const plan = parsePlan(await readJson(req));
+      const { plan, analytics } = parseCheckoutRequest(await readJson(req));
       if (ownerHasAccess(user)) throw new HttpError(403, 'COMPLIMENTARY_ACCESS', 'Sua conta já tem acesso completo e não precisa de pagamento.');
-      return createCheckout(user, plan, deps);
+      return createCheckout(user, plan, deps, analytics);
     }),
     portal: route('POST', async (req) => {
       const user = await requireUser(req, authenticate);
