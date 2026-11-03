@@ -1,0 +1,59 @@
+name: Verificar leitura em família
+on:
+  push:
+    branches: ['qa/familia-89b9098']
+permissions:
+  contents: read
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 89b9098f342de2211d3bf760745ad2efaa4d6ed7
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Conferir hero e FAQ no Chromium
+        shell: bash
+        run: |
+          npm install --prefix "$RUNNER_TEMP/browser" playwright-core@1.56.1
+          cat > "$RUNNER_TEMP/browser/qa.mjs" <<'END_SCRIPT'
+          import { chromium } from 'playwright-core';
+          import assert from 'node:assert/strict';
+          const browser = await chromium.launch({executablePath: process.env.CHROME_BIN || '/usr/bin/google-chrome', args:['--no-sandbox']});
+          try {
+            for (const width of [320, 390, 768, 1440]) {
+              const page = await browser.newPage({viewport:{width,height:900}});
+              await page.route(/facebook|google-analytics|googletagmanager/, r => r.abort());
+              await page.goto('http://127.0.0.1:4173');
+              await page.locator('.age-note').waitFor();
+              await page.evaluate(() => document.fonts.ready);
+              assert.equal(await page.locator('.age-note').innerText(), 'Histórias bíblicas para viver em família');
+              const h1 = await page.locator('h1').innerText();
+              assert.equal(h1.replace(/\s+/g,' '), 'Histórias que ficam. Fé que cresce.');
+              const selectors=['.age-note','.hero-copy h1','.hero-description','.hero-actions .button','.illustration-book','.faq-list'];
+              for (const selector of selectors){
+                const box = await page.locator(selector).first().boundingBox();
+                assert.ok(box && box.width>0 && box.x >= -1 && box.x+box.width<=width+1, selector + ' at '+width+' '+JSON.stringify(box));
+              }
+              const summary=page.getByText('Para qual idade as histórias foram feitas?', {exact:true});
+              await summary.click();
+              assert.ok(await page.locator('details[open] p').isVisible());
+              assert.match(await page.locator('details[open] p').innerText(), /5 a 10 anos/);
+              assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));
+              await page.locator('.hero-actions .button').click();
+              assert.equal(new URL(page.url()).hash,'#planos');
+              await page.close();
+              console.log('Responsive layout, hero CTA and FAQ passed at '+width+' px');
+            }
+          } finally {await browser.close();}
+          END_SCRIPT
+          npm run preview -- --port 4173 >/tmp/familia-preview.log 2>&1 &
+          for i in {1..20}; do curl -fsS http://127.0.0.1:4173 >/dev/null && break || sleep 1; done
+          node "$RUNNER_TEMP/browser/qa.mjs"
