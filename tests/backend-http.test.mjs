@@ -76,6 +76,50 @@ test('account returns only own public subscription fields and progress', async (
   assert.equal(res.body.progress[0].favorite, true);
 });
 
+test('verified complimentary owner can read paid stories and account without any subscription', async () => {
+  const deps = fixture();
+  deps.config.complimentaryEmail = 'owner@example.test';
+  deps.authenticate = async (token) => token === 'valid'
+    ? { id: 'owner', email: 'OWNER@example.test', email_confirmed_at: '2026-11-01T00:00:00Z' }
+    : null;
+  deps.state.subscription = null;
+  const account = response();
+  await api.createHandlers(deps).account(request({ url: '/api/account' }), account);
+  assert.equal(account.statusCode, 200);
+  assert.equal(account.body.subscription, null);
+  assert.equal(account.body.hasAccess, true);
+  assert.equal(account.body.complimentaryAccess, true);
+  const story = response();
+  await api.createHandlers(deps).story(request(), story);
+  assert.equal(story.statusCode, 200);
+  assert.equal(deps.state.signed[0].lifetime, 900);
+  const checkout = response();
+  await api.createHandlers(deps).checkout(request({ method: 'POST', body: { plan: 'monthly' } }), checkout);
+  assert.equal(checkout.statusCode, 403);
+  assert.equal(checkout.body.code, 'COMPLIMENTARY_ACCESS');
+});
+
+test('other accounts and unverified email cannot use the complimentary grant', async () => {
+  for (const candidate of [
+    { id: 'owner', email: 'other@example.test', email_confirmed_at: '2026-11-01T00:00:00Z' },
+    { id: 'owner', email: 'owner@example.test', email_confirmed_at: null },
+  ]) {
+    const deps = fixture();
+    deps.config.complimentaryEmail = 'owner@example.test';
+    deps.authenticate = async (token) => token === 'valid' ? candidate : null;
+    deps.state.subscription = null;
+    const account = response();
+    await api.createHandlers(deps).account(request(), account);
+    assert.equal(account.body.hasAccess, false);
+    assert.equal(account.body.complimentaryAccess, false);
+    const story = response();
+    await api.createHandlers(deps).story(request(), story);
+    assert.equal(story.statusCode, 403);
+    assert.equal(deps.state.storyReads, 0);
+    assert.equal(deps.state.signed.length, 0);
+  }
+});
+
 test('unsupported methods and malformed checkout JSON fail without starting a payment', async () => {
   assert.equal(typeof api.createHandlers, 'function', 'HTTP routes are missing');
   const deps = fixture(); const res = response();

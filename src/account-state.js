@@ -13,6 +13,7 @@ export function createAccountRefresher(
     const isCurrent = () =>
       generation === current && state.session?.user.id === userId;
     state.subscription = null;
+    state.complimentaryAccess = false;
     state.hasAccess = demo;
     state.progress = readLocal(userId);
     if (!userId || demo) return;
@@ -27,12 +28,14 @@ export function createAccountRefresher(
           next[id] = value;
       }
       state.subscription = result.subscription;
+      state.complimentaryAccess = result.complimentaryAccess === true;
       state.hasAccess = result.hasAccess === true;
       state.progress = next;
       writeLocal(next, userId);
     } catch (error) {
       if (!isCurrent()) return;
       state.subscription = null;
+      state.complimentaryAccess = false;
       state.hasAccess = false;
       notify(error.message);
     }

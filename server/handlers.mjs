@@ -1,10 +1,11 @@
 import { parseStorySelection } from "../shared/collection.mjs";
 import { createCheckout, processWebhook } from './billing.mjs';
 import { readJson, readRawBody, requireUser, route } from './http.mjs';
-import { HttpError, hasAccess, mediaLifetime, parsePlan, safeAssetPath } from './rules.mjs';
+import { HttpError, hasAccess, hasComplimentaryAccess, mediaLifetime, parsePlan, safeAssetPath } from './rules.mjs';
 
 export function createHandlers(deps) {
   const { repo, authenticate, now = Date.now } = deps;
+  const ownerHasAccess = (user) => hasComplimentaryAccess(user, deps.config?.complimentaryEmail);
   return {
     account: route('GET', async (req) => {
       const user = await requireUser(req, authenticate);
@@ -13,7 +14,8 @@ export function createHandlers(deps) {
         status: row.status, plan: row.plan, current_period_end: row.current_period_end,
         cancel_at_period_end: Boolean(row.cancel_at_period_end),
       } : null;
-      return { user: { id: user.id, email: user.email }, subscription, hasAccess: hasAccess(subscription, now()), progress };
+      const complimentaryAccess = ownerHasAccess(user);
+      return { user: { id: user.id, email: user.email }, subscription, hasAccess: complimentaryAccess || hasAccess(subscription, now()), complimentaryAccess, progress };
     }),
     story: route('GET', async (req) => {
       const user = await requireUser(req, authenticate);
@@ -22,7 +24,7 @@ export function createHandlers(deps) {
         throw new HttpError(400, 'INVALID_STORY', 'Escolha uma história válida.');
       }
       const subscription = await repo.getSubscription(user.id);
-      const lifetime = mediaLifetime(subscription, now());
+      const lifetime = ownerHasAccess(user) ? 900 : mediaLifetime(subscription, now());
       const body = await repo.getStory(Number(idParam));
       if (!body) throw new HttpError(404, 'STORY_NOT_FOUND', 'Esta história não foi encontrada.');
       const paths = body.parts.map((part) => safeAssetPath(part.image));
@@ -36,6 +38,7 @@ export function createHandlers(deps) {
     checkout: route('POST', async (req) => {
       const user = await requireUser(req, authenticate);
       const plan = parsePlan(await readJson(req));
+      if (ownerHasAccess(user)) throw new HttpError(403, 'COMPLIMENTARY_ACCESS', 'Sua conta já tem acesso completo e não precisa de pagamento.');
       return createCheckout(user, plan, deps);
     }),
     portal: route('POST', async (req) => {

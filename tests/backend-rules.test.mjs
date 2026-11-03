@@ -7,6 +7,15 @@ const prices = { monthly: 'price_monthly', annual: 'price_annual' };
 const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 3790, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
 const active = { id: 'sub_current', customer: 'cus_owner', created: 1793304000, status: 'active', cancel_at_period_end: false, items: { data: [{ quantity: 1, current_period_end: 1796040000, price }], has_more: false } };
 
+test('complimentary access requires a verified server-authenticated matching email', () => {
+  const owner = { id: 'owner-uuid', email: 'OWNER@example.test', email_confirmed_at: '2026-11-01T00:00:00Z' };
+  assert.equal(rules.hasComplimentaryAccess(owner, 'owner@example.test'), true);
+  assert.equal(rules.hasComplimentaryAccess(owner, ''), false);
+  assert.equal(rules.hasComplimentaryAccess({ ...owner, email_confirmed_at: null }, 'owner@example.test'), false);
+  assert.equal(rules.hasComplimentaryAccess({ ...owner, id: null }, 'owner@example.test'), false);
+  assert.equal(rules.hasComplimentaryAccess({ ...owner, email: 'other@example.test' }, 'owner@example.test'), false);
+});
+
 test('reading requires a paid active plan with a strictly future, valid end date', () => {
   assert.equal(typeof rules.hasAccess, 'function', 'access gate is missing');
   for (const [subscription, expected] of [

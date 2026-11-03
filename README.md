@@ -174,3 +174,7 @@ Para mudar preços futuramente, altere o cadastro Stripe, a validação `server/
 As imagens privadas são carregadas conforme a leitura. O catálogo mostra 24 cartões por vez e carrega as capas sob demanda; não baixa o acervo inteiro ao abrir a landing. A imagem principal tem cerca de 149 KB. Fontes são locais e têm licenças OFL em `public/fonts/`.
 
 Não há mensalidade de hospedagem, banco, e-mail, voz ou taxas de pagamento incluída no código. Esses serviços pertencem às contas que você conectar. O pacote não depende dos PDFs anteriores.
+
+## Acesso gratuito do responsável
+
+`COMPLIMENTARY_ACCESS_EMAIL` (variável apenas de servidor) libera acesso completo à conta com e-mail verificado pelo Supabase Auth. A autorização é conferida no servidor tanto em `/api/account` quanto em `/api/story`, sem criar assinatura na Stripe, sem alterar os planos pagos e sem expor o e-mail na interface pública. O caminho `/api/checkout` rejeita novas compras dessa conta. Para revogar, remova a variável na Vercel e faça novo deploy. O acesso gratuito não depende de qualquer status de assinatura no banco.

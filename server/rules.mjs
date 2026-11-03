@@ -16,6 +16,16 @@ export class HttpError extends Error {
   }
 }
 
+// This grant is separate from Stripe billing and only trusts a server-verified user.
+export function hasComplimentaryAccess(user, configuredEmail) {
+  return Boolean(
+    typeof configuredEmail === 'string' && configuredEmail.trim() &&
+    user?.id && typeof user?.email === 'string' &&
+    user.email_confirmed_at &&
+    user.email.trim().toLowerCase() === configuredEmail.trim().toLowerCase()
+  );
+}
+
 export function hasAccess(subscription, now = Date.now()) {
   return Boolean(subscription && subscription.status === 'active' &&
     Object.hasOwn(PLANS, subscription.plan ?? '') &&
