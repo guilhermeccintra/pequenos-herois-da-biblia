@@ -80,7 +80,8 @@ test('Checkout attribution and begin_checkout use the actual server-owned plan p
   const begin = calls.find((args) => args[0] === 'event' && args[1] === 'begin_checkout');
   assert.equal(begin[2].currency, 'BRL');
   assert.equal(begin[2].value, GA4_OFFERS.monthly.price);
-  assert.equal(begin[2].items[0].item_id, 'pequenos_herois_mensal');
+  assert.equal(begin[2].items[0].item_id, 'pequenos_herois');
+  assert.equal(begin[2].items[0].item_variant, 'mensal');
   assert.deepEqual(parseCheckoutRequest({ plan: 'monthly', analytics: attribution }), { plan: 'monthly', analytics: attribution });
   assert.deepEqual(parseCheckoutRequest({ plan: 'annual' }), { plan: 'annual', analytics: null });
   assert.throws(() => parseCheckoutRequest({ plan: 'monthly', amount: 1 }), /Escolha o plano/);
