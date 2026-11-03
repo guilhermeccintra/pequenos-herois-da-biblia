@@ -1,4 +1,5 @@
 import { HttpError, blocksNewSubscription, selectSubscription, validatePrice } from './rules.mjs';
+import { reportFirstPaidInvoice } from './ga4.mjs';
 
 const APP = 'pequenos-herois';
 const EVENTS = new Set([
@@ -112,11 +113,20 @@ export async function processWebhook(event, deps) {
     if (await repo.eventProcessed(event.id)) return { received: true, duplicate: true };
     const snapshot = await currentSubscription(customerId, deps);
     await repo.commitSubscription(row.user_id, token, snapshot, event);
+    if (event.type === 'invoice.paid') {
+      try {
+        const result = await reportFirstPaidInvoice(event, { ...deps, ga4UserId: row.user_id });
+        if (result.skipped === 'missing_api_secret') console.info('ga4_purchase_missing_api_secret');
+      } catch (error) {
+        // Never fail a Stripe payment webhook or revoke access because analytics is down.
+        console.error('ga4_purchase_delivery_failed', error?.message);
+      }
+    }
     return { received: true };
   });
 }
 
-export async function createCheckout(user, plan, deps) {
+export async function createCheckout(user, plan, deps, analytics = null) {
   const { stripe, repo, config } = deps;
   return underLock(repo, user.id, async (token) => {
     const price = await stripe.prices.retrieve(config.prices[plan]);
@@ -149,7 +159,11 @@ export async function createCheckout(user, plan, deps) {
     }
 
     const requestId = await repo.reserveCheckout(user.id, token, plan);
-    const metadata = { auth_user_id: user.id, app: APP, plan, price_id: price.id, checkout_request_id: requestId };
+    const metadata = {
+      auth_user_id: user.id, app: APP, plan, price_id: price.id, checkout_request_id: requestId,
+      ...(analytics?.client_id ? { ga4_client_id: analytics.client_id } : {}),
+      ...(analytics?.session_id ? { ga4_session_id: analytics.session_id } : {}),
+    };
     const session = await stripe.checkout.sessions.create({
       customer: customerId,
       mode: 'subscription',
