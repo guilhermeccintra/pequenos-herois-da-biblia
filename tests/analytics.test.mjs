@@ -148,3 +148,43 @@ test('GA4 server sends only the first paid invoice with validated subscription m
   assert.equal(sent.length, 1);
   assert.equal((await reportFirstPaidInvoice(event, { ...deps, config: {} }, fetchImpl)).skipped, 'missing_api_secret');
 });
+
+
+test('purchase uses verified completed legacy Checkout Session when subscription lacks GA4 metadata', async () => {
+  const sent = [];
+  const deps = {
+    ga4UserId: 'owner-1',
+    config: { ga4ApiSecret: 'test-secret' },
+    stripe: {
+      subscriptions: { retrieve: async () => ({ customer: 'cus_1', metadata: { app: 'pequenos-herois' } }) },
+      checkout: { sessions: { async *list(params) {
+        assert.equal(params.customer, 'cus_1');
+        yield {
+          customer: 'cus_1',
+          mode: 'subscription',
+          status: 'complete',
+          payment_status: 'paid',
+          subscription: 'sub_other',
+          metadata,
+        };
+        yield {
+          customer: 'cus_1',
+          mode: 'subscription',
+          status: 'complete',
+          payment_status: 'paid',
+          subscription: 'sub_1',
+          metadata,
+        };
+      } } },
+    },
+  };
+  const event = { type: 'invoice.paid', data: { object: paidInvoice } };
+  const result = await reportFirstPaidInvoice(event, deps, async (_url, init) => {
+    sent.push(JSON.parse(init.body));
+    return { ok: true, status: 204 };
+  });
+  assert.equal(result.sent, true);
+  assert.equal(sent.length, 1);
+  assert.equal(sent[0].client_id, '123.456');
+  assert.equal(sent[0].events[0].params.transaction_id, 'in_first_paid');
+});
