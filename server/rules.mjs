@@ -40,6 +40,27 @@ export function parsePlan(body) {
   return body.plan;
 }
 
+// Checkout analytics fields are optional, strictly scoped and never used for billing.
+// Do not accept user-supplied amounts, currency, transaction IDs or personal data.
+export function parseCheckoutRequest(body) {
+  if (!body || typeof body !== 'object' || Array.isArray(body) ||
+      Object.keys(body).some((key) => !['plan', 'analytics'].includes(key))) {
+    throw new HttpError(400, 'INVALID_PLAN', 'Escolha o plano mensal ou anual.');
+  }
+  const plan = parsePlan({ plan: body.plan });
+  const data = body.analytics;
+  if (data === undefined || data === null) return { plan, analytics: null };
+  if (!data || typeof data !== 'object' || Array.isArray(data) ||
+      Object.keys(data).some((key) => !['client_id', 'session_id'].includes(key)) ||
+      typeof data.client_id !== 'string' || !/^\d{1,20}\.\d{1,20}$/.test(data.client_id) ||
+      (data.session_id !== undefined && (typeof data.session_id !== 'string' ||
+      !/^\d{1,20}$/.test(data.session_id)))) {
+    throw new HttpError(400, 'INVALID_ANALYTICS', 'Parâmetros inválidos para a medição.');
+  }
+  return { plan, analytics: { client_id: data.client_id,
+    ...(data.session_id ? { session_id: data.session_id } : {}) } };
+}
+
 function matchesPrice(price, expected, expectedId, requireActive) {
   return Boolean(expected && price && price.id === expectedId &&
     (!requireActive || price.active === true) && price.type === 'recurring' &&
