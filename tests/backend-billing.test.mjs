@@ -246,3 +246,18 @@ test('F2: replaying an unresolved create key reconciles a completed Stripe resul
   await assert.rejects(billing.createCheckout(user, 'monthly', deps), (error) => error.code === 'CHECKOUT_PENDING');
   assert.equal(deps.state.row.checkout_session_id, 'cs_previous');
 });
+
+
+test('checkout securely carries GA4 client and session identifiers into Stripe subscription metadata', async () => {
+  const deps = fixture();
+  const analytics = { client_id: '123.456', session_id: '789' };
+  await billing.createCheckout(user, 'monthly', deps, analytics);
+  const { payload } = deps.state.created[0];
+  assert.equal(payload.metadata.ga4_client_id, analytics.client_id);
+  assert.equal(payload.subscription_data.metadata.ga4_client_id, analytics.client_id);
+  assert.equal(payload.subscription_data.metadata.ga4_session_id, analytics.session_id);
+  assert.equal(payload.subscription_data.metadata.plan, 'monthly');
+  assert.equal(payload.subscription_data.metadata.auth_user_id, user.id);
+  assert.equal(payload.subscription_data.metadata.email, undefined);
+  assert.equal(payload.subscription_data.metadata.amount, undefined);
+});
