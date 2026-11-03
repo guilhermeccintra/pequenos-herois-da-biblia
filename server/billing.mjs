@@ -49,7 +49,7 @@ async function reconcileClosedSession(session, userId, token, deps) {
   throw new HttpError(409, 'SUBSCRIPTION_EXISTS', 'Você já possui uma assinatura. Gerencie seu plano na área da conta.');
 }
 
-async function reconcileCheckoutSessions(row, customerId, user, token, plan, priceId, deps) {
+async function reconcileCheckoutSessions(row, customerId, user, token, plan, priceId, deps, analytics = null) {
   const { stripe, repo, now = Date.now } = deps;
   const sessions = new Map();
   // Include closed sessions: hosted payment completion is outside our database
@@ -93,7 +93,21 @@ async function reconcileCheckoutSessions(row, customerId, user, token, plan, pri
   }
   if (reusable) {
     const current = await stripe.checkout.sessions.retrieve(reusable.id);
-    if (current.status === 'open' && current.url) return { url: current.url };
+    if (current.status === 'open' && current.url) {
+      // Checkout sessions made before GA4 existed can remain open and reusable.
+      // Add attribution to the Stripe Session itself; subscription_data cannot be
+      // retroactively updated. Invoice reporting also checks session metadata.
+      if (analytics?.client_id && !current.metadata?.ga4_client_id) {
+        const patched = await stripe.checkout.sessions.update(current.id, { metadata: {
+          ...current.metadata,
+          ga4_client_id: analytics.client_id,
+          ...(analytics.session_id ? { ga4_session_id: analytics.session_id } : {}),
+        } });
+        if (patched.status === 'open' && patched.url) return { url: patched.url };
+        await reconcileClosedSession(patched, user.id, token, deps);
+      }
+      return { url: current.url };
+    }
     await reconcileClosedSession(current, user.id, token, deps);
   }
   return null;
@@ -147,7 +161,7 @@ export async function createCheckout(user, plan, deps, analytics = null) {
       throw new HttpError(409, 'SUBSCRIPTION_EXISTS', 'Você já possui uma assinatura. Gerencie seu plano na área da conta.');
     }
 
-    const reusable = await reconcileCheckoutSessions(row, customerId, user, token, plan, price.id, deps);
+    const reusable = await reconcileCheckoutSessions(row, customerId, user, token, plan, price.id, deps, analytics);
     if (reusable) return reusable;
 
     // No prior session remains payable. Refresh subscriptions after reconciliation,
