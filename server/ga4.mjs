@@ -63,10 +63,34 @@ export async function reportFirstPaidInvoice(event, deps, fetchImpl = fetch) {
     const id = subscriptionId(invoice);
     if (id) {
       const subscription = await deps.stripe.subscriptions.retrieve(id);
-      if (subscription.customer === invoice.customer ||
-          subscription.customer?.id === invoice.customer) {
+      const subscriptionCustomerId = typeof subscription.customer === 'string'
+        ? subscription.customer : subscription.customer?.id;
+      const invoiceCustomerId = typeof invoice.customer === 'string'
+        ? invoice.customer : invoice.customer?.id;
+      if (subscriptionCustomerId === invoiceCustomerId) {
         meta = safeMetadata(subscription.metadata, userId);
       }
+    }
+  }
+  // A previously open Checkout Session may have been created before subscription
+  // metadata included GA4 IDs. Find the completed session for this invoice's
+  // subscription, checking the same Stripe customer and verified app/user.
+  if (!meta && subscriptionId(invoice) && deps.stripe.checkout?.sessions?.list) {
+    const expectedSubscriptionId = subscriptionId(invoice);
+    const invoiceCustomerId = typeof invoice.customer === 'string'
+      ? invoice.customer : invoice.customer?.id;
+    for await (const session of deps.stripe.checkout.sessions.list({
+      customer: invoiceCustomerId, limit: 100,
+    })) {
+      const sessionSubscriptionId = typeof session.subscription === 'string'
+        ? session.subscription : session.subscription?.id;
+      const sessionCustomerId = typeof session.customer === 'string'
+        ? session.customer : session.customer?.id;
+      if (session.status !== 'complete' || session.payment_status !== 'paid' ||
+          session.mode !== 'subscription' || sessionCustomerId !== invoiceCustomerId ||
+          sessionSubscriptionId !== expectedSubscriptionId) continue;
+      meta = safeMetadata(session.metadata, userId);
+      if (meta) break;
     }
   }
   if (!meta) return { skipped: 'no_attributable_checkout' };
