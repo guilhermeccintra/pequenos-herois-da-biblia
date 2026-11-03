@@ -109,11 +109,22 @@ export function createGa4Tracker({ win, doc, id = GA4_ID, threshold = 40 }) {
 
   function beginCheckout(plan) {
     const offer = GA4_OFFERS[plan];
-    if (!installed || !offer) return;
-    win.gtag('event', 'begin_checkout', {
-      currency: 'BRL',
-      value: offer.price,
-      items: [{ ...offer, quantity: 1 }],
+    if (!installed || !offer) return Promise.resolve();
+    return new Promise((resolve) => {
+      let finished = false;
+      const finish = () => {
+        if (finished) return;
+        finished = true;
+        win.clearTimeout(timeout);
+        resolve();
+      };
+      const timeout = win.setTimeout(finish, 450);
+      win.gtag('event', 'begin_checkout', {
+        currency: 'BRL',
+        value: offer.price,
+        items: [{ ...offer, quantity: 1 }],
+        event_callback: finish,
+      });
     });
   }
 
