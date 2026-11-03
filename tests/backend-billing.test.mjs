@@ -261,3 +261,22 @@ test('checkout securely carries GA4 client and session identifiers into Stripe s
   assert.equal(payload.subscription_data.metadata.email, undefined);
   assert.equal(payload.subscription_data.metadata.amount, undefined);
 });
+
+
+test('a reusable checkout created before GA4 gets session metadata without creating a second charge', async () => {
+  const deps = fixture();
+  const prior = priorSession();
+  deps.state.sessions.set(prior.id, prior);
+  deps.stripe.checkout.sessions.update = async (id, payload) => {
+    assert.equal(id, prior.id);
+    assert.equal(payload.metadata.ga4_client_id, '123.456');
+    assert.equal(payload.metadata.ga4_session_id, '789');
+    const updated = { ...prior, metadata: payload.metadata };
+    deps.state.sessions.set(id, updated);
+    return structuredClone(updated);
+  };
+  const result = await billing.createCheckout(user, 'monthly', deps, { client_id: '123.456', session_id: '789' });
+  assert.equal(result.url, prior.url);
+  assert.equal(deps.state.created.length, 0);
+  assert.equal(deps.state.sessions.get(prior.id).metadata.ga4_client_id, '123.456');
+});
