@@ -37,7 +37,8 @@ function runtime(name) {
       }
       return data.user;
     },
-    config: { complimentaryEmail: process.env.COMPLIMENTARY_ACCESS_EMAIL?.trim() || '' },
+    config: { complimentaryEmail: process.env.COMPLIMENTARY_ACCESS_EMAIL?.trim() || '',
+      ga4ApiSecret: process.env.GA4_API_SECRET?.trim() || '' },
   };
   if (['checkout', 'portal', 'webhook'].includes(name)) {
     stripe ??= new Stripe(required('STRIPE_SECRET_KEY'), {
