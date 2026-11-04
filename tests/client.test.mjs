@@ -29,8 +29,8 @@ test('progresso preserva os novos IDs inclusive 100 e 365',()=>{
 
 test('mensalidade e economia anual exibidas na landing e no FAQ estão atualizadas', () => {
  const html = landing([]);
- assert.match(html, /<strong>37<\/strong><span>,90 \/ mês<\/span>/);
- assert.match(html, /Economize R\$ 257,80 em relação a 12 mensalidades\./);
- assert.match(html, /O mensal custa R\$ 37,90 por mês\./);
- assert.doesNotMatch(html, /29,90|161,80/);
+ assert.match(html, /<strong>29<\/strong><span>,90 \/ mês<\/span>/);
+ assert.match(html, /Economize R\$ 161,80 em relação a 12 mensalidades\./);
+ assert.match(html, /O mensal custa R\$ 29,90 por mês\./);
+ assert.doesNotMatch(html, /37,90|257,80/);
 });

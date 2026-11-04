@@ -5,7 +5,7 @@ import * as billing from '../server/billing.mjs';
 const config = { prices: { monthly: 'price_monthly', annual: 'price_annual' }, appUrl: 'https://example.test' };
 const now = () => Date.parse('2026-10-30T12:00:00Z');
 const user = { id: '11111111-1111-4111-8111-111111111111', email: 'parent@example.test' };
-const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 3790, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
+const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 2990, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
 const sub = { id: 'sub_new', status: 'active', customer: 'cus_parent', created: 1793350000, items: { data: [{ quantity: 1, price, current_period_end: 1796040000 }], has_more: false } };
 
 // Only remote boundaries are replaced. Real billing orchestration and rules run.

@@ -1,12 +1,15 @@
 /** Server-owned commercial and access rules. Never import this module into the client. */
 export const PLANS = Object.freeze({
-  monthly: Object.freeze({ amount: 3790, interval: 'month' }),
+  monthly: Object.freeze({ amount: 2990, interval: 'month' }),
   annual: Object.freeze({ amount: 19700, interval: 'year' }),
 });
 
 // Keep previously purchased monthly subscriptions valid when the checkout price changes.
-// This ID is accepted for existing Stripe subscriptions only, never for new checkouts.
-const LEGACY_MONTHLY_PRICE = Object.freeze({ id: 'price_1UWoyACdgeVwNcuus4xyAppm', amount: 2990, interval: 'month' });
+// These IDs preserve existing subscriptions; new checkouts require the configured price.
+const LEGACY_MONTHLY_PRICES = Object.freeze([
+  Object.freeze({ id: 'price_1UWoyACdgeVwNcuus4xyAppm', amount: 2990, interval: 'month' }),
+  Object.freeze({ id: 'price_1UXVH0CdgeVwNcuumglViSbX', amount: 3790, interval: 'month' }),
+]);
 
 export class HttpError extends Error {
   constructor(status, code, message) {
@@ -79,14 +82,14 @@ export function validatePrice(price, plan, priceIds, { requireActive = true } = 
 
 function subscriptionState(subscription, priceIds) {
   const item = subscription.items?.data?.[0];
-  const legacyMonthly = item?.price?.id === LEGACY_MONTHLY_PRICE.id;
+  const legacyMonthly = LEGACY_MONTHLY_PRICES.find((price) => price.id === item?.price?.id);
   const plan = legacyMonthly ? 'monthly' :
     Object.keys(PLANS).find((key) => priceIds[key] === item?.price?.id) ?? null;
   const end = item?.current_period_end;
   let valid = subscription.items?.data?.length === 1 && !subscription.items?.has_more &&
     item.quantity === 1 && Number.isSafeInteger(end) && end > 0;
   if (legacyMonthly) {
-    valid = valid && matchesPrice(item?.price, LEGACY_MONTHLY_PRICE, LEGACY_MONTHLY_PRICE.id, false);
+    valid = valid && matchesPrice(item?.price, legacyMonthly, legacyMonthly.id, false);
   } else {
     try { validatePrice(item?.price, plan, priceIds, { requireActive: false }); }
     catch { valid = false; }
@@ -105,7 +108,7 @@ export function selectSubscription(subscriptions, priceIds, now = Date.now()) {
   // are only notifications, never the source of an entitlement snapshot.
   const candidates = subscriptions
     .filter((sub) => sub.items?.data?.some((item) =>
-      Object.values(priceIds).includes(item.price?.id) || item.price?.id === LEGACY_MONTHLY_PRICE.id))
+      Object.values(priceIds).includes(item.price?.id) || LEGACY_MONTHLY_PRICES.some((price) => price.id === item.price?.id)))
     .map((sub) => ({ ...subscriptionState(sub, priceIds), created: sub.created ?? 0 }));
   const blocking = new Set(['active', 'trialing', 'past_due', 'unpaid', 'paused', 'incomplete', 'invalid_price']);
   candidates.sort((a, b) => Number(hasAccess(b, now)) - Number(hasAccess(a, now)) ||

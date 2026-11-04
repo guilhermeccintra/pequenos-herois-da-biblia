@@ -8,6 +8,6 @@ PEQUENOS HERÓIS — WEBAPP COMPLETO
 6. Crie repositório PRIVADO, porque esta pasta inclui o conteúdo comercial completo. Nunca envie .env ou chaves secretas.
 7. Antes de vender: configure suas contas, publique as funções, teste checkout/webhook/auth e personalize dados de atendimento/termos.
 
-Planos preparados: R$ 37,90 por mês e R$ 197 por ano. Nenhuma cobrança real foi executada nesta entrega.
+Planos preparados: R$ 29,90 por mês e R$ 197 por ano. Nenhuma cobrança real foi executada nesta entrega.
 
 ATUALIZAÇÃO: se já instalou a edição de 40 histórias, aplique a migração 202610300002_expand_365.sql antes de reimportar o conteúdo. O README explica a atualização sem perder progresso.

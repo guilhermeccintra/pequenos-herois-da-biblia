@@ -2,7 +2,7 @@
 
 Webapp de histórias bíblicas ilustradas para crianças de 6 a 12 anos, com conta do responsável, landing page, biblioteca e leitura dentro do aplicativo.
 
-**Conteúdo já incluído:** 365 histórias completas, uma para cada dia do ano; 1.460 ilustrações otimizadas (capa e três cenas por história), 365 reflexões, 365 perguntas e 365 orações. **Planos:** R$ 37,90/mês e R$ 197/ano. O anual é cobrado de uma vez; a equivalência de R$ 16,42/mês não é parcelamento.
+**Conteúdo já incluído:** 365 histórias completas, uma para cada dia do ano; 1.460 ilustrações otimizadas (capa e três cenas por história), 365 reflexões, 365 perguntas e 365 orações. **Planos:** R$ 29,90/mês e R$ 197/ano. O anual é cobrado de uma vez; a equivalência de R$ 16,42/mês não é parcelamento.
 
 Veja o [índice das 365 leituras](docs/INDICE-365.md) e o [registro da ampliação e das verificações](docs/AMPLIACAO-365.md).
 
@@ -89,7 +89,7 @@ O primeiro comando valida 365 histórias e 1.460 imagens, sem chave ou upload. O
 Esta é a integração de pagamento escolhida nesta versão. O Checkout aceita cartão. PIX não foi implementado ou prometido para assinaturas.
 
 1. Comece em **modo de teste**.
-2. Crie o produto e dois preços recorrentes em BRL: **R$ 37,90 / 1 mês** e **R$ 197 / 1 ano**. Quantidade fixa 1, sem trial nem cobrança medida.
+2. Crie o produto e dois preços recorrentes em BRL: **R$ 29,90 / 1 mês** e **R$ 197 / 1 ano**. Quantidade fixa 1, sem trial nem cobrança medida.
 3. Copie cada `price_...` para `STRIPE_PRICE_MONTHLY` e `STRIPE_PRICE_ANNUAL`. Para novas compras mensais, atualize o ID de `STRIPE_PRICE_MONTHLY` no ambiente da Vercel e faça novo deploy. Esse é um ID de preço, não um link `buy.stripe.com`: o botão da landing cria uma sessão Stripe Checkout via `/api/checkout`. Assinaturas antigas no preço mensal anterior continuam reconhecidas pelo backend; alterar o preço de assinaturas já existentes requer uma migração separada no Stripe.
 4. Copie a chave secreta de teste para `STRIPE_SECRET_KEY`.
 5. Ative o Customer Portal para atualização do pagamento e cancelamento. Se habilitar troca de plano, restrinja aos dois preços e decida conscientemente a configuração de prorrata.
@@ -115,7 +115,7 @@ O servidor confere os valores/recorrências dos preços no Stripe. Não libere a
 | `APP_URL` | Servidor | Origem HTTPS final, sem caminho ou parâmetros |
 | `STRIPE_SECRET_KEY` | Servidor | Chave secreta Stripe |
 | `STRIPE_WEBHOOK_SECRET` | Servidor | Segredo do webhook deste ambiente |
-| `STRIPE_PRICE_MONTHLY` | Servidor | Preço recorrente de R$ 37,90/mês |
+| `STRIPE_PRICE_MONTHLY` | Servidor | Preço recorrente de R$ 29,90/mês |
 | `STRIPE_PRICE_ANNUAL` | Servidor | Preço recorrente de R$ 197/ano |
 
 4. Faça o deploy. Atualize `APP_URL` e os redirecionamentos Supabase se a URL inicial ainda não era conhecida; faça novo deploy.

@@ -100,7 +100,7 @@ const paidInvoice = {
   customer: 'cus_1',
   billing_reason: 'subscription_create',
   status: 'paid',
-  amount_paid: 3790,
+  amount_paid: 2990,
   currency: 'brl',
   parent: { subscription_details: { subscription: 'sub_1' } },
 };
@@ -110,7 +110,7 @@ test('GA4 purchase reports the confirmed first invoice, exact paid amount and no
   assert.equal(event.client_id, '123.456');
   assert.equal(event.events[0].name, 'purchase');
   assert.equal(event.events[0].params.transaction_id, paidInvoice.id);
-  assert.equal(event.events[0].params.value, 37.9);
+  assert.equal(event.events[0].params.value, 29.9);
   assert.equal(event.events[0].params.currency, 'BRL');
   assert.equal(event.events[0].params.session_id, 789);
   assert.ok(!JSON.stringify(event).includes('owner-1'));

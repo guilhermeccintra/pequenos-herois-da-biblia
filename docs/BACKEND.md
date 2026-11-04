@@ -18,7 +18,7 @@ Crie preços **recorrentes em BRL**, com quantidade fixa 1 e sem medição de us
 
 | Variável | Valor unitário | Recorrência |
 | --- | --- | --- |
-| `STRIPE_PRICE_MONTHLY` | 3790 centavos | 1 mês |
+| `STRIPE_PRICE_MONTHLY` | 2990 centavos | 1 mês |
 | `STRIPE_PRICE_ANNUAL` | 19700 centavos | 1 ano |
 
 O servidor verifica ID, valor, moeda, modelo de cobrança e recorrência no próprio Stripe antes de criar Checkout. Cupons, trials, variação de quantidade e Adaptive Pricing não são oferecidos. Checkout usa cartão, inclusive para a assinatura anual, e mantém a moeda BRL. Tributos automáticos estão desativados; configure o produto e os requisitos comerciais da operação antes de vender.

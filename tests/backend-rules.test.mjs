@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import * as rules from '../server/rules.mjs';
 const now = Date.parse('2026-10-30T12:00:00Z');
 const prices = { monthly: 'price_monthly', annual: 'price_annual' };
-const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 3790, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
+const price = { id: 'price_monthly', active: true, type: 'recurring', currency: 'brl', unit_amount: 2990, billing_scheme: 'per_unit', recurring: { interval: 'month', interval_count: 1, usage_type: 'licensed' } };
 const active = { id: 'sub_current', customer: 'cus_owner', created: 1793304000, status: 'active', cancel_at_period_end: false, items: { data: [{ quantity: 1, current_period_end: 1796040000, price }], has_more: false } };
 
 test('complimentary access requires a verified server-authenticated matching email', () => {
@@ -44,7 +44,7 @@ test('server rejects configured prices with wrong money, currency, recurrence or
   assert.equal(rules.validatePrice(price, 'monthly', prices), true);
   assert.equal(rules.validatePrice({ ...price, id: 'price_annual', unit_amount: 19700, recurring: { interval: 'year', interval_count: 1, usage_type: 'licensed' } }, 'annual', prices), true);
   for (const bad of [
-    { unit_amount: 2990 }, { unit_amount: 47 }, { currency: 'usd' }, { id: 'price_other' }, { active: false },
+    { unit_amount: 3790 }, { unit_amount: 47 }, { currency: 'usd' }, { id: 'price_other' }, { active: false },
     { recurring: { interval: 'year', interval_count: 1 } },
     { recurring: { interval: 'month', interval_count: 2 } },
     { recurring: { interval: 'month', interval_count: 1, usage_type: 'metered' } },
@@ -97,4 +97,16 @@ test('media URLs expire no later than the entitlement and reject traversal', () 
   assert.throws(() => rules.mediaLifetime(null, now), (error) => error.status === 403);
   assert.equal(rules.safeAssetPath('02/part1.webp'), '02/part1.webp');
   for (const bad of ['../secret', '/02/part1.webp', 'https://x.test/x', '02/../part1.webp', '02\\part1.webp', '02/x%2Fy.webp']) assert.throws(() => rules.safeAssetPath(bad));
+});
+
+
+test('previous 37.90 subscriptions retain access but cannot be used for new checkout', () => {
+  const previousPrice = { ...price, id: 'price_1UXVH0CdgeVwNcuumglViSbX', unit_amount: 3790 };
+  const previous = { ...active, items: { data: [{ ...active.items.data[0], price: previousPrice }], has_more: false } };
+  const snapshot = rules.selectSubscription([previous], prices, now);
+  assert.equal(rules.hasAccess(snapshot, now), true);
+  assert.equal(rules.blocksNewSubscription(snapshot), true);
+  assert.throws(() => rules.validatePrice(previousPrice, 'monthly', { ...prices, monthly: previousPrice.id }));
+  const tampered = { ...previous, items: { data: [{ ...previous.items.data[0], price: { ...previousPrice, unit_amount: 2990 } }], has_more: false } };
+  assert.equal(rules.hasAccess(rules.selectSubscription([tampered], prices, now), now), false);
 });
