@@ -1512,6 +1512,34 @@ input {
   height: 42px;
   margin: 15px 0 10px;
 }
+.part-audio {
+  margin-bottom: 28px;
+  padding: 20px;
+}
+.part-audio .audio-heading {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 6px;
+  color: #2c5365;
+  font-size: 1rem;
+}
+.part-audio .audio-heading .icon {
+  flex-shrink: 0;
+}
+.part-audio audio {
+  display: block;
+  min-width: 0;
+}
+body[data-reader-night="true"] .part-audio {
+  background: #233944;
+  border-color: #425e6c;
+  color: #e2edf2;
+  color-scheme: dark;
+}
+body[data-reader-night="true"] .part-audio p {
+  color: #d4e4ec;
+}
 .speed-control {
   font-size: 0.75rem;
   display: flex;

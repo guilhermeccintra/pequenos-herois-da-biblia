@@ -6,6 +6,7 @@ import { escapeHtml as e, filterStories } from "./core.js";
 import { landing } from "./landing.js";
 import { library, storyCard, paywall } from "./library.js";
 import { reader } from "./reader.js";
+import { captureReaderAudio, restoreReaderAudio } from "./reader-audio.js";
 import { authView, accountView } from "./auth.js";
 import { legalPage } from "./legal.js";
 import { createMetaPixelTracker } from "./meta-pixel.js";
@@ -218,27 +219,15 @@ async function favorite(id) {
 }
 function redrawReader() {
   if (!state.story) return;
-  const audio = document.querySelector("audio");
-  const audioState = audio
-    ? {
-        time: audio.currentTime,
-        paused: audio.paused,
-        rate: audio.playbackRate,
-      }
-    : null;
+  const audioState = captureReaderAudio(document.querySelector("audio"));
   const root = document.querySelector(".reader-page");
   root.outerHTML = reader(state.story, state);
   bindReader();
-  const next = document.querySelector("audio");
-  if (next && audioState) {
-    next.playbackRate = audioState.rate;
-    const restore = () => {
-      next.currentTime = audioState.time;
-      if (!audioState.paused) next.play().catch(() => {});
-    };
-    if (next.readyState >= 1) restore();
-    else next.addEventListener("loadedmetadata", restore, { once: true });
-  }
+  restoreReaderAudio(
+    document.querySelector("audio"),
+    audioState,
+    document.querySelector("#audio-speed"),
+  );
   document
     .querySelector("#reading-content")
     ?.scrollIntoView({ behavior: "instant", block: "start" });

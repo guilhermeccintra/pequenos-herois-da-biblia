@@ -1,6 +1,16 @@
 # Narração das 365 histórias
 
-A entrega contém os textos completos e scripts para produzir ou importar áudio. **Não contém narrações prontas nem simula voz no navegador.** Todas as histórias começam com `audio_path: null`; o player só aparece depois de um MP3 real ser associado no banco e entregue pela API como URL assinada.
+A história 1, **A Criação do Mundo**, contém três MP3s enviados pelo responsável pelo projeto. Cada player aparece acima do título da sua parte, com controle de velocidade e sem reprodução automática. O bloco lateral “Hora de ouvir” não aparece nas histórias com áudio por parte, inclusive na tela de reflexão. Histórias sem áudio e gravações completas continuam usando o comportamento anterior.
+
+Como a história 1 já é a amostra gratuita, somente seus três MP3s são servidos pelo próprio site em `public/audio/sample/`. Os campos `parts[].audio_url` em `public/sample.json`, `content/stories.json` e `stories.body` no Supabase apontam para esses mesmos arquivos. Não há chaves de acesso nem URLs temporárias nesses campos. Não use esta pasta para narrações das histórias pagas; elas continuam destinadas ao bucket privado `story-assets`.
+
+| Parte | Arquivo recebido | URL no site |
+| --- | --- | --- |
+| 1 | A primeira luz.mp3 | `/audio/sample/part1-27167b1a.mp3` |
+| 2 | Um mundo cheio de vida.mp3 | `/audio/sample/part2-e8b1752b.mp3` |
+| 3 | Um jardim para cuidar.mp3 | `/audio/sample/part3-7435a3b7.mp3` |
+
+Os MP3s são os originais, sem reconversão. O sufixo identifica os oito primeiros caracteres do SHA-256 para evitar conteúdo antigo em cache quando houver uma nova versão. Os testes conferem o hash completo e a associação de cada parte. O campo de narração completa `audio_path` permanece `null`: esses três áudios não incluem a reflexão, a pergunta ou a oração finais.
 
 Há duas opções distintas:
 
